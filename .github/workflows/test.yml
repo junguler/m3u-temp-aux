@@ -10,7 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          for i in $(cat places.txt) ; do curl -s https://radio.garden/api/ara/content/secure/page/$i -H 'User-Agent: Mozilla/5.0' --compressed > $i.json ; done
+          for i in *.json ; do cat $i | jq -r '.data.content[].items[]?.page | "\\(.subtitle) - \\(.title) - \\(.url)"' >> every.txt ; done
 
       - name: git stuff
         run: |
