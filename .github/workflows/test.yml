@@ -10,7 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          for i in *.json ; do cat $i | jq -r '.data.content[].items[]?.page | "\\(.subtitle) - \\(.title) - \\(.url)"' >> every.txt ; done
+          for i in *.txt ; do for j in $(cat $i) ; do echo $j | awk -F '/' '{print $1}' | awk '{print "#EXTINF:-1,"$0}' >> A$i ; curl -s https://radio.garden/api/ara/content/listen/$(echo $j | awk -F '/' '{print $2}')/channel.mp3 -H 'User-Agent: Mozilla/5.0' -H 'Accept: audio/*' -H 'Range: bytes=0-' -H 'Connection: keep-alive' -H 'DNT: 1' | awk -F '"' '{print $2}' | sed 's/\\;//g' | sed '/^$/d' >> A$i ; echo -e "$i - $j" ; done ; done
 
       - name: git stuff
         run: |
