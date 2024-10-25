@@ -10,7 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          for i in $(cat list.txt) ; do curl -s "https://api.tunein.com/profiles?fullTextSearch=true&query=$i&filter=s&ignoreProfileRedirect=true&ignoreCategoryRedirect=true&formats=mp3,aac,ogg,flash,html,hls,wma&partnerId=RadioTime&version=6.71&itemUrlScheme=secure&reqAttempt=1" --compressed -H 'User-Agent: Mozilla/5.0' -H 'Accept: application/json' > $i.json ; done
+          for i in $(cat list.txt) ; do curl -s "https://api.tunein.com/profiles?fullTextSearch=true&query=$i&filter=s&ignoreProfileRedirect=true&ignoreCategoryRedirect=true&formats=mp3,aac,ogg,flash,html,hls,wma&partnerId=RadioTime&version=6.71&itemUrlScheme=secure&reqAttempt=1" --compressed -H 'User-Agent: Mozilla/5.0' -H 'Accept: application/json' > $i.json ; echo $i ; done
 
       - name: git stuff
         run: |
