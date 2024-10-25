@@ -1,0 +1,13 @@
+#EXTINF:-1,s20293
+https://dispatcher.rndfnk.com/swr/swr4/bw/aac/96/stream.aac?aggregator=tunein
+https://dispatcher.rndfnk.com/swr/swr4/bw/mp3/128/stream.mp3?aggregator=tunein
+https://dispatcher.rndfnk.com/swr/swr4/bw/aac/48/stream.aac?aggregator=tunein
+#EXTINF:-1,s20291
+https://dispatcher.rndfnk.com/swr/swr1/bw/aac/96/stream.aac?aggregator=tunein
+https://dispatcher.rndfnk.com/swr/swr1/bw/mp3/128/stream.mp3?aggregator=tunein
+https://dispatcher.rndfnk.com/swr/swr1/bw/aac/48/stream.aac?aggregator=tunein
+#EXTINF:-1,s308579
+https://streams.egofm.de/egoFMBW-lq
+https://streams.egofm.de/egoFMBW-hq
+#EXTINF:-1,s297428
+http://uk1.streamingpulse.com:8092/;stream.mp3
