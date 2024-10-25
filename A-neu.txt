@@ -1,0 +1,14 @@
+#EXTINF:-1,s272862_____ROCK_FM_-_Rhein-Neckar_____1,61
+https://stream.regenbogen2.de/rheinneckar/mp3-128/tunein
+#EXTINF:-1,s307858_____DONAU_3_FM_____1,3
+https://frontend.streamonkey.net/donau3fm-live?aggregator=tunein
+#EXTINF:-1,s74984_____1.FM_-_A_List_80s_____1,2755
+http://www.1.fm/tunestream/back280s/listen.pls
+#EXTINF:-1,s250287_____1A_Neuheiten_____1,22
+https://stream.1a-webradio.de/saw-neuheiten/aac-48/tunein/stream.mp3
+#EXTINF:-1,s101052_____45_RPM_____1,4162,106,11,2698,16,19,115,59,61
+https://45-rpm.stream.laut.fm/45-rpm?ref=radiodns
+#EXTINF:-1,s121501_____Radio_OKJ_____1,61
+http://tbradio.de/okj
+#EXTINF:-1,s309586_____gong_fm_DJ-Mix_____1,59
+https://frontend.streamonkey.net/gongfm-djmix?aggregator=tunein

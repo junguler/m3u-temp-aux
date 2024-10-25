@@ -1,0 +1,12 @@
+#EXTINF:-1,s156188_____Kıyı_Müzik_____1,2748
+http://proxima.shoutca.st:8223/stream
+#EXTINF:-1,s16660_____ORF_Radio_Oberoesterreich_____4137,26,1
+https://orf-live.ors-shoutcast.at/ooe-q2a
+#EXTINF:-1,s96141_____baden.fm_OnAir_____1,61
+https://frontend.streams.baden.fm/badenfm-onair?aggregator=TuneIn
+#EXTINF:-1,s267950_____Klassik_Radio_Best_of_Till_Brönner_Show_____1,11,71
+https://stream.klassikradio.de/tillbroenner/aac-128/tunein
+#EXTINF:-1,s308149_____MDR_THÜRINGEN_Suhl_____266,2
+https://mdr-284300-3.sslcast.mdr.de/mdr/284300/3/aac/high/stream.aac?aggregator=tunein
+#EXTINF:-1,s14598_____극동방송FM_____17,99,1
+http://mlive2.febc.net:1935/live/seoulfmapp/playlist.m3u8
