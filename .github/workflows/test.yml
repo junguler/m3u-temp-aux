@@ -10,7 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          for i in *.txt ; do for j in $(cat $i) ; do grep -A1 $j hold_ | awk 'length>4' >> A-$i ; echo -e '$i - $j' ; done ; done
+          for i in *.txt ; do for j in $(cat $i) ; do grep -A1 $j hold_ | awk 'length>4' >> A-$i ; echo -e "$i - $j" ; done ; done
 
       - name: git stuff
         run: |
