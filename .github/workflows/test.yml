@@ -10,7 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          for i in *.txt ; do for j in $(cat $i) ; do echo $j | awk '{print "#EXTINF:-1,"$0}' >> A-$i ; curl -s "https://opml.radiotime.com/Tune.ashx?id=$(echo $j | awk -F '_____' '{print $1}')&formats=mp3,aac,ogg,flash,html,hls,wma&version=6.71&itemUrlScheme=secure&render=json&reqAttempt=1" --compressed -H 'User-Agent: Mozilla/5.0' -H 'Accept: application/json' -H 'Referer: https://tunein.com/' | grep url | awk -F '"' '{print $4}' >> A-$i ; echo -e "$i - $j" ; done ; done
+          for i in "" \&offset={48..59040..48} ; do curl -s 'https://api.programmes-radio.com/stream?sort=popularity$i' --compressed -H 'User-Agent: Mozilla/5.0' -H 'Accept: */*' >> main.json ; echo $i ; done
 
       - name: git stuff
         run: |
