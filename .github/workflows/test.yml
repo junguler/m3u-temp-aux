@@ -10,8 +10,6 @@ jobs:
 
       - name: run commands
         run: |
-          sudo apt update
-          sudo apt upgrade
           sudo apt install tor -y
           sudo systemctl start tor
           sleep 10s
