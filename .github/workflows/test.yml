@@ -13,8 +13,7 @@ jobs:
           sudo apt install tor -y
           sudo systemctl start tor
           sleep 10s
-          curl --socks5-hostname localhost:9050 'http://ip-api.com/json' >> tor.txt
-          curl 'http://ip-api.com/json' >> notor.txt
+          for i in A-*.txt ; do for j in $(cat $i) ; do curl --socks5-hostname localhost:9050 -s https://www.allonlineradio.com/$j/ > mep1 ; cat mep1 | htmlq -t h2 | awk '{print "#EXTINF:-1,"$0}' >> A$i ; cat mep1 | grep "<source" | awk -F '"' '{print $2}' | sed 's/\;//g' | sed '/^$/d' | sed 's|?type=.mp3||g' >> A$i ; echo -e "$i - $j" ; done ; done
           sudo systemctl stop tor
 
       - name: git stuff
