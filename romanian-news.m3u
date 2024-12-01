@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,Arad_FM
+http://89.238.227.6:8354/;stream/1
+#EXTINF:-1,Radio_Romania_Antena_Sibiului
+http://89.238.227.6:8380/;
+#EXTINF:-1,Radio_Romania_Constanta
+http://89.238.227.6:8332/;

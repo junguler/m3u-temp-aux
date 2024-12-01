@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,Asian_Star_Radio
+http://icecast.commedia.org.uk:8000/asianstar.mp3
+#EXTINF:-1,Radio_Central_24
+https://casper.radioca.st/;

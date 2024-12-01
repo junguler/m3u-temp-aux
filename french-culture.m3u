@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,Радио_Монте-Карло_-_France
+https://montecarlo.hostingradio.ru/france96.aacp
+#EXTINF:-1,ICI_Radio-Canada_Première_Edmonton_-_90.1_FM_(CHFA-FM)
+https:/http:/cavliveaudio.akamaized.net/hls/live/2006949/P-2AEDM0_EDM/master.m3u8
+#EXTINF:-1,EnglishWaves
+https://streaming.englishwaves.fr/englishwavesclassique.mp3
+#EXTINF:-1,Couleurs_Lyon
+http://91.121.179.64:8000/Couleurslyon?1642512709058
+#EXTINF:-1,Couleurs_Nord-Isère
+http://91.121.179.64:8000/Couleurslyon?1642512371261
+#EXTINF:-1,Radio_Oxygène_Isère
+https://streamingp.shoutcast.comhttp:/adio-oxygene-grenoble-aac

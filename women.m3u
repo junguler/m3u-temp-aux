@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,M_Radio_-_Voix_Féminines
+https://mfmwr-013.ice.infomaniak.ch/mfmwr-013.mp3
+#EXTINF:-1,Jazz_Radio_-_Only_Women
+https://jazz-wr16.ice.infomaniak.ch/jazz-wr16-128.mp3
+#EXTINF:-1,KYRS_88.1_&amp;_92.3_FM_|_Thin_Air_Community_Radio_|_Spokane,_WA,_USA
+https://nustream.pacificaservice.org:9000/kyrs_128
+#EXTINF:-1,De_la_Mujer
+http://165.227.209.68:9990/;stream.mp3

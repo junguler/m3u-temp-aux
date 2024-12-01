@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1,KKCR_90.9_FM
+https://s8.phx.icastcenter.com:9000/stream
+#EXTINF:-1,Hawaiian_Music_Live
+http://s6.voscast.com:10108/;
+#EXTINF:-1,KKCR_Hanalei_Hawaii
+http://199.180.75.58:9000/stream
+#EXTINF:-1,Hula_Radio
+https://ais-edge103-live365-dal02.cdnstream.com/a20797
+#EXTINF:-1,KOKO-LP_96.3_FM
+http://s2.yesstreaming.net:7031/stream

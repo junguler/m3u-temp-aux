@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,FM_100_Pakistan_Karachi
+http://162.244.80.118:3024/stream.mp3?ver=349829
+#EXTINF:-1,FM_100_Pakistan_Hyderabad
+http://162.244.80.118:3024/stream.mp3?ver=517748
+#EXTINF:-1,Radio_Pakistan_Karachi_MW_639
+https://whmsonic.radio.gov.pk:7000/MW639khi?type=http&nocache=9
