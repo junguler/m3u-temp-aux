@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1,Metro_95.1
+403 https://26513.live.streamtheworld.com:443/METRO.mp3
+#EXTINF:-1,LU6_Radio_Atlántica
+200 http://173.255.205.241:9090/;stream.nsv
+#EXTINF:-1,Rádio_Argentina
+400 http://server.laradio.online:25224/live.mp3
+#EXTINF:-1,FM_Cielo
+https://streamall.alsolnet.com:443http:/adiocielo
+#EXTINF:-1,Sudameicana_FM
+400 http://turadioenvivo.com:8530/stream
+#EXTINF:-1,FM_Capital_Salta
+200 https://secure.streaming01.dwservers.net/8700/;
+#EXTINF:-1,Radio_Sur_FM_88.3
+200 https://01.solumedia.com.ar:8020/stream
+#EXTINF:-1,FM_La_Redonda
+http:/http:/adio.solumedia.com.ar:8290/;
+#EXTINF:-1,Radio_Comunitaria_FM_Punta_del_Indio
+200 http://streaming.conexionproductora.com.ar:9650/;
+#EXTINF:-1,Radio_Futura_-_FM_90.5_mhz
+400 https://streamer.fmfutura.com.ar/vivo.mp3
+#EXTINF:-1,Radio_Provincia_100.1_Ushuaia
+http://servidor2.serviciostreaming.com:9574/stream
+#EXTINF:-1,FM_94.3_Radio_Municipal_de_Toay
+http://servidor.ilive.com.ar:9678/;
+#EXTINF:-1,Radio_Pipí_Cucú
+https://comodin.uyhttp:/adio/8000/320.mp3
+#EXTINF:-1,Radio_El_Mundo_-_AM_1070
+200 https://streaming.escuchanosonline.com:7118//stream?type=http&nocache=1
+#EXTINF:-1,Radio_nacional_AM_870
+400 http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad1
+#EXTINF:-1,Cadena_Xeneize_Radio
+http://01.solumedia.com.ar:7459/stream
+#EXTINF:-1,Radio_Universidad_-_UNLP_-_AM_1390
+200 https://statics-v2.streema.com/static/audios/sample.ea78c3d52389.mp3
+#EXTINF:-1,LA_POSTA_DE_PERGAMINO_-_FM_101.7_MHZ
+400 http://streaming01.serverconnectinc.site:8439/stream
+#EXTINF:-1,Radio_Asamblea_-_FM_94.1_mhz
+400 http://server.laradio.online:25057/live?type=.mp3

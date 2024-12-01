@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1,QUB_radio
+403 https://19293.live.streamtheworld.com:443/QUB_RADIOAAC.aac
+#EXTINF:-1,CBC_Music
+200 https://cbcradiolive.akamaized.net/hls/live/2041057/ES_R2ETR/master.m3u8
+#EXTINF:-1,BFBS_Canada
+200 http://edge-audio-04-thn.sharp-stream.com/ssvcbfbs12.aac
+#EXTINF:-1,Ottawa_Live_885_(CLIVFM)
+200 https://newcap.leanstream.co/CILVFM-MP3?args=web_03
+#EXTINF:-1,WKND_99.5,_Montreal_City
+200 http://streaming.cjpx.leclerccommunication.ca:8000/cjpx.mp3?type=.mp3&1597284756
+#EXTINF:-1,CKGB-FM_99.3_&quot;Kiss_99.3_Timmins&quot;
+http:/http:/ogers.leanstream.cohttp:/ogers/tim993.stream/icy
+#EXTINF:-1,Freedom_Rock_Radio
+200 http://173.208.177.90:9322/;?type=http&nocache=56650
+#EXTINF:-1,ICI_Radio-Canada_Première_Gaspésie_-_Îles_de_la_Madeleine
+http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2QMAT0_MAT
+#EXTINF:-1,ICI_Radio-Canada_Première_Ottawa/Gatineau_(90.7)
+http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2OOTT0_OTT
+#EXTINF:-1,CFQR_600
+https://centova.radioservers.biz/proxy/canadai1/stream
+#EXTINF:-1,ICI_Radio-Canada_Première_Saguenay_Lac_Saint-Jean
+http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2QSAG0_SAG
+#EXTINF:-1,CBH-FM
+http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_hfx

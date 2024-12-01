@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,
+400 http://server.audiopedia.su:8000/ices128
+#EXTINF:-1,Старое_Радио_-_Детское
+400 http://server.audiopedia.su:8000/detskoe128
+#EXTINF:-1,WKCR
+200 https://wkcr.streamguys1.com/live
+#EXTINF:-1,Radiostorm_-_Comedy_104
+200 http://ais-edge90-dal03.cdnstream.com/b42761_64mp3
+#EXTINF:-1,Radio_Dobbstown
+http://streams.primesite7.com/Radio-Dobbstown.mp3
+#EXTINF:-1,Payphone_Radio
+200 http://104.167.4.67:8136/stream/;?d=
+#EXTINF:-1,Delmarva_FM
+200 https://jenny.torontocast.com:2000/stream/Delmarva
+#EXTINF:-1,CKUT_90.3_FM
+200 https://ckut.out.airtime.pro/ckut_a

@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1,Quran_in_Vietnamese
+200 https://www.qurantranslations.net/sound/English/AbdulBaset_AbdulSamad/002.mp3?type=.mp3/;stream.mp3
+#EXTINF:-1,VOH_99.9
+https://strm.voh.com.vnhttp:/adio/channel3/chunklist_w309271778.m3u8
+#EXTINF:-1,_VOV_5
+200 https://static.vovworld.vn/Uploaded/kimlan/2016_07_23/lan_het.mp3
+#EXTINF:-1,KVVN_1430_AM
+200 https://us2.maindigitalstream.com/ssl/KVVN
+#EXTINF:-1,Saigon_Radio
+https:/http:/adio.securenetsystems.net/v5/index.cfm?CFID=a0333bc3-2b38-4fb7-8b55-4bf06392fd0a&CFTOKEN=0&stationCallSign=KALI
+#EXTINF:-1,VOV_1
+200 https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
+#EXTINF:-1,Scientific_Sound_Asia_Radio
+https://carol.epichosts.co.uk:8270/live.mp3
+#EXTINF:-1,Nationwide_Viet_Radio
+200 http://vndcradio2.serverroom.us:4480/;
+#EXTINF:-1,VOV_2
+200 http://media.kythuatvov.vn:7003/;stream.nsv
+#EXTINF:-1,VOH_95.6
+https://strm.voh.com.vnhttp:/adio/channel1/playlist.m3u8
+#EXTINF:-1,VOH_610_AM
+https://strm.voh.com.vnhttp:/adio/channel2/chunklist_w290535666.m3u8
+#EXTINF:-1,VOV_4
+http://media.kythuatvov.vn:7035/;stream.nsv
+#EXTINF:-1,RADIO_VNCR_106.3_FM
+200 https://vncr.mixlr.com/
+#EXTINF:-1,Hanoi90
+400 http://14.162.146.90:8000/HANOI90
+#EXTINF:-1,Dai_Phat_Thanh_Viet_Nam
+200 https://c13.radioboss.fm:18127/stream
+#EXTINF:-1,RFI_Tiếng_Việt
+http:/http:/fivietnamien96k.ice.infomaniak.chhttp:/fivietnamien-96k.mp3
+#EXTINF:-1,Cai_Luong_Viet_Nam
+405 https://stream-158.zeno.fm/0trm6wrnga0uv?zs=RXv2nebKQU6b6Cla4chKqA
+#EXTINF:-1,Vietnam_ANTV
+200 http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+#EXTINF:-1,Vatican_News_-_Tiếng_việt
+https:/http:/adio.vaticannews.va/stream-vi
+#EXTINF:-1,Da_Nang_TV-2
+503 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+#EXTINF:-1,Hoa_Binh_TV
+200 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
+#EXTINF:-1,Xonefm
+https://vnno-pt-1-tf-playlist-live-zmp3.zadn.vn/hpOx2UjqVEQ/zhls/live/standard-audio/855a669d5ad8b386eac9/standard-audio.m3u8
+#EXTINF:-1,Đồng_Tháp
+http://202.43.109.144:1935/thdtradio/thdtradio/chunklist_w200358279.m3u8
+#EXTINF:-1,Tien_Giang_TV
+200 http://thtg.vn:8001/stream_hi.m3u8
+#EXTINF:-1,Da_Nang_Radio
+503 http://drtdnglive.e49a7c38.cdnviet.com/liveradio/playlist.m3u8
+#EXTINF:-1,TNT_Radio
+http://162.244.80.118:3092/stream/1/
+#EXTINF:-1,Tây_Ninh
+http://202.43.109.142:1935http:/adio11/tnradio/chunklist_w697011492.m3u8
+#EXTINF:-1,VOVMedia_-_VOV5_Phát_thanh_đối_ngoại
+200 http://media.kythuatvov.vn:7007/;stream/
+#EXTINF:-1,KBS_World_Vietnamese_Radio
+200 http://101.79.244.199:1935/cocotv/_definst_/CH00011/playlist.m3u8
+#EXTINF:-1,VOV2
+200 http://media.kythuatvov.vn:7003/;stream/
+#EXTINF:-1,VOVMedia_-_VOV_Giao_thông_Hồ_Chí_Minh
+200 http://media.kythuatvov.vn:7023/;stream/
+#EXTINF:-1,Ba_Ria-Vung_Tau_Radio
+http://113.163.216.23:1935/livehttp:/adio1.sdp_audio/playlist.m3u8
+#EXTINF:-1,VOV3
+200 http://media.kythuatvov.vn:7005/;stream/
+#EXTINF:-1,VOV_Giao_Thông_Hà_Nội
+200 http://media.kythuatvov.vn:7025/;stream/
+#EXTINF:-1,VOV1
+200 http://media.kythuatvov.vn:7001/;stream/
+#EXTINF:-1,Tien_Giang_Radio
+http://thtg.vn/livehttp:/adiohttp:/adiolive.m3u8

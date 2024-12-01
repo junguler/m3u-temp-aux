@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,Amalia_FM
+200 http://centova.radios.pt:9496/stream?1444874431322.mp3/;
+#EXTINF:-1,Radio_Art_-_Fado
+400 http://air.radioart.com/fFado.mp3?dlid=
+#EXTINF:-1,Radio_Regional_De_Arouca
+200 http://centova.radios.pt:8485/stream/;
+#EXTINF:-1,Radio_Felgueiras
+200 http://centova.radios.pt:8459/stream/;
+#EXTINF:-1,Radio_Clube_da_Feira
+200 http://centova.radio.com.pt:9544/;
+#EXTINF:-1,Radio_Fado_de_Coimbra
+200 https://nl.digitalrm.pt:8048/stream
+#EXTINF:-1,Antena_1_Fado_(RTP)
+http:/http:/adiocast.rtp.pt/antena1fado80a.mp3

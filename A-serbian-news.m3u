@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1,Naxi_Radio
+502 https://naxi64ssl.streaming.rs:9162/;stream.nsv
+#EXTINF:-1,RTV_Radio_Belle_Amie
+401 http://92.60.230.200:5040/;
+#EXTINF:-1,RadioChalgaHit
+404 https://a1.asurahosting.com/listenhttp:/adiochalgahithttp:/adio.mp3
+#EXTINF:-1,Panda_Radio
+400 https://stream.pandaradio.rs/pandaradio.ogg
+#EXTINF:-1,Radio_016
+http:/http:/adiostreaming.ninet.rs:8400/stream/1/;.mp3?_=1
+#EXTINF:-1,S4-Radio_|_SRB
+http://144.76.156.119:10000/stream.mp3
+#EXTINF:-1,Play_Radio_Party
+400 https://stream.playradio.rs:8443/party.aac
+#EXTINF:-1,Radio_Prijepolje
+https://cmr-hosting.com/9530/stream
+#EXTINF:-1,Radio_Šumadinac_Strana
+404 https://media.srb-streaming.com/streamhttp:/adio-sumadinac-strana?1638100930579
+#EXTINF:-1,Radio_Zlatar_Nova_Varoš
+http://195.252.113.118:8018/;&type=mp3
+#EXTINF:-1,Radio_Titograd_3
+200 https://stream2.rcast.net/62392
+#EXTINF:-1,Radio_Glas_Zapadne_Srbije
+405 https://usa10.fastcast4u.com:6510/stream
+#EXTINF:-1,Egata_Radio
+405 http://stream-148.zeno.fm/kcn3b5gfuhruv?zs=PRD2HPXBS32ub_JIrH21uQ
+#EXTINF:-1,Radio_Strela_(90.7_FM_-_Veliki_Popovic-Despotovac)
+http://176.9.59.144:8090/strela?type=http
+#EXTINF:-1,Radio_Džuboks
+http://176.9.59.144:8090/dzuboks
+#EXTINF:-1,Hit_FM_Radio_Beograd
+400 http://streaming.hitfm.rs:8000/hit
+#EXTINF:-1,Play_Radio_Serbia
+400 https://stream.playradio.rs:8443/play.mp3
+#EXTINF:-1,Rock_Radio_Belgrade_(Рок_Радио_Београд)
+https://mastermedia.shoutca.st/proxyhttp:/ockradio?mp=/stream
+#EXTINF:-1,Radio_Puls_Luxembourg
+200 https://uk1.listen2myradio.com:2199/listen.php?port=8312&type=s2&mount=/stream

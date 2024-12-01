@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,SomaFM_Folk_Forward
+200 https://ice4.somafm.com/folkfwd-128-mp3
+#EXTINF:-1,soma_fm_Folk_Forward
+200 http://ice6.somafm.com/folkfwd-128-aac
+#EXTINF:-1,RADIO_JENG_SRI_FM_107.2
+200 https://c4.siar.us:8083/stream
+#EXTINF:-1,Geheime_zender_muziek_en_piratenmuziek_luisteren
+302 https://stream.geheimezenderstream.nl/stream_

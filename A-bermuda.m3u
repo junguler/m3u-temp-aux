@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1,Ocean_89
+400 http://us2.internet-radio.com:8016/live
+#EXTINF:-1,Magic_102.7_FM
+200 https://iic.streamguys1.com/MAGIC
+#EXTINF:-1,Irie_FM
+200 https://cp12.shoutcheap.com:18151/stream
+#EXTINF:-1,POWER_95_FM
+400 http://us3.internet-radio.com:8026/live
+#EXTINF:-1,Vibe_103_FM
+http://69.46.24.226:7099/mp3
+#EXTINF:-1,Hott_FM
+200 https://iic.streamguys1.com/HOTT?starttime=1586769753
+#EXTINF:-1,Bermuda_College_Radio
+200 https://streaming.radio.co/sbba10f75f/listen
+#EXTINF:-1,Inspire_105
+400 http://us1.internet-radio.com:8008/live
+#EXTINF:-1,VSB_MIX_106_FM
+400 https://edward-gecko.radioca.st/stream
+#EXTINF:-1,Vogue_Play_|_Bermuda
+302 https://stream-052.zeno.fm/gtvdg7xqc18uv?zs=f1opmE7JRySWj-6gktSU6A
+#EXTINF:-1,Radio_Fe_y_Caridad
+200 https://c11.radioboss.fm:18300/stream
+#EXTINF:-1,CRCB_Internet_Radio
+200 https://or.mysonicserver.com/8042/stream
+#EXTINF:-1,Dr._Dick’s_Dub_Shack
+200 http://streamer.radio.co/s0635c8b0d/listen?fbclid=IwAR16t5mC5UFT9Fp8pbWe0dvYn9VEI3FYJTogE5AJtUF3G1dJi38lwLgD9as
+#EXTINF:-1,dr_dick&#039;s_dub_shack
+200 https://streamer.radio.co/s0635c8b0d/listen

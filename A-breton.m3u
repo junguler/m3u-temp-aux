@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,Radio_Kerne
+https:/http:/adiokerne.ice.infomaniak.chhttp:/adiokerne-192.mp3
+#EXTINF:-1,Radio_Bro_Gwened
+404 https://stream.radios.bzh/listenhttp:/bghttp:/adio.mp3
+#EXTINF:-1,Radio_Naoned
+https:/http:/adionaoned.ice.infomaniak.chhttp:/adionaoned-128.mp3
+#EXTINF:-1,TVR_(TV_Rennes_35)
+200 https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
+#EXTINF:-1,Canal_Breizh
+400 http://cast.canalbreizh.bzh/canalbreizh-hd-mp3
+#EXTINF:-1,RKB_(Radio_Kreiz_Breizh)
+http:/http:/kb.online.radiobreizh.bzh/live.mp3

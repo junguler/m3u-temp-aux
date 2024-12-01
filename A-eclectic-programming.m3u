@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1,CKUA_Radio_Network
+200 https://ais-sa1.streamon.fm/7000_48k.aac/playlist.m3u8
+#EXTINF:-1,The_Public_Square
+400 https://stream.pacificaservice.org:9000/kpsq_128
+#EXTINF:-1,Metaverse_Radio
+200 https://s2.radio.co/s351675523/listen
+#EXTINF:-1,RJ_FM
+404 https://live.paineldj.com.br/proxyhttp:/adiorjfm?mp=/stream
+#EXTINF:-1,ICI_Musique_Calgary_-_89.7_FM,_Edmonton_-_101.1_FM_(CBCX-FM)
+https:/http:/cavliveaudio.akamaized.net/hls/live/2006999/M-7AEDM0_EDM/master.m3u8
+#EXTINF:-1,CBC_Radio_1_Calgary_(CBR_-_1010_AM,_99.1_FM)
+200 https://cbcradiolive.akamaized.net/hls/live/2041039/ES_R1MCG/master.m3u8
+#EXTINF:-1,CBC_Music_Mountain_(Calgary,_CBR-FM,_102.1_FM,_formerly_CBC_Radio_2)
+200 https://cbcradiolive.akamaized.net/hls/live/2041058/ES_R2MED/master.m3u8
+#EXTINF:-1,Radio_Beija_Flor_FM
+404 https://cc6.streammaximum.com/proxyhttp:/adiobeijaflor/stream
+#EXTINF:-1,BBS_Radio_1
+200 http://stream.bbstalkradio.com:9996/stream
+#EXTINF:-1,BBS_Radio_2
+200 http://stream.bbstalkradio.com:9990/stream

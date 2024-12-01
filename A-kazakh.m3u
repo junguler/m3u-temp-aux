@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1,Жулдыз_ФМ
+https:/http:/adiosolo.ruhttp:/adio/zhuldyz-fm/icecast.audio
+#EXTINF:-1,Қазақ_радиосы
+https:/http:/adio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio
+#EXTINF:-1,Радио_Classic
+https:/http:/adio-streams.kaztrk.kz/classic/classic/icecast.audio
+#EXTINF:-1,Ретро_FM_Qazaqstan
+400 http://91.201.214.229:8000/vostokfm
+#EXTINF:-1,Шалқар_Радиосы
+https:/http:/adio-streams.kaztrk.kz/shalqar/shalqar/icecast.audio
+#EXTINF:-1,Новое_Радио_(Жана_FM)
+400 https://live.zhanafm.kz:8443/zhanafm_onair
+#EXTINF:-1,Радио_Bulbul
+https:/http:/adiobulbul.stream.laut.fmhttp:/adiobulbul?t302=2023-04-25_19-52-29&uuid=2e23c109-9b3b-474e-ae93-0227a13b0450
+#EXTINF:-1,Радио_NS_-_Kazakh_Music
+http://89.219.35.26:8000http:/adions-kz
+#EXTINF:-1,Жаңа_FM_-_MIX
+400 https://live.zhanafm.kz:8443/zhanamix
+#EXTINF:-1,Жаңа_FM_-_Rock
+400 https://live.zhanafm.kz:8443/zhanarock
+#EXTINF:-1,Жаңа_FM_-_Lounge
+400 https://live.zhanafm.kz:8443/zhanalounge
+#EXTINF:-1,Жаңа_FM_-_Pioner_FM_KZ
+400 https://live.zhanafm.kz:8443/pionerfm
+#EXTINF:-1,伊犁哈语广播
+400 https://lhttp.qingting.fm/live/5022692/64k.mp3
+#EXTINF:-1,KTK_TV
+200 http://89.218.30.37/ktklive/live.hq/playlist.m3u8
+#EXTINF:-1,新疆哈语广播
+400 https://lhttp.qtfm.cn/live/1908/64k.mp3

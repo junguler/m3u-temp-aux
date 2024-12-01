@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,GDS.FM
+200 https://gdsfm.out.airtime.pro/gdsfm_a
+#EXTINF:-1,Trancetechnic_Radio
+https://s11.ssl-stream.com/ssl/trancete?mp=/stream

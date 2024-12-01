@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,Bula_FM
+200 http://peridot.streamguys.com:7150/Bula
+#EXTINF:-1,Radio_Fiji_One
+200 http://peridot.streamguys.com:7150/RFOne
+#EXTINF:-1,Viti_FM
+400 https://stream.fijivillage.com/vitifm?ver=264613
+#EXTINF:-1,Radio_Apna_990_AM
+200 https://ais-nzme.streamguys1.com/nz_145/playlist.m3u8

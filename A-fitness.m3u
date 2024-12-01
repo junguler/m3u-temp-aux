@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1,Radio_Fitness
+https://stream.mixadance.fm/fitness
+#EXTINF:-1,Oxygen_Fitness
+200 https://oxygenmusic.hu:8443/oxygenfitness_128
+#EXTINF:-1,Allzic_Radio_Fitness
+200 https://allzic13.ice.infomaniak.ch/allzic13.mp3
+#EXTINF:-1,Радио_Рекорд_-_Workout
+https:/http:/adiorecord.hostingradio.ru/workout96.aacp
+#EXTINF:-1,EHR_-_Fitness
+200 https://stream.ehrhiti.lv:8000/Stream_14.aac
+#EXTINF:-1,radio_SAW_-_Fitness
+200 https://saw-de-hz-fal-stream08-cluster01.radiohost.de/saw-fitness_128?context=fHA6LTE=
+#EXTINF:-1,COOLFM_Sportoláshoz
+200 https://mediagw.e-tiger.net/stream/zc20
+#EXTINF:-1,NRJ_Fitness_Cardio
+https://scdn.nrjaudio.fm/fr/56808/aac_64.mp3?origine=playernrj&aw_0_req.userConsent=undefined&cdn_path=adswizz_lbs8&adws_out_b3
+#EXTINF:-1,Otvoreni_Radio_Fitness
+400 http://stream.otvoreni.hr/fitness
+#EXTINF:-1,RMF_Fitness
+200 http://31.192.216.7/FITNESS
+#EXTINF:-1,OpenFM_-_Fitness
+200 http://stream.open.fm/65
+#EXTINF:-1,Fitness_Music_(iHeart_Radio)_-_Online_-_ACIR_Online_/_iHeart_Radio_-_Ciudad_de_México
+403 https://27143.live.streamtheworld.com:443/ACIR32_S01AAC.aac
+#EXTINF:-1,Energy_NRJ_Fitness
+404 http://185.52.127.157/de/33047/mp3_128.mp3?adws_out_a3&access_token=e3af2c5092f04dc1bfb82aa54058f2ea
+#EXTINF:-1,Ultra_Gym_&amp;_Fitness_(Mexicali)_-_Online_-_El_Toque_FM_-_Mexicali,_Baja_California
+200 http://us10a.serverse.com:8183/;
+#EXTINF:-1,RMF_Fitness_+_FAKTY
+200 http://31.192.216.7/FITNESSF
+#EXTINF:-1,Otvoreni_Radio_-_Fitness
+400 https://stream.otvoreni.hr/fitness

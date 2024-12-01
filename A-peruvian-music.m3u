@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,Radio_Peru_Cumbia
+200 https://tupanel.info:8270/stream
+#EXTINF:-1,Radio_Huancayo
+200 https://cloud9.ldwebstudios.net:7000/;
+#EXTINF:-1,Top_Latino
+200 http://online.radiodifusion.net:8020/stream
+#EXTINF:-1,Oasis_Patrio_(Sonorama)
+403 https://18733.live.streamtheworld.com/CRP_SON_S01_SC

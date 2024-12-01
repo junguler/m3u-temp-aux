@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,Radio_434_-_Rocks
+400 https://icecast01.mycloudserver.info/lsl-rocks
+#EXTINF:-1,SomaFM_Metal_Detector_(128k_AAC)
+200 https://ice2.somafm.com/metal-128-aac
+#EXTINF:-1,Avanzada_Metallica
+http://199.195.194.140:8112/stream

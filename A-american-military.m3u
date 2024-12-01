@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1,AFN_360_Global_Gravity
+403 http://17813.live.streamtheworld.com:80/AFN_GRV_SC
+#EXTINF:-1,AFN_360_Global_Hot_AC
+200 http://17813.live.streamtheworld.com:80/AFN_HOT_SC
+#EXTINF:-1,AFN_360_Global_Joe_Radio
+403 http://24883.live.streamtheworld.com:80/AFN_JOE_SC
+#EXTINF:-1,AFN_360_Global_PowerTalk
+403 http://14103.live.streamtheworld.com:80/AFN_PTK_SC
+#EXTINF:-1,AFN_360_Global_The_Voice
+200 http://17803.live.streamtheworld.com:80/AFN_VCE_SC
+#EXTINF:-1,AFN_360_Aviano
+403 http://25433.live.streamtheworld.com:80/AFNE_AVN_SC
+#EXTINF:-1,AFN_360_Bahrain
+http://20853.live.streamtheworld.com:80/AFNE_BHN_SC
+#EXTINF:-1,AFN_360_Guantanamo_Bay
+403 http://25533.live.streamtheworld.com:80/AFNE_GMO_SC
+#EXTINF:-1,AFN_360_Incirlik
+http://20853.live.streamtheworld.com:80/AFNE_ICK_SC
+#EXTINF:-1,AFN_360_Naples
+403 http://22673.live.streamtheworld.com:80/AFNE_NAP_SC
+#EXTINF:-1,AFN_360_Rota
+http://20853.live.streamtheworld.com:80/AFNE_RTA_SC
+#EXTINF:-1,AFN_360_Souda_Bay
+http://20853.live.streamtheworld.com:80/AFNE_SDB_SC
+#EXTINF:-1,AFN_360_Wiesbaden
+403 http://25433.live.streamtheworld.com:80/AFNE_WBN_SC
+#EXTINF:-1,AFN_360_Kaiserslautern
+403 http://22533.live.streamtheworld.com:80/AFNE_KTN_SC
+#EXTINF:-1,AFN_360_Spangdahlem
+http://20723.live.streamtheworld.com:80/AFNE_SPG_SC
+#EXTINF:-1,AFN_360_Stuttgart
+403 http://22333.live.streamtheworld.com:80/AFNE_STU_SC
+#EXTINF:-1,AFN_360_Global_Holiday
+http://20723.live.streamtheworld.com:80/AFN_SEA_SC
+#EXTINF:-1,AFN_360_Global_Legacy
+403 http://18683.live.streamtheworld.com:80/AFN_LGY_SC
+#EXTINF:-1,&quot;name&quot;:_&quot;&#039;undefined&#039;_-&gt;_&#039;AFN_360_Benelux&#039;&quot;,
+http://20863.live.streamtheworld.com:80/AFNE_BLX_SC
+#EXTINF:-1,AFN_360_Global_Fans
+403 http://22113.live.streamtheworld.com:80/AFN_FAN_SC
+#EXTINF:-1,AFN_360_Global_Country
+200 http://14943.live.streamtheworld.com:80/AFN_CTY_SC
+#EXTINF:-1,AFN_360_Bavaria
+403 http://22533.live.streamtheworld.com:80/AFNE_BAV_SC
+#EXTINF:-1,AFN_360_Vicenza
+403 http://25533.live.streamtheworld.com:80/AFNE_VIC_SC

@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1,Radio_Isanganiro
+200 https://isanganiro.ice.infomaniak.ch/isanganiro-64.mp3
+#EXTINF:-1,RTMB_Chaine_1
+400 http://41.79.226.195:8000/stream-RTNB1
+#EXTINF:-1,Radio_Izere_FM
+http://102.134.106.14:8000/stream
+#EXTINF:-1,Radio_Bonesha_FM
+https://streaming.zubahost.com/8002/stream
+#EXTINF:-1,RTMB_Chaine_2
+http://41.79.226.196:8000/stream-RTNB2
+#EXTINF:-1,Radio_Maria
+200 http://dreamsiteradiocp2.com:8080/;
+#EXTINF:-1,Radio_Peace_FM
+405 https://stream-148.zeno.fm/s0244utefg8uv?zs=yq2ya1p4Qlai0u36UiU72w
+#EXTINF:-1,Radio_Fo-Fe
+http://cast.thiff.com:8012/stream
+#EXTINF:-1,Iteka_FM
+405 https://stream-156.zeno.fm/nsmhaykzqf9uv?zs=sCrvYM4USpGnxEBg2ckLoQ
+#EXTINF:-1,Radio_Intwali_FM
+405 https://stream-149.zeno.fm/f4btyyc18vzuv?zs=rureF4vUTQuvkGHZyNI0kA
+#EXTINF:-1,Regional_Vibez_Media
+405 https://stream-149.zeno.fm/p4r2f5wc8f0uv?zs=cge9mz7hTsmNjv-aB1ZwYQ
+#EXTINF:-1,Radio_Shima_FM
+400 http://5.189.189.39:8000/shimafm.mp3
+#EXTINF:-1,Bdusa_Media
+405 https://stream-153.zeno.fm/0fpegrf70fctv?zs=RY1gVIbRSrC-Ba616aH6Vg

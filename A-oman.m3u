@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1,Muscat_FM
+https://playoutonestreaming.com/proxy/muscatfm/?mp=/stream;&r=0.08381912881745279
+#EXTINF:-1,Hala_FM
+https://listen-halafm.sharp-stream.com/halafmmid.mp3
+#EXTINF:-1,Al_Wisal
+200 http://uk7.internet-radio.com:8067/stream
+#EXTINF:-1,Merge_104.8
+200 http://uk7.internet-radio.com:8040/stream
+#EXTINF:-1,Hi_FM_Oman
+200 http://listen-hifmtemp.sharp-stream.com/hifmmid.mp3
+#EXTINF:-1,Shabiba_FM
+https://stream.shabiba.fm:9010/shabiba
+#EXTINF:-1,T_FM
+https://stream.timesofoman.fm:9018/tfm
+#EXTINF:-1,Radio_Chaska_Oman
+http://qurum.ddns.net:8000http:/adio.mp3
+#EXTINF:-1,Virgin_Radio_Oman
+200 http://uk5.internet-radio.com:8115/stream?type=http&nocache=234
+#EXTINF:-1,freefm.lk_-_Oman_Sinhala_Radio
+405 https://stream-155.zeno.fm/t0jwd83zaayvv?zs=cBQ2KmY1R6aDJQqJz2PTjQ
+#EXTINF:-1,Merge
+200 http://uk7.internet-radio.com:8040/;
+#EXTINF:-1,90.4_FM___الإذاعة-الإنجليزية
+200 https://partwota.cdn.mgmlcdn.com/omengrdoorg/omengrdo.stream_aac/chunklist.m3u8
+#EXTINF:-1,Youth_Program_Oman__إذاعة-الشباب
+404 https://partneta.cdn.mgmlcdn.com/shababrdoorg/shababrdo.stream_aac/chunklist.m3u8
+#EXTINF:-1,Public_Radio_Oman___الإذاعة-العامة
+404 https://partneta.cdn.mgmlcdn.com/omanrdoorg/omanrdo.stream_aac/chunklist.m3u8
+#EXTINF:-1,Quran_Program_Oman___إذاعة-القرآن-الكريم
+200 https://partwota.cdn.mgmlcdn.com/quranrdoorg/quranrdo.stream_aac/chunklist.m3u8

@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1,CHERIE_FM
+https://cheriefmguyane.ice.infomaniak.ch/cheriefmguyane-64.aac
+#EXTINF:-1,Nostalgie_Guyane
+400 http://2stream.dyndns.org:8000/nostalgieguy
+#EXTINF:-1,NRJ_Guyane
+200 https://nrjguyane.ice.infomaniak.ch/nrjguyane-64.aac
+#EXTINF:-1,Bblack_Radio
+200 https://stunnel1.cyber-streaming.com:9162/stream
+#EXTINF:-1,Fun_Radio_Guyane
+200 http://manager2.streaming-ingenierie.fr:8050/;stream.mp3
+#EXTINF:-1,RTL_2_Guyane
+200 http://coollabel1.streaming-ingenierie.fr:8136/;stream.mp3
+#EXTINF:-1,GBSRadio
+https://guyanablackstar.fr/wp-content/uploads/2021/08/Dj-Moody-Mike-Money.mp3
+#EXTINF:-1,Nostalgie_Guadeloupe
+400 http://2stream.dyndns.org:8000/nostalgiegp
+#EXTINF:-1,KFM
+400 http://10191.go2stream.fr:8000/stream
+#EXTINF:-1,Radio_Péyi
+http:/http:/adiopeyiguyane.ice.infomaniak.chhttp:/adiopeyiguyane-64.aac
+#EXTINF:-1,Ouest_FM_Guyane
+200 http://srv2.streaming-ingenierie.fr:8162/;
+#EXTINF:-1,Métis_FM
+200 http://str0.creacast.com/metisfm
+#EXTINF:-1,chwitiweb
+https://listen.radioking.comhttp:/adio/190309/stream/232540
+#EXTINF:-1,NRJ_Guyane_97,3_FM
+200 http://nrjguyane.ice.infomaniak.ch/nrjguyane-64.mp3

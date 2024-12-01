@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1,Activa_89.7
+200 http://www.tuasesorweb.com:8032/;
+#EXTINF:-1,Vida_(Acapulco)_-_89.7_FM_-_XHKJ-FM_-_Grupo_Audiorama_Comunicaciones_-_Acapulco,_GR
+200 https://ss1.audiorama.com.mx:6610/;
+#EXTINF:-1,Vida_(Mexicali)_-_1370_AM_-_XEHG-AM_-_Grupo_Audiorama_Comunicaciones_-_Mexicali,_BC
+200 http://s1.audiorama.mx:6596/;
+#EXTINF:-1,FM_Globo_Mexicali_-_101.9_FM_-_XHPF-FM_-_MVS_Radio_-_Mexicali,_BC
+https://20843.live.streamtheworld.com:443/XHPFFMAAC.aac
+#EXTINF:-1,FM_Globo_Guadalajara_-_98.7_FM_-_XHLC-FM_-_MVS_Radio_-_Guadalajara,_JC
+403 https://15123.live.streamtheworld.com:443/XHLCFM_SC
+#EXTINF:-1,FM_Globo_Poza_Rica_-_102.7_FM_/_1020_AM_-_XHPR-FM_/_XEPR-AM_-_Poza_Rica,_VE
+403 https://26373.live.streamtheworld.com:443/XHPRFM_SC
+#EXTINF:-1,AMOR_es_(Aguascalientes)_-_104.5_FM_-_XHDC-FM_-_Grupo_Radiofónico_ZER_-_Aguascalientes,_AG
+200 https://cast.zuperdns.net/8026/stream/
+#EXTINF:-1,Exa_FM_Acámbaro_-_90.5_FM_-_XHVW-FM_-_Organización_Radiofónica_de_Acámbaro_-_Acambaro,_GT
+https:/http:/adios.radiohd.com.mx:7140/;
+#EXTINF:-1,AMOR_es_(Zacatecas)_-_99.3_FM_-_XHZAZ-FM_-_Grupo_Radiofónico_ZER_-_Zacatecas,_ZA
+200 https://cast.zuperdns.net/8002/stream/
+#EXTINF:-1,FM_Globo_Ciudad_Acuña_-_99.7_FM_-_XHPL-FM_-_RCG_Media_-_Ciudad_Acuña,_Coahuila
+http:/http:/adio.rcg.com.mx:8016/;
+#EXTINF:-1,FM_Globo_Mazatlán_-_97.9_FM_-_XHMMS-FM_-_Grupo_RSN_-_Mazatlán,_SI
+200 https://sp2.servidorrprivado.com:10861/fmglobo
+#EXTINF:-1,Exa_FM_Ciudad_Obregón_-_99.3_FM_-_XHOX-FM_-_Radio_Grupo_García_de_León_-_Ciudad_Obregón,_SO
+200 https://streamingcwsradio30.com:7056/;
+#EXTINF:-1,La_Comadre_(Orizaba)_-_100.3_FM_-_XHPP-FM_-_Grupo_Radio_Digital_-_Orizaba,_VE
+200 http://hd.digitalradio.mx:6121/lacomadre
+#EXTINF:-1,FM_Globo_Córdoba_-_102.1_FM_-_XHAG-FM_-_Radio_Comunicaciones_de_las_Altas_Montañas_-_Córdoba,_VE
+https://streamingenmexico.com:7089/stream
+#EXTINF:-1,FM_Globo_Poza_Rica_-_102.7_FM_-_XHPR-FM_-_Poza_Rica,_VE
+https://20843.live.streamtheworld.com:443/XHPRFMAAC.aac
+#EXTINF:-1,Vida_(Acapulco)_-_89.7_FM_-_XHKJ-FM_-_Grupo_Audiorama_Comunicaciones__-_Acapulco,_GR
+200 https://ss1.audiorama.com.mx:6610/vida
+#EXTINF:-1,Exa_FM_Ciudad_Mante_-_91.9_FM_-_XHRLM-FM_-_ORT_(Organización_Radiofónica_Tamaulipeca)_-_Ciudad_Mante,_TM
+200 https://s01.digitalserver.org/8066/stream.aac

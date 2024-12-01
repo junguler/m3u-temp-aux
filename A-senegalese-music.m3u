@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,Dakar_Musique
+https://listen.senemultimedia.net:8092/stream
+#EXTINF:-1,H24_Radio
+https://listen.senemultimedia.net:8072/stream

@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1,Radio_Plus
+200 https://stream.radio.co/s8cc7a5da4/listen
+#EXTINF:-1,Top_FM
+http://s3.voscast.com:10152/;stream.nsv
+#EXTINF:-1,Radio_One
+http://185.142.236.169:8000/stream
+#EXTINF:-1,NRJ_Maurice
+404 http://185.52.127.157/mu/55802/aac_64.mp3?adws_out_a2&access_token=901501094b6a4a8c84456a56b82d3628
+#EXTINF:-1,MBC_Best_FM
+https:/http:/adio.mbconline.xyz/hls/bestfm.m3u8
+#EXTINF:-1,Wazaa_FM
+https://wazaafm.ice.infomaniak.ch/wazaafm-192.mp3
+#EXTINF:-1,MBC_Kool_FM
+https:/http:/adio.mbconline.xyz/hls/koolfm.m3u8
+#EXTINF:-1,TAMAM_RADIO
+http://freeuk22.listen2myradio.com:13420/;stream
+#EXTINF:-1,Radio_Moris
+https://azc.radiomoris.com:8010http:/adio.mp3
+#EXTINF:-1,MBC_Radio_Maurice
+https:/http:/adio.mbconline.xyz/hlshttp:/adiomaurice.m3u8
+#EXTINF:-1,MBC_Taal_FM
+https:/http:/adio.mbconline.xyz/hls/tallfm.m3u8
+#EXTINF:-1,Hits_FM
+405 https://stream-156.zeno.fm/8e5h28q71bwtv?zs=XIhNMd8bSFy2nVoCc3_1Yg
+#EXTINF:-1,Faith_Radio
+200 http://mu1stream.mushost.com:8230/;stream.nsv
+#EXTINF:-1,MBC_Radio_Mauritius
+https:/http:/adio.mbconline.xyz/hlshttp:/adiomauritus.m3u8
+#EXTINF:-1,Radio230
+https://17483.live.streamtheworld.com/SP_R4228214_SC
+#EXTINF:-1,OUI_Radio
+200 http://mu1stream.mushost.com:8080/;stream.nsv
+#EXTINF:-1,Radio_ADO_Reggae
+200 http://mu1stream.mushost.com:8230/;
+#EXTINF:-1,Kirpip_Radio
+http:/http:/adio7.pro-fhi.net:9187/;stream.nsv
+#EXTINF:-1,Zero_Alpha_Radio
+403 https://26383.live.streamtheworld.com:443/SAM10AAC078_SC
+#EXTINF:-1,Onex_FM
+405 https://stream-153.zeno.fm/74eh7s0ke0hvv?zs=IevN8yyaRl6GgAQ37zoZxQ
+#EXTINF:-1,Tamizen_Radio
+200 https://c34.radioboss.fm:18023/stream
+#EXTINF:-1,Radio_Tamil_FM
+405 https://stream-149.zeno.fm/74eh7s0ke0hvv?zs=vl0157FZT_WoSq7x9fHB-A
+#EXTINF:-1,Radio_Moris_-_Ambiance
+https://azc.radiomoris.com:8000http:/adio.mp3
+#EXTINF:-1,Radio_Moris_-_Mix
+https://azc.radiomoris.com:8020http:/adio.mp3
+#EXTINF:-1,Radio_Moris_-_Love
+https://azc.radiomoris.com:8030http:/adio.mp3
+#EXTINF:-1,Radio_Moris_-_Street
+https://azc.radiomoris.com:8040http:/adio.mp3
+#EXTINF:-1,Radio_Plus_Mauritius
+http://s4.voscast.com:8432/;?icy=http
+#EXTINF:-1,NRJ_Maurice_92,4_FM
+404 http://185.52.127.157/mu/55802/mp3_128.mp3?adws_out_a2&access_token=957a3a6f8b3f47159ddf314db8a3deac

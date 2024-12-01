@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1,Apintie_Suriname_-_Powered_by_Bombelman.com
+200 https://surilive.com:8000/;
+#EXTINF:-1,Color_Radio_102.5_-_Powered_by_SuriLive.com
+200 https://surilive.com:8070/;stream.nsv
+#EXTINF:-1,Radio_SRS_Suriname_-_Powered_by_SuriLive.com
+200 https://surilive.com:8060/;stream.nsv
+#EXTINF:-1,RADIO_GARUDA
+200 http://162.244.80.245:8012/stream
+#EXTINF:-1,Radio_ABC_Suriname_101.7_-_Powered_by_Bombelman.com
+200 https://surilive.com:8020/;stream.nsv
+#EXTINF:-1,Radio_Shruti
+https:/http:/s.suricloud.comhttp:/adio/8000http:/adio.mp3
+#EXTINF:-1,Radio_10_Magic_FM
+200 https://s5.radio.co/s85a633f73/listen
+#EXTINF:-1,Sangeetmala_Radio
+https:/http:/s.suricloud.comhttp:/adio/8030http:/adio.mp3
+#EXTINF:-1,RADIO_ISHARA
+400 http://nickerie.webhop.net:8000/stream
+#EXTINF:-1,PIPEL_FM
+https:/http:/s.suricloud.comhttp:/adio/8010http:/adio.mp3
+#EXTINF:-1,NIO_FM_107.5_-_Feel_The_Music
+200 https://surilive.com:8010/;stream.nsv
+#EXTINF:-1,TRISHUL_BROADCASTING_NETWORK
+https:/http:/s.suricloud.comhttp:/adio/8050http:/adio.mp3
+#EXTINF:-1,SMOOTH_FM
+400 https://video1.getstreamhosting.com:8340/stream
+#EXTINF:-1,Radio_Koyeba
+http://162.244.80.245:8020/;
+#EXTINF:-1,Radio_9_Suriname
+https:/http:/s.suricloud.comhttp:/adio/8060http:/adio.mp3
+#EXTINF:-1,Suri-Lite_Online_Radio
+https://surilite1.radioca.st/stream
+#EXTINF:-1,Neutralradio
+https://fred.torontocast.com:2445/stream
+#EXTINF:-1,RADIO_LPM
+200 https://surilive.com:8050/;stream.nsv
+#EXTINF:-1,Surja_Vibes
+200 https://s5.radio.co/s1735f3c1d/listen
+#EXTINF:-1,RP_ACME
+200 https://audio-edge-es6pf.mia.g.radiomast.io/d7e8093b-6a7e-4442-a096-37f259cb7092
+#EXTINF:-1,MS_Radio_Suriname
+https://clare.shoutca.sthttp:/adio/8070http:/adio.mp3
+#EXTINF:-1,Radio_Immanuël_95.9_Suriname_-_Powered_by_Bombelman.com
+200 https://surilive.com:8030/;
+#EXTINF:-1,Radio_Shalom_Suriname
+200 http://162.244.80.245:8014/;
+#EXTINF:-1,FM.sr_Christmas_Radio
+200 https://surilive.com/xmas/stream
+#EXTINF:-1,FM.sr_Suripop_Radio
+404 https://surilive.com/suripop/stream
+#EXTINF:-1,FM.sr_Sranan_Radio
+200 https://live.fm.sr/sranan/stream
+#EXTINF:-1,Sky_Suriname
+http://pipel.kloud.xyz:8010http:/adio.mp3
+#EXTINF:-1,Beat_FM
+503 https://audio-edge-cmc51.fra.h.radiomast.io/a263a766-cea5-49e2-87c7-b2e9c9f5740c

@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1,Radio_Foorti
+http://119.148.23.88:1021/;stream/1
+#EXTINF:-1,Radio_Today
+302 https://stream-107.zeno.fm/0zha3rfq02quv?zs=LikJAtMNTP-VnpPnfkD-BQ
+#EXTINF:-1,Jago_FM_94.4
+200 http://128.199.184.111:12496/;stream/1
+#EXTINF:-1,Peoples_Radio
+200 http://s3.myradiostream.com:14498/;
+#EXTINF:-1,Gaan_Baksho_-_Bangla_HD_Radio
+https://cast1.asurahosting.com/proxy/gaanbaks/stream
+#EXTINF:-1,Bangladesh_Betar
+http://as3.digitalsynapsebd.com:8582/;stream.mp3
+#EXTINF:-1,Radio_Foorti_88.0FM
+302 http://stream-061.zeno.fm/f0bfdk2w34zuv?zs=nXdnr3XbTNKGsCHm6Yn5UA
+#EXTINF:-1,Dhaka_FM_90.4
+302 http://stream-060.zeno.fm/ay4pqkk604zuv?zs=2EbbnHZRSlGQJ_oObKjfCA
+#EXTINF:-1,BBC_Bangla
+410 https://stream.live.vc.bbcmedia.co.uk/bbc_bangla_radio
+#EXTINF:-1,Peoples_Radio_91.6_FM
+200 http://s3.myradiostream.com:14498/;listen.mp3
+#EXTINF:-1,Radio_Padma_99.2_FM
+http:/http:/adiopadmabd.radioca.st:9109http:/adiopadma
+#EXTINF:-1,Barisal_AM_1287KHz
+http://as2.digitalsynapsebd.com:8569/;
+#EXTINF:-1,Dhaka_88.8_FM
+http://as3.digitalsynapsebd.com:8263/;
+#EXTINF:-1,Dhaka_Ka_693KHz
+http://as3.digitalsynapsebd.com:8582/;
+#EXTINF:-1,Dhaka_Kha_630KHz
+http://as2.digitalsynapsebd.com:8741/;
+#EXTINF:-1,Chattogram_AM_833KHz
+http://as2.digitalsynapsebd.com:8920/;
+#EXTINF:-1,Barisal_FM_105.2MHz
+http://as2.digitalsynapsebd.com:8620/;
+#EXTINF:-1,Khulna_AM_558KHz
+http://as2.digitalsynapsebd.com:9248/;
+#EXTINF:-1,Khulna_FM_88.8MHz
+http://as2.digitalsynapsebd.com:9252/;
+#EXTINF:-1,Rangpur_AM_1053KHz
+http://as2.digitalsynapsebd.com:8622/;
+#EXTINF:-1,Sylhet_AM_963KHz
+http://as2.digitalsynapsebd.com:8096/;
+#EXTINF:-1,Sylhet_FM_88.8MHz
+http://as2.digitalsynapsebd.com:8246/;
+#EXTINF:-1,Rajshahi_FM_88.8MHz
+http://as2.digitalsynapsebd.com:9244/;
+#EXTINF:-1,Capital_FM_94.8
+302 http://stream-043.zeno.fm/4nzaapqw34zuv?zs=W_4eMYdSSVOFuHy-F7mlmg
+#EXTINF:-1,AL-QURAN_BANGLA
+200 http://66.45.232.131:9994/;stream/1/;
+#EXTINF:-1,Radio_Central_24
+200 https://casper.radioca.st/;
+#EXTINF:-1,Radio_Ambar
+http://118.179.215.45:8000/;stream/1
+#EXTINF:-1,Desi
+200 http://ice55.securenetsystems.net/DASH93

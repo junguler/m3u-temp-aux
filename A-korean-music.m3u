@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1,113.FM_K-Pop_(Korean_Pop)
+200 https://113fm-atunwadigital.streamguys1.com/1049
+#EXTINF:-1,Big_B_Radio_-_KPOP
+https://antares.dribbcast.com/proxy/kpop?mp=/s
+#EXTINF:-1,Зайцев.FM_-_K-Pop
+https://zaycevfm.cdnvideo.ru/ZaycevFM_kpop_256.mp3
+#EXTINF:-1,CBS_표준FM
+https://aac.cbs.co.kr/cbs981/_definst_/cbs981.stream/playlist.m3u8
+#EXTINF:-1,Aewen_Radio_(K-Drama_OSTs)
+http://209.58.145.135:8025/stream
+#EXTINF:-1,SBS_PopAsia
+200 https://sbs-ice.streamguys1.com/sbs-popasia
+#EXTINF:-1,Gugak_FM
+https://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/playlist.m3u8
+#EXTINF:-1,Pyongyang_FM
+200 https://listen7.myradio24.com/69366
+#EXTINF:-1,TBS_FM
+http://58.234.158.60:1935/fmlive/myStream/playlist.m3u8
+#EXTINF:-1,OnlyHit_K-Pop
+200 https://ais-sa3.cdnstream1.com/2630_128.mp3
+#EXTINF:-1,World_Hits_Kpop_(Korean_Pop)
+405 https://stream-163.zeno.fm/k12saxcgk5zuv?zs=-ugrxQfiQK6eJDSQQ2RG3w
+#EXTINF:-1,CBS_Music_FM
+https://aac.cbs.co.kr/cbs939/_definst_/cbs939.stream/playlist.m3u8
+#EXTINF:-1,Musicas_de_Asia_Internet_Radio
+http:/http:/osetta.shoutca.st:8405/stream
+#EXTINF:-1,DKNET_730_AM
+https://us1new.listen2myradio.com:2199/listen.php?port=10095&type=s2&mount=/stream
+#EXTINF:-1,KGBN
+200 https://streamer.radio.co/scb2948df3/listen
+#EXTINF:-1,Radio_Korea
+200 https://onair.radiokorea.com/;
+#EXTINF:-1,RauteMusik_K-POP
+https:/http:/autemusik-de-hz-fal-stream14.radiohost.de/k-pop_aac-48?ref=radiobrowser
+#EXTINF:-1,Heilungkiang_Korean_Radio
+200 http://stream3.hljtv.com/hljrdcy/sd/live.m3u8
+#EXTINF:-1,Radio_Voice_of_Korea_(Russian)
+200 https://listen4.myradio24.com/60315

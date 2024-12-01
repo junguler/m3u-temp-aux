@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1,Radio_Aleluya
+https:/http:/adio.aleluya.cloudhttp:/adio/8000/stream
+#EXTINF:-1,Restauracion_96.9_FM
+http://wprfhd.ddns.net:8050http:/estauracion
+#EXTINF:-1,Radio_Catolica_Sal_y_Luz
+400 http://salt-light-stream-01.miriamtech.net:8000/kcid
+#EXTINF:-1,Radio_Luz_620_AM
+403 https://18243.live.streamtheworld.com:443/KTNOAMAAC_SC
+#EXTINF:-1,Keilah_Radio_106.5_FM
+400 http://ovz.arcoshost.com:8013/stream
+#EXTINF:-1,Radio_Zion_(Tijuana)_-_540_AM_-_XESURF-AM_-_Zion_Multimedia_-_Tijuana,_BC
+http://zionmultimedia.livehttp:/adio/8010http:/adio.mp3
+#EXTINF:-1,Radio_Aleluya_1590_AM
+https:/http:/adio.aleluya.cloudhttp:/adio/8020http:/adioaleluya1590am
+#EXTINF:-1,Radio_Aleluya_980_AM
+https:/http:/adio.aleluya.cloudhttp:/adio/8010/stream
+#EXTINF:-1,KHFX_1140_AM
+http://216.240.133.177:2005/;stream.mp3
+#EXTINF:-1,La_Voz_Celestial
+302 https://stream.zeno.fm/qs7tpcgxrnhvv

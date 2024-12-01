@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,Ràdio_País
+400 https://stunnel2.cyber-streaming.com:9272/stream
+#EXTINF:-1,Radio_Occitania
+https:/http:/adiostream.comequip.euhttp:/adio-code.php?server=195.154.113.85&port=8002&mount=occitania
+#EXTINF:-1,Radio_Coupo_Santo
+https://listen.radioking.comhttp:/adio/20119/stream/52843
+#EXTINF:-1,Radio_Albigés
+200 https://live-albiges.radiom.fr/antenne.mp3
+#EXTINF:-1,Ràdio_Lenga_d&#039;OC
+http://91.121.147.40:8000http:/lo-direct.mp3
+#EXTINF:-1,Radio_Dio
+400 https://live.aurafm.org/RadioDio
+#EXTINF:-1,Ràdio_Nissa_Pantai
+https://listen.radioking.comhttp:/adio/79270/stream/117373
+#EXTINF:-1,Planèta_Occitània
+https://listen.radioking.comhttp:/adio/44539/stream/81253
+#EXTINF:-1,Radios_libres_en_Périgord
+http:/http:/adio2.pro-fhi.net:9079/;

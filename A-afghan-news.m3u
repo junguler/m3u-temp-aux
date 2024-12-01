@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,Radio_Killid
+400 https://s1.voscast.com:7887/stream
+#EXTINF:-1,BFBS_Afghanistan
+200 https://edge-audio-03-gos2.sharp-stream.com/ssvcbfbs9.mp3?i=ssvcbfbs9.mp3
+#EXTINF:-1,BBC_UNHCR
+400 http://stream.live.vc.bbcmedia.co.uk/bbc_pashto_radio
+#EXTINF:-1,ATN_News_FM
+200 https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8

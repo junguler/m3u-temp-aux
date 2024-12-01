@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,SuperStereo_4_Flac
+400 http://198.204.228.202:8030/flac
+#EXTINF:-1,BDPST_ROCK_Rádió_(Hi-Fi_/_Lossless_/_FLAC)
+200 http://s2.audiostream.hu:8091/bdpstrock_FLAC
+#EXTINF:-1,ČRo_Jazz
+400 http://amp.cesnet.cz:8000/cro-jazz.flac
+#EXTINF:-1,Naim_Radio_[lossless_flac]
+400 http://mscp3.live-streams.nl:8360/flac.flac
+#EXTINF:-1,Радио_Сектор_/_Sector_Nota_(flac)
+400 http://89.223.45.5:8000/nota-flac
+#EXTINF:-1,Radio_Club80_Baladas
+400 https://stream.radioclub80.cl:8042/baladas80.mp3
+#EXTINF:-1,Radio_Club80_Retro
+https://stream.radioclub80.cl:8022http:/etro80.mp3
+#EXTINF:-1,Radio_Club80_Clasicos
+200 https://stream.radioclub80.cl:8002/clasicos80.mp3
+#EXTINF:-1,Radio_Club80_Euro_Hits
+200 https://stream.radioclub80.cl:8032/stream.euro80mp3

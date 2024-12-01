@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,Bitter_Sweet_Music_SC
+http://91.121.236.34:8520/sc
+#EXTINF:-1,ItaloRadio.fm
+200 http://54.36.89.71:8102/stream
+#EXTINF:-1,Radiosesel
+http://176.31.123.49:8000/stream
+#EXTINF:-1,SBC_PARADISE_FM
+https://streaming.fabrik.fm/paradise-fm/echocast/audio/low/index.m3u8
+#EXTINF:-1,Inside_Seychelles
+200 https://stream.radio.co/sb947e1883/listen
+#EXTINF:-1,Radio_078
+404 https://cc6.beheerstream.com/proxyhttp:/adio078?mp=/stream
+#EXTINF:-1,Disco_Magic_Radio
+https://cc6.beheerstream.com/proxy/tjjpejuk?mp=/stream
+#EXTINF:-1,SBC_Paradise_FM_-_Seychelles_Best_Mix
+https://streaming.fabrik.fm/paradise-fm/echocast/audio/index.m3u8

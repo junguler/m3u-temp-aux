@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1,Psyndora_Chillout
+https://cast.magicstreams.gr:2200/ssl/psychill?mp=/stream
+#EXTINF:-1,Radio_México_Internacional
+200 https://s2.mexside.net:7017/;
+#EXTINF:-1,Kansas_City_Online_Radio
+http://199.180.75.2:9092/;
+#EXTINF:-1,MitchFM
+200 https://s31.myradiostream.com/:64442/;
+#EXTINF:-1,#1980s_Zoom
+403 http://13683.live.streamtheworld.com/SAM03AAC226_SC
+#EXTINF:-1,juka_radio_tophits
+200 https://juka-radio.stream.laut.fm/juka-radio?t302=2021-04-01_09-08-21&uuid=ecbcab5b-a799-4581-bc34-b292c056efbd
+#EXTINF:-1,Syangja_Radio_Internet
+405 http://stream-150.zeno.fm/fzqwdre3mp8uv?zs=tfeZogWqRlmP20sfHpfBVg
+#EXTINF:-1,Vandelay_Radio
+404 https://streamer.radio.co/scc0e2e06d/listen
+#EXTINF:-1,XRCB_On_Air
+400 https://icecast.xrcb.cat/main.mp3
+#EXTINF:-1,247Spice
+https://247spice.mysecurestream.eu/stream
+#EXTINF:-1,#HiFi_80s
+403 https://13683.live.streamtheworld.com/SAM03AAC226_SC?hifi80slive
+#EXTINF:-1,_80s_Radio
+403 http://26383.live.streamtheworld.com/SAM03AAC226_SC
+#EXTINF:-1,i_love_radio_-_party_hard
+200 http://ilm-stream12.radiohost.de/ilm_ilovepartyhard_mp3-192
+#EXTINF:-1,CubanDjsPro_Radio
+200 https://servidor21.brlogic.com:7114/live
+#EXTINF:-1,Radio_Club80_Euro_Hits
+200 https://stream.radioclub80.cl:8032/stream.euro80mp3
+#EXTINF:-1,Buenisima_93_FM
+302 https://stream.zeno.fm/bfvffcrjf2ouv
+#EXTINF:-1,Youth_One_Radio
+302 https://stream.zeno.fm/lv1egsq3wejvv
+#EXTINF:-1,Fiesta_FM
+200 http://195.154.79.204:8907/stream
+#EXTINF:-1,MORTAL_96.7_FM
+405 https://stream-176.zeno.fm/ghdhnrgdhjkvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnaGRobnJnZGhqa3Z2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImtERTBvU0tZU1lpRkl3d0drNGpwU3ciLCJpYXQiOjE3Mjk4NDUwNzksImV4cCI6MTcyOTg0NTEzOX0.qfCml-Z0bLcBhoE8y7IWRVTeoXiZTL6LP7P4tmekV5A
+#EXTINF:-1,Joint_Radio_Beat
+302 https://jointil.com/stream-beat
+#EXTINF:-1,Joint_Radio_Blues
+302 https://jointil.com/stream-blues
+#EXTINF:-1,Joint_Radio_Reggae
+302 https://jointil.com/stream-reggae

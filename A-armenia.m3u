@@ -1,0 +1,75 @@
+#EXTM3U
+#EXTINF:-1,Radio_Jan
+http://vps782549.ovh.net:10255/RadioJan
+#EXTINF:-1,Радио_Шансон_Армения
+200 https://chanson.hostingradio.ru:8041/chanson128.mp3
+#EXTINF:-1,Общественное_радио_Армении
+http://178.160.193.131:8000/stream
+#EXTINF:-1,Radio_Aurora
+400 https://am.radioaurora.am/al.mp3
+#EXTINF:-1,Radio_Van
+https://stream.radiovan.fm:8000/96_stereo
+#EXTINF:-1,FM_105.5
+400 http://14842.cloudrad.io:9536/live?ver=658784
+#EXTINF:-1,Radio_Mariam
+400 https://live.radiomariam.am/RadioMariam
+#EXTINF:-1,Vem_Radio
+https://eu1.stream4cast.com/proxy/vemradio/stream
+#EXTINF:-1,Lav_Radio
+https://eu.stream4cast.com/proxy/lavradio/stream
+#EXTINF:-1,Lav_Radio_Mix
+https://eu.stream4cast.com/proxy/lavradiomix/stream
+#EXTINF:-1,100%_Радио
+404 https://s05.volnorez.com/live-app/721682
+#EXTINF:-1,Сити-ФМ
+200 https://icecast-rian.cdnvideo.ru/voicearm1
+#EXTINF:-1,Yerevan_FM
+https://eu1.stream4cast.com/proxy/arradioi/stream
+#EXTINF:-1,Radio_XFM
+https://eu.stream4cast.com/proxy/xfmradio/stream
+#EXTINF:-1,Radio_Hay
+400 http://14678.cloudrad.io:9440/live?ver=684682
+#EXTINF:-1,Kiss_FM_Armenia
+400 https://am.radioaurora.am/kiss
+#EXTINF:-1,Radio_Yeraz
+400 http://149.255.60.194:8008/stream
+#EXTINF:-1,Русское_Радио_Армения
+https://stream.radiovan.fmhttp:/adio/tracks-a1/mono.m3u8
+#EXTINF:-1,MFM_Music_Radio
+https://eu.stream4cast.com/proxy/mfmradio/stream
+#EXTINF:-1,РАДИО_&quot;Ереванские_ночи&quot;
+400 http://icecast.yerevannights.com/YerevanNights
+#EXTINF:-1,Миг_ФМ
+http://mix.am:8000/mig
+#EXTINF:-1,Radio_YAN
+400 http://83.169.36.75:8000/stream?1573722895304
+#EXTINF:-1,Радио_России_-_Армения
+http://icecast.vgtrk.cdnvideo.ruhttp:/rzonam_mp3_128kbps
+#EXTINF:-1,Radio_Energy
+https://eu.stream4cast.com/proxy/energyfm/stream
+#EXTINF:-1,Nor_Radyo
+400 http://www.norradyo.com:8000/live
+#EXTINF:-1,Radio_Fama
+200 http://eu.stream4cast.com:8036/stream/;
+#EXTINF:-1,Radio_Marshall
+https://eu.stream4cast.com/proxy/marshallfm/stream
+#EXTINF:-1,Armenian_Christian_Radio_-_Bashde_Radio
+200 https://streams.radio.co/sa0bf8ec29/listen
+#EXTINF:-1,Radio_Azalia
+405 https://stream-152.zeno.fm/s865660v7hhvv?zs=ax6As9Z3Qpym_sXM7RVKOQ
+#EXTINF:-1,Radio_Mariam_Armenia
+200 http://dreamsiteradiocp.com:8056/stream
+#EXTINF:-1,Radio_Aurora_yc2
+400 http://am.radioaurora.am:8010/yc
+#EXTINF:-1,Armenia_One_TV
+http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
+#EXTINF:-1,Lratvakan_Radio_106.5_FM
+http://212.34.233.78:8000/live
+#EXTINF:-1,Luys_TV_Western_Armenian_TV
+200 http://luyse.mediatriple.net/luystv/luystv.smil/playlist.m3u8
+#EXTINF:-1,Radio_Jazz_FM
+400 https://am.radioaurora.am/jz
+#EXTINF:-1,Armenian_Gospel_Radio
+200 https://s8.myradiostream.com:15554/listen.mp3?nocache=1682446347
+#EXTINF:-1,Happy_New_Cat
+http://s01.radio-tochka.com:4560/stream

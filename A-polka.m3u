@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:-1,Blasmusikradio
+200 https://blasmusikradio.stream.laut.fm/blasmusikradio
+#EXTINF:-1,Schwany_Radio_5_-_Oberkrain
+301 https://twix.streampanel.cloud/5-oberkrain
+#EXTINF:-1,DobraStacja_Disco_Polo
+301 https://s3.slotex.pl/shoutcast/7344/stream?sid=1
+#EXTINF:-1,Mariachi_Eterno
+405 https://stream-163.zeno.fm/3hk1uzcrn7zuv?zs=8ZTBsaGnSpeAFf1lMdzg1Q
+#EXTINF:-1,Fara_Fara_Radio
+200 https://panel.retrolandigital.com/listen/fara_fara_radio/listen
+#EXTINF:-1,Radio_México_Internacional
+200 https://s2.mexside.net:7017/;
+#EXTINF:-1,1A_Volksmusik
+400 https://1a-volksmusik.radionetz.de/1a-volksmusik.mp3
+#EXTINF:-1,ON_Volksmusik
+400 https://0n-volksmusik.radionetz.de/0n-volksmusik.mp3
+#EXTINF:-1,24/7_Polka_Heaven
+200 http://192.99.83.149:8046/;stream.nsv
+#EXTINF:-1,WRJQ_Goodtime_Radio
+302 https://stream.rcast.net/65397
+#EXTINF:-1,Radio_Happysound
+https://igor.torontocast.com:3055/stream
+#EXTINF:-1,Radio_Ronalisa
+http://207.180.230.141:6017/stream
+#EXTINF:-1,Hitstream
+200 https://stream.streamhits.nl/;listen.pls
+#EXTINF:-1,Paraguay_Kape
+302 https://stream-050.zeno.fm/x1bcd137y5quv?zs=4wvUIdR_T0eBo7KmVZ8fMA
+#EXTINF:-1,Radio_Calypso_AM_675_khz
+400 https://mcp-1.streampanel.nl:8024/stream
+#EXTINF:-1,Radio_Hermax
+200 https://azura.radiohermax.nl:8010/hermax
+#EXTINF:-1,All_Star_Polka_Show
+https://cast3.asurahosting.com/proxy/michael8/stream
+#EXTINF:-1,Mijn_Piraat_Regiohits
+https://evcast.mediacp.eu:8010/stream
+#EXTINF:-1,Lomp_Radio
+400 https://streams.lomp.nl:9009/lomp
+#EXTINF:-1,Radio_Itakaru_FM
+302 https://stream-040.zeno.fm/c4zvrrvh02quv?zs=IusDW1iAR3-x3M9xSQX0HQ
+#EXTINF:-1,Tereré_Mix_Internacional
+https://server.radiostreaming.com.ar:7308/stream
+#EXTINF:-1,Radio_Muziekstad
+https://totaal-streaming.dehttp:/adio/8090http:/adio.mp3
+#EXTINF:-1,Die_Kirmesmusikanten
+200 https://kermisklanten.stream.laut.fm/kermisklanten
+#EXTINF:-1,La_Polvosa_Internet_Radio
+405 https://stream-149.zeno.fm/tp5fbk8rqn9tv?zs=tHN6BRhDR4GGiWZMHqsLrA
+#EXTINF:-1,Radio_Ñopotyvo_89.3_Fm
+401 http://streaming.camaronhosting.com:8070/;stream.nsv
+#EXTINF:-1,Internet_Radio_Malibu
+https://server1.malibustream.nl:2020/stream/internetradiomalibu
+#EXTINF:-1,Radio_La_Movida_FM_87.7
+http://freeuk30.listen2myradio.com:32600/;stream.nsv
+#EXTINF:-1,Radio_Deltha_Zwolle
+http://caster05.streampakket.com:8664/;stream.nsv
+#EXTINF:-1,RAAK
+https://secure.stream.demuziekisraak.nlhttp:/aak.mp3
+#EXTINF:-1,Radio_Joven_-_Argentina
+http://109.169.23.124:9724/;stream.nsv
+#EXTINF:-1,Studio_Nathalsteam
+200 https://ex52.voordeligstreamen.nl/8022/stream
+#EXTINF:-1,Radio_Purahei_Py
+405 https://stream-152.zeno.fm/zeqcxkdyuxhvv?zs=pUyO-0vAQ5qbrprxqZvjkA
+#EXTINF:-1,Radio_1224
+400 https://stream.radio1224.nl/1224
+#EXTINF:-1,Drentsepiratenteam
+https://server1.malibustream.nl:2020/stream/drentsepiratenteam
+#EXTINF:-1,HetPiratenTeam
+https://server-28.stream-server.nl:8832/stream
+#EXTINF:-1,Radio_Readymix
+200 https://server-26.stream-server.nl:8522/stream
+#EXTINF:-1,Radio_Obelix
+400 https://mediaserv30.live-streams.nl:18043/stream
+#EXTINF:-1,WRJQ_Goodtimes_Radio_(high-quality_stream)
+http://66.206.12.2:8144/stream
+#EXTINF:-1,Polka_Jammer_Station
+http://199.58.161.66/;

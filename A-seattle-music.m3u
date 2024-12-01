@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1,Big_R_Radio_-_The_Mix
+200 https://bigrradio.cdnstream1.com/5173_128
+#EXTINF:-1,Big_R_Radio_-_Latin_Reggaeton
+200 https://bigrradio.cdnstream1.com/5228_128
+#EXTINF:-1,Big_R_Radio_-_The_Hawk!
+200 https://bigrradio.cdnstream1.com/5174_128
+#EXTINF:-1,Big_R_Radio_-_Latin_Pop
+200 https://bigrradio.cdnstream1.com/5226_128
+#EXTINF:-1,Big_R_Radio_-_Latin_Bachata
+200 https://bigrradio.cdnstream1.com/5227_128
+#EXTINF:-1,Big_R_Radio_-_Latin_Jazz
+200 https://bigrradio.cdnstream1.com/5224_128
+#EXTINF:-1,Big_R_Radio_-_Latin_Rock
+200 https://bigrradio.cdnstream1.com/5230_128
+#EXTINF:-1,Big_R_Radio_-_Latin_Tango
+200 https://bigrradio.cdnstream1.com/5232_128
+#EXTINF:-1,Big_R_Radio_-_The_Beat
+200 https://bigrradio.cdnstream1.com/5176_128
+#EXTINF:-1,Big_R_Radio_-_Latin_Hip-Hop
+200 https://bigrradio.cdnstream1.com/5223_128
+#EXTINF:-1,Big_R_Radio_-_Latin_Salsa
+http://ais05.cdnstream.com:8890/;
+#EXTINF:-1,Big_R_Radio_-_Latin_Tropicalia
+200 https://bigrradio.cdnstream1.com/5233_128
+#EXTINF:-1,Big_R_Radio_-_Latin_Regional_Mexican
+200 https://bigrradio.cdnstream1.com/5229_128
+#EXTINF:-1,Big_R_Radio_-_Latin_Merengue
+200 https://bigrradio.cdnstream1.com/5225_128
+#EXTINF:-1,Big_R_Radio_-_Latin_Classics
+200 https://bigrradio.cdnstream1.com/5222_128
+#EXTINF:-1,KXPA
+200 http://kxparadio.serverroom.us:5852/;
+#EXTINF:-1,Big_R_Radio_-_Latin_Christian
+200 https://bigrradio.cdnstream1.com/5221_128
+#EXTINF:-1,Radio_Punjab
+405 https://stream-163.zeno.fm/uz7g24818s5tv?zs=TQ1hcc3JQyaATK_nPO9JEg
+#EXTINF:-1,La_Mega_Radio
+405 https://stream-153.zeno.fm/t97px64rrv8uv?zs=M2lbvzDbRVelOXHrXbl1qw
+#EXTINF:-1,AM_1300_The_Answer_Seattle
+403 https://14003.live.streamtheworld.com/KKOLAMAAC.aac
+#EXTINF:-1,La_Que_Chalquita
+https:/http:/adiosonline.one/listen/laquechalquitahttp:/adio.mp3;
+#EXTINF:-1,美国中文电台-西雅图
+200 http://kxparadio.serverroom.us:5852/stream.mp3

@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1,Arabesk_Vadisi
+200 https://arabeskv.80.yayin.com.tr/;
+#EXTINF:-1,Mega_aşk_fm
+http://eu9.fastcast4u.com:3331/;stream.nsv
+#EXTINF:-1,Arabeskin_Merkezi_FM
+200 https://canli.arabeskinmerkezi.com/9180/stream
+#EXTINF:-1,Hemdem_Radyo
+502 https://host.onlineradyotv.net/stream/hemdemradyo
+#EXTINF:-1,Mamaş_FM_Arabesk
+200 https://arabesk.mamasfm.com:3500/stream.mp3

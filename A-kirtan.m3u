@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,Sikhnet_Radio_-_All_Gurbani_Styles
+https:/http:/adio.sikhnet.com/proxy/channel1/autodj
+#EXTINF:-1,Sikhnet_Radio_-_Sri_Akhand_Paath_Sahib
+https:/http:/adio.sikhnet.com/proxy/channel5/autodj
+#EXTINF:-1,Sikhnet_Radio_-_The_Classics
+http:/http:/adio2.sikhnet.com:8501/stream
+#EXTINF:-1,AKJ_Radio
+http://edge.akjradio.org:3232/128k/;

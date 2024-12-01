@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,Radio_Tequila_Manele_(București)
+https://ssl.servereradio.ro/7000/stream
+#EXTINF:-1,Radio_Romanian_Hip_Hop
+200 https://asculta.radioromanian.net/8400/stream
+#EXTINF:-1,Play_Urban
+400 https://live.playradio.org:8443/UrbanHD
+#EXTINF:-1,Asha_Radio
+https://live.asha.ro/asha
+#EXTINF:-1,Radio_Tequila_Hip-Hop
+http://necenzurat.radiotequila.ro:7000/;
+#EXTINF:-1,Radio_Xtream_Romania
+200 https://asculta.radioxtream.com/8022/stream

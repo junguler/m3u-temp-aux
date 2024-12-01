@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,SomaFM_Fluid
+200 https://ice2.somafm.com/fluid-128-mp3
+#EXTINF:-1,SomaFM_Fluid_(128K_AAC)
+200 http://ice2.somafm.com/fluid-128-aac

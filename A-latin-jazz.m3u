@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1,Jazz_FM
+200 http://edge-bauerall-01-gos2.sharp-stream.com/jazzhigh.aac
+#EXTINF:-1,Relax_Cafe
+302 https://stream.relaxfm.ee/cafe
+#EXTINF:-1,Jazz_Radio_-_Latin_Jazz
+200 https://jazz-wr09.ice.infomaniak.ch/jazz-wr09-128.mp3
+#EXTINF:-1,Splash_Jazz
+200 https://ais-sa2.cdnstream1.com/2346_128.mp3
+#EXTINF:-1,Old_School_Cuban
+http://87.98.219.178:8516/stream
+#EXTINF:-1,CROOZE_smooth_jazz
+200 https://streaming.shoutcast.com/smoothjazz-crooze-aac
+#EXTINF:-1,ON_Jazz
+400 https://0n-jazz.radionetz.de/0n-jazz.mp3
+#EXTINF:-1,Qfm_Qmusica
+200 http://51.255.235.165:5092/;?1525271243952
+#EXTINF:-1,Radio_Bellissima_Jazz
+https://strw1.openstream.co/2174?aw_0_1st.collectionid%3D6091%26stationId%3D6091%26publisherId%3D2198%26k%3D1695119308
+#EXTINF:-1,La_Salsa_Del_Tren_Del_Sabor
+https://pstnet5.shoutcastnet.com:50384/stream
+#EXTINF:-1,KUVO_89.3_FM
+200 https://kuvo-ice.streamguys1.com/kuvo-mp3-128
+#EXTINF:-1,Suite_Jazz_Radio
+200 https://jenny.torontocast.com:2000/stream/suitejazzradio
+#EXTINF:-1,RadioNos_Jazz_Channel
+200 https://nos.radio.br/stream/3/;
+#EXTINF:-1,Radio_Andujar
+200 https://srv7031.dns-lcinternet.com/8056/stream
+#EXTINF:-1,TOP_MUSIC_RADIO
+200 https://sonic.cloudstreaming.eu/8076/stream
+#EXTINF:-1,UIS_Estéreo
+http://emisoras.uis.edu.co:8000/mp3
+#EXTINF:-1,Música_Maestro_Radio
+400 http://play14.tikast.com:8006/stream
+#EXTINF:-1,Radio_Taradell_107.7_FM
+https:/http:/elay.stream.enacast-cloud.com:40314http:/adiotaradellHD.mp3
+#EXTINF:-1,Digitally_Imported_-_Latin_House
+403 https://www.di.fm/latinhouse
+#EXTINF:-1,Radio_Art_-_Latin_Jazz
+400 http://air.radioart.com/fLatin_jazz.mp3
+#EXTINF:-1,salsagordaradio
+405 https://stream-156.zeno.fm/s4s85axxaseuv?zs=wkz6PN2uTb6G5qzHohU_gg&rj-ttl=5&rj-token=AAABbGVI6u8exFr_8maR3FNjha2QcZ3JveZOmTEa3ka0jGFwRrDxuw
+#EXTINF:-1,Horizonte_(Ciudad_de_México)_-_107.9_FM_-_XHIMR-FM_-_IMER_-_Ciudad_de_México
+200 http://s2.mexside.net/8014/stream
+#EXTINF:-1,Radio_Univers
+200 https://stream4.vestaradio.com/RadioUnivers

@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1,Radio_Kol-Chai
+302 https://media2.93fm.co.il/live-new
+#EXTINF:-1,Toker_FM
+https://broadcast.adpronet.comhttp:/adio/6060http:/adio.mp3
+#EXTINF:-1,SIMJA_TORAH_RADIO
+200 http://204.12.193.98:8381/;
+#EXTINF:-1,Radio_Orenu
+200 https://listen7.myradio24.com/orenu
+#EXTINF:-1,TSHUVAfm
+https://tshuvafm.radioca.st/;
+#EXTINF:-1,Radio_Kol-Chai_Music
+302 https://media2.93fm.co.il/livemusic
+#EXTINF:-1,Radio_Kol-Chai_בשיעור-חי
+302 https://media2.93fm.co.il/livetorani
+#EXTINF:-1,Radio_Breslev
+400 https://stream.radiobreslev.co.il/live
+#EXTINF:-1,Radio_2000
+200 https://cdn.cybercdn.live/Radio2000/MP3/icecast.audio
+#EXTINF:-1,Radio_Judaica
+https:/http:/adiojudaica.ice.infomaniak.chhttp:/adiojudaica-128.mp3
+#EXTINF:-1,ChaiFM
+301 http://zas2.ndx.co.za/proxy/chaifm?mp=/stream&1591013027890
+#EXTINF:-1,Radio_Judaica_Lyon
+https://judaica.ice.infomaniak.ch/judaica-high
+#EXTINF:-1,RadioJ
+https://listen.radioking.comhttp:/adio/261427/stream/306436
+#EXTINF:-1,Torah-Box_Radio
+http:/http:/adio.torah-box.com:8000/_a
+#EXTINF:-1,Chabad.org_Jewish_Music
+200 https://stream.radio.co/sdfd68a101/listen
+#EXTINF:-1,Chabad.org_Torah_Classes_Radio
+200 https://streams.radio.co/s9f35c3afc/listen
+#EXTINF:-1,Radio_Breslov_Karmiel
+200 https://securestreams6.autopo.st:2294/mp3

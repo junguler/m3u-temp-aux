@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1,Fantasy_Faire_Radio
+400 http://streams.radioriel.org:8070/stream
+#EXTINF:-1,Narrenwut
+200 https://mittelalter-net.stream.laut.fm/mittelalter-net
+#EXTINF:-1,Radio_Rivendell
+https://play.radiorivendell.comhttp:/adio/8000http:/adio.mp3
+#EXTINF:-1,Explorers_Emporium_Radio
+https://listen.radioking.comhttp:/adio/155740/stream/196549
+#EXTINF:-1,Радио_Лесная_Вода
+http://s02.radio-tochka.com:4100http:/adio
+#EXTINF:-1,Radio_Riel_Reverie
+400 http://streams.radioriel.org:8050/stream
+#EXTINF:-1,Fantasy_Radio_-_Italo_Disco_Euro_Dance_HiNRG
+403 http://italo.italo.nu/live
+#EXTINF:-1,Radio_Fantastika
+400 http://fantasyradioru.no-ip.biz:8002/live
+#EXTINF:-1,Radio_Fantasy_Vrbas
+http://109.206.96.34:8575/;stream.nsv
+#EXTINF:-1,Радио_-_МДС_(Модель_Для_Сборки)
+http://stream.kazancity.net:8000/27-mds
+#EXTINF:-1,laut.fm_Fantasyradio
+200 http://fantasyradio.stream.laut.fm/fantasyradio?t302=2023-04-25_19-30-05&uuid=111a4760-875d-4e89-9d44-af5c92f76ccb

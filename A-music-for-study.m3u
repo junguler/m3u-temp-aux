@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,EPIC_CLASSICAL_-_Classical_Study
+302 https://stream.epic-classical.com/classical-study
+#EXTINF:-1,BCSS_Bucks_Radio
+https:/http:/adio.bcssmedia.cahttp:/adio/8000http:/adio.mp3
+#EXTINF:-1,I_Love_Music_-_I_Love_Chillhop
+200 https://ilm-stream13.radiohost.de/ilm_ilovechillhop_mp3-192
+#EXTINF:-1,__STUDY___by_rautemusik_(rm.fm)
+https:/http:/autemusik-de-hz-fal-stream18.radiohost.de/study?ref=radiobrowser
+#EXTINF:-1,Classical_For_StudyingA
+http://51.68.215.9:8000http:/adio.mp3
+#EXTINF:-1,Classical_music_for_studying
+200 http://51.68.215.9:8000/;
+#EXTINF:-1,CHOQ_Franco
+http:/http:/adio.servlinks.com:8350/choqfranco
+#EXTINF:-1,Radio_Art_-_Work
+400 http://air.radioart.com/fFor_work.mp3

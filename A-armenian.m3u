@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1,Radio_Jan
+http://vps782549.ovh.net:10255/RadioJan
+#EXTINF:-1,Общественное_радио_Армении
+http://178.160.193.131:8000/stream
+#EXTINF:-1,Radio_Aurora
+400 https://am.radioaurora.am/al.mp3
+#EXTINF:-1,Radio_Van
+https://stream.radiovan.fm:8000/96_stereo
+#EXTINF:-1,FM_105.5
+400 http://14842.cloudrad.io:9536/live?ver=658784
+#EXTINF:-1,Radio_Mariam
+400 https://live.radiomariam.am/RadioMariam
+#EXTINF:-1,Vem_Radio
+https://eu1.stream4cast.com/proxy/vemradio/stream
+#EXTINF:-1,Lav_Radio_Mix
+https://eu.stream4cast.com/proxy/lavradiomix/stream
+#EXTINF:-1,Radio_Yeraz
+400 http://149.255.60.194:8008/stream
+#EXTINF:-1,РАДИО_&quot;Ереванские_ночи&quot;
+400 http://icecast.yerevannights.com/YerevanNights
+#EXTINF:-1,Libano_-_Հայազգի_Ձայն
+200 https://c7.radioboss.fm:18299/stream
+#EXTINF:-1,Radio_YAN
+400 http://83.169.36.75:8000/stream?1573722895304
+#EXTINF:-1,Radio_Energy
+https://eu.stream4cast.com/proxy/energyfm/stream
+#EXTINF:-1,Nor_Radyo
+400 http://www.norradyo.com:8000/live
+#EXTINF:-1,Radio_Fama
+200 http://eu.stream4cast.com:8036/stream/;
+#EXTINF:-1,Hairenik_Armenian_Radio
+200 https://streaming.radio.co/sb64369622/listen
+#EXTINF:-1,Radio_Azalia
+405 https://stream-152.zeno.fm/s865660v7hhvv?zs=ax6As9Z3Qpym_sXM7RVKOQ
+#EXTINF:-1,Radio_YAN_-_PATRIOTIC
+400 http://83.169.36.75:8001/stream
+#EXTINF:-1,Vatican_News_-_Հայերէն__(Armenian)
+https:/http:/adio.vaticannews.va/stream-hy
+#EXTINF:-1,Radio_Aurora_yc2
+400 http://am.radioaurora.am:8010/yc
+#EXTINF:-1,Happy_New_Cat
+http://s01.radio-tochka.com:4560/stream
+#EXTINF:-1,Radio_Mariam_Armenia
+200 http://dreamsiteradiocp.com:8056/stream
+#EXTINF:-1,Armenia_One_TV
+http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
+#EXTINF:-1,Radio_Jan_USA
+400 https://s4.voscast.com:8865/stream
+#EXTINF:-1,Jesus_Coming_FM_-_Armenian
+200 http://live.jesuscomingfm.com:8566/;
+#EXTINF:-1,Lratvakan_Radio_106.5_FM
+http://212.34.233.78:8000/live
+#EXTINF:-1,Radio_Jazz_FM
+400 https://am.radioaurora.am/jz
+#EXTINF:-1,Armenian_Gospel_Radio
+200 https://s8.myradiostream.com:15554/listen.mp3?nocache=1682446347

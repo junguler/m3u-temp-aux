@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1,Cool_Jazz_Florida
+https://vip2.fastcast4u.com/proxy/cjfla?mp=/1
+#EXTINF:-1,Radio_Art_-_Cool_Jazz
+400 http://air.radioart.com/fCool_jazz.mp3?dlid=
+#EXTINF:-1,Suite_Jazz_Radio
+200 https://jenny.torontocast.com:2000/stream/suitejazzradio
+#EXTINF:-1,thejazzgroove.org_WEST
+200 http://audio-edge-3mayu.fra.h.radiomast.io/f0ac4bf3-bbe5-4edb-b828-193e0fdc4f2f
+#EXTINF:-1,#1_Splash_Jazz
+200 https://ais-sa2.cdnstream1.com/2346_128.mp3
+#EXTINF:-1,0nlineradio
+302 https://stream.0nlineradio.com/jazz?ref=radiobrowser
+#EXTINF:-1,Adroit_Jazz_Underground_HD
+400 https://icecast.walmradio.com:8443/jazz
+#EXTINF:-1,Radio-Zazpi
+http://173.212.207.132:8000http:/adio.mp3
+#EXTINF:-1,Horizonte_(Ciudad_de_México)_-_107.9_FM_-_XHIMR-FM_-_IMER_-_Ciudad_de_México
+200 http://s2.mexside.net/8014/stream
+#EXTINF:-1,The_Jazz_Groove_-_East
+200 http://audio-edge-3mayu.fra.h.radiomast.io/8a384ff3-6fd1-4e5d-b47d-0cbefeffe8d7

@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,Kringvarp_Føroya
+400 http://netvarp.kringvarp.fo:443/uvhm
+#EXTINF:-1,FM98,7
+400 https://high.lindin.fo/
+#EXTINF:-1,FM1
+http://stream.midlar.fohttp:/as2
+#EXTINF:-1,Lindin_FM
+400 http://lindinhigh.stream.fo:8000/lindinhigh
+#EXTINF:-1,VoxPop_Radio
+400 http://stream.midlar.fo/voxpop
+#EXTINF:-1,Radio_Mojdeh_-_Iranian_Farsi/Persian_Christian_music_and_talk
+https://ic2326.c1261.fastserv.comhttp:/m128
+#EXTINF:-1,Bible_Radio_-_Sharief_Translation
+http://streamingbibleradio.org:8001/Farsi
+#EXTINF:-1,Rás2
+http://stream.midlar.fohttp:/as2-128
+#EXTINF:-1,KVF2
+400 http://netvarp.kringvarp.fo:4443/kvf2_2

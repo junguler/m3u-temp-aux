@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1,Magic_Radio
+400 https://mp3.magic-radio.net/
+#EXTINF:-1,Radio_Paradise_(Mellow_Mix)
+200 http://stream.radioparadise.com/mellow-flacm
+#EXTINF:-1,Open_Broadcast
+http://stream.openbroadcast.org/openbroadcast.flac
+#EXTINF:-1,Radio_Paradise_Mellow_Mix_Flac
+200 http://stream.radioparadise.com/mellow-flac
+#EXTINF:-1,Intense_Radio_(Flac)
+400 http://secure.live-streams.nl/flac.flac
+#EXTINF:-1,Hi_On_Line_Radio_-_Flac
+400 http://mscp2.live-streams.nl:8100/flac.flac
+#EXTINF:-1,Radio_Paradise_(Rock_Mix)
+http://stream.radioparadise.comhttp:/ock-flacm
+#EXTINF:-1,RadioBlues_Flac
+https://audio-edge-cmc51.fra.h.radiomast.iohttp:/adioblues-flac
+#EXTINF:-1,ČRo_Jazz
+400 http://amp.cesnet.cz:8000/cro-jazz.flac
+#EXTINF:-1,Naim_Radio_[lossless_flac]
+400 http://mscp3.live-streams.nl:8360/flac.flac
+#EXTINF:-1,Naim_Jazz
+400 http://mscp3.live-streams.nl:8340/jazz-flac.flac
+#EXTINF:-1,Naim_Classical
+400 http://mscp3.live-streams.nl:8250/class-flac.flac
+#EXTINF:-1,Radio_Paradise_(World/etc_Mix)
+200 http://stream.radioparadise.com/world-etc-flacm
+#EXTINF:-1,Naim_Jazz_[flac]
+https://mscp3.live-streams.nl:8342/jazz-flac.flac
+#EXTINF:-1,ČRo_D-dur_FLAC
+400 http://amp.cesnet.cz:8000/cro-d-dur.flac
+#EXTINF:-1,Radio_Club80_Retro
+https://stream.radioclub80.cl:8022http:/etro80.mp3
+#EXTINF:-1,Radio_Club80_Clasicos
+200 https://stream.radioclub80.cl:8002/clasicos80.mp3
+#EXTINF:-1,Radio_Club80_Euro_Hits
+200 https://stream.radioclub80.cl:8032/stream.euro80mp3
+#EXTINF:-1,Geheime_zender_muziek_en_piratenmuziek_luisteren
+302 https://stream.geheimezenderstream.nl/stream_

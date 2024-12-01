@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1,BNR_Nieuwsradio
+https://20863.live.streamtheworld.com:443/BNR_NIEUWSRADIO.mp3
+#EXTINF:-1,Vlaamse_Wonderjaren
+200 https://c16.radioboss.fm:8096/stream
+#EXTINF:-1,Echtepiraten
+200 https://azuraserv3.live-streams.nl:8040/stream.mp3?1551790825475
+#EXTINF:-1,Van_92.7_FM
+403 https://18853.live.streamtheworld.com:443/WYVNFMAAC.aac
+#EXTINF:-1,Joe_Lage_Landen
+200 https://icecast-qmusicbe-cdp.triple-it.nl/joe_lage_landen.aac
+#EXTINF:-1,WHTC
+403 https://26273.live.streamtheworld.com:443/WHTCAM.mp3
+#EXTINF:-1,Nederpop
+200 https://nederpop.stream.laut.fm/nederpop?t302=2023-04-25_19-32-41&uuid=10a169e5-ee06-4b36-bf29-0a82a09ad9ea
+#EXTINF:-1,Studio_NL
+200 https://studionl.stream.laut.fm/studionl?t302=2023-04-25_19-32-33&uuid=d201ab9c-0868-4205-8872-0b68c9eb884a
+#EXTINF:-1,Radio_1224
+400 https://stream.radio1224.nl/1224
+#EXTINF:-1,Bright.FM_Plus
+200 http://str1.hollanddata.eu:8006/stream
+#EXTINF:-1,RTV_Noord_Holland_(NH_Radio)
+https://ice.cr6.streamzilla.xlcdn.com:8000/sz=nhnieuws=NHRadio_mp3
+#EXTINF:-1,Carnaval-Radio
+200 http://ams1.reliastream.com:8088/stream
+#EXTINF:-1,Groot_Nieuws_Radio_(HQ-stream)
+http://grootnieuwsradio.streampartner.nl:8000/live
+#EXTINF:-1,Radio_Regenboog
+400 http://server-28.stream-server.nl:8830/stream

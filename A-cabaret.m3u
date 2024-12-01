@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,TOP_FM_comedy
+400 http://live.topfm.hu:8000/comedy.mp3
+#EXTINF:-1,American_Gold_-_Pumpkin_FM
+https://cast2.asurahosting.com/proxy/americangold/stream
+#EXTINF:-1,Radio_Danielka
+200 http://s3.slotex.pl:7088/;

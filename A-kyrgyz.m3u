@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1,Kyrgyzstan_Obondory
+400 https://cdn.radioplayer.kg:8443/obondoru64
+#EXTINF:-1,Hit_FM
+400 https://cdn.radioplayer.kg:8443/hitfm64
+#EXTINF:-1,Radio_Retro_(ex_FM88.5)
+http://a.streamsin.space:8000http:/etro_exfm885
+#EXTINF:-1,Радио_Люкс
+400 https://cdn.radioplayer.kg:8443/new64
+#EXTINF:-1,Emotions
+400 http://a.streamsin.space:8000/emotions
+#EXTINF:-1,MARAL_FM
+http://212.42.115.186:8000/;stream.mp3
+#EXTINF:-1,Радио_Татина
+404 https://s0.radioheart.ru:8000/RH20675
+#EXTINF:-1,Dream_Town
+400 http://a.streamsin.space:8000/dream_town
+#EXTINF:-1,Tzgospel_(_Kyrgyzstan)
+405 https://stream-151.zeno.fm/1n6f9y596ehvv?zs=OOGPV1-iQmaKUUz4pujZVw
+#EXTINF:-1,ToguzToroFM_105.1
+200 https://listen3.myradio24.com/42010
+#EXTINF:-1,iradio.one_-_Fever
+400 http://a.streamsin.space:8000/fever

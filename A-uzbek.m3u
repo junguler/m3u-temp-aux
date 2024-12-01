@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,Navroz_FM
+400 http://navruzfm.uz:9000/navruz_low
+#EXTINF:-1,РАДИО_&quot;Ориат_Доно&quot;
+http://www.oriatdono.uz/
+#EXTINF:-1,Классик_ФМ
+http://80.80.222.26:8000/classicfm.ogg?_=1

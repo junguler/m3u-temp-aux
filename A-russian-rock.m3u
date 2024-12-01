@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1,НАШЕ_Радио
+200 https://nashe1.hostingradio.ru/nashe-256
+#EXTINF:-1,Радио_Рекорд_-_Rock
+https:/http:/adiorecord.hostingradio.ruhttp:/ock96.aacp
+#EXTINF:-1,Радио_Maximum
+200 https://maximum.hostingradio.ru/maximum96.aacp
+#EXTINF:-1,Русское_Радио_-_Русский_Рок
+https:/http:/r-russkijrok.hostingradio.ruhttp:/usskijrok96.aacp
+#EXTINF:-1,Rock_FM
+https://nashe1.hostingradio.ruhttp:/ock-256
+#EXTINF:-1,Наше_Радио_-_Классик_рок
+200 https://nashe1.hostingradio.ru/nasheclassic.mp3
+#EXTINF:-1,Наше_Радио_-_Щас_спою
+200 https://nashe1.hostingradio.ru/nashesongs.mp3
+#EXTINF:-1,Наше_радио_2.0
+200 https://nashe1.hostingradio.ru:18000/nashe20-128.mp3
+#EXTINF:-1,101.ru_-_Виктор_Цой_и_группа_«КИНО»
+200 https://pub0202.101.ru:8443/stream/pro/aac/64/103?
+#EXTINF:-1,Радио_Maximum_-_Rock_Hits
+https:/http:/ockhits.hostingradio.ruhttp:/ockhits96.aacp
+#EXTINF:-1,Радио_Русский_Рок
+https:/http:/ock.amgradio.ru/RusRock
+#EXTINF:-1,Дорожное_радио_-_Рок-клуб
+200 https://hls-01-dorognoe-rock.emgsound.ru/18/112/playlist.m3u8?udid=aud
+#EXTINF:-1,101.ru_-_Русский_Рок
+200 https://pub0202.101.ru:8443/stream/pro/aac/64/42?
+#EXTINF:-1,Зайцев.FM_-_РуРок
+https://zaycevfm.cdnvideo.ru/ZaycevFM_rurock_256.mp3
+#EXTINF:-1,Donat_FM_-_Русский_рок
+200 https://c6.radioboss.fm:18097/stream
+#EXTINF:-1,Русское_Радио_-_Земляне
+https:/http:/r-zemlyane.hostingradio.ru/zemlyane96.aacp
+#EXTINF:-1,Папино_Радио
+200 https://a1.radioheart.ru:9001/RH53662
+#EXTINF:-1,Радио_Maximum_-_Russian_Rock
+404 https://maximum-russian.hostingradio.ru/maxrussian96.aacp
+#EXTINF:-1,Русское_Радио_-_RockFam
+https:/http:/r-rockfam.hostingradio.ruhttp:/ockfam96.aacp
+#EXTINF:-1,Радио_Новороссия_Rocks
+400 http://212.66.37.34:8000/nrocks
+#EXTINF:-1,Радио_Maximum_-_New_Russians
+200 https://maximum-newrussians.hostingradio.ru/maxnewrussians96.aacp
+#EXTINF:-1,Polygon.FM_-_Тихий_Русский
+https://eu6.fastcast4u.com/proxy/qrm?mp=/stream
+#EXTINF:-1,Радио_Два_Берега
+https:/http:/adio-connect.dline-media.com/ber_FM.mp3
+#EXTINF:-1,Радио_Рок-Атака
+https://listen7.myradio24.comhttp:/ockataka
+#EXTINF:-1,Polygon.FM_-_Громкий_Русский_
+https://eu6.fastcast4u.com/proxy/lrm?mp=/stream
+#EXTINF:-1,КомпромиС_ФМ
+200 https://listen5.myradio24.com/kfm
+#EXTINF:-1,Royal_Rock
+404 http://193.33.170.218:8000/RoyalRock
+#EXTINF:-1,ULTRA
+200 http://nashe1.hostingradio.ru/ultra-256
+#EXTINF:-1,101.ru_Любэ
+200 https://pub0101.101.ru/stream/pro/aac/64/158
+#EXTINF:-1,Kir98_Radio_station
+400 http://kir98.no-ip.org/aac

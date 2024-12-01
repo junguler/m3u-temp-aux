@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1,70_80_Hits_HQ
+400 https://nr8.newradio.it:19574/stream
+#EXTINF:-1,NBC_Milano
+400 https://nr7.newradio.it:19350/stream
+#EXTINF:-1,EsRadio_(MP3_HQ)
+200 https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-high.mp3
+#EXTINF:-1,egoFM_BW_[HQ]
+200 https://cast.egofm.de/egofmbw.mp3?ar-distributor=ffa0
+#EXTINF:-1,Ràdio_Klara_(HQ)
+400 https://cervera.eldialdigital.com:21111/stream
+#EXTINF:-1,atos_hq
+200 http://atosradio.com:8001/stream/2/
+#EXTINF:-1,Groot_Nieuws_Radio_(2022)
+403 https://25503.live.streamtheworld.com/GNR.mp3
+#EXTINF:-1,Groot_Nieuws_Radio_(HQ-stream)
+http://grootnieuwsradio.streampartner.nl:8000/live
+#EXTINF:-1,Radio_Club80_Baladas
+400 https://stream.radioclub80.cl:8042/baladas80.mp3
+#EXTINF:-1,Radio_Club80_Clasicos
+200 https://stream.radioclub80.cl:8002/clasicos80.mp3
+#EXTINF:-1,Radio_Club80_Euro_Hits
+200 https://stream.radioclub80.cl:8032/stream.euro80mp3

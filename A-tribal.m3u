@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1,Радио_Рекорд_-_Groove/Tribal
+https:/http:/adiorecord.hostingradio.ru/groovetribal96.aacp
+#EXTINF:-1,KSUT_Southern_Ute_Tribal_Radio
+200 https://ksut.streamguys1.com/ksut
+#EXTINF:-1,Audiogrooves_Club_Channel
+http://soul.audiogrooves.net/club.ogg
+#EXTINF:-1,Laut.FM_House-Nation
+200 http://house-nation.stream.laut.fm/house-nation?t302=2023-04-25_19-31-00&uuid=135d78f3-1d55-455a-8837-dcb138eb867a
+#EXTINF:-1,psyradio_*_fm_-_psytrance
+200 http://streamer.psyradio.org:8030/;listen.mp3
