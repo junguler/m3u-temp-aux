@@ -1,0 +1,103 @@
+#EXTM3U
+#EXTINF:-1,Radio_434_-_Rocks
+400 https://icecast01.mycloudserver.info/lsl-rocks
+#EXTINF:-1,Cosmic_Waves_-_Ambient
+404 https://stream.zeno.fm/9km09vwud5zuv
+#EXTINF:-1,Synth_Radio
+400 http://77.51.212.205:8005/live192
+#EXTINF:-1,SomaFM_Deep_Space_One
+200 https://ice6.somafm.com/deepspaceone-128-aac
+#EXTINF:-1,Deep_In_Space_Радио
+https://deepinspace.s02.radio-tochka.com:5095/stream?
+#EXTINF:-1,Gritty_Rock_Radio
+https://listen.radioking.comhttp:/adio/10713/stream/224413
+#EXTINF:-1,NRG_Radio_FM
+200 https://serverparadize.com/8026/stream
+#EXTINF:-1,Cryosleep_Radio
+400 http://streams.echoesofbluemars.org:8000/cryosleep
+#EXTINF:-1,Dublab_Radio
+200 https://dublab.out.airtime.pro/dublab_a
+#EXTINF:-1,STR_-_Space_Travel_Radio
+http://136.243.156.30:1701/stream/3/
+#EXTINF:-1,1.FM_-_Gorilla_FM_Radio
+200 https://strmreg.1.fm/gorillafm_mobile_mp3
+#EXTINF:-1,Radio_InfoWeb_Deep_Space_Chill
+400 http://streamhub.radioinfoweb.net:8000/chill
+#EXTINF:-1,Strange_Radio_-_Pumpkin_FM
+https://cast2.asurahosting.com/proxy/strangeradio/stream
+#EXTINF:-1,Cosmic_FuzzFm
+403 https://26383.live.streamtheworld.com:443/SAM04AAC335.mp3
+#EXTINF:-1,Deep_Nuggets_Radio
+302 https://ais-edge104-live365-dal02.cdnstream.com/a73363
+#EXTINF:-1,Радио_Бетельгейзе
+400 http://sat.radio-betelgeuse.com:8000/live
+#EXTINF:-1,Radio_Elettrica
+200 http://nr8.newradio.it:9562/stream
+#EXTINF:-1,Radio_Relaxo
+https:/http:/agss.ca:8010/stream?1634558762548
+#EXTINF:-1,The_Morning_Breeze
+404 https://edge.mixlr.com/channel/bhrlq
+#EXTINF:-1,Path_through_the_Forest
+200 https://paththroughtheforest.stream.laut.fm/path_through_the_forest?t302=2023-04-25_19-31-44&uuid=425515d4-2089-4125-9a35-df47161adb4a
+#EXTINF:-1,RadioNos_Epic_Channel
+200 https://nos.radio.br/stream/7/;
+#EXTINF:-1,SpaceSynth.Ru
+200 https://listen2.myradio24.com/1987
+#EXTINF:-1,The_Obelisk_Radio
+http:/http:/adio.theobelisk.net:8000/thepodilisk
+#EXTINF:-1,Web_Rádio_Espiritualista_Records_Da_Música
+405 https://stream-149.zeno.fm/sxtlu2ulhywtv?zs=ez-BXlzrRNmOJQR183SxlA
+#EXTINF:-1,Downtuned_Radio
+200 http://195.242.237.14:8020/stream
+#EXTINF:-1,Aircooled
+200 https://aircooled.stream.laut.fm/aircooled?t302=2023-04-25_19-39-42&uuid=c47350eb-81b6-49f3-92d6-8913c2491d4e
+#EXTINF:-1,SomaFM_Mission_Control_-_AAC_64k
+200 http://ice2.somafm.com/missioncontrol-64-aac
+#EXTINF:-1,SomaFM_Metal_Detector_(128k_AAC)
+200 https://ice2.somafm.com/metal-128-aac
+#EXTINF:-1,Radio_Cooperativa_-_Padova
+400 http://99.198.118.250:8212/stream/coop.ogg
+#EXTINF:-1,Code_Radio
+https://coderadio-admin.freecodecamp.orghttp:/adio/8010http:/adio.mp3
+#EXTINF:-1,Espace_Dancefloor
+200 http://espace-dancefloor.ice.infomaniak.ch/espace-dancefloor-high.mp3
+#EXTINF:-1,Espace_Hot_30
+200 http://espace-vintage.ice.infomaniak.ch/espace-vintage-high.mp3
+#EXTINF:-1,Espace_Dance_90
+200 http://espace-disco.ice.infomaniak.ch/espace-disco-high.mp3
+#EXTINF:-1,Espace_Club
+200 http://espace100.ice.infomaniak.ch/espace100-high.mp3
+#EXTINF:-1,OpenFM_-_Spacer
+200 http://stream.open.fm/144
+#EXTINF:-1,SomaFM_Synphaera_Radio
+200 https://ice2.somafm.com/synphaera-128-aac
+#EXTINF:-1,laut.fm_-_Shamanic_Tunes
+200 http://shamanictunes.stream.laut.fm/shamanic_tunes?t302=2023-04-25_19-36-37&uuid=b5bb2ae5-85cf-4276-b10c-1e42cbb5878b
+#EXTINF:-1,Radio_Mirage_-_Space
+200 https://ssl-1.radiohost.pl:9563/stream?ver=987766
+#EXTINF:-1,Progsky
+https://cc3.streammaximum.com:20045/stream
+#EXTINF:-1,Best_Of_Rock.FM_Hard_Rock
+https:/http:/adio21.streamabc.nethttp:/adio21-hardrock-mp3-256-1630702?sABC=64480ss6%230%23n1q9s1ns4osoonq326452q0po510q6pp%23orfgbsebpx.sz&aw_0_1st.playerid=bestofrock.fm&amsparams=playerid:bestofrock.fm;skey:1682444278
+#EXTINF:-1,SomaFM_Mission_Control_-_AAC_128k
+200 http://ice2.somafm.com/missioncontrol-128-aac
+#EXTINF:-1,SomaFM_Deep_Space_One_128k_MP3
+200 https://ice2.somafm.com/deepspaceone-128-mp3
+#EXTINF:-1,Stone_Prog
+200 http://stone-prog.stream.laut.fm/stone-prog?t302=2023-04-25_19-39-35&uuid=8e0bb55e-f432-466b-906e-6852cd119354
+#EXTINF:-1,Planetary_Radio_90,5_Stockholm_Pasadena
+http:/http:/adiostreamtwo.mine.nu:8186/;
+#EXTINF:-1,Laut.FM_Smokespace
+200 http://smokespace.stream.laut.fm/smokespace?t302=2023-04-25_19-41-52&uuid=f5ac0728-0cbb-4b51-bf65-75b181430c5b
+#EXTINF:-1,Echoes_of_Bluemars
+400 http://streams.echoesofbluemars.org:8000/bluemars
+#EXTINF:-1,Milky_Way_Radio
+200 https://milky-way.network/320kbps.m4a
+#EXTINF:-1,Laut.FM_Chillout-Radio
+200 http://chilloutradio.stream.laut.fm/chilloutradio?t302=2023-04-25_19-41-52&uuid=5425bf02-104f-4c56-89ec-3c46408378f4
+#EXTINF:-1,Nightride_FM_-_Spacesynth
+405 https://stream.nightride.fm/spacesynth.mp3
+#EXTINF:-1,Voices_From_Within
+400 http://streams.echoesofbluemars.org:8000/voicesfromwithin
+#EXTINF:-1,Soma_FM:_Deep_Space_One
+200 http://ice4.somafm.com/deepspaceone-128-aac

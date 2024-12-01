@@ -1,0 +1,145 @@
+#EXTM3U
+#EXTINF:-1,Metro_FM
+403 https://22673.live.streamtheworld.com:443/METROFMAAC.aac
+#EXTINF:-1,LM_Radio
+https://streaming.fabrik.fm/lm-radio/echocast/audio/medium/index.m3u8
+#EXTINF:-1,RSG
+403 https://25443.live.streamtheworld.com:443/RSG.mp3
+#EXTINF:-1,Jacaranda_FM
+200 https://live.jacarandafm.com/jacarandalow.aac
+#EXTINF:-1,947
+403 https://22183.live.streamtheworld.com:443/FM947_SC
+#EXTINF:-1,Bosveld_Stereo
+https://iceant.antfarm.co.za/Bosveld
+#EXTINF:-1,Radio_2000
+403 https://22193.live.streamtheworld.com:443/RADIO2000AAC.aac
+#EXTINF:-1,5FM
+403 https://23613.live.streamtheworld.com:443/5FMAAC.aac
+#EXTINF:-1,Kaya_FM
+https://live-kaya.sharp-stream.com/kayalow.aac
+#EXTINF:-1,Lesedi_FM
+403 https://25493.live.streamtheworld.com:443/LESEDIAAC.aac
+#EXTINF:-1,SAfm
+403 https://22653.live.streamtheworld.com:443/SAFMAAC.aac
+#EXTINF:-1,Classic_FM
+200 https://edge.iono.fm/xice/49_medium.mp3?p=embed
+#EXTINF:-1,Motsweding_FM
+403 https://22193.live.streamtheworld.com:443/MOTSWEDINGAAC.aac
+#EXTINF:-1,Power_fm
+200 https://edge.iono.fm/xice/65_medium.aac
+#EXTINF:-1,Hot_102.7_FM
+200 https://edge.iono.fm/xice/57_medium.aac
+#EXTINF:-1,Mix_FM
+200 https://edge.iono.fm/xice/113_medium.aac
+#EXTINF:-1,Housefrequency
+https://stream.housefrequency.nethttp:/adio/8000/128
+#EXTINF:-1,Thobela_FM
+403 https://22673.live.streamtheworld.com:443/THOBELAAAC.aac
+#EXTINF:-1,Springbok_Radio
+403 https://25483.live.streamtheworld.com:443/SPRINGBOKRADIOAAC.aac
+#EXTINF:-1,Ikwekwezi_FM
+403 https://23613.live.streamtheworld.com:443/IKWEKWEZIAAC.aac
+#EXTINF:-1,Radio_Joyful_FM
+200 https://c15.radioboss.fm:8218/stream
+#EXTINF:-1,Rainbow_FM
+https://zas1.ndx.co.za:8003/stream
+#EXTINF:-1,Hillbrow_Radio_24/7
+200 https://s5.radio.co/s1673f1aa3/listen
+#EXTINF:-1,Channel_Islam_Radio
+200 https://edge.iono.fm/xice/109_medium.aac
+#EXTINF:-1,Kofifi_FM_97.2
+http://kofifi.infoview.tv:8000/kofifi
+#EXTINF:-1,TruLight_Radio_XM
+200 https://s18.myradiostream.com/:9438/;listen.mp3
+#EXTINF:-1,Radio_Veritas
+400 https://zas5.ndx.co.za:9618/stream
+#EXTINF:-1,Transafricaradio
+http://iceant.antfarm.co.za:8000/TransAfricaRadio
+#EXTINF:-1,By_The_Grace_Radio
+http://s7.voscast.com:9580/;
+#EXTINF:-1,Bakoni_Radio
+405 https://stream-149.zeno.fm/f0yzc2g7fd0uv?zs=MbvJnBdoTPCwyNAEHhpVJg
+#EXTINF:-1,Radio_Today
+https:/http:/t1485.out.airtime.prohttp:/t1485_b
+#EXTINF:-1,ChaiFM
+301 http://zas2.ndx.co.za/proxy/chaifm?mp=/stream&1591013027890
+#EXTINF:-1,Platinum_Gold_Radio
+http://s2.voscast.com:10128/;stream.mp3
+#EXTINF:-1,Afri_Fm
+302 https://stream-050.zeno.fm/d5apx0ntfzzuv?zs=EMwj5oPQRr2q6XaWvjnHdA
+#EXTINF:-1,Eldos_FM
+400 https://zas5.ndx.co.za:9612/stream
+#EXTINF:-1,Mzansi_Joburg_City_FM
+302 https://stream-061.zeno.fm/y42u4pmnqwzuv?zs=0BtHv1XQSPuKW5HZM-XrEQ
+#EXTINF:-1,Kings_Love_Radio
+405 https://stream-150.zeno.fm/23st8cwg09duv?zs=Q5FJFNBfRAmaY3wW_oUocA
+#EXTINF:-1,VOW_FM
+200 https://edge.iono.fm/xice/101_medium.aac
+#EXTINF:-1,DK_Radio
+200 https://dkradio1.radioca.st/;
+#EXTINF:-1,Africa_Today_News_Radio
+405 https://stream-149.zeno.fm/6wn16bu2x68uv?zs=3SKazpDARHm_wf-hhpVpjg
+#EXTINF:-1,Channel_Africa
+403 https://25483.live.streamtheworld.com:443/CA247AAC.aac
+#EXTINF:-1,Fashion_District_Radio
+https://sv2.famcast.co.za/proxy/frd?mp=/stream
+#EXTINF:-1,Salaamedia
+https://capeant.antfarm.co.za/salaam/salaam.stream/playlist.m3u8
+#EXTINF:-1,AFTV_Radio
+405 https://stream-150.zeno.fm/4p3md467ytzuv?zs=KaZRSHSRRkqXXFHfnGL-mw
+#EXTINF:-1,Timeline_Radio
+200 https://servidor21-4.brlogic.com:7106/live
+#EXTINF:-1,UbuntuFM_HipHop_Radio
+400 https://streaming.coollective.nl:8443/UbuntuFMhiphop
+#EXTINF:-1,BOX_:_Afrofusion_Amapiano
+301 https://ss-edge.joeycast.com/amapiano.mp3
+#EXTINF:-1,Classic_Central_Radio
+302 https://stream-052.zeno.fm/bp1pwy8mky8uv?zs=-3obXjTtS7mOsIs8Txn9Rw
+#EXTINF:-1,Les_Royals_FM
+https://lesroyals.radioca.st/stream
+#EXTINF:-1,UbuntuFM_Reggae_Radio
+400 https://streaming.coollective.nl:8443/UbuntuFMreggae
+#EXTINF:-1,Vibez.live
+400 https://vibezlive.radioca.st/stream
+#EXTINF:-1,UbuntuFM_Dance_Radio
+400 https://streaming.coollective.nl:8443/UbuntuFMdance
+#EXTINF:-1,Mzansi_Massive_Radio
+405 https://stream-152.zeno.fm/0dwwm1u4kuhvv?zs=ia6ucLk9QnSPzXWzNhrERw
+#EXTINF:-1,UbuntuFM_World_Radio
+400 https://streaming.coollective.nl:8443/UbuntuFM
+#EXTINF:-1,100.9_The_Heat
+https://centova12.instainternet.com/proxy/kraj?mp=/stream
+#EXTINF:-1,Power_102
+400 https://s8.yesstreaming.net:17169/stream
+#EXTINF:-1,UbuntuFM_Radio_Africa
+400 https://streaming.coollective.nl:8443/UbuntuFMafrica
+#EXTINF:-1,UbuntuFM_Soul_Radio
+400 https://streaming.coollective.nl:8443/UbuntuFMsoul
+#EXTINF:-1,Real_Radio
+405 https://stream-153.zeno.fm/3rwp7q0k4a0uv?zs=vyxg2WM0RJaJ8RJbzsOfYg
+#EXTINF:-1,UbuntuFM_Jazz_Radio
+400 https://streaming.coollective.nl:8443/UbuntuFMjazz
+#EXTINF:-1,RoomaneInc_FM
+405 https://stream-153.zeno.fm/dx3awa7d408uv?zs=wN5ZgP67SrKPLZS7Hw1n7Q
+#EXTINF:-1,Isimangaliso_Radio
+405 https://stream-150.zeno.fm/odg38dmqmiyvv?zs=4-Xms8ImSDazdJdua44tvQ
+#EXTINF:-1,Nation_Radio_SA
+http://s7.voscast.com:9682/;stream/1
+#EXTINF:-1,Plantx_Radio
+http://c7.radioboss.fm:8382/stream
+#EXTINF:-1,94.7
+403 http://25533.live.streamtheworld.com:80/FM947AAC_SC
+#EXTINF:-1,Classic_FM_1027
+200 http://edge.iono.fm/xice/49_medium.aac?p=embed
+#EXTINF:-1,702_Talk_Radio_Johannesburg
+403 https://23543.live.streamtheworld.com/FM702AAC.aac
+#EXTINF:-1,Jozi_FM_(HiFi_aac)
+200 https://edge.iono.fm/xice/51_high.aac
+#EXTINF:-1,Radio_2000_SABC_(alt)
+403 https://23613.live.streamtheworld.com/RADIO2000AAC_SC?dist=triton-widget&pname=tdwidgets
+#EXTINF:-1,Metro_FM_SABC
+403 http://20133.live.streamtheworld.com/METROFMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=17d27cd2-a836-49ff-f705-79bcc4c053a4
+#EXTINF:-1,KAYA_FM_95.9
+200 https://live-kayahls.sharp-stream.com/kayalow.aac/playlist.m3u8
+#EXTINF:-1,ESCS_FM
+405 https://stream-150.zeno.fm/dq1nht3qopluv?zs=8_VJy9ooReuDPY8fRh_loQ

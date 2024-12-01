@@ -1,0 +1,99 @@
+#EXTM3U
+#EXTINF:-1,Soul_Groove_Radio
+400 http://stream6.hippynet.co.uk:8023/silence
+#EXTINF:-1,SomaFM_Groove_Salad
+200 https://ice3.somafm.com/groovesalad-128-mp3
+#EXTINF:-1,London_Soul_Radio
+200 https://londonsoulradio.out.airtime.pro/londonsoulradio_b
+#EXTINF:-1,Funky_Corner_Radio
+200 https://ais-sa2.cdnstream1.com/2447_192.mp3
+#EXTINF:-1,Sun_Hip_Hop
+400 https://diffusion.lafrap.fr/sun-hip-hop.mp3
+#EXTINF:-1,Funky_Radio
+200 https://funkyradio.streamingmedia.it/play.mp3
+#EXTINF:-1,Jazz_de_Ville_Groove
+https://onair22.xdevel.com/proxy/xautocloud_1kha_423?mp=/stream
+#EXTINF:-1,Радио_Рекорд_-_Groove/Tribal
+https:/http:/adiorecord.hostingradio.ru/groovetribal96.aacp
+#EXTINF:-1,ART_OF_MUSIC
+200 https://artofmusic.radioca.st/stream1
+#EXTINF:-1,SOULPOWER_FM
+200 https://www.tunefm.de:2000/stream/soulpowerfm
+#EXTINF:-1,Radio_Meuh
+https:/http:/adiomeuh2.ice.infomaniak.chhttp:/adiomeuh2-128.mp3
+#EXTINF:-1,Jazz_Radio_-_Groove
+200 https://jazz-wr08.ice.infomaniak.ch/jazz-wr08-128.mp3
+#EXTINF:-1,FunkURadio
+400 https://furfmcou.radioca.st/stream
+#EXTINF:-1,Vintage_Obscura_Radio
+https:/http:/adio.vintageobscura.net/stream
+#EXTINF:-1,Pinguin_Groove
+403 https://14223.live.streamtheworld.com:443/SP_R2591867_SC
+#EXTINF:-1,bigFM_Groove_Night
+200 https://audiotainment-sw.streamabc.net/atsw-groovenight-mp3-128-3567666?sABC=650970q1%230%234r22236104s8nr3n29rss56oo6qo07n6%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1695117521
+#EXTINF:-1,Comala_Radio
+https://listen.radioking.comhttp:/adio/38120/stream/74513
+#EXTINF:-1,Radio_Ellebore_-_The_Groove_Factory
+302 https://groove-factory.ice.infomaniak.ch/groove-factory.aac
+#EXTINF:-1,KAZU__FM_90.3
+400 https://icecastle.csumb.edu/live128?uuid=iueo8z8x
+#EXTINF:-1,Galattica_FM_&gt;&gt;FastMix&lt;
+405 https://stream-148.zeno.fm/4q01yhucbm8uv?zs=15XQvF7EQqykQUK7h6cRVQ
+#EXTINF:-1,La_Patate_Douce
+https://listen.radioking.comhttp:/adio/285742/stream/472984
+#EXTINF:-1,FIP_Groove
+200 http://icecast.radiofrance.fr/fipgroove-hifi.aac
+#EXTINF:-1,Radio_sans_Soupe
+http://listen.radioking.comhttp:/adio/25504/stream/58228
+#EXTINF:-1,NME_2
+200 https://listen-nme.sharp-stream.com/nme2.mp3
+#EXTINF:-1,Radio_Art_-_Workout_Grooves
+400 http://air.radioart.com/fUp_tempo_grooves.mp3
+#EXTINF:-1,Soma_FM_Groove_Salad_320K_AAC_HLS
+200 https://hls.somafm.com/hls/groovesalad/320k/program.m3u8
+#EXTINF:-1,Soma_FM_Groove_Salad_320K_AAC_HLS_Surround
+200 https://hls.somafm.com/hls//gs-surround/program.m3u8
+#EXTINF:-1,FIP_autour_du_groove
+200 http://icecast.radiofrance.fr/fipgroove-midfi.mp3
+#EXTINF:-1,Yumi_Co._Radio
+http://yumicoradio.net:8000/stream
+#EXTINF:-1,Stomp_Radio_(96k)
+http://38.96.148.253:7020/;stream.mp3
+#EXTINF:-1,SomaFM_Groove_Salad_Classic_,_(AAC_64k)
+200 https://ice2.somafm.com/gsclassic-64-aac
+#EXTINF:-1,Paddygrooves
+https://a12.siar.ushttp:/adio/8230http:/adio.mp3
+#EXTINF:-1,L&#039;Echo_Des_Cabanes
+http:/http:/adio.lechodescabanes.fr:8000/playlist
+#EXTINF:-1,Jazz_Loft_Radio
+200 https://jazzloft.stream.laut.fm/jazzloft?t302=2023-05-09_12-16-32&uuid=7e689a6b-be44-4c82-ac8f-de64d18dc88a
+#EXTINF:-1,laut.fm_-_Shamanic_Tunes
+200 http://shamanictunes.stream.laut.fm/shamanic_tunes?t302=2023-04-25_19-36-37&uuid=b5bb2ae5-85cf-4276-b10c-1e42cbb5878b
+#EXTINF:-1,KAZU_90.3_Pacific_Grove,_CA
+400 http://icecast.csumb.edu:8000/live128
+#EXTINF:-1,_Funky_Corner_Radio_(Spain)
+200 https://ais-sa2.cdnstream1.com/2447_96.aac
+#EXTINF:-1,Groove_FM_Business
+https://digitacdn.akamaized.net/hls/live/629243/groove/master-128000.m3u8
+#EXTINF:-1,Groove_FM
+http://digitacdn.akamaized.net/hls/live/629243/groove/master-128000.m3u8
+#EXTINF:-1,SomaFM_Groove_Salad_64k_AAC
+200 https://ice2.somafm.com/groovesalad-64-aac
+#EXTINF:-1,Jazz24_(KNKX_88.5_HD2_Tacoma,_WA)_[256_AAC+]
+https://prod-3-88-59-28.wostreaming.net/ppm-jazz24aac256-ibc1?session-id=fa700494d0bbc890b5de1995778d9afa
+#EXTINF:-1,Swiss_Groove
+https:/http:/elay1.swissgroove.ch/;
+#EXTINF:-1,Jazz_Radio_Groov&#039;Up
+200 http://jazz-wr13.ice.infomaniak.ch/jazz-wr13-128.mp3
+#EXTINF:-1,Classic_R&amp;B-Funk_and_Groove_(USA)_320k_mp3
+http://wav.carbonwav.com:1060/stream
+#EXTINF:-1,GrooveWave_Jazz
+200 https://stm1.srvif.com:7530/;
+#EXTINF:-1,Radio_Nova_Vintage
+200 http://nova-vnt.ice.infomaniak.ch/nova-vnt-128.mp3
+#EXTINF:-1,SomaFM_Groove_Salad_128k_AAC
+200 http://ice2.somafm.com/groovesalad-128-aac
+#EXTINF:-1,FUNKY_RADIO_-_Only_Funk_Music_(60&#039;s_&amp;_70&#039;s)
+200 https://funkyradio.streamingmedia.it/audio.aac
+#EXTINF:-1,SomaFM_Groove_Salad_Classic_128k
+200 https://ice2.somafm.com/gsclassic-128-mp3

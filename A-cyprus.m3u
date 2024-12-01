@@ -1,0 +1,129 @@
+#EXTM3U
+#EXTINF:-1,Ant1_Radio
+https:/http:/1.cloudskep.comhttp:/adio2/ant1fm/icecast.audio
+#EXTINF:-1,Zenith
+http://live3.istoikona.net:8023/;audio.mp3?hash=1465047625436
+#EXTINF:-1,Radio_Sfera
+200 https://netradio.live24.gr/sfera4132
+#EXTINF:-1,Mix_Greek
+200 http://eco.onestreaming.com:8644/;
+#EXTINF:-1,Kiss_FM_(Cyprus)_89.0_
+400 https://securestreams3.autopo.st:1417/89FM
+#EXTINF:-1,BFBS_Cyprus
+200 https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs8.aac
+#EXTINF:-1,Astra_FM
+http:/http:/adio.dialogos.com.cy:8000/stream
+#EXTINF:-1,Klik_FM
+200 http://eco.onestreaming.com:8310/;
+#EXTINF:-1,Радио_TBB
+200 http://79.98.108.170:8121/stream
+#EXTINF:-1,Radio_Δίεση_101.1_FM
+https:/http:/1.cloudskep.comhttp:/adio/diesi/icecast.audio
+#EXTINF:-1,RockFM_89.2
+https://cdn.istoikona.com/RockFm/limassol/icecast.audio
+#EXTINF:-1,ΠΡΩΤΟ_LIVE
+https:/http:/1.cloudskep.com/cybcr/cybc1/icecast.audio
+#EXTINF:-1,Super_Sport_FM
+https:/http:/1.cloudskep.comhttp:/adio3/supersportfm/icecast.audio
+#EXTINF:-1,Studio64
+https://whsh4u-clients.com/proxy/gdmewnaz?mp=/stream
+#EXTINF:-1,Choice_FM
+https://live3.istoikona.net:18364/stream
+#EXTINF:-1,Kanali_6
+200 http://live3.istoikona.net:8372/stream/2/Title1=Kanali
+#EXTINF:-1,Radio_Proto
+https://live3.istoikona.net:18191/stream
+#EXTINF:-1,Super_Rad_104.8
+https://live3.istoikona.net:18826/stream
+#EXTINF:-1,Radio_Πολίτης
+https://cdn.istoikona.com/politis/live/icecast.audio
+#EXTINF:-1,ΤΡΙΤΟ_LIVE
+https:/http:/1.cloudskep.com/cybcr/cybc3/icecast.audio
+#EXTINF:-1,Bayrak_International
+200 http://sc.brtk.net:8004/;
+#EXTINF:-1,CyprusFunkStation
+400 http://philae.shoutca.st:8201/stream
+#EXTINF:-1,Capital_Radio
+https:/http:/adyo1.radyo-dinle.tc/8256/stream
+#EXTINF:-1,artFM_Radio
+https://cast.artfmradio.comhttp:/adio/8000http:/adio.mp3?1579455658
+#EXTINF:-1,Bayrak_Radyosu
+200 http://sc.brtk.net:8002/;*.mp3
+#EXTINF:-1,Melody_Radio
+https://melodyradio1031.com/?page_id=382
+#EXTINF:-1,NRG_Türk
+200 https://live.nrgplay.com/stream/2/;
+#EXTINF:-1,Bayrak_Türk_Müziği
+200 http://sc.brtk.net:8010/;
+#EXTINF:-1,Bayrak_FM
+200 http://sc.brtk.net:8000/;
+#EXTINF:-1,Njoy_99.5
+http://shout.kalsedia.com:9950/njoy9950_128
+#EXTINF:-1,Work_From_Home_radio
+200 http://cristim84.radi0.im:8000/;stream.nsv
+#EXTINF:-1,NRG_Türkçe_Rap
+200 https://live.nrgplay.com/stream/turkcerap
+#EXTINF:-1,Ράδιο_Ναυάγιο
+https://cast.loiz.orghttp:/adio/8000/stream.mp3
+#EXTINF:-1,Butterfly_Radio_Cyprus
+302 https://stream-058.zeno.fm/5a5phs9qkkhvv?zs=lqrzeoaYQ0S1dV_sUwKFRA
+#EXTINF:-1,Music_Moments
+https://andreas.radioca.st/stream
+#EXTINF:-1,ΔΕΥΤΕΡΟ_LIVE
+https:/http:/1.cloudskep.com/cybcr/cybc2/playlist.m3u8
+#EXTINF:-1,Kanali_7
+200 http://live.kanali7.com:4012/;stream.mp3
+#EXTINF:-1,ΤΕΤΑΡΤΟ_LIVE
+https:/http:/1.cloudskep.com/cybcr/cybc4/icecast.audio
+#EXTINF:-1,Bayrak_Klasik
+200 http://sc.brtk.net:8006/;
+#EXTINF:-1,Kıbrıs_Sim_Radyo
+200 http://88.255.211.12:8000/;stream.mp3
+#EXTINF:-1,Kibris_FM
+https://play.kibrisfm.com/stream2/hls/stream.m3u8
+#EXTINF:-1,Extacy_Radio_Κύπρου
+https://i8.streams.ovh:18079/stream
+#EXTINF:-1,CCN_Cyprus_Chinese_Radio
+https://cdn.istoikona.com/ccnradio/ccnradio/icecast.audio
+#EXTINF:-1,Active_Radio
+400 https://securestreams3.autopo.st:1417/active
+#EXTINF:-1,RadioSama
+https:/http:/adio.radiosama.org/sama_64
+#EXTINF:-1,Guaba_Radio
+https://eco.onestreaming.com/proxy/guaba/stream
+#EXTINF:-1,Habibi_FM
+405 https://stream-163.zeno.fm/3mpx1mjmusctv?zs=C4ulSxHUS1esqX1O6_QjPw
+#EXTINF:-1,Super_Club_Radio
+200 https://mpc2.mediacp.eu:8320/stream
+#EXTINF:-1,Butterfy_Radio_Greek
+302 https://stream-068.zeno.fm/qq324f8k3uhvv?zs=2-NF3woMTQqyiNdTQ0W4TQ
+#EXTINF:-1,Bayrak_Radyo_Haber
+200 http://sc.brtk.net:8008/;
+#EXTINF:-1,Radyo_Juke
+200 http://yayin.netradyom.com:9990/;stream.nsv
+#EXTINF:-1,Kanali6_(106.00_|_98.6_|_107.00_|_106.9)_Lemesos_Cyprus
+401 http://31.193.142.7:8012/stream
+#EXTINF:-1,Sport_FM_Cyprus
+200 http://sportfm-cyprus.live24.gr/sportfm-cyprus
+#EXTINF:-1,SUPER_FM_104.8
+200 http://eco.onestreaming.com:8175/;
+#EXTINF:-1,Rock_FM_Cyprus
+200 http://live3.istoikona.net:8278/;
+#EXTINF:-1,Cosmos_Radio_95,2_FM
+http://62.138.0.228:8130/;
+#EXTINF:-1,Ράδιο_Άγιος_Δημήτριος_Ακροπόλεως_-_Κύπρος_93.3
+200 http://eco.onestreaming.com:8474/;
+#EXTINF:-1,PIK_Sat_TV
+200 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:-1,ZENITH_FM
+http://eco.onestreaming.com:8023/;
+#EXTINF:-1,Σπορ_FM_95.0
+200 http://eradio.networksolutions.com.cy:1935/SportFM/SportFM.stream/playlist.m3u8
+#EXTINF:-1,Zucca_Radio
+200 http://95.217.120.122/;
+#EXTINF:-1,CloudCY_Rock
+http:/http:/adio.cloudcy.org:8000http:/ock
+#EXTINF:-1,塞浦路斯CCN欧洲中国平台
+https://cdn.istoikona.com/ccnrtv/live/playlist.m3u8
+#EXTINF:-1,AlexWebRadio
+https://listen.radioking.comhttp:/adio/372691/stream/422836

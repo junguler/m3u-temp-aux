@@ -1,0 +1,123 @@
+#EXTM3U
+#EXTINF:-1,Радио_Орфей
+200 https://orfeyfm.hostingradio.ru:8034/orfeyfm192.mp3
+#EXTINF:-1,Радио_Классик
+https://jfm1.hostingradio.ru:14536http:/cstream.mp3
+#EXTINF:-1,
+https://icecast-radioclassica.cdnvideo.ru/sberzvuk
+#EXTINF:-1,Радио_Классик_-_Classic_Gold
+200 https://jfm1.hostingradio.ru:14536/gcstream.mp3
+#EXTINF:-1,Радио_7_на_семи_холмах_-_Наедине_с_музыкой
+https:/http:/adio7.hostingradio.ru:8040http:/adio7_alone64.aacp
+#EXTINF:-1,Радио_Рекорд_-_Симфония_FM
+https:/http:/adiorecord.hostingradio.ru/symph96.aacp
+#EXTINF:-1,Радио_Классик_-_Essential_Classic
+200 https://jfm1.hostingradio.ru:14536/ecstream.mp3
+#EXTINF:-1,Радио_Орфей_-_Популярная_классика
+400 https://channels.fonotron.ru:8000/Chan_72_256.mp3
+#EXTINF:-1,Радио_Классик_-_Поэзия_на_Classic
+200 https://jfm1.hostingradio.ru:14536/pcstream.mp3
+#EXTINF:-1,Радио_Классик_-_Classic_Vocals
+200 https://jfm1.hostingradio.ru:14536/cvstream.mp3
+#EXTINF:-1,Радио_Орфей_-_Симфоническая_музыка
+400 https://channels.fonotron.ru:8000/Chan_74_256.mp3
+#EXTINF:-1,Радио_Classic
+https:/http:/adio-streams.kaztrk.kz/classic/classic/icecast.audio
+#EXTINF:-1,101.ru_-_Классическая_Музыка
+200 https://pub0101.101.ru/stream/pro/aac/64/98?
+#EXTINF:-1,Радио_Орфей_-_Русская_классика
+400 https://channels.fonotron.ru:8000/Chan_73_256.mp3
+#EXTINF:-1,Royal_Radio_Instrumental
+https:/http:/oyalradio.space/Instrumental
+#EXTINF:-1,Classic_FM_radio
+https://bravo.btv.bghttp:/adio/classic-radio-proxy/
+#EXTINF:-1,Радио_Орфей_-_Музыка_кино
+400 https://channels.fonotron.ru:8000/Chan_67_256.mp3
+#EXTINF:-1,101.ru_-_Pop_Classical_Music
+200 https://pub0101.101.ru/stream/pro/aac/64/97
+#EXTINF:-1,Радио_Орфей_-_Клавир
+400 https://channels.fonotron.ru:8000/Chan_77_256.mp3
+#EXTINF:-1,101.ru_-_NeoClassical
+200 https://pub0202.101.ru:8443/stream/pro/aac/64/275?
+#EXTINF:-1,Радио_Орфей_-_Классика_эстрады
+400 https://channels.fonotron.ru:8000/Chan_7_192.mp3
+#EXTINF:-1,Радио_Орфей_-_Бельканто
+400 https://channels.fonotron.ru:8000/Chan_75_256.mp3
+#EXTINF:-1,Milenio_Bella_Música
+401 http://streaming.promomedios.com:8008/;
+#EXTINF:-1,Радио_Орфей_-_Классика_киномузыки
+400 https://channels.fonotron.ru:8000/Chan_9_192.mp3
+#EXTINF:-1,101.ru_-_Опера
+200 https://pub0202.101.ru:8443/stream/pro/aac/64/96?
+#EXTINF:-1,Радио_Орфей_-_Классика_без_границ
+200 https://orfeyfm.hostingradio.ru:8034/orpheuscwb128.mp3
+#EXTINF:-1,More_FM_-_Classic
+404 https://cast.more.fm/uclassic
+#EXTINF:-1,Радио_Орфей_-_Камерата
+400 https://channels.fonotron.ru:8000/Chan_76_256.mp3
+#EXTINF:-1,Vem_Radio
+https://eu1.stream4cast.com/proxy/vemradio/stream
+#EXTINF:-1,Radio_México_Internacional
+200 https://s2.mexside.net:7017/;
+#EXTINF:-1,Радио_Душевный_восторг
+404 https://listen6.myradio24.com/74127
+#EXTINF:-1,Радио_Музком
+200 https://geshou.s02.radio-tochka.com:5005/stream
+#EXTINF:-1,Радио_Орфей_-_Музыка_с_участием_духовых
+400 https://channels.fonotron.ru:8000/Chan_65_256.mp3
+#EXTINF:-1,Зайцев.FM_-_Classic
+https://zaycevfm.cdnvideo.ru/ZaycevFM_classic_256.mp3
+#EXTINF:-1,Classic_FM
+200 https://classic.amgradio.ru/ClassicFM
+#EXTINF:-1,Soundtrack_Radiostation
+https://igor.torontocast.com:1795/stream
+#EXTINF:-1,Радио_Орфей_-_Музыка_мюзиклов
+400 https://channels.fonotron.ru:8000/Chan_66_256.mp3
+#EXTINF:-1,Beautiful_Instrumentals
+http://s3.voscast.com:10038/;stream.nsv
+#EXTINF:-1,Mariinsky_FM
+https:/http:/adio.mariinsky.ru/stream
+#EXTINF:-1,Radio_Maestro
+200 https://nue01-edge01.itdc.ge/fm-maestro-94.7/tracks-a1/playlist.m3u8
+#EXTINF:-1,Радио_Орфей_-_Классика_музыкального_кроссовера
+400 https://channels.fonotron.ru:8000/Chan_6_192.mp3
+#EXTINF:-1,Российский_национальный_оркестр
+https:/http:/nor.ru/datahttp:/adioRNOhttp:/adio256.mp3
+#EXTINF:-1,Радио_Орфей_-_Классика_крупных_форм
+400 https://channels.fonotron.ru:8000/Chan_8_192.mp3
+#EXTINF:-1,Радио_Орфей_-_Хоры_из_опер
+400 https://channels.fonotron.ru:8000/Chan_62_256.mp3
+#EXTINF:-1,Радио_Орфей_-_Русская_хоровая
+400 https://channels.fonotron.ru:8000/Chan_64_256.mp3
+#EXTINF:-1,Радио_Орфей_-_Современная_хоровая
+400 https://channels.fonotron.ru:8000/Chan_61_256.mp3
+#EXTINF:-1,More_FM_-_Odrex
+404 https://cast.more.fm/odrex
+#EXTINF:-1,Радио_Орфей_-_Зарубежная_хоровая
+400 https://channels.fonotron.ru:8000/Chan_60_256.mp3
+#EXTINF:-1,Яхт_Радио_-_Классика
+200 https://yacht-radio.lv:8150/stream
+#EXTINF:-1,TatRadioCentre
+200 https://listen4.myradio24.com/trc
+#EXTINF:-1,EPIC_CLASSICAL_-_Classical_Orchestral
+302 https://stream.epic-classical.com/classical-orchestral
+#EXTINF:-1,BEAUTIFUL_Instrumentals
+http://s3.voscast.com:10038/;
+#EXTINF:-1,0nlineradio_SCHUMANN
+302 https://stream.0nlineradio.com/schumann?ref=radiobrowser
+#EXTINF:-1,BBMFM
+302 http://stream-052.zeno.fm/kchb1gp3a1duv?zs=PbHJrzJPSA2rnAABZ-858A
+#EXTINF:-1,Concerto_on_Dash
+200 http://ice55.securenetsystems.net/DASH33
+#EXTINF:-1,0nlineradio_BEETHOVEN
+302 https://stream.0nlineradio.com/beethoven?ref=radiobrowser
+#EXTINF:-1,0nlineradio_SCHUBERT
+302 https://stream.0nlineradio.com/schubert?ref=radiobrowser
+#EXTINF:-1,Cinescore
+200 http://ice55.securenetsystems.net/DASH29
+#EXTINF:-1,Rádio_Máquina_Instrumental
+200 https://servidor29-2.brlogic.com:8578/live
+#EXTINF:-1,Classic_Vinyl_HD
+400 https://icecast.walmradio.com:8443/classic
+#EXTINF:-1,011.FM_-_Holiday_Instrumental
+200 http://listen.011fm.com/stream33

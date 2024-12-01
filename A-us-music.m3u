@@ -1,0 +1,89 @@
+#EXTM3U
+#EXTINF:-1,Mega_96.3
+200 https://liveaudio.lamusica.com/LA_KXOL_icy
+#EXTINF:-1,Zeta_92
+200 https://liveaudio.lamusica.com/MIA_WCMQ_icy
+#EXTINF:-1,La_Invasora
+200 https://streamingcwsradio30.com:7022/stream
+#EXTINF:-1,Hot_Tejano
+200 https://ithaca.cdnstream.com/1113_96
+#EXTINF:-1,Funky_Radio
+200 https://funkyradio.streamingmedia.it/play.mp3
+#EXTINF:-1,Mouv&#039;_-_Rap_US
+200 https://icecast.radiofrance.fr/mouvrapus-midfi.mp3
+#EXTINF:-1,RCN_1470_AM
+https://streamingcwsradio30.com:7025/stream
+#EXTINF:-1,Pulsar
+200 https://streamingcwsradio30.com:7021/stream
+#EXTINF:-1,La_Poderosa
+200 https://streamingcwsradio30.com:7024/stream
+#EXTINF:-1,Studio_105.1
+302 https://stream-052.zeno.fm/d6gk9k15dkhvv?zs=ohyaga12SP6L1gV4MiSDNA
+#EXTINF:-1,Fusión
+200 https://s2.mexside.net/8036/stream
+#EXTINF:-1,The_Mightier_1090
+400 https://backbonenetworks.streamguys1.com/XEPRS.mp3
+#EXTINF:-1,Radio_NET
+https:/http:/adioenhd.com:7010/stream
+#EXTINF:-1,Mas_Flo_107.7
+200 https://vsstreaming.com/8026/stream
+#EXTINF:-1,La_Mejor
+https://audiossl.radiolazer.stream/LBC/knez.stream/playlist.m3u8
+#EXTINF:-1,PorDeus.fm
+302 https://stream-061.zeno.fm/92ptm8uua2zuv?zs=LLrNZqvtTaSrCqxWWtBSMg
+#EXTINF:-1,MAS_Radio_107.9_FM_(Nogales)
+https://s5.mexside.net:9079/stream
+#EXTINF:-1,URadio_AM690
+http://69.75.241.95:8000/ulive.mp3
+#EXTINF:-1,REYFM_-_#usrap
+https:/http:/eyfm-stream15.radiohost.dehttp:/eyfm-usrap_mp3-192
+#EXTINF:-1,Activa_(Ciudad_Juárez)_-_1420_AM_-_XEF-AM_-_MegaRadio_-_Ciudad_Juárez,_Chihuahua
+404 https://tv.radiohosting.online:8100/stream
+#EXTINF:-1,Fiesta_Mexicana_(Nuevo_Laredo)_-_101.5_FM_-_XHAS-FM_-_Radiorama_Nuevo_Laredo_-_Nuevo_Laredo,_Tamaulipas
+https://server2.sit-mexico.com:2199/proxy/fiestamexicana?mp=/stream/
+#EXTINF:-1,Éxitos_(Matamoros)_-_91.3_FM_-_XHMLS-FM_-_Grupo_Radio_Avanzado_-_Matamoros,_Tamaulipas
+200 https://ice8.securenetsystems.net/EXITO913
+#EXTINF:-1,Mas_Radio_(Nogales)_-_107.9_FM_-_KCKO-FM_-_Mas_Medios_Nogales_-_Nogales,_Sonora
+https://s5.mexside.net:9079/stream?type=http&nocache=3
+#EXTINF:-1,American_Gold_-_Pumpkin_FM
+https://cast2.asurahosting.com/proxy/americangold/stream
+#EXTINF:-1,La_Poderosa_(Mexicali)_-_96.9_FM_/_1050_AM_-_XHMUG-FM_/_XED-AM_-_Radiorama_-_Mexicali,_Baja_California
+200 https://sg.centrocibernetico.com/poderosa969
+#EXTINF:-1,La_Suavecita_-_93.9_FM_-_KINT-FM_-_Entravision_Communications_-_Ciudad_Juárez,_Chihuahua
+403 https://18733.live.streamtheworld.com:443/KINTFMAAC.aac
+#EXTINF:-1,Rocola_9-90_(Mexicali)_-_990_AM_-_XECL-AM_-_Radiorama_Mexicali_-_Mexicali,_Baja_California
+405 http://stream-154.zeno.fm/bcbs57s5dkhvv?zs=7xpUMSe7Q6yVMdkQQPostw
+#EXTINF:-1,RCN_(Tijuana)_-_1470_AM_-_XERCN-AM_-_Uniradio_-_Tijuana,_Baja_California
+https://streamingcwsradio30.com:7025/;
+#EXTINF:-1,Studio_(Nogales)_-_106.7_FM_-_XHSN-FM_-_Radiorama_Sonora_-_Nogales,_Sonora
+https://freepi.host:9068/stream
+#EXTINF:-1,La_Invasora_(Tijuana)_-_XHA-FM_-_94.5_FM_-_Uniradio_-_Tijuana,_Baja_California
+200 https://streamingcwsradio30.com:7023/stream
+#EXTINF:-1,La_Lupe_(Ciudad_Juárez)_-_640_AM_-_XEJUA-AM_-_Multimedios_Radio_-_Ciudad_Juárez,_Chihuahua
+400 https://streaming.multimedios.com/station4
+#EXTINF:-1,Vida_(Mexicali)_-_1370_AM_-_XEHG-AM_-_Grupo_Audiorama_Comunicaciones_-_Mexicali,_Baja_California
+200 https://ss1.audiorama.com.mx:6596/stream
+#EXTINF:-1,i_love_radio_-_US_Only_Rap&amp;HipHop_Radio
+200 https://ilm-stream11.radiohost.de/ilm_iloveusonlyrapradio_mp3-192
+#EXTINF:-1,Générations_Lyon
+http:/http:/adiosun.ice.infomaniak.chhttp:/adiosun-high.mp3
+#EXTINF:-1,La_J_Mexicana_-_970_AM_-_XEJ-AM_-_Grupo_Radio_Centro_-_Ciudad_Juárez,_Chihuahua
+403 https://26483.live.streamtheworld.com:443/XEJCC_AM.mp3
+#EXTINF:-1,Power_98_-_98.3_FM_-_XHMIX-FM_-_California_Medios_-_La_Rumorosa,_Baja_California
+https://s5.mexside.net:8026/stream
+#EXTINF:-1,La_Número_Uno_(Tecate)_-_104.9_FM_-_XHLNC-FM_-_Tecate,_BC
+200 http://13806.cloudrad.io:9260/live
+#EXTINF:-1,Sangeet_Radio_FM_95.1_AM_1460_Houston,_TX,_US
+200 https://ice8.securenetsystems.net/SGTRADIO
+#EXTINF:-1,La_Mejor_Ciudad_Acuña_-_100.7_FM_-_XHHAC-FM_-_RCG_Media_-_Ciudad_Acuña,_Coahuila
+https:/http:/adio.rcg.com.mx:7008/;
+#EXTINF:-1,Exa_FM_Las_Vegas_-_94.5_FM_-_KXLI_-_Radio_Activo_Broadcasting,_LLC_-_Las_Vegas,_Nevada
+200 https://ice9.securenetsystems.net/KXLI
+#EXTINF:-1,La_Poderosa_(Ciudad_Juárez)_-_107.5_FM_-_XHNZ-FM_-_Radiorama_-_Ciudad_Juárez,_Chihuahua
+405 https://stream-154.zeno.fm/96vgk4yv538uv?zs=VHkwidzDQ-qYomDojX1HJg
+#EXTINF:-1,Radio_Mexicana_Nuestras_Noticias_(Ciudad_Juárez)_-_1300_AM_-_XEP-AM_-_Radiorama_-_Ciudad_Juárez,_Chihuahua
+302 https://stream-034.zeno.fm/9b3xff05dkhvv?zs=twK37cNaSCOEOOQXF6-09A
+#EXTINF:-1,100hitz_-_Top_40
+200 http://pureplay.cdnstream1.com/6025_128.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzMzk1NTI4MSwiaXNzIjoidGlzcnYifQ.cUMfsrk262BNjQXnfXkKBefQOqoRn2nweLrx5obNPhM
+#EXTINF:-1,FUNKY_RADIO_-_Only_Funk_Music_(60&#039;s_&amp;_70&#039;s)
+200 https://funkyradio.streamingmedia.it/audio.aac

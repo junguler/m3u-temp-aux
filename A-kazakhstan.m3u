@@ -1,0 +1,133 @@
+#EXTM3U
+#EXTINF:-1,Жулдыз_ФМ
+https:/http:/adiosolo.ruhttp:/adio/zhuldyz-fm/icecast.audio
+#EXTINF:-1,Авторадио_-_KZ
+http://178.88.167.62:8080/AVTORADIO_192
+#EXTINF:-1,Русское_Радио_Азия
+https:/http:/usradio.cdnqb.net/stream
+#EXTINF:-1,Народное_радио
+http://178.88.167.62:8080/DALA_192
+#EXTINF:-1,Радио_Той_Думан
+https://stream.gakku.tv:8443/live.mp3
+#EXTINF:-1,Радио_Шалкар
+https:/http:/adio-streams.kaztrk.kz/shalqar/shalqar/icecast.audio
+#EXTINF:-1,Казахское_Радио
+https:/http:/adio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio
+#EXTINF:-1,Европа_Плюс
+302 https://hls-01-regions.emgsound.ru/11_kazakhstan/96/playlist.m3u8
+#EXTINF:-1,Orda_FM
+https://85.29.129.134:8443/orda
+#EXTINF:-1,Love_Radio_Казахстан
+https://stream.gakku.tv:8443/love128.mp3
+#EXTINF:-1,Радио_Classic
+https:/http:/adio-streams.kaztrk.kz/classic/classic/icecast.audio
+#EXTINF:-1,Тенгри_FM
+400 http://91.201.214.229:8000/tengrifm
+#EXTINF:-1,Ретро_FM_Qazaqstan
+400 http://91.201.214.229:8000/vostokfm
+#EXTINF:-1,Радио_NS_-_Шансон
+https://icecast.ns.kzhttp:/adions-shanson
+#EXTINF:-1,Energy_FM_Казахстан
+400 http://89.219.34.117:8008/NEWENERGY
+#EXTINF:-1,Business_FM
+400 https://kvs01.businessfm.kz/businessfm
+#EXTINF:-1,Geedeon_Radio
+404 https://listen3.myradio24.com/87888
+#EXTINF:-1,Астана_радиосы
+https:/http:/adio-streams.kaztrk.kz/astana/astana/icecast.audio
+#EXTINF:-1,Радио_7_Казахстан
+302 https://myradio24.org/8334
+#EXTINF:-1,Радио_Lux_FM
+400 https://icecast.luxfm.kz/luxfm
+#EXTINF:-1,Радио_Вышка
+400 https://stream.vyshka24.ru/kz
+#EXTINF:-1,Радио_SANA
+https://listen4.myradio24.comhttp:/adiosana
+#EXTINF:-1,Новое_Радио_(Жана_FM)
+400 https://live.zhanafm.kz:8443/zhanafm_onair
+#EXTINF:-1,Радио_Bulbul
+https:/http:/adiobulbul.stream.laut.fmhttp:/adiobulbul?t302=2023-04-25_19-52-29&uuid=2e23c109-9b3b-474e-ae93-0227a13b0450
+#EXTINF:-1,Радио_Тандем
+404 https://a1.radioheart.ru:9001/RH20072
+#EXTINF:-1,Radio_City
+400 https://kvs01.businessfm.kz/city
+#EXTINF:-1,Юмор_FM_Казахстан
+400 https://live.zhanafm.kz:8443/veseloeradio_onair
+#EXTINF:-1,Русское_Радио_Костанай
+https://cp.time4radio.ruhttp:/adio/8090http:/usradiokostanai
+#EXTINF:-1,Радио_КН
+https:/http:/adiokn.ddns.net:8080/
+#EXTINF:-1,Lux_Radio
+https://lux-radio.com:8005/stream
+#EXTINF:-1,Радио_NS_-_Kazakh_Music
+http://89.219.35.26:8000http:/adions-kz
+#EXTINF:-1,Радио_NS_-_Русский_Хит
+https://icecast.ns.kzhttp:/adions-russian
+#EXTINF:-1,Радио_Халык
+200 https://s0.radioheart.ru:8000/RH46806
+#EXTINF:-1,Russian_Dance_Radio
+https://lux-radio.com:8015/stream
+#EXTINF:-1,Актобе_радио
+http://85.29.144.124:8000/;audio.mp3
+#EXTINF:-1,Радио_Талап
+400 https://okeyradio.ru/okey
+#EXTINF:-1,Радио_NS_-_Jazz
+https://icecast.ns.kzhttp:/adions-jazz
+#EXTINF:-1,Радио_NS_-_Rock
+https://icecast.ns.kzhttp:/adions-rock
+#EXTINF:-1,Радио_Алау
+200 https://s0.radioheart.ru:8000/RH67172
+#EXTINF:-1,Радио_EDM_Classic
+https:/http:/adio.geometryfm.ru/hls/geometryfm/live.m3u8
+#EXTINF:-1,Радио_Бетельгейзе
+400 http://sat.radio-betelgeuse.com:8000/live
+#EXTINF:-1,Радио_NS_-_Lounge
+https://icecast.ns.kzhttp:/adions-lounge
+#EXTINF:-1,Радио_NS_–_Лаунж
+http://89.219.35.26:8000http:/adions-lounge
+#EXTINF:-1,Радио_GFM_-_Включайся_в_Ритм_EDM
+https://music.geometryfm.ruhttp:/adio/8010/geometryfm320
+#EXTINF:-1,Татарское_Радио_ТМК
+https://a4.radioheart.ru:9036/RH13170
+#EXTINF:-1,Радио_NS_–_Рок
+http://89.219.35.26:8000http:/adions-rock
+#EXTINF:-1,Радио_NS_-_KZ
+https://icecast.ns.kzhttp:/adions-kz
+#EXTINF:-1,Synthwave_Club
+405 https://stream-149.zeno.fm/hutw7c7q9c0uv?zs=aXdCTpUoSYaAphK5xiayfw
+#EXTINF:-1,Моя_Мелодия
+https://lux-radio.com:8025/stream
+#EXTINF:-1,ОстровОК!
+404 https://listen1.myradio24.com/27010
+#EXTINF:-1,Радио_NS_–_Джаз
+http://89.219.35.26:8000http:/adions-jazz
+#EXTINF:-1,Жаңа_-_MIX
+400 https://live.zhanafm.kz:8443/zhanamix
+#EXTINF:-1,Радио_Азамат
+200 https://listen4.myradio24.com/8162
+#EXTINF:-1,BoomRoom.kz
+200 https://a5.radioheart.ru:9037/RH3009
+#EXTINF:-1,Aloha_FM
+404 https://listen6.myradio24.com/alohafm
+#EXTINF:-1,Техно_Сборник_Радио
+http://freeuk27.listen2myradio.com:11412/;stream.nsv
+#EXTINF:-1,Жаңа_FM_-_Rock
+400 https://live.zhanafm.kz:8443/zhanarock
+#EXTINF:-1,Жаңа_-_Lounge
+400 https://live.zhanafm.kz:8443/zhanalounge
+#EXTINF:-1,ВАШЕ_РАДИО
+400 https://live.zhanafm.kz:8443/vasheradio
+#EXTINF:-1,Радио_АВЕРС
+404 https://listen3.myradio24.com/8134
+#EXTINF:-1,Радио_Житикара
+404 https://listen.myrh.ru/zhiti
+#EXTINF:-1,Радио_онлайн_Житикара
+404 https://a8.radioheart.ru:9006/RH75633
+#EXTINF:-1,Жаңа_FM_-_Pioner_FM_KZ
+400 https://live.zhanafm.kz:8443/pionerfm
+#EXTINF:-1,Radio_24_KZ
+http://stream.vyshka24.ruhttp:/24kz
+#EXTINF:-1,Радио_90s_Eurodance
+200 https://listen1.myradio24.com/5967
+#EXTINF:-1,KTK_TV
+200 http://89.218.30.37/ktklive/live.hq/playlist.m3u8

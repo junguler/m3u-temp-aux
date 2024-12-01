@@ -1,0 +1,193 @@
+#EXTM3U
+#EXTINF:-1,ABC_Classic_FM
+200 https://mediaserviceslive.akamaized.net/hls/live/2038316/classicfmnsw/masterhq.m3u8
+#EXTINF:-1,Islamic_Voice_Radio
+200 http://streamer3.rightclickitservices.com:9755/;
+#EXTINF:-1,3AW_Radio
+200 https://www.3aw.com.au/
+#EXTINF:-1,3MP
+https://23683.live.streamtheworld.com:443/3MPAAC.aac
+#EXTINF:-1,Softnezee
+200 http://135.148.34.128:9041/;stream.nsv
+#EXTINF:-1,All_time_hits_radio
+405 https://stream-151.zeno.fm/ucg9d9agibltv?zs=j2uhsGz3RtGYBHPYwIe7MA
+#EXTINF:-1,All_Time_Hits_Radio_Christmas
+200 http://167.114.11.80:2044/;
+#EXTINF:-1,All_Time_Hits_Kids
+405 https://stream-149.zeno.fm/jbim53fs9evvv?zs=-RjMsLwbRc6iToVyywfzZQ
+#EXTINF:-1,All_time_hits_90s
+405 https://stream-152.zeno.fm/q9q4b33f9hhvv?zs=NGthe18BQMCSCNPmM9ieWw
+#EXTINF:-1,All_time_hits_Party
+405 https://stream-153.zeno.fm/0yhhk9ymnchvv?zs=SwYGVZ0YRJyCKS-g_gVmiA
+#EXTINF:-1,All_time_hits_radio_worship
+405 https://stream-153.zeno.fm/byghxvuphs8uv?zs=j-GztxB8QzelLO9xITTAuw
+#EXTINF:-1,Shine_FM
+404 https://streams.radio.co/sbd6c1fdfe/listen
+#EXTINF:-1,Crunchie_FM
+http://199.115.115.71/proxy/cdwwbiqx?mp=/;stream/1?1540098111399.aac
+#EXTINF:-1,3RRR
+https:/http:/ealtime.rrr.org.au/p1h
+#EXTINF:-1,Hand_of_Doom_Radio
+200 http://158.69.114.190:8042/stream/;
+#EXTINF:-1,All_time_hits_Throwbacks
+405 https://stream-152.zeno.fm/qx5hzdvhapqtv?zs=25v4lFoRRJOrUAn0YYqClQ
+#EXTINF:-1,Vision_Australia_Radio
+https://21363.live.streamtheworld.com:443/3RPHAAC.aac
+#EXTINF:-1,The_Buzzz
+200 https://c22.radioboss.fm:18205/stream
+#EXTINF:-1,Magic_1278
+https://21423.live.streamtheworld.com:443/ACE_MAGIC1278AAC.aac
+#EXTINF:-1,3XY_Radio_Hellas
+http://streamer2.rightclickitservices.com:1128/stream/1/
+#EXTINF:-1,UltraCool_Radio
+400 http://us1.internet-radio.com:11024/live
+#EXTINF:-1,Physical_Radio
+200 https://s3.radio.co/sd59eccabf/listen
+#EXTINF:-1,89.9_TheLight
+200 http://stream.lightfm.com.au:8138/;stream.nsv
+#EXTINF:-1,RSN_Racing_&amp;_Sport
+https://livestream.whooshkaa.com/icecasthttp:/snhttp:/sn
+#EXTINF:-1,Radical_FM_Classic_Hits
+https://secure.kuemedia.com.au/listenhttp:/fm-classichits/high.aac
+#EXTINF:-1,Rete_Italia
+200 https://nicherad.radioca.st/stream2
+#EXTINF:-1,Middle_East_Radio_Melbourne
+400 http://hyades.shoutca.st:8998/live
+#EXTINF:-1,Inner_FM
+403 https://19273.live.streamtheworld.com:443/3NRAAC.aac
+#EXTINF:-1,TheLight_Mix
+200 http://27.131.74.8:8148/;
+#EXTINF:-1,3ZZZ
+https://21423.live.streamtheworld.com:443/3ZZZAAC.aac
+#EXTINF:-1,it&#039;s_Chill
+https://securestream.cuelightsmedia.com.au/listen/chilled/CLM.aac
+#EXTINF:-1,3MBS
+https://21423.live.streamtheworld.com:443/3MBS.mp3
+#EXTINF:-1,Nova_Throwbacks
+200 https://21333.live.streamtheworld.com:443/NOVA_THROWBACK_AAC.aac
+#EXTINF:-1,Nova_100
+https://21363.live.streamtheworld.com:443/NOVA_100_AAC48.aac
+#EXTINF:-1,V1_RADIO
+503 https://usa10.fastcast4u.com/v1radio
+#EXTINF:-1,La_family_tu_radio
+200 http://198.245.50.150:5346/;
+#EXTINF:-1,JOY
+https://stream.joy.org.au/proxy/joy949?mp=/live
+#EXTINF:-1,TAB_Touch_Radio
+https:/http:/acingradio.rwwa.com.au/live
+#EXTINF:-1,Rythmos
+https:/http:/adio12.shoutcast.net.au:8004/stream.mp3
+#EXTINF:-1,Plenty_Valley_FM
+https://streamer5.rightclickitservices.com:18920/aac
+#EXTINF:-1,3CR_Radio
+http://public-radio1.internode.on.net:8002/61
+#EXTINF:-1,Voice_Laikos
+200 https://sp2.streams.ovh:7043/steam
+#EXTINF:-1,Passion_80s
+404 https://stream.radio.co/s4eb622211/listen
+#EXTINF:-1,3RPP
+200 https://streaming.radio.co/sfbd79db12/listen
+#EXTINF:-1,3SER
+200 https://s3.radio.co/s8f8288fe9/low
+#EXTINF:-1,J-Air
+200 http://s19.myradiostream.com:4918/;
+#EXTINF:-1,Thelight_Christmas
+200 https://stream.thelight.com.au:8150/;stream/1
+#EXTINF:-1,Smoothjazz.Melbourne
+200 https://stream.radio.co/s22b123b09/listen
+#EXTINF:-1,979fm
+400 http://s15.myradiostream.com:12846/;
+#EXTINF:-1,RADIO_GREECE_MELBOURNE
+https://cast.radiohost.ovhhttp:/adiogreec?mp=/stream&1686644076777
+#EXTINF:-1,CroRadio
+200 http://stream.swifthosting.com.au:8080/;stream.nsv
+#EXTINF:-1,3WBC
+200 http://tcom-s1.tcom.net.au:8000/3wbc
+#EXTINF:-1,RSN_Carnival
+https://livestream.whooshkaa.com/icecasthttp:/sn/carnival
+#EXTINF:-1,LiSTNR_Noughties
+200 https://wz7liw.scahw.com.au/live/7noughties_128.stream/playlist.m3u8
+#EXTINF:-1,Radical_FM
+404 https://secure.kuemedia.com.au/listenhttp:/fm-radicalfm/high.aac
+#EXTINF:-1,RSN_Carnival_2
+https://livestream.whooshkaa.com/icecasthttp:/sn/carnival2
+#EXTINF:-1,Nepali_sanchar_radio
+200 https://onlineradio.websoftitnepal.com/8048/stream
+#EXTINF:-1,Radio_PVS
+200 http://s44.myradiostream.com:9144/;
+#EXTINF:-1,LiSTNR_Trending_Now
+200 https://wz7liw.scahw.com.au/live/7trendingnow_128.stream/playlist.m3u8
+#EXTINF:-1,freefm.lk_-_Australia_Sinhala_Radio
+405 https://stream-150.zeno.fm/n4ashdjgn2xtv?zs=VCM5cmhwR86hjcbhvgPGmQ
+#EXTINF:-1,Thisara_FM
+http://69.46.24.226:7635/;
+#EXTINF:-1,Radio_Newmarket
+200 http://110.145.174.78:8000/;stream.nsv
+#EXTINF:-1,The_Bunkhouse
+200 https://aurora.shoutca.st/listen/thebunkhouse/stream
+#EXTINF:-1,Radio_Djerdan
+405 https://stream-153.zeno.fm/4ynnz3w13k8uv?zs=hx6Nn6ybSPaPUzaZ8A1_-A
+#EXTINF:-1,Radio_Greece
+404 https://cast.radiohost.ovh:2200/proxyhttp:/adiogreec?mp=/stream
+#EXTINF:-1,LiSTNR_Heart_Breakers
+200 https://wz7liw.scahw.com.au/live/7heartbreaker_128.stream/playlist.m3u8
+#EXTINF:-1,LiSTNR_Blender_Beats
+404 https://legacy.scahw.com.au/7blenderbeats_128
+#EXTINF:-1,LiSTNR_Homegrown
+200 https://wz7liw.scahw.com.au/live/7homegrown_128.stream/playlist.m3u8?dist=listnr-web&aw_0_1st.playerId=LiSTNR_Web_native&cb=1130b230-2b0c-11ee-94a5-d186f9e39eb6
+#EXTINF:-1,LiSTNR_Girl_Power
+200 https://wz7liw.scahw.com.au/live/7girlpower_128.stream/playlist.m3u8
+#EXTINF:-1,LiSTNR_Indigenous
+200 https://wz7liw.scahw.com.au/live/7firstnations_128.stream/playlist.m3u8
+#EXTINF:-1,its_80s
+404 https://secure.kuemedia.com.au/listen/80shttp:/adio.aac
+#EXTINF:-1,Mac_Fm_Radio_Melbourne_88.0_FM_&amp;_151.8_FM
+200 http://s33.myradiostream.com:16972/listen.mp3
+#EXTINF:-1,Oak_FM
+http://clanhost.com.au:9330/;.mp3
+#EXTINF:-1,ABC_Local_Radio_100.7__Gippsland,_VIC_(MP3)
+502 http://live-radio02.mediahubaustralia.com/3SALE/mp3/;/
+#EXTINF:-1,ABC_Local_Radio_774_Melbourne_(AAC)
+502 http://live-radio03.mediahubaustralia.com/3LRW/aac/
+#EXTINF:-1,Kiss_FM_87.6,_87.8_&amp;_88.0_Melbourne,_VIC
+400 http://cc.net2streams.com:8565/kissfm.mp3
+#EXTINF:-1,ABC_Local_Radio_774_Melbourne_(MP3)
+502 http://live-radio03.mediahubaustralia.com/3LRW/mp3/
+#EXTINF:-1,Skylab_Radio
+400 http://stream.skylab-radio.com:8000/live
+#EXTINF:-1,KIIS_101.1
+301 https://ais-arn.streamguys1.com/au_001_icy
+#EXTINF:-1,Gold_104.3
+301 https://ais-arn.streamguys1.com/au_004_icy
+#EXTINF:-1,Smooth_FM_91.5
+200 https://23153.live.streamtheworld.com/SMOOTH915_AAC48.aac
+#EXTINF:-1,Coles_Radio_Victoria
+http://coles.streaming.novaentertainment.com.au/vic
+#EXTINF:-1,Hope_St_Radio
+200 http://hopestreetradio.out.airtime.pro:8000/hopestreetradio_a
+#EXTINF:-1,Free_FM_Rock_Austral
+200 https://freefmrock.radioca.st/;
+#EXTINF:-1,3RRR_Melbourne
+http:/http:/ealtime.rrr.org.au/p1h
+#EXTINF:-1,Light_FM_89.9
+200 http://stream.thelight.com.au:8138/;
+#EXTINF:-1,3RPH_1179_AM
+200 http://23203.live.streamtheworld.com/3RPHAAC_SC
+#EXTINF:-1,105.1_Life_FM
+400 http://stream2.cnmns.net/life1051-mp3
+#EXTINF:-1,Gold_Central_Victoria
+403 http://23023.live.streamtheworld.com:80/BEN_GOLDAAC.aac
+#EXTINF:-1,Vietnamese_Radio_in_Australia_-_Cherry_Radio
+https://sslstreaming.com:7017/;
+#EXTINF:-1,ABC_Radio_Australia_20220701
+https://mediaserviceslive.akamaized.net/hls/live/2038266http:/amulti/masterhq.m3u8
+#EXTINF:-1,Triple_M_Melbourne
+200 https://wz3drp.scahw.com.au/live/3mmm_32.stream/playlist.m3u8
+#EXTINF:-1,TRFM
+403 https://18253.live.streamtheworld.com/TRFMAAC.aac
+#EXTINF:-1,SYN_FM
+https://21423.live.streamtheworld.com:443/3SYNAAC_SC
+#EXTINF:-1,Fox_101.9
+200 https://legacy.scahw.com.au/3fox_128
+#EXTINF:-1,Paattu_Petti
+https://listen.radioking.comhttp:/adio/305023/stream/354512

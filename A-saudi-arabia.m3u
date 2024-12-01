@@ -1,0 +1,83 @@
+#EXTM3U
+#EXTINF:-1,KSA_Quran_Makkah
+400 http://mediaserver2.islamicity.com:8000/SaudiTVArabic
+#EXTINF:-1,إذاعة_السنة
+400 http://andromeda.shoutca.st:8189/stream
+#EXTINF:-1,Miraath&#039;s_Holy_Quraan_Radio
+https:/http:/adio.al7eah.net/8010/stream
+#EXTINF:-1,KSA_Sunnah_Madinah
+400 http://mediaserver2.islamicity.com:8000/SaudiTVEnglish
+#EXTINF:-1,Mix_FM
+400 https://s1.voscast.com:11377/live.mp3
+#EXTINF:-1,Alif_Alif_FM
+https://alifalifjobs.comhttp:/adio/8000/AlifAlifLive.mp3
+#EXTINF:-1,Quran_Channel
+400 http://mediaserver2.islamicity.com:8000/QuranRadio
+#EXTINF:-1,Aljazera_quran
+https://strw1.openstream.co/2388
+#EXTINF:-1,Sabeel_Al_Anbiyya
+https:/http:/adio.al7eah.net/8042/stream
+#EXTINF:-1,ICTunes
+400 http://mediaserver2.islamicity.com:8000/ictunes
+#EXTINF:-1,Favradio
+200 http://stream.hornhost.com:8109/;stream.mp3
+#EXTINF:-1,UFM_Radio
+200 http://stream.ufmradio.com:8000/;
+#EXTINF:-1,اذاعة_القرأن_الكريم
+404 http://quran.sr.sa/live-streaming
+#EXTINF:-1,MBC_FM
+404 https://www.mbc.net/ar/mbc-fm.html
+#EXTINF:-1,Miraath&#039;s_Deutsch_Radio
+https:/http:/adio.al7eah.net/8032/stream
+#EXTINF:-1,Radio_Asharq
+200 https://svs.itworkscdn.net/asharqradioalive/asharqradioa/playlist.m3u8
+#EXTINF:-1,106.4_Musicjamofw
+404 https://ecast.myautodj.com/musicjamofw
+#EXTINF:-1,84.7_Bee_Cool_Fm
+200 https://ny.mysonicserver.com/8054/stream
+#EXTINF:-1,D&#039;_JAM_RADIO_FM
+302 https://stream-050.zeno.fm/n1q5f0bsuf9uv?zs=TdjxaFiaTuqiusCE5EfKkQ
+#EXTINF:-1,Six_sister_newly_fm
+405 https://stream-148.zeno.fm/te61rbf68nhvv?zs=gU5Q9GuFQ7u1gE4-fieMvA
+#EXTINF:-1,101.69_Marites_Fm_Radio
+200 https://ny.mysonicserver.com/8044/stream
+#EXTINF:-1,101.8_Artys_Fm
+405 https://stream-148.zeno.fm/754f5ent9bhvv?zs=eOpqpU8aSPWnMcn3B9HKpw
+#EXTINF:-1,104.2_MIXLOVERS_FM
+302 https://stream-050.zeno.fm/vzw6cam19nhvv?zs=ym9OkRLyQ4m8xuzU5IHHDA
+#EXTINF:-1,69.9_OL_OL_DESSERTO_FM
+302 https://stream-052.zeno.fm/gkxde584wuhvv?zs=hc5RnBDRSVy5mUNwHrQ-tg
+#EXTINF:-1,Tzgospel_(_saudi_Arabia)
+405 https://stream-152.zeno.fm/766dqmn6schvv?zs=VrPEDRjRS36mFBovhQeDbg
+#EXTINF:-1,Saudi_Aramco_Studio_1_FM_94.1_Dharan
+404 http://ice31.securenetsystems.net/STUDIO1
+#EXTINF:-1,Saudi_Aramco_Studio_2_FM_101.4_Dharan
+404 http://ice31.securenetsystems.net/STUDIO2
+#EXTINF:-1,Rotana_FM
+http://curiosity.shoutca.st:6035/;
+#EXTINF:-1,الرقية_الشرعية
+200 http://live.mp3quran.net:9936/
+#EXTINF:-1,UFM
+http://69.61.26.75:8000/;
+#EXTINF:-1,Quran_100_FM
+200 http://m.live.net.sa:1935/live/quransa/playlist.m3u8
+#EXTINF:-1,Annahj_-_Islam_Arabic_-_إذاعة_النهج_الواضح
+400 https://node33.obviousapproach.com:9000/stream
+#EXTINF:-1,Al_Arabiya_FM
+200 https://fm.alarabiya.net/fm/myStream/playlist.m3u8
+#EXTINF:-1,الشيخ_إدريس_أبكر_برواية_حفص
+http://server2.quraan.us:9300/;*.mp3
+#EXTINF:-1,الشيخ_توفيق_الصايغ_برواية_حفص
+http://quraan.us:9796/;*.mp3
+#EXTINF:-1,القارئ_علي_الحذيفي_رواية_قالون
+https://qurango.nethttp:/adio/ali_alhuthaifi_qalon
+#EXTINF:-1,تفسير_القرآن_الكريم
+https://qurango.nethttp:/adio/tafseer
+#EXTINF:-1,تفسير_السعدي
+https://server03.quran.com.kw:7004/;*.mp3
+#EXTINF:-1,إذاعة_محمد_أيوب
+https://qurango.nethttp:/adio/mohammed_ayyub
+#EXTINF:-1,Mp3Quran_Beautiful_Recitations
+https://qurango.nethttp:/adio/salma
+#EXTINF:-1,Fred_Film_Radio(لغة_عربية)
+https://s10.webradio-hosting.com/proxy/fredradioar/stream

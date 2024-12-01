@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:-1,BOX_:_K-POP_케이팝
+301 https://ss-edge.joeycast.com/kpop.mp3
+#EXTINF:-1,CBS_표준FM
+https://aac.cbs.co.kr/cbs981/_definst_/cbs981.stream/playlist.m3u8
+#EXTINF:-1,Gugak_FM
+https://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/playlist.m3u8
+#EXTINF:-1,TBS_eFM
+https://cdnefm.tbs.seoul.kr/tbs/_definst_/tbs_efm_web_360.smil/playlist.m3u8
+#EXTINF:-1,TBS_FM
+http://58.234.158.60:1935/fmlive/myStream/playlist.m3u8
+#EXTINF:-1,CBS_Music_FM
+https://aac.cbs.co.kr/cbs939/_definst_/cbs939.stream/playlist.m3u8
+#EXTINF:-1,FRED_FILM_RADIO
+https://s10.webradio-hosting.com/proxy/fredradiokr/stream/;
+#EXTINF:-1,KBS_World_Radio_Korean
+http://world.kbs.co.kr/service/index.htm?lang=k
+#EXTINF:-1,BBS_FM
+http://bbslive.clouducs.com:1935/bbsradio-mlive/livestream/playlist.m3u8
+#EXTINF:-1,MBC_라디오
+http://mini.imbc.com/v2/index.html?src=http://mini.imbc.com/&ref=http://www.imbc.com/broadhttp:/adio/index.html#./datas/pagedata_home.js;stream.nsv;stream.nsv;stream.nsv
+#EXTINF:-1,AFN_The_Eagle_Yongsan
+200 https://afn-cms.s3.amazonaws.com/Geoblock+message+AFN+GO.mp3
+#EXTINF:-1,PBC_Radio
+http://onair2.cpbc.co.kr:1935/live/Instreamer.stream_aac/playlist.m3u8
+#EXTINF:-1,MBC_FM4U
+http://mini.imbc.com/v2/index.html?src=http://mini.imbc.com/&ref=http://www.imbc.com/broadhttp:/adio/index.html#./datas/pagedata_home.js
+#EXTINF:-1,YTN_News_FM
+https:/http:/adio.ytn.co.kr/_comm/fmlive.php
+#EXTINF:-1,TBC_Dream_FM
+200 http://www.tbc.co.kr/onair/?mid=6_190
+#EXTINF:-1,freefm.lk_-_Korea_South_Sinhala_Radio
+405 https://stream-158.zeno.fm/tghzpiblktzvv?zs=IbzLUv9CTJKmQ972bYvmEw
+#EXTINF:-1,KBS_World_Japanese_Radio
+200 http://101.79.244.199:1935/cocotv/_definst_/CH00007/playlist.m3u8
+#EXTINF:-1,KBS_World_German_Radio
+200 http://101.79.244.199:1935/cocotv/_definst_/CH00005/playlist.m3u8
+#EXTINF:-1,KBS_World_Russian_Radio
+200 http://101.79.244.199:1935/cocotv/_definst_/CH00009/playlist.m3u8
+#EXTINF:-1,KBS_World_Chinese_Radio
+200 http://101.79.244.199:1935/cocotv/_definst_/CH00002/playlist.m3u8
+#EXTINF:-1,KBS_World_Arabic_Radio
+200 http://101.79.244.199:1935/cocotv/_definst_/CH00001/playlist.m3u8
+#EXTINF:-1,KBS_World_Spanish_Radio
+200 http://101.79.244.199:1935/cocotv/_definst_/CH00010/playlist.m3u8
+#EXTINF:-1,EBS_TV-2
+200 http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1,EBS_TV-Plus_2
+200 http://ebsonairios.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1,Buddhist_True_Network_TV
+http://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8
+#EXTINF:-1,EBS_TV-Kids
+200 http://ebsonairios.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1,EBS_TV-1
+200 http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1,EBS_TV-i
+200 http://ebsonairios.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1,KBS_World_Vietnamese_Radio
+200 http://101.79.244.199:1935/cocotv/_definst_/CH00011/playlist.m3u8
+#EXTINF:-1,CPBC_TV
+200 http://onair1.cpbc.co.kr:1935/tv/mp4:live720/playlist.m3u8
+#EXTINF:-1,KBS_World_French_Radio
+200 http://101.79.244.199:1935/cocotv/_definst_/CH00004/playlist.m3u8
+#EXTINF:-1,EBS_TV-e
+200 http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1,Gukak_TV
+http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1,cbs_music
+http://aac.cbs.co.kr/cbs939/_definst_/cbs939.stream/playlist.m3u8
+#EXTINF:-1,TBS_TV
+http://58.234.158.60:1935/catvlive/myStream/playlist.m3u8
+#EXTINF:-1,wbs-smok_원음방송
+http://45.76.71.4:8000/wbs-smok
+#EXTINF:-1,마포FM
+200 http://115.85.182.39/mapofm?type=.mp3
+#EXTINF:-1,Fred_Film_Radio(한국어)
+https://s10.webradio-hosting.com/proxy/fredradiokr/stream
+#EXTINF:-1,Oldpop_Cafe
+200 http://cast.oldpopcafe.net:7080/;

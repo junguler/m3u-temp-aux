@@ -1,0 +1,87 @@
+#EXTM3U
+#EXTINF:-1,Traxx_FM_Tech-Minimal
+200 https://traxx020.ice.infomaniak.ch/traxx020-low.mp3
+#EXTINF:-1,Traxx_FM_Ambient
+200 https://traxx011.ice.infomaniak.ch/traxx011-low.mp3
+#EXTINF:-1,Traxx_FM_House
+200 https://traxx002.ice.infomaniak.ch/traxx002-low.mp3
+#EXTINF:-1,Traxx_FM_Golden_Oldies
+200 https://traxx023.ice.infomaniak.ch/traxx023-1.mp3
+#EXTINF:-1,Traxx_FM_Funk
+200 https://traxx016.ice.infomaniak.ch/traxx016-low.mp3
+#EXTINF:-1,Traxx_FM_Deep
+200 https://traxx013.ice.infomaniak.ch/traxx013-low.mp3
+#EXTINF:-1,Traxx_FM_Hits
+https://traxx010.ice.infomaniak.ch/traxx010-low.mp3
+#EXTINF:-1,DMPulse
+403 https://13683.live.streamtheworld.com:443/SAM01AAC23_SC
+#EXTINF:-1,Traxx_FM__Rock
+200 https://traxx019.ice.infomaniak.ch/traxx019-low.mp3
+#EXTINF:-1,Traxx_FM__Jazz
+200 https://traxx014.ice.infomaniak.ch/traxx014-low.mp3
+#EXTINF:-1,Traxx_FM_Deluxe
+https://traxx001.ice.infomaniak.ch/traxx001-low.mp3
+#EXTINF:-1,Traxx_FM_Latino
+200 https://traxx008.ice.infomaniak.ch/traxx008-low.mp3
+#EXTINF:-1,Traxx_FM_RnB
+200 https://traxx007.ice.infomaniak.ch/traxx007-low.mp3
+#EXTINF:-1,Traxx_FM__Pop
+https://traxx009.ice.infomaniak.ch/traxx009-low.mp3
+#EXTINF:-1,Traxx_FM__Rap
+https://traxx015.ice.infomaniak.ch/traxx015-low.mp3
+#EXTINF:-1,Traxx_FM_Cool_Jam
+200 https://traxx005.ice.infomaniak.ch/traxx005-low.mp3
+#EXTINF:-1,Traxx_FM_Soul
+200 https://traxx006.ice.infomaniak.ch/traxx006-low.mp3
+#EXTINF:-1,FSK
+http://stream.fsk-hh.org:8000/fsk.mp3
+#EXTINF:-1,KMNO_91.7_FM_Mana&#039;o_Radio_Maui
+200 http://tektite.streamguys1.com:5250/live
+#EXTINF:-1,WHCL_88.7_FM_Hamilton_College,_Clinton_NY
+400 http://150.209.66.45:8000/;
+#EXTINF:-1,Nagaswara_FM_Bogor
+200 https://live.nagaswarafm.com:9900/stream
+#EXTINF:-1,Spoon_Radio_-_Rock_Ballads
+https://spoonradiorockballads.ice.infomaniak.ch/spoon-rockballads-hd.aac
+#EXTINF:-1,Party_Vibe_Radio_-_Ambient
+http://www.partyviberadio.com:8056/;stream/1
+#EXTINF:-1,Spoon_Radio_-_Modern_Rock
+https://spoonradiomodernrock.ice.infomaniak.ch/spoon-modernrock-hd.aac
+#EXTINF:-1,Spoon_Radio_-_Alternative_Rock
+https://spoonradioalternativerock.ice.infomaniak.ch/spoon-alternativerock-hd.aac
+#EXTINF:-1,Spoon_Radio_-_Acoustic_Rock
+https://spoonradioacousticrock.ice.infomaniak.ch/spoon-acousticrock-hd.aac
+#EXTINF:-1,Spoon_Radio_-_Hard_Rock
+200 https://spoonradiohardrock.ice.infomaniak.ch/spoon-hardrock-hd.aac
+#EXTINF:-1,Joy_Hits_UK
+200 http://stream.joyhits.online:8070/joyhitshq.mp3
+#EXTINF:-1,Ohm_Radio_96.3_FM_(WOHM_LP)
+302 http://ais-edge106-live365-dal02.cdnstream.com/a92834
+#EXTINF:-1,Radio_Free_Americana_[64kbps_AAC+]
+200 http://janus.cdnstream.com:5140/live
+#EXTINF:-1,Radio_Malva_104.9FM
+http:/http:/adiomalva.ddns.net:8000http:/mbc.ogg
+#EXTINF:-1,chiru.no_[MP3]
+https://chiru.no:8000/stream.mp3
+#EXTINF:-1,HD_Radio_-_The_Party_Mix_(USA)_128k_mp3
+200 http://hdradiopartymix-rfritschka.radioca.st/;
+#EXTINF:-1,HD_Radio_-_Hot_100_(USA)_128k_mp3
+200 http://hdradiohot100-rfritschka.radioca.st/;
+#EXTINF:-1,Classic_R&amp;B_(fadefm.com)_64k_aac+
+http://ec4.yesstreaming.net:3660/stream
+#EXTINF:-1,Active_Rock_(fadefm.com)_64k_aac+
+http://ec4.yesstreaming.net:2230/stream
+#EXTINF:-1,Hairband_Rock_(fadefm.com)_64k_aac+
+http://ec4.yesstreaming.net:3100/stream
+#EXTINF:-1,maxFM_–_Emo_Grunge_(fadefm.com)_64k_aac+
+http://ec4.yesstreaming.net:3070/stream
+#EXTINF:-1,Office_Mix_(fadefm.com)_64k_aac+
+http://ec2.yesstreaming.net:2490/stream
+#EXTINF:-1,RockUmentary_(fadefm.com)_64k_aac+
+http://ec1.yesstreaming.net:3720/stream
+#EXTINF:-1,Classical_Music_(fadefm.com)_64k_aac+
+200 http://ec2.yesstreaming.net:1570/stream
+#EXTINF:-1,MAD_FM_Auckland_106.7
+200 https://madfm-gecko.radioca.st/stream
+#EXTINF:-1,Youth_One_Radio
+302 https://stream.zeno.fm/lv1egsq3wejvv
