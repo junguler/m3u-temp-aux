@@ -1,0 +1,591 @@
+#EXTM3U
+#EXTINF:-1,Radyo_Fenomen
+200 https://live.radyofenomen.com/fenomen/abr/playlist.m3u8
+#EXTINF:-1,Power_FM
+404 https://live.powerapp.com.tr/powerfm/abr/playlist.m3u8
+#EXTINF:-1,Virgin_Radio
+403 https://22603.live.streamtheworld.com:443/VIRGIN_RADIOAAC.aac
+#EXTINF:-1,Slow_Türk
+https:/http:/adyo.duhnet.tv/ak_dtvh_slowturk
+#EXTINF:-1,Metro_FM
+403 https://22603.live.streamtheworld.com:443/METRO_FM128AAC.aac
+#EXTINF:-1,PashPash_Radio
+200 https://hits.pashpashradio.com:7000/;stream.nsv
+#EXTINF:-1,Joy_Turk
+403 https://22183.live.streamtheworld.com:443/JOY_TURKAAC.aac
+#EXTINF:-1,Akra_FM
+200 https://cdn3.akradyo.net/akracanli2/_definst_/livestream_aac/playlist.m3u8
+#EXTINF:-1,Joy_FM
+403 https://22193.live.streamtheworld.com:443/JOY_FMAAC.aac
+#EXTINF:-1,Number1_Deep_House
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e35cb55bf5_1/playlist.m3u8
+#EXTINF:-1,Number_1_FM
+https://n10101m.mediatriple.net/numberone
+#EXTINF:-1,Istanbul_Fm
+200 https://yayin.istanbulfm.com.tr/istanbulfm
+#EXTINF:-1,Kral_FM
+https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8
+#EXTINF:-1,STAR_ARTI
+http://77.223.134.54:8282/;
+#EXTINF:-1,Radyo_MYDONOSE
+404 https://25533.live.streamtheworld.com:443/SC010_SO1AAC.aac
+#EXTINF:-1,Lounge_96
+200 http://37.1.145.21:9003/;
+#EXTINF:-1,Radyo_2000
+http://stream.taksimbilisim.com:8004/;
+#EXTINF:-1,Radyo_Voyage
+200 http://voyagewmp.radyotvonline.com/;
+#EXTINF:-1,Istanbulun_Sesi
+http://shoutcast.gostream.nl:8110/;
+#EXTINF:-1,Kral_Pop_Radyo
+200 https://dygedge.radyotvonline.net/kralpop/playlist.m3u8
+#EXTINF:-1,Baba_Radyo
+200 http://37.247.98.7/;stream.mp3
+#EXTINF:-1,Semerkand_Radyo
+200 https://mtisvwurbfcyslive.mediatriple.net/mtisvwurbfcyslive/broadcast_58e23cb112296.smil/Playlist.m3u8
+#EXTINF:-1,Best_FM
+200 http://46.20.7.125/;
+#EXTINF:-1,FG_93.7
+401 http://37.1.145.21:9001/;stream.mp3
+#EXTINF:-1,Vav_Radyo
+https://trkvz-radyolar.ercdn.nethttp:/adyovav/playlist.m3u8
+#EXTINF:-1,Power_Deep
+https://listen.powerapp.com.tr/powerdeep/abr/playlist.m3u8
+#EXTINF:-1,Zenland
+200 https://moondigitaledge.radyotvonline.net/zenland/playlist.m3u8
+#EXTINF:-1,Radyo_45&#039;lik
+https://stream.radyo45lik.com:4545/stream
+#EXTINF:-1,Radyo_Eksen
+https://dygedge.radyotvonline.nethttp:/adyoeksen/playlist.m3u8
+#EXTINF:-1,Radyo_Pal_FM
+200 http://shoutcast.radyogrup.com:1030/;stream
+#EXTINF:-1,Lalegül_FM
+400 https://icecast.netmedya.net/lalegulfm
+#EXTINF:-1,Greatest_Hits_of_All_Time
+403 https://22193.live.streamtheworld.com:443/SC030_SO1AAC.aac
+#EXTINF:-1,Radyo_Pal_Station
+200 http://shoutcast.radyogrup.com:1020/;stream/1
+#EXTINF:-1,Power_Dance
+https://listen.powerapp.com.tr/powerdance/abr/playlist.m3u8
+#EXTINF:-1,Radyo_Alaturka
+https://yayin.jumboserver.net:9100/stream
+#EXTINF:-1,Radyo_Pal_Nostalji
+200 http://shoutcast.radyogrup.com:1010/;stream/1
+#EXTINF:-1,Loops_Radio
+http://95.173.162.187:7670/stream
+#EXTINF:-1,Power_Love
+200 https://listen.powerapp.com.tr/powerlove/abr/playlist.m3u8
+#EXTINF:-1,Radyo_Fenomen_Turk
+200 https://live.radyofenomen.com/fenomenturk/abr/playlist.m3u8
+#EXTINF:-1,Show_Radyo
+200 http://46.20.3.229/;
+#EXTINF:-1,Dinamo_FM_Deep
+400 https://channels.dinamo.fm/deep-mp3
+#EXTINF:-1,Alem_FM
+200 https://turkmedya.radyotvonline.net/alemfmaac
+#EXTINF:-1,Gönül_Türküleri
+403 https://22673.live.streamtheworld.com:443/SC020_SO1AAC.aac
+#EXTINF:-1,Slow_Time
+http://46.20.7.103:8030/;stream.nsv
+#EXTINF:-1,Turk_Rap_FM
+200 http://95.173.188.166:9984/;
+#EXTINF:-1,Radyo_Viva
+https:/http:/adyoviva.radyotvonline.nethttp:/adyovivaaac
+#EXTINF:-1,Retro_Türk
+403 https://22653.live.streamtheworld.com:443/RETROTURK128AAC.aac
+#EXTINF:-1,CNN_Türk_Radyo
+https:/http:/adyo.duhnet.tv/ak_dtvh_cnnturk
+#EXTINF:-1,Power_XL
+200 https://listen.powerapp.com.tr/powerextralounge/abr/playlist.m3u8
+#EXTINF:-1,Radyo_7
+https://moondigitaledge.radyotvonline.nethttp:/adyo7/playlist.m3u8
+#EXTINF:-1,Houseland
+200 https://moondigitaledge.radyotvonline.net/houseland/playlist.m3u8
+#EXTINF:-1,Kafa_Radyo
+https://moondigitaledge2.radyotvonline.net/kafaradyo/playlist.m3u8
+#EXTINF:-1,Radyo_Seymen
+https://yayin.radyoseymen.com.tr:1070/stream
+#EXTINF:-1,Karadeniz_FM
+200 https://moondigitaledge.radyotvonline.net/karadenizfm/playlist.m3u8
+#EXTINF:-1,Süper_2_Fm
+403 https://23563.live.streamtheworld.com:443/SUPER2128AAC.aac
+#EXTINF:-1,NTV_Radyo
+200 https://dygedge.radyotvonline.net/ntvradyo/playlist.m3u8
+#EXTINF:-1,Radyo_Hevi
+200 https://anadolu.liderhost.com.tr:10939/;?1648035949562
+#EXTINF:-1,Sari_Tramvay
+200 https://moondigitaledge.radyotvonline.net/saritramvay/playlist.m3u8
+#EXTINF:-1,Power_Smooth_Jazz
+200 https://listen.powerapp.com.tr/powersmoothjazz/abr/playlist.m3u8
+#EXTINF:-1,Discoland
+200 https://moondigitaledge.radyotvonline.net/discoland/playlist.m3u8
+#EXTINF:-1,Acik_Radyo
+400 https://stream.34bit.net/stream.mp3
+#EXTINF:-1,Radyo_Ekin
+200 http://yayin.turkhosted.com:6006/;
+#EXTINF:-1,HAYATMiX
+200 http://hayatmix.net/;yayin.mp3/;
+#EXTINF:-1,Pop90
+403 https://22603.live.streamtheworld.com:443/POP90128AAC.aac
+#EXTINF:-1,Dinamo_FM
+400 https://channels.dinamo.fm/legacy-mp3
+#EXTINF:-1,Radyo_D
+https:/http:/adyo.duhnet.tv/ak_dtvh_radyod
+#EXTINF:-1,Arabeskland
+200 https://moondigitaledge.radyotvonline.net/arabeskland/playlist.m3u8
+#EXTINF:-1,Mydonose_Türk
+403 https://22673.live.streamtheworld.com:443/SC016_SO1AAC.aac
+#EXTINF:-1,Rock_FM
+https:/http:/ockfm.rockfm.com.tr:9450/stream
+#EXTINF:-1,Damar_Türk_FM
+200 https://live.radyositesihazir.com:10997/;stream.nsv
+#EXTINF:-1,Radyo_Fenomen_Karışık
+200 https://live.radyofenomen.com/fenomenkarisik/abr/playlist.m3u8
+#EXTINF:-1,Yön_Radyo
+https://stream.radyolarburada.comhttp:/adio/8020/yonradyo
+#EXTINF:-1,Radyo_Fenomen_Pop
+200 https://live.radyofenomen.com/fenomenpop/abr/playlist.m3u8
+#EXTINF:-1,JoyTurk_Akustik
+403 https://22193.live.streamtheworld.com:443/SC004_SO1AAC.aac
+#EXTINF:-1,Rock_Station
+403 https://22673.live.streamtheworld.com:443/SC017_SO1AAC.aac
+#EXTINF:-1,Power_POP
+https://listen.powerapp.com.tr/powerpop/abr/playlist.m3u8
+#EXTINF:-1,Kent_FM
+200 https://moondigitalmaster.radyotvonline.net/kentfm/playlist.m3u8
+#EXTINF:-1,Radyo_Pop
+http://80.radyopop.com/;
+#EXTINF:-1,Radio_Karadeniz
+403 https://22673.live.streamtheworld.com:443/SC005_SO1AAC.aac
+#EXTINF:-1,Radyo_Fenomen_Clubbin&#039;
+200 https://live.radyofenomen.com/fenomenclubbin/abr/playlist.m3u8
+#EXTINF:-1,PowerTürk_En_İyiler
+404 https://listen.powerapp.com.tr/powerturkeniyiler/abr/playlist.m3u8
+#EXTINF:-1,Radyo_Dejavu
+http:/http:/adyodejavu.canliyayinda.com:8054/;
+#EXTINF:-1,Viva_Italo_Disco
+http://us2freenew.listen2myradio.com:27904/;stream.nsv
+#EXTINF:-1,PashPash_90s_Station
+200 https://90s.pashpashradio.com:7001/;stream.nsv
+#EXTINF:-1,Power_Greece
+200 https://listen.powerapp.com.tr/powergreece/abr/playlist.m3u8
+#EXTINF:-1,Number1_Dance
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e33b514f52_1/playlist.m3u8
+#EXTINF:-1,Popland
+200 https://moondigitaledge.radyotvonline.net/popland/playlist.m3u8
+#EXTINF:-1,Radyo_34
+https:/http:/adyo34.radyotvonline.nethttp:/adyo34
+#EXTINF:-1,Number1_Türk_90’lar
+https://n10101m.mediatriple.net/numberone90s
+#EXTINF:-1,Borusan_Klasik
+403 https://25483.live.streamtheworld.com:443/BORUSAN_KLASIK128AAC.aac
+#EXTINF:-1,Radyo_Pal_Orient
+http://shoutcast.radyogrup.com:1050/stream/1;
+#EXTINF:-1,Number1_Slow
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3a53317d4_1/playlist.m3u8
+#EXTINF:-1,Number1_Türk_Fm
+https://n10101m.mediatriple.net/numberoneturk
+#EXTINF:-1,Radyo_Spor
+http://46.20.7.103:8040/;stream.nsv/;
+#EXTINF:-1,Number1_Türk_Slow
+https://n10101m.mediatriple.net/numberoneturkslow
+#EXTINF:-1,PowerTürk_Akustik
+200 https://listen.powerapp.com.tr/powerturkakustik/abr/playlist.m3u8
+#EXTINF:-1,Radyo_Fenomen_Rap
+200 https://live.radyofenomen.com/fenomenrap/abr/playlist.m3u8
+#EXTINF:-1,Radyo_Fenomen_Akustik
+200 https://live.radyofenomen.com/fenomenakustik/abr/playlist.m3u8
+#EXTINF:-1,Radyo_Fenomen_Oriental
+200 https://live.radyofenomen.com/fenomenoriental/abr/playlist.m3u8
+#EXTINF:-1,Damla_FM
+200 http://yayin.rtmp.org:8750/;
+#EXTINF:-1,Dinamo_FM_Locodyno
+400 https://channels.dinamo.fm/locodyno-mp3
+#EXTINF:-1,Radyo_Fenomen_Türkçe_Rap
+200 https://live.radyofenomen.com/fenomenturkrap/abr/playlist.m3u8
+#EXTINF:-1,Doksanlar
+https://moondigitaledge.radyotvonline.nethttp:/adyolanddoksanlar/playlist.m3u8
+#EXTINF:-1,Radyo_Fenomen_Dans
+200 https://live.radyofenomen.com/fenomendans/abr/playlist.m3u8
+#EXTINF:-1,Mio_Radio
+200 http://s2.myradiostream.com:13662/;
+#EXTINF:-1,PowerTürk_Taptaze
+200 https://listen.powerapp.com.tr/powerturktaptaze/abr/playlist.m3u8
+#EXTINF:-1,JoyTurk_Rock
+403 https://23613.live.streamtheworld.com:443/JOYTURK_ROCK128AAC.aac
+#EXTINF:-1,Cem_Radyo
+https://cemradyo.radyotvonline.net/cemradyo
+#EXTINF:-1,Dinamo_FM_Cafee
+400 https://channels.dinamo.fm/caffe-mp3
+#EXTINF:-1,Number1_Disco
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e41c778cb0_1/playlist.m3u8
+#EXTINF:-1,Number1_Lounge
+https://n10101m.mediatriple.net/lounge
+#EXTINF:-1,Arabesk_Turk
+200 http://yayin.arabeskturk.com:8000/stream?icy=http
+#EXTINF:-1,Radyo_Pal_DOĞA
+200 http://shoutcast.radyogrup.com:1040/stream/1;
+#EXTINF:-1,Radyo_Pal_Alaturka
+http://shoutcast.radyogrup.com:3050/stream/1;
+#EXTINF:-1,Danceland
+200 https://moondigitaledge.radyotvonline.net/danceland/playlist.m3u8
+#EXTINF:-1,Baska
+403 https://22183.live.streamtheworld.com:443/BASKA128AAC.aac
+#EXTINF:-1,Radyo_Home_-_90’lar
+https://ssl4.radyotvonline.comhttp:/adyohome/90lar.stream_aac/playlist.m3u8
+#EXTINF:-1,İTÜ_Radyosu_Klasik
+http://160.75.86.29:8097/;stream.nsv
+#EXTINF:-1,İTÜ_Radyosu_Caz/Blues
+http://160.75.86.29:8090/;
+#EXTINF:-1,Hoş_Mix
+200 https://anadolu.liderhost.com.tr:10871/;stream.nsv
+#EXTINF:-1,Radyo_Home_-_Altın_Şarkılar
+https://ssl4.radyotvonline.comhttp:/adyohome/altinsarkilar.stream_aac/playlist.m3u8
+#EXTINF:-1,Lig_Radyo
+200 https://ligradyo.radyotvonline.net/ligradyo
+#EXTINF:-1,Radyo_Home_-_Relax_Home
+https://ssl4.radyotvonline.comhttp:/adyohomehttp:/elaxhome.stream_aac/playlist.m3u8
+#EXTINF:-1,Dinamo_FM_Sleep
+400 https://channels.dinamo.fm/sleep-mp3
+#EXTINF:-1,Number1_Classic
+https://n10101m.mediatriple.net/classic
+#EXTINF:-1,Power_R&amp;B_Hip_Hop
+200 https://listen.powerapp.com.tr/powerrbhiphop/abr/playlist.m3u8
+#EXTINF:-1,Greekland
+200 https://moondigitaledge.radyotvonline.net/greekland/playlist.m3u8
+#EXTINF:-1,Nostalji_FM
+https://ssl.radyopanel.com:7001/;
+#EXTINF:-1,Number1_World
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2f95dcb16_1/playlist.m3u8
+#EXTINF:-1,Classicland
+200 https://moondigitaledge.radyotvonline.net/classicland/playlist.m3u8
+#EXTINF:-1,Mekke_FM
+http://yayin2.canliyayin.org:17175/;
+#EXTINF:-1,Akustikland
+200 https://moondigitaledge.radyotvonline.net/akustikland/playlist.m3u8
+#EXTINF:-1,Radio_Mood
+200 http://yayin.radiomoodtr.com:5862/;stream/1
+#EXTINF:-1,Radyo_90
+200 https://live.radyo.in/9054/stream
+#EXTINF:-1,Number1_Rock
+https://n10101m.mediatriple.nethttp:/ock
+#EXTINF:-1,Kiss_FM
+403 https://25643.live.streamtheworld.com:443/KISS_FM128AAC.aac
+#EXTINF:-1,Arabesk_Aski
+http:/http:/adyo.arabeskaski.com:4242/;stream.nsv
+#EXTINF:-1,Number1_Heart
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e367972335_1/playlist.m3u8
+#EXTINF:-1,Radyo_Pal_Slow
+http://shoutcast.radyogrup.com:2020/stream/1;
+#EXTINF:-1,Tezene
+200 https://moondigitaledge.radyotvonline.net/tezene/playlist.m3u8
+#EXTINF:-1,Dolunay_FM
+401 http://yayin1.canliyayin.org:8318/;
+#EXTINF:-1,Diva
+403 https://22673.live.streamtheworld.com:443/SC015_SO1AAC.aac
+#EXTINF:-1,Number1_Best_Of
+https://n10101m.mediatriple.net/bestof
+#EXTINF:-1,JoyJazz
+403 https://25443.live.streamtheworld.com:443/JOY_JAZZ128AAC.aac
+#EXTINF:-1,Radyo_Soft
+https://trkvz-radyolar.ercdn.nethttp:/adyosoft/playlist.m3u8
+#EXTINF:-1,Yol_Arkadaşım
+403 https://22193.live.streamtheworld.com:443/SC022_SO1AAC.aac
+#EXTINF:-1,Dream_Türk_Radyo
+200 https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1,Radyo_Pal_Lagend
+http://shoutcast.radyogrup.com:3030/;stream/1
+#EXTINF:-1,Turkuvaz_Romantik
+200 https://trkvz-radyolar.ercdn.net/turkuvazromantik/playlist.m3u8
+#EXTINF:-1,Radyo_Home_-_Türkülerle_Türkiye
+https://ssl4.radyotvonline.comhttp:/adyohome/turkulerleturkiye.stream_aac/playlist.m3u8
+#EXTINF:-1,PowerTürk_Dans
+200 https://listen.powerapp.com.tr/powerturkdans/abr/playlist.m3u8
+#EXTINF:-1,Turkuvaz_Anadolu
+200 https://trkvz-radyolar.ercdn.net/turkuvazanadolu/playlist.m3u8
+#EXTINF:-1,TGRT_FM
+https://nminhgrts.mediatriple.net/tgrtfm.aac
+#EXTINF:-1,Rockland
+https://moondigitaledge.radyotvonline.nethttp:/ockland/playlist.m3u8
+#EXTINF:-1,Easyland
+200 https://moondigitaledge.radyotvonline.net/easyland/playlist.m3u8
+#EXTINF:-1,İTÜ_Radyosu_Rock
+http://160.75.86.29:8095/;
+#EXTINF:-1,Dinamo_FM_Discotheque
+400 https://channels.dinamo.fm/discotheque-mp3
+#EXTINF:-1,Radyo_Home_-_EFSANE4&#039;LÜ
+https://ssl4.radyotvonline.comhttp:/adyohome/3baba.stream_aac/playlist.m3u8
+#EXTINF:-1,Berat_FM
+https://beratfm.80.yayin.com.tr/stream/1/
+#EXTINF:-1,Radio_AVA
+http:/http:/adioava.radyotvonline.net/Stream9
+#EXTINF:-1,Doksanlar_FM
+200 http://37.247.98.8/stream/166/
+#EXTINF:-1,A_Spor_Radyo
+200 https://trkvz-radyolar.ercdn.net/asporradyo/playlist.m3u8
+#EXTINF:-1,Abuzer_FM
+200 http://live.radyotvonline.com:9030/;stream.nsv
+#EXTINF:-1,Radyo_Home_-_Ankara_Havaları
+200 https://moondigitaledge.radyotvonline.net/ankarahavalari/playlist.m3u8
+#EXTINF:-1,Radyo_Ankara_Havaları
+200 http://37.247.98.8/stream/30/?/;stream.mp3
+#EXTINF:-1,Radyo_Tatlıses
+200 https://sslyayin.radyoyayini.com:7009/default
+#EXTINF:-1,Kıyı_müzik
+200 https://kiyi.radioca.st/stream
+#EXTINF:-1,Müzeyyen
+200 https://moondigitaledge.radyotvonline.net/muzeyyen/playlist.m3u8
+#EXTINF:-1,radyo2000fm
+http:/http:/adyo2000.radyomhd.com:1100/;type=mp3
+#EXTINF:-1,Radyo_Home_-_Ege_Havaları
+https://ssl4.radyotvonline.comhttp:/adyohome/egehavalari.stream_aac/playlist.m3u8
+#EXTINF:-1,Number1_Eller_Havaya
+https://n10101m.mediatriple.net/ellerhavaya
+#EXTINF:-1,HAYATMiX_Arabesk
+https:/http:/adyo.yayin.com.tr:4078/mp3
+#EXTINF:-1,Jazzland
+200 https://moondigitaledge.radyotvonline.net/jazzland/playlist.m3u8
+#EXTINF:-1,Radyo_Home_-_Maziden_Bir_Demet
+https://ssl4.radyotvonline.comhttp:/adyohome/mazidenbirdemet.stream_aac/playlist.m3u8
+#EXTINF:-1,Radio_Glamorize
+https://live.radioglamorize.com/stream1
+#EXTINF:-1,Dinamo_FM_Smog
+400 https://channels.dinamo.fm/smog-mp3
+#EXTINF:-1,Radyo_Home_-_Klasik_Home
+https://ssl4.radyotvonline.comhttp:/adyohome/klasikhome.stream_aac/playlist.m3u8
+#EXTINF:-1,Turkuvaz_Radyolar
+https://trkvz-radyolar.ercdn.nethttp:/adyoturkuvaz/playlist.m3u8
+#EXTINF:-1,Özel_FM
+200 https://ozelfm.80.yayin.com.tr/;stream/1
+#EXTINF:-1,Radyo_Trafik
+http://46.20.4.2:8000/;
+#EXTINF:-1,Türkçe_Play
+https://ssl.radyopanel.com:7002/;
+#EXTINF:-1,Yön_Radyo_Alaturka
+https://stream.radyolarburada.comhttp:/adio/8060/yonalaturca
+#EXTINF:-1,Mood_Love
+http:/http:/adyo.yayin.com.tr:6050//stream:
+#EXTINF:-1,Turkland
+200 https://moondigitaledge.radyotvonline.net/turkland/playlist.m3u8
+#EXTINF:-1,Arazaman
+200 https://arazaman.stream.laut.fm/arazaman
+#EXTINF:-1,Radyo_Home_-_Pop_Home
+https://ssl4.radyotvonline.comhttp:/adyohome/pophome.stream_aac/playlist.m3u8
+#EXTINF:-1,Efsane_Sezen
+403 https://25493.live.streamtheworld.com:443/SC015_SO1_SC
+#EXTINF:-1,Radyo_Mega
+http:/http:/adyo.yayin.com.tr:4052/stream
+#EXTINF:-1,Renk_FM
+http://dinle.renk-fm.com:7062/;
+#EXTINF:-1,Habertürk_Radyo
+200 https://haberturkradyo.radyotvonline.net/haberturkradyo
+#EXTINF:-1,Radyo_Kafses
+https:/http:/adyo1.radyo-dinle.tc/8072/stream
+#EXTINF:-1,Soft_Radio
+http:/http:/adyo.softradyo.com:1140/;stream.nsv
+#EXTINF:-1,CRI_Türk_Türkiye
+401 https://stream.guventechnology.com:2020/stream/criturkradyo/stream
+#EXTINF:-1,Radyo_Derman
+200 https://ssl120.radyotelekom.com.tr/8710/stream/;
+#EXTINF:-1,Number1_Jazz
+https://n10101m.mediatriple.net/jazz
+#EXTINF:-1,Number_1_RnB
+https://n10101m.mediatriple.nethttp:/nb
+#EXTINF:-1,RadyoVesaire
+404 https://s2.radio.co/s9c94bdb61/listen
+#EXTINF:-1,Radyo_Home_-_SlowHome
+https://ssl4.radyotvonline.comhttp:/adyohome/slowhome.stream_aac/playlist.m3u8
+#EXTINF:-1,Radyo_Home_-_World_Hits
+https://ssl4.radyotvonline.comhttp:/adyohome/worldhit.stream_aac/playlist.m3u8
+#EXTINF:-1,X_Radio
+https://stream.xradio.com.tr:8770/stream
+#EXTINF:-1,Radyo_Dengê_Kurdî
+https://anadolu.liderhost.com.tr:10930/;
+#EXTINF:-1,Number1_Türk_Damar
+https://n10101m.mediatriple.net/trdamar
+#EXTINF:-1,Radyo_Pal_Mina
+http://shoutcast.radyogrup.com:1070/;
+#EXTINF:-1,BAU_Radyo
+200 https://ssl120.radyotelekom.com.tr/8106/stream.mp4
+#EXTINF:-1,Radyo_Energy
+https://trkvz-radyolar.ercdn.nethttp:/adyoenergy/playlist.m3u8
+#EXTINF:-1,Radyo_Home_-_Melankolik_Home
+https://ssl4.radyotvonline.comhttp:/adyohome/melankolik.stream_aac/playlist.m3u8
+#EXTINF:-1,Arabesk_Play
+https://ssl.radyopanel.com:7004/;:/;stream.mp3
+#EXTINF:-1,Radyo_Arabesk
+https://yayin.radyoarabesk.com.tr:8000/stream
+#EXTINF:-1,Genç_ve_Fit_Radyo
+403 https://25703.live.streamtheworld.com:443/JOY_TURKAAC.aac
+#EXTINF:-1,Gold_Türk
+200 http://dijimedya.radyotvonline.net/goldturk
+#EXTINF:-1,Fenerbahce
+400 http://91.232.174.18:8000/Stream
+#EXTINF:-1,Karma_Türk
+https://yayin.radyomadyo.com:8006/stream
+#EXTINF:-1,Radyo_Home_-_Kuran_Meali
+https://ssl4.radyotvonline.comhttp:/adyohome/kuranmeal.stream_aac/playlist.m3u8
+#EXTINF:-1,Radyo_Imparator
+http:/http:/adyo.yayin.com.tr:4012/;stream.mp3
+#EXTINF:-1,Radyo_Majör
+http://45.32.154.169:8054/;stream.mp3
+#EXTINF:-1,Radyo_Kara_Kutu
+403 https://player.web.tr/listen/dfd13033c49a6569801474108a8bf098
+#EXTINF:-1,HAYATMiX_Slow
+https:/http:/adyo.yayin.com.tr:4090/mp3
+#EXTINF:-1,Kiss_Dance
+200 http://dijimedya.radyotvonline.net/kissdance
+#EXTINF:-1,A_Haber_Radyo_News
+200 https://trkvz-radyolar.ercdn.net/anewsradyo/playlist.m3u8
+#EXTINF:-1,Radyo_Pop_Mix
+200 https://anadolu.liderhost.com.tr:6010/;stream.nsv
+#EXTINF:-1,2-Kiss_Türk
+403 https://22183.live.streamtheworld.com:443/KISS_TURK128AAC.aac
+#EXTINF:-1,Arabesk_Vadisi
+200 https://arabeskv.80.yayin.com.tr/;
+#EXTINF:-1,Radyo_Home_-_Radyo_Vokal
+https://ssl4.radyotvonline.comhttp:/adyohomehttp:/adyovokal.stream_aac/playlist.m3u8
+#EXTINF:-1,Number1_Üsküdar_Musiki
+https://n10101m.mediatriple.net/musiki
+#EXTINF:-1,Radyo_Pal_Besk
+http://shoutcast.radyogrup.com:3010/;stream/1
+#EXTINF:-1,Kıyı_Türkçe
+200 https://kiyiturk.radioca.st/stream
+#EXTINF:-1,Radyo_7_Kuran_Meali
+200 http://37.247.98.8/stream/33/
+#EXTINF:-1,GNC_Radyo
+200 http://dijimedya.radyotvonline.net/gncradyo
+#EXTINF:-1,Gold_FM
+200 http://dijimedya.radyotvonline.net/goldfm
+#EXTINF:-1,A_Para_Radyo
+200 https://trkvz-radyolar.ercdn.net/apararadyo/playlist.m3u8
+#EXTINF:-1,Number_1_Greek
+https://n10101m.mediatriple.net/greek
+#EXTINF:-1,Bozkurtlar_Fm_Radyo
+200 http://bozkurtlarfm.canliyayinda.com:4040/stream
+#EXTINF:-1,Radyo_Egenin_Sesi
+http://dijimedya.radyotvonline.nethttp:/adyoegeninsesi
+#EXTINF:-1,Radio_Beatbox
+http://dijimedya.radyotvonline.nethttp:/adiobeatbox
+#EXTINF:-1,Radio_FK
+http://dijimedya.radyotvonline.nethttp:/adiofk
+#EXTINF:-1,Radio_Corax
+https://stream.coraxonline.comhttp:/dcx128.mp3
+#EXTINF:-1,Onur_Radyo
+200 https://anadolu.liderhost.com.tr/8094/stream:8094/;
+#EXTINF:-1,Radyo_Ihotispolis
+http://sc4.streamingpulse.net:8041/stream
+#EXTINF:-1,Turkuvaz_Efsane
+200 https://trkvz-radyolar.ercdn.net/turkuvazefsane/playlist.m3u8
+#EXTINF:-1,RADYO_MUSİKİ
+http://dijimedya.radyotvonline.nethttp:/adyomusiki
+#EXTINF:-1,Dinamo_FM_Mmradyo
+400 https://channels.dinamo.fm/mmradyo-mp3
+#EXTINF:-1,Number1_Ertuğrul_Özkok
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3d762b7d5_1/playlist.m3u8
+#EXTINF:-1,Bloomberg_HT_Radyo
+200 https://bloomberghtradyo.radyotvonline.net/bloomberghtradyo
+#EXTINF:-1,Power_Earth
+200 https://listen.powerapp.com.tr/powerearth/abr/playlist.m3u8
+#EXTINF:-1,Radio_Light
+https://yayin.radiolight.net:8005/live
+#EXTINF:-1,Radyo_Sohbet
+http:/http:/adyo.sohbetburada.com:9998/;*.nsv
+#EXTINF:-1,Radyo_Call_Center
+http:/http:/adyo.yayin.com.tr:5926/;
+#EXTINF:-1,Garaj_Radyo
+200 https://moondigitaledge.radyotvonline.net/garajradyo/playlist.m3u8
+#EXTINF:-1,Radyo_Pal_Rabia
+http://shoutcast.radyogrup.com:3000/;stream/1
+#EXTINF:-1,Babyland
+200 https://moondigitaledge.radyotvonline.net/babyland/playlist.m3u8
+#EXTINF:-1,Yildiz_Radyo
+https:/http:/adyoyil.80.yayin.com.tr/stream
+#EXTINF:-1,Radyo_KvP
+https:/http:/adyo1.radyo-dinle.tc:7102/stream
+#EXTINF:-1,Radio_Hayal_FM
+200 http://yayin.radyohayalfm.net:8050/;
+#EXTINF:-1,Radyo44
+https:/http:/adyo44.80.yayin.com.tr/steram/
+#EXTINF:-1,Radyo_Platin
+200 https://live.radyositesihazir.com/7010/stream
+#EXTINF:-1,Yön_Radyo_Rock
+https://stream.radyolarburada.comhttp:/adio/8090/yonrock
+#EXTINF:-1,Radyo_Pal_Ala
+200 https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8
+#EXTINF:-1,Arabeskin_Merkezi_FM
+200 https://canli.arabeskinmerkezi.com/9180/stream
+#EXTINF:-1,Radyo_FI
+http:/http:/adyo.yayin.com.tr:6134/;stream.nsv
+#EXTINF:-1,Ritim_FM
+https:/http:/adyoserver3.okeylisans.com:14000/8058/;
+#EXTINF:-1,Merkez_FM
+200 https://sslyayin.radyoyayini.com:7007/stream
+#EXTINF:-1,Senfoni_FM
+http:/http:/adyo.hostlan.net:8004/stream/;
+#EXTINF:-1,Radyo_Bir
+200 https://canli.radyobir.com.tr:7002/;stream/1
+#EXTINF:-1,Nebi_FM
+200 http://anadolu.liderhost.com.tr:9006/stream
+#EXTINF:-1,Radyo_75
+200 https://anadolu.liderhost.com.tr/8126/stream
+#EXTINF:-1,Yön_Radyo_World
+https://stream.radyolarburada.comhttp:/adio/8070/yonword
+#EXTINF:-1,Kıyı_Gece
+200 https://gece.radioca.st/stream
+#EXTINF:-1,Bayram_Fm
+200 https://sslyayin.netyayin.net/3442/stream
+#EXTINF:-1,Hemdem_Radyo
+502 https://host.onlineradyotv.net/stream/hemdemradyo
+#EXTINF:-1,Kıyı_Caz
+200 https://caz.radioca.st/stream
+#EXTINF:-1,Radyo_Deva
+200 http://95.173.188.156:9976/;stream.nsv
+#EXTINF:-1,MasalFM
+https:/http:/adyoserver3.okeylisans.com:14000/8552/;
+#EXTINF:-1,Karadeniz_Akustik
+200 https://karadenizakustik.radyotvonline.net/;?type=http&nocache=3230
+#EXTINF:-1,Number_1_Fred_Astaire
+404 https://eustr75.mediatriple.net/Number1Media/31_Number1_Fred_Astaire.stream/playlist.m3u8
+#EXTINF:-1,Radyo_Eksen_96.2
+200 http://eksenwmp.radyotvonline.com/;stream.mp3
+#EXTINF:-1,ITU_College_Radio_-Classical
+200 http://160.75.86.29:8088/stream/5/
+#EXTINF:-1,dinamo.fm_sleep
+400 http://channels.dinamo.fm/sleep-mp3
+#EXTINF:-1,dinamo.fm_caffe
+400 http://channels.dinamo.fm/caffe-mp3
+#EXTINF:-1,dinamo.fm_discotheque
+400 http://channels.dinamo.fm/discotheque-mp3
+#EXTINF:-1,Radyo_MODyAn
+200 http://stream.radio.co/s55d598f42/listen
+#EXTINF:-1,dinamo.fm_smog
+400 http://channels.dinamo.fm/smog-mp3
+#EXTINF:-1,dinamo.fm_deep
+400 http://channels.dinamo.fm/deep-mp3
+#EXTINF:-1,dinamo.fm_locodyno
+400 http://channels.dinamo.fm/locodyno-mp3
+#EXTINF:-1,Radyo_Kur&#039;an
+200 http://yayin.liderhost.net:8555/;*.mp3
+#EXTINF:-1,Gözyaşı_FM
+200 http://yayin1.canliyayin.org:8700/;*.mp3
+#EXTINF:-1,Serhad_FM
+http://yayin2.canliyayin.org:9372/;
+#EXTINF:-1,Diyanet_Kur&#039;an_Radyo
+200 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c14192aa92.smil/playlist.m3u8
+#EXTINF:-1,A_Haber_Radyo
+200 https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8
+#EXTINF:-1,Radyo_Atasehir
+200 http://162.254.207.45:9300/stream
+#EXTINF:-1,101.7
+https://azulpop.ozelip.com:8006/stream
+#EXTINF:-1,Arabesk_Alemi
+200 http://arabeskalemi.net:9300/;
+#EXTINF:-1,Volume_Play_-_Yabancı_Radyo
+https://ssl.radyopanel.com:7005/;
+#EXTINF:-1,Radyo_Midas
+200 https://ip169.ozelip.com:10992/;
+#EXTINF:-1,Radio_SANDRO_-_E1
+405 https://stream-148.zeno.fm/qv6yvcke3lsuv?zs=Kr9w-rj0Q5uJdyVbM1CGaA
+#EXTINF:-1,Radyo_Dram
+401 https://sslyayin.radyoyayini.com:7028/;stream.nsv

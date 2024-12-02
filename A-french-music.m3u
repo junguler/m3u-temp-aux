@@ -1,0 +1,625 @@
+#EXTM3U
+#EXTINF:-1,France_Culture
+200 https://icecast.radiofrance.fr/franceculture-midfi.mp3
+#EXTINF:-1,France_Musique
+200 https://icecast.radiofrance.fr/francemusique-midfi.mp3
+#EXTINF:-1,Radio_RMC
+https://audio.bfmtv.comhttp:/mcradio_128.mp3
+#EXTINF:-1,Радио_Монте-Карло_-_France
+200 https://montecarlo.hostingradio.ru/france96.aacp
+#EXTINF:-1,Fun_Radio
+200 https://streamer-04.rtl.fr/fun-1-44-128
+#EXTINF:-1,Радио_Пассаж
+https://listen.radiopassazh.ru/mp3-128
+#EXTINF:-1,Radio_Neige-Folle
+https://strw1.openstream.co/1144?aw_0_1st.collectionid%3D3990%26stationId%3D3990%26publisherId%3D1168%26k%3D1682446588
+#EXTINF:-1,M_Radio
+200 https://mfm.ice.infomaniak.ch/mfm-128.mp3
+#EXTINF:-1,M_Radio_-_Disney
+200 https://mfmwr-002.ice.infomaniak.ch/mfmwr-002.aac?i=78504
+#EXTINF:-1,100_Pour_Cent_France
+301 http://streaming.radionomy.com:80/JamendoLounge
+#EXTINF:-1,Cinemusic_Radio
+https://listen.radioking.comhttp:/adio/422/stream/62785
+#EXTINF:-1,RFM_-_100%_Francais
+https://stream.rfm.frhttp:/fm-wr11.aac
+#EXTINF:-1,Allzic_Radio_50s
+200 https://allzic29.ice.infomaniak.ch/allzic29.mp3
+#EXTINF:-1,Allzic_Radio_Golds_Français
+200 https://allzic30.ice.infomaniak.ch/allzic30.mp3
+#EXTINF:-1,Mouv&#039;_-_DanceHall
+200 https://icecast.radiofrance.fr/mouvdancehall-midfi.mp3
+#EXTINF:-1,FIP_-_Jazz
+200 https://icecast.radiofrance.fr/fipjazz-midfi.mp3
+#EXTINF:-1,Allzic_Radio_Années_70
+200 https://allzic50.ice.infomaniak.ch/allzic50.aac
+#EXTINF:-1,Allzic_Années_2000
+200 https://allzic49.ice.infomaniak.ch/allzic49.mp3
+#EXTINF:-1,RFI_en_Espanol
+https:/http:/fienespagnol64k.ice.infomaniak.chhttp:/fienespagnol-64.mp3
+#EXTINF:-1,Nostalgie_Chansons_Francaises
+200 https://n08a-eu.rcs.revma.com/23yuem43ehuvv?rj-ttl=5&rj-tok=AAABiq2_FlQA28T6DAnQHxkeKw
+#EXTINF:-1,M_Radio_-_Voix_Féminines
+200 https://mfmwr-013.ice.infomaniak.ch/mfmwr-013.mp3
+#EXTINF:-1,M_Radio_-_MFM_Radio
+200 https://mfmwr-019.ice.infomaniak.ch/mfmwr-019.mp3
+#EXTINF:-1,Generations_Rap_Français
+200 https://generationfm-rap.ice.infomaniak.ch/generationfm-rap-high.mp3
+#EXTINF:-1,Radio_Stars_FM_&amp;_DAB+
+400 https://proxy-us.webradio.tools/stream.RadioStars.be:9850/RadioStars.mka
+#EXTINF:-1,Yimago_8_:_Radio_Yé-Yé!_(French_Oldies)
+https://strw1.openstream.co/879?aw_0_1st.collectionid%3D3673%26stationId%3D3673%26publisherId%3D903%26k%3D1682445287
+#EXTINF:-1,Allzic_Radio_Enfoirés
+200 https://allzic12.ice.infomaniak.ch/allzic12.mp3
+#EXTINF:-1,Mouv’_-_RnB_&amp;_Soul
+200 https://icecast.radiofrance.fr/mouvrnb-midfi.mp3?ID=76zqey582k
+#EXTINF:-1,Sun_Nouvo
+400 https://diffusion.lafrap.fr/sun-nouvo.mp3
+#EXTINF:-1,Radio_Brassens
+200 https://carina.streamerr.co/stream/8118
+#EXTINF:-1,Allzic_Radio_Live_FR
+200 https://allzic44.ice.infomaniak.ch/allzic44.mp3
+#EXTINF:-1,Kréol_FM
+https://kreolfm.ice.infomaniak.ch/kreolfm-96.aac
+#EXTINF:-1,M_Radio_Culte_Années_60_et_70
+200 https://mfmwr-022.ice.infomaniak.ch/mfmwr-022.mp3
+#EXTINF:-1,Impact_FM
+200 https://impactfm.ice.infomaniak.ch/impactfm-64.aac
+#EXTINF:-1,Mouv&#039;_-_Classics
+200 https://icecast.radiofrance.fr/mouvclassics-midfi.mp3
+#EXTINF:-1,M_Radio_-_French_Touch
+200 https://mfmwr-003.ice.infomaniak.ch/mfmwr-003.mp3
+#EXTINF:-1,Mouv&#039;_-_100%_Mix
+200 https://icecast.radiofrance.fr/mouv100p100mix-midfi.mp3
+#EXTINF:-1,NRJ_Made_in_France
+200 https://scdn.nrjaudio.fm/fr/31217/mp3_128.mp3?origine=radiobox&aw_0_1st.station=Made-In-France&cdn_path=adswizz_lbs11&adws_out_2&access_token=70fce42a4d9946b1b316f9421d546a5c
+#EXTINF:-1,Allzic_Radio_Comédies_Musicales
+200 https://allzic46.ice.infomaniak.ch/allzic46.aac
+#EXTINF:-1,RadioPlus_Espagne
+200 http://94.23.27.6:8242/;stream.nsv
+#EXTINF:-1,Mouv’_-_Rap_FR
+200 https://stream.radiofrance.fr/mouvrapfr/mouvrapfr.m3u8
+#EXTINF:-1,RTS_Option_Musique
+200 https://lsaplus.swisstxt.ch/audio/option-musique_96.stream/playlist.m3u8
+#EXTINF:-1,Maxi_France
+200 https://sr3.publicssl.net/srv/8358/stream
+#EXTINF:-1,Nostalgie_100_Plus_Grandes_Chansons
+200 https://scdn.nrjaudio.fm/fr/30627/mp3_128.mp3?origine=radiobox&aw_0_1st.station=Nostalgie-Les-Plus-Grands-Tubes&cdn_path=adswizz_lbs9&adws_out_1&access_token=e7cbb1fd51f647f8ab0e16a480be42b3
+#EXTINF:-1,Chante_France_Emotion
+200 https://chantefranceemotion.ice.infomaniak.ch/chantefranceemotion-128.mp3
+#EXTINF:-1,FIP_-_Reggae
+200 https://icecast.radiofrance.fr/fipreggae-midfi.mp3?ID=59e6n63bhx
+#EXTINF:-1,Radio_Nostalgia_Amsterdam
+https://fred.torontocast.com:1395/stream
+#EXTINF:-1,Generations_-_Rap_FR_Gold
+200 https://gene-wr06.ice.infomaniak.ch/gene-wr06.aac
+#EXTINF:-1,M_Radio_Chansons_d&#039;amour
+200 https://mfmwr-026.ice.infomaniak.ch/mfmwr-026.mp3
+#EXTINF:-1,M_Radio_Années_90
+200 https://mfm-thema.ice.infomaniak.ch/mfm-thema.mp3
+#EXTINF:-1,Radio_Nostalgie_Guinee
+302 https://stream-058.zeno.fm/85whutype7duv?zs=9A4UVhuwTTGaOUol1uUQzA
+#EXTINF:-1,M_Radio_-_100%_Live
+200 https://mfmwr-008.ice.infomaniak.ch/mfmwr-008.mp3
+#EXTINF:-1,CHYZ-FM_94.3
+200 http://ecoutez.chyz.ca:8000/mp3/;
+#EXTINF:-1,Jazz_Radio_-_Jazzy_French
+200 https://jazz-wr18.ice.infomaniak.ch/jazz-wr18-128.mp3
+#EXTINF:-1,M_Radio_Sur_la_route
+200 https://voix-du-sud.ice.infomaniak.ch/voix-du-sud.mp3
+#EXTINF:-1,FIP_-_Rock
+200 https://icecast.radiofrance.fr/fiprock-midfi.mp3
+#EXTINF:-1,100FM_Radius_-_France
+https://gb25.streamgates.nethttp:/adios-audio/100France/playlist.m3u8
+#EXTINF:-1,Radio_Océane
+https:/http:/adio.oceane.nc/oceane
+#EXTINF:-1,M_Radio_Karaoké
+200 https://mfmwr-028.ice.infomaniak.ch/mfmwr-028.mp3
+#EXTINF:-1,M_Radio_Top_50
+200 https://mfmwr-007.ice.infomaniak.ch/mfmwr-007.mp3
+#EXTINF:-1,M_Radio_Fitness
+200 https://mfmwr-004.ice.infomaniak.ch/mfmwr-004.mp3
+#EXTINF:-1,M_Radio_Pop
+200 https://mfmwr-025.ice.infomaniak.ch/mfmwr-025.mp3
+#EXTINF:-1,Vibe_Radio_102.3
+http://31.207.37.120:8000/viberadio-sn.mp3
+#EXTINF:-1,M_Radio_Musiques_Urbaines
+200 https://mwr-urbain.ice.infomaniak.ch/mradio-musiques-urbaines.aac?i=98598
+#EXTINF:-1,Skyrock_100%_Francais
+200 https://icecast.skyrock.net/s/francais_aac_64k
+#EXTINF:-1,M_Radio_Le_Ménage_en_musique
+200 https://mradio-le-menage-en-musique.ice.infomaniak.ch/mradio-le-menage-en-musique.aac
+#EXTINF:-1,M_Radio_Détente
+200 https://mfmwr-009.ice.infomaniak.ch/mfmwr-009.mp3
+#EXTINF:-1,M_Radio_100%_Mix
+200 https://mwr-mix.ice.infomaniak.ch/mwr-mix.aac
+#EXTINF:-1,M_Radio_Chouchou
+400 https://mwr-chouchou.ice.infomaniak.ch/mwr-chouchou.aac?i=37282
+#EXTINF:-1,M_Radio_100_titres_cultes
+200 https://mradio-100-titres-cultes.ice.infomaniak.ch/mradio-100-titres-cultes.aac
+#EXTINF:-1,RFM_-_Pop_Rock
+https://stream.rfm.frhttp:/fm-wr10.aac
+#EXTINF:-1,RCA_La_Radio
+https:/http:/canantes.ice.infomaniak.chhttp:/canantes-192.mp3
+#EXTINF:-1,M_Radio_Au_travail
+200 https://mradio-au-travail.ice.infomaniak.ch/mradio-au-travail.aac
+#EXTINF:-1,M_Radio_Acoustique
+200 https://mradio-acoustique.ice.infomaniak.ch/mradio-acoustique.aac
+#EXTINF:-1,Love_Radio_-_French_Love_Songs
+302 https://drive.uber.radio/uber/lrfrenchlovesongs/icecast.audio
+#EXTINF:-1,Générations_-_JUL
+200 https://generations-jul.ice.infomaniak.ch/generations-jul.aac
+#EXTINF:-1,O_101.5
+https://stream.statsradio.com:8016/stream
+#EXTINF:-1,Radio_SCOOP_-_100%_Français
+https://scoopfrance.ice.infomaniak.chhttp:/adioscoop-france-64.aac
+#EXTINF:-1,Sunradio_-_Best_international_Music
+200 http://87.237.169.24:8000/live
+#EXTINF:-1,Alpes_1_-_Grenoble
+200 https://alpes1grenoble.ice.infomaniak.ch/alpes1grenoble-high.mp3
+#EXTINF:-1,Radio_Belle_Vallée
+200 https://shoutcast.datateam.center/index.html
+#EXTINF:-1,Toutes_les_couleurs_du_trad
+https://my2.radiolize.comhttp:/adio/8100http:/adio.mp3
+#EXTINF:-1,RCB_-_Radio_Côte_Bleue
+https:/http:/cbradio.ice.infomaniak.chhttp:/cbradio.aac
+#EXTINF:-1,NRJ_French_Hits
+200 https://scdn.nrjaudio.fm/fr/30037/mp3_128.mp3?origine=radiobox&aw_0_1st.station=NRJ-French-Hits&cdn_path=adswizz_lbs11&adws_out_1&access_token=be4c3735506243209d67308c371fe918
+#EXTINF:-1,FIP_-_Pop
+200 https://stream.radiofrance.fr/fippop/fippop.m3u8
+#EXTINF:-1,Radio_RMF_-__Francais
+https:/http:/s103-krk.rmfstream.pl/FRANCAIS
+#EXTINF:-1,FRANCE_EUROVISION
+https://listen.radioking.comhttp:/adio/182434/stream/224341
+#EXTINF:-1,Pyrénées_FM
+400 https://antenne.pyreneesfm.com/direct.mp3
+#EXTINF:-1,Generations_-_La_Fouine
+200 https://generations-la-fouine.ice.infomaniak.ch/generations-la-fouine.mp3
+#EXTINF:-1,Tinder_Radio_-_Musique_Francaise
+302 https://streaming.exclusive.radio/er/musiquefrancaise/icecast.audio
+#EXTINF:-1,WUMB_Radio_-_French_Accent
+200 http://wumb.streamguys1.com/wumb919fr
+#EXTINF:-1,La_French_Radio_Honk-Kong_et_Macao
+https://listen.radioking.comhttp:/adio/333865/stream/382282
+#EXTINF:-1,UDPSRADIO
+302 https://stream-052.zeno.fm/5fm8q327e8zuv?zs=U1TApm60R9q7OUR2AsMMMw
+#EXTINF:-1,Radio_Mega
+302 https://stream-046.zeno.fm/y430keku30duv?zs=gQQ_i_3qTi62fdRXKTTxdg
+#EXTINF:-1,Radio_Balagne
+400 http://7878.go2stream.fr:8000/stream
+#EXTINF:-1,Radio_Dreyeckland_Chansons
+200 https://n01a-eu.rcs.revma.com/cvcrbdtzmwzuv?rj-ttl=5&rj-tok=AAABiq3Om7sAO_kw1_k91Iee9Q
+#EXTINF:-1,NRJ_Classic_Rap_FR
+200 https://scdn.nrjaudio.fm/fr/55189/mp3_128.mp3?origine=radiobox&aw_0_1st.station=NRJ-Classic-Rap-FR&cdn_path=adswizz_lbs10&adws_out_2&access_token=847e58d66a00402a8695bc08070b347f
+#EXTINF:-1,Radio_Cagnac
+https://az1.sslstreaming.com:8050http:/adio.mp3
+#EXTINF:-1,Radio_Antipode
+https://streaming.antipode.be/antipode.mp3
+#EXTINF:-1,Radio_Cité_-_FM_92.2
+https:/http:/adiocite.ice.infomaniak.chhttp:/adiocite128.mp3
+#EXTINF:-1,Traxx_FM_France
+https://traxx025.ice.infomaniak.ch/traxx025-1.mp3
+#EXTINF:-1,Radio_Vitamine
+400 http://213.165.68.183:9018/stream
+#EXTINF:-1,Radio_Xassida_Online_Touba
+https://betelgeuse.dribbcast.com/proxy/xassidaonline?mp=/stream
+#EXTINF:-1,100%_Radio_-_Souvenirs
+200 https://100radio-souvenirs.ice.infomaniak.ch/100radio-souvenirs-128.mp3
+#EXTINF:-1,Musicolor_Groovy_Radio
+https://stream.musicolor-radio.com/stream
+#EXTINF:-1,Voltage_en_Francais
+200 https://voltageenfrancais.ice.infomaniak.ch/voltageenfrancais-128.mp3
+#EXTINF:-1,Radio_Oloron
+http://91.121.77.43:9089/stream
+#EXTINF:-1,Rouge_FM_-__France
+https:/http:/ouge-madeinfrance.ice.infomaniak.chhttp:/ouge-madeinfrance-128
+#EXTINF:-1,RFZ_Radio
+200 https://azuracast.conceptradio.fr:8070/stream.mp3
+#EXTINF:-1,Hardstyle_Radio_Italy
+405 https://stream-150.zeno.fm/q86g2sqwn18uv?zs=OZ9CE6z3Q8qh05AvFyTl9Q
+#EXTINF:-1,Nostalgie_French_Party_80
+404 https://scdn.nrjaudio.fm/fr/57237/mp3_128.mp3?cdn_path=adswizz_lbs9&adws_out_3&access_token=5d2f878ebd834c7d944595b1ec4bd86d
+#EXTINF:-1,FIP_-_Electro
+200 https://stream.radiofrance.fr/fipelectro/fipelectro.m3u8
+#EXTINF:-1,Musik-Kurier
+200 https://musik-kurier.stream.laut.fm/musik-kurier
+#EXTINF:-1,OUI_FM_Rock_Français
+200 https://ouifmrockfrancais.ice.infomaniak.ch/ouifmrockfrancais.mp3
+#EXTINF:-1,Radio_Kajou
+200 http://janus.shoutca.st:8696//stream
+#EXTINF:-1,Radio_Fuze
+400 http://stream.radios-arra.fr:8000/fuze
+#EXTINF:-1,Radio_Haiti_Tropical
+200 https://zafemrtv.net/9934/;
+#EXTINF:-1,Urban_Hit_-_Rap_FR
+200 https://urbanhitrapfr.ice.infomaniak.ch/urbanhitrapfr-128.mp3
+#EXTINF:-1,Estação_Zero
+https://servidor20-1.brlogic.com:9268/live
+#EXTINF:-1,NRJ_Nouveautes_Francaises
+200 https://scdn.nrjaudio.fm/fr/55656/mp3_128.mp3?origine=radiobox&aw_0_1st.station=NRJ-Nouveautes-Francaises&cdn_path=adswizz_lbs7&adws_out_2&access_token=716c98b9bf464af18b0e8f19ee30edf1
+#EXTINF:-1,Crooner_Radio_Zen
+200 https://croonerradio_zen.ice.infomaniak.ch/croonerradio-zen-midfi.mp3
+#EXTINF:-1,Only_Radio
+400 https://flux.onlyradio.fr/live
+#EXTINF:-1,Oxygène_Radio
+400 https://icecast.oxygeneradio.fr:8443/OxygeneRadio.aac
+#EXTINF:-1,RMJ_Tropical
+200 https://ecmanager5.pro-fhi.net:1540/;
+#EXTINF:-1,Alternantes_FM
+400 https://diffusion.lafrap.fr/alternantes.mp3
+#EXTINF:-1,LN_Radio_2000
+404 https://n01a-eu.rcs.revma.com/hxqn51trgzzuv?rj-ttl=5&rj-tok=AAABiq3ZiqgAvSInARLc8J429Q
+#EXTINF:-1,Menense_Radio
+200 https://molnartje2.radioca.st/;
+#EXTINF:-1,Medi_1_Radio_Francaise
+400 https://live.medi1.com/Francaise
+#EXTINF:-1,Crooner_Radio_Frenchy
+200 https://croonerradio_frenchy.ice.infomaniak.ch/croonerradio-frenchy-midfi.mp3
+#EXTINF:-1,Haere_Lao_Radio_Fulbe_International
+302 https://stream-057.zeno.fm/t5svv1w92mruv?zs=0aJIfjabQAiyJP2PPpXE3w
+#EXTINF:-1,Vibration_Francaise
+200 http://vibration.stream2net.eu:8510/;stream/1
+#EXTINF:-1,Paris_Chanson
+https://listen.radioking.comhttp:/adio/400165/stream/452290
+#EXTINF:-1,Radio_Aléo
+200 http://vt-net.org:8056/;
+#EXTINF:-1,Lérins_Radio_Côte_d&#039;Azur
+https:/http:/adio13.pro-fhi.net/flux-jxeixtdb/stream
+#EXTINF:-1,LFM_Scène_Française
+200 https://webradio0005.ice.infomaniak.ch/webradio0005-128.mp3
+#EXTINF:-1,La_radio_des_Français_dans_le_monde
+https://listen.radioking.comhttp:/adio/2079/stream/6533
+#EXTINF:-1,Chante_France_Nouveautes
+200 https://chantefrancenouveautes.ice.infomaniak.ch/chantefrancenouveautes-96.aac
+#EXTINF:-1,Fréquence_7
+400 https://live.aurafm.org:7443/Frequence7
+#EXTINF:-1,RCB_Musette
+https://stream.rcbradio.com/RCBMUSETTE
+#EXTINF:-1,One_FM_-_Scene_Francaise
+200 https://webradio0002.ice.infomaniak.ch/webradio0005-128.mp3
+#EXTINF:-1,NRJ_Fresh_Rap_FR
+200 https://scdn.nrjaudio.fm/fr/31555/mp3_128.mp3?origine=radiobox&aw_0_1st.station=NRJ-Nouveautes-Rap-Fr&cdn_path=adswizz_lbs12&adws_out_2&access_token=0a62467785774d54af8f9c36536112e8
+#EXTINF:-1,Forum_En_Francais
+200 https://forumenfrancais.ice.infomaniak.ch/forumenfrancais-128.mp3
+#EXTINF:-1,Radio_Zéma
+400 http://stream.radios-arra.fr:8000/zema
+#EXTINF:-1,Radio_Doxa_Christian_Church
+http://doxa2013.primcast.com:8948/;
+#EXTINF:-1,Switch_fm_French
+405 https://stream-149.zeno.fm/kwf6ehvdbkhvv?zs=R7ZcvNrjRJ2lVc8lgF3KHA
+#EXTINF:-1,Radio_Chablais_-_100%francais
+400 http://stream.radiochablais.ch/chablais-100francais.mp3
+#EXTINF:-1,Radio_Perle_Des_Antilles
+http://185.105.4.53:4043/;
+#EXTINF:-1,Ondomaniac_Radio
+https://listen.radioking.comhttp:/adio/223156/stream/266587
+#EXTINF:-1,Radio_Etoile_FM
+302 https://stream-052.zeno.fm/sy3fd4vgmkhvv?zs=qUAeNyLLTsOtOQxR38xkiw
+#EXTINF:-1,Radio_Héritage_POP_Française
+http://hpop.stream.ideocast.fr:8000/hfr.aac
+#EXTINF:-1,RadioJ
+https://listen.radioking.comhttp:/adio/261427/stream/306436
+#EXTINF:-1,Radio_Poker_Dream&#039;s
+400 http://91.121.59.45:8343/stream
+#EXTINF:-1,Nevers_FM
+200 https://hosting.studioradiomedia.fr:2125/stream
+#EXTINF:-1,Epic_Lounge_-_French_Cafê_Lounge
+200 https://stream.epic-lounge.com/french-cafe-lounge
+#EXTINF:-1,Styl_FM
+200 https://fps3.listen2myradio.com:2199/listen.php?ip=109.169.23.124&port=9784&type=s1
+#EXTINF:-1,Rire_&amp;_Chansons_Francophonie
+200 https://scdn.nrjaudio.fm/fr/57107/mp3_128.mp3?origine=radiobox&aw_0_1st.station=Rire-Chansons-FRANCOPHONIE&cdn_path=adswizz_lbs9&adws_out_3&access_token=d0cf0c17439e4135b22498107d61e196
+#EXTINF:-1,CVS-_Caraibes_Vybz_Station
+https://listen.radioking.comhttp:/adio/519/stream/1955
+#EXTINF:-1,Jupiter_FM
+https://listen.radioking.comhttp:/adio/426340/stream/479872
+#EXTINF:-1,Super_Radio
+https://superradio.streamakaci.com/superradio.mp3
+#EXTINF:-1,La_Radio_Des_Maranges
+https://listen.radioking.comhttp:/adio/384175/stream/435445
+#EXTINF:-1,Equinoxe,_la_radio_découverte
+400 http://live.equinoxenamur.be:8000/Equinoxe.mp3
+#EXTINF:-1,Radio_Pikez
+400 http://ecouter.pikez.space:8000/pikez_hd
+#EXTINF:-1,Radio_INFO_RC
+400 https://live.aurafm.org/InfoRC
+#EXTINF:-1,WPBR_1340_AM
+https://usa11.fastcast4u.com/proxy/wpbr1340?mp=/1
+#EXTINF:-1,NRJ_La_Playlist_100%_Hits_Francais
+200 https://scdn.nrjaudio.fm/fr/56699/mp3_128.mp3?origine=radiobox&aw_0_1st.station=NRJ-La-Playlist-100-hits-fran%C3%A7ais&cdn_path=adswizz_lbs11&adws_out_3&access_token=239e08e6a4834852a405898b6858f924
+#EXTINF:-1,Radio_FG_Chic_French
+200 https://n16a-eu.rcs.revma.com/3x5uxtcxgkhvv?rj-ttl=5&rj-tok=AAABiq3jMW0ACtHk3JIqzX7dMQ
+#EXTINF:-1,Radio_Frysson
+https://ecmanager.pro-fhi.nethttp:/adiofrysson2
+#EXTINF:-1,Radio_Impact_Inter
+200 http://184.154.43.106:8152/stream
+#EXTINF:-1,Radio_Vinci_Autoroutes_Française
+https://listen.radioking.comhttp:/adio/394513/stream/448327
+#EXTINF:-1,Tropiques_Gold
+https://listen.radioking.comhttp:/adio/8921/stream/19097
+#EXTINF:-1,Secousse
+400 https://stream.secousse.org/secousse
+#EXTINF:-1,Alpes_1_-_Alpes_du_sud
+200 https://alpes1gap.ice.infomaniak.ch/alpes1gap-high.aac
+#EXTINF:-1,Rockin&#039;Chair
+200 https://oliveraie68.radioca.st/stream
+#EXTINF:-1,Osolo_Web_Radio
+302 https://stream-068.zeno.fm/dupwliw2mravv?zs=HAPn20RYS6G9YWhviJyvDQ
+#EXTINF:-1,Apple_Radio
+200 https://appleradio.radiolebowski.com/play
+#EXTINF:-1,Echo_FM
+https:/http:/adio5.pro-fhi.net/flux-ghergigw/stream
+#EXTINF:-1,EBS_Radio_Nouvelle_Vague
+https://azura.ebsmedia.rohttp:/adio/8130/nouvelle128.mp3
+#EXTINF:-1,Radio_Zig_Zag_-_Franche_Comté
+https:/http:/adio13.pro-fhi.net/flux-ymuendud/stream
+#EXTINF:-1,Onde_Latine
+https://puma.streemlion.com:3675/stream
+#EXTINF:-1,Hi_On_Line_Radio_France
+400 https://mediaserv21.live-streams.nl:18000/live
+#EXTINF:-1,RIKIDI_NEWS_FM
+200 https://s36.myradiostream.com/:17140/listen.mp3?nocache=1682445588
+#EXTINF:-1,Francophonie_Express
+https://listen.radioking.comhttp:/adio/11098/stream/63439
+#EXTINF:-1,Radio_PROS_Non-Stop
+400 http://live2.radiostudio.be/prosoilsjt
+#EXTINF:-1,Lyon_Demain
+https://listen.radioking.comhttp:/adio/93388/stream/131857
+#EXTINF:-1,Europe_2_Nouvelle_Scène
+200 https://europe2.lmn.fm/vr-wr8.mp3
+#EXTINF:-1,Radio_Soulac
+https://listen.radioking.comhttp:/adio/465884/stream/521363
+#EXTINF:-1,RCB_Frenchy
+https://stream.rcbradio.com/RCBFR
+#EXTINF:-1,Ado_FR
+200 https://adofr.ice.infomaniak.ch/adofr-64.mp3
+#EXTINF:-1,Radio_Shiloh_Internationale
+http://91.121.153.12:9000/stream
+#EXTINF:-1,Media_Tropique_FM
+https://centova12.instainternet.com/proxy/mediatropique?mp=/stream
+#EXTINF:-1,France_Bleu_Mayenne
+200 http://icecast.radiofrance.fr/fbmayenne-midfi.mp3
+#EXTINF:-1,France_Bleu_Nord
+200 http://icecast.radiofrance.fr/fbnord-midfi.mp3
+#EXTINF:-1,FIP_Groove
+200 http://icecast.radiofrance.fr/fipgroove-hifi.aac
+#EXTINF:-1,France_Bleu_Normandie_(Calvados_-_Orne)
+200 http://icecast.radiofrance.fr/fbbassenormandie-midfi.mp3
+#EXTINF:-1,Radio_Lycée_L&#039;Olivier
+405 https://stream-152.zeno.fm/5rwj8kio0q9vv?zs=1NwMAk-xSiK8uEJJ0cmQUw
+#EXTINF:-1,France_Bleu_Orléans
+200 http://icecast.radiofrance.fr/fborleans-midfi.mp3
+#EXTINF:-1,France_Musique_La_Jazz
+200 http://icecast.radiofrance.fr/francemusiquelajazz-hifi.aac
+#EXTINF:-1,Tout_nouveau,_tout_FIP
+200 http://icecast.radiofrance.fr/fipnouveautes-hifi.aac
+#EXTINF:-1,France_Bleu_Pays_Basque
+200 http://icecast.radiofrance.fr/fbpaysbasque-midfi.mp3
+#EXTINF:-1,France_Bleu_Pays_de_Savoie
+200 http://icecast.radiofrance.fr/fbpaysdesavoie-midfi.mp3
+#EXTINF:-1,Mouv&#039;_Xtra
+200 http://icecast.radiofrance.fr/mouv100p100mix-midfi.mp3
+#EXTINF:-1,France_Bleu_Périgord
+200 http://icecast.radiofrance.fr/fbperigord-midfi.mp3
+#EXTINF:-1,Mouv&#039;_(LQ)
+200 http://icecast.radiofrance.fr/mouv-lofi.mp3
+#EXTINF:-1,France_Bleu_Picardie
+200 http://icecast.radiofrance.fr/fbpicardie-midfi.mp3
+#EXTINF:-1,France_Bleu_Poitou
+200 http://icecast.radiofrance.fr/fbpoitou-midfi.mp3
+#EXTINF:-1,CHOQ_HipHop
+http:/http:/adio.servlinks.com:8350/choqhiphop
+#EXTINF:-1,ICI_Musique_Calgary_-_89.7_FM,_Edmonton_-_101.1_FM_(CBCX-FM)
+https:/http:/cavliveaudio.akamaized.net/hls/live/2006999/M-7AEDM0_EDM/master.m3u8
+#EXTINF:-1,France_Bleu_RCFM
+200 http://icecast.radiofrance.fr/fbfrequenzamora-midfi.mp3
+#EXTINF:-1,ICI_Radio-Canada_Première_Edmonton_-_90.1_FM_(CHFA-FM)
+https:/http:/cavliveaudio.akamaized.net/hls/live/2006949/P-2AEDM0_EDM/master.m3u8
+#EXTINF:-1,France_Bleu_Roussillon
+200 http://icecast.radiofrance.fr/fbroussillon-midfi.mp3
+#EXTINF:-1,France_Bleu_Saint-Étienne_Loire
+200 http://icecast.radiofrance.fr/fbstetienne-midfi.mp3
+#EXTINF:-1,France_Bleu_Sud_Lorraine
+200 http://icecast.radiofrance.fr/fbsudlorraine-midfi.mp3
+#EXTINF:-1,France_Bleu_Touraine
+200 http://icecast.radiofrance.fr/fbtouraine-midfi.mp3
+#EXTINF:-1,France_Bleu_Vaucluse
+200 http://icecast.radiofrance.fr/fbvaucluse-midfi.mp3
+#EXTINF:-1,Ici_Musique,_Québec
+http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7QQUE0_QUE
+#EXTINF:-1,France_Musique_Classique_Plus
+200 http://icecast.radiofrance.fr/francemusiqueclassiqueplus-hifi.aac
+#EXTINF:-1,France_Musique_Concerts_Radio_France
+200 http://icecast.radiofrance.fr/francemusiqueconcertsradiofrance-hifi.aac
+#EXTINF:-1,France_Music_Jazz
+200 http://icecast.radiofrance.fr/francemusiquelajazz-midfi.mp3?ID=f9fbk29m84
+#EXTINF:-1,KBS_World_French_Radio
+200 http://101.79.244.199:1935/cocotv/_definst_/CH00004/playlist.m3u8
+#EXTINF:-1,Fip_(avec_metadonnées)
+http:/http:/adio-metadata.fr:8000/fip
+#EXTINF:-1,Tropiques_Tradition
+https://listen.radioking.comhttp:/adio/8922/stream/19100
+#EXTINF:-1,RMF_Francais_+_FAKTY
+200 http://195.150.20.7/FRANCAISF
+#EXTINF:-1,Top_Tonic_Accordéon
+200 http://streamingp.shoutcast.com/JamendoLounge
+#EXTINF:-1,Mouv&#039;
+200 http://icecast.radiofrance.fr/mouv-hifi.aac
+#EXTINF:-1,radio.proxlab.fr
+https:/http:/adio.proxlab.frhttp:/adio/8000http:/adio.mp3
+#EXTINF:-1,WUMB_French_Accent_Stream_-_Boston,_MA
+200 http://wumb.streamguys1.com/wumb919fr-aac
+#EXTINF:-1,FIP
+200 http://icecast.radiofrance.fr/fip-hifi.aac
+#EXTINF:-1,CHOQ_IndiePop
+http:/http:/adio.servlinks.com:8350/choqindiepop
+#EXTINF:-1,France_Info
+200 http://icecast.radiofrance.fr/franceinfo-hifi.aac
+#EXTINF:-1,FIP_Musiques_du_monde
+200 http://icecast.radiofrance.fr/fipworld-hifi.aac
+#EXTINF:-1,france_info_(lofi)
+200 http://icecast.radiofrance.fr/franceinfo-lofi.mp3
+#EXTINF:-1,France_Musique_La_Baroque
+200 http://icecast.radiofrance.fr/francemusiquebaroque-hifi.aac
+#EXTINF:-1,HRD67
+https://listen.radioking.comhttp:/adio/375631/stream/427753
+#EXTINF:-1,Vibration_FM_Francais
+200 https://vibrationenfrancais.ice.infomaniak.ch/vibrationenfrancais-128.mp3
+#EXTINF:-1,CFOI-FM
+200 https://cfoi.sermon.net/20591220/controller/link/action/playhls/type/live/id/100500/.m3u8
+#EXTINF:-1,Toulouse_No_French
+404 https://mmradioswebapp.ice.infomaniak.ch/toulousefm-webapp-nofrench.aac
+#EXTINF:-1,France_Bleu_Pays_d&#039;Auvergne
+200 http://icecast.radiofrance.fr/fbpaysdauvergne-midfi.mp3
+#EXTINF:-1,France_Bleu_Paris
+200 http://icecast.radiofrance.fr/fb1071-midfi.mp3
+#EXTINF:-1,Jesus_Coming_FM_-_French
+200 http://live.jesuscomingfm.com:8308/;
+#EXTINF:-1,gofm.ro
+200 http://live.gofm.ro:9128/;
+#EXTINF:-1,Océane_FM_Lannion
+404 https://oceanelannion.ice.infomaniak.ch/oceanelannion-128.mp3
+#EXTINF:-1,RMF_Francais
+200 http://195.150.20.7/FRANCAIS
+#EXTINF:-1,Mouv&#039;_Rap_Français
+200 https://icecast.radiofrance.fr/mouvrapfr-hifi.aac
+#EXTINF:-1,Generations_Dance_Hall
+200 http://generations-dancehall.ice.infomaniak.ch/generations-dancehall.mp3
+#EXTINF:-1,DUNK_Radio
+https://listen.radioking.comhttp:/adio/1743/stream/125
+#EXTINF:-1,Clearjet
+200 http://fra-pioneer01.dedicateware.com:1090/stream
+#EXTINF:-1,France_Musique_OCORA
+200 http://icecast.radiofrance.fr/francemusiqueocoramonde-hifi.aac
+#EXTINF:-1,French_Radio_Toronto
+http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2OTOR0_TOR
+#EXTINF:-1,EnglishWaves
+400 https://streaming.englishwaves.fr/englishwavesclassique.mp3
+#EXTINF:-1,Nostalgie_New_Wave_(France)
+404 http://185.52.127.131/fr/30703/mp3_128.mp3?origine=fluxradios&adws_out_a1&access_token=2e89dd6fa4324ffb8e894a77ee594202
+#EXTINF:-1,Marianne_Mélodie
+200 https://stream4.vestaradio.com/MarianneMelodie
+#EXTINF:-1,MRADIO_FRANCE
+200 http://mfm.ice.infomaniak.ch/mfm-64.aac
+#EXTINF:-1,Power_French_Cafe
+http://mpegpowerturk.listenpowerapp.com/powerfrenchcafe/mpeg/icecast.audio
+#EXTINF:-1,Nostalgie+
+404 http://streamingp.shoutcast.com/nostaplus-mp3
+#EXTINF:-1,CHOQ_Franco
+http:/http:/adio.servlinks.com:8350/choqfranco
+#EXTINF:-1,FIP_Hip_Hop
+200 http://icecast.radiofrance.fr/fiphiphop-hifi.aac
+#EXTINF:-1,Radio_Nuance
+200 https://stream.nuance.radio/live.m3u8
+#EXTINF:-1,Chérie_FM_Frenchy
+404 https://scdn.nrjaudio.fm/fr/30213/aac_64.mp3?cdn_path=adswizz_lbs7&adws_out_a1&access_token=a1ca76d59ec346dba9cd23c54c6d9765
+#EXTINF:-1,Radio_Bonheur_(BE)
+404 https://france1.coollabel-productions.com/proxyhttp:/adiobonheur317/stream
+#EXTINF:-1,Générations_Lyon
+http:/http:/adiosun.ice.infomaniak.chhttp:/adiosun-high.mp3
+#EXTINF:-1,Antithèse
+https://listen.radioking.comhttp:/adio/11549/stream/22940
+#EXTINF:-1,101.ru_-_Французский_шансон
+200 http://ic6.101.ru:8000/stream/pro/aac/64/146
+#EXTINF:-1,France_Inter
+200 https://icecast.radiofrance.fr/franceinter-hifi.aac
+#EXTINF:-1,GRadio
+https:/http:/adio.florianvfx.com:1075/stream
+#EXTINF:-1,France_Musique_La_Contemporaine
+200 http://icecast.radiofrance.fr/francemusiquelacontemporaine-hifi.aac
+#EXTINF:-1,Couleurs_Lyon
+http://91.121.179.64:8000/Couleurslyon?1642512709058
+#EXTINF:-1,Couleurs_Nord-Isère
+http://91.121.179.64:8000/Couleurslyon?1642512371261
+#EXTINF:-1,WRCF_Radio_France
+400 http://91.121.59.45:8361/stream
+#EXTINF:-1,Radio_Oxygène_Isère
+https://streamingp.shoutcast.comhttp:/adio-oxygene-grenoble-aac
+#EXTINF:-1,Radio_Swiss_Classic_French
+404 http://stream.srg-ssr.ch/mhttp:/sc_fr/aacp_96
+#EXTINF:-1,MiNT
+302 http://audiostream.rtl.be/mint192
+#EXTINF:-1,France_Musique_Classique_Easy
+200 http://icecast.radiofrance.fr/francemusiqueeasyclassique-hifi.aac
+#EXTINF:-1,AllZic_faire_la_fête
+200 http://allzic26.ice.infomaniak.ch/allzic26.mp3
+#EXTINF:-1,Jesus_Coming_FM_-_African_French
+200 http://live.jesuscomingfm.com:8498/;
+#EXTINF:-1,France_Bleu_Provence
+200 https://icecast.radiofrance.fr/fbprovence-midfi.mp3?ID=radiofrance
+#EXTINF:-1,Mouv&#039;_Kids_&#039;n_Family
+200 https://icecast.radiofrance.fr/mouvkidsnfamily-hifi.aac
+#EXTINF:-1,NRJ_France
+200 http://185.52.127.132/fr/30001/mp3_128.mp3?origine=fluxradios&access_token=e366d27ba23f458a9808572994ec5030
+#EXTINF:-1,France_Musique_La_B.O.
+200 http://icecast.radiofrance.fr/francemusiquelabo-hifi.aac
+#EXTINF:-1,ICI_Radio-Canada_Première_Ottawa/Gatineau_(90.7)
+http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2OOTT0_OTT
+#EXTINF:-1,Allzic_Rap_Fr
+200 http://allzic02.ice.infomaniak.ch/allzic02.mp3
+#EXTINF:-1,France_Bleu_Armorique
+200 http://icecast.radiofrance.fr/fbarmorique-midfi.mp3
+#EXTINF:-1,France_Bleu_Auxerre
+200 http://icecast.radiofrance.fr/fbauxerre-midfi.mp3
+#EXTINF:-1,France_Bleu_Azur
+200 http://icecast.radiofrance.fr/fbazur-midfi.mp3
+#EXTINF:-1,FranceClassique_Easy
+200 http://icecast.radiofrance.fr/francemusiqueeasyclassique-midfi.mp3?ID=76zqey582k
+#EXTINF:-1,France_Bleu_Béarn
+200 http://icecast.radiofrance.fr/fbbearn-midfi.mp3
+#EXTINF:-1,France_Bleu_Belfort-Montbéliard
+200 http://icecast.radiofrance.fr/fbbelfort-midfi.mp3
+#EXTINF:-1,France_Bleu_Drôme-Ardèche
+200 http://icecast.radiofrance.fr/fbdromeardeche-midfi.mp3
+#EXTINF:-1,Radio_Couleur_Chartreuse
+http://vps.cbad.fr:8000http:/cc
+#EXTINF:-1,France_Bleu_Berry
+200 http://icecast.radiofrance.fr/fbberry-midfi.mp3
+#EXTINF:-1,France_Bleu_Besançon
+200 http://icecast.radiofrance.fr/fbbesancon-midfi.mp3
+#EXTINF:-1,France_Bleu_Bourgogne
+200 http://icecast.radiofrance.fr/fbbourgogne-midfi.mp3
+#EXTINF:-1,France_Bleu_Breizh_Izel
+200 http://icecast.radiofrance.fr/fbbreizizel-midfi.mp3
+#EXTINF:-1,France_Bleu_Champagne-Ardenne
+200 http://icecast.radiofrance.fr/fbchampagne-midfi.mp3
+#EXTINF:-1,France_Bleu_Cotentin
+200 http://icecast.radiofrance.fr/fbcotentin-midfi.mp3
+#EXTINF:-1,France_Bleu_Creuse
+200 http://icecast.radiofrance.fr/fbcreuse-midfi.mp3
+#EXTINF:-1,france_bleu
+200 http://icecast.radiofrance.fr/fbbassenormandie-lofi.mp3
+#EXTINF:-1,France_Musique_Opéra
+200 https://icecast.radiofrance.fr/francemusiqueopera-hifi.aac
+#EXTINF:-1,France_Bleu_Elsass
+200 http://icecast.radiofrance.fr/fbelsass-midfi.mp3
+#EXTINF:-1,Radio_Univers
+https://stream4.vestaradio.com/RadioUnivers
+#EXTINF:-1,Radiocratie
+503 https://flux.radiocratie.com/flux
+#EXTINF:-1,France_Bleu_Gard_Lozère
+200 http://icecast.radiofrance.fr/fbgardlozere-midfi.mp3
+#EXTINF:-1,France_Bleu_Gascogne
+200 http://icecast.radiofrance.fr/fbgascogne-midfi.mp3
+#EXTINF:-1,France_Bleu_Gironde
+200 http://icecast.radiofrance.fr/fbgironde-midfi.mp3
+#EXTINF:-1,France_Bleu_Hérault
+200 http://icecast.radiofrance.fr/fbherault-midfi.mp3
+#EXTINF:-1,Generations_Rap_FR
+200 http://generationfm-rap.ice.infomaniak.ch/generationfm-rap-high.mp3
+#EXTINF:-1,France_Bleu_Isère
+200 http://icecast.radiofrance.fr/fbisere-midfi.mp3
+#EXTINF:-1,Alpes_1_-_Années_90
+200 https://alpes1-wr01.ice.infomaniak.ch/alpes1-wr01.aac
+#EXTINF:-1,France_Bleu_La_Rochelle
+200 http://icecast.radiofrance.fr/fblarochelle-midfi.mp3
+#EXTINF:-1,ByteFM_|_HH-UKW
+200 http://bytefm--di--nacs-ice-01--02--cdn.cast.addradio.de/bytefm/hamburg/mp3/mid?_art=dj0yJmlwPTk1LjEwNS45LjEyNCZpZD1pY3NjeGwtbjJhZTNhdHBiJnQ9MTY4MjUzMTE0MiZzPTc4NjZmMjljIzVhZWJkMGIzYjI4OGFiZjdlZWMwMTVjMzE3NTU1OTE3
+#EXTINF:-1,France_Bleu_Limousin
+200 http://icecast.radiofrance.fr/fblimousin-midfi.mp3
+#EXTINF:-1,France_Bleu_Loire_Océan
+200 http://icecast.radiofrance.fr/fbloireocean-midfi.mp3
+#EXTINF:-1,France_Bleu_Lorraine_Nord
+200 http://icecast.radiofrance.fr/fblorrainenord-midfi.mp3
+#EXTINF:-1,France_Bleu_Maine
+200 http://icecast.radiofrance.fr/fbmaine-midfi.mp3
