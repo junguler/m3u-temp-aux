@@ -1,0 +1,239 @@
+#EXTM3U
+#EXTINF:-1,Rock_Radio
+200 http://stream2.radiocenter.si:9032/;
+#EXTINF:-1,Radio_Veseljak
+400 https://live.radio.si/Veseljak
+#EXTINF:-1,Radio_1
+400 http://live3.infonetmedia.si/Radio1
+#EXTINF:-1,Radio_Aktual
+400 https://live.radio.si/Aktual
+#EXTINF:-1,Muravidéki_Magyar_Rádió
+400 https://mp3.rtvslo.si/mmr
+#EXTINF:-1,Hitradio_Center_80&#039;s
+200 http://stream2.radiocenter.si:8064/;
+#EXTINF:-1,VAL_202
+400 https://mp3.rtvslo.si/val202
+#EXTINF:-1,Radio_Sloven&#039;c
+302 https://stream-048.zeno.fm/9r3n5h2sf5zuv?zs=SZshaY3ITQm-Ytuyd53kbg
+#EXTINF:-1,Radio_Nula_Classic
+400 https://strm.radionula.com/classics
+#EXTINF:-1,Radio_Sraka
+400 http://193.105.67.24:8006/
+#EXTINF:-1,Hitradio_Center
+200 http://stream2.radiocenter.si:8000/;stream/1
+#EXTINF:-1,Radio_Capris
+400 https://stream.exit.si/live
+#EXTINF:-1,Rock_Maribor
+400 http://live.rockmaribor.si/RockMB
+#EXTINF:-1,Radio_Si
+https://mp3.rtvslo.sihttp:/si
+#EXTINF:-1,Radio_Mister_Deejay
+200 http://stream.mister-deejay.com:9008/;
+#EXTINF:-1,Radio_Capris_EX-YU
+400 https://stream.exit.si/EXYU
+#EXTINF:-1,Radio_Antena_Ljubljana
+400 http://live1.radioantena.si/Antena
+#EXTINF:-1,Radio_City
+400 https://stream1.radiocity.si/CityMp3128.mp3
+#EXTINF:-1,Radio_Rogla
+200 http://193.105.67.24:8010/;stream.nsv
+#EXTINF:-1,Radio_Ekspres
+https://stream.nextmedia.si/proxy/ekspres1?mp=/stream
+#EXTINF:-1,Radio_Capris_Dalmacija
+400 https://stream.exit.si/DALMACIJA
+#EXTINF:-1,Radio_NET_FM
+http:/http:/eflector.radionet.si:8000/stream.ogg
+#EXTINF:-1,Radio_Capris_90s_Dance
+400 https://stream.exit.si/MEGAMIX
+#EXTINF:-1,Radio_Nula_3_Beatz
+400 https://strm.radionula.com/lounge
+#EXTINF:-1,Radio_Bela_Crkva
+http://belacrkva32.streaming.rs:8140/;
+#EXTINF:-1,Radio_Capris_80s
+400 https://stream.exit.si/80
+#EXTINF:-1,Radio_2
+400 https://live.radio.si/Radio2
+#EXTINF:-1,Radio_Capris_Hits
+400 https://stream.exit.si/HITS
+#EXTINF:-1,Radio_Kranj
+400 http://live.radio-kranj.si/Kranj?1471195942398.mp3
+#EXTINF:-1,Radio_Zeleni
+200 https://jurepeterka.radioca.st/;
+#EXTINF:-1,Radio_Nula_2_Organic
+400 https://strm.radionula.com/channel2
+#EXTINF:-1,Radio_Capris_Rock
+400 https://stream.exit.si/ROCK
+#EXTINF:-1,Radio_Študent
+400 https://kruljo.radiostudent.si:8001/hiq
+#EXTINF:-1,Rock_Radio_Best_Ballads
+200 http://stream.rockradio.si:9036/;stream/1
+#EXTINF:-1,Radio_Ptuj
+400 https://live.radio.si/Ptuj
+#EXTINF:-1,Radio_Capris_90&#039;s_Pop
+400 https://stream.exit.si/90
+#EXTINF:-1,Radio_Stajerski_Val
+400 http://stream.stajerskival.si:8004/;
+#EXTINF:-1,Radio_Slovenske_Gorice
+404 https://stream.iradio.pro/proxyhttp:/adioslovenskegoric?mp=/stream
+#EXTINF:-1,Radio_Celje
+400 http://stream.rgl.si/Celje
+#EXTINF:-1,Radio_Aktual_Dalmacija
+400 https://live.radio.si/AktualDalmacija
+#EXTINF:-1,Radio_Capris_Italija
+400 https://stream.exit.si/ITA
+#EXTINF:-1,Radio_Prvi
+https://mp3.rtvslo.sihttp:/a1
+#EXTINF:-1,Radio_Capris_Poletje
+400 https://stream.exit.si/POLETJE
+#EXTINF:-1,Radio_Maribor
+http://mp3.rtvslo.sihttp:/mb
+#EXTINF:-1,Radio_Murski_Val
+200 https://stream.murskival.si/
+#EXTINF:-1,Radio_S
+http://live4.infonetmedia.sihttp:/adios
+#EXTINF:-1,Hitradio_Center_yu
+200 http://stream3.radiocenter.si:8100/;stream/1
+#EXTINF:-1,Radio_Univox
+https://solid33.streamupsolutions.com/proxy/vtmpasiq?mp=/stream
+#EXTINF:-1,Radio_Capris_Love
+400 https://stream.exit.si/LOVE
+#EXTINF:-1,Katoliški_radio_MIR_Slovenija
+https://listen.radioking.comhttp:/adio/84823/stream/123070
+#EXTINF:-1,Radio_Aktual_Galama
+400 https://live.radio.si/AktualGalama
+#EXTINF:-1,Radio_MARŠ
+http://frekvenca.eu:8000http:/adiomars.mp3
+#EXTINF:-1,Radio_Terminal
+405 https://stream.radioterminal.si/hls/live.m3u8
+#EXTINF:-1,Radio_Robin
+400 https://live.radio.si/Robin
+#EXTINF:-1,Radio_Maxi
+400 https://live.radio.si/Maxi
+#EXTINF:-1,Radio_94
+http://77.38.12.198:8000http:/adio94
+#EXTINF:-1,Rock_Radio_Hard_&amp;_Heavy
+200 http://stream.rockradio.si:9040/;stream/1
+#EXTINF:-1,Radio_Aktual_Nostalgija
+400 https://live.radio.si/AktualNostalgija
+#EXTINF:-1,Radio_Triglav
+400 http://live4.infonetmedia.si/Triglav
+#EXTINF:-1,Best_FM
+400 https://live.radio.si/BestFM
+#EXTINF:-1,Primorski_val
+400 http://live.primorskival.si:8000/stream
+#EXTINF:-1,Rock_Radio_Classics
+200 http://stream.rockradio.si:9042/;stream/1
+#EXTINF:-1,Hitradio_Center_top_100
+200 http://stream3.radiocenter.si:9020/;stream/1
+#EXTINF:-1,Bumradio.live
+https://cast4.my-control-panel.com/proxy/ekogeado/stream
+#EXTINF:-1,Radio_Capris_Slovenija
+400 https://stream.exit.si/SLO
+#EXTINF:-1,Radio_Capodistria
+400 https://mp3.rtvslo.si/capo
+#EXTINF:-1,Ars
+400 https://mp3.rtvslo.si/ars
+#EXTINF:-1,Hitradio_Center_fresh_pop
+200 http://stream3.radiocenter.si:8058/;stream/1
+#EXTINF:-1,Radio_Velenje
+http://212.18.39.42:8000http:/adiovelenje.mp3
+#EXTINF:-1,Radio_Sora_
+http:/http:/adio-sora.si:8000http:/adio-sora.mp3
+#EXTINF:-1,Hitradio_Center_rock_radio
+200 http://stream.rockradio.si:9034/;stream/1
+#EXTINF:-1,Hitradio_Center_latin
+200 http://stream3.radiocenter.si:8200/;stream/1
+#EXTINF:-1,Hitradio_Center_love
+200 http://stream3.radiocenter.si:8060/;stream/1
+#EXTINF:-1,Radio_Baksuz
+200 https://sonic.mediacp.eu/8120/stream
+#EXTINF:-1,Radio_FOX_Velenje_PARTY
+302 https://stream-052.zeno.fm/02xg2h6u2ehvv?zs=ls6wnNdEQFWfoKYnd1VRCQ
+#EXTINF:-1,Radio_Capris__In_The_Mix
+400 https://stream.exit.si/INTHEMIX
+#EXTINF:-1,FRED_FILM_RADIO
+https://s10.webradio-hosting.com/proxy/fredradiosi/stream/;
+#EXTINF:-1,Hitradio_Center_megamix
+https://stream.nextmedia.si/proxy/centermix3?mp=/stream
+#EXTINF:-1,Radio_Capris_Spomini
+400 https://stream.exit.si/SPOMINI
+#EXTINF:-1,NoRadio
+200 http://tigr.no-ip.org:8000/noradio.mp3
+#EXTINF:-1,Radio_Slatki_Mali
+405 https://stream-150.zeno.fm/hs8y7xhucg8uv?zs=GAaBtvF8SD2c3BlYtnBlEQ
+#EXTINF:-1,Radio_Koper
+http://mp3.rtvslo.sihttp:/akp
+#EXTINF:-1,Radio_Nula_Classics
+400 http://streaming.radionula.com:8800/classics
+#EXTINF:-1,Radio_City_(Maribor)_100.6_FM
+400 http://82.149.22.34:8000/CityMp364mono.mp3
+#EXTINF:-1,Radio_Ognjišče_-_mp3_stream
+400 http://live.ognjisce.si/ognjisce.mp3
+#EXTINF:-1,Radio_Antena
+400 http://live.radioantena.si/Antena
+#EXTINF:-1,radio_nula_lounge
+400 http://streaming.radionula.com:8800/lounge
+#EXTINF:-1,radio_nula_2
+400 http://streaming.radionula.com:8800/channel2
+#EXTINF:-1,Radio_BOB
+400 http://live6.infonetmedia.si/Europa05
+#EXTINF:-1,Radio_Zica
+400 http://live.1chi.si/zica
+#EXTINF:-1,Radio_Salomon
+400 https://live.radio.si/Salomon
+#EXTINF:-1,Gorenjska_TV
+200 http://91.220.221.60/gtv_hls/gtv.m3u8
+#EXTINF:-1,Radio_Expres
+200 http://stream2.radioekspres.si:8016/stream?type=http&nocache=138
+#EXTINF:-1,Hitradio_center_megamix
+200 http://stream3.radiocenter.si:8066/;stream/1
+#EXTINF:-1,Radio_Roška
+405 http://stream-150.zeno.fm/q7300aptbwzuv?zs=dJohecuiRfOzWX1N7waAsA
+#EXTINF:-1,Radio_Salomon_Dance_Now
+400 http://185.97.52.63/SalomonDanceNow
+#EXTINF:-1,Radio_Capris_90_POP
+400 http://stream02.exit.si:8000/90
+#EXTINF:-1,Radio_Capris_90_DANCE
+400 http://stream02.exit.si:8000/MEGAMIX
+#EXTINF:-1,Radio_Fantasy
+400 https://live.radio.si/Fantasy
+#EXTINF:-1,Radio_Capris_SLO
+400 http://stream02.exit.si:8000/SLO
+#EXTINF:-1,Radio_Capris_ITALIA
+400 http://stream02.exit.si:8000/ITA
+#EXTINF:-1,Radio_Capris_80
+400 http://stream02.exit.si:8000/80
+#EXTINF:-1,Radio_1_-_Maribor_(107.9MHz)
+400 https://live.radio1.si/Radio1
+#EXTINF:-1,Hit_Radio_Center_(Ljubljana_-_102.4MHz)
+200 http://stream3.radiocenter.si:8000/;center/1
+#EXTINF:-1,Radio_KRka
+400 https://live.radio.si/Krka
+#EXTINF:-1,Radio_Antena_(105.2MHz)
+400 https://live.radio.si/Antena
+#EXTINF:-1,Radio_Veseljak-Pumpa
+400 http://live.radio.si/VeseljakPumpa
+#EXTINF:-1,Radio_METEOR_-_Si
+404 https://eu1.fastcast4u.com/proxyhttp:/adiometeor1?mp=/stream
+#EXTINF:-1,Radio_Salomon_Back_In_Time
+400 https://live.radio.si/SalomonBIT
+#EXTINF:-1,Radio_Net.FN
+http:/http:/eflector.radionet.si:8000http:/adionetlive.ogg
+#EXTINF:-1,Radio_City_MB
+400 http://82.149.22.34:8000/CityMp3128.mp3
+#EXTINF:-1,Radio_HIT_
+http://stream03.exit.si:8000http:/adiohit
+#EXTINF:-1,Radio_Tomi
+400 http://93.103.130.12:8080/tomi.mp3
+#EXTINF:-1,Radio_24_SI
+200 http://stream2.radiocenter.si:8064/;type=mp3
+#EXTINF:-1,Radio_Bob!_ROCK_z_Jonasom
+400 https://live.radio.si/BOB
+#EXTINF:-1,Radio_Facebook
+200 http://stream1.srvnetplus.com:8026/stream
+#EXTINF:-1,Radio_Put_Srece
+200 https://stream.master-dizajn.com/8004/stream
+#EXTINF:-1,Radio_Party
+200 http://stream1.srvnetplus.com:8078/stream2
+#EXTINF:-1,Radio_FOX_Velenje
+405 https://stream-150.zeno.fm/pe5srdqekg0uv?zs=oRhplfXsQky2jzX7Rhbcyg

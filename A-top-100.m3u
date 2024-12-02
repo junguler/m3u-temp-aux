@@ -1,0 +1,179 @@
+#EXTM3U
+#EXTINF:-1,Magia_101
+200 https://magia101.streaming.radiogrupo.com/
+#EXTINF:-1,Радио_Рекорд_-_TOP_100_EDM
+https:/http:/adiorecord.hostingradio.ru/top100edm96.aacp
+#EXTINF:-1,Digital_106.5_FM
+200 https://cast.zuperdns.net/8020/stream/;stream.mp3
+#EXTINF:-1,Los_40
+403 https://24073.live.streamtheworld.com:443/LOS40_CRAAC.aac
+#EXTINF:-1,Jack_FM
+http://streaming.silvacast.com/JACKFM.mp3
+#EXTINF:-1,Ultra_Radio
+400 https://icecastultra.duckdns.org/livetul
+#EXTINF:-1,Radio_Energy
+200 https://gmusto.radioca.st/mp3
+#EXTINF:-1,MAGIC_Top100
+200 https://magic-top100.stream.laut.fm/magic-top100?t302=2023-09-19_12-07-47&uuid=013602ad-c940-4887-b38f-cbc08286571e
+#EXTINF:-1,MYXX_FM_(MIX_FM_Dallas)
+http://e13140.cloudrad.io:10934/live?_=0.7760671352605815
+#EXTINF:-1,YourTime-FM
+200 https://yourtime-fm.stream.laut.fm/yourtime-fm
+#EXTINF:-1,Zonkers_Radio
+http://128.199.35.208:8000http:/adio.mp3
+#EXTINF:-1,MitchFM
+200 https://s31.myradiostream.com/:64442/;
+#EXTINF:-1,101FM
+200 https://101fm.stream.laut.fm/101fm
+#EXTINF:-1,Rádio_Energy_FM
+https://09.stmip.net:8202/stream.mp3
+#EXTINF:-1,Hitradio_Center_top_100
+200 http://stream3.radiocenter.si:9020/;stream/1
+#EXTINF:-1,delta_radio_-_Top100_Party
+http:/http:/egiocast.streamabc.nethttp:/egc-deltaparty-mp3-192-3637932?sABC=64480rq4%230%23n1q9s1ns4osoonq326452q0po510q6pp%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1682443988
+#EXTINF:-1,delta_radio_-_Top100_Deutschrap
+http:/http:/egiocast.streamabc.nethttp:/egc-deltadeutschrap-aacplus-64-2616792?sABC=64480rr2%230%23n1q9s1ns4osoonq326452q0po510q6pp%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1682444002
+#EXTINF:-1,Eiropas_Hītu_Radio
+http://stream.europeanhitradio.com:8000/ehr.mp3
+#EXTINF:-1,NRJ_Angers
+200 http://185.52.127.168/fr/40013/aac_64.mp3?access_token=75229d421e0e439881e073ef90d3f030
+#EXTINF:-1,NRJ_Annecy
+200 http://185.52.127.132/fr/40099/aac_64.mp3?access_token=4feed75a17c746199c3089b1d121fb4c
+#EXTINF:-1,ChartHits.FM
+http:/http:/autemusik-de-hz-fal-stream16.radiohost.de/charthits
+#EXTINF:-1,OYE_(Ciudad_de_México)_-_89.7_FM_-_XEOYE-FM_-_NRM_Comunicaciones_-_Ciudad_de_México
+403 https://15123.live.streamtheworld.com:443/XEOYEFM_SC
+#EXTINF:-1,Éxitos_(Matamoros)_-_91.3_FM_-_XHMLS-FM_-_Grupo_Radio_Avanzado_-_Matamoros,_Tamaulipas
+200 https://ice8.securenetsystems.net/EXITO913
+#EXTINF:-1,Ballito_88_FM_-_Radio_Life_&amp;_Style
+200 https://edge.iono.fm/xhls/165_high.m3u8
+#EXTINF:-1,LOS40_San_Luis_Potosí_-_540_AM_-_XEWA-AM_-_GlobalMedia_-_San_Luis_Potosí,_SL
+https://playradio.mx/proxy/los40?mp=/stream
+#EXTINF:-1,Qmusic_Top_1000
+404 https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_classics_96.mp3
+#EXTINF:-1,Exa_FM_Tapachula_-_91.5_FM_/_1000_AM_-_XHTAC-FM_/_XETAC-AM_-_Radio_Cañón_/_NTR_Medios_de_Comunicación_-_Tapachula,_CS
+200 https://streaming.servicioswebmx.com/8248/stream
+#EXTINF:-1,Arroba_FM_(Ciudad_Obregón)_-_104.9_FM_-_XHESO-FM_-_Radiorama_-_Ciudad_Obregón,_Sonora
+302 https://stream-037.zeno.fm/6g9vm2ezbfhvv?zs=Ny2N7IxATguHoXOVOzjmUA
+#EXTINF:-1,Exa_FM_Tijuana_-_91.7_FM_-_XHGLX-FM_-_MVS_Radio_-_Tijuana,_BC
+403 https://22823.live.streamtheworld.com:443/XHGLXAAC.aac
+#EXTINF:-1,LOS40_Acapulco_-_104.7_FM_-_XHCI-FM_-_Grupo_Radio_Visión_-_Acapulco,_Guerrero
+https:/http:/adiovision.mi-radio.stream:11000/stream
+#EXTINF:-1,i_love_radio_-_the_dj_by_DJ_MAG
+200 http://ilm-stream12.radiohost.de/ilm_iloveradiorock_mp3-192
+#EXTINF:-1,Exa_FM_Comitán_-_95.7_FM_-_XHCTS-FM_-_Radio_Cañón_/_NTR_Medios_de_Comunicación_-_Comitán,_CS
+200 https://streaming.servicioswebmx.com/8242/stream
+#EXTINF:-1,Arroba_FM_(León)_-_1530_AM_-_XESD-AM_-_Radiorama_-_León,_Guanajuato
+405 https://stream-156.zeno.fm/883nc8g9d78uv?zs=TT1N3ESKQPqJTlDxXWtbHQ
+#EXTINF:-1,i_love_radio_-_top_100_charts
+200 http://ilm-stream13.radiohost.de/ilm_ilovetop100charts_mp3-192
+#EXTINF:-1,LOS40_Los_Mochis_-_94.1_FM_-_XHEMOS-FN_-_GPM_Radio_/_Radio_TV_México_-_Los_Mochis,_SI
+301 http://streaming.radionomy.com:80/JamendoLounge
+#EXTINF:-1,LOS40_Uruapan_-_93.7_FM_-_XHENI-FM_-_Radiorama_-_Uruapan,_MI
+200 http://server3.sit-mexico.com:8202/;
+#EXTINF:-1,Exa_FM_San_Luis_Potosí_-_102.1_FM_-_XHESL-FM_-_MG_Radio_-_San_Luis_Potosí,_San_Luis_Potosí
+https://playradio.mx/proxy/exafm?mp=/stream
+#EXTINF:-1,wunschradio.fm_Top_100
+400 http://mp3.wunschradio.de/wunschradio-top100.mp3
+#EXTINF:-1,Ballermann_Radio_-_Top100
+404 http://livestream.ballermann-radio.de/ballermann-top100.mp3
+#EXTINF:-1,juka_radio_tophits
+200 https://juka-radio.stream.laut.fm/juka-radio?t302=2021-04-01_09-08-21&uuid=ecbcab5b-a799-4581-bc34-b292c056efbd
+#EXTINF:-1,Arroba_FM_(Chihuahua)_-_88.5_FM_-_XHDI-FM_-_Radiorama_-_Chihuahua,_Chihuahua
+302 https://stream-058.zeno.fm/hv5u0bg9d78uv?zs=Xoo77IuRQ_2wKwvwaACicQ
+#EXTINF:-1,LOS40_Puebla_-_98.7_FM_-_XHPBA-FM_-_Tribuna_Comunicación_-_Puebla,_Puebla
+404 https://stream-058.zeno.fm/nldm18boqajtv?zs=KpEfCo4ARB-r14vQ15yrUQ
+#EXTINF:-1,LOS40_Aguascalientes_-_95.7_FM_-_XHAGA-FM_-_Grupo_Radiofónico_ZER_-_Aguascalientes,_AG
+200 https://cast.zuperdns.net/8030/stream/
+#EXTINF:-1,Arroba_FM_(Mexicali)_-_104.9_FM_-_XHMC-FM_-_Radiorama_-_Mexicali,_Baja_California
+404 https://stream-021.zeno.fm/d8weemp9d78uv?zs=gpfbA9KrSaC_XRrEfhE9fg
+#EXTINF:-1,Ultra_(Toluca)_-_101.3_FM_-_XHZA-FM_-_Grupo_ULTRA_-_Toluca,_Estado_de_México
+400 https://icecastultra.duckdns.org/livetol
+#EXTINF:-1,Ultra_(Huauchinango)_-_91.7_FM_-_XHPHBP-FM_-_Grupo_ULTRA_-_Huauchinango,_Puebla
+400 https://icecastultra.duckdns.org/livehua
+#EXTINF:-1,Ultra_(Cadereyta)_-_92.3_FM_-_XHPCMQ-FM_-_Grupo_ULTRA_-_Cadereyta,_Querétaro
+400 https://icecastultra.duckdns.org/livecad
+#EXTINF:-1,LOS40_Querétaro_-_90.1_FM_-_XHPSJI-FM_-_GlobalMedia_-_San_José_Iturbide,_GT
+https://playradio.mx/proxy/los40jose?mp=/stream
+#EXTINF:-1,LOS40_Culiacán_-_92.9_FM_-_XHENZ-FM_-_Radio_TV_México_-_Culiacán,_Sinaloa
+302 http://stream-057.zeno.fm/20mdtf6hfphvv?zs=pvDaqePKTai9uP4dQ67rFg
+#EXTINF:-1,delta_radio_-_Top100_Dance
+http:/http:/egiocast.streamabc.nethttp:/egc-deltadance-mp3-192-7407445?sABC=64480s40%230%23n1q9s1ns4osoonq326452q0po510q6pp%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1682444096
+#EXTINF:-1,LOS40_Delicias_-_100.5_FM_-_XHBZ-FM_-_Sigma_Radio_-_Delicias,_Chihuahua
+200 http://sigmaradio.stream:9004/index?ver=249101
+#EXTINF:-1,Radio_5_Turkey
+http:/http:/adyo.yayin.com.tr:4108/stream
+#EXTINF:-1,Digital_(Saltillo)_-_106.5_FM_-_XHZCN-FM_-_RCG_Media_-_Saltillo,_Coahuila
+https:/http:/adio.rcg.com.mx:7000/;
+#EXTINF:-1,Máxima_Veracruz_-_88.5_FM_-_XHIL-FM_-_Grupo_RADIOSA_-_Veracruz,_VE
+http://tuasesorweb.com:8052/;
+#EXTINF:-1,Arroba_FM_(Nogales)_-_89.9_FM_-_XHHN-FM_-_Radiorama_Sonora_-_Nogales,_Sonora
+https://freepi.host:9066/stream
+#EXTINF:-1,Máxima_Hermosillo_-_96.3_FM_-_XHVS-FM_-_Grupo_RADIOSA_-_Hermosillo,_SO
+http://tuasesorweb.com:8028/;
+#EXTINF:-1,#80s_HITS
+200 http://streamingp.shoutcast.com/JamendoLounge
+#EXTINF:-1,Soy_FM_(Xalapa)_-_98.5_FM_-_XHWA-FM_-_Grupo_Radio_Digital_-_Xalapa,_Veracruz
+404 https://stream-060.zeno.fm/9gw89d42gd0uv?zs=f7aFvQtpSnijGAiGfss9cQ
+#EXTINF:-1,Free_FM_Top_100_NY
+https://cosmo.streamerr.co/proxy/freefmtop/stream
+#EXTINF:-1,LOS40_Nuevo_Laredo_-_99.3_FM_-_XHNK-FM_-_Grupo_AS_-_Nuevo_Laredo,_Tamaulipas
+https:/http:/adio.grupoas.stream:5535/stream
+#EXTINF:-1,LOS40_Tampico_-_97.7_FM_-_XHRW-FM_-_Grupo_AS_-_Tampico,_Tamaulipas
+https:/http:/adio.grupoas.stream:5503/stream
+#EXTINF:-1,Ultra_(Puebla)_-_92.5_FM_-_XHZM-FM_-_Grupo_ULTRA_-_Puebla,_Puebla
+400 https://icecastultra.duckdns.org/livepue
+#EXTINF:-1,Arroba_FM_(Guadalajara)_-_88.7_FM_-_XHGDL-FM_-_Radiorama_de_Occidente_-_Guadalajara,_Jalisco
+302 https://stream-037.zeno.fm/es06s1g9d78uv?zs=EVXGxAiiQE2ni91o3Imk9A
+#EXTINF:-1,Arroba_FM_(Tampico)_-_93.5_FM_-_XHPP-FM_-_Radiorama_-_Tampico,_Tamaulipas
+302 https://stream-046.zeno.fm/y57qb0p9d78uv?zs=LMsKklFhTU6EpD-xDYmOHg
+#EXTINF:-1,LOS40_Nayarit_(Tepic)_-_104.9_FM_-_XHERK-FM_-_Grupo_Radio_Korita_-_Tepic,_NA
+400 http://www.icecasthd.net:25660/xherk
+#EXTINF:-1,RADIO_VERONICA_TOP_1000
+200 http://22333.live.streamtheworld.com:80/VERONICA.mp3
+#EXTINF:-1,Panda_Pop_Radio_-_Online_-_El_Panda_Zambrano_-_Ciudad_de_México
+200 http://65.21.202.84:8182/;
+#EXTINF:-1,OYE_89.7__(Ciudad_de_México)_-_89.7_FM_-_XEOYE-FM_-_NRM_Comunicaciones_-_Ciudad_de_México
+403 http://26483.live.streamtheworld.com:80/XEOYEFMAAC.aac
+#EXTINF:-1,Arroba_FM_(Poza_Rica)_-_89.3_FM_-_XHRRR-FM_-_Radiorama_-_Poza_Rica,_Veracruz
+302 https://stream-057.zeno.fm/dctbwwp9d78uv?zs=Tn70NrVjSCKYxCrXL2AjYA
+#EXTINF:-1,Arroba_FM_(Puebla)_-_96.1_FM_-_XHEZAR-FM_-_Radiorama_-_Puebla,_Puebla
+302 https://stream-037.zeno.fm/pfyc6yp9d78uv?zs=B2FedYsHS2Cw49rRw22Ing
+#EXTINF:-1,Promodj_-_Top100
+http:/http:/adio.promodj.com/top100-192
+#EXTINF:-1,SOY_FM_(Xalapa)_-_98.5_FM_-_XHWA-FM_-_Grupo_Radio_Digital_-_Xalapa,_VE
+http://cdn.digitalradio.mxhttp:/adio/8210/;
+#EXTINF:-1,delta_radio_-_Top100_Malle_Party
+http:/http:/egiocast.streamabc.nethttp:/egc-deltamalleparty-aacplus-64-3372371?sABC=64480rqs%230%23n1q9s1ns4osoonq326452q0po510q6pp%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1682443999
+#EXTINF:-1,LOS40_Salina_Cruz_-_97.1_FM_/_550_AM_-_XHHLL-FM_/_XEHLL-AM_-_CMI_Oaxaca_-_Salina_Cruz,_OA
+http://107.180.94.182:8000/salinacruz971.ogg
+#EXTINF:-1,Radio_Disney_Toluca_-_102.1_FM_-_XHTOM-FM_-_Grupo_Siete_-_Toluca,_Estado_de_México
+200 https://26373.live.streamtheworld.com:443/XHTOMFMAAC.aac
+#EXTINF:-1,_100.5_AZUL_POP
+https://azulpop.ozelip.com/8006/stream
+#EXTINF:-1,NRJ_Paris
+200 http://185.52.127.132/fr/40050/mp3_128.mp3?access_token=274d00e7f8874f42adb7fc315b7f8e10
+#EXTINF:-1,Exa_FM_Piedras_Negras_-_107.1_FM_-_XHPNS-FM_-_Grupo_Zócalo_-_Piedras_Negras,_CO
+200 https://14923.live.streamtheworld.com:443/XHPNSFMAAC.aac
+#EXTINF:-1,Exa_FM_Tuxtla_-_98.5_FM_-_XHCQ-FM_-_Grupo_Radio_Digital_-_Tuxtla_Gutiérrez,_CS
+302 http://stream-036.zeno.fm/ezeuvs32gd0uv?zs=h1rY2nuuQgOmWwyghBi3LA
+#EXTINF:-1,LOS40
+403 https://26423.live.streamtheworld.com:443/LOS40_MEXICO_SC
+#EXTINF:-1,Exa_FM_Tuxtla_-_XHCQ-FM_-_Grupo_Radio_Digital_-_Tuxtla_Gutiérrez,_Chiapas
+302 https://stream-035.zeno.fm/2f721s32gd0uv?zs=m1zvvelvSROY_l3naB_wLA
+#EXTINF:-1,Exa_FM_Torreón_-_95.5_FM_-_XHMP-FM_-_Grupo_Radio_Estéreo_Mayran_-_Torreón,_CO
+403 https://26523.live.streamtheworld.com:443/XHMPAAC.aac
+#EXTINF:-1,Exa_FM_San_Juan_del_Río_-_99.1_FM_-_XHVI-FM_-_San_Juan_del_Río,_Querétaro
+200 https://tv.radiohosting.online:8352/stream
+#EXTINF:-1,Veronica_TOP1000_AllerTijden
+403 http://22593.live.streamtheworld.com:80/SRGSTR10AAC.aac
+#EXTINF:-1,LOS40_Nayarit_-_104.9_FM_-_XHERK-FM_-_Grupo_Radio_Korita_-_Tepic,_NA
+400 https://secure.radiorama.mx:2104/
+#EXTINF:-1,Exa_FM_(La_Piedad)_-_89.9_FM_-_XHLP-FM_-_Guizar_Comunicación_Integral_-_La_Piedad,_Michoacán
+302 https://stream-021.zeno.fm/fc7ydby53hhvv?zs=X6GVTOwGTqO6gk5r21eqTQ
+#EXTINF:-1,Arroba_FM_(Culiacán)_-_95.3_FM_-_XHIN-FM_-_Radiorama_-_Culiacán,_Sinaloa
+302 https://stream-057.zeno.fm/202c8kg9d78uv?zs=p6McwpNdTGecKcg2oL8bsg
+#EXTINF:-1,Arroba_FM_(Hermosillo)_-_101.1_FM_-_XHVSS-FM_-_Radiorama_Sonora_-_Hermosillo,_Sonora
+https://freepi.host:9061/stream
+#EXTINF:-1,Free_FM_Top_100
+302 http://stream-020.zeno.fm/a5h7vfret68uv?zs=20HOzb5UQEuTMvHbRhMFGw

@@ -1,0 +1,289 @@
+#EXTM3U
+#EXTINF:-1,Saut_Ul_Quran
+200 https://whmsonic.radio.gov.pk:7002/stream?type=http&nocache=12
+#EXTINF:-1,KSA_Quran_Makkah
+400 http://mediaserver2.islamicity.com:8000/SaudiTVArabic
+#EXTINF:-1,Akra_FM
+200 https://cdn3.akradyo.net/akracanli2/_definst_/livestream_aac/playlist.m3u8
+#EXTINF:-1,Radio_Coran
+200 https://webradio.tda.dz/Coran_64K.mp3
+#EXTINF:-1,Radio_Rodja_Bogor
+https:/http:/adioislamindonesia.comhttp:/odja.mp3
+#EXTINF:-1,Radio_Payam
+404 http://s1.cdn1.iranseda.ir:1935/liveedgehttp:/adio-payam/playlist.m3u8
+#EXTINF:-1,Islamic_Voice_Radio
+200 http://streamer3.rightclickitservices.com:9755/;
+#EXTINF:-1,إذاعة_السنة
+400 http://andromeda.shoutca.st:8189/stream
+#EXTINF:-1,Islamic_Lectures_Centre
+200 https://islamicl.radioca.st/;
+#EXTINF:-1,Dost_FM
+200 http://yayin.dostfm.com:8920/;
+#EXTINF:-1,Radio_Pendimi_Live_Kanali-1
+http://85.93.88.146:8014/;
+#EXTINF:-1,Quran_Radio_Lebanon
+http://162.244.81.30:8224/;
+#EXTINF:-1,Radio_Al-Bayane
+405 https://stream-155.zeno.fm/seb77kna90duv?zs=rF7fA_MXQPqO6EdM-Pf2Pw
+#EXTINF:-1,Radyo_Genclik
+200 https://free.rcast.net/66709
+#EXTINF:-1,Semerkand_Radyo
+200 https://mtisvwurbfcyslive.mediatriple.net/mtisvwurbfcyslive/broadcast_58e23cb112296.smil/Playlist.m3u8
+#EXTINF:-1,Radyo_Tulu
+200 http://yayin2.canliyayin.org:8248/;*.mp3
+#EXTINF:-1,Miraath&#039;s_Holy_Quraan_Radio
+https:/http:/adio.al7eah.net/8010/stream
+#EXTINF:-1,Buzzislam
+https://tunein.buzzislam.comhttp:/adio/8000http:/adio.mp3
+#EXTINF:-1,Islamic_Path_Radio_Australia
+200 http://islam2day.tv:9898/;
+#EXTINF:-1,Radyo_Gül
+200 http://yayin2.canliyayin.org:8866/;*.mp3
+#EXTINF:-1,KSA_Sunnah_Madinah
+400 http://mediaserver2.islamicity.com:8000/SaudiTVEnglish
+#EXTINF:-1,Radio_Izlam
+200 http://66.45.232.133:9998/;stream.nsv
+#EXTINF:-1,DC_Naat_Radio
+200 http://s33.myradiostream.com:13872/;
+#EXTINF:-1,Live_Quran_Radio
+http://104.167.2.55:8000/;
+#EXTINF:-1,Ribat_FM
+200 http://yayin1.canliyayin.org:7010/;
+#EXTINF:-1,Enderun_FM
+200 http://yayin2.canliyayin.org:7052/;stream.mp3
+#EXTINF:-1,En_Radyo
+200 http://yayin2.canliyayin.org:7222/;
+#EXTINF:-1,Qibla_FM
+https://s4.yesstreaming.net:17138/stream
+#EXTINF:-1,Hayat_FM
+http://104.194.9.142:8302/live
+#EXTINF:-1,Hedef_Radyo
+200 http://stream.radyogrup.com:4010/;
+#EXTINF:-1,Radyo_Denge
+401 http://yayin1.canliyayin.org:8278/;
+#EXTINF:-1,Birlik_FM_Radyo
+200 http://yayin2.canliyayin.org:7082/;stream.nsv
+#EXTINF:-1,Isra_FM
+200 http://yayin1.canliyayin.org:8210/;
+#EXTINF:-1,Quran_Radio
+200 http://www.quran-radio.org:8080/;stream.mp3
+#EXTINF:-1,RADIO-QU
+200 https://ssg.streamingmurah.com:8034/stream
+#EXTINF:-1,Radio_Jawhara_FM
+400 https://streaming2.toutech.net/jawharafm
+#EXTINF:-1,Radio_The_Voice_of_Ummah
+https://mediati.mehttp:/adio/8010http:/adio.mp3?1608014536
+#EXTINF:-1,Attaqwa_FM
+http://i.klikhost.net:8840/stream/;
+#EXTINF:-1,Faydatidianiya
+200 http://listen.senemultimedia.net:5526/;
+#EXTINF:-1,Sas_Fm_Surabaya
+200 http://u.klikhost.net:7102/stream
+#EXTINF:-1,IBNULQOYYIM_FM
+https://azuracast.iqbpn.comhttp:/adio/8000http:/adio.mp3
+#EXTINF:-1,Genclik_FM
+http:/http:/adyogenclik.com:9900/;stream.mp3/;type=mp3
+#EXTINF:-1,Trendakwah_Purwakarta
+https://live.radioislam.xyz:7004/;
+#EXTINF:-1,Damu_FM
+200 http://e12440.cloudrad.io:8724/;
+#EXTINF:-1,Al-Quds_Radio_102.7
+http://live.alboraq.ps:8000/;stream.mp3
+#EXTINF:-1,Radio_Sargam
+http:/http:/stream.abgroupnepal.com:8000http:/adiosargam
+#EXTINF:-1,Islam_Radio_Deutschland
+200 https://islam-radio-deutschland.stream.laut.fm/islam-radio-deutschland
+#EXTINF:-1,Albashaer_Radio
+200 https://streamer.radio.co/sc0a077d6e/listen
+#EXTINF:-1,Masjid_Live_-_Stream_1
+http://95.154.250.9:9300/;stream.nsv
+#EXTINF:-1,Rabee_Al_Qloub
+http:/http:/adio-ssl.com:8006/stream
+#EXTINF:-1,Crescent_Radio
+400 http://icecast.commedia.org.uk:8000/crescent.mp3
+#EXTINF:-1,Radio_Al-Bilad
+200 https://streamer.radio.co/sb38bf6e66/listen
+#EXTINF:-1,Allahu_Akbar_Radio
+200 http://66.45.232.132:9996/;
+#EXTINF:-1,Islamia
+405 https://stream-149.zeno.fm/mshvxvdwmwzuv?zs=c5A0eZBCSX2e6q4iREgq8A
+#EXTINF:-1,Mujahidin
+https://live.indostreamserver.com:10939/;
+#EXTINF:-1,Radio_Kita_Cirebon
+http://live.radiosunnah.net/;stream.nsv
+#EXTINF:-1,Radio_Islam
+https:/http:/adioislamin.out.airtime.prohttp:/adioislamin_a
+#EXTINF:-1,Sirius_FM
+http://s8.voscast.com:7112/;
+#EXTINF:-1,Quran_in_Vietnamese
+200 https://www.qurantranslations.net/sound/English/AbdulBaset_AbdulSamad/002.mp3?type=.mp3/;stream.mp3
+#EXTINF:-1,Islam24_FM
+http://s1.voscast.com:8778/;stream.nsv
+#EXTINF:-1,SuaraSoneta_Radio
+404 https://a2.siar.us/listen/suarasonetahttp:/adio.mp3
+#EXTINF:-1,Davet_Radyo
+302 https://stream-061.zeno.fm/xzuwreqpfg0uv?zs=VfcPkJ0NSj6-c9uFOH-EAg
+#EXTINF:-1,Radyo_Mevlana
+http:/http:/adyo.radyomevlana.com:9786/;stream.mp3
+#EXTINF:-1,Ahlulbayt_TV
+http://109.123.126.14:1935/live/livestream1.sdp/playlist.m3u8
+#EXTINF:-1,Paigham_Radio
+200 https://shabir.radioca.st/;
+#EXTINF:-1,Sunni_Online_Radio
+http://s7.voscast.com:7812/;stream1655587631277/1
+#EXTINF:-1,Radio_Madjoura_Touba
+http://185.41.154.86:8004/;stream.nsv
+#EXTINF:-1,suara_rakyat_fm
+http://s9.voscast.com:7670/;
+#EXTINF:-1,ICTunes
+400 http://mediaserver2.islamicity.com:8000/ictunes
+#EXTINF:-1,Dawn_FM
+https:/http:/adiodawn.radioca.st/stream
+#EXTINF:-1,Qur&#039;an_Radio
+http://quraan.us:9982/;
+#EXTINF:-1,MEDINABAYEKAFFRINE
+302 https://stream-046.zeno.fm/w4v1hckvewwtv?zs=nTwKKtIPRZOfasdY0vwPqg
+#EXTINF:-1,Bathusha_Radio
+200 http://eu10.fastcast4u.com:14550/stream
+#EXTINF:-1,Bass_FM
+502 https://bassfm.radio.yufid.com/;
+#EXTINF:-1,۞_إذاعة_القرآن_۞
+http://tijaniyyah.asuscomm.com:8000/stream/2/
+#EXTINF:-1,Gozyasi_FM
+200 http://yayin1.canliyayin.org:8700/;
+#EXTINF:-1,Eman_City
+200 http://206.72.199.180:9990/;
+#EXTINF:-1,Mekke_FM
+http://yayin2.canliyayin.org:17175/;
+#EXTINF:-1,Dinimizislam
+https:/http:/adyo.huzurpinari.com:8443http:/adio/8050http:/adio.mp3
+#EXTINF:-1,Dolunay_FM
+401 http://yayin1.canliyayin.org:8318/;
+#EXTINF:-1,Umut_FM
+200 http://yayin1.canliyayin.org:8888/;
+#EXTINF:-1,۞_إذاعة_المديح_۞
+http://tijaniyyah.asuscomm.com:8000/stream/3/
+#EXTINF:-1,۩_الزاوية_التجانية_۩
+200 http://tijaniyyah.asuscomm.com:8000/stream/1/
+#EXTINF:-1,Radio_Yacht
+http:/http:/adioyachtcapri.newradio.it/1
+#EXTINF:-1,Radio_Parasi
+200 http://live.itechnepal.com:9006/stream
+#EXTINF:-1,Radio_Talibé
+http://107.155.111.170:8282/;
+#EXTINF:-1,Özel_FM
+200 https://ozelfm.80.yayin.com.tr/;stream/1
+#EXTINF:-1,Radio_Thaha_Sanchar
+200 http://streaming.softnep.net:8025/;stream.nsv&type=mp3&volume=60
+#EXTINF:-1,Studio_Rejan
+http://streaming.jusahost.com:9988/;stream.mp3
+#EXTINF:-1,Miraath&#039;s_Deutsch_Radio
+https:/http:/adio.al7eah.net/8032/stream
+#EXTINF:-1,۩_السيادة_۩
+200 http://tijaniyyah.asuscomm.com:8000/stream/6/
+#EXTINF:-1,Radio_Naya_Karnali
+200 http://live.itechnepal.com:8496/stream
+#EXTINF:-1,Cemre_FM
+200 http://yayin1.canliyayin.org:8024/stream/1/;stream.nsv
+#EXTINF:-1,Radyo_Ülkü
+200 http://yayin.yayindakiler.com:4112/;stream.mp3
+#EXTINF:-1,Muarasipongi
+302 https://stream-040.zeno.fm/eus8arb1mkeuv?zs=RxWFL0sSReCwHcVLBxMr1g
+#EXTINF:-1,Karachi_FM
+http://s3.voscast.com:8450/;
+#EXTINF:-1,Suara_Muslim_Surabaya
+200 http://pu.klikhost.com:8052/;
+#EXTINF:-1,---تراتيل_قصيرة_متميزة---
+https://qurango.nethttp:/adio/tarateel
+#EXTINF:-1,Aljazeera_Arabic
+200 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1,The_Salaf_Way_100.3_FM_Tripoli_LY
+400 http://airtime.salafway.ly/
+#EXTINF:-1,Radio_Rodja_-_756_AM_&amp;_100.1_FM
+https://live2.radiorodja.comhttp:/odja.mp3
+#EXTINF:-1,FM_100_Pakistan_Islamabad
+200 http://162.244.80.118:4900/stream.mp3?ver=604498
+#EXTINF:-1,Vaaz_Radyosu
+https:/http:/adyo.imzamedya.web.tr/8006/stream
+#EXTINF:-1,AMOEBA_FM
+http://live.syaria.net:9300/;
+#EXTINF:-1,Radio_القارئ_علي_حجاج_السويسي
+200 http://live.mp3quran.net:9842/
+#EXTINF:-1,Tafsir_Quran_&amp;_Islam_Radio_Station
+https:/http:/adio.quranradiotafsir.com/9992/stream
+#EXTINF:-1,الشيخ_إدريس_أبكر_برواية_حفص
+http://server2.quraan.us:9300/;*.mp3
+#EXTINF:-1,قناة_الجزيرة
+200 https://live-hls-web-aja.getaj.net/AJA/06.m3u8
+#EXTINF:-1,Radio_ilmussalaf
+400 http://equinox.shoutca.st:9023/stream
+#EXTINF:-1,الشيخ_توفيق_الصايغ_برواية_حفص
+http://quraan.us:9796/;*.mp3
+#EXTINF:-1,Jeevay_Pakistan_Quran_Radio
+http://s2.reliastream.com:8239/Tune-In%20Links/;
+#EXTINF:-1,الرقية_الشرعية
+200 http://live.mp3quran.net:9936/
+#EXTINF:-1,Aljazeera_English
+200 http://live-hls-web-aje.getaj.net/AJE/06.m3u8
+#EXTINF:-1,Malayam_Islam_ilmusSalaf
+400 http://176.9.7.145:9023/stream
+#EXTINF:-1,Quran_-_Muhammad_Seddiq_Al_Menshawi
+http://quraan.us:9776/;
+#EXTINF:-1,القرآن_الكريم_-_محمود_علي_البنا
+200 http://live.mp3quran.net:9810/
+#EXTINF:-1,Islam_Sobhi
+200 https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/026.mp3
+#EXTINF:-1,تكبيرات_العيد
+200 http://live.mp3quran.net:9728/
+#EXTINF:-1,Mp3Quran_Beautiful_Recitations
+https://qurango.nethttp:/adio/salma
+#EXTINF:-1,Quran_Program_Oman___إذاعة-القرآن-الكريم
+200 https://partwota.cdn.mgmlcdn.com/quranrdoorg/quranrdo.stream_aac/chunklist.m3u8
+#EXTINF:-1,إذاعة_الشيخ_أبو_بكر_الشاطري_برواية_حفص
+http://quraan.us:9892/;*.mp3
+#EXTINF:-1,MASABA_FM
+405 https://stream-150.zeno.fm/099ksythc78uv?zs=_6ybhwRqQD-pYA8y1IcL3Q
+#EXTINF:-1,Thai_Muslim_Radio
+https:/http:/adio12.plathong.net/7234/;stream.mp3
+#EXTINF:-1,تلاوات_خاشعة
+200 http://live.mp3quran.net:9992/
+#EXTINF:-1,MTA_FM
+http:/http:/adio.mtafm.com:1079/;
+#EXTINF:-1,الشيخ_ناصر_القطامي
+http://server2.quraan.us:9886/;
+#EXTINF:-1,AL-QURAN_BANGLA
+200 http://66.45.232.131:9994/;stream/1/;
+#EXTINF:-1,Annahj_-_Islam_Arabic_-_إذاعة_النهج_الواضح
+400 https://node33.obviousapproach.com:9000/stream
+#EXTINF:-1,Radio_Hang_FM
+http://185.47.62.52:8000/;
+#EXTINF:-1,Madani_TV_Audio
+https://live.mvdn.castnest.io/C561cchoADIo8PXtexw7Es2cKWRwx4x44VkHzfwT/tracks-a1/mono.m3u8?token=
+#EXTINF:-1,Radio_Indah_Siar
+https://az1.radioislam.my.id:8110http:/adio.mp3;stream/1
+#EXTINF:-1,اذاعة_محمد_السادس_للقرآن_الكريم
+403 https://cdnamd-hls-globecast.akamaized.net/livehttp:/amdiskhttp:/adio_mohammed_6/hls_snrt_radiohttp:/adio_mohammed_6-mp4a_130400_qad=1.m3u8
+#EXTINF:-1,Radio_Menchhyayem
+200 http://live.itechnepal.com:9090/stream?type=.mp3
+#EXTINF:-1,Quran24
+http://144.76.202.168:8090http:/adio
+#EXTINF:-1,salaammedia
+https://iceant.antfarm.co.za/Salaam
+#EXTINF:-1,إذاعة_الشيخ_أحمد_العجمي_برواية_حفص
+http://server2.quraan.us:9852/;*.mp3
+#EXTINF:-1,Al-Faruq_Purwokerto_Banyumas_&lt;24kb_aac+&gt;
+200 http://alfaruq.radioislam.my.id:12000/;
+#EXTINF:-1,Radio_Central_24
+200 https://casper.radioca.st/;
+#EXTINF:-1,AbderRasheed_Sufis
+http://quraan.us:9866/;
+#EXTINF:-1,Al-Ansaar_Radio
+404 https://al-ansaar.simplestreaming.co.za/listen/al-ansaar_radiohttp:/adio.mp3
+#EXTINF:-1,An-Nashihah_Makassar_&lt;MP3_32_kbps&gt;
+http://streaming.an-nashihah.com:8822/;stream.nsv
+#EXTINF:-1,Radio_Chaker
+200 http://live.mp3quran.net:9978/
+#EXTINF:-1,PeaceRadio_Quran
+400 http://stream.peaceradio.com:8000/quran/high
+#EXTINF:-1,Radio_Quran_Karim
+400 http://5.135.194.225:8000/live

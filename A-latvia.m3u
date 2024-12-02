@@ -1,0 +1,209 @@
+#EXTM3U
+#EXTINF:-1,Retro_FM_Latvija
+https://live.retrofm.lvhttp:/etrofmlatvia
+#EXTINF:-1,TOPradio
+http://195.13.200.164:8000/;
+#EXTINF:-1,Latvijas_Radio_-_LR4
+200 https://5a44e5b800a41.streamlock.net/shoutcast/mp4:lr4a.stream/playlist.m3u8
+#EXTINF:-1,Lounge_FM_99.5
+https:/http:/adio.mixnews.lv/995
+#EXTINF:-1,EHR_-_Русские_Хиты
+200 https://stream.ehrhiti.lv:8000/khr.aac
+#EXTINF:-1,XO_FM
+400 https://live.xo.fm/xofm128
+#EXTINF:-1,Radio_Baltkom
+https:/http:/adio.mixnews.lv/baltkom
+#EXTINF:-1,European_Hit_Radio
+https://stream2.superfm.lv:8000/ehr.aac
+#EXTINF:-1,Radio_SWH
+https://live.radioswh.lv:8443/swhmp3
+#EXTINF:-1,Relax_FM_Latvija
+400 https://live.relaxfm.lv/02
+#EXTINF:-1,Radio_Skonto
+400 http://stream.radioskonto.lv:8002/stereo
+#EXTINF:-1,Latvijas_Radio_-_LR2
+200 https://5a44e5b800a41.streamlock.net/shoutcast/mp4:lr2a.stream/playlist.m3u8
+#EXTINF:-1,Radio_Energy_-_Russian_Radio
+http:/http:/adioenergy.lv:9000/;stream.mp3
+#EXTINF:-1,Mix_FM_102.7
+https:/http:/adio.mixnews.lv/MixFM
+#EXTINF:-1,Radio_Pik_100_FM
+400 http://91.90.255.85:8000/01
+#EXTINF:-1,Latvijas_Radio_-_LR1
+200 https://60766ff53d5e6.streamlock.net/liveALR1/mp4:LR1/playlist.m3u8
+#EXTINF:-1,Radio_SWH_Plus
+https://live.radioswh.lv:8443/plusmp3
+#EXTINF:-1,Xradio
+200 http://185.8.60.5:8000/mp3
+#EXTINF:-1,Яхт_Радио_-_Театр
+200 https://yacht-radio.lv:8245/stream
+#EXTINF:-1,Latvijas_Radio_-_LR3
+200 https://60766ff53d5e6.streamlock.net/liveALR3/mp4:klasika/playlist.m3u8
+#EXTINF:-1,Latvijas_Radio_-_LR6_Naba
+200 https://5a44e5b800a41.streamlock.net/shoutcast/mp4:naba.stream/playlist.m3u8
+#EXTINF:-1,Latvijas_Radio_-_LR5
+200 https://5a44e5b800a41.streamlock.net/pieci/mp4:k2/playlist.m3u8
+#EXTINF:-1,EHR_-_Remixes_RU
+200 https://stream.ehrhiti.lv:8000/Stream_35.aac
+#EXTINF:-1,New_Dance_Radio
+https://stream.newdanceradio.ru/
+#EXTINF:-1,Radio_SWH_Rock
+https://live.radioswh.lv:8443http:/ockmp3
+#EXTINF:-1,Яхт_Радио
+https://yacht-radio.lv:8025http:/adio
+#EXTINF:-1,Alise_Plus
+200 http://fm2inet.aliseplus.lv:8000/
+#EXTINF:-1,EHR_-_Alternative
+200 https://stream.ehrhiti.lv:8000/Stream_37.aac
+#EXTINF:-1,EHR_-_Top_40_RU
+200 https://stream.ehrhiti.lv:8000/Stream_33.aac
+#EXTINF:-1,EHR_-_Remix
+200 https://stream.ehrhiti.lv:8000/Stream_32.aac
+#EXTINF:-1,Яхт_Радио_-_Blues&amp;Jazz
+200 https://yacht-radio.lv:8140/stream
+#EXTINF:-1,Radio_Energy_-_Hit_Music_Radio
+http:/http:/adioenergy.lv:8000/;stream.mp3
+#EXTINF:-1,EHR_-_Dance
+200 https://stream.ehrhiti.lv:8000/Stream_24.aac
+#EXTINF:-1,European_Hit_Radio_-_Superhits
+200 https://stream.ehrhiti.lv:8000/Stream_21.aac
+#EXTINF:-1,EHR_-_European_Hit_Radio
+200 https://stream.ehrhiti.lv:8000/ehr.aac
+#EXTINF:-1,EHR_-_Fitness
+200 https://stream.ehrhiti.lv:8000/Stream_14.aac
+#EXTINF:-1,Яхт_Радио_-_Классика
+200 https://yacht-radio.lv:8150/stream
+#EXTINF:-1,EHR_-_Love_Songs
+200 https://stream.ehrhiti.lv:8000/Stream_28.aac
+#EXTINF:-1,EHR_-_Urban
+https://stream2.superfm.lv:8000/Stream_11.aac
+#EXTINF:-1,Radio_SWH_Gold
+https://live.radioswh.lv:8443/goldmp3
+#EXTINF:-1,Яхт_Радио_-_Rock
+200 https://yacht-radio.lv:8185/stream
+#EXTINF:-1,Power_FM
+http:/http:/adio.powerfm.lv:8000/;
+#EXTINF:-1,European_Hit_Radio_-_Fresh
+200 https://stream.ehrhiti.lv:8000/Stream_25.aac
+#EXTINF:-1,Nordic_Chillout_Radio
+http://nordicbeatradio.radioca.st:8023/stream
+#EXTINF:-1,OMH_-_Our_Music_History_Since_1980
+200 https://free.rcast.net/63684
+#EXTINF:-1,EHR_-_Top_40
+200 https://stream.ehrhiti.lv:8000/Stream_27.aac
+#EXTINF:-1,EHR_-_Rītam
+200 https://stream.ehrhiti.lv:8000/Stream_36.aac
+#EXTINF:-1,European_Hit_Radio_-_Party_Service
+200 https://stream.ehrhiti.lv:8000/Stream_12.aac
+#EXTINF:-1,Radio_Marija_-_Latvija
+http://195.122.25.178:8000/stream/3/
+#EXTINF:-1,Radio_TEV
+http://stream.radiotev.lv:8002http:/adiov
+#EXTINF:-1,Your_City_Radio
+200 https://c28.radioboss.fm:18234/stream
+#EXTINF:-1,Pieci_-__Hiti
+200 https://5a44e5b800a41.streamlock.net/pieci/mp4:k3/playlist.m3u8
+#EXTINF:-1,EHR_-_Darbam
+200 https://stream.ehrhiti.lv:8000/Stream_23.aac
+#EXTINF:-1,Latgolys_Radeja
+400 http://195.13.253.51:8000/128_mp3
+#EXTINF:-1,Kurzemes_Radio
+200 http://31.170.16.6:8000/;?type=http&nocache=457
+#EXTINF:-1,EHR_-_Eurochart
+200 https://stream.ehrhiti.lv:8000/Stream_31.aac
+#EXTINF:-1,EHR_-_Acoustic
+200 https://stream.ehrhiti.lv:8000/Stream_26.aac
+#EXTINF:-1,Pieci_-__Latvieši
+200 https://5a44e5b800a41.streamlock.net/pieci/mp4:k6/playlist.m3u8
+#EXTINF:-1,HMRadio
+405 https://stream-149.zeno.fm/wmf5tfmerxxuv?zs=yqvHEl5nRfy4q1oBcoBY9Q
+#EXTINF:-1,Просто_Радио_Лиепая
+400 http://89.254.163.122:8000/live
+#EXTINF:-1,EHR_-_Latviešu_Hiti
+200 https://stream.ehrhiti.lv:8000/Stream_22.aac
+#EXTINF:-1,Pieci_-_Atklājumi
+200 https://5a44e5b800a41.streamlock.net/pieci/mp4:k1/chunklist_w1044979976.m3u8
+#EXTINF:-1,Pieci_-_Krimināli_Ekselents_Radio
+200 https://5a44e5b800a41.streamlock.net/pieci/mp4:k4/playlist.m3u8
+#EXTINF:-1,InsideFM_Русское
+200 https://stream.insidefm.eu/listen/insidefm/nonstop
+#EXTINF:-1,Радио_Один_Эф_Эм
+405 https://stream-153.zeno.fm/uqcrbx2p6tzuv?zs=DGZ3ryptQDGaDVB24LpOQA
+#EXTINF:-1,European_Hit_Radio_-_Urban
+200 https://stream.ehrhiti.lv:8000/Stream_11.aac
+#EXTINF:-1,FRED_FILM_RADIO
+https://s10.webradio-hosting.com/proxy/fredradiolv/stream/;
+#EXTINF:-1,Pieci_-__Rīti
+404 https://5a44e5b800a41.streamlock.net/pieci/mp4:k8/playlist.m3u8
+#EXTINF:-1,Flash_Sound_(LV)_radio
+200 https://listen7.myradio24.com/65462
+#EXTINF:-1,InsideFM_BassBoosted
+200 https://stream.insidefm.eu/listen/insidefm_bass/live
+#EXTINF:-1,Radio_9
+400 http://91.90.255.85:8000/02
+#EXTINF:-1,European_Hit_Radio_-_SuperHits_Gold
+200 https://stream.ehrhiti.lv:8000/Stream_64.aac
+#EXTINF:-1,LudzaFM
+200 https://fps3.listen2myradio.com:2199/listen.php?ip=109.169.23.124&port=10151&type=s1
+#EXTINF:-1,InsideFM_English
+404 https://stream.insidefm.eu/listen/insidefm_english/live
+#EXTINF:-1,European_Hit_Radio_-_Super_klubu_klasika
+200 https://stream.ehrhiti.lv:8000/Stream_67.aac
+#EXTINF:-1,Star_Fm
+200 http://starfm.live.advailo.com/audio/mp3/icecast.audio
+#EXTINF:-1,Radio_SWH+
+400 http://80.232.162.149:8000/plus96mp3
+#EXTINF:-1,Radio_SWH_-_Spin_FM
+400 http://80.232.162.149:8000/spin96mp3
+#EXTINF:-1,Talsi_Lounge_Radio
+200 http://kuums.lv:5555/?type=http&nocache=170
+#EXTINF:-1,Radio_7
+400 http://stream.radio7.lv:8024/Radio7
+#EXTINF:-1,Radio_ENERGY.LV_-_Russian
+http://www.radioenergy.lv:9000/;
+#EXTINF:-1,Talsi_Remix
+http:/http:/adio.kuums.lv:5555/;
+#EXTINF:-1,Radio_SWH_Kurzeme
+400 http://87.110.219.34:8000/swhmp3
+#EXTINF:-1,European_Hit_Radio_-_Russkie_Hiti
+200 http://stream.europeanhitradio.com:8000/khr.aac
+#EXTINF:-1,European_Hit_Radio_-_Rock
+200 http://stream.europeanhitradio.com:8000/Stream_37.aac
+#EXTINF:-1,Latvijas_Radio_3_-_Klasika
+http://lr3mp0.latvijasradio.lv:8004/;
+#EXTINF:-1,Latvijas_Radio_1
+http://lr1mp1.latvijasradio.lv:8012/;
+#EXTINF:-1,European_Hit_Radio_-_RNB
+200 http://stream.europeanhitradio.com:8000/Stream_11.aac
+#EXTINF:-1,Krimināli_ekselents_radio
+200 https://live.pieci.lv/live27-hq.mp3
+#EXTINF:-1,Eiropas_Hītu_Radio
+200 http://stream.europeanhitradio.com:8000/ehr.mp3
+#EXTINF:-1,Авторадио_Латвия
+400 https://live.relaxfm.lv/03
+#EXTINF:-1,Radio_Talsi
+http:/http:/adio.kuums.lv:6555/;
+#EXTINF:-1,LRadio_Baltija
+405 https://stream-150.zeno.fm/md25955xnuhvv?zs=LlHgNe4dRMSbXC1cnwnL2w
+#EXTINF:-1,Radio_NABA
+http://nabamp0.latvijasradio.lv:8016/;
+#EXTINF:-1,PIECI_FM
+200 https://live.pieci.lv/live19-hq.mp3
+#EXTINF:-1,Radio_Skonto_Riga
+400 https://stream.radioskonto.lv:8443/mp3
+#EXTINF:-1,Radio_Rezekne
+http://195.13.164.134:8000/source.mp3
+#EXTINF:-1,LV_Radio_2
+http://lr2mp1.latvijasradio.lv:8002/;
+#EXTINF:-1,LV_Radio_4
+http://lr4mp1.latvijasradio.lv:8020/;
+#EXTINF:-1,Skonto_Plus
+400 https://stream.radioskontoplus.lv:8443/st128
+#EXTINF:-1,Skonto
+400 https://stream.radioskonto.lv:8443/stereo
+#EXTINF:-1,SWH
+400 http://80.232.162.149:8000/swh96mp3
+#EXTINF:-1,Latvijas_Kristīgais_Radio
+https:/http:/adio.lkr.lv/;?type=http&nocache=40
+#EXTINF:-1,Latvijas_Radio_5
+200 https://live.pieci.lv/live19-hq.aac
