@@ -10,7 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          for i in $(cat genres.txt) ; do curl -s https://play.you.radio/station_name/$(echo $i | awk -F '---' '{print $1}') | awk 'NR==1 {$0="#EXTINF:-1," $0} 1' >> A-$(echo $i | awk -F '---' '{print $2}').txt ; curl -s https://play.you.radio/player_stream/$(echo $i | awk -F '---' '{print $1}') >> A-$(echo $i | awk -F '---' '{print $2}').txt ; echo -e "\n" >> A-$(echo $i | awk -F '---' '{print $2}').txt ; echo -e $i ; done
+          for i in $(cat genres.txt) ; do curl -s https://play.you.radio/station_name/$(echo $i | awk -F '---' '{print $1}') | awk 'NR==1 {$0="#EXTINF:-1," $0} 1' >> A-$(echo $i | awk -F '---' '{print $2}').txt ; curl -s https://play.you.radio/player_stream/$(echo $i | awk -F '---' '{print $1}') | xargs curl -s -I | grep "location" | awk '{print $2}' >> A-$(echo $i | awk -F '---' '{print $2}').txt ; echo -e "\n" >> A-$(echo $i | awk -F '---' '{print $2}').txt ; echo -e $i ; done
 
       - name: git stuff
         run: |
