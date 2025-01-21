@@ -11,6 +11,7 @@ jobs:
       - name: run commands
         run: |
           npm install playwright
+          npx playwright install
           node ./castbox.js
 
       - name: git stuff
