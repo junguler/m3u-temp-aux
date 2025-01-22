@@ -16,20 +16,40 @@ const sanitizeFileName = (name) => {
   return name.replace(/[<>:"/\\|?*]/g, '_').replace(/\s+/g, '_');
 };
 
-// User agents for Bing and Google bots
-const userAgents = [
-  'Mozilla/5.0 (compatible; Bingbot/2.0; +http://www.bing.com/bingbot.htm)',
-  'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)'
-];
-
 (async () => {
   // Launch the browser
   const browser = await chromium.launch();
   
-  for (const [index, url] of urls.entries()) {
-    const userAgent = userAgents[index % userAgents.length]; // Alternate user agents
-    const context = await browser.newContext({ userAgent });
+  for (const url of urls) {
+    const context = await browser.newContext({
+      userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+    });
     const page = await context.newPage();
+
+    // Extract the channel name from the URL
+    const channelName = url.split('/').pop().split('-id')[0];
+    const sanitizedChannelName = sanitizeFileName(channelName);
+
+    // Counter for filename generation
+    let fileCounter = 1;
+
+    // Listen for responses
+    page.on('response', async (response) => {
+      const contentType = response.headers()['content-type'];
+
+      // Check if the response is JSON
+      if (response.ok() && contentType && contentType.includes('application/json')) {
+        const json = await response.json();
+        // Create a filename based on the sanitized channel name and counter
+        const filename = path.join(__dirname, `${sanitizedChannelName}_${fileCounter}.json`);
+        fs.writeFileSync(filename, JSON.stringify(json, null, 2), 'utf8');
+        console.log(`Saved: ${filename}`);
+        fileCounter++; // Increment the counter for the next file name
+      }
+    });
+
+    // Intercept network requests to allow them to continue
+    await page.route('**/*', (route) => route.continue());
 
     // Navigate to the specified URL and wait for redirections
     let finalUrl;
@@ -44,38 +64,12 @@ const userAgents = [
       continue; // Skip to the next URL
     }
 
-    // Extract the <h1> tag text for the filename
-    const h1Text = await page.$eval('h1', h1 => h1.innerText);
-    const sanitizedFileName = sanitizeFileName(h1Text);
-
-    // Counter for filename generation
-    let fileCounter = 1;
-
-    // Listen for responses
-    page.on('response', async (response) => {
-      const contentType = response.headers()['content-type'];
-
-      // Check if the response is JSON
-      if (response.ok() && contentType && contentType.includes('application/json')) {
-        const json = await response.json();
-        // Create a filename based on the sanitized <h1> text and counter
-        const filename = path.join(__dirname, `${sanitizedFileName}_${fileCounter}.json`);
-        fs.writeFileSync(filename, JSON.stringify(json, null, 2), 'utf8');
-        console.log(`Saved: ${filename}`);
-        fileCounter++; // Increment the counter for the next file name
-      }
-    });
-
-    // Intercept network requests to allow them to continue
-    await page.route('**/*', (route) => route.continue());
-
-    // Scroll to the bottom of the page with randomized wait times
+    // Scroll to the bottom of the page until no new content is loaded
     let previousHeight;
     while (true) {
       previousHeight = await page.evaluate('document.body.scrollHeight');
       await page.evaluate('window.scrollTo(0, document.body.scrollHeight)');
-      const waitTime = Math.floor(Math.random() * 3000) + 2000; // Random wait between 2-5 seconds
-      await page.waitForTimeout(waitTime); // Wait for new content to load
+      await page.waitForTimeout(2000); // Wait for new content to load
       const newHeight = await page.evaluate('document.body.scrollHeight');
       if (newHeight === previousHeight) break; // Exit if no new content
     }
@@ -101,14 +95,14 @@ const userAgents = [
     });
 
     // Write to output.csv
-    const csvPath = path.join(__dirname, `${sanitizedFileName}.csv`);
+    const csvPath = path.join(__dirname, `${sanitizedChannelName}.csv`);
     const csvHeader = 'EID,Title,URL\n';
     const csvRows = records.map(record => `${record.eid},"${record.title}","${record.url}"`).join('\n');
     fs.writeFileSync(csvPath, csvHeader + csvRows, 'utf8');
     console.log(`Generated ${csvPath} successfully.`);
 
     // Create playlist.m3u
-    const m3uPath = path.join(__dirname, `${sanitizedFileName}.m3u`);
+    const m3uPath = path.join(__dirname, `${sanitizedChannelName}.m3u`);
     const m3uContent = [
       '#EXTM3U', // Add the #EXTM3U header
       ...records.map(record => `#EXTINF:-1,${record.title}\n${record.url}`) // Remove quotes from URLs
