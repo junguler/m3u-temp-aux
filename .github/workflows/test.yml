@@ -13,7 +13,7 @@ jobs:
           npm install playwright
           npx playwright install
           sudo npx playwright install-deps
-          node ./castbox.js
+          node ./genres.js
 
       - name: git stuff
         run: |
