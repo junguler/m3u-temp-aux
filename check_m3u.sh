@@ -12,10 +12,6 @@ for i in A-*.m3u ; do cat $i | grep -B1 "200 " | sed 's/200 //g' | awk 'length>3
 # convert underlines in stream titles back to spaces
 for i in *.m3u ; do sed -i '/#/s/_/ /g' $i ; done
 
-mv AA-*.m3u good/
-
-rm *.m3u
-
 # remove extra fluff from file names
 #for i in AA-*.m3u ; do mv $i $(echo $i | sed 's/AA-//') ; done
 
