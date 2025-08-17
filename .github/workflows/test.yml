@@ -10,8 +10,8 @@ jobs:
 
       - name: run commands
         run: |
-          chmod +x ./m3u_keep_200.sh
-          ./m3u_keep_200.sh
+          chmod +x ./check_m3u.sh
+          ./check_m3u.sh
 
       - name: git stuff
         run: |
