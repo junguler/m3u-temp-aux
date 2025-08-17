@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,Outre_mer_1ere
+504 http://radios.la1ere.fr/outremer
+#EXTINF:-1,Gamesboro_Radio_-_Video_Game_Music_24/7_-_128_-_Austria_-_chiptune_-_game_-_nintendo_-_playstation_-_sega_-_video_game_music_-_xbox
+200 http://content.radiosega.net:8006/live.m3u

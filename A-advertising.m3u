@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,Virage_Radio_Musique_de_Pub
+200 https://vir-wr02.ice.infomaniak.ch/vir-wr02.mp3
+#EXTINF:-1,Radio_Bosanska_Krupa
+http://195.222.33.217:8091/;
+#EXTINF:-1,Cadena_SER_-_Radio_Zamora
+403 https://19983.live.streamtheworld.com:443/SER_ASO_ZAMORA.mp3

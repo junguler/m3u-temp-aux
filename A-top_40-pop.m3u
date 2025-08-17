@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,Hot_FM_104.6
+200 https://hotfm.live24.gr/hotfm
+#EXTINF:-1,Most_FM
+400 http://gordon.mostfm.com:8000/high
+#EXTINF:-1,EHR_-_Top_40
+200 https://stream.ehrhiti.lv:8000/Stream_27.aac
