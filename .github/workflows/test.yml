@@ -10,7 +10,8 @@ jobs:
 
       - name: run commands
         run: |
-          for i in *.txt ; do for j in $(cat $i) ; do curl -s https://www.chosic.com/genre-chart/$j/ | ./htmlq p.genre-desc -t | tr -s ' ' | sed 's/^[[:space:]]*//; s/[[:space:]]*$//; /./!d' > $i\___$j.txt ; echo -e "$i - $j" ; sleep 5s ; done ; done
+          chmod +x ./m3u_keep_200.sh
+          ./m3u_keep_200.sh
 
       - name: git stuff
         run: |
