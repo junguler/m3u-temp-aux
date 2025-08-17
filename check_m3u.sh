@@ -16,4 +16,4 @@ for i in *.m3u ; do sed -i '/#/s/_/ /g' $i ; done
 #for i in AA-*.m3u ; do mv $i $(echo $i | sed 's/AA-//') ; done
 
 # make the m3u files proper again by adding the header
-for i in *.m3u ; do sed -i '1s/^/#EXTM3U\n/' $i ; done
+#for i in *.m3u ; do sed -i '1s/^/#EXTM3U\n/' $i ; done
