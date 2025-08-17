@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,bigFM_Tomorrowland_One_World_Radio_-_0_-_Germany_-_
+https://stream.bigfm.de/tomorrowland/mp3-128/radiobrowser
+#EXTINF:-1,CIDI-FM_99.1_Knowlton_-__QC_-_128_-_Canada_-_community_radio
+https://eu4.fastcast4u.com/proxy/cowlradio?mp=/1
+#EXTINF:-1,deinfm_-_128_-_Germany_-_bielefeld_-_chr_-_deinfm_-_detmold_-_gütersloh_-_herford_-_hochstift_-_höxter_-_lemgo_-_lippe_-_lübbecke_-_minden_-_mühlenkreis_-_ostwestfalen_-_ostwestfalen-lippe_-_owl_-_paderborn_-_power_-_radio_deinfm_-_top_40
+https://deinfmowl-live.cast.addradio.de/deinfmowl/live/mp3/high
+#EXTINF:-1,idobi_Howl_-_128_-_The_United_States_Of_America_-_hardcore_-_metal_-_new_music
+http://idobihowl.idobi.com/;stream.mp3
+#EXTINF:-1,idobi_Howl_-_128_-_The_United_States_Of_America_-_
+https://idobihowl.idobi.com/
+#EXTINF:-1,Slowly_Radio_-_192_-_France_-_
+https://stream.slowlyradio.com/
+#EXTINF:-1,SLOWLY_RADIO_-_192_-_Canada_-_ambient_-_cool_music_seduction_-_easy_listening_-_love_-_love_songs_-_slow_-_slow_radio_-_slowly_musics_-_soft_adult_contemporary
+http://stream.slowlyradio.com/
+#EXTINF:-1,WRQN_93.5_Bowling_Green_-__OH_-_48_-_The_United_States_Of_America_-_bowling_green_-_classic_hits_-_toledo
+https://p2bj.vzan.com/slowlive/720309357434990970/live.m3u8

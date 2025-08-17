@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,Unspecified_name
+https://stream.rcast.net/256391
+#EXTINF:-1,RNZ_Parliament
+https://stream.rcast.net/236494
+#EXTINF:-1,BBC_Parliament_-_978_-__-_news_-_parliament_-_talk_-_uk
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_parliament.m3u8
+#EXTINF:-1,Parlamenti_adások_-_64_-_Hungary_-_duna_média_-_news_-_parliament_-_public_radio
+http://radionz-ice.streamguys.com/parliament.mp3

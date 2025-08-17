@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,BBC_Radio_London_(128k)_-_0_-_The_United_Kingdom_Of_Great_Britain_And_Northern_Ireland_-_local_news_-_local_radio_-_london_-_music_-_sports_-_talk
+http://as-hls-ww-live.akamaized.net/pool_98137350/live/ww/bbc_london/bbc_london.isml/bbc_london-audio%3d128000.norewind.m3u8
+#EXTINF:-1,BBC_Radio_London_(96k_nonuk)_-_101_-_The_United_Kingdom_Of_Great_Britain_And_Northern_Ireland_-_local_news_-_local_radio_-_london_-_music_-_sports_-_talk
+http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/ak/bbc_london.m3u8
+#EXTINF:-1,CKDK_103.9_"Country_104"_Woodstock_-__ON_-_128_-_Canada_-_commercial_-_country_-_london_-_woodstock
+https://listen-gaydio.sharp-stream.com/472_gaydio_london_128_mp3
+#EXTINF:-1,Gold_AM_1548_London_-_128_-_The_United_Kingdom_Of_Great_Britain_And_Northern_Ireland_-_classic_hits_-_london_-_oldies
+http://edge-bauerall-01-gos2.sharp-stream.com/net2london.mp3
+#EXTINF:-1,Harry_Potter_fan_-_0_-_Ukraine_-_fantasy_-_magic_london
+http://salalondon.ddns.net:8002/;.m3u
+#EXTINF:-1,London_Greek_Radio_(LGR)_-_128_-_The_United_Kingdom_Of_Great_Britain_And_Northern_Ireland_-_103.3_-_cyprus_-_greece_-_greek_-_greek_music_-_greek_radio_-_lgr_-_london_greek_radio
+https://stream.londonmusicradio.com:8005/128k
+#EXTINF:-1,Resonance_FM_104.4_-_London_-_192_-_The_United_Kingdom_Of_Great_Britain_And_Northern_Ireland_-_community_radio_-_experimental_-_london
+https://london-dedicated.myautodj.com:3199/proxy/euro/stream
+#EXTINF:-1,WKNL_"100.9_K_HITS"_New_London_-__CT_-_32_-_The_United_States_Of_America_-_classic_hits_-_new_london
+https://centauri.shoutca.st:2199/tunein/wnbclondon.asx

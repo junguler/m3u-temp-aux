@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,101.5_cakrawala_FM_surabaya_-_128_-_Indonesia_-_misc
+http://streaming.cakrawalafm.net:8040/;
+#EXTINF:-1,Australian_Digital_Radio_Network_-_Tim_McGraw_(MP3)_-_128_-_Australia_-_tim_mcgraw
+https://estructuraweb.com.co:9288/live
+#EXTINF:-1,Exclusively_Tim_McGraw_-_0_-_The_United_Arab_Emirates_-_
+https://streaming.exclusive.radio/er/timmcgraw/icecast.audio
+#EXTINF:-1,Gravity_House_-_160_-_Canada_-_deep_house_-_house_-_indie_house_-_nu_disco_-_raw_house_-_soulful_house
+https://raw.githubusercontent.com/dpodyachev/m3u/main/harry/harry.m3u
+#EXTINF:-1,KSEH_"Radio_Jose_94.5"_Brawley_-__CA_-_64_-_The_United_States_Of_America_-_brawley_-_imperial_valley_-_spanish_adult_hits
+https://estructuraweb.com.co:9498/live
+#EXTINF:-1,MOSCOW_MADNESS_-_320_-_The_Russian_Federation_-_frenchcore_-_gabber_-_hardcore_-_hardstyle_-_madness_-_rave_-_raw_hardstyle_-_rawstyle_-_techno_-_uptempo_hardcore
+http://streams.norawebstreams.de/nora-80er/mp3-128/homepage/
+#EXTINF:-1,Real_Hardstyle_Radio_-_192_-_The_Netherlands_-_early_hardstyle_-_euphoric_hardstyle_-_freestyle_-_hardstyle_-_jumpstyle_-_raw_-_raw_hardstyle
+https://estructuraweb.com.co:9330/live
+#EXTINF:-1,ГУСЬ.Хардстайл_-_320_-_The_Russian_Federation_-_euphoric_hardstyle_-_hardstyle_-_raw_hardstyle_-_rawstyle
+https://www.al-badr.net/download/esound/choroohat/abuzaid_alkirawani/001.mp3

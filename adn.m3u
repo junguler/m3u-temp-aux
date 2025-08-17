@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,Aladna_FM_-_320_-_The_Netherlands_-_
+https://aladnafm.beheerstream.nl/8024/stream
+#EXTINF:-1,Exclusively_-_Madness_-_0_-_The_United_Arab_Emirates_-_exclusive_-_madness
+https://streaming.exclusive.radio/er/madness/icecast.audio
+#EXTINF:-1,Midnight_Madness_Radio_-_128_-__-_metal
+https://midnight-madness.eradioweb.com:8100/live?type=http
+#EXTINF:-1,Radio_Madness_-_128_-_Greece_-_classic_hits_-_greek_music_-_hits_-_top40
+http://stream.zeno.fm/d3as2fmadnruv
