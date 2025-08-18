@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,Charivari_München_-_Live_Hits_-_128_-_Germany_-_charivari_-_live_-_live_concert
+http://streams.greenhost.nl:8080/concertzenderlive
+#EXTINF:-1,EPIC_CLASSICAL_-_Classical_Orchestral_-_192_-_Germany_-_classic_-_classical_-_klassik_-_klassisk_-_orchestra_-_orchestral_-_royal_concertgebouw_orchestra
+http://direct.francemusique.fr/live/francemusiqueconcertsradiofrance-hifi.mp3
+#EXTINF:-1,France_Musique_Concerts_Radio_France_-_192_-_France_-_aac_-_public_radio_-_radio_france_-_radio_france_concerts
+http://icecast.radiofrance.fr/francemusiqueconcertsradiofrance-hifi.aac
+#EXTINF:-1,Radio_Wombat_-_0_-_Italy_-_afrobeats_-_audiobooks_-_classical_-_culture_-_experimental_-_hardcore_-_industrial_-_live_concert_-_music_-_news_-_northern_soul_-_politics_-_punk_-_rock'n'roll_-_soul
+http://radionz-ice.streamguys.com/concert.mp3
+#EXTINF:-1,RTBF_Classic_21_-_Live_-_0_-_Belgium_-_blues_-_blues_rock_-_concert_-_hard_rock_-_live_-_live_concert_-_metal_-_pop_rock_-_rock
+https://ia801804.us.archive.org/33/items/tiesto-tiesto-in-concert-2003/Tiesto%20-%20Tiesto%20In%20Concert%20%282003%29.mp3
+#EXTINF:-1,WQED_Pittsburgh_Concert_Channel_-_192_-_The_United_States_Of_America_-_classical_-_classical_music_-_concert
+https://ice-1.streamhoster.com/lv_wqed--concert
+#EXTINF:-1,YourClassical_Concert_Band_-_128_-_The_United_States_Of_America_-_classical_-_concert_band
+https://concertband.stream.publicradio.org/concertband.mp3

@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1,_RADIO_CHILANGO_105.3_(CDMX)_-_105.3_FM_-_XHINFO-FM_-_Capital_Digital_-_Ciudad_de_México_-_192_-_Mexico_-_105.3_fm_-_alternative_-_américa_-_capital_digital_-_cdmx_-_ciudad_de_méxico_-_entretenimiento_-_español_-_estación_-_fm_-_latinoamérica_-_moi_merino_-_music_-_méxico_-_música_-_música_en_inglés_-_música_y_noticias_-_norteamérica_-_radio_-_radio_chilango_-_revista_chilango_-_valle_de_méxico
+https://capitalfm.cloudrad.io/stream
+#EXTINF:-1,capital_fm__-_64_-_Brazil_-_sertanejo
+http://capitalfm.cloudrad.io/stream
+#EXTINF:-1,Dimensione_Suono_Roma_-_64_-_Italy_-_capital_-_lazio_-_roma
+https://streamcdnr8-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapital/radiocapital/play1.m3u8
+#EXTINF:-1,http://ice-the.musicradio.com/CapitalXTRANationalM_-_128_-_Belarus_-_http://ice-the.musicradio.com/capitalxtranationalm
+#EXTINF:-1,Lokura_FM_Tepic_92.1_-_32_-_Mexico_-_2000s_en_español_-_80s_en_español_-_90s_en_español_-_baladas_en_español_-_capital_media_-_latin_pop_-_lokura_fm_-_mexico_-_música_en_español_-_música_popular_mexicana_-_música_variada_-_nayarit_-_norteamérica_-_pop_-_pop_en_español_-_pop_mexicano_-_pop_rock_-_rock_en_español_-_tepic
+http://streaming.martiproduccions.com:8000/capitalhd
+#EXTINF:-1,Radio_Globo_|_Solo_le_migliori_-_128_-_Italy_-_capital_-_lazio_-_roma
+http://manele.capitalfm.ro:8020/listen.pls

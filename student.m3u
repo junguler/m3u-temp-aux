@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,KNDS_North_Dakota_State_University_-_Fargo_-__ND_(M3U)_-_0_-_The_United_States_Of_America_-_college_-_college_radio_-_student-run_radio_-_university_-_university_radio_-_variety
+http://krui.student-services.uiowa.edu:8000/listen
+#EXTINF:-1,KRUI-FM_(College_Radio)_-_320_-__-_alternative_-_college_-_dance_-_funk_-_hip-hop_-_jazz_-_rock_-_student_-_variety
+http://krui.student-services.uiowa.edu:8000/#89.7
+#EXTINF:-1,Radio_Študent_-_32_-_Slovenia_-_cultural_-_low_bandwidth_-_public_-_student
+http://kruljo.radiostudent.si:8000/loq.m3u
+#EXTINF:-1,Radio_Študent_-_256_-_Slovenia_-_cultural_-_public_-_student
+http://kruljo.radiostudent.si:8000/hiq.m3u
+#EXTINF:-1,RUC_Rádio_Universidade_de_Coimbra_-_256_-_Portugal_-_alternative_-_student_radio_-_university_radio
+http://studentenfunk.out.airtime.pro:8000/studentenfunk_a
+#EXTINF:-1,Studentenfunk_(Universität_Regensburg)_-_128_-_Germany_-_campus_radio_-_student_radio
+https://studentenfunk.out.airtime.pro/studentenfunk_a#

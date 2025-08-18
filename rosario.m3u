@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1,FM_Plus_93.1_Rosario_-_64_-_Argentina_-_fm_plus_93.1_rosario
-http://fmplus.radio.rosario3.com:8006/
-#EXTINF:-1,M90_89.9_FM_-_128_-_Argentina_-_rock_-_rosario
-http://23.111.184.195:8020/mileniumrosario.mp3
-#EXTINF:-1,Plus_93.1_FM_-_64_-_Argentina_-_90s_-_classic_hits_-_pop_-_rosario_-_spanish_pop
-http://fmplus.radio.rosario3.com:8006/fmplus
-#EXTINF:-1,Radio_2_1230_AM_-_64_-_Argentina_-_news_-_rosario_-_talk
-http://radio2.radio.rosario3.com:8000/prueba2

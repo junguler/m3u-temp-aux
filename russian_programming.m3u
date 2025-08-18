@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1,Радио_Спутник
-http://online.sputnikfm.ru:8000/sputnik_mp3
-#EXTINF:-1,Raadio_4_-_ER4
-http://icecast.err.eehttp:/aadio4madal.mp3
-#EXTINF:-1,BFM_Radio_(BrooklynFM)
-https://stream.bfmradio.us/stream128/
-#EXTINF:-1,Davidzon_Radio
-http://ags.abinet.com:8800/dr.mp3

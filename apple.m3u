@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1,91.1_The_Avenue_-_32_-_The_United_States_Of_America_-_adult_album_alternative_-_appleton
-http://sc.apple-fm.net:9020/listen.pls
-#EXTINF:-1,Pineapple_Juice_-_128_-_Switzerland_-_rock
-http://stream.laut.fm/pineapplejuice
-#EXTINF:-1,Pineapple_Juice_-_128_-_Germany_-_
-https://pineapplejuice.stream.laut.fm/pineapplejuice?ref=web-app&start_time=1720439125509
-#EXTINF:-1,Radio_Vibration_-_128_-_France_-_actu_-_app-id=335003717_(apple-itunes-app)_-_clips_-_direct_-_info_-_live_-_podcast_-_radio_-_replay_-_tour_vibration_-_vibration_-_vibrez_-_vibrons_-_vidéo_-_webradios
-https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8
