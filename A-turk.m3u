@@ -1,0 +1,40 @@
+#EXTM3U
+#EXTINF:-1,90lar_turkey_-_128_-_Türkiye_-_
+200 http://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8
+#EXTINF:-1,Atatürk_Airport_(LTBA)_ATC_Tower_-_0_-_Türkiye_-_airport_-_turkiye
+200 https://babaradyo.turkhosted.com/best/babaradyo.stream/playlist.m3u8
+#EXTINF:-1,bigFM_bigSES_-_0_-_Germany_-_oriental_-_turkey_-_turkish_pop
+302 http://streams.bigfm.de/bigfm-turkey-128-aac
+#EXTINF:-1,bigFM_SES_-_0_-_Germany_-_dance_-_pop_-_turkish_music
+302 https://stream.bigfm.de/turkey/aac-128/liveradioie
+#EXTINF:-1,Der_junge_Kulturkanal_Karlsruhe_-_256_-__-_
+200 https://yayin.turkhosted.com/6066/stream
+#EXTINF:-1,Giresun_FM_-_128_-_Türkiye_-_pop_-_turkish_music
+200 https://haberturkradyo.radyotvonline.net/haberturkradyo
+#EXTINF:-1,Hemdem_Radyo_-_96_-_Türkiye_-_arabesk_fantazi_-_turkish_pop_-_türk_halk_müziği_-_türk_pop_-_türk_sanat_-_türkçe_-_türkü
+#EXTINF:-1,https://turkmedya-live.ercdn.net/tv24/tv24.m3u8_-_2500_-_Türkiye_-_classical
+200 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+#EXTINF:-1,Keepitsucuk_-_128_-_Germany_-_hiphop_-_rock_-_turkish_pop_-_world_music
+200 https://kiss.radyotvonline.net/kissturk
+#EXTINF:-1,Köroğlu_FM_-_96_-_Türkiye_-_pop_-_turkish_pop
+200 https://yayin.turkhosted.com:6068/stream?/;stream.mp3
+#EXTINF:-1,Love_Radio_-_Turkish_Love_songs_-_0_-_The_United_Arab_Emirates_-_pop_-_turkish_music_-_turkish_pop
+302 https://drive.uber.radio/uber/lrturkish/icecast.audio
+#EXTINF:-1,Metro_fm_turkey_-_64_-_Türkiye_-_
+200 https://n10101m.mediatriple.net/numberoneturk
+#EXTINF:-1,pop_90_turkey_-_64_-_Türkiye_-_
+http://mpegpowerturk.listenpowerapp.com/powerfrenchcafe/mpeg/icecast.audio
+#EXTINF:-1,powerturk_-_278_-_Türkiye_-_pop
+200 https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8
+#EXTINF:-1,Radio_44_-_128_-_Türkiye_-_hits_-_pop_-_top40_-_turkish_music
+400 http://isojako.radiodei.fi:8000/turkueurajoki
+#EXTINF:-1,Radyo_Alaturka_-_128_-_Türkiye_-_
+200 http://yayin.turkhosted.com:6006/
+#EXTINF:-1,Radyo_Nida_-_128_-_Türkiye_-_ilahi_-_islam_-_muslim_-_turk
+200 https://trkvz-radyolar.ercdn.net/radyoturkuvaz/playlist.m3u8
+#EXTINF:-1,retro_turk_-_64_-_Türkiye_-_
+400 https://radyo.duhnet.tv/ak_dtvh_slowturk
+#EXTINF:-1,Süper_2_FM_-_64_-_Türkiye_-_hits_-_pop_-_turkish_music
+200 https://rd-trtturku.medya.trt.com.tr/master_128.m3u8
+#EXTINF:-1,TRT3_-_140_-_Türkiye_-_classical_-_culture_-_independent_-_jazz_-_oldies_-_opera_-_pop_-_turkish_music
+https://server7.streamserver24.com/proxy/turkiyemfm?mp=/stream

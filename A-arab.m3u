@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1,__ORIENTAL___by_rautemusik_(rm.fm)_-_192_-_Germany_-_arabic_-_arabic_music_-_hits_-_oriental_-_variety
+200 https://backup.qurango.net/radio/ahmad_khader_altarabulsi
+#EXTINF:-1,102.1_Arabeskin_Merkezi_Fm_-_128_-_Türkiye_-_arabesk_-_arabesk_fantazi_-_arabic_-_pop
+200 https://canli.arabeskinmerkezi.com:9180/listen.pls
+#EXTINF:-1,achkid_fm_-_0_-_Morocco_-_music_arabe
+200 https://fm.alarabiya.net/fm/myStream/playlist.m3u8
+#EXTINF:-1,Al_araby_-_56_-_Qatar_-_news_-_news_talk_-_world_news
+200 https://l3.itworkscdn.net/alarabyradiolive/alarabyradio_audio/icecast.audio
+#EXTINF:-1,Anghamy_-_128_-_Lebanon_-_arabic_-_folk_-_pop
+https://golden-oldies.radioarabella.de/arabella-golden-oldies.mp3
+#EXTINF:-1,Aswat_FM_-_128_-_Morocco_-_arabic_music_-_classic_hits_-_hits_-_pop
+400 https://stream.live.vc.bbcmedia.co.uk/bbc_arabic_radio
+#EXTINF:-1,BBC_Arabic_Radio_-_101_-_The_United_Kingdom_Of_Great_Britain_And_Northern_Ireland_-_arabic_-_news_-_talk
+200 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_arabic_radio.m3u8
+#EXTINF:-1,Mefi1_tarab_-_128_-_Morocco_-_
+400 http://live.medi1.com/Tarab
+#EXTINF:-1,Mosaique_FM_Tarab_-_128_-_Tunisia_-_
+400 https://radio.mosaiquefm.net/mosatarab
+#EXTINF:-1,NPO_Funx_Arab_-_192_-_The_Netherlands_-_arabic
+200 http://icecast.omroep.nl/funx-arabfb-bb-mp3
+#EXTINF:-1,Quran_Radio_Station-Nablus_-_32_-_State_Of_Palestine_-_arabic_-_islamic_-_nablus_-_quran_-_القرآن_الكريم
+302 https://live.stream.radioarabella.de/radioarabella-bayern/stream/mp3?aggregator=araby
+#EXTINF:-1,Radio_Caprice_-_Arabic_Pop_-_320_-_The_Russian_Federation_-_arabic_-_pop_-_radcap_-_radio_caprice
+200 http://79.120.39.202:8000/arabicpop
+#EXTINF:-1,Radio_Marabu_-_128_-_Germany_-_
+200 http://87.118.116.61/marabu.asx
+#EXTINF:-1,Radyo_Karabalı_-_64_-_Türkiye_-_
+200 https://radyokarabali.ozelip.com:9884/;
+#EXTINF:-1,S1lhoutte_Arabesk_FM_-_128_-_Türkiye_-_arabesk
+https://yayin.radyoarabesk.com.tr:8000/stream
+#EXTINF:-1,sky_news_arabia_radio_-_500_-_The_United_Arab_Emirates_-_country
+200 https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:-1,Sveriges_Radio_P4_Skaraborg_-_192_-_Sweden_-_local_radio_-_music
+200 https://http-live.sr.se/p4skaraborg-mp3-192
+#EXTINF:-1,Tangoparabailar_-_128_-_Germany_-_tango
+302 http://stream.laut.fm/tangoparabailar
+#EXTINF:-1,Turbo_Imparable_-_128_-_Ecuador_-_
+200 https://arabkidsradio.art/radio/8000/radio.mp3

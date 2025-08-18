@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1,sockenschuss_x
+200 http://sockenschuss-x.stream.laut.fm/sockenschuss-x
+#EXTINF:-1,fantasyradio
+200 http://fantasyradio.stream.laut.fm/fantasyradio
+#EXTINF:-1,erses
+200 http://erses.stream.laut.fm/erses
+#EXTINF:-1,medieval_fantasy
+200 http://medieval-fantasy.stream.laut.fm/medieval-fantasy
+#EXTINF:-1,666darksociety666
+200 http://666darksociety666.stream.laut.fm/666darksociety666
+#EXTINF:-1,_🎥_ues_🎬__-_128_-_Norway_-_epic_-_movies_-_ost_-_soundtracks
+302 https://listen.radionomy.com/unleashingepicsoundtracks
+#EXTINF:-1,Chromatique-Sky_-_128_-_Austria_-_epic_-_soundtracks
+200 https://carol.epichosts.co.uk:8570/;
+#EXTINF:-1,El_Heraldo_Radio_103.3_FM_Tepic_-_0_-_Mexico_-_deportes_-_el_heraldo_radio_-_heraldo_media_group_-_informativa_-_mexico_-_nayarit_-_norteamérica_-_noticias_-_radio_hablada_-_tepic
+302 https://stream.epic-classical.com/classical-background-music
+#EXTINF:-1,estéreo_vida_95.3_Tepic_-_0_-_Mexico_-_baladas_-_baladas_en_español_-_estério_vida_-_mexico_-_musica_romantica_-_nayarit_-_norteamérica_-_pop_-_pop_en_español_-_radiorama_nayarit_-_tepic
+302 https://stream.epic-piano.com/great-piano-concerts?ref=radiobrowser
+#EXTINF:-1,La_nayarita_97.7_Tepic_-_0_-_Mexico_-_banda_-_banda_norteña_-_grupera_-_la_nayarita_-_mariachi_-_mexico_-_música_popular_mexicana_-_nayarit_-_norteamérica_-_norteño_-_radiorama_nayarit_-_regional_mexicana_-_tepic
+302 http://stream.laut.fm/epicsoundsfm
+#EXTINF:-1,laut.fm_Fantasyradio_-_128_-_Germany_-_electro_-_epic_-_fantasy_-_folk_-_gothic_-_metal_-_mittelalter_-_symphonic
+302 https://stream.epic-piano.com/liszt?ref=radiobrowser
+#EXTINF:-1,Love_FM_(Tepic)_-_96.1_FM_-_XHEOO-FM_-_Grupo_Audiorama_Comunicaciones_-_Tepic_-__Nayarit_-_64_-_Mexico_-_96.1_fm_-_américa_-_balada_pop_-_balada_romántica_-_entretenimiento_-_español_-_estación_-_fm_-_latinoamérica_-_love_fm_-_moi_merino_-_music_-_méxico_-_música_-_música_del_recuerdo_-_música_en_español_-_música_pop_-_música_romántica_-_música_variada_-_nayarit_-_norteamérica_-_radio_-_radiorama_-_tepic
+200 http://carol.epichosts.co.uk:8190/live.ogg
+#EXTINF:-1,RadCap_-_Epic_Metal_-_320_-_The_Russian_Federation_-_epic_metal_-_metal_-_radio_caprice
+400 http://79.111.119.111:8004/epicmetal
+#EXTINF:-1,Radio_Caprice_-_Epic_Metal_-_320_-_The_Russian_Federation_-_epic_metal_-_hard_rock_-_heavy_metal_-_metal_-_radio_caprice_-_rock
+200 http://79.111.119.111:8000/epicmetal.m3u
+#EXTINF:-1,Sockenschuss-x_-_128_-_Germany_-_epic_-_soundtracks
+302 https://stream.epic-piano.com/solo-piano?ref=radiobrowser

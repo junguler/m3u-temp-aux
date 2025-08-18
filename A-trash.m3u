@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:-1,sinnlos
+200 http://sinnlos.stream.laut.fm/sinnlos
+#EXTINF:-1,halloween
+200 http://halloween.stream.laut.fm/halloween
+#EXTINF:-1,radio_goldberg
+200 http://radio-goldberg.stream.laut.fm/radio-goldberg
+#EXTINF:-1,latriperie
+200 http://latriperie.stream.laut.fm/latriperie
+#EXTINF:-1,radio_crivitz
+200 http://radio-crivitz.stream.laut.fm/radio-crivitz
+#EXTINF:-1,sender_rostock
+200 http://sender-rostock.stream.laut.fm/sender-rostock
+#EXTINF:-1,fireradio_xmas
+200 http://fireradio-xmas.stream.laut.fm/fireradio-xmas
+#EXTINF:-1,antenne_eichsfeld
+200 http://antenne-eichsfeld.stream.laut.fm/antenne-eichsfeld
+#EXTINF:-1,eurovision
+200 http://eurovision.stream.laut.fm/eurovision
+#EXTINF:-1,trashpop
+200 http://trashpop.stream.laut.fm/trashpop
+#EXTINF:-1,Radio_Free_Des_Moines
+302 https://stream.rcast.net/261246
+#EXTINF:-1,Dubstep
+302 https://stream.rcast.net/257012
+#EXTINF:-1,89.0_RTL_Party_Trash
+302 https://stream.89.0rtl.de/party-trash/mp3-256
+#EXTINF:-1,RADIO_SYSTEM_Campania
+302 https://stream.rcast.net/252966
+#EXTINF:-1,idobi_Radio:_New._Music._Unfiltered._idobi.com
+302 https://stream.rcast.net/248648
+#EXTINF:-1,Gremlin's_Jukebox
+302 https://stream.rcast.net/245519
+#EXTINF:-1,I?TRASHPOP
+302 https://stream.rcast.net/241372
+#EXTINF:-1,bigFM_Trashpop
+302 https://stream.bigfm.de/trashpop/mp3-128/radiobrowser
+#EXTINF:-1,RPR1.90er_Trash
+302 https://streams.rpr1.de/rpr-90ertrash-128-mp3
+#EXTINF:-1,RadioArt_-_Music_for_Kids
+302 https://stream.rcast.net/235886
+#EXTINF:-1,Radio_ROKS_New_Rock
+400 https://online.radioroks.ua/RadioROKS_NewRock_HD
+#EXTINF:-1,Trash_Can_Radio
+302 https://stream.rcast.net/212052
+#EXTINF:-1,Trash_Rock
+302 https://stream.rcast.net/211359
+#EXTINF:-1,GremlinRadio.com
+302 https://stream.rcast.net/14717
+#EXTINF:-1,24-7_Pop_Party
+302 https://stream.rcast.net/4786
+#EXTINF:-1,Metro_Stereo
+https://d2dhhyxwmf9o99.cloudfront.net/lametro.m3u8
+#EXTINF:-1,Top_Trash_Station
+http:/http:/autemusik-de-hz-fal-stream17.radiohost.de/top100station_mp3-192
+#EXTINF:-1,i_love_radio_-_party_hard
+302 http://ilm-stream12.radiohost.de/ilm_ilovepartyhard_mp3-192
+#EXTINF:-1,Jugendradio_DT64_vom_MDR_-_128_-_Germany_-_ard_-_charts_-_ddr_-_dt64_-_halle_-_halle_(saale)_-_jugendradio_-_jugendwelle_-_leipzig_-_lieblose_playlist_-_mdr_-_nervige_moderatoren_-_podcasts_-_pop_-_punk_-_sputnik_mailbox_-_top40_-_trash
+302 https://streams.rpr1.de/rpr-90ertrash-128-mp3?usid=0-0-H-M-D-60

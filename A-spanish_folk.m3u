@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:-1,Gozadera_FM
+https://azura.abcorp.eshttp:/adio/8030/live
+#EXTINF:-1,Olímpica_Stereo_Elche_105.7
+http://109.73.65.69:22909/;stream.nsv
+#EXTINF:-1,Onda_Sevilla_Radio
+https://streaming2.elitecomunicacion.es:8630/stream?type=.mp3
+#EXTINF:-1,Tot_Radio
+200 http://www.totradio.com:8000/128kbps
+#EXTINF:-1,Onda_Regional_Radio
+https://live.redctnet.es/live/orm/orm/playlist.m3u8
+#EXTINF:-1,TME.fm_Radio
+http:/http:/adio.tmefm.com:17666/;stream.nsv
+#EXTINF:-1,Radio_Europa
+https://server8.emitironline.com:18734/
+#EXTINF:-1,Radio_Crizantema
+http:/http:/adiocrizantema.asculta.live:9763/;stream.nsv
+#EXTINF:-1,Rock_Nacional_Paraguayo
+https://s32.radiolize.comhttp:/adio/8010http:/adio.mp3
+#EXTINF:-1,RCFM_Radio_Crónica_Folk_Musical
+404 https://antares.dribbcast.com/proxyhttp:/cfm?mp=/stream
+#EXTINF:-1,Color_Estéreo_103.7_&amp;_104.0
+404 https://azura5.emisiononline.es/listen/color_estereohttp:/adio.mp3
+#EXTINF:-1,Radio_Bronka
+http://stream.nonfqdn.net:8000http:/bronka.ogg
+#EXTINF:-1,Radio_San_Borondon_92.1_FM
+http://s3radio.hostingwebcloud.com:8053/stream
+#EXTINF:-1,Radio_Carrizal
+http://streaming.enantena.com:8000http:/adiocarrizal56.mp3
+#EXTINF:-1,Radio_Stz_Irratia
+https://secureradio.eu:6104/stream
+#EXTINF:-1,JAM_66_Radio
+405 https://stream-164.zeno.fm/yopwanm46juvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5b3B3YW5tNDZqdXZ2IiwiaG9zdCI6InN0cmVhbS0xNjQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkxqQXZQYlpxU3QyYzZkcERFbEZ0aUEiLCJpYXQiOjE3MjUxMTQzMjMsImV4cCI6MTcyNTExNDM4M30.u_zktGrLzuKvs8g6o-F_NvZXtWvlYAY6TDvq3Wlm8dg
+#EXTINF:-1,Llano_Folklore_Radio
+405 https://stream-149.zeno.fm/8a3q6hcftwzuv?zs=4Cf-wO8RS2-lfQSzv3fftA
+#EXTINF:-1,Cooltura_FM_105.5_FM
+200 https://server9.emitironline.com:19244/
+#EXTINF:-1,WORLDWIDE_RADIO
+https:/http:/ealserver.es/listen/worldwidehttp:/adio.mp3
+#EXTINF:-1,Radio_Blanes
+http://streaming.enantena.com:8000http:/adioblanes128.mp3
+#EXTINF:-1,La_Movida_Latina
+200 https://server2.ejeserver.com:8400/stream
+#EXTINF:-1,La_Power_Digital
+https://lapowerdigital.com/live/
+#EXTINF:-1,La_Ventana_Radio
+https://emisorasvirtuales.com.co:9018/live
+#EXTINF:-1,Integracion_Radio
+400 http://5.135.183.124:8023/stream
+#EXTINF:-1,Radio_Sant_Andreu
+http://82.98.177.79:8000/online
+#EXTINF:-1,Ona_Moments
+405 https://stream-150.zeno.fm/m3qv1kzrq68uv?zs=SyH_bN5sRfSuloBm1FB7PQ
+#EXTINF:-1,Radio_Laredo
+https:/http:/adio.radiolaredo.com/8002/stream
+#EXTINF:-1,Radio_Tomares
+200 http://stream1.aljamir.com:8174/;
+#EXTINF:-1,Radio_Vitigudino
+200 http://198.100.145.187:13840/;listen.mp3
+#EXTINF:-1,Oxigeno_Europa_Radio
+405 https://eu1.lhdserver.es:9107/stream
+#EXTINF:-1,Son_Galicia_Radio
+400 http://wecast20-h-cloud.flumotion.com/songalicia/live.mp3
+#EXTINF:-1,Radio_del_Hogar_de_la_Brisa
+302 http://stream-050.zeno.fm/4vwgvyq82k8uv?zs=eUtvpxMhROi6WPb2pxcjDA
+#EXTINF:-1,The_Sunny_Time
+301 http://streaming.radionomy.com:80/JamendoLounge
+#EXTINF:-1,Radio-Zazpi
+http://173.212.207.132:8000http:/adio.mp3
+#EXTINF:-1,Hitz_Funky_Radio
+302 https://stream-052.zeno.fm/azgx0ktf4p8uv?zs=TFsZNvYLSo6ln3nQUfCPng
+#EXTINF:-1,La_tremenda_fm
+200 http://server2.ejeserver.com:8210/stream
+#EXTINF:-1,Radio_Renacer
+405 https://stream-152.zeno.fm/877xenu3aa9uv?zs=IaTyMkd4RaWRSe_ImzD_Ig
+#EXTINF:-1,Cope_Sevilla
+http://wecast-b03-01.flumotion.com/copesedes/sevilla.mp3
+#EXTINF:-1,Radio_Relativa
+200 https://streamer.radio.co/sd6131729c/listen

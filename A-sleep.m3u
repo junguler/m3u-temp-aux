@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1,Cryosleep_-_128_-_The_United_States_Of_America_-_ambient_-_calm_-_music_-_nobeat_-_sleep_-_space
+400 http://streams.echoesofbluemars.org:8000/cryosleep
+#EXTINF:-1,dinamo.fm_sleep_-_320_-_Türkiye_-_ambient_-_chillout_-_lullaby_-_relaxing_-_sleep_-_zen
+400 http://channels.dinamo.fm/sleep-mp3
+#EXTINF:-1,Echoes_of_Bluemars_-_Crytosleep_-_128_-_The_United_States_Of_America_-_
+400 http://streams.echoesofbluemars.org:8000/cryosleep.m3u
+#EXTINF:-1,Epic_Lounge_-_SLEEP_&_MEDITATION_-_192_-_Germany_-_ambient_and_relaxation_music_-_chill_-_chillout_-_meditation_-_relax_-_relaxing_-_sleep
+302 https://stream.epic-lounge.com/sleep-meditation?ref=radiobrowser
+#EXTINF:-1,NATURE_RADIO_SLEEP_-_128_-_Italy_-_ambient_-_bird_-_city_-_easy_listening_-_forest_-_italy_-_meditation_-_natura_-_natural_-_nature_-_new_age_-_ocean_-_rain_-_relax_-_relaxation_-_rome_-_sleep_-_soft_-_suoni
+200 https://az1.mediacp.eu/listen/natureradiosleep/radio.mp3
+#EXTINF:-1,Positively_Sleep_Classical_-om_-_0_-_The_United_Arab_Emirates_-_ambient_-_classic_-_sleep
+200 https://streaming.positivity.radio/pr/sleepclassical/icecast.audio
+#EXTINF:-1,Positively_Sleep_Kids_-om_-_0_-_The_United_Arab_Emirates_-_ambient_and_relaxation_music_-_kids_-_sleep
+200 https://streaming.positivity.radio/pr/sleepkids/icecast.audio
+#EXTINF:-1,Positively_Sleep_Max_Richter_-om_-_0_-_The_United_Arab_Emirates_-_ambient_and_relaxation_music_-_sleep
+200 https://streaming.positivity.radio/pr/sleeprelax/icecast.audio
+#EXTINF:-1,Positively_Sleep_Tones_-om_-_0_-_The_United_Arab_Emirates_-_sleep_-_sleepingpill
+200 https://streaming.positivity.radio/pr/sleeptones/icecast.audio
+#EXTINF:-1,Positively_Sleepy_-om_-_0_-_The_United_Arab_Emirates_-_sleep
+200 https://streaming.positivity.radio/pr/posisleepy/icecast.audio
+#EXTINF:-1,Radio_Art_-_Baby_Sleep_-_96_-_Greece_-_baby_-_instrumental_-_music_-_relax_-_sleep
+400 https://air.radioart.online/fBaby_sleep.mp3
+#EXTINF:-1,Radio_Art_-_Classical_for_sleep_-_96_-_Greece_-_classical
+400 http://live.radioart.com/fClassical_for_sleep.mp3
+#EXTINF:-1,Radio_Art_-_Guitar_for_Sleep_-_96_-_Greece_-_guitar_-_instrumental_-_relax_-_sleep
+400 https://air.radioart.online/fGuitar_for_sleep.mp3
+#EXTINF:-1,Radio_Art_-_Jazz_for_Sleep_-_96_-_Greece_-_jazz_-_relax_-_relaxing_-_sleep
+400 http://air.radioart.com/fJazz_for_sleep.mp3
+#EXTINF:-1,Radio_Art_-_Piano_for_Sleep_-_96_-_Greece_-_classical_-_piano_-_sleep
+400 http://air.radioart.com/fPiano_for_sleep.mp3
+#EXTINF:-1,Sleep_Radio_-_128_-_New_Zealand_-_ambient_-_meditation_-_new_age_-_relax_-_sleep
+200 https://cast4.asurahosting.com:2199/tunein/sleeprad.pls

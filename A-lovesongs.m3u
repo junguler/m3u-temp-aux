@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1,Radio_Brocken_Lovesongs
+302 https://stream.radiobrocken.de/love/mp3-256
+#EXTINF:-1,lovesongs
+302 https://stream.rcast.net/244277
+#EXTINF:-1,ANTENNE_BAYERN_Lovesongs
+302 https://stream.rcast.net/240895
+#EXTINF:-1,Das_neue_Radio_Seefunk_Lovesongs
+302 https://stream.rcast.net/240757
+#EXTINF:-1,90s90s_-_Lovesongs
+302 https://streams.90s90s.de/love/mp3-192/homepage/
+#EXTINF:-1,Variety_Lovesongs
+302 https://stream.rcast.net/214412
+#EXTINF:-1,Love_Radio_-_Classic_Lovesongs
+302 https://stream.rcast.net/211553
+#EXTINF:-1,Gammagioiosa_Lovesongs
+302 https://stream.rcast.net/206145
+#EXTINF:-1,Variety_Online_Radio_Lovesongs
+302 https://stream.rcast.net/1556
+#EXTINF:-1,Lovesongs247
+302 https://stream.rcast.net/7960
+#EXTINF:-1,_#1_RdMix_Love_Songs_-_128_-_Canada_-_00's_-_00s_-_70's_-_70s_-_80's_-_80s_-_90's_-_90s_-_classic_hits_-_decades_-_fm_-_love_-_love_song_-_love_songs_-_lovesongs_-_music_-_musica_-_musica_romantica_-_oldies_-_pop_-_pop_music_-_public_radio_-_radio_-_radio_publica_-_regional_-_relax_-_relaxation_-_relaxing_-_rnb_-_romantic_-_romantic_music_-_romantica_-_soft_adult_contemporary_-_soft_music_-_soft_pop_-_soft_rock
+200 https://maggie.torontocast.com:2020/stream/rdmixlovesongs
+#EXTINF:-1,1_Slow-Radio_-_laut.fm_-_128_-_Spain_-_60er_-_70er_-_80er_-_90er_-_easy_listening_-_lovesongs_-_oldies_-_schlager_-_slow
+302 http://stream.antenne.de/lovesongs/stream/aacp
+#EXTINF:-1,Arabella_Lovesongs_-_128_-_Austria_-_lovesongs
+200 https://static.arabella.at/streamadressen/arabella-lovesongs.m3u
+#EXTINF:-1,Love_FM_(León)_-_101.5_FM_-_XHVLO-FM_-_Grupo_Audiorama_Comunicaciones_-_León_-__Guanajuato_-_96_-_Mexico_-_101.5_-_101.5_fm_-_balada_-_balada_en_español_-_balada_pop_-_baladas_-_baladas_en_español_-_español_-_estación_-_fm_-_grupo_audiorama_comunicaciones_-_guanajuato_-_latino_américa_-_latinoamérica_-_love_-_love_fm_-_love_songs_-_lovesongs_-_moi_merino_-_music_-_musica_-_musica_clasica_romantica_-_musica_latinoamericana_-_musica_romantica_-_méxico_-_música_-_música_del_recuerdo_-_música_en_español_-_música_pop_-_norteamérica_-_pop_-_pop_music_-_radio_-_romance_-_romantic_-_romantic_music_-_romantica_-_romántica_-_románticas
+302 https://drive.uber.radio/uber/lrfrenchlovesongs/icecast.audio
+#EXTINF:-1,LoveBeats_-_laut.fm_-_128_-_Germany_-_kuschelrock_-_liebe_-_liebeslieder_-_love_-_lovebeat_-_lovesongs_-_romance_-_romantik
+302 http://mp3channels.webradio.antenne.de/lovesongs
+#EXTINF:-1,Only_Romantic_Radio_-_128_-_Spain_-_easy_listening_-_lovesongs_-_pop
+200 https://oxygenmusic.hu:8443/oxygenlovesongs

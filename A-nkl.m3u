@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1,Aretha_Franklin_-_0_-_The_United_Arab_Emirates_-_
+302 https://streaming.exclusive.radio/er/arethafranklin/icecast.audio
+#EXTINF:-1,CKMW-FM_"Country_88.9"_Winkler_-__MB___-_64_-_Canada_-_country
+200 https://live.cnnindonesia.com/livecnn/smil:cnntv/chunklist.m3u8
+#EXTINF:-1,DrGnu_-_Metallica_-_0_-_Germany_-_1990s_-_20th_century_-_ac/dc_-_acdc_-_alternative_-_anthrax_-_art_rock_-_avant_garde_-_classic_-_cream_-_danzig_-_dark_knight_-_der_dunkle_parabelritter_-_drgnu_-_europe_-_experimental_-_festivals_-_folk_rock_-_foo_fighters_-_garage_punk_-_gig_-_glam_rock_-_gothic_-_grunge_-_hardcore_-_heavy_metal_-_heavy_rock_-_hendrix_-_hits_-_indie_-_influencer_-_iron_maiden_-_james_taylor_-_knight_-_korn_-_led_zeppelin_-_linkin_park_-_live_-_livestream_-_megadeth_-_metal_-_metalcore_-_metallica_-_motorhead_-_motörhead_-_musik_-_new_age_-_new_wave_-_nirvana_-_nu_punk_-_open_air_-_paul_simon_-_pop_-_pop-rock_-_prog_-_psychedelia_-_punk_rock_-_queen_-_rainorshine_-_rhythm_and_blues_-_rock_-_rolling_stones_-_sex_pistols_-_slow_rock_-_soft_rock_-_symphonic_rock_-_system_of_a_down_-_t-rex_-_talking_heads_-_wacken_-_wacken_open_air_-_wacken_radio_-_woa
+200 https://rds3.desdeparaguay.net/movemisoras/movemisoras.stream/chunklist_w1882715633.m3u8?k=90ba439d59a58390e5abac95530dd4becd61b4e573b237e6fe0bf9eb4a529caf&exp=1693084452
+#EXTINF:-1,funklust_-_0_-_Germany_-_alternative_-_alternative_rock_-_rock
+200 https://w1.funklust.de:1937/webstream/funklust_aac.stream/chunklist_w1168470025.m3u8
+#EXTINF:-1,funklust_-_AAC_-_96000_-_Germany_-_funklust
+400 https://streaming.funklust.de:8443/heaac
+#EXTINF:-1,funklust_-_mp3_-_128000_-_Germany_-_funklust
+400 https://streaming.funklust.de:8443/mp3
+#EXTINF:-1,radio_hbw_Harz-Börde-Welle_Aschersleben_-_192_-_Germany_-_aschersleben_-_börde_-_bürgerfunk_-_bürgerradio_-_freies_radio_-_harz_-_harz-börde-welle_-_hbw_-_lokalfunk_-_lokalradio_-_lokalrundfunk_-_lokalsender_-_mansfeld-südharz_-_nkl_-_nkl_asl_-_salzlandkreis
+https://mo.ufofm.com/live/rch1.live/chunklist_w1881620473.m3u8?audio
+#EXTINF:-1,Radio_T_Karl-Marx-Stadt_(64kbps)_-_0_-_Germany_-_chemnitz_-_community_radio_-_nkl_-_radio_t
+200 http://wz4.dnip.com.br/fmunitau/fmunitau.stream/chunklist_w798344957.m3u8
+#EXTINF:-1,radio_x_-_128_-_Germany_-_frankfurt_am_main_-_lgbtiqa*_-_music_-_nkl_-_politics_-_stadtradio
+200 https://streamcdng2-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/radiounoita1/hls/radiounoita1_320/chunklist.m3u8
+#EXTINF:-1,Rundfunk-Kombinat_Sachsen_-_320_-_Germany_-_chemnitz_-_coloradio_-_dresden_-_leipzig_-_nicht-kommerzielles_lokalradio_-_nkl_-_radio_blau_-_radio_t_-_radio_zett_-_rundfunkkombinat_-_sachsen_-_zittau
+200 http://capeant.antfarm.co.za:1935/salaam/salaam.stream/chunklist_w1196116988.m3u8
+#EXTINF:-1,STREETFIGHTER_-_128_-_Germany_-_metal_-_wilde_mischung_diverse_metal-stilrichtungen_inkl._ruhigerer_songs_im_wechsel
+200 http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=693701106
+#EXTINF:-1,WGAO_88.1_"Power_88"_Dean_College_-__Franklin_-__MA_(MP3)_-_56_-_The_United_States_Of_America_-_alternative_rock_-_classic_rock_-_college_radio_-_franklin
+200 https://rtsradio-live.morescreens.com/RTS_2_002/audio/chunklist.m3u8
