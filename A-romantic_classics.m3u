@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF:-1,Радио_Romantika
+404 https://ic4.101.ru:8000/s30
+#EXTINF:-1,Fórmula_Melódica
+400 https://s2.yesstreaming.net:9085/stream
+#EXTINF:-1,La_Buena_Onda
+400 https://s2.yesstreaming.net:9094/stream
+#EXTINF:-1,Mundo_96.5
+200 https://tv.radiohosting.online:8556/stream
+#EXTINF:-1,Recuerdo
+200 https://live.zuperdns.net/1026/stream/;stream.mp3
+#EXTINF:-1,Love_FM_101.5
+200 https://ss1.audiorama.com.mx:6632/;stream
+#EXTINF:-1,La_Romántica
+302 https://stream-045.zeno.fm/q5f7ne3sb18uv?zs=nnDYpPRDQ9SV2PytApiyag
+#EXTINF:-1,Pasion_FM
+302 https://stream-107.zeno.fm/1qhuwrman5zuv?zs=jhgPOVFZTJuoSrPrSDbtBw
+#EXTINF:-1,Stereo_Vida
+https://server2.sit-mexico.com:2199/proxy/stereovidanl?mp=/stream
+#EXTINF:-1,Radio_UASLP
+http://transmisiones.uaslp.mx:8000http:/adiofm.mp3
+#EXTINF:-1,La_Romántica_99.9_FM
+https://grupooro3.centrocibernetico.com/
+#EXTINF:-1,La_Comadre
+403 https://21933.live.streamtheworld.com:443/XHVTHFM_SC
+#EXTINF:-1,Vida_(Acapulco)_-_89.7_FM_-_XHKJ-FM_-_Grupo_Audiorama_Comunicaciones_-_Acapulco,_GR
+200 https://ss1.audiorama.com.mx:6610/;
+#EXTINF:-1,Hits_(Tampico)_-_88.5_FM_-_XHFW-FM_-_Multimedios_Radio_-_Tampico,_TM
+403 https://21933.live.streamtheworld.com:443/XHFW_SC
+#EXTINF:-1,Vida_(Mexicali)_-_1370_AM_-_XEHG-AM_-_Grupo_Audiorama_Comunicaciones_-_Mexicali,_BC
+200 http://s1.audiorama.mx:6596/;
+#EXTINF:-1,Amor_Solo_Pop_(iHeart_Radio)_-_Online_-_ACIR_Online_/_iHeart_Radio_-_Ciudad_de_México
+403 https://18543.live.streamtheworld.com:443/ACIR03_S01AAC.aac
+#EXTINF:-1,Oreja_FM_(Oaxaca)_-_105.7_FM_/_990_AM_-_XHIU-FM_/_XEIU-AM_-_Corporativo_ASG_-_Oaxaca,_OA
+https://server3.sit-mexico.com:2199/proxy/orejaoax?mp=/stream
+#EXTINF:-1,Amor_de_Dos_(iHeart_Radio)_-_Online_-_ACIR_Online_/_iHeart_Radio_-_Ciudad_de_México
+403 https://14083.live.streamtheworld.com:443/ACIR02_S01AAC.aac
+#EXTINF:-1,Amor_de_mis_Amores_(iHeart_Radio)_-_Online_-_ACIR_Online_/_iHeart_Radio_-_Ciudad_de_México
+403 https://27143.live.streamtheworld.com:443/ACIR21_S01AAC.aac
+#EXTINF:-1,Amor_en_Concierto_(iHeart_Radio)_-_Online_-_ACIR_Online_/_iHeart_Radio_-_Ciudad_de_México
+403 https://17813.live.streamtheworld.com:443/ACIR39_S01AAC.aac
+#EXTINF:-1,Hits_(Torreón)_-_93.1_FM_-_XHCTO-FM_-_Multimedios_Radio_-_Torreón,_Coahuila
+403 https://21933.live.streamtheworld.com:443/XHCTOFM_SC
+#EXTINF:-1,Love_FM_(León)_-_101.5_FM_-_XHVLO-FM_-_Grupo_Audiorama_Comunicaciones_-_León,_Guanajuato
+200 https://ss1.audiorama.com.mx:6632/lovefm
+#EXTINF:-1,Hits_(Tampico)_-_88.5_FM_-_XHFW-FM_-_Multimedios_Radio_-_Tampico,_Tamaulipas
+403 https://26603.live.streamtheworld.com:443/XHFWAAC.aac
+#EXTINF:-1,Hits_(Reynosa)_-_90.1_FM_-_XHRYS-FM_-_Multimedios_Radio_-_Reynosa,_Tamaulipas
+403 https://15113.live.streamtheworld.com:443/XHRYSFM_SC
+#EXTINF:-1,Hits_(Monterrey)_-_106.1_FM_-_XHITS-FM_-_Multimedios_Radio_-_Monterrey,_Nuevo_León
+https://20833.live.streamtheworld.com:443/HITS106AAC.aac
+#EXTINF:-1,Amor_de_Divas_(iHeart_Radio)_-_Online_-_ACIR_Online_/_iHeart_Radio_-_Ciudad_de_México
+403 https://14083.live.streamtheworld.com:443/ACIR01_S01AAC.aac
+#EXTINF:-1,Stereo_Saltillo_(Saltillo)_-_93.5_FM_-_XHQC-FM_-_Multimedios_Radio_-_Saltillo,_Coahuila
+403 https://15053.live.streamtheworld.com:443/XHQCFMAAC.aac
+#EXTINF:-1,107.1_FM_(Matamoros)_-_107.1_FM_-_XHVTH-FM_-_Multimedios_Radio_-_Matamoros,_Tamaulipas
+403 http://26483.live.streamtheworld.com:80/XHVTHFM_SC
+#EXTINF:-1,La_Lupe_(Reynosa)_-_89.1_FM_-_XHCAO-FM_-_Radio_United_-_Ciudad_Camargo_/_Reynosa,_TM
+405 https://stream-141.zeno.fm/ygs5n9g3yceuv?zs=Rc0zvPG1T7q_fdq2TvTbtQ
+#EXTINF:-1,Romántica_(Fresnillo)_-_90.3_FM_-_XHQS-FM_-_Grupo_Radiofónico_B-15_-_Fresnillo,_ZA
+404 https://ice42.securenetsystems.net/XHQS
+#EXTINF:-1,Radio_Universidad_(UASLP)_(San_Luis_Potosí)_-_88.5_FM_-_XHUSP-FM_-_UASLP_(Universidad_Autónoma_de_San_Luis_Potosí)_-_San_Luis_Potosí,_SL
+http://148.224.97.42:8000http:/adiofm.mp3
+#EXTINF:-1,Amor_(Mérida)_-_100.1_FM_-_XHYU-FM_-_Grupo_SIPSE_Radio_-_Mérida,_YU
+https://webprod.sipse.com.mx:8080/amor
+#EXTINF:-1,Estéreo_Vida_(Zihuatanejo)_-_90.5_FM_-_XHZIH-FM_-_Radiorama_-_Zihuatanejo,_GR
+400 https://secure.radiorama.mx:2073/
+#EXTINF:-1,Stereo_Vida_(Cuernavaca)_-_90.3_FM_-_XHJPA-FM_-_Radiorama_-_Cuernavaca,_MO
+https://secure.radiorama.mx:2099/
+#EXTINF:-1,Love_FM_(Chihuahua)_-_90.1_FM_-_XHUA-FM_-_Grupo_Audiorama_Comunicaciones_-_Chihuahua,_CH
+200 https://ss1.audiorama.com.mx:6650/;
+#EXTINF:-1,Vida_(Acapulco)_-_89.7_FM_-_XHKJ-FM_-_Grupo_Audiorama_Comunicaciones__-_Acapulco,_GR
+200 https://ss1.audiorama.com.mx:6610/vida
+#EXTINF:-1,La_Lupe_(Tampico)_-_94.9_FM_-_XHTW-FM_-_Multimedios_Radio_-_Tampico,_TM
+403 https://26483.live.streamtheworld.com:443/XHTW_SC
+#EXTINF:-1,La_Lupe_(Ensenada)_-_94.7_FM_-_XHPENS-FM_-_Multimedios_Radio_-_Ensenada,_BC
+403 https://21933.live.streamtheworld.com:443/XHHCFM_SC
+#EXTINF:-1,Radio_Recuerdos_Y_Más
+405 https://stream-154.zeno.fm/z2vpwptfs2zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6MnZwd3B0ZnMyenV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkR2aDBWVFNlU0EyQVBVUG9ZckxHcEEiLCJpYXQiOjE3MjY0MjEyMzEsImV4cCI6MTcyNjQyMTI5MX0.MyVV1_daqcpfl4umkwUEQfr7krpjzg4GURLK4pEmpLI
+#EXTINF:-1,Musical_Stereo
+200 https://sonic.paulatina.co/8156/stream

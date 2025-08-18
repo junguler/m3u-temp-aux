@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1,_DEEJAY_REMIXE__Your_Radio_for_finest_House_-__EDM_-__Electro_-__Dance_-__Mashup_-__Hypertechno_-__Techno_-__Bootleg_-__Charts_-__Top40_-__Chillout_-__Lounge_-__HipHop_-__Urban_&_Latin_Party_DJ_Remixes!_-_192_-_Germany_-_#mashup_-_bass_-_beach_music_-_breaks_-_breakz_-_breakzfm_-_charts_-_chill_-_chill_house_-_chillout_-_club_-_club_dance_electronic_house_trance_-_clubbing_-_dance_-_deejay_-_deep_house_-_dj_mix_-_dj_mixes_-_dj_remix_-_dj_sets_-_djmix_-_edm_-_electronic_-_electronic_dance_music_-_electronic_music_-_electropop_-_hard_techno_-_high_energy_-_house_-_houseparty_-_hypertechno_-_latin_pop_-_local_radio_-_lounge_-_mashup_-_mixtape_-_music_non_stop_-_online_-_online_radio_-_party_-_partymix_-_partymusik_-_pool_beach_bar_-_promodj_-_public_radio_-_rap_hiphop_rnb_-_reggaeton_-_remix_-_remixed_-_remixes_-_rnb_-_smooth_-_techno_-_top_40_-_urban
+301 http://www.181.fm/stream/pls/181-energy93.pls
+#EXTINF:-1,181.FM_Classic_Energy_-_64_-_The_United_States_Of_America_-_2000s_dance_-_classic_energy
+https://listen.181fm.com/181-classicenergy_64k.aac
+#EXTINF:-1,Digital_80s_Radio_-_128_-_Mexico_-_hi_nrg_-_high_energy_-_italo_disco_-_new_beat_-_technoi
+400 http://ph-icecast.eradioportal.com:8000/energyfm_manila
+#EXTINF:-1,energy_93_-_0_-_Germany_-_eurodance
+404 http://master.shoutcast.com:8000/energy93
+#EXTINF:-1,Magic_Disco_Radio_-_256_-_Hungary_-_hi-energy_-_italo_disco_-_new_italo_disco
+200 https://edge09.streamonkey.net/energy-dance/stream/mp3?aggregator=shorty
+#EXTINF:-1,NRJ_Брянск_88.6_FM_-_96_-_The_Russian_Federation_-_88_6_-_bryansk_-_energy_-_music_-_nrj_-_pop_-_region_32
+200 http://pub0101.101.ru:8000/stream/reg/mp3/128/region_energy_121
+#EXTINF:-1,NRJ_Владимир_105.3_FM_-_128_-_The_Russian_Federation_-_105_3_fm_-_dance_-_energy_-_music_-_nrj_-_pop_-_vladimir
+200 http://pub0101.101.ru:8000/stream/reg/mp3/128/region_energy_106
+#EXTINF:-1,NRJ_Вологда_106.9_FM_-_128_-_The_Russian_Federation_-_energy_radio_-_music_-_pop_-_region_35_-_vologda
+200 http://pub0101.101.ru:8000/stream/reg/aac/64/region_energy_155
+#EXTINF:-1,NRJ_Волоколамск_106.0_FM_-_64_-_The_Russian_Federation_-_energy_-_music_-_pop_-_region_50_-_volokolamsk
+200 http://pub0101.101.ru:8000/stream/reg/mp3/128/region_energy_67
+#EXTINF:-1,NRJ_Воронеж_101.1_FM_-_128_-_The_Russian_Federation_-_energy_-_music_-_nrj_-_pop_-_voronezh
+200 http://82.146.46.30:8000/energy
+#EXTINF:-1,NRJ_Дубна_102.4_FM_-_64_-_The_Russian_Federation_-_dubna_-_energy_-_music_-_pop
+200 https://pub0101.101.ru:8000/stream/reg/mp3/128/region_energy_160
+#EXTINF:-1,NRJ_Казань_92.3_FM_-_128_-_The_Russian_Federation_-_kazan'_-_music_-_nrj_-_pop_-_radio_energy_-_tatarstan
+200 http://pub0101.101.ru:8000/stream/reg/mp3/128/region_energy_55
+#EXTINF:-1,NRJ_Киров_89.6_FM_-_256_-_The_Russian_Federation_-_energy_radio_-_kirov_-_music_-_pop_-_region_43
+200 https://pub0101.101.ru:8000/stream/reg/mp3/128/region_energy_253
+#EXTINF:-1,NRJ_Кострома_98.9_FM_-_128_-_The_Russian_Federation_-_energy_-_hit_music_only_-_kostroma_-_music_-_pop
+404 http://pub0101.101.ru:8000/stream/reg/aac/64/region_energy_46
+#EXTINF:-1,NRJ_Нижний_Новгород_96.8_FM_-_128_-_The_Russian_Federation_-_music_-_nizhniy_novgorod_-_nrj_-_pop_-_radio_energy
+200 http://pub0101.101.ru:8000/stream/reg/mp3/128/region_energy_33
+#EXTINF:-1,NRJ_Тамбов_101.8_FM_-_128_-_The_Russian_Federation_-_energy_radio_-_music_-_pop_-_region_68_-_tambov
+200 https://pub0101.101.ru:8000/stream/reg/mp3/128/region_energy_133
+#EXTINF:-1,NRJ_Тула_101.4_FM_-_128_-_The_Russian_Federation_-_energy_-_energy_radio_-_music_-_pop_-_region_71_-_tula
+200 http://pub0101.101.ru:8000/stream/reg/mp3/128/region_energy_109
+#EXTINF:-1,Positively_Energy_-om_-_0_-_The_United_Arab_Emirates_-_ambient_and_relaxation_music_-_energy_-_meditation
+200 https://streaming.positivity.radio/pr/energy/icecast.audio
+#EXTINF:-1,Radio_Dacia_Energie_-_192_-_Romania_-_dance_-_energy_-_hits_-_house_-_pop
+302 http://frontend.streamonkey.net/energy-stuttgart/stream/aacp
+#EXTINF:-1,Radio_Menergy_-_128_-_France_-_
+200 http://radiomenergy.ice.infomaniak.ch/radiomenergy-128.mp3
+#EXTINF:-1,RADIO_R_Energy_-_192_-_Lithuania_-_energy_-_russian
+200 https://53a7ed211fc32.streamlock.net/asmedia/radio_s_energy/playlist.m3u8
+#EXTINF:-1,Sfliny_Dance_Music_-_320_-_The_United_States_Of_America_-_club_-_dance_-_dance_pop_-_gay_-_hi_energy
+200 http://149.13.0.80/energy-90s

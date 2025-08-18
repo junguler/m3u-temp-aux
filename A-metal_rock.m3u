@@ -1,0 +1,117 @@
+#EXTM3U
+#EXTINF:-1,Deep_Flow_Metal
+200 http://puma.streemlion.com:5150/stream
+#EXTINF:-1,Radio_Eska_ROCK_W_Ciezkim_Stanie
+http://s3.deb1.scdn.smcloud.net/t018-1.mp3
+#EXTINF:-1,Wave_FM_88
+http://prdonline.prd.go.th:8200
+#EXTINF:-1,102.9_Astral
+404 https://streaming.rcs.com.sv/8012//astral
+#EXTINF:-1,Metal_Nation_Radio
+http://198.100.145.185:8900/
+#EXTINF:-1,FCK_FM
+404 https://streamer.radio.co/s23eb1dc4e/listen
+#EXTINF:-1,Radio-M_Bechhofen
+200 https://radio-m.stream.laut.fm/radio-m
+#EXTINF:-1,Metal_Station
+200 http://metalstation.stream.laut.fm/metalstation
+#EXTINF:-1,Warclub_Radio
+301 http://streaming.radionomy.com/Quisqueya
+#EXTINF:-1,TeamRock_Radio
+404 http://icy-e-05-gos.sharp-stream.com/teamrock.aac
+#EXTINF:-1,Radio_Bagwahn
+200 https://radiobagwahn.stream.laut.fm/radio_bagwahn
+#EXTINF:-1,Fatal_Station
+302 http://listen.radionomy.com/fatalstation
+#EXTINF:-1,Ianos_Radio
+http://stream8040.radioname.net:8040/ianos.mp3
+#EXTINF:-1,IRS_Network
+http://148.163.79.102:9952
+#EXTINF:-1,Netrock101_Fm
+404 https://streamingv2.shoutcast.com/NETROCK101THEANIMAL
+#EXTINF:-1,ZanZana_Web_Radio
+301 http://streaming.radionomy.com/ZanZanAMetaLWebRadiO
+#EXTINF:-1,ROCK_100.9
+http://icecast-rock1009.rncm.ca/rock1009.mp3
+#EXTINF:-1,Rockradio.lt
+https://cast2.my-control-panel.com/proxy/vladas/stream
+#EXTINF:-1,Hard_Rock_Heaven_Radio
+200 http://hydra.cdnstream.com:80/1521_128
+#EXTINF:-1,Pure_Steele_Radio
+http://69.10.36.226:8248
+#EXTINF:-1,Kras_Metal_FM
+http://109.195.67.198:8000/krasmetalfm
+#EXTINF:-1,Rock_Me_69
+http://66.85.88.18:5169/stream
+#EXTINF:-1,KNAC_Pure_Rock
+http://s5.voscast.com:7346/
+#EXTINF:-1,BCC_Rock_Radio
+200 https://radio12.pro-fhi.net/radio/9134/stream.mp3
+#EXTINF:-1,Rhythm_Place_-_Rock
+https://stream.rcast.net/260121
+#EXTINF:-1,ROCK_FM_Metallica
+https://stream.rcast.net/258358
+#EXTINF:-1,ROCK_FM_Metal
+https://stream.rcast.net/258356
+#EXTINF:-1,ROCK_y_METAL
+200 https://cesarradio.realserver.es/listen/rock_y_metal/radio.mp3
+#EXTINF:-1,Best_of_Rock_FM_-_Metallica
+302 https://bestofrockfm.stream.vip/metallica/mp3-256/bestofrock.fm/
+#EXTINF:-1,Metal_Rock_Radio
+https://stream.rcast.net/256900
+#EXTINF:-1,METAL_ROCK_RADIO_Stream
+https://stream.rcast.net/255575
+#EXTINF:-1,Radio_14_-_Your_Pop_Rock_Metal_Radio_Station_!
+https://stream.rcast.net/255006
+#EXTINF:-1,MetalRock.FM
+https://stream.rcast.net/254407
+#EXTINF:-1,THE_BLASTOZOIC_ERA_Classic_Christian_Rock/Alternativ/_Metal_low_bit_rate_stream
+https://stream.rcast.net/253670
+#EXTINF:-1,THE_BLAST_Christian_Rock_and_Metal_low_bit_rate_stream
+https://stream.rcast.net/253094
+#EXTINF:-1,Metal_Express_Radio
+https://stream.rcast.net/250647
+#EXTINF:-1,REGENBOGEN_2_Metal
+https://stream.rcast.net/250582
+#EXTINF:-1,MIX_ROCK_METAL_RADIO
+https://stream.rcast.net/249741
+#EXTINF:-1,ROCK_ANTENNE_Modern_Metal
+https://stream.rockantenne.de/modern-metal/stream/mp3
+#EXTINF:-1,SONGCAST_RADIO_-_Hard_Rock_&_Metal
+https://stream.rcast.net/247395
+#EXTINF:-1,100_XR_Radio
+400 https://xr.dockl.com/stream
+#EXTINF:-1,Black_FM_Kiev
+http://78.129.190.50:12897/
+#EXTINF:-1,Core_Mix
+200 http://core-mix.stream.laut.fm/core-mix
+#EXTINF:-1,Depressive_Metal_Rock
+http://66.199.160.197:8222
+#EXTINF:-1,EKR_Extra
+http://ekrrockradio1.scs.ms:8100/
+#EXTINF:-1,Hard_Rock_Heaven
+200 http://hydra.cdnstream.com/1521_128
+#EXTINF:-1,Hard_Rock_Radio_Hungary
+http://stream.hardrockradio.hu:8002/
+#EXTINF:-1,Heat_Radio
+http://ams01.egihosting.com:9108/
+#EXTINF:-1,Kis_Rock
+401 https://node-26.zeno.fm/2nbxgbynb18uv
+#EXTINF:-1,Metalogie.live
+302 https://stream.zeno.fm/3zqcvh4etuhvv
+#EXTINF:-1,Power_Prog_Radio
+http://streamplus7.leonex.de:28174
+#EXTINF:-1,Radio_ILR_FM
+http://178.32.139.167:8286
+#EXTINF:-1,Radio_Metal
+http://stream.radiometal.com:8010/
+#EXTINF:-1,Radio_Metal_Generation
+http://streaming20.brlogic.com:8100/live?type=.mp3
+#EXTINF:-1,Radio_SERT
+http://www.radiosert.com:8000/
+#EXTINF:-1,Rock_Antenne
+http://mp3channels.webradio.rockantenne.de/heavy-metal
+#EXTINF:-1,Rock_Radio
+http://pub7.rockradio.com/rr_classicrock?type=.mp3
+#EXTINF:-1,ROCKSTATION
+200 http://rs11.stream24.org:8130/

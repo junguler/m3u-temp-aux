@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1,-_1_A_-_Entspannt_von_1A_Radio_-_64_-_Germany_-_chillout_-_easy_listening_-_jazz_-_various
+400 https://1a-entspannt.radionetz.de/1a-entspannt.aac
+#EXTINF:-1,-_1_A_-_Entspannt_von_1A_Radio_-_128_-_Germany_-_chillout_-_easy_listening_-_jazz_-_various
+400 https://1a-entspannt.radionetz.de/1a-entspannt.mp3
+#EXTINF:-1,1.FM_-_Exitos_del_Ayer_Radio_-_320_-_Switzerland_-_spanish
+200 http://strm112.1.fm/spanisholdies_mobile_mp3
+#EXTINF:-1,1.FM_-_Total_Hits_En_Español_Radio_-_192_-_Switzerland_-_spanish
+200 http://strm112.1.fm/spanishtophits_mobile_mp3
+#EXTINF:-1,Aspan_FM_-_192_-_Kazakhstan_-_etno_-_kazakh_music_-_kazakh_pop_-_pop
+400 http://77.240.38.228:8000/aspanfm
+#EXTINF:-1,C-SPAN_-_40_-_The_United_States_Of_America_-_c-span_-_cspan_-_spanish_pop
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/CSPANRADIO.mp3
+#EXTINF:-1,C-SPAN_Radio_-_40_-_The_United_States_Of_America_-_
+200 https://provisioning.streamtheworld.com/pls/CSPANRADIO.pls
+#EXTINF:-1,DCLM_Radio_-_Spanish/Español_-_64_-_The_United_States_Of_America_-_christian
+200 https://airtime.dclm.org/radio/8100/spanish
+#EXTINF:-1,En_Familia_Radio_740_AM_-_0_-_The_United_States_Of_America_-_spanish_christian
+200 https://spanel.gcomstreaming.com/8030/stream
+#EXTINF:-1,Espana_Network_-_128_-_Spain_-_
+200 https://ewtn-ice.streamguys1.com/spanish-aac
+#EXTINF:-1,Exclusively_Steeleye_Span_-_0_-_The_United_Arab_Emirates_-_british_folk_rock
+200 https://nl4.mystreaming.net/er/steeleyespan/icecast.audio
+#EXTINF:-1,LOS40_Oaxaca_-_89.7_FM_-_XHOCA-FM_-_Grupo_Radio_Cañón_-_Oaxaca_-__Oaxaca_-_128_-_Mexico_-_89.7_fm_-_américa_-_contemporary_hits_-_contemporary_hits_radio_-_entretenimiento_-_español_-_estación_-_fm_-_grupo_radio_cañón_-_juvenil_-_latinoamérica_-_los40_-_moi_merino_-_music_-_méxico_-_música_-_música_en_español_e_inglés_-_música_pop_-_norteamérica_-_ntr_medios_de_comunicación_-_oaxaca_-_oaxaca_city_-_pop_-_pop_en_español_e_inglés_-_pop_music_-_pop_rock_-_radio_-_radiópolis_-_spanish_contemporary_hits_-_star_group_-_top_-_top_40_-_top_40_hits_-_top_charts_-_top_hits
+200 https://loveradio.streamingmedia.it/espana
+#EXTINF:-1,Onda_Espana_-_0_-_Spain_-_
+200 https://streaming.livespanel.com:9430/stream
+#EXTINF:-1,R.SA_Hinhoerkanal_-_0_-_Germany_-_bibel_-_entschleunigen_-_entspannen_-_gedanken_-_glauben_-_hinhören_-_hinhörkanal_-_r.sa_-_sinn_-_zitate
+200 https://streaming.livespanel.com:8990/stream
+#EXTINF:-1,Radio_Latina_(Tijuana)_-_104.5_FM_-_XHLTN-FM_-_Grupo_Imagen_-_Tijuana_-__Baja_California_-_40_-_Mexico_-_104.5_fm_-_américa_-_baja_california_-_california_-_entretenimiento_-_español_-_estación_-_fm_-_grupo_imagen_-_latin_-_latin_music_-_latin_pop_-_latinoamérica_-_moi_merino_-_music_-_méxico_-_música_-_música_en_español_-_música_pop_-_norteamérica_-_pop_-_pop_latino_-_pop_music_-_pop_rock_-_radio_-_radio_latina_-_san_diego_-_spanish_contemporary_hits_-_tijuana_-_usa
+200 https://streaming.livespanel.com:21023/maranofm
+#EXTINF:-1,Radio_Regenbogen_Soft_&_Lazy_-_0_-_Germany_-_ambient_-_chillout_-_entspannung_-_lounge_-_soft_pop
+200 https://spanel.gcomstreaming.com:7004/;
+#EXTINF:-1,Radio_Spannenburg_-_192_-_The_Netherlands_-_music_-_news
+400 https://stream.radiospannenburg.nl/radiospannenburg
+#EXTINF:-1,Radio_Ysapy_90.7_FM_-_128_-_Paraguay_-_dance_-_pop_-_spanish_-_top_40
+400 https://stream.radiomv.com/spanish/stream.mp3
+#EXTINF:-1,RadioMV_Spanish_-_128_-_Spain_-_christian
+https://ice.radiomv.co:8440/spanish.mp3
+#EXTINF:-1,Rock_Radioo_-_128_-_Spain_-_blues_rock_-_classic_rock_-_hard_rock_-_heavy_metal_-_rock_-_spanish_rock
+302 http://streams.rpr1.de/rpr-entspannung-128-mp3
+#EXTINF:-1,Segenswelle_Espanol_-_64_-_Spain_-_christian
+400 http://segenswelle.de:8000/espanol
+#EXTINF:-1,Ultra_Radio_Richmond_-_128_-_The_United_States_Of_America_-_pop-music_-_spanish_radio
+200 https://st1.urbanrevolution.es:8443/hispano
+#EXTINF:-1,WCSP_90.1_"C-SPAN_Radio"_Washington_-__DC_-_40_-_The_United_States_Of_America_-_current_affairs_-_national_news_-_news_-_politics
+301 http://provisioning.streamtheworld.com/pls/CSPANRADIO.pls

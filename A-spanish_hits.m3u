@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF:-1,Éxitos_98.9_FM
+http://192.187.112.50:8359/;stream.mp3
+#EXTINF:-1,Ultra_Radio
+https://icecastultra.duckdns.org/livetul
+#EXTINF:-1,La_Más_Picuda
+http://192.99.16.17:8024/;
+#EXTINF:-1,Studio_93.1
+403 https://26373.live.streamtheworld.com:443/XHMZTFMAAC.aac
+#EXTINF:-1,Hits_(Tampico)_-_88.5_FM_-_XHFW-FM_-_Multimedios_Radio_-_Tampico,_TM
+403 https://21933.live.streamtheworld.com:443/XHFW_SC
+#EXTINF:-1,La_Zeta_(Hermosillo)_-_93.9_FM_-_XHMV-FM_-_Uniradio_-_Hermosillo,_Sonora
+200 https://streamingcwsradio30.com:7027/stream?type=http&nocache=1
+#EXTINF:-1,KSEH_&quot;Radio_Jose_94.5&quot;_Brawley,_CA
+403 http://26273.live.streamtheworld.com:80/KSEHFMAAC_SC
+#EXTINF:-1,KSXY-HD2_&quot;Latino_95.5&quot;_Forestville,_CA
+403 http://23113.live.streamtheworld.com:80/KSXYHD2AAC_SC
+#EXTINF:-1,KRRN_&quot;Super_Estrella_92.7&quot;__Moapa_Valley,_NV
+403 http://18733.live.streamtheworld.com:80/KRRNFMAAC_SC
+#EXTINF:-1,La_Lupe_(San_Luis_Potosí)_-_104.9_FM_-_XHCZ-FM_-_Multimedios_Radio_-_San_Luis_Potosí,_San_Luis_Potosí
+403 https://18303.live.streamtheworld.com:443/XHCZFMAAC.aac
+#EXTINF:-1,La_Lupe_(Monterrey)_-_105.3_FM_-_XHLUPE-FM_-_Multimedios_Radio_-_Monterrey,_Nuevo_León
+403 https://24073.live.streamtheworld.com:443/XHPAGFMAAC.aac
+#EXTINF:-1,La_Lupe_(Guadalajara)_-_99.9_FM_-_XHKB-FM_-_Multimedios_Radio_-_Guadalajara,_Jalisco
+403 https://18063.live.streamtheworld.com:443/XHKB_FMAAC.aac
+#EXTINF:-1,La_Lupe_(Culiacán)_-_90.7_FM_-_XHCCCC-FM_-_Multimedios_Radio_-_Culiacán,_Sinaloa
+403 https://26253.live.streamtheworld.com:443/XHCCCCFMAAC.aac
+#EXTINF:-1,KVVA_107.1_&amp;_106.9_&quot;Jose_FM&quot;_Apache_Junction,_AZ
+403 http://18733.live.streamtheworld.com:80/KVVAFMAAC_SC
+#EXTINF:-1,Hits_(Torreón)_-_93.1_FM_-_XHCTO-FM_-_Multimedios_Radio_-_Torreón,_Coahuila
+403 https://21933.live.streamtheworld.com:443/XHCTOFM_SC
+#EXTINF:-1,Exa_FM_San_Luis_Potosí_-_102.1_FM_-_XHESL-FM_-_MG_Radio_-_San_Luis_Potosí,_San_Luis_Potosí
+https://playradio.mx/proxy/exafm?mp=/stream
+#EXTINF:-1,Ultra_(Toluca)_-_101.3_FM_-_XHZA-FM_-_Grupo_ULTRA_-_Toluca,_Estado_de_México
+400 https://icecastultra.duckdns.org/livetol
+#EXTINF:-1,Ultra_(Huauchinango)_-_91.7_FM_-_XHPHBP-FM_-_Grupo_ULTRA_-_Huauchinango,_Puebla
+https://icecastultra.duckdns.org/livehua
+#EXTINF:-1,Ultra_(Cadereyta)_-_92.3_FM_-_XHPCMQ-FM_-_Grupo_ULTRA_-_Cadereyta,_Querétaro
+https://icecastultra.duckdns.org/livecad
+#EXTINF:-1,Hits_(Tampico)_-_88.5_FM_-_XHFW-FM_-_Multimedios_Radio_-_Tampico,_Tamaulipas
+403 https://26603.live.streamtheworld.com:443/XHFWAAC.aac
+#EXTINF:-1,Hits_(Reynosa)_-_90.1_FM_-_XHRYS-FM_-_Multimedios_Radio_-_Reynosa,_Tamaulipas
+403 https://15113.live.streamtheworld.com:443/XHRYSFM_SC
+#EXTINF:-1,Hits_(Monterrey)_-_106.1_FM_-_XHITS-FM_-_Multimedios_Radio_-_Monterrey,_Nuevo_León
+https://20833.live.streamtheworld.com:443/HITS106AAC.aac
+#EXTINF:-1,Stereo_Saltillo_(Saltillo)_-_93.5_FM_-_XHQC-FM_-_Multimedios_Radio_-_Saltillo,_Coahuila
+403 https://15053.live.streamtheworld.com:443/XHQCFMAAC.aac
+#EXTINF:-1,KSES_&quot;Jose_107.1&quot;_Seaside,_CA
+403 http://23023.live.streamtheworld.com:80/KSESFMAAC_SC
+#EXTINF:-1,Ultra_(Puebla)_-_92.5_FM_-_XHZM-FM_-_Grupo_ULTRA_-_Puebla,_Puebla
+400 https://icecastultra.duckdns.org/livepue
+#EXTINF:-1,La_Lupe_(Ciudad_Juárez)_-_640_AM_-_XEJUA-AM_-_Multimedios_Radio_-_Ciudad_Juárez,_Chihuahua
+400 https://streaming.multimedios.com/station4
+#EXTINF:-1,La_Lupe_(Tepic)_-_88.3_FM_-_XHPCTN-FM_-_Multimedios_Radio_-_Compostela/Tepic,_Nayarit
+403 https://18303.live.streamtheworld.com:443/XHPCTNFMAAC.aac
+#EXTINF:-1,Arroba_FM_(Poza_Rica)_-_89.3_FM_-_XHRRR-FM_-_Radiorama_-_Poza_Rica,_Veracruz
+302 https://stream-057.zeno.fm/dctbwwp9d78uv?zs=Tn70NrVjSCKYxCrXL2AjYA
+#EXTINF:-1,Arroba_FM_(Puebla)_-_96.1_FM_-_XHEZAR-FM_-_Radiorama_-_Puebla,_Puebla
+302 https://stream-037.zeno.fm/pfyc6yp9d78uv?zs=B2FedYsHS2Cw49rRw22Ing
+#EXTINF:-1,Arroba_FM_(Ciudad_de_México)_-_Online_-_www.arroba.fm_-_Radiorama_-_Ciudad_de_México
+405 https://stream-154.zeno.fm/6vtcayf9d78uv?zs=4xWwNi_wSn6me2STF0G2pQ
+#EXTINF:-1,KCVR_&quot;Super_Estrella_98.9&quot;_Lodi,_CA
+403 http://23023.live.streamtheworld.com:80/KCVRFMAAC_SC
+#EXTINF:-1,KTSE_&quot;Jose_97.1&quot;_Patterson,_CA
+403 http://18733.live.streamtheworld.com:80/KTSEFMAAC_SC
+#EXTINF:-1,KNVO_&quot;Jose_101.1&quot;_Port_Isabel,_TX
+403 http://26273.live.streamtheworld.com:80/KNVOFMAAC_SC
+#EXTINF:-1,KRZY-FM_&quot;Jose_105.9&quot;_Santa_Fe,_NM
+403 http://27143.live.streamtheworld.com:80/KRZYFMAAC_SC
+#EXTINF:-1,Exa_FM_(La_Piedad)_-_89.9_FM_-_XHLP-FM_-_Guizar_Comunicación_Integral_-_La_Piedad,_Michoacán
+302 https://stream-021.zeno.fm/fc7ydby53hhvv?zs=X6GVTOwGTqO6gk5r21eqTQ
+#EXTINF:-1,La_Lupe_(Chihuahua)_-_104.5_FM_-_XHCHA-FM_-_Multimedios_Radio_-_Chihuahua,_Chihuahua
+403 https://24273.live.streamtheworld.com:443/XHHEMFMAAC.aac
+#EXTINF:-1,La_Lupe_(Linares)_-_104.9_FM_-_XHLN-FM_-_Multimedios_Radio_-_Linares,_Nuevo_León
+403 https://22113.live.streamtheworld.com:443/XERAMAAC.aac
+#EXTINF:-1,La_Luperrona_(Ocotlán)_-_91.1_FM_-_XHAN-FM_-_Ocotlán,_Jalisco
+http://192.99.16.17:8026/;

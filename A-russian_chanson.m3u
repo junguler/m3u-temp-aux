@@ -1,0 +1,97 @@
+#EXTM3U
+#EXTINF:-1,Radio_Unost
+403 https://www.liveradio.es/http://icecast-vgtrk.cdnvideo.ru/unost_mp3_192kbps
+#EXTINF:-1,Russian!_Radio
+200 http://play.russianradio.eu/
+#EXTINF:-1,bigFM_Muzyka
+302 https://streams.bigfm.de/bigfm-russia-128-mp3?usid=0-0-H-M-D-23
+#EXTINF:-1,bigFM_World_Beats
+302 https://streams.bigfm.de/bigfm-worldbeats-128-mp3?usid=0-0-H-M-D-08
+#EXTINF:-1,BrooklynFM_(BFM)
+200 https://stream.bfmradio.us/stream128/
+#EXTINF:-1,Odessa_Mama
+403 https://www.liveradio.es/http://online.odessa.fm:8000/stream
+#EXTINF:-1,Русское_Радио_-_Высоцкий
+https:/http:/r-vysockij.hostingradio.ru/vysockij96.aacp
+#EXTINF:-1,Радио_Блатняк
+404 https://pub0302.101.ru:8000/stream/personal/aacp/64/675938
+#EXTINF:-1,101.ru_-_Дискотека_СССР
+200 https://pub0302.101.ru:8000/stream/pro/aac/64/144?
+#EXTINF:-1,Радио_РОКС-М
+https://stream.hoster.byhttp:/adiorokshttp:/oks/icecast.audio
+#EXTINF:-1,Чайная_роза_радио
+https://s04.volnorez.com/live-app/788219
+#EXTINF:-1,Радио_Калина_Красная
+200 https://icecast-studio21.cdnvideo.ru/KalynaK_1a
+#EXTINF:-1,101.ru_-_Шансон
+200 https://pub0102.101.ru:8443/stream/pro/aac/64/50?
+#EXTINF:-1,Зайцев.FM_-_Шансон
+https://zaycevfm.cdnvideo.ru/ZaycevFM_shanson_256.mp3
+#EXTINF:-1,Радио_Для_Взрослых
+200 https://listen6.myradio24.com/alex542888
+#EXTINF:-1,101.ru_-_Высоцкий
+200 https://pub0202.101.ru:8443/stream/pro/aac/64/58?
+#EXTINF:-1,Радио_Бутырка
+200 https://stream03.pcradio.ru/Butirka-med
+#EXTINF:-1,Радио_Шансон_Армения
+200 https://chanson.hostingradio.ru:8041/chanson128.mp3
+#EXTINF:-1,Радио_Шансон_Плюс
+https:/http:/adio.radioshansonplus.com:8055http:/adio
+#EXTINF:-1,101.ru_-_Армейские_песни
+200 https://pub0202.101.ru:8443/stream/pro/aac/64/37?
+#EXTINF:-1,Радио_Ночное_такси
+https://c24.radioboss.fm:18237/stream
+#EXTINF:-1,Радио_Наш_Шансон
+200 https://listen2.myradio24.com/8144
+#EXTINF:-1,Мурка_FM
+200 https://murka.amgradio.ru/MurkaFM
+#EXTINF:-1,Радио_ТВ_Твоя_Волна
+200 https://icecast-tvoyavolna.cdnvideo.ru/tvoyavolna
+#EXTINF:-1,Donat_FM_-_Шансон
+200 https://c6.radioboss.fm:18096/stream
+#EXTINF:-1,Радио_Ночной_звонок
+200 https://listen7.myradio24.com/74828
+#EXTINF:-1,Радио_Михаил_Круг
+200 https://stream03.pcradio.ru/Michail_Krug-med
+#EXTINF:-1,Радио_NS_-_Шансон
+https://icecast.ns.kzhttp:/adions-shanson
+#EXTINF:-1,Радио_Калейдоскоп_-_Шансон
+200 https://listen7.myradio24.com/22602
+#EXTINF:-1,Душевное_радио
+http://85.234.104.148:8003/
+#EXTINF:-1,Радио_Сентябрь
+http://89.17.51.84:8000/live
+#EXTINF:-1,Уездное_радио
+400 http://62.192.226.178:8001/stream.ogg
+#EXTINF:-1,Радио_Колея
+https:/http:/adio-kolea.ru:1045/stream
+#EXTINF:-1,Радио_Пляж_-_Шансон
+200 https://listen7.myradio24.com/75853?
+#EXTINF:-1,Apex_Radio
+200 https://listen2.myradio24.com/8068
+#EXTINF:-1,Шансон_радио
+200 https://listen7.myradio24.com/75853
+#EXTINF:-1,Радио_Океан_Любви
+302 https://stream.volnorez.com/live-app/694642?br=192
+#EXTINF:-1,Нямкин_FM
+https://live.radiospinner.com/nymkn-96
+#EXTINF:-1,Вольтаж_-_Chas
+https:/http:/adio.voltagefm.ru:9009/VoltageCHAS_64_aac?1654065430385
+#EXTINF:-1,Миг_ФМ
+http://mix.am:8000/mig
+#EXTINF:-1,Радио_Амор
+200 https://listen7.myradio24.com/vitaxa
+#EXTINF:-1,Радио_NS_-_KZ
+https://icecast.ns.kzhttp:/adions-kz
+#EXTINF:-1,Радио_Ден_стар
+404 https://s05.volnorez.com/live-app/899946
+#EXTINF:-1,Радио_Счастливы_вместе
+404 https://listen3.myradio24.com/92472
+#EXTINF:-1,Радио_Кафе_у_Светланки_и_Сергея
+302 https://s05.volnorez.com/live-app/905822
+#EXTINF:-1,Просто_Радио_Лиепая
+400 http://89.254.163.122:8000/live
+#EXTINF:-1,Магадан_ФМ
+302 https://myradio24.org/magadanfm
+#EXTINF:-1,101.ru_-_Авторская_Песня
+200 http://ic6.101.ru:8000/stream/pro/aac/64/35

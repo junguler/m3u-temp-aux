@@ -1,0 +1,95 @@
+#EXTM3U
+#EXTINF:-1,radiocoveruno
+200 http://radiocoveruno.stream.laut.fm/radiocoveruno
+#EXTINF:-1,panda_clan_radio
+200 http://panda-clan-radio.stream.laut.fm/panda-clan-radio
+#EXTINF:-1,happyhits
+200 http://happyhits.stream.laut.fm/happyhits
+#EXTINF:-1,happyworld
+200 http://happyworld.stream.laut.fm/happyworld
+#EXTINF:-1,Радио_Ваня_-_Весёлый_Dance
+https://icecast-radiovanya.cdnvideo.ruhttp:/v_Happy_Dance
+#EXTINF:-1,Радио_7_на_семи_холмах_-_Музыка_счастья
+https:/http:/adio7.hostingradio.ru:8040http:/adio7_happiness64.aacp
+#EXTINF:-1,TechnoBase.FM
+200 https://listener3.mp3.tb-group.fm/tb.mp3
+#EXTINF:-1,Радио_Рекорд_-_Hardstyle
+https:/http:/adiorecord.hostingradio.ru/teo96.aacp
+#EXTINF:-1,Oxygen_Happy
+200 https://oxygenmusic.hu:8443/oxygenhappy_128
+#EXTINF:-1,Хит_FM_Positive
+404 https://hitfm-positive.hostingradio.ru/hitpositive96.aacp
+#EXTINF:-1,Dj_Osso_Radio
+https://stream.djossoradio.net/djosso.mp3?FLID=8
+#EXTINF:-1,Big_Land
+200 https://newcap.leanstream.co/CFLNFM-MP3
+#EXTINF:-1,NRJ_Happy_Hits
+404 https://scdn.nrjaudio.fm/fr/55127/mp3_128.mp3?origine=radiobox&aw_0_1st.station=NRJ-Happy-Hits&cdn_path=adswizz_lbs11&adws_out_2&access_token=c5e1c3ecffe3448686ec111148ac5b5e
+#EXTINF:-1,Happy_Radio_Uk
+http://playoutonestreaming.com:8026/stream
+#EXTINF:-1,HappyHardcore.com
+200 https://audio-edge-3mayu.fra.h.radiomast.io/0cef93cd-5974-43b1-868e-c739e81f4f2b
+#EXTINF:-1,Dancezone
+200 https://dancezone.stream.laut.fm/dancezone?pl=pls&t302=2023-05-09_22-00-11&uuid=65621da7-39fe-4232-9765-11a259dc217f
+#EXTINF:-1,RauteMusik_Happy_Hardcore
+http:/http:/autemusik-de-hz-fal-stream18.radiohost.de/happyhardcore
+#EXTINF:-1,Happy_FM_-_Klape
+200 http://c5.hostingcentar.com:8384/;
+#EXTINF:-1,DLR-6_大连都市广播
+400 https://lhttp.qingting.fm/live/1086/64k.mp3
+#EXTINF:-1,Happy_FM_-_Fest
+200 http://c5.hostingcentar.com:8372/;
+#EXTINF:-1,Happy_FM_-_Party
+200 http://c5.hostingcentar.com:8390/;
+#EXTINF:-1,TECHNO4EVER_MAIN
+http:/http:/autemusik-de-hz-fal-stream18.radiohost.de/club?ref=aac&amsparams=aac
+#EXTINF:-1,Happy_FM_-_Tambura
+200 http://c5.hostingcentar.com:8378/;
+#EXTINF:-1,Happy_FM_-_Legenda
+200 http://c5.hostingcentar.com:8396/;
+#EXTINF:-1,All_about_that_music
+http://88.198.10.229:9500/stream
+#EXTINF:-1,__HAPPY___by_rautemusik_(rm.fm)
+https:/http:/autemusik-de-hz-fal-stream17.radiohost.de/happy?ref=radiobrowser
+#EXTINF:-1,Technolovers_-_FRENCHCORE
+302 https://stream.technolovers.fm/frenchcore?ref=radiobrowser
+#EXTINF:-1,CBC_Radio_One_-_CFGB-FM_-_Happy_Valley-Goose_Bay_-_NL_-_89.5_FM
+200 https://cbcradiolive.akamaized.net/hls/live/2041045/ES_R1NGB/master.m3u8
+#EXTINF:-1,OpenFM_-_Happy
+http://stream.open.fm/120
+#EXTINF:-1,Laut.fm_F4biX
+200 http://f4bix.stream.laut.fm/f4bix?t302=2023-04-25_19-31-50&uuid=63b10e12-f221-423d-b03b-393d6aec464a
+#EXTINF:-1,Technolovers_HARDCORE
+302 https://stream.technolovers.fm/hardcore?ref=radiobrowser
+#EXTINF:-1,幸福调频·大安县嫩江之声
+200 http://stream7.jlntv.cn/dagb/playlist.m3u8
+#EXTINF:-1,TeaTime.FM
+https://listener1.aachd.tb-group.fm:443/tt-hd.aac
+#EXTINF:-1,HappyFM-Fuerteventura
+200 https://happyfuerteventura.streaming-pro.com:6003/live
+#EXTINF:-1,Hit_Radio_X
+http://server34992.streamplus.de/stream.mp3
+#EXTINF:-1,__HAPPY___by_rautemusik_(rm.fm)_-_192_-_Germany_-_charts_-_happy_-_happy_hits_-_happyhits_-_hits_-_hot_hits_-_pop_-_pop_music_-_top_charts
+302 https://happy-high.rautemusik.fm/?ref=radiobrowser
+#EXTINF:-1,Gohappy-Laut_FM_-_128_-_Germany_-_italo_disco
+200 https://laut.fm/gohappy-fm
+#EXTINF:-1,Happy_Rave_Radio_[90s_Happy_Hardcore]_-_320_-_The_United_States_Of_America_-_happy_hardcore_-_hardcore_-_rave
+200 https://happyrave-rex.radioca.st/stream
+#EXTINF:-1,Happy_Station__-_64_-_Italy_-_happy_music_-_happyhits
+https://rtr99.fluidstream.eu/rtr99_happy_hq.aac
+#EXTINF:-1,happy.radio_(NL)_-_192_-_The_Netherlands_-_
+200 https://stream.happy.radio:8000/192
+#EXTINF:-1,HappyHardcore.com_-_128_-__-_dance_-_electronic_-_happy_hardcore_-_hardcore_-_upbeat
+200 https://www.happyhardcore.com/livestreams/hardcore.pls
+#EXTINF:-1,Laut.fm_F4biX_-_128_-_Germany_-_happy_hardcore_-_nightcore
+200 http://www.lolliradio.net/streaming/happy.asx
+#EXTINF:-1,Oxygen_Happy_-_128_-_Hungary_-_happy_music_-_hits
+200 https://oxygenmusic.hu:8443/oxygenhappy_128
+#EXTINF:-1,Positively_Happy_-om_-_0_-_The_United_Arab_Emirates_-_happy_-_hits
+200 https://streaming.positivity.radio/pr/happy/icecast.audio
+#EXTINF:-1,Radio_Caprice_[Happy_/_Uk_Hardcore_/_Happy_Rave_/_Happycore]_-_48_-_The_Russian_Federation_-_happy_hardcore
+200 http://79.120.77.11:8002/happyhardcore
+#EXTINF:-1,Radio_Record_Hardstyle_-_0_-_The_Russian_Federation_-_happy_hardcore_-_hardstyle_-_jumpstyle
+302 https://happyhardcore-high.rautemusik.fm/
+#EXTINF:-1,RauteMusik_Happy_Hardcore_-_192_-_Germany_-_happy_hardcore
+302 http://happyhardcore-high.rautemusik.fm/

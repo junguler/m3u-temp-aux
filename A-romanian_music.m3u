@@ -1,0 +1,119 @@
+#EXTM3U
+#EXTINF:-1,Magic_FM
+200 https://live.magicfm.ro/magicfm.aacp
+#EXTINF:-1,Rock_FM
+https://live.rockfm.rohttp:/ockfm.aacp
+#EXTINF:-1,Radio_Petrecaretzu
+200 http://live.radiopetrecaretzu.ro:8383/;audio.mp3
+#EXTINF:-1,National_FM
+http://live2.nationalfm.ro:8001/;stream.nsv
+#EXTINF:-1,Radio_Favorit_FM
+http://91.250.252.251:8001/;
+#EXTINF:-1,Radio_Hot_Style
+200 http://mp3.radiohot.ro:8000/;
+#EXTINF:-1,DJ_Radio_Romania
+200 https://stream.djradio.ro/listen/dj_radio_romania/aac
+#EXTINF:-1,Radio_3Net
+400 http://media.3netmedia.ro:8000/Live128
+#EXTINF:-1,Radio_Tequila_Manele_(București)
+200 https://ssl.servereradio.ro/7000/stream
+#EXTINF:-1,Radio_Lautaru_Popular
+200 http://live.radiolautaru.ro:9000/Stream
+#EXTINF:-1,Romania_Popular
+https://asculta.romaniapopular.ro:8080/;
+#EXTINF:-1,Radio_Romanian_Hip_Hop
+404 https://asculta.radioromanian.net/8400/stream
+#EXTINF:-1,Napoca_FM
+200 https://streaming.napocalive.ro/napoca-fm
+#EXTINF:-1,Play_Urban
+400 https://live.playradio.org:8443/UrbanHD
+#EXTINF:-1,PlayMusic_FM
+200 http://stream.playmusicfm.info:9000/;
+#EXTINF:-1,YOU_FM_Romania
+200 https://asculta.muzicaok.de:8034/stream
+#EXTINF:-1,Radio_Romanian_Popular
+404 https://asculta.radioromanian.net/8500/stream
+#EXTINF:-1,Radio_Romanian_Dance
+404 https://asculta.radioromanian.net/8100/stream
+#EXTINF:-1,Radio_Romania_International_2
+http://stream2.srr.ro:8062/;
+#EXTINF:-1,Radio_Terra
+400 http://188.26.110.59:8000/terra.mp3
+#EXTINF:-1,FavoriteFM
+https://live.thebeat.nu/TheBeat
+#EXTINF:-1,Radio_Romania_International_3
+http://stream2.srr.ro:8072/;stream.nsv
+#EXTINF:-1,Radio_Romanian_Disco
+200 http://asculta.radioromanian.net:8700/;?icy=http
+#EXTINF:-1,MB_Music_Radio
+200 https://s33.myradiostream.com/:16150/listen.mp3?nocache=1682445093
+#EXTINF:-1,Radio_Blaj
+200 https://ssl.radios.show/8016/stream
+#EXTINF:-1,Radio_Fx_Net
+200 http://asculta.radiofxnet.ro:8000/stream
+#EXTINF:-1,Radio_Romanian_Rock
+200 http://asculta.radioromanian.net:8800/;?icy=http
+#EXTINF:-1,Radio_Romanian_Gold
+404 https://asculta.radioromanian.net/8900/stream
+#EXTINF:-1,Arad_FM
+http://89.238.227.6:8354/;stream/1
+#EXTINF:-1,Asha_Radio
+https://live.asha.ro/asha
+#EXTINF:-1,Radio_Măneciu
+404 https://streamer.radio.co/sa42a07797/listen
+#EXTINF:-1,RADAIO_ROMANCE21.ROMANIA
+200 https://free.rcast.net/200392
+#EXTINF:-1,Eveniment_FM_Râmnicu_Vâlcea/Pitești_96.9
+http://212.84.160.187:38099/stream
+#EXTINF:-1,Radio_Unirea_107.2
+http://82.208.158.156:8000/;
+#EXTINF:-1,Radio_România_Cluj
+http://89.238.227.6:8384/;
+#EXTINF:-1,gofm.ro
+200 http://live.gofm.ro:9128/;
+#EXTINF:-1,Radio_Romania_Antena_Sibiului
+http://89.238.227.6:8380/;
+#EXTINF:-1,Radio_Antena_Braşovului
+http://streaming.radiomures.ro:8302/;
+#EXTINF:-1,Kiss_Fm_Ro
+200 https://live.kissfm.ro/kissfm.aacp
+#EXTINF:-1,Radio_Tequila_Hip-Hop
+200 http://necenzurat.radiotequila.ro:7000/;
+#EXTINF:-1,ONEFM
+http://live.onefm.ro:9128/onefm.aacp
+#EXTINF:-1,Radio_Romania_Constanta
+http://89.238.227.6:8332/;
+#EXTINF:-1,Rock_FM_Romania
+http://live.rockfm.ro:9128http:/ockfm.aacp
+#EXTINF:-1,Mooz_Dance_TV_-_Sunet_ONLINE_by_RomaniaRadio.ro
+http://109.103.178.66:8018/;
+#EXTINF:-1,Best_FM_88.6
+http://193.238.57.106:2000/?icy=http
+#EXTINF:-1,COOL_Radio_Oltenia
+http://stream2.srr.ro:8374/
+#EXTINF:-1,Fresh_FM
+200 https://radio.onlinehost.ro/listen/freshfm/radio.mp3
+#EXTINF:-1,La_Romantica_92.9_FM
+302 https://stream.zeno.fm/q5f7ne3sb18uv
+#EXTINF:-1,Lavozromantica
+http://s36.myradiostream.com:16904/
+#EXTINF:-1,Radio_Aquila
+http://asculta.radio-aquila.ro:8000/stream
+#EXTINF:-1,Radio_Colaje
+302 https://stream.zeno.fm/g9megh7p4ehvv
+#EXTINF:-1,Radio_Dor_de_Tara
+http://89.34.208.149:9000/rdt.ogg/
+#EXTINF:-1,Radio_Eve_Tv
+http://86.124.34.109:8000/
+#EXTINF:-1,Radio_Funky
+200 http://live.radiofunky.ro:8888/
+#EXTINF:-1,Radio_Nebunya
+http://167.114.207.228:7575/
+#EXTINF:-1,Radio_Petrecere
+200 http://petrecere.fmradiomanele.ro:8123/
+#EXTINF:-1,Radio_Prahova_99.2_FM
+200 http://streamx.rph.ro:8002/relay
+#EXTINF:-1,Shuffle_FM
+200 http://bluz.ro:8000/
+#EXTINF:-1,Stanca_Mantuirii_Radio
+http://radio.stancamantuirii.net:8000/
