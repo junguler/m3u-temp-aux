@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1,Rádió_Groove
+200 https://s03.diazol.hu:35112/live.mp3
+#EXTINF:-1,Sol_FM
+200 https://stric6.streamakaci.com/solfm64.mp3
+#EXTINF:-1,WDR_COSMO_Special
+302 https://onlineradiobox.com/json/de/wdrcosmospecial/play?platform=web
+#EXTINF:-1,WVFI_Radio
+302 https://onlineradiobox.com/json/us/wvfi/play?platform=web
+#EXTINF:-1,92.3_The_Fox
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/KOFXFMAAC.aac?dist=onlineradiobox
+#EXTINF:-1,Sol_FM_100.7_radio
+http://ic2.mainstreamnetwork.com/wvfi-am
+#EXTINF:-1,Querfunk_Freies_Radio_Karlsruhe
+302 https://stream.rcast.net/257591
+#EXTINF:-1,CLASSIC_ROCK_CALIFORNIA_-_HIGH_DEFINITION
+302 https://stream.rcast.net/255089
+#EXTINF:-1,Das_neue_Radio_Seefunk_Rock
+302 https://stream.rcast.net/239299
+#EXTINF:-1,Das_neue_Radio_Seefunk_90er_pur
+https://stream.rcast.net/237711
+#EXTINF:-1,Berliner_Rundfunk_-_Ostrock_&_Pop
+302 https://topradio-de-hz-fal-stream07-cluster01.radiohost.de/brf-ostrock-pop_mp3-128
+#EXTINF:-1,Classic_Rock_Florida
+302 https://streaming.live365.com/a06375
+#EXTINF:-1,Yatch_Rock_Music_Radio
+302 https://stream.rcast.net/214982
+#EXTINF:-1,WebRadioFlashBackTotal
+302 https://stream.rcast.net/5804
+#EXTINF:-1,Jack_and_Jill_Radio;_Pop_Rock_Dance_50s_Big_Band_Classical_Country_Folk_Jazz_Blues:_It_s_All_Here!
+302 https://stream.rcast.net/8676
+#EXTINF:-1,Chaos_Radio!
+302 https://stream.zeno.fm/wmpk2q28fwzuv

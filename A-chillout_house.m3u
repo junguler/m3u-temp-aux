@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1,Радио_Рекорд_-_Chill_House
+https:/http:/adiorecord.hostingradio.ru/chillhouse96.aacp
+#EXTINF:-1,Play_Chill_Radio
+404 https://c5.auracast.net/listen/play_chill_radiohttp:/adio.mp3
+#EXTINF:-1,Chill_Fm
+302 https://stream-057.zeno.fm/p2rk6a1pfg0uv?zs=xjMarGbYQbCvI0D0j-Olww
+#EXTINF:-1,Life_Lounge_Radio
+404 https://c5.auracast.net/listen/life_lounge_radiohttp:/adio.mp3
+#EXTINF:-1,MC2_Cafè_Del_Mar_Collection
+503 https://titoli.singsingmusic.net/singsingweb006
+#EXTINF:-1,Chill_FM
+405 https://stream-152.zeno.fm/vb9r2wx6998uv?zs=QbnB-H8bSSujG6oNl5A_AQ
+#EXTINF:-1,V1_RADIO
+404 https://usa10.fastcast4u.com/v1radio
+#EXTINF:-1,Max.dance
+200 https://maxdance.stream.laut.fm/maxdance
+#EXTINF:-1,Pulzar_FM
+https://icecast.mediaworks.nz/PulzarFM
+#EXTINF:-1,Palm_Radio
+200 https://stream.palmradio.live/palmradio.mp3
+#EXTINF:-1,Epic_Lounge_-_Beach_Club_Lounge
+302 https://stream.epic-lounge.com/beach-club-lounge
+#EXTINF:-1,Technolovers_-_IBIZA_HOUSE
+302 https://stream.technolovers.fm/ibiza-house?ref=radiobrowser
+#EXTINF:-1,Radio_Monte_Carlo_105.9_FM
+400 https://icecast227.ptspb.ru:8443/monte

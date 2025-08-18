@@ -1,0 +1,18 @@
+#EXTM3U
+#EXTINF:-1,
+Blasmusikradio_mit_Bernd_-_128_-_Germany_-_blasmusik_-_folk_-_marsch_-_polka
+302 https://www.marsanaryas.com/radio/live/
+#EXTINF:-1,+Exclusively_Bruno_Mars_-_0_-_Mexico_-_2010s_-_2020s_-_bruno_mars_-_exclusive_-_exclusively_-_moi_merino_-_music_-_música_-_música_en_inglés_-_música_pop_-_pop_-_pop_en_inglés_-_pop_music
+302 https://streaming.exclusive.radio/er-app/brunomars/icecast.audio
+#EXTINF:-1,Blasmusikradio_-_128_-_Germany_-_blasmusik_-_brass_-_german_-_marsch_-_polka
+400 http://streams.echoesofbluemars.org:8000/cryosleep
+#EXTINF:-1,Echoes_of_Bluemars_-_128_-_The_United_States_Of_America_-_ambient_-_space
+400 http://streams.echoesofbluemars.org:8000/bluemars
+#EXTINF:-1,Echoes_of_Bluemars_-_Crytosleep_-_128_-_The_United_States_Of_America_-_
+400 http://streams.echoesofbluemars.org:8000/cryosleep.m3u
+#EXTINF:-1,Echoes_of_Bluemars_-_Voices_from_Within_-_128_-_The_United_States_Of_America_-_
+400 http://streams.echoesofbluemars.org:8000/voicesfromwithin
+#EXTINF:-1,mars_dance_-_0_-_Slovakia_-_music
+200 http://mars.streamerr.co:8142/stream
+#EXTINF:-1,Radio_Itaca_-_128_-_Italy_-_marsala_-_pop_-_top_40
+200 https://mars.streamerr.co/8280/stream

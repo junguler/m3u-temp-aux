@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1,1.FM_-_Movie_Soundtracks_Hits_-_Cinematic_Soundtracks_from_Switzerland
+200 https://strm112.1.fm/moviesoundtracks_mobile_mp3?stream
+#EXTINF:-1,Play_Cine_Tapes_-_Cinematic_Soundtracks_from_Albania
+200 https://business.playfm.al:8130/cinetapes
+#EXTINF:-1,RMF_Piosenka_filmowa_-_Cinematic_Soundtracks_from_Poland
+200 https://rs201-krk.rmfstream.pl/PIOSENKAFILMOWA
+#EXTINF:-1,RMF_Muzyka_filmowa_-_Cinematic_Soundtracks_from_Poland
+200 https://rs102-krk-cyfronet.rmfstream.pl/MUZYKAFILMOWA
+#EXTINF:-1,RMF_Classic_Morricone_Westerny_-_Cinematic_Soundtracks_from_Poland
+200 https://rs201-krk.rmfstream.pl/CLASSICPLUSWES
+#EXTINF:-1,RMF_Classic_Na_pirackich_wodach_-_Cinematic_Soundtracks_from_Poland
+200 https://rs103-krk-cyfronet.rmfstream.pl/CLASSICPLUSPIR
+#EXTINF:-1,RMF_Classic_Świat_Czarodziejów_-_Cinematic_Soundtracks_from_Poland
+200 https://rs202-krk.rmfstream.pl/CLASSICPLUSCZA
+#EXTINF:-1,RMF_Classic_Śródziemie_-_Cinematic_Soundtracks_from_Poland
+200 https://rs202-krk.rmfstream.pl/CLASSICPLUSSRD
+#EXTINF:-1,RMF_Classic_Thor_-_Cinematic_Soundtracks_from_Poland
+200 https://rs102-krk-cyfronet.rmfstream.pl/CLASSICPLUSTHO
+#EXTINF:-1,RMF_Classic_Muzyka_Oscarowa_-_Cinematic_Soundtracks_from_Poland
+200 https://rs101-krk-cyfronet.rmfstream.pl/CLASSICPLUSOSC
+#EXTINF:-1,RMF_Classic_Tarantino_-_Cinematic_Soundtracks_from_Poland
+200 https://rs202-krk.rmfstream.pl/CLASSICPLUSTAR
+#EXTINF:-1,RMF_Classic_John_Williams_-_Cinematic_Soundtracks_from_Poland
+200 https://rs101-krk.rmfstream.pl/CLASSICPLUSWIL
+#EXTINF:-1,RMF_Classic_Hans_Zimmer_-_Cinematic_Soundtracks_from_Poland
+200 https://rs201-krk.rmfstream.pl/CLASSICPLUSZIM
+#EXTINF:-1,Музыка_кино_-_RADIO_OBOZ_-_Cinematic_Soundtracks_from_Ukraine
+https://9radio-stream-0.obozrevatel.com/kino128.mp3
+#EXTINF:-1,Саундтреки_-_RADIO_OBOZ_-_Cinematic_Soundtracks_from_Ukraine
+https://9radio-stream-0.obozrevatel.com/soundtrack128.mp3

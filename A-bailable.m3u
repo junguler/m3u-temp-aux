@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1,Radio_Punto_7_Concepción
+200 https://unlimited4-us.dps.live/p7concepcion/mp3/icecast.audio
+#EXTINF:-1,Radio_Festival
+308 https://stream.festival.cl/1
+#EXTINF:-1,Radio_Sabrosita_Mix
+https://server3.sit-mexico.com:2199/proxy/sabrositamix?mp=/stream
+#EXTINF:-1,Punto_7_Concepción
+200 https://unlimited5-us.dps.live/p7concepcion/aac/icecast.audio
+#EXTINF:-1,SOY_101.7_(Veracruz)_-_101.7_FM_-_XHPR-FM_-_Grupo_Radio_Digital_-_Veracruz,_VE
+https://cdn.digitalradio.mxhttp:/adio/8230/soy1017
+#EXTINF:-1,Punto_7_Los_Angeles
+404 https://unlimited5-us.dps.live/p7losangeles/aac/icecast.audio
+#EXTINF:-1,NUEVO_STYLO_CHILOE
+302 http://stream-050.zeno.fm/nzk58p79b9quv?zs=SGjB2r_ySFSvZIcmUHu4qQ
+#EXTINF:-1,KAPRICHOS__FM__online
+404 https://stream-035.zeno.fm/8bagnnetftzuv?zs=we6ZAD-GTGWBmvJhkXfJLg
+#EXTINF:-1,Miami_Stereo
+302 http://stream-043.zeno.fm/kmvrliqmdfitv?zs=Yf1lV0T2Q9qZev3O4JUExQ
+#EXTINF:-1,Vibe_FM_(Guadalajara)_-_107.5_FM_-_XHVOZ-FM_-_Grupo_Audiorama_Comunicaciones_-_Guadalajara,_JC
+200 https://ss1.audiorama.com.mx:6574/vibefm
+#EXTINF:-1,Radio_Moyo_(Tecomán)_-_Online_-_Tecomán,_CL
+200 http://163.172.198.16:8541/;
+#EXTINF:-1,Punto_7_Valdivia
+200 https://unlimited5-us.dps.live/p7valdivia/aac/icecast.audio
+#EXTINF:-1,Radio_Coral_96.7_FM_&quot;La_del_sabor&quot;
+302 https://stream-052.zeno.fm/k1123vv8sm0uv?zs=RamgGCizRvOW-keO38F9Ww
+#EXTINF:-1,Radio_Cumbia_90s
+https://emiteradio.com/proxy/cumbia90s?mp=/stream
+#EXTINF:-1,Colombia_Salsa_Dura
+http://64.37.50.226:8054/stream
+#EXTINF:-1,Punto_7_Puerto_Montt
+200 https://unlimited5-us.dps.live/p7puertomontt/aac/icecast.audio
+#EXTINF:-1,RADIO__KAPRICHOS__FM
+404 https://stream-060.zeno.fm/8bagnnetftzuv?zs=7brY2OXGTRmSU2-VctY5kQ

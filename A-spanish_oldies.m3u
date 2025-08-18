@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,Éxitos_98.9_FM
+http://192.187.112.50:8359/;stream.mp3
+#EXTINF:-1,Éxitos_96.5
+403 https://13743.live.streamtheworld.com:443/KRXOHD3AAC_SC
+#EXTINF:-1,Hits_(Tampico)_-_88.5_FM_-_XHFW-FM_-_Multimedios_Radio_-_Tampico,_TM
+403 https://21933.live.streamtheworld.com:443/XHFW_SC
+#EXTINF:-1,Hits_(Torreón)_-_93.1_FM_-_XHCTO-FM_-_Multimedios_Radio_-_Torreón,_Coahuila
+403 https://21933.live.streamtheworld.com:443/XHCTOFM_SC
+#EXTINF:-1,KRCD_103.9_98.3_Recuerdo_L.A.
+http://44.203.48.137/univision-krcdfmaac-ibc2?session-id=268e1da992ffd2e0d037caa03e3d0bd0
+#EXTINF:-1,Hits_(Tampico)_-_88.5_FM_-_XHFW-FM_-_Multimedios_Radio_-_Tampico,_Tamaulipas
+403 https://26603.live.streamtheworld.com:443/XHFWAAC.aac
+#EXTINF:-1,Hits_(Reynosa)_-_90.1_FM_-_XHRYS-FM_-_Multimedios_Radio_-_Reynosa,_Tamaulipas
+403 https://15113.live.streamtheworld.com:443/XHRYSFM_SC
+#EXTINF:-1,Hits_(Monterrey)_-_106.1_FM_-_XHITS-FM_-_Multimedios_Radio_-_Monterrey,_Nuevo_León
+https://20833.live.streamtheworld.com:443/HITS106AAC.aac
+#EXTINF:-1,Stereo_Saltillo_(Saltillo)_-_93.5_FM_-_XHQC-FM_-_Multimedios_Radio_-_Saltillo,_Coahuila
+403 https://15053.live.streamtheworld.com:443/XHQCFMAAC.aac

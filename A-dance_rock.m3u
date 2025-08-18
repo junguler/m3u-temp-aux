@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1,Radio_434_-_Rocks
+400 https://icecast01.mycloudserver.info/lsl-rocks
+#EXTINF:-1,ABradio_Depeche_Mode
+400 https://ice4.abradio.cz/depeche128.mp3
+#EXTINF:-1,DJ_Perry_Radio
+401 https://mtl9.hnux.com/http://144.217.233.87:8314/
+#EXTINF:-1,Sol_FM
+200 https://stric6.streamakaci.com/solfm64.mp3
+#EXTINF:-1,Caverna_do_Rock_Web_Rádio
+https://s10.maxcast.com.br:8115/live
+#EXTINF:-1,Denny_Möller
+302 https://stream.laut.fm/leipzigfm
+#EXTINF:-1,92.3_The_Fox
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/KOFXFMAAC.aac?dist=onlineradiobox
+#EXTINF:-1,Радио_Maximum_-_Depeche_Mode
+https://depechemode.hostingradio.ru/depechemode96.aacp
+#EXTINF:-1,More_FM_-_Depeche_Mode
+404 https://cast.more.fm/dm
+#EXTINF:-1,SomaFM_PopTron
+200 https://ice1.somafm.com/poptron-128-mp3
+#EXTINF:-1,SomaFM_|_PopTron_|_32_aac
+200 http://ice5.somafm.com/poptron-32-aac
+#EXTINF:-1,Chaos_Radio!
+302 https://stream.zeno.fm/wmpk2q28fwzuv
+#EXTINF:-1,Aurum_Inutile
+200 http://a5.radioheart.ru:8014/auruminutile
+#EXTINF:-1,RCN_-_Rockeando
+404 https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKEANDOAAC.aac
+#EXTINF:-1,Denny_Moller
+200 https://leipzigfm.stream.laut.fm/leipzigfm

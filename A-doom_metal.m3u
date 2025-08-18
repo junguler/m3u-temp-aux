@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1,snakedance
+200 http://snakedance.stream.laut.fm/snakedance
+#EXTINF:-1,metalrules
+200 http://metalrules.stream.laut.fm/metalrules
+#EXTINF:-1,wastewatermusic
+200 http://wastewatermusic.stream.laut.fm/wastewatermusic
+#EXTINF:-1,metal4life
+200 http://metal4life.stream.laut.fm/metal4life
+#EXTINF:-1,kruemelradio
+200 http://kruemelradio.stream.laut.fm/kruemelradio
+#EXTINF:-1,metalblastfm
+200 http://metalblastfm.stream.laut.fm/metalblastfm
+#EXTINF:-1,som909
+200 http://som909.stream.laut.fm/som909
+#EXTINF:-1,shamanic_tunes
+200 http://shamanic_tunes.stream.laut.fm/shamanic_tunes
+#EXTINF:-1,vault_of_darkness
+200 http://vault_of_darkness.stream.laut.fm/vault_of_darkness
+#EXTINF:-1,metal_watson_radio
+200 http://metal_watson_radio.stream.laut.fm/metal_watson_radio
+#EXTINF:-1,metal_thunder
+200 http://metal-thunder.stream.laut.fm/metal-thunder
+#EXTINF:-1,sludge_427
+200 http://sludge-427.stream.laut.fm/sludge-427
+#EXTINF:-1,Exclusive_Radio_–_Black_Sabbath
+302 https://streaming.exclusive.radio/er/blacksabbath/icecast.audio
+#EXTINF:-1,laut.fm_-_Shamanic_Tunes
+200 http://shamanictunes.stream.laut.fm/shamanic_tunes?t302=2023-04-25_19-36-37&uuid=b5bb2ae5-85cf-4276-b10c-1e42cbb5878b
+#EXTINF:-1,Avanzada_Metallica
+http://199.195.194.140:8112/stream

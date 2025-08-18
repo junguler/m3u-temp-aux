@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1,Air_FM_Rainbow
+200 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio00464kbps.m3u8
+#EXTINF:-1,Bollywood_Gold_Revivals
+302 https://stream-047.zeno.fm/0xsvm1nr7a5tv?zs=0eMrMGGgT7G0ucHrGpa3Rg
+#EXTINF:-1,Air_FM_Gold
+200 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio00564kbps.m3u8
+#EXTINF:-1,Trance_Radio_India
+302 https://stream-034.zeno.fm/cojfxwtd06otv?zs=1MnBGtRITgGpyjl9GfMfBg
+#EXTINF:-1,Radio_Divya_Jyoti
+https://s3.voscast.com:10845/stream
+#EXTINF:-1,Gurbani_Kirtan_Radio
+http://www.sikhvideos.org:8000/;stream.mp3
+#EXTINF:-1,Hindi_Bible_Vani
+405 https://stream-152.zeno.fm/w69cqx5n2zhvv?zs=R7abr1D4QaiK4UQWpWr41Q
+#EXTINF:-1,Tzgospel_(India)
+405 https://stream-151.zeno.fm/180m4kca7ehvv?zs=eO4dbG9HT1K0M7uum07FDw
+#EXTINF:-1,New_Delhi_India_TV
+404 http://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_480p@3.m3u8
+#EXTINF:-1,New_Delhi_Profit_TV
+http://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/masterp_480p@3.m3u8
+#EXTINF:-1,New_Delhi_24x7_TV
+http://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
+#EXTINF:-1,Old_Monk_Radio
+302 https://stream-057.zeno.fm/pr0zc64zdy8uv?zs=FkFg9xz7SRuhTOiQw_YVBg

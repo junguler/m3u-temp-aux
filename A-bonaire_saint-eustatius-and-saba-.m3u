@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1,Mega_Hit_FM
+http://megaspice.primcast.com:5216/;stream.mp3
+#EXTINF:-1,Cool_FM_98.9_Bonaire
+200 https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8
+#EXTINF:-1,Radio_94_Korsou
+http://162.243.94.61:8028/;stream.mp3
+#EXTINF:-1,Voz_di_Bonaire
+http://159.203.190.86:8304/;stream.mp3
+#EXTINF:-1,BON_F.M._102.7
+200 http://162.244.80.21:6482/;stream.mp3
+#EXTINF:-1,Radio_Alpha_FM
+http://78.129.229.120:8581/;stream.nsv
+#EXTINF:-1,Radio_Karpata_En_Vivo
+405 https://stream-150.zeno.fm/fpc440mz3tzuv?zs=VSQmxpqnQru8h-1M4cR4Zg
+#EXTINF:-1,Explore_Bonaire_Hits
+200 https://usa10.fastcast4u.com/explore
+#EXTINF:-1,Radio_Caribe_Boneiru_Online
+405 https://stream-149.zeno.fm/ja2kqvjti8otv?zs=l6qIq0lATMaxlue_X9QGHg
+#EXTINF:-1,Radio_Flamingo_97.1Fm_bonaire
+https://stream-149.zeno.fmhttp:/hxzts3x2ehvv?zs=JPGb5IuhRBm0TimGScunLQ
+#EXTINF:-1,Live99_FM_-_Kralendijk
+200 http://162.244.80.220:8000/;stream.mp3
+#EXTINF:-1,Kral_Pop
+200 http://46.20.3.201/

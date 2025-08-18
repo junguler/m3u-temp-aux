@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1,Blu_Radio
+403 https://26733.live.streamtheworld.com:443/BLURADIO.mp3
+#EXTINF:-1,Radio_Jan
+http://vps782549.ovh.net:10255/RadioJan
+#EXTINF:-1,WCNY_Classic_FM
+200 https://wcny-ice.streamguys1.com/classical-fm-hq
+#EXTINF:-1,Radio_Open_FM_-_American_Rock
+https://stream.open.fm/40
+#EXTINF:-1,WSKG
+200 https://wskg.streamguys1.com/wskg
+#EXTINF:-1,Libano_-_Հայազգի_Ձայն
+200 https://c7.radioboss.fm:18299/stream
+#EXTINF:-1,Radio_YAN
+400 http://83.169.36.75:8000/stream?1573722895304
+#EXTINF:-1,Hairenik_Armenian_Radio
+200 https://streaming.radio.co/sb64369622/listen
+#EXTINF:-1,Radio_Armenie_FM
+200 http://direct.radioarmenie.com:9029/stream/;
+#EXTINF:-1,Armenian_Voice
+200 http://64.150.176.42:8009/stream
+#EXTINF:-1,Radio_YAN_-_PATRIOTIC
+400 http://83.169.36.75:8001/stream
+#EXTINF:-1,Yerevan_Nights_Radio
+400 http://icecast.yerevannights.com/YerevanNights
+#EXTINF:-1,Public_Radio_East
+403 https://22113.live.streamtheworld.com:443/WZNBFM_SC
+#EXTINF:-1,SWITCH_FM_(հայկական_երգեր)
+405 https://stream-150.zeno.fm/k5qf965nefhvv?zs=NEElwH5bTciCw8fEoZD6wg
+#EXTINF:-1,Luys_TV_Western_Armenian_TV
+200 http://luyse.mediatriple.net/luystv/luystv.smil/playlist.m3u8
+#EXTINF:-1,Armenia_One_TV
+http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
+#EXTINF:-1,Radio_Jan_USA
+400 https://s4.voscast.com:8865/stream
+#EXTINF:-1,Jesus_Coming_FM_-_Armenian
+200 http://live.jesuscomingfm.com:8566/;

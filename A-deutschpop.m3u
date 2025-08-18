@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1,100Deutschpop
+200 https://100deutschpop.stream.laut.fm/100deutschpop
+#EXTINF:-1,Radio_Gütersloh_Deutschpop
+302 https://addrad.io/4455hgg
+#EXTINF:-1,Radio_SchlagerWahn
+302 https://stream.laut.fm/radio-schlagerwahn
+#EXTINF:-1,Radio_Westkapelle
+302 https://stream.laut.fm/radio-westkapelle
+#EXTINF:-1,Touristikkanal_Radio
+302 https://stream.laut.fm/touristikkanal
+#EXTINF:-1,MDR_SACHSEN-ANHALT_100.8_FM_-_128_-_Germany_-_2010s_-_70s_-_80s_-_classics_-_deutschpop_-_oldies_-_regional_-_sachsen-anhalt
+302 http://rnrw.cast.addradio.de/rnrw-0166/deindeutschpop/high/stream.mp3
+#EXTINF:-1,RADIO_PSR_Deutschpop_Nonstop_-_0_-_Germany_-_deutsche_musik_-_deutschpop_-_diesel-song_-_radio_psr_-_sachsen_-_sachsensongs_-_sinnlos-telefon_-_steffen_lukas_-_wetter_und_verkehr
+200 https://streams.radiopsr.de/deutschpop/mp3-192/streams.radiopsr.de/play.m3u
+#EXTINF:-1,Radio_Regenbogen_Deutsch_Pop_-_0_-_Germany_-_deutschpop
+302 https://stream.regenbogen.de/deutschpop/mp3-128/radiobrowser
+#EXTINF:-1,RPR1._Deutschpop_-_0_-_Germany_-_deutschpop
+302 https://stream.rpr1.de/deutschpop/mp3-128/radiobrowser
+#EXTINF:-1,RPR1._Liedergut_-_0_-_Germany_-_deutschpop_-_deutschrock_-_german_-_pop
+302 http://streams.rpr1.de/rpr-deutschpop-128-mp3

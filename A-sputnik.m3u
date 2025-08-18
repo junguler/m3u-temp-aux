@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1,Jugendradio_DT64_vom_MDR_-_128_-_Germany_-_ard_-_charts_-_ddr_-_dt64_-_halle_-_halle_(saale)_-_jugendradio_-_jugendwelle_-_leipzig_-_lieblose_playlist_-_mdr_-_nervige_moderatoren_-_podcasts_-_pop_-_punk_-_sputnik_mailbox_-_top40_-_trash
+301 http://www.surfmusik.de/m3u/mdr-sputnik_-_4343.m3u
+#EXTINF:-1,MDR_SPUTNIK_-_Einfach_die_beste_Musik_-_Deine_Lieblingsmusik_-_123_-_Germany_-_ard_-_charts_-_halle_-_jugend_-_leipzig_-_lieblingsmusik_musik_stars_news_infos_radio_livestream_dab+_-_mdr_sputnik_-_mitteldeutscher_rundfunk_-_pop_-_sputnik_ist_bei_dir_-_top40
+400 http://radiosputnik.nl:8002/flac
+#EXTINF:-1,Sputnik_News_Belarussian_-_128_-_The_Russian_Federation_-_duplicate_sputnik_news_russia
+400 http://sputnikradio.es:8009/live
+#EXTINF:-1,Радио_Sputnik_Москва_91.2_FM_-_256_-_The_Russian_Federation_-_moscow_-_moskva_-_sputnik_-_talk_&_speech
+http://online.sputnikfm.ru:8000/sputnik_mp3
+#EXTINF:-1,Радио_Спутник_Санкт-Петербург_91.5_FM_-_128_-_The_Russian_Federation_-_91_5_-_army_-_news_-_politics_-_spb_-_sputnik_-_talk
+https://online.sputnik107.ru/sputnik107?v=1715804319955

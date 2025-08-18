@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1,IRIB_Radio_Iran
+404 http://s1.cdn1.iranseda.ir:1935/liveedgehttp:/adio-iran/playlist.m3u8
+#EXTINF:-1,Radio_Javan
+https:/http:/j1.rjstream.com/
+#EXTINF:-1,Radio_Navahang
+200 https://navairan.com/;stream.nsv
+#EXTINF:-1,670AM_KIRN
+405 https://stream-140.zeno.fm/wyth8w2r3heuv?zs=SKblHTQISPuTfMIfGoLLqg
+#EXTINF:-1,IRIB_Radio_Farhang
+404 http://s0.cdn1.iranseda.ir:1935/liveedgehttp:/adio-farhang/playlist.m3u8
+#EXTINF:-1,Radio_Ma_Va_Shoma
+200 https://global.citrus3.com:8244/stream
+#EXTINF:-1,Radio_Avang
+405 https://stream-150.zeno.fm/a9eszgtwfkhvv?zs=-2c8h8PlT729KPwHYYOMeA
+#EXTINF:-1,Radio_Mojahed
+200 https://s2.radio.co/s830691c74/listen
+#EXTINF:-1,Radio_Jadeed
+http://perseus.shoutca.st:8552/stream?1590342059501.mp3
+#EXTINF:-1,IRIB_Radio_Varzesh
+404 http://s0.cdn1.iranseda.ir:1935/liveedgehttp:/adio-varzesh/playlist.m3u8
+#EXTINF:-1,Radio_Shadi
+https://ice9.securenetsystems.net/SHADI
+#EXTINF:-1,Radio_Kontakt_-_Tirana_89.3_FM
+http://84.20.83.24:88/broadwavehigh.mp3?src=1
+#EXTINF:-1,Eurostar_Radio_-_Tirana_94.4_FM
+http:/http:/adioeurostar.al:9000/stream
+#EXTINF:-1,IN_Radio_-_Tirana_105.7_FM
+http://80.90.86.194:8000/inradio
+#EXTINF:-1,Radio_NRG_-_Tirana_106.6_FM
+http://ice31.securenetsystems.net/AL09
+#EXTINF:-1,Radio_Romaan
+405 https://stream-150.zeno.fm/39gsar7zetzuv?zs=2cZ42zErTHWcwrqEHI6wAw

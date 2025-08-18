@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,MBC_Radio
+200 https://ais-sa1.streamon.fm/7182_32k.aac/playlist.m3u8
+#EXTINF:-1,Exclusively_Creedence_Clearwater_Revival_-_0_-_The_United_Arab_Emirates_-_60s_-_70s_-_am_pop_-_classic_rock_-_pop_rock_-_rock_n_roll_-_swamp_rock
+302 https://streaming.exclusive.radio/er/creedence/icecast.audio
+#EXTINF:-1,KFNX_1100_News-Talk_Radio_-_Cave_Creek_-__AZ_-_0_-_The_United_States_Of_America_-_christian_-_news_-_phoenix
+200 https://ksdj.stream.creek.fm/stream
+#EXTINF:-1,Radio_Notre_Dame_-_Musique_sacree_-_192_-__-_
+400 https://windu.radionotredame.net/RadioNotreDame-MusiqueSacree.mp3
+#EXTINF:-1,WNWN_"WIN_98.5"_Coldwater_-__MI_-_64_-_The_United_States_Of_America_-_battle_creek_-_coldwater_-_country
+200 https://wobn.stream.creek.org/LIVE
+#EXTINF:-1,WZOX_"Z_96.5"_Portage_-__MI_-_64_-_The_United_States_Of_America_-_battle_creek_-_kalamazoo_-_modern_rock_-_portage
+200 https://rtsradio-live.morescreens.com/RTS_2_002/audio/chunklist.m3u8

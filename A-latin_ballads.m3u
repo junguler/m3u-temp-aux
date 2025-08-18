@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1,1000_HITS_Love
+200 https://ais-sa2.cdnstream1.com/2210_128.mp3
+#EXTINF:-1,Slow_Radio
+200 https://1slowradio.stream.laut.fm/1_slowradio
+#EXTINF:-1,Los_Megaexitos
+400 https://losmegaexitos.radioca.st/lms
+#EXTINF:-1,Intimidad_Radio
+405 https://eu1.lhdserver.es:9119/stream
+#EXTINF:-1,Melodia_60_Radio
+https://streamssl.eu:1428/live
+#EXTINF:-1,Olímpica_Stereo_Elche_105.7
+http://109.73.65.69:22909/;stream.nsv
+#EXTINF:-1,FORMULA_DISCO_SPAIN
+https://one.cloudstreaming.eu:6112/stream
+#EXTINF:-1,Formula_Romantica_Spain
+https://one.cloudstreaming.eu:6100/stream
+#EXTINF:-1,Romantica_FM
+200 https://sonic.mediatelekom.net/8070/stream
+#EXTINF:-1,Hispanoamérica_Radio
+http://195.154.241.35:7102/live
+#EXTINF:-1,Oldies_FM
+405 https://stream-150.zeno.fm/vnevf5763xjuv?zs=5412TqS3S-K_-msRoXkz4g
+#EXTINF:-1,Latin_Team
+200 https://app.sonicpanelradio.com/8064/stream
+#EXTINF:-1,I-Radio_fm
+302 https://stream-052.zeno.fm/k90ka4zhberuv?zs=sokxhjZuTuescxDN-ahrGg
+#EXTINF:-1,Vacalloria_Radio
+200 https://sonicpanel.streaming10.net/8012/stream
+#EXTINF:-1,InfoMusic_FM
+http://109.169.76.104:31530/;
+#EXTINF:-1,Corazón_FM_89.2
+200 https://stream2.emisorasmusicales.net/listen/corazon_fm/corazonfm.mp3
+#EXTINF:-1,Radio_Estación_2
+301 http://streaming.radionomy.com:80/JamendoLounge
+#EXTINF:-1,Musical_Stereo
+200 https://sonic.paulatina.co/8156/stream

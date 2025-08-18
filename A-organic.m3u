@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1,Ibiza_Organica_Radio
+302 https://stream.aiir.com/ilduibssvzbtv
+#EXTINF:-1,organic
+302 https://stream.rcast.net/257385
+#EXTINF:-1,Music_Organic_Radio
+302 https://stream.rcast.net/250958
+#EXTINF:-1,MiSSiON_UK
+302 https://stream.rcast.net/246977
+#EXTINF:-1,Radio_NULA_Organic
+302 https://stream.rcast.net/240168
+#EXTINF:-1,ORGANICHOUSE
+200 https://dfm-organichouse.hostingradio.ru/organichouse96.aacp
+#EXTINF:-1,BiOKRAFTSTOFF_-_ORGANIC_POWER_DRINK_RADIO
+302 https://stream.rcast.net/12242
+#EXTINF:-1,Radio_Caprice_-_Organic_House_[1]_-_48_-_The_Russian_Federation_-_electronic_-_organic_house_-_radcap
+200 http://79.120.12.130:8002/organichouse
+#EXTINF:-1,Radio_Caprice_-_Organic_House_[2]_-_320_-_The_Russian_Federation_-_electronic_-_organic_house_-_radcap
+200 http://79.120.12.130:8000/organichouse
+#EXTINF:-1,Radio_Caprice_-_Organic_House_[3]_-_320_-_The_Russian_Federation_-_electronic_-_organic_house_-_radcap
+400 http://79.120.12.130:8004/organichouse
+#EXTINF:-1,Radio_Record_Organic_-_0_-_The_Russian_Federation_-_house_-_organic_house_-_progressive_house
+http://radiorecord.hostingradio.ru/organic96.aacp

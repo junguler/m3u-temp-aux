@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,_VOX_FM_Radio_Hits_96.9_(San_Luis_Potosí)_-_96.9_FM_-_XHOD-FM_-_Global_Media_-_San_Luis_Potosí_-__San_Luis_Potosí_-_128_-_Mexico_-_96.9_fm_-_américa_-_entretenimiento_-_español_-_estación_-_fm_-_globalmedia_-_latinoamérica_-_moi_merino_-_music_-_méxico_-_música_-_música_del_recuerdo_-_música_en_español_e_inglés_-_música_pop_-_norteamérica_-_pop_-_pop_en_español_e_inglés_-_pop_music_-_pop_rock_-_radio_-_radiópolis_-_san_luis_potosí_-_san_luis_potosí_city_-_slp_-_vox_-_vox_fm_-_vox_radio_hits
+301 https://voxfm.b-cdn.net/stream
+#EXTINF:-1,Musicvox_Fm_-_0_-_Colombia_-_
+https://player.voxcast.com.br/proxy/7030
+#EXTINF:-1,Univox_-_320_-_Slovenia_-_
+200 http://stream.voxfm.ro:8000/listen.pls
+#EXTINF:-1,VoxPop_-_320_-_The_Faroe_Islands_-_faroe_islands_-_tónleikur_-_voxpop
+400 http://stream.midlar.fo/voxpop

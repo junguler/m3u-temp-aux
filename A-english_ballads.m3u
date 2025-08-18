@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1,Universal_Stereo
+403 https://26483.live.streamtheworld.com:443/XHFO_FM.mp3
+#EXTINF:-1,Stereo_Cien
+403 https://21933.live.streamtheworld.com:443/XHMMFMAAC.aac
+#EXTINF:-1,MVS_Noticias
+403 https://26573.live.streamtheworld.com:443/XHMVSFM_SC
+#EXTINF:-1,HK_960_XENK
+http://192.99.16.17:9890/;
+#EXTINF:-1,Radio_Cañón
+200 https://streaming.servicioswebmx.com/8286/stream
+#EXTINF:-1,FM_Globo_Ciudad_del_Carmen_-_101.3_FM_-_XHMAB-FM_-_Organización_Radio_Carmen_-_Ciudad_del_Carmen,_Campeche
+200 https://ss1.audiorama.com.mx:6676/stream
+#EXTINF:-1,D95_(Chihuahua)_-_94.9_FM_-_XHCHH-FM_-_Multimedios_Radio_-_Chihuahua,_CH
+403 https://18153.live.streamtheworld.com:443/XHCHHFM_SC
+#EXTINF:-1,Éxtasis_Digital_(Guadalajara)_-_105.9_FM_-_XHQJ-FM_-_Radiorama_-_Guadalajara,_JC
+http://192.99.16.17:3414/;
+#EXTINF:-1,Blu_FM_(León)_-_92.3_FM_-_XHLG-FM_-_Promomedios_-_León,_GT
+http:/http:/adio.promosat.com:8102/;
+#EXTINF:-1,Amor_Mío_(Ensenada)_-_92.9_FM_-_XHFZO-FM_-_Grupo_Uzivra_-_Ensenada,_BC
+https://sudominiohoy.com:18303/;stream.mp3
+#EXTINF:-1,D99_(Monterrey)_-_98.9_FM_-_XHJD-FM_-_Multimedios_Radio_-_Monterrey,_NL
+403 https://26193.live.streamtheworld.com:443/D99_SC
+#EXTINF:-1,Love_FM_(Chihuahua)_-_90.1_FM_-_XHUA-FM_-_Grupo_Audiorama_Comunicaciones_-_Chihuahua,_CH
+200 https://ss1.audiorama.com.mx:6650/;
+#EXTINF:-1,Radio_Cañón_(Mexicali)_-_101.3_FM_/_820_AM_-_XHABCA-FM_/_XEABCA-AM_-_Radio_Cañón_/_NTR_Medios_de_Comunicación_-_Mexicali,_BC
+200 http://streaming.servicioswebmx.com/8286/stream
+#EXTINF:-1,Stereorey_(Aguascalientes)_-_100.9_FM_-_XHCAA-FM_-_Radio_Universal_-_Aguascalientes,_AG
+https://hls.gvstream.livehttp:/adiouniversal/life1009.stream/playlist.m3u8

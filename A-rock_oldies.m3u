@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1,Cruisin_Radio,Classic_Rock,Oldies,60's,70's,80_'s_etc.
+302 https://stream.rcast.net/247697
+#EXTINF:-1,Oldies_Radio_99
+302 https://stream.rcast.net/11123
+#EXTINF:-1,Oldies_Rock_N_Roll_Stream
+302 https://stream.rcast.net/2738
+#EXTINF:-1,Rock_Station_Oldies_But_Goodies
+302 https://stream.rcast.net/7166
+#EXTINF:-1,Radio_Acktiva
+200 https://24403.live.streamtheworld.com:443/RADIO_ACTIVAAAC.aac
+#EXTINF:-1,Classic_KABL_960_Radio
+https://stationplaylist.com:7104/listen.aac
+#EXTINF:-1,940_AM_Oldies
+200 https://streaming.servicioswebmx.com/8284/stream
+#EXTINF:-1,0nlineradio_50s
+302 https://stream.0nlineradio.com/50s
+#EXTINF:-1,RBI_Radio
+200 http://85.195.72.226:18576/;
+#EXTINF:-1,JAKE-FM
+200 https://jake-fm.stream.laut.fm/jake-fm?t302=2023-04-25_19-36-37&uuid=f8c8526e-3ff1-4460-bddb-1ce2448692f5
+#EXTINF:-1,0nlineradio_80s_Rock
+302 https://stream.0nlineradio.com/80s-rock
+#EXTINF:-1,0nlineradio_Greatest_Hits
+302 https://stream.0nlineradio.com/greatest-hits
+#EXTINF:-1,Radio_La_Vaca
+404 https://streaming.gometri.com/stream/8007//stream?icy=http
+#EXTINF:-1,24_de_Agosto
+200 https://24deagosto-zikoxweb.radioca.st/stream
+#EXTINF:-1,Radiostorm_-_Oldies_104
+200 http://ais-edge90-dal03.cdnstream.com/b09584_64aac
+#EXTINF:-1,Radioacktiva_(Medellín)_-_102.3_FM_-_PRISA_Radio_-_Medellín,_Colombia
+https://20843.live.streamtheworld.com:443/RADIOACKTIVA_MEDAAC.aac
+#EXTINF:-1,Sounds_of_Yesterday_(iHeart_Radio)_-_Online_-_ACIR_Online_/_iHeart_Radio_-_Ciudad_de_México
+403 https://23023.live.streamtheworld.com:443/ACIR30_S01AAC.aac
+#EXTINF:-1,Rádio_KIKS_Rock
+https://stream.radiokiks.sk/kiks_rock.mp3
+#EXTINF:-1,La_Dorada_(Córdoba)_-_107.5_FM_-_XHKG-FM_-_Radio_Cañón_/_NTR_Medios_de_Comunicación_-_Córdoba,_Veracruz
+200 https://streaming.servicioswebmx.com/8260/stream
+#EXTINF:-1,Quality_Rock_Z94.3_WZOC
+http://54.166.200.161/wsbt-wzocfmaac-ibc1

@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1,Radio_Universidad
+200 http://01.solumedia.com.ar:8336/;stream.mp3
+#EXTINF:-1,Radio_Universidad_93.5
+200 https://streamall.alsolnet.com/latecno
+#EXTINF:-1,La_Diez
+200 https://panel5.soydigital.fm/8030/stream
+#EXTINF:-1,Gente_Radio
+https://pr1cen101.emisionlocal.com/proxy/genteradio?mp=/live
+#EXTINF:-1,La_Tecno_FM_88.3
+http://190.120.191.168:8000/latecno
+#EXTINF:-1,Radio_Realejos_107.9_FM
+https:/http:/adioserver9.profesionalhosting.com:38035/stream
+#EXTINF:-1,Radio_Universidad_Rafaela_-_FM_97.3_UTN_Rafaela
+200 https://server4.hostradios.com/8372/stream
+#EXTINF:-1,Radio_UTN_Bahia_Blanca_-_FM_93.5
+200 https://sonic.cloudstreaming.eu:10986/;
+#EXTINF:-1,La_100_-_99.9_FM_-_Grupo_Clarín_-_Buenos_Aires,_Argentina
+403 https://24383.live.streamtheworld.com:443/FM999_56.mp3
+#EXTINF:-1,EsRadio_Principal
+200 https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-low.mp3
+#EXTINF:-1,FM_Millenium_106.7
+200 https://sonicpanel.hostradios.com/8002/stream

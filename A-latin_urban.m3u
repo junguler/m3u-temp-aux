@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1,Activa_89.7
+200 http://www.tuasesorweb.com:8032/;
+#EXTINF:-1,Pop_Extremo
+200 https://www.popextremo.mx/envivo
+#EXTINF:-1,Loca_FM_Urban
+200 http://locafm02.we4stream.com:8015/live
+#EXTINF:-1,Top_Urbano
+https:/http:/adio.dominiserver.com/proxy/topurbano?mp=/stream
+#EXTINF:-1,Mas_Flo_107.7
+200 https://vsstreaming.com/8026/stream
+#EXTINF:-1,FMTú_(Torreón)_-_102.7_FM_-_XHRCA-FM_-_Multimedios_Radio_-_Torreón,_Coahuila
+403 https://14093.live.streamtheworld.com:443/XHRCAFMAAC.aac
+#EXTINF:-1,NRJ_Reggeaton
+https://scdn.nrjaudio.fm/fr/31023/aac_64.mp3?origine=playernrj&aw_0_req.userConsentV2=&aw_0_1st.station=NRJ-Reggaeton&cdn_path=adswizz_lbs12&adws_out_b2&access_token=186be3a3dad84e9bab1522818b8e115c
+#EXTINF:-1,Ya!_FM_Villahermosa_-_95.7_FM_-_XHTAB-FM_-_Grupo_Pazos_-_Villahermosa,_TB
+200 https://sgaudio.centrocibernetico.com/yafmvillahermosa
+#EXTINF:-1,LOS40_Aguascalientes_-_95.7_FM_-_XHAGA-FM_-_Grupo_Radiofónico_ZER_-_Aguascalientes,_AG
+200 https://cast.zuperdns.net/8030/stream/
+#EXTINF:-1,Ok_Radio_105.5_FM
+http://okradio.rtvhd.net:8130/;stream/1
+#EXTINF:-1,FMTU_(Monterrey)_-_103.7_FM_-_XHFMTU-FM_-_Multimedios_Radio_-_Monterrey,_NL
+403 https://26483.live.streamtheworld.com:443/FMTU_SC
+#EXTINF:-1,Exa_FM_Taxco_-_92.9_FM_-_XHTXO-FM_-_Radio_Cañón_/_NTR_Medios_de_Comunicación_-_Taxco,_GR
+200 https://streaming.servicioswebmx.com/8290/stream

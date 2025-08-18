@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1,Radyo_Hevi
+200 https://anadolu.liderhost.com.tr:10939/;?1648035949562
+#EXTINF:-1,Dengi_Kurdsat
+http://uk3.internet-radio.com:8011/;
+#EXTINF:-1,TRT_Kurdî_Radyo
+https:/http:/adio-trtradyo6.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,Denge_Qamishlo
+200 https://dengeqamishlo.stream.laut.fm/dengeqamishlo
+#EXTINF:-1,Radio_Fırat_Fm_87.3
+https://anadolu.liderhost.com.tr:10912/;
+#EXTINF:-1,Radyo_Kewra
+200 http://198.7.59.28:8146/;
+#EXTINF:-1,Havin_FM
+200 http://yayin6.radyohizmeti.com:7050/;stream.mp3
+#EXTINF:-1,Radyo_Kurdi_FM
+200 https://anadolu.liderhost.com.tr:10939/;
+#EXTINF:-1,Özgür_Kürtçe_Müzik
+200 https://ssl123.ozelip.com:7000/;
+#EXTINF:-1,Kurd1_FM
+https://listen.radioking.comhttp:/adio/119251/stream/158701
+#EXTINF:-1,Rebaz_FM
+https:/http:/asti.out.airtime.prohttp:/asti_a
+#EXTINF:-1,Radyo_Munzur_Dersim
+200 https://anadolu.liderhost.com.tr:10939/;?1651228613876
+#EXTINF:-1,Dicle_FM
+401 https://dicle-rojavaradio.radioca.st/stream
+#EXTINF:-1,KURDmix
+200 http://solid55.streamupsolutions.com:32000/stream
+#EXTINF:-1,Dawat_Radio
+302 https://node-35.zeno.fm/yr5dpxrr7mzuv
+#EXTINF:-1,Dengê_MED
+404 https://dengemed.stream.laut.fm/dengemed?=radiode
+#EXTINF:-1,Rumed_FM
+200 https://live.radyositesihazir.com/8064/stream
