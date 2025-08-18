@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,Best_Of_Rock.FM_Alternative_Rock_-_0_-_Germany_-_alternative_metal_-_alternative_rock_-_grunge_-_indie_rock_-_punkrock_-_rock
+400 https://stream.punkrockers-radio.de:8443/prr.flac
+#EXTINF:-1,punkrockers-radio_-_0_-_Germany_-_punk_-_punk_oi_ska
+301 http://www.punkrockers-radio.de/playlists/punkrockers.pls
+#EXTINF:-1,Radio_Endstation_-_320_-_Germany_-_oi!_-_oi-punk_-_punk_-_punkrock_-_ska_-_skin_-_skinhead
+302 http://mp3channels.webradio.rockantenne.de/punkrock.aac
+#EXTINF:-1,Rock_Antenne_Punkrock_-_128_-_Germany_-_hardcore_-_punkrock
+200 https://s3-webradio.rockantenne.de/punkrock/stream/mp3

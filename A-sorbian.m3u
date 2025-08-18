@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,MDR_Sachsen_Sorbisches_Programm
+200 http://avw.mdr.de/streams/990100-0_mp3_high.m3u
+#EXTINF:-1,Radio_Limón_
+302 https://stream.zeno.fm/ab7s6nvkmfeuv
+#EXTINF:-1,Sonido_Retro
+502 https://radio.sonidoretro.com/radio/8000/radio.mp3
+#EXTINF:-1,MDR_SACHSEN_-_Sorbisches_Programm
+404 https://mdr-990100-0.sslcast.mdr.de/mdr/990100/0/aac/high/stream.aac?aggregator=radio-de
+#EXTINF:-1,Radio_Relax_Ue
+400 https://radiorelaxue.radioca.st/stream
+#EXTINF:-1,MDR_Radijo_Sakska
+200 http://d111.rndfnk.com/ard/mdr/990100/0/mp3/128/stream.mp3?cid=01FBQ0NXNM369QWDTXBSSM3S5J&sid=2R8y7GsP1CrRuiriELTDMlWvLQT&token=ACQsKUyauCu02G3YW5Jnv5XI-YrAvlUiLgBeoBU-a7Y&tvf=1BecLBg_aBdkMTExLnJuZGZuay5jb20

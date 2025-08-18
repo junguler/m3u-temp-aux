@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,Radio_Universidad_(UADY)_(Mérida)_-_XHRUY-FM_/_XERUY-AM__-103.9_FM_/_1120_AM_-_Universidad_Autónoma_de_Yucatán_-_Mérida_-__YU_-_64_-_Mexico_-_103.9_-_103.9_fm_-_1120_-_1120_am_-_am_-_college_-_college_radio_-_estación_-_fm_-_merida_-_mex_-_mexico_-_mx_-_mérida_-_méxico_-_public_-_public_radio_-_public_service_-_publica_-_radio_-_radio_publica_-_radio_universidad_-_uady_-_universidad_-_university_-_university_radio_-_yucatan_-_yucatán
+400 https://radio.uady.mx:8443/radiouniversidad
+#EXTINF:-1,Universidad_Claf_103.7_Mhz_-_320_-_Argentina_-_musica_-_noticias_-_universidad
+200 https://player.hstbr.net/universidadefm/winamp.pls
+#EXTINF:-1,UNQRadio_-_FM_91.5_-_192_-_Argentina_-_radio_universidad_-_unq
+200 http://streaming.radiouniversidad.pr:8062/;

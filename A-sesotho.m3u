@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,Jozi_FM
+200 https://edge.iono.fm/xice/51_medium.aac
+#EXTINF:-1,Jozi_FM_(HiFi_aac)
+200 https://edge.iono.fm/xice/51_high.aac
+#EXTINF:-1,Lesedi_FM_SABC
+403 http://23613.live.streamtheworld.com/LESEDIAAC.aac
+#EXTINF:-1,Lesedi_FM
+403 https://25493.live.streamtheworld.com:443/LESEDIAAC.aac
+#EXTINF:-1,Kurrambera_Stereo_93.5_Fm
+200 https://streaming.radiosenlinea.com.ar/8256/stream
+#EXTINF:-1,Rincon_Musical
+405 https://stream-148.zeno.fm/ttknztdnknzuv?zs=opGAeBRaQ6q7IDWMJBuqvQ

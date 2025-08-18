@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,2MBS_Fine_Music_Sydney_-_128_-_Australia_-_classical_-_jazz_-_sydney
+200 https://mediaserviceslive.akamaized.net/hls/live/2038302/localsydney/masterhq.m3u8
+#EXTINF:-1,ABC_Local_Radio_702_Sydney_(MP3)_-_64_-_Australia_-_abc_-_features_-_local_news_-_news_-_public_radio_-_sydney
+200 http://www.radiosydney.com.au/ownplayer2016/ARTISTS/artist%20-%20%20Abba.m3u

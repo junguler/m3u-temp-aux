@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,Love_Radio
+301 http://loveradio.ru
+#EXTINF:-1,Kiss_FM_Moldova
+200 https://live.kissfm.md/kissfm.chisinau
+#EXTINF:-1,Love_Radio_Казахстан
+https://stream.gakku.tv:8443/love128.mp3
+#EXTINF:-1,Heart_FM
+301 https://icecast.gtrk22.ru:8443/heartfm
+#EXTINF:-1,Kiss_FM_Armenia
+400 https://am.radioaurora.am/kiss
+#EXTINF:-1,LoveBeats_-_laut.fm
+200 https://lovebeats.stream.laut.fm/lovebeats

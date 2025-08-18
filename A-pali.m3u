@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,BBC_Nepali_-_56_-_Nepal_-_news
+400 https://stream.live.vc.bbcmedia.co.uk/bbc_nepali_radio
+#EXTINF:-1,Hand_Of_Jesus_-_NEPALI_-_64_-_India_-_christian
+https://dc1.serverse.com/proxy/hojnepali/stream
+#EXTINF:-1,Kantipur_FM_-_128_-_Nepal_-_kantipur_-_kathmandu_-_nepal_-_nepali
+https://i4.streams.ovh/sc/kpaliotz/;stream.mp3?_=2
+#EXTINF:-1,რადიო_პალიტრა_(Radio_Palitra)_-_128_-_Georgia_-_
+400 https://radiostream.palitra.ge/stream.mp3

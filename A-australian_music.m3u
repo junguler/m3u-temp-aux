@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,V1_RADIO
+404 https://usa10.fastcast4u.com/v1radio
+#EXTINF:-1,Portuguese_Radio
+200 https://s2.radio.co/sdff54b89f/listen
+#EXTINF:-1,Central_Coast_Radio.com
+200 https://s4.radio.co/scf2280c01/listen
+#EXTINF:-1,Rebel_FM_Australia
+400 https://s8.yesstreaming.net:17145/RblGC_hq?1638436061635
+#EXTINF:-1,ABC_Local_Radio_97.3_Illawarra,_NSW_(MP3)
+502 http://live-radio03.mediahubaustralia.com/2WOLW/mp3/
+#EXTINF:-1,4mbs_Classic_FM
+200 http://s9.viastreaming.net:9620/;stream.mp3

@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,Fiesta_Mexicana_(Nuevo_Laredo)_-_101.5_FM_-_XHAS-FM_-_Radiorama_Nuevo_Laredo_-_Nuevo_Laredo,_Tamaulipas
+https://server2.sit-mexico.com:2199/proxy/fiestamexicana?mp=/stream/
+#EXTINF:-1,Fiesta_Mexicana_(Delicias)_-_94.5_FM_-_XHCDS-FM_-_Promosat_de_México_-_Delicias,_Chihuahua
+http:/http:/adio.promosat.com:8122/stream

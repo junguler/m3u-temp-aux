@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1,O_101.5
+404 https://stream.statsradio.com:8016/stream
+#EXTINF:-1,Radio_Aléo
+http://vt-net.org:8056/;
+#EXTINF:-1,Europe_2_Nouvelle_Scène
+200 https://europe2.lmn.fm/vr-wr8.mp3
+#EXTINF:-1,Top_Tonic_Accordéon
+200 http://streamingp.shoutcast.com/JamendoLounge
+#EXTINF:-1,MiNT
+302 http://audiostream.rtl.be/mint192

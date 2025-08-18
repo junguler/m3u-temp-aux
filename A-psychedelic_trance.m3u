@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1,Радио_Рекорд_-_GOA/PSY
+https:/http:/adiorecord.hostingradio.ru/goa96.aacp
+#EXTINF:-1,DFM_Psy_Trance
+https://dfm-psytrance.hostingradio.ru/psytrance96.aacp
+#EXTINF:-1,DFM_Armin_Van_Buuren
+https://dfm-avburren.hostingradio.ru/avburren96.aacp
+#EXTINF:-1,Radio_Babaganousha_Psytrance
+200 http://188.68.42.236:8000/listen.mp3
+#EXTINF:-1,Psychedelic.FM
+200 https://s2.radio.co/s2696f08b5/listen

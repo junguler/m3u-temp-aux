@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,95.1_FM_Chicago
+502 https://ais-sa1.streamon.fm/7777_96k.aac
+#EXTINF:-1,VIBE-IN_Radio
+https://ic2.sslstream.com/vibe-in?1630781833905
+#EXTINF:-1,Gotta_Have_House_Radio
+400 https://s4.radioforge.com:8450/live?hash=1630782671414.mp3
+#EXTINF:-1,Chicago_House_Radio
+200 https://stream.radio.co/sae989fe39/listen
+#EXTINF:-1,SoulJack_Digital
+400 https://s8.voscast.com:9853/live
+#EXTINF:-1,Deus_Entertainment_Radio
+302 https://ais-edge104-live365-dal02.cdnstream.com/a46210
+#EXTINF:-1,Zonika_Tv_Radio_Fm
+302 https://ais-edge106-live365-dal02.cdnstream.com/a00026
+#EXTINF:-1,JAM98
+https://listen.radioking.comhttp:/adio/513154/stream/571063

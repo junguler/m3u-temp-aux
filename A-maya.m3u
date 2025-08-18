@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,XHPET_(La_voz_de_los_Mayas)_-_105.5_FM_[Peto,_Yucatán]
+http://ecos.inpi.gob.mx:8080/xepet
+#EXTINF:-1,XEETCH_(La_voz_de_los_tres_ríos)_-_700_AM_[Etchojoa,_Sonora]
+http://radios.inpi.gob.mx:8080/xeetch
+#EXTINF:-1,mayak22_-_0_-_The_Russian_Federation_-_22_-_altaiskiy_-_altaiy_-_barnaul_-_mayak
+301 http://gtrk22.ru:8000/mayak22
+#EXTINF:-1,mayakfm_mp3_128kbps_-_128_-_The_Russian_Federation_-_
+https://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_128kbps
+#EXTINF:-1,XEXPUJ-AM_La_Voz_del_Corazón_de_la_Selva__-_24_-_Mexico_-_indigenous_-_lenguas_indigenas_-_maya_-_yucatec_-_yucatec_maya
+200 https://icecast-vgtrk.cdnvideo.ru/mayakfm
+#EXTINF:-1,Радио_Маяк_Кострома_100.9_FM_-_64_-_The_Russian_Federation_-_music_-_news_-_politics_-_radio_mayak_-_talk
+400 https://radio.murman.tv/mayak/mp3

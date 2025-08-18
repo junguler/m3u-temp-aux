@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,Generations_-_Rap_FR_Gold
+200 https://gene-wr06.ice.infomaniak.ch/gene-wr06.aac
+#EXTINF:-1,Urban_Hit_-_Rap_FR
+200 https://urbanhitrapfr.ice.infomaniak.ch/urbanhitrapfr-128.mp3
+#EXTINF:-1,Mouv&#039;_Rap_Français
+200 https://icecast.radiofrance.fr/mouvrapfr-hifi.aac
+#EXTINF:-1,Générations_Lyon
+http:/http:/adiosun.ice.infomaniak.chhttp:/adiosun-high.mp3
+#EXTINF:-1,Allzic_Rap_Fr
+200 http://allzic02.ice.infomaniak.ch/allzic02.mp3
+#EXTINF:-1,Generations_Rap_FR
+200 http://generationfm-rap.ice.infomaniak.ch/generationfm-rap-high.mp3

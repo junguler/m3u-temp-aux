@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,goa_base
+200 http://goa-base.stream.laut.fm/goa-base
+#EXTINF:-1,goa_channel_one
+200 http://goa-channel-one.stream.laut.fm/goa-channel-one
+#EXTINF:-1,space_fm_1
+200 http://space_fm_1.stream.laut.fm/space_fm_1
+#EXTINF:-1,psychedelic_goa_trance_pro_darkspy
+200 http://psychedelic_goa_trance_pro_darkspy.stream.laut.fm/psychedelic_goa_trance_pro_darkspy
+#EXTINF:-1,goanight
+200 http://goanight.stream.laut.fm/goanight
+#EXTINF:-1,Радио_Рекорд_-_GOA/PSY
+https:/http:/adiorecord.hostingradio.ru/goa96.aacp
+#EXTINF:-1,Radio_Babaganousha_Psytrance
+200 http://188.68.42.236:8000/listen.mp3
+#EXTINF:-1,Goa_Trance_Chillout
+200 http://komplex2.psyradio.org:8020/;

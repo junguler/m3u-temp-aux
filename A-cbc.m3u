@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,CBC_Music_-_CBH-FM_-_CBN-FM_-_Atlantic_-_Halifax_-_NS_-_St._John's_-_NL_-_102.7FM_-_106.9_FM_-_48_-_Canada_-_alternative_-_atlantic_-_canada_-_cbc_-_cbc_music_-_cbc_radio_2_-_classical_-_halifax_-_public_service_-_st._john's
+200 https://cbcradiolive.akamaized.net/hls/live/2041055/ES_R2AHF/master.m3u8
+#EXTINF:-1,CBC_Radio_One_Edmonton__-_128_-_Canada_-_cbc_-_features_-_news_-_public_radio
+200 https://cbcradiolive.akamaized.net/hls/live/2041029/ES_R1ELD/master.m3u8

@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,Positively_Baroque
+200 https://play.organlive.com:7020/128
+#EXTINF:-1,Radio_Malvern_International
+404 https://cast2.asurahosting.com/proxyhttp:/adiomalvernint/stream
+#EXTINF:-1,1001_CLASSIC_COLLECTION
+502 https://jenny.torontocast.com:2000/stream/1001classiccollection
+#EXTINF:-1,1.fm_Otto&#039;s_Baroque_music
+200 http://strm112.1.fm/baroque_mobile_aac
+#EXTINF:-1,MPR_Classical_24/7
+200 https://cms.stream.publicradio.org/cms.mp3
+#EXTINF:-1,#1_Splash_Classical
+200 https://ais-sa2.cdnstream1.com/2208_128.mp3

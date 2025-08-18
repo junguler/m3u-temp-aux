@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,97.7_Max_FM
+200 https://bayshore-ais.leanstream.co/CHGBFM
+#EXTINF:-1,NRJ_Energy_Georgia
+https://shaincast.caster.fm:24734/listen.mp3
+#EXTINF:-1,WREK
+400 https://streaming.wrek.org/main/128kb.mp3
+#EXTINF:-1,WISK_98.7_FM
+http://173.193.205.96:8138/;
+#EXTINF:-1,The_Peak
+200 https://live.leanstream.co/CKCBFM-MP3
+#EXTINF:-1,The_Beach
+200 https://bayshore.leanstream.co/CFPSFM
+#EXTINF:-1,Radio_Marneuli
+400 http://stream.it-solutions.ge:8000/mp3-radiomarneulifm
+#EXTINF:-1,Georgia_One_TV
+200 http://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8
