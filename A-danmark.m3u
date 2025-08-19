@@ -1,0 +1,333 @@
+#EXTM3U
+#EXTINF:-1,DR_P6_Beat
+200 http://live-icy.gss.dr.dk:8000/A/A29H.mp3
+#EXTINF:-1,La_Salsa_Del_Tren_Del_Sabor
+400 http://pstnet5.shoutcastnet.com:50380/
+#EXTINF:-1,ABINAYAM_FM
+http://192.99.170.8:5756/
+#EXTINF:-1,DR_Ramasjang
+200 http://live-icy.gss.dr.dk:8000/A/A24H.mp3
+#EXTINF:-1,Radio_Gloria
+http://stream06.adm24.de:56840/
+#EXTINF:-1,DR_P2_Klassisk
+200 http://live-icy.gss.dr.dk:8000/A/A04H.mp3
+#EXTINF:-1,Oldies_Radio_Danmark
+200 http://live-icy.gss.dr.dk:8000/A/A02L.mp3
+#EXTINF:-1,Radio_Playback_Rock
+400 http://stream01.radioplayback.dk/live
+#EXTINF:-1,Rockradio.dk
+404 https://stream.rcs.revma.com/shut3awap8hvv
+#EXTINF:-1,Højderyggens_Lokalradio
+http://78.156.96.48:1212/broadwave.mp3
+#EXTINF:-1,Specific_Radio
+404 http://stream.specific.dk/SR
+#EXTINF:-1,PartyZone.nu
+http://stream1.partyzone.nu/mp3
+#EXTINF:-1,Radio_Partyzone
+http://stream.partyzone.nu:8080
+#EXTINF:-1,Radio_Boost_-_De_Unges_Pust
+200 http://149.202.22.75:8066/
+#EXTINF:-1,Retro90
+302 http://www.radioking.com/play/retro90dk/111184
+#EXTINF:-1,PartyFM.dk
+http://stream.partyfm.dk/Party320
+#EXTINF:-1,Specefic
+https://eu9.fastcast4u.com/proxy/syrqfdym?mp=/stream
+#EXTINF:-1,Head_FM.net
+200 https://443-1.reliastream.com/35/
+#EXTINF:-1,partyradio.
+400 http://power.partyradio.dk:8000/live?
+#EXTINF:-1,RADIO_EPIC_Denmark
+http://nossl.play.radioepic.dk/radio/8000/live
+#EXTINF:-1,Nordic_Lodge_Copenhagen
+http://217.116.9.142:9109/stream
+#EXTINF:-1,House_Radio_Danmark
+404 http://stream.house-radio.com/stream.mp3
+#EXTINF:-1,DR_P3
+200 http://live-icy.gss.dr.dk:8000/A/A05L.mp3
+#EXTINF:-1,Radio_Soft
+https://live-bauerdk.sharp-stream.com/radiosoft_dk_tunein_mp3?aw_0_1st.playerid=BMUK_TuneIn&aw_0_1st.skey=1594115476
+#EXTINF:-1,NRJ_Denmark
+302 http://adwzg3.tdf-cdn.com/8470/nrj_165631.mp3
+#EXTINF:-1,DR_P4_Kobenhavn
+200 http://live-icy.gss.dr.dk:8000/A/A08H.mp3
+#EXTINF:-1,DR_P4_Midt_Vest
+200 http://live-icy.gss.dr.dk:8000/A/A09H.mp3
+#EXTINF:-1,Radio_Skive
+301 http://netradio.radioskive.dk
+#EXTINF:-1,Radio_SydhavsØerne
+301 http://netradio.dk/
+#EXTINF:-1,ANR
+405 http://stream.anr.dk:80/anr
+#EXTINF:-1,Radio_3
+http://streaming.fynskemedier.dk:80/radio3
+#EXTINF:-1,Radio_Diablo
+400 http://icecast1.radiostuff.dk:8000/Diablo128
+#EXTINF:-1,Radio_Playback.dk
+200 http://stream02.radioplayback.dk/stream
+#EXTINF:-1,Go_FM
+301 http://netradio.gofm.dk/
+#EXTINF:-1,Radio_Ballerup
+http://108.166.161.210:9076
+#EXTINF:-1,Guld_FM_Radio_Aura
+405 http://stream.anr.dk:80/aura
+#EXTINF:-1,NERadio
+http://fire1.neradio.com:80
+#EXTINF:-1,DR_P8_Jazz
+200 http://live-icy.gss.dr.dk:8000/A/A22H.mp3
+#EXTINF:-1,DR_P4_Ostjylland
+200 http://live-icy.gss.dr.dk:8000/A/A14H.mp3
+#EXTINF:-1,DR_P4_Syd
+200 http://live-icy.gss.dr.dk:8000/A/A12H.mp3
+#EXTINF:-1,Lounge_Radio_Danmark
+400 http://fr1.streamhosting.ch:8080/
+#EXTINF:-1,Tiger_FM_/_Skagen_Nærradio
+http://85.202.67.163:8001/stream.mp3
+#EXTINF:-1,DR_P1
+200 http://live-icy.gss.dr.dk:8000/A/A03H.mp3
+#EXTINF:-1,DR_P4_Nordjylland
+200 http://live-icy.gss.dr.dk:8000/A/A10H.mp3
+#EXTINF:-1,DR_P4_Fyn
+200 http://live-icy.gss.dr.dk:8000/A/A07H.mp3
+#EXTINF:-1,Radio24Syv
+308 http://rrr.sz.xlcdn.com/?account=Radio24syv&file=ENC1_Android64&type=live&service=icecast&protocol=http&port=8000&output=pls
+#EXTINF:-1,DR_P4_Sjaelland
+200 http://live-icy.gss.dr.dk:8000/A/A11H.mp3
+#EXTINF:-1,RadioUpdate
+302 http://listen.radionomy.com/billtop100
+#EXTINF:-1,Radio_365Nyheder
+http://37.59.28.208:8251/stream
+#EXTINF:-1,Globus_Guld
+200 http://media.wlmm.dk/globusguld
+#EXTINF:-1,skala_fm
+400 http://netradio.skala.fm/varde
+#EXTINF:-1,Radio_SLR
+301 http://netradio.radioslr.dk
+#EXTINF:-1,Gold_FM
+http://stream.radiosolutions.dk:60030/gold
+#EXTINF:-1,Radio_Weekend
+http://usa2.fastcast4u.com:4024/
+#EXTINF:-1,...:::Radio_Freja:::...
+http://eu6.fastcast4u.com:5571/
+#EXTINF:-1,Easy_FM_Danmark
+http://cristina.torontocast.com:8054/live
+#EXTINF:-1,AllSoundFM
+404 https://stream.radio.co/scf60c2a6d/listen
+#EXTINF:-1,NOVA_fm
+403 http://stream.novafm.dk/nova128
+#EXTINF:-1,DR_P5
+200 http://live-icy.gss.dr.dk:8000/A/A25H.mp3
+#EXTINF:-1,DR_P7_Mix
+200 http://live-icy.gss.dr.dk:8000/A/A21H.mp3
+#EXTINF:-1,Radio_100
+403 http://onair.100fmlive.dk/100fm_live.mp3
+#EXTINF:-1,The_Voice_Radio
+403 http://stream.voice.dk/voice128
+#EXTINF:-1,DR_P4_Trekanten
+200 http://live-icy.gss.dr.dk:8000/A/A13H.mp3
+#EXTINF:-1,Radio_Alfa
+http://89.249.7.68/alfa
+#EXTINF:-1,2town_Radio
+200 http://streaming.radio.co:80/sd9d980ff0/listen
+#EXTINF:-1,Radio_Mojn
+404 http://netradio.mojn.dk/mojn
+#EXTINF:-1,DR_P4_Bornholm
+200 http://live-icy.gss.dr.dk:8000/A/A06H.mp3
+#EXTINF:-1,Radio_ABC
+301 http://netradio.radioabc.dk/
+#EXTINF:-1,Radio_Globus
+200 http://media.wlmm.dk:80/radioglobus
+#EXTINF:-1,Radio_Als
+400 http://webradio.classicfm.dk/classicals
+#EXTINF:-1,Radio_Dobre_Vibracije
+http://81.7.160.152:8010/live
+#EXTINF:-1,DIN_RADIO_8600
+http://stream.dinradio8600.dk/DinRadioSilkeborg
+#EXTINF:-1,RadioHLR
+http://stream.radiohlr.dk:9010/
+#EXTINF:-1,Radio_Max_Danmark
+http://netradio.radiomax.dk:8002/max.mp3
+#EXTINF:-1,VibeFM
+http://s1.vibestream.dk:9020/live
+#EXTINF:-1,Midtfjord_Radio
+400 http://stream.midtfjordradio.dk/netradio
+#EXTINF:-1,Radio_Happy_DK
+404 http://stream.radiohappy.dk/stream
+#EXTINF:-1,Radio_HSR
+http://radiohsr.dk//modules/mod_rar_radio/tmpl/player/player.php?d=aHR0cDovL3N0cmVhbS5yYWRpb3NvbHV0aW9ucy5kazo2MDA2MC9oc3IsaHR0cDovL3JhZGlvaHNyLmRrLyxpbWFnZXMvbmV0cmFkaW8uZ2lmLHB1Yi02ODI0NDk0OTQyNzA0NjkxLEhTUiBOZXQgUmFkaW8sMTUwLDAsMyxodHRwOi8vbXlkb21haW4u
+#EXTINF:-1,902FM
+302 https://s25.myradiostream.com/15246/listen.mp3
+#EXTINF:-1,Radio_SNR
+200 https://cdn2.cloudrad.io/radiosnr/listen.m3u
+#EXTINF:-1,Radio_ALR
+200 https://streamer.radio.co/s6a9beb92e/listen
+#EXTINF:-1,Techno_Radio_Danmark
+400 http://stream.techno.fm/radio.mp3
+#EXTINF:-1,Trance_Radio_Danmark
+200 http://chicago.discovertrance.com:9214/
+#EXTINF:-1,radio_midtsjælland
+http://radio.deskcloud.dk:4000
+#EXTINF:-1,Universitetsradioen
+200 https://uniradio.out.airtime.pro:8443/uniradio_a
+#EXTINF:-1,Radio_Marimanga
+https://s11.ssl-stream.com/ssl/marimanga?mp=/
+#EXTINF:-1,Radio_Rønde
+401 https://stream.probroadcast.dk/djurs
+#EXTINF:-1,DR_P1_(København)
+200 http://live-icy.gss.dr.dk:8000/A/A03L.mp3
+#EXTINF:-1,DR_P4_(Sjælland)
+200 http://live-icy.gss.dr.dk:8000/A/A11L.mp3
+#EXTINF:-1,DR_P5_(København)
+200 http://live-icy.gss.dr.dk:8000/A/A25L.mp3
+#EXTINF:-1,Radio_Alfa_(Silkeborg)
+400 https://radioserver.dk/alfasilk
+#EXTINF:-1,DR_P4_(Fyn)
+200 http://live-icy.gss.dr.dk:8000/A/A07L.mp3
+#EXTINF:-1,902FM_Det_Nye_Radio_Ballerup
+302 https://s25.myradiostream.com/15246/stream/1/
+#EXTINF:-1,Radio_Viva
+200 https://stream.probroadcast.dk/radioviva
+#EXTINF:-1,DR_P8_Jazz_(København)
+200 http://live-icy.gss.dr.dk/A/A22H.mp3
+#EXTINF:-1,Assyrian_Babylon_Radio
+http://server.assyrians.dk:1930/
+#EXTINF:-1,ANR_Rock
+405 https://stream.anr.dk/anr
+#EXTINF:-1,VLR_(Vejle)
+400 https://webradio.vlr.dk/vlr
+#EXTINF:-1,Limfjord_Mix
+400 https://media.limfjordnetradio.dk/plus128
+#EXTINF:-1,Pop_FM_(København)
+https://live-bauerdk.sharp-stream.com/popfm_dk_mp3
+#EXTINF:-1,DR_P4_(Midt_Vest)
+200 http://live-icy.gss.dr.dk:8000/A/A09L.mp3
+#EXTINF:-1,The_Voice_(København)
+https://live-bauerdk.sharp-stream.com/thevoice_dk_mp3
+#EXTINF:-1,Radio_Alborz
+http://live.indvandrerradio.dk:8000/
+#EXTINF:-1,Radio_Halsnæs
+http://halsstream.spdns.de:8000/live
+#EXTINF:-1,Radio_Silkeborg
+400 https://radioserver.dk/silkeborg
+#EXTINF:-1,Nordsjællands_Kristne_Radio
+http://studie.hkr.dk:8000/stream/1/
+#EXTINF:-1,Radio_M
+400 https://radioserver.dk/radiom
+#EXTINF:-1,Radio_SLR_(Næstved)
+401 http://stream.wlmm.dk/stream/54/
+#EXTINF:-1,Skala_FM
+400 https://webradio.skala.fm/kolding
+#EXTINF:-1,NRJ
+404 https://stream.rcs.revma.com/ac5w5z7pshruv
+#EXTINF:-1,Nordic_Lodge_(Copenhagen)
+http://larry.torontocast.com:2090/stream
+#EXTINF:-1,Skaga_FM
+200 http://stream.wlmm.dk/stream/30/
+#EXTINF:-1,Radio_2500_(København)
+404 https://stream.radiojar.com/2at2m99a0mzuv
+#EXTINF:-1,Classic_FM
+400 https://webradio.skala.fm/classic
+#EXTINF:-1,Radio_Limfjord
+400 https://media.limfjordnetradio.dk/limfjord128
+#EXTINF:-1,Globus_Guld_(Nord)
+200 https://stream.probroadcast.dk/guldnord
+#EXTINF:-1,DR_P4_(Syd)
+200 http://live-icy.gss.dr.dk:8000/A/A12L.mp3
+#EXTINF:-1,Norea
+200 http://radio.norea.dk:8080/stream/128/
+#EXTINF:-1,Radio_Victoria
+200 https://stream.probroadcast.dk/victoria
+#EXTINF:-1,Radio_2000_(Ringe)
+400 http://icecast3.radiostuff.dk:8000/radio2000
+#EXTINF:-1,Radio_Klassisk_(København)
+https://live-bauerdk.sharp-stream.com/radioklassisk_dk_mp3
+#EXTINF:-1,Radio_Aap_ki_Awaz
+400 http://162.244.80.106:11332/stream
+#EXTINF:-1,Globus_Guld_Kolding
+200 https://stream.probroadcast.dk/guldkolding
+#EXTINF:-1,Radio_Alfa_(Midtjylland)
+400 https://radioserver.dk/alfamidt
+#EXTINF:-1,Radio_Trepqa
+302 https://stream.zenolive.com/wxev75q0h18uv
+#EXTINF:-1,Globus_Guld_(Syd)
+200 https://stream.probroadcast.dk/guldsyd
+#EXTINF:-1,Radio_Rollo
+400 http://stream.radiosolutions.dk/rollo
+#EXTINF:-1,Næstved_Lokal_Radio
+https://solid67.streamupsolutions.com/proxy/wcwmpntf?mp=%2Fstream
+#EXTINF:-1,NOVA_(København)
+https://live-bauerdk.sharp-stream.com/nova_dk_mp3
+#EXTINF:-1,DR_P2_(København)
+200 http://live-icy.gss.dr.dk:8000/A/A04L.mp3
+#EXTINF:-1,Radio_Vesterbro
+200 http://s2.ssl-stream.com:8010/stream/1/
+#EXTINF:-1,Webfm
+301 https://stream1.webfm.dk/Webfm
+#EXTINF:-1,Radio_Marlab
+http://37.187.93.104:8411/autodj
+#EXTINF:-1,Radio_Viborg
+400 https://webradio.radioviborg.dk/viborg
+#EXTINF:-1,MyRock_(Odense)
+https://live-bauerdk.sharp-stream.com/myrock_dk_mp3
+#EXTINF:-1,Rise_FM_Denmark
+https://stream.risefm.org
+#EXTINF:-1,Radio_Freja
+https://solid67.streamupsolutions.com/proxy/ingjmhed?mp=/stream
+#EXTINF:-1,Radio_Nord_(Pandrup)
+400 https://netradio.radionord.dk:8443/RadioNord
+#EXTINF:-1,Radio_Freja_Rock
+https://solid67.streamupsolutions.com/proxy/datdkvib?mp=/stream
+#EXTINF:-1,Solo_FM
+400 https://radioserver.dk/solo
+#EXTINF:-1,Skala_FM_(Odense)
+400 https://webradio.skala.fm/odense
+#EXTINF:-1,Radio_4
+302 https://netradio.radio4.dk/radio4
+#EXTINF:-1,Radio_Alfa_Sydfyn
+400 https://icecast1.radiostuff.dk/Alfasydfyn128
+#EXTINF:-1,Den2Radio
+http://81.7.160.152:8010/d2r.mp3
+#EXTINF:-1,PartyFM
+400 https://stream1.partyfm.dk/Party320
+#EXTINF:-1,DR_P6_Beat_(København)
+200 http://live-icy.gss.dr.dk:8000/A/A29L.mp3
+#EXTINF:-1,DR_P4_(Østjylland)
+200 http://live-icy.gss.dr.dk:8000/A/A14L.mp3
+#EXTINF:-1,Radio_VLR_(Horsens)
+400 https://webradio.vlr.dk/vlrhorsens
+#EXTINF:-1,DR_P4_Esbjerg
+200 http://live-icy.gss.dr.dk:8000/A/A15L.mp3
+#EXTINF:-1,Mix_FM
+https://netradio.mixfm.dk/stream
+#EXTINF:-1,Radio_40_Plus
+400 http://stream.radiosolutions.dk/radio40plus
+#EXTINF:-1,Radio_Projekti_21
+http://64.150.176.42:8178/stream/1/
+#EXTINF:-1,Retro_Radio
+https://stream128.retro-radio.dk/retro
+#EXTINF:-1,DR_Nyheder
+200 http://live-icy.gss.dr.dk:8000/A/A02H.mp3
+#EXTINF:-1,Radio_Øst_FM
+200 https://stream.probroadcast.dk/oestfmmp3
+#EXTINF:-1,NMRadio
+400 http://5.56.158.246:8000/stream
+#EXTINF:-1,Radio_Klitholm
+400 http://stream.radioklitholm.dk:8000/stream
+#EXTINF:-1,Radio_Nordjyske_(Aalborg)
+405 https://stream.anr.dk/nordjyske
+#EXTINF:-1,Always_Elvis_Radio
+400 https://radioserver.dk/alwayselvisradio
+#EXTINF:-1,Globus_Guld_(Midt)
+200 https://stream.probroadcast.dk/guldmidt
+#EXTINF:-1,Radio_Seni
+200 https://server4p.com/8004/stream/1/
+#EXTINF:-1,Albertslund_Radio
+404 https://www.albertslundradio.dk/lyd/overv%C3%A5gning.mp3
+#EXTINF:-1,Skala.fm_(Odense)
+400 https://webradio.skala.fm/varde
+#EXTINF:-1,Radio_go!FM
+400 https://radioserver.dk/gofm
+#EXTINF:-1,Radio_Køge
+200 https://stream.probroadcast.dk/radiokoege
+#EXTINF:-1,Radio_Sydhavsoerne
+401 https://stream.probroadcast.dk/sydhavsradioaac

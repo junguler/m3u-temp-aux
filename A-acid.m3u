@@ -1,0 +1,223 @@
+#EXTM3U
+#EXTINF:-1,Oldskool_Internet_Radio
+http://87.117.201.160:8400/stream/1
+#EXTINF:-1,Purple_Radio
+http://uk1-pn.webcast-server.net:8184/stream/1
+#EXTINF:-1,SONGCAST_RADIO_-_Jazz
+302 http://www.songcastradio.com:9020/stream/1
+#EXTINF:-1,exo_breed
+200 http://exo_breed.stream.laut.fm/exo_breed
+#EXTINF:-1,additan
+200 http://additan.stream.laut.fm/additan
+#EXTINF:-1,sonnenscheinquartett
+200 http://sonnenscheinquartett.stream.laut.fm/sonnenscheinquartett
+#EXTINF:-1,retroelectronicmusic
+200 http://retroelectronicmusic.stream.laut.fm/retroelectronicmusic
+#EXTINF:-1,fm303
+200 http://fm303.stream.laut.fm/fm303
+#EXTINF:-1,clubnight
+200 http://clubnight.stream.laut.fm/clubnight
+#EXTINF:-1,frechradio
+200 http://frechradio.stream.laut.fm/frechradio
+#EXTINF:-1,green1
+200 http://green1.stream.laut.fm/green1
+#EXTINF:-1,mallorca_andy
+200 http://mallorca-andy.stream.laut.fm/mallorca-andy
+#EXTINF:-1,radio_turntable
+200 http://radio-turntable.stream.laut.fm/radio-turntable
+#EXTINF:-1,hafensound
+200 http://hafensound.stream.laut.fm/hafensound
+#EXTINF:-1,millennial_vinyl_dj
+200 http://millennial-vinyl-dj.stream.laut.fm/millennial-vinyl-dj
+#EXTINF:-1,vdren
+404 http://vdren.stream.laut.fm/vdren
+#EXTINF:-1,berlin_calling
+200 http://berlin_calling.stream.laut.fm/berlin_calling
+#EXTINF:-1,sothitsradio
+200 http://sothitsradio.stream.laut.fm/sothitsradio
+#EXTINF:-1,bibraverkollektiv
+200 http://bibraverkollektiv.stream.laut.fm/bibraverkollektiv
+#EXTINF:-1,Noize_Machine_Radio
+http://91.121.77.158:8072/listen.pls
+#EXTINF:-1,HARDERFM_THE_HARDERSOUND
+https://s1.frenchcore.fm/radio/8000/
+#EXTINF:-1,Freerave.cz_-_Tekno_Radio
+302 https://onlineradiobox.com/json/cz/freerave/play?platform=web
+#EXTINF:-1,Puff_The_Rave
+404 https://listen.radioking.com/radio/294895/stream/341344
+#EXTINF:-1,BillFM
+200 https://visual.shoutca.st:8122/stream
+#EXTINF:-1,Dance_Wave_Radio
+200 https://dance-wave-radio.stream.laut.fm/dance-wave-radio
+#EXTINF:-1,Ultradesértica
+302 https://onlineradiobox.com/json/mx/ultradesertica/play?platform=web
+#EXTINF:-1,Digitally_Imported_-_Oldschool_Acid
+403 http://www.di.fm/oldschoolacid
+#EXTINF:-1,MAX_FM
+404 https://onlineradiobox.com/json/uk/80sn90s/play?platform=web
+#EXTINF:-1,Ultradesertica
+302 https://onlineradiobox.com/json/us/ultradesertica/play?platform=web
+#EXTINF:-1,92.3_The_Fox
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/KOFXFMAAC.aac?dist=onlineradiobox
+#EXTINF:-1,Freak31
+301 http://stream.freak31.com:8322/
+#EXTINF:-1,Qfm_94.3
+http://50.97.94.44:8005
+#EXTINF:-1,90s90s_Techno
+302 http://streams.90s90s.de/techno/mp3-192/liveonlineradio/
+#EXTINF:-1,Ultradesértica_radio
+http://176.31.118.194:30126/
+#EXTINF:-1,Ultradesertica_radio
+http://176.31.118.194:30126/stream.nsv
+#EXTINF:-1,MAX_FM_radio
+http://15458.cloudrad.io:9112/live
+#EXTINF:-1,Acidv1p3r_Radio
+403 https://radio.acidv1p3r.com/listen/acidv1p3r_radio/live.opus
+#EXTINF:-1,AcidHill_Radio
+302 https://stream.rcast.net/258549
+#EXTINF:-1,SerrebiRadio
+404 https://radio.serrebiradio.com/listen/serrebiradio/serrebiradio
+#EXTINF:-1,HARDER-FM_THE_HARDERSOUND_BOX
+302 https://stream.rcast.net/257233
+#EXTINF:-1,Basspistol_Radio
+200 https://radio.basspistol.com/listen/basspistol/radio.mp3
+#EXTINF:-1,Darkstep_DnB_Channel_-_The_Darkest_Drum_&_Bass_via_@dnbradio
+200 https://azura.dnbradio.com/listen/darkstep/radio.mp3
+#EXTINF:-1,Nautic_Radio_-_Technomania_-_electro,progressive,deephouse,techhouse,minimal,techno,acid,schranz
+302 https://stream.rcast.net/3632
+#EXTINF:-1,Acidic_Infektion
+302 https://stream.rcast.net/3679
+#EXTINF:-1,:::BPM-MUSIC:::JuKeBoX:::
+302 https://stream.rcast.net/10344
+#EXTINF:-1,Nautic_Radio_-_Technomania_-_electro,progressive,deep_house,techhouse,minimal,_techno,acid,schranz
+302 https://stream.rcast.net/12540
+#EXTINF:-1,MAS_TEJANO_RADIO
+302 https://stream.rcast.net/62861
+#EXTINF:-1,95.5_Smooth_Jazz
+https:/http:/w.theradiowave.com:1110/stream
+#EXTINF:-1,SmoothJazz.NYC
+200 http://airspectrum.cdnstream1.com:8078/1614_192
+#EXTINF:-1,Relax_Cafe
+302 https://stream.relaxfm.ee/cafe
+#EXTINF:-1,Relax_Jazz
+302 https://stream.relaxfm.ee/jazz
+#EXTINF:-1,Smooth_Jazz_105.9
+https:/http:/w.theradiowave.com:1120/stream
+#EXTINF:-1,Jazz-Radio.net
+200 https://ais-sa2.cdnstream1.com/2346_128.mp3
+#EXTINF:-1,Jazz_FM
+https://bravo.btv.bghttp:/adio/jazzfm-radio-proxy/
+#EXTINF:-1,Jazz_Radio_-_Saxo
+200 https://jzr-saxo.ice.infomaniak.ch/jzr-saxo.mp3
+#EXTINF:-1,DIMENSIONE_JAZZ
+502 https://mpc1.mediacp.eu/stream/dimensionejazz
+#EXTINF:-1,Plusfm
+https:/http:/adio7.pro-fhi.net:19004/1
+#EXTINF:-1,Klassik_Radio_-_Till_Brönner
+500 https://klassikr.streamabc.net/klr-tillbrnner-mp3-192-5700900
+#EXTINF:-1,Gritty_Rock_Radio
+https://listen.radioking.comhttp:/adio/10713/stream/224413
+#EXTINF:-1,Acid_Jazz_Radio
+200 https://acidjazz.stream.laut.fm/acidjazz
+#EXTINF:-1,CROOZE_smooth_jazz
+200 https://streaming.shoutcast.com/smoothjazz-crooze-aac
+#EXTINF:-1,Melodies_Web_Radio
+https://i.streams.ovh/sc/melodies/stream
+#EXTINF:-1,181.FM_Acid_Jazz
+200 https://listen.181fm.com/181-acidjazz_128k.mp3
+#EXTINF:-1,Kulturica
+http://freeuk23.listen2myradio.com:30643/;stream.nsv
+#EXTINF:-1,Phat_Beats_Radio
+200 https://carol.epichosts.co.uk:8190/live.ogg
+#EXTINF:-1,Salalondon_Radio
+200 http://salalondon.ddns.net:8007/;stream.mp3
+#EXTINF:-1,Cosmic_FuzzFm
+403 https://26383.live.streamtheworld.com:443/SAM04AAC335.mp3
+#EXTINF:-1,Eros_Radio_®_Europe
+400 http://stream.webradio.bz:8000/erosradio
+#EXTINF:-1,Rautemusik_Techno
+https:/http:/autemusik-de-hz-fal-stream17.radiohost.dehttp:/autemusik-techno_mp3-192
+#EXTINF:-1,GDS.FM
+200 https://gdsfm.out.airtime.pro/gdsfm_a
+#EXTINF:-1,104.7_The_Oasis
+https:/http:/w.theradiowave.com:1130/stream
+#EXTINF:-1,JAZZCRUSADER
+200 https://jazzcrusader.stream.laut.fm/jazzcrusader
+#EXTINF:-1,RADIO_CERRANO_WEB
+http://108.59.11.81:10080/stream
+#EXTINF:-1,107.3_The_Wave
+https:/http:/w.theradiowave.com:1140/stream
+#EXTINF:-1,Radio_Point
+https://i4.streams.ovh:2200/ssl/srizakhs?mp=/stream
+#EXTINF:-1,UP_Radio
+https://listen.radioking.comhttp:/adio/208624/stream/251509
+#EXTINF:-1,Musicolor_Groovy_Radio
+https://stream.musicolor-radio.com/stream
+#EXTINF:-1,Path_through_the_Forest
+200 https://paththroughtheforest.stream.laut.fm/path_through_the_forest?t302=2023-04-25_19-31-44&uuid=425515d4-2089-4125-9a35-df47161adb4a
+#EXTINF:-1,The_Obelisk_Radio
+http:/http:/adio.theobelisk.net:8000/thepodilisk
+#EXTINF:-1,MoonRadio/WebRadio_Station
+405 https://stream-150.zeno.fm/cyau14bgqd0uv?zs=yC7WCklKR-iGKzB6RMal9g
+#EXTINF:-1,Downtuned_Radio
+200 http://195.242.237.14:8020/stream
+#EXTINF:-1,The_Groove_Emporium
+404 https://a1.asurahosting.com/listen/groove_emporiumhttp:/adio.mp3
+#EXTINF:-1,Liederlicht
+200 https://liederlicht.stream.laut.fm/liederlicht
+#EXTINF:-1,Aircooled
+200 https://aircooled.stream.laut.fm/aircooled?t302=2023-04-25_19-39-42&uuid=c47350eb-81b6-49f3-92d6-8913c2491d4e
+#EXTINF:-1,Tonic_Radio_Jazz_Clubbing
+200 https://tonicradio100ladies.ice.infomaniak.ch/tonicradio100ladies-128.mp3
+#EXTINF:-1,80S_N_90S_RADIO
+http://15020.cloudrad.io:9222/live
+#EXTINF:-1,SomaFM_Metal_Detector_(128k_AAC)
+200 https://ice2.somafm.com/metal-128-aac
+#EXTINF:-1,Mzansi_Urban_Radio
+http://live.urbanza.co.zahttp:/adio/8000/mzansiurban?1600057209
+#EXTINF:-1,Trancetechnic_Radio
+https://s11.ssl-stream.com/ssl/trancete?mp=/stream
+#EXTINF:-1,0nlineradio
+302 https://stream.0nlineradio.com/jazz?ref=radiobrowser
+#EXTINF:-1,laut.fm_-_Shamanic_Tunes
+200 http://shamanictunes.stream.laut.fm/shamanic_tunes?t302=2023-04-25_19-36-37&uuid=b5bb2ae5-85cf-4276-b10c-1e42cbb5878b
+#EXTINF:-1,Progsky
+https://cc3.streammaximum.com:20045/stream
+#EXTINF:-1,Nova_106
+400 http://novafm106.media.friktoria.net:8000/novafm106.mp3
+#EXTINF:-1,komrad
+https:/http:/ad.komrad.livehttp:/adio/8000http:/adio.mp3
+#EXTINF:-1,Best_Of_Rock.FM_Hard_Rock
+https:/http:/adio21.streamabc.nethttp:/adio21-hardrock-mp3-256-1630702?sABC=64480ss6%230%23n1q9s1ns4osoonq326452q0po510q6pp%23orfgbsebpx.sz&aw_0_1st.playerid=bestofrock.fm&amsparams=playerid:bestofrock.fm;skey:1682444278
+#EXTINF:-1,Stone_Prog
+200 http://stone-prog.stream.laut.fm/stone-prog?t302=2023-04-25_19-39-35&uuid=8e0bb55e-f432-466b-906e-6852cd119354
+#EXTINF:-1,Crossover_Radio_Online_(Manila,_Philippines)
+404 https://streams.radio.co/s1317e9f68/listen
+#EXTINF:-1,INTERGALACTIC_FM_-_Cybernetic_Broadcasting_System
+http:/http:/adio.intergalactic.fm:80/1aac
+#EXTINF:-1,Totally_Wired_Radio
+200 https://totallywired.out.airtime.pro/totallywired_b
+#EXTINF:-1,Freerave.cz_-_Tekno
+http://164.68.122.137:8061/
+#EXTINF:-1,EDM_PLUR_Radio_–_Ravers
+https://sunday-records.io/raver
+#EXTINF:-1,Old_Skool_Rave
+http://188.165.192.5:8391/stream?type=.mp3
+#EXTINF:-1,Pure_Trax_Radio
+http://5.77.63.198:9304/
+#EXTINF:-1,Radio_Esperantia
+https://liveradio.com.es:8062/stream
+#EXTINF:-1,RadioPoint
+https://i4.streams.ovh:2200/ssl/srizakhs?mp=/streammp3
+#EXTINF:-1,Salalondon
+200 http://salalondon.ddns.net:8007/stream.mp3
+#EXTINF:-1,181.FM_-_Acid_Jazz_-_128_-_The_United_States_Of_America_-_acid_jazz_-_waynesboro
+301 http://www.181.fm/stream/pls/181-acidjazz.pls
+#EXTINF:-1,Acid_Jazz_Radio_-_128_-_Germany_-_acid_-_acid_jazz_-_dance
+302 http://stream.laut.fm/acidjazz
+#EXTINF:-1,C.R._-_Placido_Domingo_-_0_-_The_United_Arab_Emirates_-_classical
+200 http://drive.uber.radio/uber/crplacidodomingo/icecast.audio
+#EXTINF:-1,Classical_Radio_-_Placido_Domingo_-_0_-_The_United_Arab_Emirates_-_classical
+https://drive.uber.radio/uber/crplacidodomingo/icecast.audio
+#EXTINF:-1,Radio_Caprice_-_ACID_HOUSE_/_TRANCE_/_TECHNO_-_48_-_The_Russian_Federation_-_acid_-_acid_house_-_techno_-_trance
+200 http://79.111.119.111:8002/acid

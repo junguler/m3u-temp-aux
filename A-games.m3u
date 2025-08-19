@@ -1,0 +1,257 @@
+#EXTM3U
+#EXTINF:-1,4Music
+301 https://s1.slotex.pl/shoutcast/7102/stream?n=18782c309b68653d07b7
+#EXTINF:-1,CVGM.net
+404 http://slacker.cvgm.net/cvgm192?n=9d91201fc15873a129e5
+#EXTINF:-1,Fallout_1_OST_-_Fallout.fm
+405 http://fallout.fm:8000/falloutfm5.ogg?n=ae148527e8a2d080644b
+#EXTINF:-1,Fallout_2_OST_-_Fallout.fm
+405 http://fallout.fm:8000/falloutfm4.ogg?n=381fed0946f45c645c5b
+#EXTINF:-1,Fallout_4_Classical_Radio_-_Fallout.gm
+405 http://fallout.fm:8000/falloutfm7.ogg?n=4005dfab343c3b984263
+#EXTINF:-1,Fallout_4_Diamond_City_Radio_-_Fallout.fm
+405 http://fallout.fm:8000/falloutfm6.ogg?n=83847f1d09a2cb8e240c
+#EXTINF:-1,Fallout_76_Classical_-_Fallout.fm
+405 http://fallout.fm:8000/falloutfm9.ogg?n=d8f02fe5c24ca151e3d1
+#EXTINF:-1,Fallout_76_General_-_Fallout.fm
+405 http://fallout.fm:8000/falloutfm10.ogg?n=34cfa66f626372429274
+#EXTINF:-1,Fallout_NV_Radio_New_Vegas_-_Fallout.fm
+405 http://fallout.fm:8000/falloutfm3.ogg?n=0e145d78b525d76de7c8
+#EXTINF:-1,Falout.FM_Main_Station
+405 http://fallout.fm:8000/falloutfm1.ogg?n=f052127a99c59377a69d
+#EXTINF:-1,Game_Tation_laut_fm
+200 http://stream.laut.fm/game-tation.m3u?n=2bc77f088a56a0809b5c
+#EXTINF:-1,Game_That_Tune_Radio
+https://a.gtt.rocks/?n=75f3043723d51a8001ab
+#EXTINF:-1,Gametation
+200 http://game-tation.stream.laut.fm/game-tation?t302=2018-03-10_04-54-29&uuid=70ec85a9-6e3c-4c6d-af29-8ef19a8c1dca?n=393df0928a8203a89f6a
+#EXTINF:-1,GBR_gamebytesradio
+https://cp10.shoutcheap.com:2199/tunein/gbrgameb.pls?n=d0094a963fb848c44178
+#EXTINF:-1,Geek_Life_Radio
+404 https://stream.radiojar.com/4qe8m62pa8zuv?n=8561a98302bc9deaf34f
+#EXTINF:-1,Klassik_Radio_-_Games
+302 http://stream.klassikradio.de/games/mp3-128/?n=9e9d8e11a4d0fe0cb5fe
+#EXTINF:-1,Kohina
+https://kohina.duckdns.org/icecast/stream.ogg?n=d3bdeae2a9b8fae54595
+#EXTINF:-1,KUSC_Arcade
+403 https://25043.live.streamtheworld.com/CC8_S01AAC_96.aac?n=d2a55da7b650d9779241
+#EXTINF:-1,Multiplayer
+http://ice55.securenetsystems.net/DASH57?n=60ae04739586b15c9d84
+#EXTINF:-1,NoLife-Radio
+400 https://listen.nolife-radio.com/?n=bfe4d27fcfd9cf08793e
+#EXTINF:-1,Not_GamingFM
+http://67.212.165.106:8191/listen.pls?n=811b29fecf587a2f7543
+#EXTINF:-1,Otaku_|_NTS
+200 https://stream-mixtape-geo.ntslive.net/mixtape36?n=826b1ee3bd53cb72544a
+#EXTINF:-1,Radio_Caprice_-_Computer_/_Video_Game_Music_Ost_/_Score_/_Soundrack
+http://79.120.39.202:9139/?n=614e7fa6d4d04ffbeac4
+#EXTINF:-1,Radio_Paralax
+200 http://radio-paralax.de:8000/?n=25cd7f797072eacd4de5
+#EXTINF:-1,RadioLandau_3
+302 http://stream.laut.fm/radiolandau3?n=6e8b3087ea88fe8a499a
+#EXTINF:-1,RadioSEGA
+200 http://content.radiosega.net:8006/rs-vorbis.ogg?n=6195a15d28f9cbbc5576
+#EXTINF:-1,Rainwave_All
+404 http://www.rainwave.cc/tune_in/5.ogg?n=5670a30a43b162949443
+#EXTINF:-1,Rainwave_Covers
+404 http://covers.rainwave.cc/tune_in/3.ogg?n=2af896365aa2c1ff30fc
+#EXTINF:-1,Rainwave_Game
+404 http://game.rainwave.cc/tune_in/1.ogg?n=4979eacc33a7d6e30d65
+#EXTINF:-1,Rainwave_OC_Remix
+404 http://ocr.rainwave.cc/tune_in/2.ogg?n=c4628dd982f1eb8e3055
+#EXTINF:-1,Retro_PC_GAME_MUSIC_Streaming_Radio
+http://gyusyabu.ddo.jp:8000/listen.pls?n=e07443246137e68e6045
+#EXTINF:-1,RMF_Gamemusic
+200 http://195.150.20.243:8000/rmf_gamemusic?n=a40aa9a80c3fdd7685f9
+#EXTINF:-1,RPGamers_Network
+400 http://stream.rpgamers.net:8000/rpgn?n=5ec39828683038bc79ac
+#EXTINF:-1,SpriteLayer_Video_Game_Radio
+200 http://www.spritelayerradio.com:8010/all?n=546692d5482f71ddcd54
+#EXTINF:-1,The_JAMmer:_Decades_of_Just_a_Minute
+http://stream.beatradar.com:8007/?n=90ef922c58175d0f7b00
+#EXTINF:-1,The_Sounds_of_GTA_|_NTS
+200 https://stream-mixtape-geo.ntslive.net/mixtape33?n=45044da0206793b0141b
+#EXTINF:-1,VGM_Radio
+400 http://radio.vgmradio.com:8040/stream?n=e090bdfebe0690895320
+#EXTINF:-1,ModFM
+200 http://radio.modules.pl:8500/listen.pls?n=0d32f6e78682b8d8c577
+#EXTINF:-1,Retro_Plum_Radio
+200 https://s85.radiolize.com/public/retroplum/playlist.m3u?n=db1ed7532054892b6fcd
+#EXTINF:-1,Pungas_Radio
+http://radio.pungas.space:8001/pungasradio?n=6169122e4af110e4c1db
+#EXTINF:-1,WTMK_-_All_Mario_Radio
+400 http://radio.themushroomkingdom.net:8000/wtmk.mp3.m3u?n=50ac0f9660ab2d65fb83
+#EXTINF:-1,WTMK_-_All_Mario_Radio_OPUS
+400 http://radio.themushroomkingdom.net:8000/wtmk.opus?n=13035a65fb28fb029dd8
+#EXTINF:-1,KEYGEN_FM
+200 http://stream.keygen-fm.ru:8082/listen.mp3?n=50825be8dc37811d27ec
+#EXTINF:-1,Radio_FM4_radio
+200 https://orf-live.ors-shoutcast.at/fm4-q1a
+#EXTINF:-1,Cinemusic_Radio
+https://listen.radioking.com/radio/422/stream/62785
+#EXTINF:-1,chiru.no_radio
+https://chiru.no/stream.flac
+#EXTINF:-1,Animu_FM_radio
+200 https://cast.animu.com.br:9079/stream
+#EXTINF:-1,Retro_PC_GAME_Music_Radio
+http://gyusyabu.ddo.jp:8000/
+#EXTINF:-1,Rádio_J-Hero_radio
+https://stm1.radiojhero.com:18008/
+#EXTINF:-1,Ronin_Radio
+200 https://s3.radio.co/sff133d65b/listen
+#EXTINF:-1,Free_FM_92.6_radio
+200 https://rocafmadrid.radioca.st/stream
+#EXTINF:-1,Simulator_Radio
+200 https://simulatorradio.stream/stream?
+#EXTINF:-1,Rádio_Diário_FM_92.9_radio
+200 http://hts02.kshost.com.br:8856/live
+#EXTINF:-1,Classic-Videogames_Radio
+200 http://195.201.9.210:1541/stream/2/
+#EXTINF:-1,Tokyo_Radio_80.6
+http://94.23.6.53:8302/stream.nsv
+#EXTINF:-1,RadioSEGA_radio
+200 http://content.radiosega.net:8006/live
+#EXTINF:-1,Yes_We_Cannabis_radio
+302 https://stream.laut.fm/yeswecannabis
+#EXTINF:-1,NoLife_radio
+400 https://listen.nolife-radio.com/stream
+#EXTINF:-1,Radio_PARALAX_radio
+200 http://radio-paralax.de:8000/
+#EXTINF:-1,Gamer_Sound_radio
+http://149.56.147.197:8716/stream
+#EXTINF:-1,SimLiveRadio_radio
+200 https://simliveradio.stream.laut.fm/simliveradio
+#EXTINF:-1,B4GG_radio
+200 https://b4gg.stream.laut.fm/b4gg
+#EXTINF:-1,PlayGeek_radio
+404 https://listen.radioking.com/radio/376753/stream/427108
+#EXTINF:-1,Radio_Riviera_Montreux_radio
+500 https://radio6.pro-fhi.net/flux-fpszdcrv/stream
+#EXTINF:-1,Tsumugi_Radio
+200 https://azuracast.mahoro-net.org/listen/tsumugi/radio.mp3
+#EXTINF:-1,Gamepad_Music_radio
+https://centova.listenon.in/proxy/gamepad/stream
+#EXTINF:-1,NİĞDE_TEMPO_FM_radio
+http://yayin1.canliyayin.org:8344/stream
+#EXTINF:-1,Game_FM_radio
+200 https://game.stream.laut.fm/game
+#EXTINF:-1,Heroic_Strike_Radio
+https://heroic-strike-radio.co.ua/sstream
+#EXTINF:-1,Kirtang_Pirate_Radio
+https://server.kirtangpirateradio.com:1055/stream
+#EXTINF:-1,Tydox-Radio_radio
+302 https://stream.laut.fm/tydox-radio
+#EXTINF:-1,Zocker_Radio
+302 https://stream.laut.fm/zocker-radio
+#EXTINF:-1,Commodexplorer_Radio
+405 https://manager8.streamradio.fr:2295/stream
+#EXTINF:-1,Nerds_and_Geeks:_THE_STATION_radio
+http://136.243.156.30:2808/stream/2/
+#EXTINF:-1,Zocker_FM_radio
+302 https://stream.laut.fm/zockerfm
+#EXTINF:-1,Pommes__Hund_radio
+200 https://pommesfm.stream.laut.fm/pommesfm
+#EXTINF:-1,Radio_Dragons_radio
+https://radiolive.anisrv.de/radio/8040/radio.mp3
+#EXTINF:-1,OnBeat_Gaming_radio
+https://listen.onbeat.me/gaming
+#EXTINF:-1,The_Kaufhaus_radio
+302 https://stream.laut.fm/thekaufhaus
+#EXTINF:-1,RR_TalkTalk_radio
+403 https://talktalk.florencejaymunar.com/listen/main/radio.aac
+#EXTINF:-1,MeMigH-Radio_radio
+302 https://stream.laut.fm/vextonde
+#EXTINF:-1,Better_Gamin_GER_Radio
+404 https://bettergaminggerradio.stream.laut.fm/bettergaminggerradio
+#EXTINF:-1,Vocaloid_Radio
+400 http://curiosity.shoutca.st:8019/stream
+#EXTINF:-1,Radio_FM4
+https://listen.radioking.comhttp:/adio/422/stream/62785
+#EXTINF:-1,Animu_FM
+http://gyusyabu.ddo.jp:8000/;
+#EXTINF:-1,Radio_Dendy_-_Collection
+https://sergeisam.fvds.ru:4485http:/adio
+#EXTINF:-1,Radio_Anime_Nexus
+https://cast.animenexusla.comhttp:/adio/8000/animenexus-mp3
+#EXTINF:-1,Rádio_J-Hero
+https://stm1.radiojhero.com:18008/;
+#EXTINF:-1,Game-tation
+200 https://game-tation.stream.laut.fm/game-tation
+#EXTINF:-1,100FM_Radius_-_Gamer
+https://gb25.streamgates.nethttp:/adios-audio/100Gamer/playlist.m3u8
+#EXTINF:-1,ON_Games
+400 https://0n-games.radionetz.de/0n-games.mp3
+#EXTINF:-1,Yes_We_Cannabis_Mix
+200 https://yeswecannabismix.stream.laut.fm/yeswecannabismix?t302=2023-09-19_12-15-03&uuid=aa883c8e-a5c0-45b6-a25d-65cb6ecb013b
+#EXTINF:-1,Game_Bytes_Radio
+http://99.198.118.250:8084/stream
+#EXTINF:-1,Yes_We_Cannabis
+200 https://yeswecannabis.stream.laut.fm/yeswecannabis?t302=2023-04-25_20-07-44&uuid=d66b576f-22a4-428a-98be-52b2d43991c6
+#EXTINF:-1,Radio_PARALAX
+http:/http:/adio-paralax.de:8000/;
+#EXTINF:-1,Радио_GamePlay_-_8_bit
+200 http://c22.radioboss.fm:8144/GamePlay
+#EXTINF:-1,Kohina_Radio
+400 https://kohina.duckdns.org/icecast/stream.ogg
+#EXTINF:-1,NİĞDE_TEMPO_FM
+http://yayin1.canliyayin.org:8344/;stream
+#EXTINF:-1,TFM_Soundtrack
+404 https://tfm-soundtrack.stream.laut.fm/tfm-soundtrack
+#EXTINF:-1,Radio_RMF_-_GameMusic
+https:/http:/s103-krk-cyfronet.rmfstream.pl/GAMEMUSIC
+#EXTINF:-1,Tydox-Radio
+200 https://tydox-radio.stream.laut.fm/tydox-radio?t302=2023-04-25_20-07-35&uuid=f9072cbd-9633-483c-b291-93dbaf396d7e
+#EXTINF:-1,Nerds_and_Geeks:_THE_STATION
+http://136.243.156.30:2808/stream/2/;
+#EXTINF:-1,Zocker_FM
+200 https://zockerfm.stream.laut.fm/zockerfm?t302=2023-04-25_20-07-32&uuid=3325d506-9980-4c50-a058-a5a7ca890232
+#EXTINF:-1,Radio_Hyrule
+https:/http:/adiohyrule.com:8443/listen
+#EXTINF:-1,VeteransRadio.ca_#3_GTA_V_Radio
+https://listen.radioking.comhttp:/adio/565169/stream/624944
+#EXTINF:-1,Radio_Landau
+https:/http:/adiolandau.stream.laut.fmhttp:/adiolandau
+#EXTINF:-1,WTMK:_Mario_Radio_(Opus)_-_The_Mushroom_Kingdom_Radio
+400 http://www.themushroomkingdom.net:8000/wtmk.opus
+#EXTINF:-1,chiru.no
+405 http://fallout.fm:8000/falloutfm9.ogg
+#EXTINF:-1,Asian_World_Radio_Latina
+405 http://stream-150.zeno.fm/37hmxgfgzs8uv?zs=aS4wLxptS9OZCOd4YViGMA
+#EXTINF:-1,KNGI_Network_(128_Kbps)
+https://network.kngi.orghttp:/adio/8000/stream
+#EXTINF:-1,Radio_Vibration
+200 https://vibration.ice.infomaniak.ch/vibration-high.mp3
+#EXTINF:-1,REYFM_-_#gaming
+https:/http:/eyfm-stream15.radiohost.dehttp:/eyfm-gaming_mp3-192
+#EXTINF:-1,Wasteland_Radio
+http://wasteland.su:8080http:/adio.aac
+#EXTINF:-1,GameFM
+https://cast.imaginaredigital.com.br:7000/stream
+#EXTINF:-1,Wasteland_Radio_(128_kbps)
+http://wasteland.su:8080http:/adio
+#EXTINF:-1,-_0_N_-_Games_on_Radio
+400 https://0n-games.radionetz.de/0n-games.aac
+#EXTINF:-1,KNGI_Network_(64kbps)
+https://network.kngi.orghttp:/adio/8000/low
+#EXTINF:-1,WTMK:_Mario_Radio_(MP3)_-_The_Mushroom_Kingdom_Radio
+400 http://www.themushroomkingdom.net:8000/wtmk.mp3
+#EXTINF:-1,BBMFM
+302 http://stream-052.zeno.fm/kchb1gp3a1duv?zs=PbHJrzJPSA2rnAABZ-858A
+#EXTINF:-1,GamersOne
+200 https://gamersone.stream.laut.fm/gamersone
+#EXTINF:-1,Sunshine_Live_-_Gaming
+200 http://sunsl.streamabc.net/sunsl-gaming-mp3-192-3446518?sABC=64480r4r%230%23n1q9s1ns4osoonq326452q0po510q6pp%23fgernz.fhafuvar-yvir.qr&aw_0_1st.playerid=stream.sunshine-live.de&amsparams=playerid:stream.sunshine-live.de;skey:1682443854
+#EXTINF:-1,Runtime_Radio
+https://server.runtimeradio.it:8000http:/untime128.mp3
+#EXTINF:-1,GamerNETfm
+200 https://gamernetfm.stream.laut.fm/gamernetfm
+#EXTINF:-1,EXOGAMING
+200 https://exogaming.stream.laut.fm/exogaming?pl=m3u&t302=2023-05-10_13-20-23&uuid=a8b2e013-c491-42f2-a1ee-2193b00bad07
+#EXTINF:-1,EVE-Radio
+http://stream.evehost.net:8000/listen.pls
+#EXTINF:-1,_Radio_Gameplay__-_128_-_The_Russian_Federation_-_16bit_-_8_bit_-_8bit_-_gamemusic_-_retro_games_-_video_game_-_videogame_music_-_videogames
+200 http://shout.mtl.gameservers.com:9025/;
+#EXTINF:-1,Gamepad_Music_-_128_-_The_United_States_Of_America_-_gamemusic_-_games_-_video_game_-_video_game_music_-_videogame_music_-_videogames
+200 https://radio.gamesboro.org/listen/gamesboro_radio/radio.mp3
+#EXTINF:-1,Gametation_-_128_-__-_games_-_instrumental_-_score_-_soundtrack_-_soundtracks_-_video_game_music
+302 http://stream.klassikradio.de/games/mp3-128/
