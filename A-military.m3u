@@ -1,0 +1,133 @@
+#EXTM3U
+#EXTINF:-1,AFN_The_Eagle_Tokyo
+200 http://23543.live.streamtheworld.com:80/AFNP_TKOAAC_SC
+#EXTINF:-1,BFBS_Gurkha_Radio
+200 https://edge-audio-02-gos1.sharp-stream.com/ssvcbfbs3.aac?device=bfbs_gurkha
+#EXTINF:-1,AFN_The_Eagle_Yongsan
+403 http://19803.live.streamtheworld.com:80/AFNP_YSN_SC
+#EXTINF:-1,AFN_The_Source_1575_Misawa
+302 http://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_MSW.flv
+#EXTINF:-1,AFN_Iwakuni
+302 http://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_TKO.flv
+#EXTINF:-1,AFN_Wave_89_Okinawa
+403 http://25583.live.streamtheworld.com:80/AFNP_OKNAAC_SC
+#EXTINF:-1,BFBS_Radio_Canada_-_CKBF-FM
+302 http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs12.aac
+#EXTINF:-1,Military_Broadcast_Radio-_MBR_
+200 http://149.56.185.59:8022/stream
+#EXTINF:-1,Rádio_Ismael
+http://paineldj6.com.br:8083/live
+#EXTINF:-1,BFBS_Radio_Germany
+200 http://edge-audio-03-gos2.sharp-stream.com/ssvcbfbs5.aac
+#EXTINF:-1,Radio_Schwany_-_Blasmusik
+301 https://schwany4blasmusik.hoamatwelle.de
+#EXTINF:-1,BFBS_Radio_Bahrain
+200 https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs9.aac
+#EXTINF:-1,BFBS_Radio_Falklands
+200 https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs6.aac
+#EXTINF:-1,BFBS_Radio_Colchester
+302 https://tx.sharp-stream.com/icecast.php?i=ssvcbfbs16.aac
+#EXTINF:-1,AFN_Thunder_Radio_Sasebo
+302 http://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_SBO.flv
+#EXTINF:-1,WRXX.com
+400 http://s9.voscast.com:9658/stream
+#EXTINF:-1,AFN_The_Eagle_Osan
+403 http://14613.live.streamtheworld.com:80/AFNP_OSNAAC_SC
+#EXTINF:-1,BFBS_Radio_Aldershot
+302 https://tx.sharp-stream.com/icecast.php?i=ssvcbfbs13.aac
+#EXTINF:-1,BFBS_Radio_Brize_Norton
+302 https://tx.sharp-stream.com/icecast.php?i=ssvcbfbs25.aac
+#EXTINF:-1,BFBS_Radio_Scotland
+302 https://tx.sharp-stream.com/icecast.php?i=ssvcbfbs18.aac
+#EXTINF:-1,101.RU_-_Любэ
+200 https://pub0101.101.ru/stream/pro/aac/64/158
+#EXTINF:-1,BFBS_Radio_Blandford
+302 http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs14.aac
+#EXTINF:-1,Oktoberfest_Radio
+404 http://stream.zeno.fm/t53umxdzn0hvv
+#EXTINF:-1,ForceRadio
+http://playoutonestreaming.com:8131/stream/
+#EXTINF:-1,Operation_Eagles_Wings_-_US_Military_Killed_in_War
+400 http://trappist.shoutca.st:8103/live
+#EXTINF:-1,Армія_FM
+400 https://icecast.armyfm.com.ua:8443/ArmyFM
+#EXTINF:-1,InfoVojna
+http://stream3.infovojna.bz:8000/live
+#EXTINF:-1,BFBS_Radio_Brunei
+200 https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs10.aac
+#EXTINF:-1,BFBS__Radio_Catterick
+200 https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs15.aac
+#EXTINF:-1,BFBS_Radio_Cyprus
+200 https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs8.aac
+#EXTINF:-1,BFBS_Radio_Gibraltar
+200 https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs7.aac
+#EXTINF:-1,BFBS_Salisbury_Plain
+200 https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs17.aac
+#EXTINF:-1,AFN_Kaiserslautern
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_KTN.mp3
+#EXTINF:-1,Eagle_Wings_Radio
+302 http://playerservices.streamtheworld.com/api/livestream-redirect/SAM04AAC57.mp3
+#EXTINF:-1,AFN_The_Eagle_Yokosuka
+404 https://media.defense.gov/embed/afn/geoblock-message.mp3
+#EXTINF:-1,BFBS_Radio_Canada_–_CKBF-FM
+302 http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs16.aac
+#EXTINF:-1,Military_Broadcast_Radio-_MBR
+200 http://149.56.185.59:8022/stream/
+#EXTINF:-1,Wargaming.FM
+http://sv.wargaming.fm:8051/256
+#EXTINF:-1,WTF_Nation_Radio
+http://194.135.93.10:8000/stream/
+#EXTINF:-1,AFN_360_Global_Gravity
+403 http://17813.live.streamtheworld.com:80/AFN_GRV_SC
+#EXTINF:-1,AFN_360_Global_Hot_AC
+404 http://17813.live.streamtheworld.com:80/AFN_HOT_SC
+#EXTINF:-1,AFN_360_Global_Joe_Radio
+403 http://24883.live.streamtheworld.com:80/AFN_JOE_SC
+#EXTINF:-1,AFN_360_Global_PowerTalk
+403 http://14103.live.streamtheworld.com:80/AFN_PTK_SC
+#EXTINF:-1,AFN_360_Global_The_Voice
+200 http://17803.live.streamtheworld.com:80/AFN_VCE_SC
+#EXTINF:-1,AFN_360_Aviano
+403 http://25433.live.streamtheworld.com:80/AFNE_AVN_SC
+#EXTINF:-1,AFN_360_Bahrain
+http://20853.live.streamtheworld.com:80/AFNE_BHN_SC
+#EXTINF:-1,AFN_360_Guantanamo_Bay
+403 http://25533.live.streamtheworld.com:80/AFNE_GMO_SC
+#EXTINF:-1,AFN_360_Incirlik
+http://20853.live.streamtheworld.com:80/AFNE_ICK_SC
+#EXTINF:-1,AFN_360_Naples
+403 http://22673.live.streamtheworld.com:80/AFNE_NAP_SC
+#EXTINF:-1,AFN_360_Rota
+http://20853.live.streamtheworld.com:80/AFNE_RTA_SC
+#EXTINF:-1,AFN_360_Souda_Bay
+http://20853.live.streamtheworld.com:80/AFNE_SDB_SC
+#EXTINF:-1,AFN_360_Wiesbaden
+403 http://25433.live.streamtheworld.com:80/AFNE_WBN_SC
+#EXTINF:-1,Звезда_ТВ🌟(ТВЧ)📺
+200 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:-1,LockNLoad
+404 http://superflow02.gcnlive.com/lockNLoad-hi.mp3
+#EXTINF:-1,Звезда_ТВ🌟(ТСЧ)
+200 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
+#EXTINF:-1,AFN_360_Kaiserslautern
+200 http://22533.live.streamtheworld.com:80/AFNE_KTN_SC
+#EXTINF:-1,AFN_360_Spangdahlem
+http://20723.live.streamtheworld.com:80/AFNE_SPG_SC
+#EXTINF:-1,AFN_360_Stuttgart
+403 http://22333.live.streamtheworld.com:80/AFNE_STU_SC
+#EXTINF:-1,AFN_360_Global_Holiday
+http://20723.live.streamtheworld.com:80/AFN_SEA_SC
+#EXTINF:-1,AFN_360_Global_Legacy
+403 http://18683.live.streamtheworld.com:80/AFN_LGY_SC
+#EXTINF:-1,&quot;name&quot;:_&quot;&#039;undefined&#039;_-&gt;_&#039;AFN_360_Benelux&#039;&quot;,
+http://20863.live.streamtheworld.com:80/AFNE_BLX_SC
+#EXTINF:-1,AFN_360_Global_Fans
+403 http://22113.live.streamtheworld.com:80/AFN_FAN_SC
+#EXTINF:-1,AFN_360_Global_Country
+403 http://14943.live.streamtheworld.com:80/AFN_CTY_SC
+#EXTINF:-1,CCTV-7国防军事伴音
+200 https://piccpndali.v.myalicdn.com/audio/cctv7_2.m3u8
+#EXTINF:-1,AFN_360_Bavaria
+200 http://22533.live.streamtheworld.com:80/AFNE_BAV_SC
+#EXTINF:-1,AFN_360_Vicenza
+403 http://25533.live.streamtheworld.com:80/AFNE_VIC_SC
