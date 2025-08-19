@@ -1,0 +1,149 @@
+#EXTM3U
+#EXTINF:-1,Radio_Schizoid_Chillout
+400 http://schizoid.in:8000/chill
+#EXTINF:-1,Radio_Schizoid_Psytrance
+400 http://schizoid.in:8000/schizoid
+#EXTINF:-1,Psy_Radio_-_Progressive
+302 http://komplex2.psyradio.org:8010/stream/1
+#EXTINF:-1,Psychic_Radio_Kiev
+http://stream.psyradio.com.ua:8000/256kbps
+#EXTINF:-1,Psychedelicized
+http://s1.castserver.net:8006/stream/1
+#EXTINF:-1,PROG.FM
+302 http://stream.prog.fm:9178/stream/1
+#EXTINF:-1,Chill_Out_Zone
+http://air.chillout.zone:8000/radiostream/1
+#EXTINF:-1,Rupsy_Psychedelic_Trance_Radio
+http://psy.rupsy.ru:8000/psy
+#EXTINF:-1,Rockradio_-_MRG.fm
+200 http://listen.mrg.fm:8080/streamstream/1
+#EXTINF:-1,Psy_Radio_-_Psy_Trance
+302 http://komplex2.psyradio.org:8030/stream/1
+#EXTINF:-1,Technolovers_PSYTRANCE
+302 https://stream.technolovers.fm/psytrance?ref=radiode
+#EXTINF:-1,GalacticFM_-_Goa,_Psy_&amp;_Progressive_Psy_Trance
+200 https://eu1.reliastream.com:2199/tunein/bonz.pls
+#EXTINF:-1,Radio_604
+301 https://www.radioking.com/play/radio604
+#EXTINF:-1,Daddykwhv
+302 https://stream.laut.fm/daddykwhv?ref=radiode
+#EXTINF:-1,1.FM_-_BOM_Psytrance_Radio
+200 http://strm112.1.fm/psytrance_mobile_mp3
+#EXTINF:-1,радио_Душа_Любви_-_Goa_Psy_Trance
+200 http://amoris.sknt.ru/goa.mp3
+#EXTINF:-1,Radio_Caprice_-_Dark_Psytrance
+404 http://79.111.119.111:8002/darkpsytrance/
+#EXTINF:-1,Psytrance_Vibrations_by_Fineck
+302 http://stream.zeno.fm/1xyzrpu2qa0uv
+#EXTINF:-1,DFM_-_PSY_Trance
+200 https://dfm-psytrance.hostingradio.ru/psytrance96.aacp
+#EXTINF:-1,Psyland_Web_Radio
+200 http://sp.streams.ovh:8020/stream
+#EXTINF:-1,PsyBrazil_Radio__-_PsyBR_Plan_B_Monstor_Sound
+200 https://app.psybrazil.com.br/stream/
+#EXTINF:-1,PsyBrazil_Radio_-_Estação_Vectra_do_Muzkitto_Dumangue
+http://186.236.237.155:8000/
+#EXTINF:-1,PsyBrazil_Radio_-_Radio_Psybr_Lo_Fi
+http://186.236.237.155:8888/
+#EXTINF:-1,WRK_PSY_Trance_Radio
+http://radio.uslsonic.gq:8002/stream/
+#EXTINF:-1,ReVolt_Radio_-_ReVolt_Trance_Radio
+http://usa18.fastcast4u.com:5363/stream
+#EXTINF:-1,Radio_Caprice_-_Psychobilly
+404 http://79.111.119.111:8002/psychobilly/
+#EXTINF:-1,Radio_Caprice_-_Psychedelic_Folk
+404 http://213.141.131.10:8002/psychfolk/
+#EXTINF:-1,Radio_Caprice_-_Forest_Psytrance
+404 http://213.141.131.10:8002/forestpsytrance/
+#EXTINF:-1,Radio_Caprice_-_Progressive_Psytrance
+404 http://79.120.39.202:8002/psyprog/
+#EXTINF:-1,Radio_Caprice_-_Psybient
+404 http://79.111.14.76:8002/psybient/
+#EXTINF:-1,Radio_Caprice_-_Psytrance
+404 http://79.111.119.111:8002/psytrance/
+#EXTINF:-1,BillFM
+200 http://visual.shoutca.st:8122/stream
+#EXTINF:-1,TrancefixionRadio
+302 http://stream.laut.fm/lazerradio
+#EXTINF:-1,Space_Radio_Caryapadas
+200 https://c22.radioboss.fm:18118/autodj
+#EXTINF:-1,DMT_FM_Psytrance_24/7
+https://dc1.serverse.com/proxy/ywycfrxn/stream
+#EXTINF:-1,WonderLand_Tales_Radio
+http://188.166.32.205:8000/radio.mp3
+#EXTINF:-1,Polygon.FM_-_Здорово_и_вечно
+http://eu6.fastcast4u.com:2000/live
+#EXTINF:-1,MixLive.ie_-_Psybient_Sunset
+200 http://2.58.194.54:8876/stream/
+#EXTINF:-1,Fatamorgana
+302 http://stream.laut.fm/fatamorgana
+#EXTINF:-1,RADIO_BOREALIS
+http://3d5d.space/stream.ogg
+#EXTINF:-1,Mallorca_Andy_
+302 http://stream.laut.fm/mallorca-andy
+#EXTINF:-1,1.FM_–_BOM_Psytrance_Radio
+http://51.15.152.81:8708/BillFM/
+#EXTINF:-1,lllegalPsy_Radio
+302 http://stream.zeno.fm/bx90937mqwzuv
+#EXTINF:-1,Musik_CoLab_FM
+https://streamlive2.hearthis.at:8000/26450.ogg
+#EXTINF:-1,Psychedelic.FM
+200 http://s2.radio.co/s2696f08b5/listen
+#EXTINF:-1,Psychedelik.com
+http://stream.psychedelik.com:8002/
+#EXTINF:-1,ReVolt_Radio_–_ReVolt_Trance_Radio
+http://66.70.249.70:5363/stream/
+#EXTINF:-1,
+psyradio_*_fm_-_progressive_-_128_-_Germany_-_progressive_-_psychedelic_-_psytrance
+200 http://streamer.psyradio.org:8010/;listen.mp3
+#EXTINF:-1,1.FM_-_Ambient_Psychill_-_320_-_Switzerland_-_downtempo_-_psychedelic_chillout_grooves_-_slow_trance
+200 http://strm112.1.fm/ambientpsy_mobile_mp3
+#EXTINF:-1,1.FM_-_BOM_Psytrance_Radio_-_192_-_Switzerland_-_full-on_-_progressive_psytrance_-_psytrance
+200 http://strm112.1.fm/psytrance_mobile_mp3
+#EXTINF:-1,Caprice_Radio_-_Dark_Psy_-_320_-_The_Russian_Federation_-_dark_psy_-_dark_psytrace_-_darkpsy_-_psytrance
+200 http://79.111.119.111:8000/darkpsytrance
+#EXTINF:-1,Caprice_Radio_-_Forest_Psy_-_48_-_The_Russian_Federation_-_forest_psytrance_-_psytrance
+200 http://213.141.131.10:8002/forestpsytrance
+#EXTINF:-1,CoSTa's_Ambient_Radio_-_192_-_Poland_-_ambient_-_electronic_-_psybient
+302 http://stream.zeno.fm/psymefk0hd0uv
+#EXTINF:-1,Gipsy_Voice_-_Folk_-_128_-_Germany_-_pop_-_rock
+400 http://radio.ransis.org:8000/gipsyvoice
+#EXTINF:-1,Her.st_Propaganda_Broadcast_-_128_-_Austria_-_conspiracy_theories_-_philosophy_-_psychedelic
+200 http://hirschmilch.de:7000/psytrance.aac
+#EXTINF:-1,laut.fm_Psytrancelicious_-_128_-_Germany_-_progressive_psytrance_-_psytrance
+302 http://stream.laut.fm/psytrancelicious
+#EXTINF:-1,MixLive.ie_-_Psybient_Sunset_-_192_-_Ireland_-_psychill_-_psytrance
+200 http://2.58.194.54:8876/;psybient-sunset
+#EXTINF:-1,Old_Skull_Radio_-_0_-_Bulgaria_-_gothic_rock_-_heavy_metal_-_horror_punk_-_psychobilly_-_punk_-_rock
+301 https://sverigesradio.se/topsy/direkt/200-hi-aac.m3u
+#EXTINF:-1,psy_-_128_-_Germany_-_
+200 http://streamer.psyradio.org:8020/
+#EXTINF:-1,Psychedelicized_Radio_-_128_-_The_United_Kingdom_Of_Great_Britain_And_Northern_Ireland_-_psychedelic_rock
+https://cast1.asurahosting.com/proxy/psychedelicized/stream
+#EXTINF:-1,Psyland.live_-_320_-_Greece_-_psychedelic_trance_-_psyland_-_psyland_festival
+https://cast.magicstreams.gr/sc/psychill/stream
+#EXTINF:-1,Psyndora_Chillout_-_128_-_Greece_-_2_stations_-_24/7_-_chill_-_chillout_-_non-stop_music_-_psybient_-_psydub_-_psytrance
+https://cast.magicstreams.gr/sc/psyndora/stream
+#EXTINF:-1,psyradio_*_fm_-_chillout_-_128_-_Germany_-_chillout
+200 http://streamer.psyradio.org:8020/;listen.mp3
+#EXTINF:-1,PsyRadio_Chillout_-_128_-_Germany_-_chillout_-_psychedelic
+200 http://streamer.psyradio.org:8020/listen.pls
+#EXTINF:-1,PsyStream_-_192_-_The_United_Kingdom_Of_Great_Britain_And_Northern_Ireland_-_progressive_-_psychedelic_-_psytrance_-_trance
+200 http://radio.psymusic.co.uk:8040/radio1_192k.mp3
+#EXTINF:-1,Radio_Art_-_Gypsy_Jazz_-_96_-_Greece_-_dance_-_gypsy_-_jazz
+400 http://air.radioart.com/fGypsy_jazz.mp3
+#EXTINF:-1,Radio_Caprice_-_Forest_Psytrance_-_320_-_The_Russian_Federation_-_caprice_-_caprice_radio_-_forest_psytrance_-_forestpsytrance_-_psytrance_-_radcap_-_radio_caprice
+400 http://213.141.131.10:8004/forestpsytrance
+#EXTINF:-1,Radio_Caprice_-_Psychedelic_Folk_-_320_-_The_Russian_Federation_-_psychedelic_folk
+200 http://213.141.131.10:8000/psychfolk.m3u
+#EXTINF:-1,Radio_Caprice_-_PSYCHOBILLY_-_48_-_The_Russian_Federation_-_psychobilly
+200 http://79.111.119.111:8002/psychobilly
+#EXTINF:-1,Radio_Ozora_-_192_-_Hungary_-_goa_-_psychedelic
+200 http://stream.laut.fm/radio-psychobilly.m3u
+#EXTINF:-1,Rockserwis.fm_-_0_-_Poland_-_avant-garde_-_classic_rock_-_progressive_rock_-_psychedelic
+#EXTINF:-1,Space_Unicorn_Radio_(not_https)_-_192_-_The_United_Kingdom_Of_Great_Britain_And_Northern_Ireland_-_psy-trance_-_trance
+301 https://sverigesradio.se/topsy/direkt/132-hi-mp3.m3u
+#EXTINF:-1,Sunshine_Live_-_Psytrance_-_0_-_Germany_-_psytrance
+301 https://sverigesradio.se/topsy/direkt/211-hi-mp3.m3u
+#EXTINF:-1,Toksyna_FM_PsyTrance_-_128_-_Poland_-_psytrance
+200 http://www.toksyna.fm/psytrance.pls
