@@ -1,0 +1,683 @@
+#EXTM3U
+#EXTINF:-1,Summer_of_Brazil
+302 https://streams.fluxfm.de/brazil/mp3-128/radiode/
+#EXTINF:-1,Klassik_Radio_-_Brazil
+302 https://stream.klassikradio.de/brazil/mp3-128/radiode/
+#EXTINF:-1,Radio_Sensorial_FM_
+https://216.245.217.18:8144/live
+#EXTINF:-1,Top_Tonic_Accordéon
+404 https://streamingv2.shoutcast.com/TopTonicAccordeon
+#EXTINF:-1,1SalsaRadio
+200 https://listen.radionomy.com/1salsaradio.m3u
+#EXTINF:-1,Brasil_Internet_Radio
+200 https://listen.radionomy.com/brasilinternetradio.m3u
+#EXTINF:-1,Corcovado_Radio
+200 https://listen.radionomy.com/corcovadoradio.m3u
+#EXTINF:-1,Rádio_Fanática_FM
+200 https://noasrv.caster.fm:10156/live
+#EXTINF:-1,WACK_Radio_90.1_FM
+302 https://stream.zenolive.com/231zgkfyrxmtv
+#EXTINF:-1,1.fm_Samba_Hits_Brazil
+http://sc2b-sjc.1.fm:10020/
+#EXTINF:-1,1.fm_Samba_Rock_Radio
+http://sc-sambarock.1.fm:10004
+#EXTINF:-1,Radio_Samba_Brasil
+200 https://player.painel-stm.com/proxy/8234
+#EXTINF:-1,Batucada
+302 https://stream.zeno.fm/7sdtm8c8y5quv
+#EXTINF:-1,Brisa_de_Samba
+302 https://stream.zeno.fm/08pzyh88azzuv
+#EXTINF:-1,Pagode_FM
+302 https://stream.zeno.fm/hfqaq0bhfg8uv
+#EXTINF:-1,Radio_Clube_de_Maraca
+404 https://stream.zeno.fm/fa9dyh38b9quv
+#EXTINF:-1,Radio_Ecletica_FM
+302 https://stream.zeno.fm/9hkkr2y4b0quv
+#EXTINF:-1,Radio_Sambalano
+https://servidor30-2.brlogic.com:7666/live
+#EXTINF:-1,Rdio_Solteiros_do_Asa
+http://stm45.srvstm.com:17070/
+#EXTINF:-1,Rdio_Top_Samba
+http://hts06.kshost.com.br:8762/
+#EXTINF:-1,FluxFM_-_Summer_of_Brazil_Listen_live
+302 https://streams.fluxfm.de/brazil/mp3-128/
+#EXTINF:-1,Geração_Rádio_-_Samba_e_Pagode_Listen_live
+https://servidor.geracaoradios.com/radio/8010/server
+#EXTINF:-1,Paul_in_Rio_Listen_live
+200 https://usa10.fastcast4u.com/paulinrio
+#EXTINF:-1,Rádio_Aliança_Listen_live
+302 https://stream.zenolive.com/g71q0cmx1bruv.aac
+#EXTINF:-1,Rádio_Cidade_91.1_Fm_Listen_live
+502 https://radios.vpn.sapo.pt/CV/radio1.mp3
+#EXTINF:-1,Rádio_Delta_99.7_FM_Listen_live
+302 https://player.painelvox.com/player-ssl/8066/
+#EXTINF:-1,Radio_Revolución_Listen_live
+400 https://icecast.teveo.cu/C9vVPN7h
+#EXTINF:-1,FunX_NL_Listen_live
+200 https://icecast.omroep.nl/funx-bb-mp3
+#EXTINF:-1,Radio-Gersdorf_Listen_live
+302 https://stream.laut.fm/dj-kai?ref=radiode
+#EXTINF:-1,Energy_Hits_2019_Listen_live
+302 https://energyhits3.ice.infomaniak.ch/energyhits3-high.mp3
+#EXTINF:-1,Radio_Sensorial_FM_Listen_live
+200 https://servidor35-1.brlogic.com:8144/live
+#EXTINF:-1,Radio_Thiossane_Listen_live
+301 https://listen.senemultimedia.net/proxy/radiothiossane?mp=/1
+#EXTINF:-1,Radio_Canal_95_Listen_live
+400 https://streaming.conectaapp.cl/canal95
+#EXTINF:-1,DJ_Nostalgique_Listen_live
+302 https://stream.laut.fm/dj-nostalgique
+#EXTINF:-1,Hitrádio_Devadesatka_Listen_live
+400 https://ice.abradio.cz/hit90128.mp3
+#EXTINF:-1,Radyo_İntizar_Listen_live
+https://s30.canli-radyo.biz/Stream11
+#EXTINF:-1,Tropical_House_Радио_-_RadioSpinner_Listen_live
+200 https://live.radiospinner.com/tropical-house-64
+#EXTINF:-1,Radioalfa20_latin_hits
+302 https://stream.zeno.fm/nh4m3mpm0d0uv
+#EXTINF:-1,HITS1_latina
+301 https://player.latina.hits1radio.com
+#EXTINF:-1,Radio_Amigos_do_Samba
+200 https://stm10.voxhd.com.br:7846/
+#EXTINF:-1,RPR1._Sommerhits
+302 https://stream.rpr1.de/sommerhits/mp3-128/radiovolna
+#EXTINF:-1,La_Grande
+302 https://stream.zeno.fm/3qzxcbhm8ueuv
+#EXTINF:-1,Hotmixradio_Latino
+404 https://streamingp.shoutcast.com/hotmixradio-latino-128.mp3
+#EXTINF:-1,Factory_FM
+200 https://ams1.acelerun.com:8012/stream
+#EXTINF:-1,RCI_Latino
+200 https://stream.rcs.revma.com/y77561rtpwzuv
+#EXTINF:-1,Rádio_Viva_o_Samba
+http://74.63.237.84:8020/live
+#EXTINF:-1,CALM_RADIO_-_Samba_Brazil
+https://streams.calmradio.com:20028/stream/1/
+#EXTINF:-1,Radio_Studio_Souto_-_Pagode
+200 https://centova5.transmissaodigital.com:20027/stream
+#EXTINF:-1,1.FM_-_Samba_Hits_Brazil
+200 https://strm112.1.fm/samba_mobile_mp3
+#EXTINF:-1,1.FM_-_Samba_Rock
+200 https://strm112.1.fm/sambarock_mobile_mp3
+#EXTINF:-1,Rádio_Aliança
+401 https://stream.zeno.fm/q0kbc5y5pf9uv
+#EXTINF:-1,Rádio_Delta_99.7_FM
+200 http://stm3.painelvox.com:8066/stream/1/
+#EXTINF:-1,Maramar_PodCast
+http://centova2.ipstm.net:12071/stream
+#EXTINF:-1,Radio_Arigo
+http://streaming02.maxcast.com.br:8086/autodj
+#EXTINF:-1,RADIO_CNB_
+200 http://stm14.xcast.com.br:8894/stream/1/
+#EXTINF:-1,Samba_FM
+https://hts01.kshost.com.br:8428/live
+#EXTINF:-1,TRI_FM_SANTOS
+200 https://radios.poolwebwork.com.br/8024/stream
+#EXTINF:-1,BRA_-_I_LOVE_RIO_RADIO
+200 https://eu10.fastcast4u.com/iloverio/
+#EXTINF:-1,Web_Rádio_Saubara
+200 https://stm1.voxplayer.com.br:7028/stream/1/
+#EXTINF:-1,Toque_Brasil_Web
+200 http://192.163.193.115:9990/
+#EXTINF:-1,Casa_Da_Black_Music_-_Nacionais_e_Internacionais_Da_Música
+404 https://stream.zeno.fm/fmdmgq4w2a0uv
+#EXTINF:-1,Rádio_Fm_Praia
+200 https://ssl.xcast.com.br:12580/stream
+#EXTINF:-1,Radio_Box_Fm
+302 https://stream.zeno.fm/u2fv6c85rs8uv
+#EXTINF:-1,Rádio_Beach_Brazil
+https://s13.maxcast.com.br:8172/live
+#EXTINF:-1,Radio_Urantia_Brasil
+200 https://s05.maxcast.com.br:8224/live
+#EXTINF:-1,Tropical_FM
+https://solid24.streamupsolutions.com/proxy/dcofieen?mp=/stream
+#EXTINF:-1,Lima
+302 https://stream.zeno.fm/r356b44nq2zuv
+#EXTINF:-1,Grenada_Entertainment_Online_Radio
+200 https://streaming.radio.co/s547960b78/listen
+#EXTINF:-1,SALSA_PA_LA_CALLE_RADIO_ONLINE
+302 https://stream.zeno.fm/4zqeuxz6ay8uv
+#EXTINF:-1,Geração_Samba_e_Pagode
+https://servidor.geracaoradios.com/radio/8010/stream
+#EXTINF:-1,Harmonic_Progression
+404 http://node-23.zeno.fm/pb5f4d1g838uv?zs=DMPa_cRYQxiL2UYPjnuOew\u0026rj-ttl=3\u0026rj-tok=AAABgT2I64YAtYRzanm0QD7QOQ
+#EXTINF:-1,Rádio_João_Sá_Samba
+http://server15.livecenter.com.br:9966/stream/1/
+#EXTINF:-1,Rádio_Supersônica
+https://servidor17.brlogic.com:7428/live
+#EXTINF:-1,A_radio_do_coração
+http://s1.stm.fxhost.com.br:7000
+#EXTINF:-1,Web_Rádio_ZYK_-_i
+200 http://179.127.28.236:13838/autodj.m3u
+#EXTINF:-1,Radio_Inkafuego_104.3FM_en_vivo
+200 https://radiohd.us/8022/stream
+#EXTINF:-1,Transcontinental_FM
+405 https://ice.fabricahost.com.br/transcontinentalsp48
+#EXTINF:-1,Piatã_FM
+http://192.163.193.115:9992/stream/
+#EXTINF:-1,Radio_Caiçara
+200 http://cast4.audiostream.com.br:8654/aac
+#EXTINF:-1,Radio_Maximum_FM
+200 http://162.220.59.22:9582/stream/
+#EXTINF:-1,Radio_FamaStar
+200 http://sirius.shoutca.st:8527/stream
+#EXTINF:-1,Folha_FM
+http://r13.ciclano.io:8879/live
+#EXTINF:-1,Jequié_FM_89.7
+200 http://jequiefm.streams.com.br:7827/stream
+#EXTINF:-1,Clube_FM_Rio_Claro
+http://144.217.192.196:8897/live
+#EXTINF:-1,Radio_João_Sá_Samba
+http://server15.livecenter.com.br:9966/stream/
+#EXTINF:-1,1.FM_-_Samba_Hits_Brazil_Radio
+http://strm112.1.fm/samba_mobile_mp3
+#EXTINF:-1,Rádio_105_FM
+200 http://148.72.158.239:8010/live
+#EXTINF:-1,Rádio_Forró_Tradicional
+403 https://forrotradicional.com.br/radio/8000/aac
+#EXTINF:-1,Rádio_Correio_da_Serra
+200 http://sws.onradio.biz:8106/stream/
+#EXTINF:-1,Catedral_FM
+200 http://servidor30.brlogic.com:8538/live
+#EXTINF:-1,ReporTango_Radio
+http://173.249.0.101:9398/stream/
+#EXTINF:-1,Montalvo_Radio_FM_Cuenca
+302 https://stream.zeno.fm/4ycdxxrmgg0uv
+#EXTINF:-1,Pagode_90_Web_Rádio
+302 http://stream.zeno.fm/hfqaq0bhfg8uv
+#EXTINF:-1,Web_Rádio_Lance_Sertaneja
+404 https://stm14.xcast.com.br:9134/stream/
+#EXTINF:-1,Brazilian_Hour
+302 http://streaming.live365.com/a40542
+#EXTINF:-1,Radio_Amigos_da_MPB_
+200 http://stm4.voxhd.com.br:7086/
+#EXTINF:-1,Rádio_Arquibancada
+200 http://servidor31-2.brlogic.com:8184/live
+#EXTINF:-1,Califórnia_97.3_FM
+200 http://california.streams.com.br:7803/stream
+#EXTINF:-1,Imprima_FM
+400 http://104.238.205.43:9440/stream
+#EXTINF:-1,Rádio_Joia_do_Vale_FM
+http://stream1.painel-stm.com:23230/
+#EXTINF:-1,Band_FM_Guarapari
+200 http://conecta.welltecnologia.com.br:8060/radio.mp3
+#EXTINF:-1,Rádio_Black_Time
+200 http://servidor35-5.brlogic.com:8470/live
+#EXTINF:-1,Rádio_Mania_FM_92.5
+200 http://shout35.crossradio.com.br:8082/
+#EXTINF:-1,Rádio_RCC_Comunitária_Caiense
+400 http://198.199.114.161:8123/stream
+#EXTINF:-1,Rádio_Top_Digital
+200 http://wz5.dnip.com.br/topdigital/topdigital.stream/playlist.m3u8
+#EXTINF:-1,Web_Radio_Balanco
+http://centova4.ciclanohost.com.br:8076/
+#EXTINF:-1,Bossa_Nova_Peru_Radio
+http://s05.w3bserver.com:10036/stream/
+#EXTINF:-1,Band_FM_Lins
+http://srv59.brasilstream.com.br:8109/stream
+#EXTINF:-1,Bicuda_FM
+http://stm11.srvaudio.com.br:10920/test.aac
+#EXTINF:-1,Relax_FM_-_Latino
+200 https://pub0101.101.ru/stream/trust/mp3/128/265
+#EXTINF:-1,Geração_Rádios_-_Samba_e_Pagode
+http://servidor.geracaoradios.com:8010/stream
+#EXTINF:-1,Brazil_Radio_Music
+http://69.162.102.90:8498/live
+#EXTINF:-1,Grupo_Cordeiro_França_-_Rádio_Estádio
+http://stm2.mestrestream.xyz:7556/
+#EXTINF:-1,Rádio_UFPI
+200 http://fm.ufpi.br:8000/
+#EXTINF:-1,Rádio_MP_da_Bahia
+400 http://r10.ciclano.io:5006/stream.mp3
+#EXTINF:-1,Web_Rádio_Canções_de_Terreiro
+404 http://stream.zeno.fm/fxdk0f3a9s8uv
+#EXTINF:-1,Búzios_Bossa_Music
+200 http://servidor37.brlogic.com:8334/live
+#EXTINF:-1,Rádio_Vox_Brazil_New_Zealand
+http://streaming03.dgradios.com:8160/voxbrazil_hd
+#EXTINF:-1,Nova_Brasil_FM_Rio_de_Janeiro
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_RIO.mp3
+#EXTINF:-1,Black_Soul_Marques
+200 http://hts05.kshost.com.br:10020/
+#EXTINF:-1,Sintonia_Web_Rádio_Brasília_Df
+200 http://sv12.hdradios.net:7534/
+#EXTINF:-1,Rádio_Band_FM_90.5_-_Feira_de_Santana_
+200 http://srv59.brasilstream.com.br:8048/stream
+#EXTINF:-1,Band_FM_Tangará_de_Serra_-_ZYR414
+http://cast3.hoost.com.br:8600/live
+#EXTINF:-1,La_Voz_de_Brasil
+200 http://musicasdobrasil.radioca.st:8092/stream
+#EXTINF:-1,Radio_Brazuca_Flash
+200 http://s6.stmxp.net:8237/stream
+#EXTINF:-1,Radio_Brega_Web
+200 http://sv10.hdradios.net:7606/
+#EXTINF:-1,Clube_FM_100,9
+200 http://cast61.sitehosting.com.br:9250/stream/
+#EXTINF:-1,Radio_Maxima_Experiencia
+http://freeuk18.listen2myradio.com:25029/
+#EXTINF:-1,Radio_Blackpointsoul
+200 http://hts09.kshost.com.br:11842/
+#EXTINF:-1,Radio_Beach_Brazil
+http://s13.maxcast.com.br:8172/live
+#EXTINF:-1,Rádio_Hertz
+http://stm1.rbcast.com:6704/
+#EXTINF:-1,Eduvale_FM
+http://142.54.168.242:8096/stream/
+#EXTINF:-1,Rádio_Ostra_Mix
+http://stm1.onecast.com.br:7080/
+#EXTINF:-1,Vagalume.FM_-_Samba_e_Pagode
+301 http://stream.vagalume.fm/hls/147015499779090/aac.m3u8
+#EXTINF:-1,Radio_Serra_FM
+http://radios.cabreuvoip.com.br:7030/
+#EXTINF:-1,Nova_Sengés
+200 http://wz4.dnip.com.br/sengesfm/sengesfm.stream/playlist.m3u8
+#EXTINF:-1,Fay_Só_Forró_das_Antigas
+http://stm12.xcast.com.br:7132/
+#EXTINF:-1,Band_FM_93.3
+307 https://ice.fabricahost.com.br/bandfmtreslagoas
+#EXTINF:-1,Rádio_Cidade_87,9
+200 https://stm01.virtualcast.com.br:8276/live
+#EXTINF:-1,Molejo_FM
+http://192.99.188.208:9337/stream/
+#EXTINF:-1,Rádio_Mania
+302 http://playerservices.streamtheworld.com/api/livestream-redirect/MANIAFM_REDEAAC.aac
+#EXTINF:-1,Rádio_Happiness_-_Samba_Brasil
+http://s01.transmissaodigital.com:7672/
+#EXTINF:-1,Rádio_Alô_FM
+200 http://wz3.dnip.com.br/energiafmjf1/energiafmjf1.stream/playlist.m3u8
+#EXTINF:-1,Rádio_98_Ipatinga
+200 http://9526.brasilstream.com.br/stream
+#EXTINF:-1,1.FM_–_Samba_Hits_Brazil_Radio
+http://sc2b-sjc.1.fm:10016/
+#EXTINF:-1,1.FM_–_Samba_Rock_Radio
+http://sc-sambarock.1.fm:10000/
+#EXTINF:-1,Box_Fm_Web_Radio
+http://hts07.kshost.com.br:12300/
+#EXTINF:-1,Clube_FM_Turmalina
+http://stm43.coalahost.com.br:23230/
+#EXTINF:-1,Geração_Rádios_–_Samba_e_Pagode
+https://live.geracaoradios.com/sambapagode
+#EXTINF:-1,Grupo_Cordeiro_França_–_Rádio_Estádio
+http://streaming.cordeiroplasticos.com.br:7016/mp3/
+#EXTINF:-1,Klassik_Radio_–_Brazil
+302 http://stream.klassikradio.de/brazil/mp3-192/
+#EXTINF:-1,Rádio_Brasil_Notícia
+http://192.99.18.13:8648/live
+#EXTINF:-1,Rádio_Coisa_Plena
+404 http://stream.zeno.fm/nrde23hmc2zuv
+#EXTINF:-1,Rádio_Lírios_do_Campo
+http://suaradio1.dyndns.ws:10366/stream
+#EXTINF:-1,Rádio_Picuaia
+http://servidor.picuaia.com:8000/radiopicuaia.mp3
+#EXTINF:-1,Rádio_Puro_Pagodão
+http://stm7.xcast.com.br:6932/
+#EXTINF:-1,Rádio_RCP
+200 http://wz4.dnip.com.br/rcpfm/rcpfm.stream/playlist.m3u8
+#EXTINF:-1,Relax_FM_–_Latino
+404 http://ic7.101.ru:8000/c19_3
+#EXTINF:-1,1.FM_-_Samba_Hits_Brazil_(www.1.fm)
+http://185.33.21.111:80/samba_128
+#EXTINF:-1,1.FM_-_Samba_Rock_Radio
+502 http://185.33.21.113:11216
+#EXTINF:-1,1.FM_-_Samba_Rock_(www.1.fm)
+http://185.33.21.111:80/sambarock_128
+#EXTINF:-1,Amantes_do_Carnaval_SP
+500 http://listen.shoutcast.com/amantesdocarnavalsp
+#EXTINF:-1,CALM_RADIO_-_SAMBA_BRAZIL_-_Sampler
+http://23.82.11.87:20028/stream
+#EXTINF:-1,CARNAVAL_CARIOCA_-_O_melhor_carnaval_do_mundo
+http://173.236.30.162:8251
+#EXTINF:-1,DJthayrodrigues
+404 http://listen.shoutcast.com/djthayrodrigues
+#EXTINF:-1,FaceMusic_Palco_Samba_e_Pagode
+http://170.75.144.226:9844
+#EXTINF:-1,Legiao_de_Bambas
+http://170.75.145.138:13370
+#EXTINF:-1,Puro_Pagodao
+http://45.43.200.82:10258
+#EXTINF:-1,RADIO_DESDE_ADENTRO
+404 http://listen.shoutcast.com/radiodesdeadentro
+#EXTINF:-1,Radio_do_Carnaval_Virtual
+http://173.193.202.68:9328
+#EXTINF:-1,Radio_Nota_10_Web
+http://107.191.39.68:8482
+#EXTINF:-1,Radio_Olodum_Fm
+http://45.43.200.50:8546
+#EXTINF:-1,Radio_Pagode
+http://170.75.144.170:14268/1
+#EXTINF:-1,Radio_Sensacao_FM
+http://199.101.100.42:21028
+#EXTINF:-1,Radio_VivaRIO_Uberaba
+http://199.101.100.42:18366
+#EXTINF:-1,samba
+200 http://185.33.21.112:11291
+#EXTINF:-1,tp1radioetv
+404 http://listen.shoutcast.com/tp1radioetv
+#EXTINF:-1,VolÃºpia_Teste
+404 http://listen.shoutcast.com/volupiateste
+#EXTINF:-1,MBCradiotv
+https://s1.voscast.com:10663/stream
+#EXTINF:-1,RADIO_FAUSTEX_PLP
+http://78.129.237.53:8864/
+#EXTINF:-1,Radioalfa12_Latin_Hits
+302 http://stream.zeno.fm/ydf8ppv841zuv
+#EXTINF:-1,BRA_-_I_Love_Rio_Radio
+200 https://eu10.fastcast4u.com/iloverio
+#EXTINF:-1,BRA_-_Blue_Bossa_Nova_Radio
+200 https://usa10.fastcast4u.com/bluebossanova
+#EXTINF:-1,Radioalfa8_Latin_Hits
+302 http://stream.zeno.fm/51z3n54r1qzuv
+#EXTINF:-1,bigFM_Latin_Beats
+302 https://streams.bigfm.de/bigfm-latinbeats-128-mp3?usid=0-0-H-M-D-65
+#EXTINF:-1,Top_Tonic_Accordeon
+302 https://listen.radionomy.com/toptonicaccordeon
+#EXTINF:-1,SAMBA_BRAZIL_Sampler
+302 https://streams.calmradio.com/api/1040/128/stream
+#EXTINF:-1,CaliDeRumba_Radio
+404 http://stream.zeno.fm/5yvee7rmva0uv
+#EXTINF:-1,Luart_World_Radio
+301 http://streaming.radionomy.com/LuartWorld
+#EXTINF:-1,MI_GENERACION_RADIO
+200 http://play14.tikast.com:8048
+#EXTINF:-1,Madamia_Webradio
+404 http://s04.whooshclouds.net:8212/live/stream/1
+#EXTINF:-1,Giants_Of_Jazz_Radio
+200 http://streaming.radio.co:80/s297e618a7/listen
+#EXTINF:-1,Radio_Netvox
+http://37.187.90.121:2199/stream/1
+#EXTINF:-1,Hero_Web_Radio
+http://hwr.sytes.net:8000/stream/1
+#EXTINF:-1,Clube_Brasil_Selection
+http://srv1.clubebrasil.fr:8030/stream/1
+#EXTINF:-1,Radio_Fonte_Hits
+http://radiofontehits.uni7.net/
+#EXTINF:-1,Hamammetfm
+200 http://hamammet.listen2myradio.com/
+#EXTINF:-1,Maxxima_New_Electronic_Music_Radio_Available_Also_On_Aac
+http://lemixx.mine.nu:8000/stream/1
+#EXTINF:-1,Radioalfa11_Latin_hits
+302 http://stream.zeno.fm/5y3qdawpgzzuv
+#EXTINF:-1,Clube_Brasil_Classique_La_Radio_Bresilienne_Francophone_Des_Passionnes_Et_Des_Me
+http://91.121.75.173:8040/stream/1
+#EXTINF:-1,Clube_Brasil_Integrale_La_Radio_Bresilienne_Francophone_Des_Passionnes_Et_Des_Me
+http://srv1.clubebrasil.fr:8040/stream/1
+#EXTINF:-1,Paul_In_Rio_Radio_Brasil_Brazil_Bresil_Mpb_Samba_Bossa_Nova_Latin_Jazz_Radio_Sta
+http://69.175.13.131:8280/stream/1
+#EXTINF:-1,Paul_In_Rio_Radio_New_Brasil_Brazil_Bresil_Mpb_Samba_Soul_Latin_Jazz_Bossa_Nova
+http://99.198.112.59:80/stream/1
+#EXTINF:-1,Radio_Luna_one
+http://108.61.34.50:7005/stream/stream/1
+#EXTINF:-1,Radioalfa2.24
+http://95.154.254.81:10914/stream/1
+#EXTINF:-1,Radioalfa7_latin_hits
+302 http://stream.zeno.fm/gxpcf0kavqzuv
+#EXTINF:-1,Radioalfa2//Latin_hits
+302 http://stream.zeno.fm/1q3kddbxgnruv
+#EXTINF:-1,Radioalfa4_Latin_hits
+302 http://stream.zeno.fm/f1207heufnzuv
+#EXTINF:-1,Radioalfa9_Latin_hits
+302 http://stream.zeno.fm/4px23a06qtzuv
+#EXTINF:-1,Radioalfa5_latin_hits
+302 http://stream.zeno.fm/x9y4ytkavqzuv
+#EXTINF:-1,Radioalfa10_Latin_hits
+302 http://stream.zeno.fm/1vdk4k7ksqzuv
+#EXTINF:-1,Radioalfa15_latin_hits
+302 http://stream.zeno.fm/034v7pbzxwzuv
+#EXTINF:-1,Radioalfa18_latin_hits
+302 http://stream.zeno.fm/d8gdu7nm0d0uv
+#EXTINF:-1,Radioalfa19_Latin_hits
+302 http://stream.zeno.fm/5ue6sepm0d0uv
+#EXTINF:-1,24/7_Bossa_Nova_Radio
+http://ec6.yesstreaming.net:1600/stream
+#EXTINF:-1,Touch_101
+200 https://pub0202.101.ru:8443/stream/trust/mp3/128/196
+#EXTINF:-1,Rádio_Web_Music_Vila_Velha
+https://stream.rcast.net/257831
+#EXTINF:-1,Radio_Balla_Balla
+https://stream.rcast.net/257482
+#EXTINF:-1,IMPACT_DPS
+https://stream.rcast.net/255415
+#EXTINF:-1,RADIO_ITA_NEWS
+https://radio.portalitanews.com.br/listen/stream/aac
+#EXTINF:-1,no_name
+502 https://radiostreaming.ert.gr/ert-eurovision
+#EXTINF:-1,Electro_Cool_Radio
+https://stream.rcast.net/252585
+#EXTINF:-1,Unspecified_name
+https://stream.rcast.net/252382
+#EXTINF:-1,sambaepagode
+https://servidor.geracaoradios.com/listen/sambaepagode/stream
+#EXTINF:-1,Online_Radio
+https://stream.rcast.net/249057
+#EXTINF:-1,Radio_DY10
+400 https://flux.radiody10.com/airtime_128
+#EXTINF:-1,Jazz_Lovers
+200 https://kathy.torontocast.com:3535/stream
+#EXTINF:-1,RadioArt_-_Vocal_Jazz
+400 https://live.radioart.com/fVocal_jazz.mp3
+#EXTINF:-1,1.FM_-_Bossa_Nova_Hits_Radio
+https://stream.rcast.net/235420
+#EXTINF:-1,Samba_Rock
+https://stream.rcast.net/234685
+#EXTINF:-1,Airtime!
+https://stream.rcast.net/233279
+#EXTINF:-1,bossanova
+https://stream.rcast.net/231843
+#EXTINF:-1,Radio_Company_Stile_Italiano
+https://stream.rcast.net/215746
+#EXTINF:-1,Radio_Hellbach
+https://stream.rcast.net/213059
+#EXTINF:-1,.:::_MADAMIA_-_Webradio_:::.
+https://stream.rcast.net/212594
+#EXTINF:-1,Pagode_90
+404 https://stream.zeno.fm/w6afn5m5098uv
+#EXTINF:-1,tropical_fm
+https://stream.rcast.net/7317
+#EXTINF:-1,Mascarada_en_Carnaval
+404 http://listen.shoutcast.com/mascaradaencarnaval
+#EXTINF:-1,Grupo_Mascarada_Carnaval
+404 http://listen.shoutcast.com/grupomascaradacarnaval
+#EXTINF:-1,MeuSomOn
+404 http://listen.shoutcast.com/meusomon
+#EXTINF:-1,Radio_deconstructiva
+404 http://listen.shoutcast.com/radiodeconstructiva
+#EXTINF:-1,Zero_grau
+404 http://listen.shoutcast.com/zerograu
+#EXTINF:-1,DJ_jkn
+404 http://listen.shoutcast.com/djjkn
+#EXTINF:-1,FOXLUX
+404 http://listen.shoutcast.com/foxlux
+#EXTINF:-1,Samba_Sim
+404 http://listen.shoutcast.com/sambasim
+#EXTINF:-1,Gringoleiro
+404 http://listen.shoutcast.com/gringoleiro
+#EXTINF:-1,Warriors_from_heaven
+404 http://listen.shoutcast.com/warriorsfromheaven
+#EXTINF:-1,RADIO_B&B_[FUNK_-_SERTANEJO_-_PAGODE]_24H_BR
+404 http://listen.shoutcast.com/radiob-b-funk-sertanejo-pagode-24hbr
+#EXTINF:-1,Radio_mix_Stream
+404 http://listen.shoutcast.com/radiomixstream
+#EXTINF:-1,Melhor_do_pagode
+404 http://listen.shoutcast.com/melhordopagode
+#EXTINF:-1,88_FM_Radio_da_Gente
+404 http://listen.shoutcast.com/88fmradiodagente
+#EXTINF:-1,thayza_rodrigues
+404 http://listen.shoutcast.com/thayzarodrigues
+#EXTINF:-1,Dj_roberta_ribeiro
+404 http://listen.shoutcast.com/djrobertaribeiro
+#EXTINF:-1,Bittencourtt
+404 http://listen.shoutcast.com/bittencourtt
+#EXTINF:-1,Bittencourt
+404 http://listen.shoutcast.com/bittencourt
+#EXTINF:-1,oficina_do_samba_2
+404 http://listen.shoutcast.com/oficinadosamba2
+#EXTINF:-1,PruebaARSA
+404 http://listen.shoutcast.com/pruebaarsa
+#EXTINF:-1,CALMRADIO.COM_-_Samba_Brazil
+403 https://24383.live.streamtheworld.com:443/MANIAFM_REDEAAC.aac
+#EXTINF:-1,Rádio_Roquette
+https://ssl.srvstm.com:8098/;;stream.nsv;stream.nsv
+#EXTINF:-1,Rádio_Saudades
+400 https://centova.svdns.com.br:20046/stream
+#EXTINF:-1,Rádio_Crsitã_Online
+200 https://servidor40.brlogic.com:8004/live
+#EXTINF:-1,Radio_Paredão_PAGODAO
+405 http://stream-156.zeno.fm/3vwwc66wm8quv?zs=BOZRun_6SLGNFAvCkdZhOw
+#EXTINF:-1,Funk_Favela
+401 http://stream-043.zeno.fm/07z9dqmz0uquv?zs=ulcqtHeqRbupvh3Xko5rhw
+#EXTINF:-1,Web_Radio_Viva_o_Samba
+200 https://stm10.voxhd.com.br:7846/;
+#EXTINF:-1,LIGA_SAMBA_WEB_RÁDIO
+200 http://srv1.braudio.com.br:7308/;stream
+#EXTINF:-1,Radio_Art_-_Bossa_Nova
+400 http://air-tunein.radioart.com/fBosa_nova.mp3
+#EXTINF:-1,Rádio_Batuta_MPB_-_A_webradio_do_Instituto_Moreira_Salles
+http:/http:/adioims.out.airtime.pro:8000http:/adioims_a
+#EXTINF:-1,La_Clave_Stereo_93.6_FM
+https://laclavestereo.csdlanzarote.com/live
+#EXTINF:-1,Bar_Latina
+200 https://s2.citrus3.com:8330/stream
+#EXTINF:-1,FM_O_Dia_
+https://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb4f03173f2dae707/livestream/playlist.m3u8
+#EXTINF:-1,BH_FM
+https://medias.sgr.globo.com/hls/aBHFM/aBHFM.m3u8
+#EXTINF:-1,Piatã_FM_94,3
+http://192.163.193.115:9992/stream
+#EXTINF:-1,Rádio_Pagode
+https://s12.maxcast.com.br:8274/live
+#EXTINF:-1,Rádio_Samba_dos_Gêmeos
+http://streaming03.maxcast.com.br:8236/live?type=.mp3
+#EXTINF:-1,PAUL_IN_RIO_RADIO_
+http://69.175.13.131:8280/
+#EXTINF:-1,Agenda_do_Samba
+200 http://hts02.kshost.com.br:9556/live
+#EXTINF:-1,Rádio_Black_in_Love
+http://hts01.kshost.com.br:9890/live
+#EXTINF:-1,Radio_Black_Time
+200 https://servidor35.brlogic.com:8470/live
+#EXTINF:-1,Radio_Geração_80
+http://stm4.srvstm.com:6184/
+#EXTINF:-1,Rádio_Enredo
+http://69.162.122.46:8682/live
+#EXTINF:-1,Federal_FM
+400 http://radio.pas.ifsuldeminas.edu.br:8000/listen
+#EXTINF:-1,Web_Rádio_Caipira_do_Nordeste
+302 https://stream.zeno.fm/y8vsct1yzbruv
+#EXTINF:-1,Cultura_930
+200 http://cast61.sitehosting.com.br:8472/stream.nsv
+#EXTINF:-1,Rádio_FM_97
+http://painel.localmidia.com.br:8064/aovivo?type=.mp3
+#EXTINF:-1,WEB_RÁDIO_SÓ_SAMBA
+http://192.99.35.31:8031/index.html?1494844397734
+#EXTINF:-1,Rádio_Musical_FM
+http://stm7.painelvox.com:8298/
+#EXTINF:-1,Radio_Web_Piaui
+302 https://stream.zeno.fm/14fy13nh4bruv
+#EXTINF:-1,Radio_web_SCW
+http://paineldj5.com.br:20190/stream?type=.mp3
+#EXTINF:-1,Web_Rádio_CasIlêOca
+200 https://servidor21-3.brlogic.com:8968/live
+#EXTINF:-1,Rádio_Matuto_da_Praia
+302 https://stream.zeno.fm/rq8pt2zry8quv
+#EXTINF:-1,Rádio_Gazeta
+200 http://centova5.acresites.com.br:8101/stream
+#EXTINF:-1,Alto_Rio_Doce_FM
+http://198.24.165.180:9370/transmitir/1
+#EXTINF:-1,Rádio_Clube_AM
+http://radioweb.audiosul.com:8277/?1515963314565.aac
+#EXTINF:-1,Rádio_Agogô_Carioca
+302 https://stream.zeno.fm/sdb4rswqneruv
+#EXTINF:-1,Aruanã_FM
+http://158.69.132.6:9944/
+#EXTINF:-1,Web_Rádio_Bonfim_
+http://stm2.xcast.com.br:6974/stream
+#EXTINF:-1,Rádio_Elos_Brasil
+http://streaming17.hstbr.net:8030/live?1496087034718
+#EXTINF:-1,Rádio_Canção_Real
+http://live3.livemus.com.br:6910/
+#EXTINF:-1,Sintonia_SASP
+http://server01.stmsg.com.br:6852/
+#EXTINF:-1,Rádio_Radar_Hits_Fm
+404 https://stream.zenolive.com/4zde16d6nbruv
+#EXTINF:-1,Radio_Tropical_Original_Web
+404 http://suaradio2.dyndns.ws:10632/stream
+#EXTINF:-1,Digital_Radio_&_Tv_
+http://stm3.srvstm.com:24488/
+#EXTINF:-1,Web_Rádio_Millennium
+http://10.stmip.in:7924/stream
+#EXTINF:-1,Al_Ritmo_de_los_Ritmos
+http://alritmodelosritmos.com/popup
+#EXTINF:-1,Bossa_Radio
+http://109.206.96.106:8000/
+#EXTINF:-1,Expression_Web_Rádio
+404 https://painel.jmservers.com.br/listen/radio_expression/radio
+#EXTINF:-1,Geração_80
+https://ssl.srvstm.com:6184/
+#EXTINF:-1,International_Radio_3
+200 https://strw3.openstream.co/288
+#EXTINF:-1,Kizomba_Semba
+http://62.210.99.188:8050/listen.mp3?type=.mp3
+#EXTINF:-1,Miled_Music_Samba
+http://gemini.shoutca.st:8234/stream
+#EXTINF:-1,Onda_Latina
+302 https://stream.laut.fm/ondalatina
+#EXTINF:-1,Radio_Aviva_Brasil
+405 https://stream-152.zeno.fm/bw1dzdpbaigtv
+#EXTINF:-1,Rádio_Baile_Atlético
+302 https://stream.zeno.fm/z3ryxavvxm2tv
+#EXTINF:-1,Radio_Beats_Maker
+405 https://stream-149.zeno.fm/mmd26uhmc18uv
+#EXTINF:-1,Radio_Cultura_1140_AM
+https://r13.ciclano.io:15137/stream
+#EXTINF:-1,Rádio_Deluna
+405 https://stream-150.zeno.fm/vuxnp8c0feruv
+#EXTINF:-1,Radio_Diario_FM_90.9
+200 https://5a57bda70564a.streamlock.net/diariomacapa/diariomacapa.stream/playlist.m3u8
+#EXTINF:-1,Rádio_EXECUTIVE
+200 https://servidor17.brlogic.com:7020/live
+#EXTINF:-1,Radio_Expresso_Do_Samba
+https://s01.brascast.com:7548/stream?1728996711005
+#EXTINF:-1,Radio_Ilha_FM_97.5
+200 https://ssl.voxhd.com.br:8158/stream?1729498185767
+#EXTINF:-1,Rádio_Master_Vision_Samba_Rock
+400 https://centova4.transmissaodigital.com:20050/stream
+#EXTINF:-1,Radio_Millenio_Viamao
+405 https://stream-153.zeno.fm/4r4u73qzczzuv
+#EXTINF:-1,Radio_Navegantes
+400 http://cast62.sitehosting.com.br:8337/live
+#EXTINF:-1,Radio_Oceano.Net
+http://192.198.204.194:8084/
+#EXTINF:-1,Radio_Perola_Negra
+http://198.143.132.154:11842
+#EXTINF:-1,Rádio_Plus_Brasil
+https://server10.srvsh.com.br:8544/stream.nsv
+#EXTINF:-1,Rádio_Plus_Samba
+https://server15.srvsh.com.br:6948/stream
+#EXTINF:-1,Radio_Pop_Samba_e_Pagode
+302 https://node-27.zeno.fm/sghytatpu0quv
+#EXTINF:-1,Radio_Samba
+200 https://hts01.brascast.com:8428/live
+#EXTINF:-1,Radio_Studio_99
+405 https://stream-153.zeno.fm/hyfhnyqukchvv
+#EXTINF:-1,Radio_Tropical_FM_95.7
+200 https://stm1.centralcast.com.br:7024/stream
+#EXTINF:-1,Radio_Vselennaya_Mechty_Sbyvayutsya
+404 http://s05.volnorez.com:8001/live-app/tmp/581244
+#EXTINF:-1,RTV_GLP4
+http://stm24.xcast.com.br:12640/
+#EXTINF:-1,STT_Sound
+405 https://stream-151.zeno.fm/e3tv6f6yzp8uv
+#EXTINF:-1,Vagalume.FM_–_Velha_Guarda_e_Outras_Bossas
+200 https://stream.vagalume.fm/hls/1477499745841352/aac.m3u8
+#EXTINF:-1,Vip_Rádio_Web
+https://stream.vipradio.com.br/listen/vip_radio_web/aovivo
+#EXTINF:-1,Web_Radio_40_Graus
+https://ssl.srvstm.com:10174/stream
+#EXTINF:-1,Web_Rádio_Nova
+http://stm20.voxhd.com.br:11438/?1732522201781
+#EXTINF:-1,Web_Radio_Vista_Serrana
+200 http://175.stms.live:8716/stream?1732622988949
+#EXTINF:-1,1.FM_-_Samba_Hits_Brazil_Radio_-_320_-_Switzerland_-_samba
+200 http://strm112.1.fm/samba_mobile_mp3
+#EXTINF:-1,1.FM_-_Samba_Rock_Radio_-_320_-_Switzerland_-_samba
+200 http://strm112.1.fm/sambarock_mobile_mp3

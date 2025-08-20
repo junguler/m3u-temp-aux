@@ -1,0 +1,519 @@
+#EXTM3U
+#EXTINF:-1,Маруся_ФМ
+https:/http:/adio-holding.ru:9433/marusya_default
+#EXTINF:-1,Ретро_FM
+https:/http:/etro.hostingradio.ru:8043http:/etro256.mp3
+#EXTINF:-1,Радио_Рекорд_-_
+https:/http:/adiorecord.hostingradio.ruhttp:/us96.aacp
+#EXTINF:-1,НАШЕ_Радио
+200 https://nashe1.hostingradio.ru/nashe-256
+#EXTINF:-1,Радио_Хит_FM
+200 https://hitfm.hostingradio.ru/hitfm96.aacp
+#EXTINF:-1,Радио_Рекорд_-_Rock
+https:/http:/adiorecord.hostingradio.ruhttp:/ock96.aacp
+#EXTINF:-1,Радио_Комсомольская_Правда
+200 https://kpradio.hostingradio.ru:8000/128
+#EXTINF:-1,Радио_Maximum
+200 https://maximum.hostingradio.ru/maximum96.aacp
+#EXTINF:-1,Русское_Радио_-_Русский_Рок
+https:/http:/r-russkijrok.hostingradio.ruhttp:/usskijrok96.aacp
+#EXTINF:-1,Радио_звезда
+https://icecast-zvezda.mediacdn.ruhttp:/adio/zvezda/zvezda_128
+#EXTINF:-1,Like_FM
+200 https://pub0301.101.ru:8443/stream/air/mp3/256/219
+#EXTINF:-1,Соловьёв_FM_Live
+200 https://solovievfm.hostingradio.ru/solovievfm128.aacp
+#EXTINF:-1,Русская_Волна
+https:/http:/u2.amgradio.ru/RuWave48
+#EXTINF:-1,Жара_FM
+https://live1.zharafm.ru/internet
+#EXTINF:-1,Rock_FM
+https://nashe1.hostingradio.ruhttp:/ock-256
+#EXTINF:-1,Наше_Радио_-_Панки_хой!
+200 https://nashe1.hostingradio.ru/nashepunks.mp3
+#EXTINF:-1,Радио_Русские_Песни
+https:/http:/usongs.amgradio.ruhttp:/usongs
+#EXTINF:-1,STUDIO_21
+https://stream.studio21.ru/studio2196.aacp
+#EXTINF:-1,Русское_Радио_-_Высоцкий
+https:/http:/r-vysockij.hostingradio.ru/vysockij96.aacp
+#EXTINF:-1,Радио_Родных_Дорог
+200 https://stream1.radiord.ru:8000/live128.mp3
+#EXTINF:-1,Зайцев.FM_-_Rus
+https://zaycevfm.cdnvideo.ru/ZaycevFM_rus_256.mp3
+#EXTINF:-1,Радио_Блатняк
+404 https://pub0302.101.ru:8000/stream/personal/aacp/64/675938
+#EXTINF:-1,Дорожное_радио_-_Ностальгия_
+404 https://hls-01-dorognoe-nostalgia.emgsound.ru/19/112/playlist.m3u8
+#EXTINF:-1,Радио_Орфей
+200 https://orfeyfm.hostingradio.ru:8034/orfeyfm192.mp3
+#EXTINF:-1,Радио_Рекорд_-_Руки_Вверх!
+https:/http:/adiorecord.hostingradio.ruhttp:/v96.aacp
+#EXTINF:-1,101.ru_-_Дискотека_СССР
+200 https://pub0302.101.ru:8000/stream/pro/aac/64/144?
+#EXTINF:-1,Дорожное_радио_-_Танцы_по-русски
+https://dorognoe.hostingradio.ru/dorognoe1945.mp3
+#EXTINF:-1,Русское_Радио_-_Золотой_Граммофон
+https:/http:/r-zolotoigrammofon.hostingradio.ru/zolotoigrammofon96.aacp
+#EXTINF:-1,Радио_РОКС-М
+https://stream.hoster.byhttp:/adiorokshttp:/oks/icecast.audio
+#EXTINF:-1,Наше_Радио_-_Классик_рок
+200 https://nashe1.hostingradio.ru/nasheclassic.mp3
+#EXTINF:-1,Радио_Рекорд_-_Russian_Hits
+https:/http:/adiorecord.hostingradio.ruhttp:/ussianhits96.aacp
+#EXTINF:-1,Наше_Радио_-_Щас_спою
+200 https://nashe1.hostingradio.ru/nashesongs.mp3
+#EXTINF:-1,101.ru_-_СССР_50-70
+200 https://pub0202.101.ru:8443/stream/pro/aac/64/47?
+#EXTINF:-1,Радио_Русский_Хит
+http://37.233.41.76:8000http:/u_hit
+#EXTINF:-1,Радио_Ретро_Хит
+https:/http:/etro.amgradio.ru/Retro
+#EXTINF:-1,Чайная_роза_радио
+https://s04.volnorez.com/live-app/788219
+#EXTINF:-1,Радио_Калина_Красная
+200 https://icecast-studio21.cdnvideo.ru/KalynaK_1a
+#EXTINF:-1,101.ru_-_Шансон
+200 https://pub0102.101.ru:8443/stream/pro/aac/64/50?
+#EXTINF:-1,Русское_радио
+https://stream.hoster.byhttp:/usradiohttp:/usskoe/icecast.audio
+#EXTINF:-1,Радио_Рекорд_-_Trap
+https:/http:/adiorecord.hostingradio.ru/trap96.aacp
+#EXTINF:-1,Владивосток_FM
+400 http://vladfm.ru:8000/vfm
+#EXTINF:-1,Наше_радио_2.0
+200 https://nashe1.hostingradio.ru:18000/nashe20-128.mp3
+#EXTINF:-1,Радио_Рекорд_-_Маятник_Фуко
+https:/http:/adiorecord.hostingradio.ru/mf96.aacp
+#EXTINF:-1,Зайцев.FM_-_Шансон
+https://zaycevfm.cdnvideo.ru/ZaycevFM_shanson_256.mp3
+#EXTINF:-1,Радио_Для_Взрослых
+200 https://listen6.myradio24.com/alex542888
+#EXTINF:-1,101.ru_-_Виктор_Цой_и_группа_«КИНО»
+200 https://pub0202.101.ru:8443/stream/pro/aac/64/103?
+#EXTINF:-1,Радио_Таван_
+400 http://icecast.ntrk21.ru:8000/tavan
+#EXTINF:-1,Русское_Радио_-_Русское_Кино
+https:/http:/r-russkoekino.hostingradio.ruhttp:/usskoekino96.aacp
+#EXTINF:-1,Русское_FM
+https:/http:/ufm.amgradio.ruhttp:/ufm
+#EXTINF:-1,Радио_Maximum_-_Rock_Hits
+https:/http:/ockhits.hostingradio.ruhttp:/ockhits96.aacp
+#EXTINF:-1,Радио_Русь
+https:/http:/adio-holding.ru:9433http:/us
+#EXTINF:-1,Радио_Рекорд_-_Russian_Gold
+https:/http:/adiorecord.hostingradio.ruhttp:/ussiangold96.aacp
+#EXTINF:-1,Радио_Рекорд_-_Chill_House
+https:/http:/adiorecord.hostingradio.ru/chillhouse96.aacp
+#EXTINF:-1,101.ru_-_СССР_30-50
+200 https://pub0202.101.ru:8443/stream/pro/aac/64/46?
+#EXTINF:-1,ХАЙП_FM
+200 https://hfm.amgradio.ru/HypeFM
+#EXTINF:-1,101.ru_-_Высоцкий
+200 https://pub0202.101.ru:8443/stream/pro/aac/64/58?
+#EXTINF:-1,Русское_Радио_-_Родные_Нулевые
+https:/http:/r-00.hostingradio.ruhttp:/r0096.aacp
+#EXTINF:-1,Радио_Рекорд_-_Phonk
+https:/http:/adiorecord.hostingradio.ru/phonk96.aacp
+#EXTINF:-1,Радио_Рекорд_-_Black_Rap
+https:/http:/adiorecord.hostingradio.ru/yo96.aacp
+#EXTINF:-1,Соль_FM_-_Rap
+http://solfm.ru:8000http:/ap128
+#EXTINF:-1,101.ru_-_Русский_Рэп
+200 https://pub0202.101.ru:8443/stream/pro/aac/64/43?
+#EXTINF:-1,DFM_Rap
+https://dfm-dfmrap.hostingradio.ru/dfmrap96.aacp
+#EXTINF:-1,Радио_Бутырка
+200 https://stream03.pcradio.ru/Butirka-med
+#EXTINF:-1,Радио_Русский_Рок
+https:/http:/ock.amgradio.ru/RusRock
+#EXTINF:-1,Russian_Deep_Radio
+http:/http:/adio.rudeep.ru:8000/stream
+#EXTINF:-1,Русское_Радио_-_Детский_Канал
+https:/http:/r-detskijkanal.hostingradio.ru/detskijkanal96.aacp
+#EXTINF:-1,Русское_Радио_-_Бессмертный_Полк
+https:/http:/r-bessmertnyipolk.hostingradio.ru/bessmertnyipolk96.aacp
+#EXTINF:-1,Радио_Рекорд_-_Rap_Hits
+https:/http:/adiorecord.hostingradio.ruhttp:/ap96.aacp
+#EXTINF:-1,Дорожное_радио_-_Рок-клуб
+404 https://hls-01-dorognoe-rock.emgsound.ru/18/112/playlist.m3u8?udid=aud
+#EXTINF:-1,Радио_Шансон_Армения
+200 https://chanson.hostingradio.ru:8041/chanson128.mp3
+#EXTINF:-1,Авторадио_-_Музыка
+200 https://pub0302.101.ru:8443/stream/pro/aac/64/2?
+#EXTINF:-1,Радио_Орфей_-_Популярная_классика
+https://channels.fonotron.ru:8000/Chan_72_256.mp3
+#EXTINF:-1,Радио_Шансон_Плюс
+https:/http:/adio.radioshansonplus.com:8055http:/adio
+#EXTINF:-1,101.ru_-_Армейские_песни
+200 https://pub0202.101.ru:8443/stream/pro/aac/64/37?
+#EXTINF:-1,101.ru_-_Русский_Рок
+200 https://pub0202.101.ru:8443/stream/pro/aac/64/42?
+#EXTINF:-1,DFM_Trap
+200 https://dfm-dfmtrap.hostingradio.ru/dfmtrap96.aacp
+#EXTINF:-1,DFM_Кальян_Рэп
+200 https://dfm-kalianrap.hostingradio.ru/kalianrap96.aacp
+#EXTINF:-1,Радио_Ночное_такси
+https://c24.radioboss.fm:18237/stream
+#EXTINF:-1,
+200 https://pub0101.101.ru/stream/air/aac/64/100
+#EXTINF:-1,Русское_Радио_-_Лихие_Девяностые
+https:/http:/r-90.hostingradio.ruhttp:/r9096.aacp
+#EXTINF:-1,Русское_Радио_-_Соня
+https:/http:/r-sonya.hostingradio.ru/sonya96.aacp
+#EXTINF:-1,Русское_Любимое
+http://live.ruradio.md:8000http:/uradio
+#EXTINF:-1,Европа_Плюс_-_Urban
+https://epdop.hostingradio.ru:8033/ep-urban128.mp3
+#EXTINF:-1,DFM_Russian_Gold
+https://dfm-russiangold.hostingradio.ruhttp:/ussiangold96.aacp
+#EXTINF:-1,Русское_Радио_-_Советская_Классика
+https:/http:/r-sovclass.hostingradio.ru/sovclass96.aacp
+#EXTINF:-1,Радио_Любимые_Хиты
+https://online.lyubimyehity.ru:8005/stream
+#EXTINF:-1,Радио_Пассаж
+https://listen.radiopassazh.ru/mp3-128
+#EXTINF:-1,Метарадио
+200 https://s2.metaradio.ru/mradio.192
+#EXTINF:-1,Радио_Наш_Шансон
+200 https://listen2.myradio24.com/8144
+#EXTINF:-1,Русское_Радио_-_Хайповые_Двадцатые
+https:/http:/r-20.hostingradio.ruhttp:/r2096.aacp
+#EXTINF:-1,Радио_Родные_Песни
+https:/http:/odpesni.amgradio.ruhttp:/p
+#EXTINF:-1,Мурка_FM
+200 https://murka.amgradio.ru/MurkaFM
+#EXTINF:-1,101.ru_-_Russian_Dance
+200 https://pub0202.101.ru:8443/stream/trust/mp3/128/17?
+#EXTINF:-1,Радио_ТВ_Твоя_Волна
+200 https://icecast-tvoyavolna.cdnvideo.ru/tvoyavolna
+#EXTINF:-1,Радио_Спутник
+http://online.sputnikfm.ru:8000/sputnik_mp3
+#EXTINF:-1,Народное_Славянское_Радио
+https://slavradio.org:8443/nsr/1/
+#EXTINF:-1,Радио_Наши_песни
+404 https://drh-connect.dline-media.com/nashipesni
+#EXTINF:-1,Donat_FM_-_Шансон
+200 https://c6.radioboss.fm:18096/stream
+#EXTINF:-1,Радио_Ночной_звонок
+200 https://listen7.myradio24.com/74828
+#EXTINF:-1,Радио_Михаил_Круг
+200 https://stream03.pcradio.ru/Michail_Krug-med
+#EXTINF:-1,EHR_-_Русские_Хиты
+200 https://stream.ehrhiti.lv:8000/khr.aac
+#EXTINF:-1,Радио_Детский_Хит
+200 https://deti.amgradio.ru/Deti
+#EXTINF:-1,Радио_NS_-_Шансон
+https://icecast.ns.kzhttp:/adions-shanson
+#EXTINF:-1,Новое_Радио_Молдова
+http://77.89.206.126:7030/live
+#EXTINF:-1,Русское_Радио_-_Русские_Каверы
+https:/http:/r-covers.hostingradio.ruhttp:/rcovers96.aacp
+#EXTINF:-1,Made_In_Russia_-_Dance_Radio
+200 https://listen7.myradio24.com/9083
+#EXTINF:-1,Зайцев.FM_-_РуРок
+https://zaycevfm.cdnvideo.ru/ZaycevFM_rurock_256.mp3
+#EXTINF:-1,Русское_Радио_-_Звездатые_Десятые
+https:/http:/r-10.hostingradio.ruhttp:/r1096.aacp
+#EXTINF:-1,Donat_FM_-_Русский_рок
+200 https://c6.radioboss.fm:18097/stream
+#EXTINF:-1,Радио_Калейдоскоп_-_Шансон
+200 https://listen7.myradio24.com/22602
+#EXTINF:-1,Душевное_радио
+http://85.234.104.148:8003/
+#EXTINF:-1,Радио_Сентябрь
+http://89.17.51.84:8000/live
+#EXTINF:-1,DFM_Русский_Рейв
+https://dfm-russianrave.hostingradio.ruhttp:/ussianrave96.aacp
+#EXTINF:-1,ТНТ_Music_-_Hip_Hop_Radio
+200 https://tntradio.hostingradio.ru:8027/hhr128.mp3
+#EXTINF:-1,Отличное_Радио_-_Русское
+302 https://myradio24.org/8234
+#EXTINF:-1,Радио_Орфей_-_Бельканто
+400 https://channels.fonotron.ru:8000/Chan_75_256.mp3
+#EXTINF:-1,Уездное_радио
+400 http://62.192.226.178:8001/stream.ogg
+#EXTINF:-1,Raadio_4_-_ER4
+http://icecast.err.eehttp:/aadio4madal.mp3
+#EXTINF:-1,Радио_Колея
+https:/http:/adio-kolea.ru:1045/stream
+#EXTINF:-1,Русское_Радио_-_Земляне
+https:/http:/r-zemlyane.hostingradio.ru/zemlyane96.aacp
+#EXTINF:-1,Папино_Радио
+200 https://a1.radioheart.ru:9001/RH53662
+#EXTINF:-1,Радио_Maximum_-_Russian_Rock
+404 https://maximum-russian.hostingradio.ru/maxrussian96.aacp
+#EXTINF:-1,Russian!_Radio
+404 http://144.76.92.71/stream
+#EXTINF:-1,Donat_FM_-_Русская_поп-_музыка
+200 https://c6.radioboss.fm:18099/stream
+#EXTINF:-1,Radio_Aquarelle_FM
+400 https://www.radio.md/stream/aquarellefm
+#EXTINF:-1,Радио_Пляж_-_Шансон
+200 https://listen7.myradio24.com/75853?
+#EXTINF:-1,DFM_Pump
+200 https://dfm-pump.hostingradio.ru/pump96.aacp
+#EXTINF:-1,Русское_Радио_-_Зимнее_Любимое
+https:/http:/r-zimlub.hostingradio.ru/zimlub96.aacp
+#EXTINF:-1,Shanson_USA
+200 http://usa7.fastcast4u.com:5949/;
+#EXTINF:-1,NRJ_Hip-Hop
+200 https://pub0202.101.ru:8443/stream/pro/aac/64/445
+#EXTINF:-1,РНР_Радио_Начинающих_Рэперов
+https://listen6.myradio24.comhttp:/nm
+#EXTINF:-1,Наше_Радио_-_live
+https://stream.nashe-radio-life.com:4005/stream
+#EXTINF:-1,DJRadio_Russia
+http://31.132.166.7:8000/djradio
+#EXTINF:-1,Apex_Radio
+200 https://listen2.myradio24.com/8068
+#EXTINF:-1,BFM_Radio_(BrooklynFM)
+200 https://stream.bfmradio.us/stream128/
+#EXTINF:-1,Русское_Радио_-_RockFam
+https:/http:/r-rockfam.hostingradio.ruhttp:/ockfam96.aacp
+#EXTINF:-1,Радио_Голос_Берлина
+405 https://stream-149.zeno.fm/fuer3pssrnhvv?zs=qP1kQ7CuTEmzZ4VoMUJr4A
+#EXTINF:-1,HIT_FM_-_Русское_Хитовое
+https://stream.hitfm.md:8443http:/u_hit_320
+#EXTINF:-1,DFM_-_K-POP
+200 https://dfm-kpop.hostingradio.ru/kpop96.aacp
+#EXTINF:-1,Шансон_радио
+200 https://listen7.myradio24.com/75853
+#EXTINF:-1,Радио_«Русская_реклама»
+200 https://securestreams5.autopo.st:1844/stream
+#EXTINF:-1,Davidzon_Radio
+400 http://ags.abinet.com:8800/dr.mp3
+#EXTINF:-1,Радио_Новороссия_Rocks
+http://212.66.37.34:8000/nrocks
+#EXTINF:-1,RussianFM
+http:/http:/adio.russianfm.de:8000/;stream.nsv
+#EXTINF:-1,100FM_Radius_-_Russian
+https://gb25.streamgates.nethttp:/adios-audio/891Digital/playlist.m3u8
+#EXTINF:-1,Радио_Океан_Любви
+302 https://stream.volnorez.com/live-app/694642?br=192
+#EXTINF:-1,Радио_NS_-_Русский_Хит
+https://icecast.ns.kzhttp:/adions-russian
+#EXTINF:-1,Радио_Орфей_-_Русская_хоровая
+400 https://channels.fonotron.ru:8000/Chan_64_256.mp3
+#EXTINF:-1,Радио_Германия
+404 https://server4.streamserver24.com:8080/proxyhttp:/adioger?mp=/stream
+#EXTINF:-1,Russkaya_Reklama
+http:/http:/s3.radiostreamer.com:8400/;stream.nsv&type=mp3/;
+#EXTINF:-1,Slavic_Family_Radio
+200 https://us3.streamingpulse.com/ssl/SlavicMediaHoldings
+#EXTINF:-1,Радио_Рекорд_-_Русская_Зима
+https:/http:/adiorecord.hostingradio.ruhttp:/uszima96.aacp
+#EXTINF:-1,Wow_Music_-_Русская_нетленка
+400 https://stream.vyshka24.ru/wowrugold
+#EXTINF:-1,Нямкин_FM
+200 https://live.radiospinner.com/nymkn-96
+#EXTINF:-1,Хит_FM_Hip_Hop
+404 https://hitfm-hiphop.hostingradio.ru/hithiphop96.aacp
+#EXTINF:-1,Soul_of_the_Caucasus
+http://45.88.76.52:8000/live
+#EXTINF:-1,EHR_-_Top_40_RU
+200 https://stream.ehrhiti.lv:8000/Stream_33.aac
+#EXTINF:-1,Russian_Dance_Radio
+https://lux-radio.com:8015/stream
+#EXTINF:-1,Royal_Radio_-_Russian_Hits
+https:/http:/oyalradio.space/RH
+#EXTINF:-1,Радио_Maximum_-_New_Russians
+200 https://maximum-newrussians.hostingradio.ru/maxnewrussians96.aacp
+#EXTINF:-1,Радио_MAKKIRUS
+200 https://makkirus.amgradio.ru/makkirus
+#EXTINF:-1,Соль_FM_-_Phonk
+400 http://solfm.ru:8000/phonk_128
+#EXTINF:-1,Вольтаж_-_Chas
+https:/http:/adio.voltagefm.ru:9009/VoltageCHAS_64_aac?1654065430385
+#EXTINF:-1,Radio_Russian_Dubai
+200 https://a4.radioheart.ru:9041/RH32763
+#EXTINF:-1,WPAT_930_AM
+http://mobilestream1.serverroom.us:9772/;
+#EXTINF:-1,Миг_ФМ
+http://mix.am:8000/mig
+#EXTINF:-1,Polygon.FM_-_Тихий_Русский
+https://eu6.fastcast4u.com/proxy/qrm?mp=/stream
+#EXTINF:-1,Wow_Music_-_Русское
+400 https://stream.vyshka24.ru/wowrusskoe
+#EXTINF:-1,VikVik_Radio
+http://199.195.194.140:8369/stream
+#EXTINF:-1,bigFM_bigMUZYKA
+200 https://audiotainment-sw.streamabc.net/atsw-russia-mp3-128-8184454?sABC=650970q2%230%234r22236104s8nr3n29rss56oo6qo07n6%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1695117522
+#EXTINF:-1,Radio_Russian_Popular_Songs
+https://listen.rusongs.ruhttp:/u-mp3-128
+#EXTINF:-1,Радио_Амор
+200 https://listen7.myradio24.com/vitaxa
+#EXTINF:-1,Радио_NS_-_KZ
+https://icecast.ns.kzhttp:/adions-kz
+#EXTINF:-1,Радио_Ден_стар
+404 https://s05.volnorez.com/live-app/899946
+#EXTINF:-1,JAM_FM_Russkiye_Khity
+https:/http:/tlberlin.streamabc.nethttp:/tlb-jamfmlive-mp3-192-2163760?sABC=65097691%230%234r22236104s8nr3n29rss56oo6qo07n6%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1695118993
+#EXTINF:-1,Радио_Счастливы_вместе
+404 https://listen3.myradio24.com/92472
+#EXTINF:-1,Радио_Два_Берега
+https:/http:/adio-connect.dline-media.com/ber_FM.mp3
+#EXTINF:-1,Polygon.FM_-_Indie_Russian
+https://eu6.fastcast4u.com/proxy/mrrm?mp=/stream
+#EXTINF:-1,Радио_1_ЭФ_ЭМ
+405 https://stream-149.zeno.fm/c5ysugqkxtzuv?zs=oDw0DJg-TtKrqEcf1yhX9g
+#EXTINF:-1,Радио_Русские_Вечёрки
+https://c16.radioboss.fm:8254/stream
+#EXTINF:-1,Радио_Рок-Атака
+https://listen7.myradio24.comhttp:/ockataka
+#EXTINF:-1,Радио_Анапский_Район
+https://anapskiy.ru/stream
+#EXTINF:-1,Радио_Кафе_у_Светланки_и_Сергея
+302 https://s05.volnorez.com/live-app/905822
+#EXTINF:-1,Радио_The_Voice
+200 https://live-bauerdk.sharp-stream.com/thevoice_dk_mp3
+#EXTINF:-1,Freedom_FM
+200 https://us9.maindigitalstream.com/ssl/freedomfm
+#EXTINF:-1,Кринж_ФМ
+200 https://s0.radioheart.ru:8000/CringeFM
+#EXTINF:-1,Kukuruz
+200 https://kukuruz.stream.laut.fm/kukuruz
+#EXTINF:-1,Polygon.FM_-_Громкий_Русский_
+https://eu6.fastcast4u.com/proxy/lrm?mp=/stream
+#EXTINF:-1,Просто_Радио_Лиепая
+400 http://89.254.163.122:8000/live
+#EXTINF:-1,Radio_Nova_Toronto
+200 https://streams.radio.co/s1ae1175cf/listen
+#EXTINF:-1,Магадан_ФМ
+302 https://myradio24.org/magadanfm
+#EXTINF:-1,Радио_Лента
+https://stream01.the-broadcasters.onlinehttp:/adiolenta_mp3
+#EXTINF:-1,RuStyle_Radio
+http://188.225.87.45:8000http:/ustyle
+#EXTINF:-1,Радио_QMUSIC_RUSSIA
+200 https://a4.radioheart.ru:9005/RH21431
+#EXTINF:-1,КомпромиС_ФМ
+200 https://listen5.myradio24.com/kfm
+#EXTINF:-1,RadioSlot:_Special_Events_1
+403 https://18213.live.streamtheworld.com:443/SP_R2398921_SC
+#EXTINF:-1,Радио_русское_время
+404 https://listen3.myradio24.com/53690
+#EXTINF:-1,Radio_Relax_-_R&amp;B
+https://stream.dixi.md:9443http:/elax_rnb_mp3_320
+#EXTINF:-1,Радио_«Русская_реклама»_-_Русский_ХИТ
+400 https://securestreams6.autopo.st:2130/onlyrussian
+#EXTINF:-1,16BIT_FM_I.D.E.A._Channel_192K_stream#1_MOSCOW
+400 http://16bitfm.com:8000/idea_mp3_192
+#EXTINF:-1,Russian_FM
+http:/http:/adio.russianfm.de:8000/;
+#EXTINF:-1,Справедливая_Россия
+200 https://spravedlivo.hostingradio.ru:8022/spravedlivo128.mp3
+#EXTINF:-1,16Bit_FM_PRObeat_Channel_192K_stream#1_MOSCOW
+400 http://16bitfm.com:8000/main_mp3_192
+#EXTINF:-1,ЯсенБит_192Kbit/s
+http:/http:/adio.yasenbit.net:8000/yasenbit192k
+#EXTINF:-1,Anison动漫音乐台
+http://pool.anison.fm:9000/AniSonFM(320)
+#EXTINF:-1,Радио_Спутник_(sputnik)_Белорусия
+200 https://icecast-rian.cdnvideo.ru/voicerus
+#EXTINF:-1,RadioMv_Russian
+http:/http:/u-high.radiomv.co:2204/;
+#EXTINF:-1,Народное_Славянское_Радио_-_Музыка
+https://slavradio.org:8443/nsr/3
+#EXTINF:-1,101.ru_-_Авторская_Песня
+200 http://ic6.101.ru:8000/stream/pro/aac/64/35
+#EXTINF:-1,Royal_Love
+404 http://193.33.170.218:8000/RoyaLove
+#EXTINF:-1,Барнаул_Россия
+https://icecast.gtrk22.ru:8443http:/ussia
+#EXTINF:-1,KBS_World_Russian_Radio
+http://101.79.244.199:1935/cocotv/_definst_/CH00009/playlist.m3u8
+#EXTINF:-1,Шансон_без_цензуры
+200 http://chanson.hostingradio.ru:8041/chanson-uncensored256.mp3
+#EXTINF:-1,Royal_Rock
+200 http://193.33.170.218:8000/RoyalRock
+#EXTINF:-1,Radio_80_Russia
+http:/http:/adio80.ru:7777/;
+#EXTINF:-1,Royal_Попса
+404 http://193.33.170.218:8000/RoyalPopsa
+#EXTINF:-1,Anima_Amoris_-_Trance
+http://anima.sytes.net./trance.mp3
+#EXTINF:-1,98.8_Kiss_FM_Russian_Beats
+302 http://topradio-stream32.radiohost.de/kissfm-russian-beats_mp3-128
+#EXTINF:-1,101.ru_-_Drum_&amp;_Bass
+200 https://pub0302.101.ru:8000/stream/pro/aac/64/6?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6IjIxMi41MS4xNDIuMTY2IiwidXNlcmFnZW50IjoiTW96aWxsYVwvNS4wIChYMTE7IFVidW50dTsgTGludXggeDg2XzY0OyBydjo4OC4wKSBHZWNrb1wvMjAxMDAxMDEgRmlyZWZveFwvODguMCIsInVpZF9jaGFubmVsIjoiNiIsInR5cGVfY2hhbm5lbCI6ImNoYW5uZWwiLCJleHAiOjE2MTU0NjYxNDh9.ReVmj9UP8k1j83oPOXewKDc37Me9RpR3wA3nm5bMWmE
+#EXTINF:-1,ULTRA
+200 http://nashe1.hostingradio.ru/ultra-256
+#EXTINF:-1,101.ru_-_ДДТ
+200 https://pub0101.101.ru/stream/pro/aac/64/112
+#EXTINF:-1,101.ru_Любэ
+200 https://pub0101.101.ru/stream/pro/aac/64/158
+#EXTINF:-1,Радио_«Ъ_FM»
+404 https://hls-01-kommersant.hostingradio.ru/17/96/playlist.m3u8
+#EXTINF:-1,Kir98_Radio_station
+400 http://kir98.no-ip.org/aac
+#EXTINF:-1,Anprmr_Radio
+http://anprmr-airtime.tk:8000/anprmr_256/
+#EXTINF:-1,Apex_Real_Radio
+http://webcast.apexradio.ru:8000/realradio/
+#EXTINF:-1,Bard_Radio
+200 https://a7.radioheart.ru:9010/RH4465
+#EXTINF:-1,Chikradio_Monte_Carlo
+http://uk2.internet-radio.com:8373/stream/
+#EXTINF:-1,Cossack_Radio
+http://91.214.82.110:8002/online
+#EXTINF:-1,Greek_Choice
+401 http://live3.istoikona.net:8207/
+#EXTINF:-1,Legends_FM
+400 http://live.legendy.by:8000/legendyfm
+#EXTINF:-1,Likee_FM
+404 https://myradio24.org/likeefm199
+#EXTINF:-1,LongCoast_Radio
+http://94.140.225.1:8000/nonstop/
+#EXTINF:-1,Marusya_FM
+307 http://radio-holding.ru:9000/marusya_default
+#EXTINF:-1,Master_Class_FM
+200 https://listen3.myradio24.com/master1
+#EXTINF:-1,My_Radio_Vysotskys_Songs
+301 http://music.myradio.ua:8000/pesni-vysockogo128.mp3
+#EXTINF:-1,NDH_FM_Online
+https://stream.ndhradio.online:8015/stream
+#EXTINF:-1,Radio_54_Russia
+200 http://91.202.68.50:8000/
+#EXTINF:-1,Radio_Astrakhan
+https://s03.volnorez.com/live-app/cid/813434/2da7fa1308c6469c
+#EXTINF:-1,Radio_Chair
+http://eu2.radioboss.fm:8080/stream
+#EXTINF:-1,Radio_Irbit_Fair
+302 https://stream.zeno.fm/zbxvtmkisdfvv
+#EXTINF:-1,Radio_Obozrevatel_–_Russian_Lyrics
+https://radio-stream-1.obozrevatel.com/RusLyrics128.mp3
+#EXTINF:-1,Radio_Point
+302 https://stream-29.zeno.fm/hg0axyr5bzzuv?zs=puZTueVLSAmgHeefqumb0g
+#EXTINF:-1,Radio_PRO_movement
+http://eu4.radioboss.fm:8095/stream
+#EXTINF:-1,Radio_Russia_Pesni
+https://listen.rusongs.ru/ru-aac-64
+#EXTINF:-1,Radio_Slot_–_Special_Events_1
+403 https://14223.live.streamtheworld.com/SP_R2398921_SC
+#EXTINF:-1,Radio_Stalingrad
+404 http://62.109.3.230/stalingrad.mp3
+#EXTINF:-1,Radio_Sunflower
+400 http://live.podsolnuh.media:8000/radio
+#EXTINF:-1,Radio_UFM
+http://skycast.su:2007/5229
+#EXTINF:-1,Radio_VDV
+http://vdvradio.hostingradio.ru:8001/vdvradio128.mp3/
+#EXTINF:-1,Russian_Roma
+400 http://radio.ransis.org:8000/gvtradition
+#EXTINF:-1,Russkoe_Radio_Ukraine_Dance
+http://online-rusradio2.tavrmedia.ua/RusRadio_Dance
+#EXTINF:-1,Samarskoe_Gubernskoe
+400 http://46.20.71.66:8000/fm
+#EXTINF:-1,Says_Maikop
+200 http://voicemaikop.hostingradio.ru:8003/voicemaikop128.mp3
+#EXTINF:-1,Solikamsk_FM
+http://178.47.143.60:9400/skfm2
+#EXTINF:-1,South_Wave
+http://213.80.160.102:8000/channel4
+#EXTINF:-1,Tvoeto_Radio
+400 http://79.98.108.173:8010/radio
+#EXTINF:-1,Vinil_FM
+200 https://live-bauerse-fm.sharp-stream.com/vinylfm_instream_se_aacp
+#EXTINF:-1,Volna_Schastiya
+200 https://listen.radioking.com/radio/562580/stream/622265
