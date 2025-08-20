@@ -1,0 +1,459 @@
+#EXTM3U
+#EXTINF:-1,Radio_NFM
+https://zas7.ndx.co.za:8024/stream
+#EXTINF:-1,Caledon_FM
+301 http://zas2.ndx.co.za/proxy/caledonfm?mp=/stream/1/
+#EXTINF:-1,Radio_Houtstok
+302 http://playerservices.streamtheworld.com/api/livestream-redirect/SAM02AAC98_SC
+#EXTINF:-1,SFM_Streek_Radio
+200 http://capeant.antfarm.co.za:8000/SFM
+#EXTINF:-1,Overvaal_Stereo
+http://overvaal.serverroom.us:5806/
+#EXTINF:-1,Kurara_FM
+http://freeuk27.listen2myradio.com:33180/&amptype=mp3
+#EXTINF:-1,Maluti_FM
+301 http://zas4.ndx.co.za/proxy/malutifm?mp=/stream
+#EXTINF:-1,JouRadio
+302 https://streams.radiomast.io/a425e29b-a485-4b55-9e77-a501be8d1ee7
+#EXTINF:-1,Waterberg_Stereo
+200 http://116.202.241.212:8048/stream/1/
+#EXTINF:-1,Moutse_Community_Radio
+400 https://zas7.ndx.co.za:8042/stream
+#EXTINF:-1,IFM
+https://ifmlive123.radioca.st/stream
+#EXTINF:-1,Smile_90.4_FM
+200 https://edge.iono.fm/xice/212_medium.aac
+#EXTINF:-1,Radio_Sonder_Grense
+302 http://playerservices.streamtheworld.com/api/livestream-redirect/RSGAAC.aac
+#EXTINF:-1,Radio_Pulpit
+200 https://edge.iono.fm/xice/189_medium.aac
+#EXTINF:-1,Kanaal_7_Bybel_Afrikaans
+400 https://zas3.ndx.co.za:8040/stream
+#EXTINF:-1,Jacaranda_FM
+302 https://edge.iono.fm/xice/jacarandafm_live_medium.aac
+#EXTINF:-1,Groot_FM
+http://zas6.ndx.co.za:11000/
+#EXTINF:-1,Bok_Radio
+200 https://bokradio.highquality.radiostream.co.za/
+#EXTINF:-1,Radio_Cape_Pulpit
+200 https://edge.iono.fm/xice/110_medium.aac
+#EXTINF:-1,Koepel_Stereo
+404 https://streamingv2.shoutcast.com/koepel-stereo-fm
+#EXTINF:-1,Zibonele_FM
+200 https://edge.iono.fm/xice/74_medium.aac?p=embed
+#EXTINF:-1,247Stereo
+404 http://s2.radio.co/s1c3e30f8c/listen
+#EXTINF:-1,Afropulse_Radio
+http://209.133.216.3:7014/stream
+#EXTINF:-1,Biker_Hart_Channel
+http://freeuk2.listen2myradio.com:35055/
+#EXTINF:-1,Biltong.mu_Radio
+200 http://s3.radio.co/s135e9edde/listen
+#EXTINF:-1,Friends-FM
+http://144.91.119.63:8012/stream
+#EXTINF:-1,Haiti-Stream_Channel
+404 http://streamingv2.shoutcast.com/haiti-stream-channel?type=.mp3/
+#EXTINF:-1,Hibiscus_Stereo
+http://nebula.shoutca.st:9000/stream/
+#EXTINF:-1,Jou_Stasie
+https://radio.uslsonic.gq:7008/
+#EXTINF:-1,Kaapstad_Radio
+http://radio.uslsonic.gq:8038/stream/
+#EXTINF:-1,Lekker_FM
+400 https://zas3.ndx.co.za:8002/stream
+#EXTINF:-1,Namib_Radio
+http://s7.voscast.com:10750/
+#EXTINF:-1,O5_Radio
+302 http://stream.zeno.fm/zv1zfszcz4zuv
+#EXTINF:-1,OFM_Stasie2
+200 http://edge.iono.fm/xice/47_medium.aac
+#EXTINF:-1,Oliv_GH_Radio
+302 http://stream.zeno.fm/000d22u90feuv
+#EXTINF:-1,Paarl_FM
+200 http://edge.iono.fm/xice/116_medium.aac
+#EXTINF:-1,Passion_FM_SA
+http://noasrv.caster.fm:10151/stream
+#EXTINF:-1,PatShow_PiCho_Radio
+http://stm16.xcast.com.br:10394/
+#EXTINF:-1,Radio_Majuba
+404 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM02AAC370.mp3
+#EXTINF:-1,RadioCaboverde
+302 http://www.radioking.com/play/caboverdenet
+#EXTINF:-1,RadioCross
+http://radiocross.radioca.st:8070/stream/
+#EXTINF:-1,Stereo_Sonder_Grense
+http://eu6.fastcast4u.com:5042/stream/
+#EXTINF:-1,Wontumi_Radio
+302 http://stream.zeno.fm/u8krp9yx8qzuv
+#EXTINF:-1,Zafrika_Radio
+404 https://s4.radio.co/s89f017f30/listen
+#EXTINF:-1,100.6_FM_Regstreeks_-_Radio_Rosestad
+http://41.162.163.91:8000
+#EXTINF:-1,Awoko
+302 http://listen.radionomy.com:80/awoko
+#EXTINF:-1,Boervolk_Radio
+http://uk2.streamingpulse.com:8018/stream
+#EXTINF:-1,East_Rand_Stereo_93.9
+http://85.25.164.43:80
+#EXTINF:-1,Hosa_Radio
+http://82.94.204.110:8016
+#EXTINF:-1,Impala2
+302 http://listen.radionomy.com/Impala2
+#EXTINF:-1,Musical_Ventur_Radio_-_MVR
+http://45.79.92.185:8614/MVR128
+#EXTINF:-1,Radio_Afrika
+http://50.22.218.197:6928
+#EXTINF:-1,Radio_Eendrag
+http://198.245.61.142:9986
+#EXTINF:-1,Radio_Laeveld
+http://188.138.56.4:9880
+#EXTINF:-1,Radio_Touch_(Powered_by_www.uni-lab.co.za)
+http://198.245.61.142:9992
+#EXTINF:-1,Radio_Vryheid_(Powered_By_www.uni-lab.co.za)
+http://198.245.61.142:9998
+#EXTINF:-1,SAUK_Radio_-_Neem_Ons_Toekoms_Terug
+200 http://49.12.129.103:7068/stream
+#EXTINF:-1,Sunshine_FM_GHana
+200 https://sunshineradiogh.ghanalisten.com:2800/
+#EXTINF:-1,Uitsaaines_Internet_Radio
+http://76.164.217.100:7298
+#EXTINF:-1,Vuur_Warm_Radio
+404 http://s2.stationplaylist.com:7062/stream.ogg
+#EXTINF:-1,Waterberg_Stereo_AutoStream
+http://109.123.116.202:8048
+#EXTINF:-1,Seneweb_Radio
+http://hys009.hostyourstream.com/2psy4xc99p5tv
+#EXTINF:-1,989_XFM_Nothing_But_Hits
+200 https://edge.mixlr.com/channel/zwjte
+#EXTINF:-1,Pretoria_FM
+http://iceant.antfarm.co.za:8000/ptafm
+#EXTINF:-1,Bosveld_Stereo_(Hartbeespoort)
+http://iceant.antfarm.co.za:8000/Bosveld
+#EXTINF:-1,Impala_Internet_Radio
+400 http://www.impalaradio.xyz:8000/_a
+#EXTINF:-1,Radio_Kragbron
+200 http://shaincast.caster.fm:22994/listen.mp3?authn83018b912d5fd35950acf46bcb63eedd
+#EXTINF:-1,Radio_Namakwaland
+400 https://zas3.ndx.co.za:8034/stream
+#EXTINF:-1,SFM
+http://iceant.antfarm.co.za:8000/SFM
+#EXTINF:-1,TWR_Africa
+http://albert.antfarm.co.za:8000/TWR
+#EXTINF:-1,Springbok_Internet_Radio
+405 https://samcloud.spacial.com/api/listen?sid=74491&m=sc
+#EXTINF:-1,Kokomo_Radio
+404 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM02AAC86_SC
+#EXTINF:-1,Perron_FM
+200 http://zas4.ndx.co.za:9000/
+#EXTINF:-1,Skatkis_Stereo
+http://64.150.176.42:8122/stream
+#EXTINF:-1,Radio_Overberg
+400 https://zas7.ndx.co.za:8040/stream?1650005157164
+#EXTINF:-1,Hosa_Radio_1
+http://178.20.171.34:8026/
+#EXTINF:-1,MSVS
+https://radio.uslsonic.gq:7016/
+#EXTINF:-1,Lighthouse_Radio
+403 http://19293.live.streamtheworld.com:80/SP_R3248388_SC
+#EXTINF:-1,KSFM
+301 http://zas2.ndx.co.za/proxy/caledonfm?mp=/stream
+#EXTINF:-1,Radio_hartklop
+http://146.185.18.251:8041/stream
+#EXTINF:-1,FM_Stereo
+https://my.fmstereo.co.za/8026/stream
+#EXTINF:-1,SAUK_Radio
+404 https://nl1.streamingpulse.com/ssl/7068
+#EXTINF:-1,AfriFM
+302 https://stream.zeno.fm/d5apx0ntfzzuv
+#EXTINF:-1,Jesus_Coming_FM_-_Afrikaans_French
+200 http://live.jesuscomingfm.com:8498/
+#EXTINF:-1,Hand_of_Jesus_African_Christian_Fm
+http://66.55.145.43:7564/
+#EXTINF:-1,Netradiosa
+https://radio.uslsonic.gq:7002/
+#EXTINF:-1,Awdemehret
+http://s8.voscast.com:9218/
+#EXTINF:-1,Good_News_Radio
+403 http://18123.live.streamtheworld.com/SP_R4032408.aac?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=50dc2469-3352-4407-92bc-d7941294e7ba
+#EXTINF:-1,Lichvaal_stereo
+http://80.95.11.233:8000/stream.mp3
+#EXTINF:-1,Radio_Eco_Health
+https://zas1.ndx.co.za:8006/stream
+#EXTINF:-1,OnsRADIO
+404 https://stream.radiojar.com/k6rpztrkwxhvv
+#EXTINF:-1,barradio.co.za
+302 https://stream.zeno.fm/pmvcyumpv98uv
+#EXTINF:-1,Nzema_Fm
+404 https://stream.zeno.fm/sx8xhr01bzzuv
+#EXTINF:-1,Stereo1_IRS_SA
+https://cast1.my-control-panel.com/proxy/stereoi1/stream
+#EXTINF:-1,Omulunga_Radio
+200 https://edge.iono.fm/xice/193_medium.aac?ref=https%3A%2F%2Fomulunga.com.na%2F&adToken=
+#EXTINF:-1,RADIO_ALEX_FM_NAMIBIA
+302 https://stream.zeno.fm/sc5kf3x9hfhvv
+#EXTINF:-1,Infinity_FM
+302 https://stream.zeno.fm/8ssgegx2czzuv
+#EXTINF:-1,Bosveld_Stereo_107.5_FM
+https://iceant.antfarm.co.za:8000/Bosveld
+#EXTINF:-1,OFM
+200 https://edge.iono.fm/xice/ofm_live_medium.aac
+#EXTINF:-1,Namib_Radio_
+https://eu1.reliastream.com/proxy/namibrad?mp=/stream
+#EXTINF:-1,SanzLive_Radio
+200 https://s3.radio.co/s47a56becc/listen
+#EXTINF:-1,Cape_Winelands_FM
+302 https://stream.zenolive.com/x265y658k0quv
+#EXTINF:-1,Radio_Kuber_Kontrei
+404 https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3560393_SC
+#EXTINF:-1,Radio_Vlaanderen_Nationaal
+https://cheetah.streemlion.com:4315/stream
+#EXTINF:-1,Kosmos_Radio_94.1_FM
+200 https://edge.iono.fm/xice/88_medium.aac
+#EXTINF:-1,Voice_of_Life_radio_online
+200 https://cdn.comeseetv.com:8000/vol
+#EXTINF:-1,RSG
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/RSGAAC.aac
+#EXTINF:-1,Ukhozi_FM
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/UKHOZIFMAAC.aac
+#EXTINF:-1,Munghana_Lonene_FM
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/MUNGANALONENEAAC.aac
+#EXTINF:-1,Mahikeng_FM
+200 https://edge.iono.fm/xice/178_medium.aac?ref=http%3A%2F%2Fwww.mahikengfm.co.za%2Fu0026adToken=
+#EXTINF:-1,East_Rand_Stereo
+400 https://zas7.ndx.co.za:8012/stream
+#EXTINF:-1,Pretoria_FM_
+https://capeant.antfarm.co.za:8000/ptafm
+#EXTINF:-1,Mt._Pleasant_and_Titus_County_Fire
+501 https://broadcastify.cdnstream1.com/16411?dist=theonestopradio
+#EXTINF:-1,Fayetteville_Police,_Fire,_and_EMS
+501 https://broadcastify.cdnstream1.com/7191?dist=theonestopradio
+#EXTINF:-1,WANT_FM
+404 http://peridot.streamguys.com:7590/live-mp3
+#EXTINF:-1,Mutiny_Radio
+400 http://nthmost.net:8000/mutiny-studio
+#EXTINF:-1,Wilkins_Radio
+200 https://ice41.securenetsystems.net/KIOU
+#EXTINF:-1,94_FM
+200 https://s17.hstbr.net:8028/live
+#EXTINF:-1,Radio_Universitaria_Estéro
+http://streaming.utp.edu.co:8000/
+#EXTINF:-1,Rádio_Kuia_Bue
+http://hts03.kshost.com.br:9126/live
+#EXTINF:-1,Rainbow_Radio_UK
+https://usa6.fastcast4u.com/proxy/macamoah2?mp=/1
+#EXTINF:-1,Radio_Sukapura_FM_-_98.9_FM
+404 http://svara-stream.radioddns.net:8000/tasik_sukapurafm_mp3
+#EXTINF:-1,Braine_Radio
+302 http://listen.radionomy.com/braineradio
+#EXTINF:-1,Radio_Inca
+403 https://14993.live.streamtheworld.com:443/CRP_INC.mp3?dist=onlineradiobox
+#EXTINF:-1,Radio_Top_Mix
+200 http://ip.peruhits.com:7232/stream/1/
+#EXTINF:-1,Bosveld_Stereo
+https://iceant.antfarm.co.za/Bosveld
+#EXTINF:-1,Ikwekwezi_FM
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/IKWEKWEZIAAC.aac?dist=onlineradiobox
+#EXTINF:-1,Radio_Tygerberg
+http://zas6.ndx.co.za:8007/stream
+#EXTINF:-1,Ekurhuleni_FM
+302 https://edgeza.iono.fm/xice/189_medium.mp3
+#EXTINF:-1,Afroliveradio
+502 https://afroliveradio.radioca.st/stream.nsv
+#EXTINF:-1,Voice_of_Thembisa_
+301 http://zas2.ndx.co.za/proxy/voiceoftembisa?mp=/stream?1495048455865.aac
+#EXTINF:-1,Urbano_Radio_tv_96.5
+http://109.169.23.123:8128/stream.nsv
+#EXTINF:-1,Smash_Jam_Radio
+302 https://stream.zeno.fm/c0258bn5mceuv
+#EXTINF:-1,Koprivljanski_Radio
+http://cast2.name.ba:9300/?1605859715084.mp3
+#EXTINF:-1,Gugak_FM
+http://mgugaklive.nowcdn.co.kr:1935/gugakradio/gugakradio.stream/playlist.m3u8
+#EXTINF:-1,MFM_Radio
+https://streamer.eagrpservices.com/audio/mfmradio.ogg
+#EXTINF:-1,Africa_Hits
+https://radiodzair.net:8200/radio.mp3
+#EXTINF:-1,NBC_Afrikaans
+http://197.243.227.19:8801/
+#EXTINF:-1,WATERBERG_STEREO
+http://109.123.116.202:8048/
+#EXTINF:-1,Down_South_Country_Stereo
+http://76.164.217.100:7298/
+#EXTINF:-1,Impala_Radio
+http://192.95.46.223:8308/mp3
+#EXTINF:-1,Tuna_Radio
+http://fire.wavestreamer.com:6233/1/
+#EXTINF:-1,Radio_Suid_Afrika
+http://radiosuidafrika.serverroom.net:8054/stream.mp3
+#EXTINF:-1,Ethiopia_360
+http://s8.voscast.com:9426/
+#EXTINF:-1,Kavango_Stereo
+http://proxima.shoutca.st:8396/stream
+#EXTINF:-1,Merensky_Radio
+http://sirius.shoutca.st:8731/stream
+#EXTINF:-1,MSVStereo
+http://192.99.139.20:9968/listen.mp3
+#EXTINF:-1,Cheeta_PlayTime
+http://hyades.shoutca.st:8424/live
+#EXTINF:-1,kykNET_Musiek
+http://85.25.164.62:1080/
+#EXTINF:-1,RADIO_RMI_SENEGAL
+302 https://stream.zeno.fm/5qjahl1jotrvv
+#EXTINF:-1,Kalahari_Internet_Radio
+http://192.99.139.23:9304/
+#EXTINF:-1,Grensloos_i-Radio_(MyRadio)
+http://66.85.88.18:5052/stream
+#EXTINF:-1,Kudu_Fm
+http://usa14.fastcast4u.com/proxy/kudufm?mp=/stream
+#EXTINF:-1,TO_STEKI_TOY_EROTA
+http://148.251.148.59:9306/
+#EXTINF:-1,afrikamix
+http://radio.ovni.fm/afrikamix
+#EXTINF:-1,Radio_Média_Couleur_99.3Mhz
+302 http://stream.zeno.fm/39at64c5gxquv
+#EXTINF:-1,Luistervink
+http://192.99.139.20:9304/listen.mp3
+#EXTINF:-1,XruisRadio
+http://91.121.164.210:8200/stream
+#EXTINF:-1,Fresh_105.9_FM
+405 https://stream-157.zeno.fm/e9x2n97b9uduv?zs=u3bedIwUTfqvEMUZtUmNBA
+#EXTINF:-1,Radio_Dangdut_Indonesia
+200 http://202.147.199.99:8000/;
+#EXTINF:-1,181.FM_90&#039;s_Country
+200 https://listen.181fm.com/181-90scountry_128k.mp3
+#EXTINF:-1,Smile
+http://64.150.176.42:8122/stream?1482659282176.mp3
+#EXTINF:-1,Radio_Paisa
+https:/http:/cnmundo.comhttp:/adiopaisa
+#EXTINF:-1,181.FM_The_Mix
+200 https://listen.181fm.com/181-themix_128k.mp3
+#EXTINF:-1,Antena_Zagreb_Top_40
+200 http://live.antenazagreb.hr:8011/;
+#EXTINF:-1,Antena_Zagreb_Rock
+200 http://live.antenazagreb.hr:8019/;
+#EXTINF:-1,181.FM_Soul
+200 https://listen.181fm.com/181-soul_128k.mp3
+#EXTINF:-1,ClassixTechno
+200 https://classixtechno.stream.laut.fm/classixtechno
+#EXTINF:-1,Diamond_FM_Zim
+200 https://edge.iono.fm/xice/160_medium.aac
+#EXTINF:-1,Cruisin&#039;_92.1
+404 https://cast3.my-control-panel.com/proxyhttp:/adioca2/stream
+#EXTINF:-1,Bush_Radio
+301 http://zas4.ndx.co.za/proxy/bushradio?mp=/stream
+#EXTINF:-1,Radio_Helderberg
+200 https://helderberg.highquality.radiostream.co.za/
+#EXTINF:-1,181.FM_Classical_Music
+200 https://listen.181fm.com/181-classical_128k.mp3
+#EXTINF:-1,Mercan_FM
+https://ip169.ozelip.com:10975/;stream.nsv&type=mp3
+#EXTINF:-1,181.FM_Christmas_Kountry
+200 https://listen.181fm.com/181-xkkountry_128k.mp3
+#EXTINF:-1,FM_World_Pakistan
+405 https://stream-151.zeno.fm/tty4gmu30ehvv?zs=HTPQ2xpgR_KgdUSMnxlm3g
+#EXTINF:-1,181.FM_Christmas_Gospel
+200 https://listen.181fm.com/181-xgospel_128k.mp3
+#EXTINF:-1,Loca_FM_INDUSTRIAL
+http://s02.fjperezdj.com:8076/live
+#EXTINF:-1,Transafricaradio
+http://iceant.antfarm.co.za:8000/TransAfricaRadio
+#EXTINF:-1,Padlangs_Huistoe_XM
+https://s22.myradiostream.com/:16060/listen.mp3?nocache=1682443908
+#EXTINF:-1,Radio_El_Karma
+http:/http:/adioliveb.rtv.gov.sy:8002/RadioKarma
+#EXTINF:-1,WCHS_Radio
+https://prod-54-211-226-228.wostreaming.net/wvradio-wchsamaac-imc2
+#EXTINF:-1,Radio_Daljir
+405 https://stream-162.zeno.fm/uru8h6ahv6duv?zs=ePc8EH7XQTKr5w_JZHX9kA
+#EXTINF:-1,Corazon_Stereo_Tulua
+405 https://stream-152.zeno.fm/kg5t4s8teg0uv?zs=bCAyq80bT_C-kueo6nlJtg
+#EXTINF:-1,thaBIGGRADIO
+405 https://stream-152.zeno.fm/c17yxm6rrg0uv?zs=Uqd_4lKdQOmMrv9YhnJ6Nw
+#EXTINF:-1,Radio_S
+http://live4.infonetmedia.sihttp:/adios
+#EXTINF:-1,CJAM
+400 http://137.207.3.25:8000/;
+#EXTINF:-1,Radio_Schuimkoppen_Online_Carnaval
+200 https://digistreamer.nl:8040/live
+#EXTINF:-1,Dynamic_Radio
+https://listen.radioking.comhttp:/adio/506767/stream/564379
+#EXTINF:-1,Radio_Rambo
+https:/http:/adio-rambo.stream.laut.fmhttp:/adio-rambo?t302=2023-09-19_12-15-52&uuid=b21ff698-4262-4471-a4e0-572252d83fbb
+#EXTINF:-1,MFM
+200 https://edge.iono.fm/xice/46_medium.aac
+#EXTINF:-1,Radio_Prenzlau
+https:/http:/adio-prenzlau.stream.laut.fmhttp:/adio-prenzlau?t302=2023-09-19_12-14-36&uuid=66c99a2c-f2ed-4263-8dd4-b0e2300794c3
+#EXTINF:-1,Boogie_Bunker_Radio
+404 http://edge.mixlr.com/channelhttp:/ovhv
+#EXTINF:-1,Radio_Isango_Star
+http://80.241.215.175:8000/;
+#EXTINF:-1,Jesus_Coming_FM_-_Berber
+200 http://live.jesuscomingfm.com:8462/;
+#EXTINF:-1,Rádio_Atalaia
+405 https://stream-152.zeno.fm/ovgcyrag3hwuv?zs=KchETHHOSaWxCo58YT0StA
+#EXTINF:-1,Jesus_Coming_FM_-_Akan
+200 http://live.jesuscomingfm.com:8558/;
+#EXTINF:-1,Jakaranda_FM
+200 https://live.jacarandafm.com/jacarandahigh.mp3
+#EXTINF:-1,Bokradio
+200 http://bokradio.highquality.radiostream.co.za/
+#EXTINF:-1,Harties_FM
+200 https://s5.radio.co/s68c6f4028/listen
+#EXTINF:-1,Jesus_Coming_FM_-_Bambara
+200 http://live.jesuscomingfm.com:8490/;
+#EXTINF:-1,Jesus_Coming_FM_-_Afrikaans
+200 http://live.jesuscomingfm.com:8434/;
+#EXTINF:-1,Jesus_Coming_FM_-_African_French
+200 http://live.jesuscomingfm.com:8498/;
+#EXTINF:-1,Faithofgodseedchurch
+200 https://faithofgodseedchurch.stream.laut.fm/faithofgodseedchurch?pl=pls&t302=2023-05-09_22-30-20&uuid=c7be2743-c937-49ad-ab2d-19075cd9d9ac
+#EXTINF:-1,Musik_World
+https://musik-world.stream.laut.fm/musik-world?t302=2023-04-25_20-08-38&uuid=ddd24cce-9fc8-46b2-8231-b3cd4c683354
+#EXTINF:-1,Rádio_Jihenda
+200 https://s02.brascast.com:7830/stream
+#EXTINF:-1,Radio_Ifm_-_88.3_FM
+400 https://fm1.cvdrbroadcastsolutions.com:8443/ifm.aac
+#EXTINF:-1,Thobela_FM_
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/THOBELAAAC.aac?dist=onlineradiobox
+#EXTINF:-1,Groot_FM-_90.5_FM
+200 https://edge.iono.fm/xice/330_medium.aac
+#EXTINF:-1,Bosveld_Stereo_-_107.5_FM
+200 https://generationfm-underground.ice.infomaniak.ch/generationfm-underground-high.mp3
+#EXTINF:-1,Radio_Namakwaland-_93.4_FM
+302 http://116.202.241.212:8048/stream/1
+#EXTINF:-1,Wild_Coast_FM
+200 http://116.202.241.212:8090/
+#EXTINF:-1,Valley_FM_88.8_-_93.7
+400 https://zas7.ndx.co.za:8036/stream
+#EXTINF:-1,Radio_Sonder_Grense_-_101.5_FM
+200 https://25453.live.streamtheworld.com/RSGAAC_SC?dist=triton-widget&pname=tdwidgets
+#EXTINF:-1,Fresh_FM_-_FM_102.9_FM
+200 https://edge.iono.fm/xice/192_medium.aac?ref=https%3A%2F%2Ffreshfm.com.na%2F&adToken=
+#EXTINF:-1,90.6_FM_Stereo
+200 https://albert.antfarm.co.za/vcr/vcr.stream/playlist.m3u8
+#EXTINF:-1,Luister!FM-_90.6_FM
+400 http://stream2.luisterfm.co.za:8000/LuisterFM
+#EXTINF:-1,SAFM_-_104.6_FM
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/SAFMAAC.aac?dist=onlineradiobox
+#EXTINF:-1,Bisrat_-_101.1FM
+200 https://bisratfm-atunwadigital.streamguys1.com/bisratfm
+#EXTINF:-1,Bojanala_-_90.6_FM
+405 https://stream-148.zeno.fm/7mllw1kuruptv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3bWxsdzFrdXJ1cHR2IiwiaG9zdCI6InN0cmVhbS0xNDguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImpyZ18ySkFTU3YtVU4tNV9HQk8xVEEiLCJpYXQiOjE3Mzc0NTMzMjEsImV4cCI6MTczNzQ1MzM4MX0.i-NFebkkLUyiYtKZVuiLZnQIaqgNJQ9C6dXVaAW2_SE
+#EXTINF:-1,Radio_NFM_98.1
+https://zas7.ndx.co.za:8024/stream?1613553753270
+#EXTINF:-1,Radio_Jiida_FM_88.0
+405 https://stream-158.zeno.fm/5a0614rr9mruv?zs=7WNnWJ62R8KTctLIjdFXSg
+#EXTINF:-1,Radio_Overberg_FM_-_101.8_FM
+400 https://zas7.ndx.co.za:8040/stream?1613841850002
+#EXTINF:-1,Barradio.co.za
+302 http://stream.zeno.fm/pmvcyumpv98uv
+#EXTINF:-1,Eku_Fm
+302 https://stream-42.zeno.fm/yazm2pc8schvv?zs=RYnPtiXjTZWBjGZ2GBjvEg&aw_0_req_lsid=6f862b77ee164bdc6dba62e7538bec68&acu-uid=681422763669&an-uid=6308684062468543115&mm-uid=71d862d6-3244-4a00-b2fe-17b5c357cae3&amb-uid=2581633358889944590&dbm-uid=CAESEIZUZVgohuIgQrc325ZlI7c&cto-uid=849b6faa-d5a3-4073-aab9-37f657ce0b7d-62d63244-494e&bsw-uid=7e8b3c8e-2092-43dd-aa0a-0a481f03ce7c&dyn-uid=07030002_62d6343dcb67b&ttd-uid=25ba1e74-cb0d-4257-8ab7-28c92db3fb7d&triton-uid=cookie%3A822193cf-a528-44bd-a714-e3fd37464298&adt-uid=cuid_db252730-071b-11ed-9d30-121a6d1d7927
+#EXTINF:-1,Emoo_FM
+200 https://emoofm-atunwadigital.streamguys1.com/emoofm?aw_0_1st.playerid=SGplayer&aw_0_1st.skey=1686656626579&aw_0_req.gdpr=true&awparams=playerid%3ASGplayer%3B&us_privacy=1YNN&us_privacy=1YNN
+#EXTINF:-1,BRev_Media_Uganda
+405 https://stream-172.zeno.fm/qsa9d6yjg5euv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxc2E5ZDZ5amc1ZXV2IiwiaG9zdCI6InN0cmVhbS0xNzIuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkdfSXFoQkUxUlJXd3NlU2oyWnR4eGciLCJpYXQiOjE3NDE2OTY4MDYsImV4cCI6MTc0MTY5Njg2Nn0.h1xjPiIaZcM-9HHqHmbqji_MsoTLE7GeT-ea1mUHMJc&an-uid=1932256380757496172&eps-uid=AQALEISq1jaSEgEBSHVdAQBC_gEBAQCUSkheSAEBAJRKSF5I&dot-uid=0ba3200500943cfa99371258&amb-uid=8237942597220912065&aw-uid=c10175589077331ab27907a8f7743757&dbm-uid=CAESEAipOOjA02euedIrZ6ZOkNo&cto-uid=d79456bc-2db2-4fc6-b4ac-6026a8af6ffe-67c036b9-5553&bsw-uid=23bc818a-59df-4333-96cd-5749baab105e&dyn-uid=7535558917966255260&ttd-uid=c4fc5a41-2795-470e-94e8-ad35156175ca&triton-uid=cookie%3A88d6e291-6293-4855-8130-8a64f03ab2ec&adt-uid=cuid_c59240c3-f506-11ef-b17b-12c166c14e3d&aw_0_req_lsid=c10175589077331ab27907a8f7743757
+#EXTINF:-1,QuickGetawaysFM
+302 https://stream.zeno.fm/otvmaw0ugoatv
+#EXTINF:-1,Radio_Draadloos
+200 https://a7.asurahosting.com:6570/radio.mp3
