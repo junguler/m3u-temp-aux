@@ -1,0 +1,931 @@
+#EXTM3U
+#EXTINF:-1,Abiding_Radio_Kids
+http://streams.abidingradio.org:7842/1
+#EXTINF:-1,Abiding_Radio_Seasonal_Christmas_and_Easter
+http://streams.abidingradio.org:7844/1
+#EXTINF:-1,Life_102.5_FM
+200 http://nwmedia-wnwc-fm.streamguys.com:80/wnwc-fm
+#EXTINF:-1,WORT_89.9_FM
+400 http://stream.wort-fm.org:8000/high.mp3
+#EXTINF:-1,Abiding_Radio_Instrumental
+http://streams.abidingradio.org:7824/1
+#EXTINF:-1,WFHR_1320_AM
+http://209.94.170.250:8000/amstream.mp3
+#EXTINF:-1,88Nine_RadioMilwaukee
+http://radiomilwaukee.streamguys.net:80/live
+#EXTINF:-1,WHAD_FM_90.3_WPR's_Ideas_Network
+200 http://wpr-ice.streamguys.net/wpr-ideas-40
+#EXTINF:-1,WWSP_90
+http://143.236.72.157:8080/broadwave.mp3
+#EXTINF:-1,Death.fm
+http://hi5.death.fmstream/1
+#EXTINF:-1,WCOW_97_FM
+http://sc03.warpradio.com:8528/stream/1
+#EXTINF:-1,Oh_So_Smooth_Radio
+http://s7.streammonster.com:8213/stream/1
+#EXTINF:-1,News/Talk_1130_WISN
+200 https://stream.revma.ihrhls.com/zc4245
+#EXTINF:-1,94.5_ESPN_Milwaukee
+https://live.wostreaming.net/direct/goodkarma-wktifmaac-ibc2
+#EXTINF:-1,97.3_The_Game
+200 https://stream.revma.ihrhls.com/zc2685
+#EXTINF:-1,106.5_&_860_WNOV
+200 https://crystalout.surfernetwork.com:8001/WNOV-AM_MP3
+#EXTINF:-1,101.7_The_Truth
+https://live.wostreaming.net/manifest/goodkarma-wgkbamaac-ibc1
+#EXTINF:-1,95.7_BIG_FM
+200 https://stream.revma.ihrhls.com/zc2689
+#EXTINF:-1,FM106.1
+200 https://stream.revma.ihrhls.com/zc2677
+#EXTINF:-1,The_Big_920
+200 https://stream.revma.ihrhls.com/zc2681
+#EXTINF:-1,AM_1050_WLIP
+https://live.wostreaming.net/direct/alphacorporate-wlipamaac-ibc4&source=website
+#EXTINF:-1,Real_Oldies
+200 https://stream.revma.ihrhls.com/zc4717
+#EXTINF:-1,V100.7
+200 https://stream.revma.ihrhls.com/zc2673
+#EXTINF:-1,Newsradio_WTMJ_620_&_103.3
+404 https://playerservices.streamtheworld.com/api/livestream-redirect/WTMJAMAAC.aac
+#EXTINF:-1,Party_92.9
+404 https://ice24.securenetsystems.net/WPTT
+#EXTINF:-1,MeTV_FM_99.1_HD2
+404 https://playerservices.streamtheworld.com/api/livestream-redirect/WMYXHD2AAC.aac
+#EXTINF:-1,92.5_Buzz_Country
+https://live.wostreaming.net/direct/magnumbroadcasting-wmbzfmaac-ibc1
+#EXTINF:-1,La_Z_93.7
+https://bustosradio.com:9026/wddwhd2
+#EXTINF:-1,The_Sha_101_FM
+404 https://ice23.securenetsystems.net/WAUK
+#EXTINF:-1,92.1_VTY_Country
+https://live.wostreaming.net/direct/magnumbroadcasting-wvtyfmaac-ibc1
+#EXTINF:-1,FM_102/1
+200 https://ais-sa1.streamon.fm/7250_48k.aac
+#EXTINF:-1,La_Gran_D_104.7
+https://bustosradio.com:9025/wddw
+#EXTINF:-1,99.1_The_Mix
+404 https://playerservices.streamtheworld.com/api/livestream-redirect/WMYXFMAAC.aac
+#EXTINF:-1,B93.3
+200 https://ais-sa1.streamon.fm/7249_48k.aac
+#EXTINF:-1,WTKM_104.9_FM
+404 https://ice9.securenetsystems.net/WTKM
+#EXTINF:-1,AM_1400_WRJN
+https://live.wostreaming.net/direct/magnumbroadcasting-wrjnamaac-ibc1
+#EXTINF:-1,FONZ-FM
+200 https://ais-sa1.streamon.fm/7033_48k.aac
+#EXTINF:-1,97.9_Radio_Caliente
+404 https://ice7.securenetsystems.net/WJTI
+#EXTINF:-1,103.7_KISS-FM
+404 https://playerservices.streamtheworld.com/api/livestream-redirect/WXSSFMAAC.aac
+#EXTINF:-1,HOT_105.7_MKE
+404 https://playerservices.streamtheworld.com/api/livestream-redirect/WXSSHD2AAC.aac
+#EXTINF:-1,Jammin'_98.3
+404 https://playerservices.streamtheworld.com/api/livestream-redirect/WJMRFMAAC.aac
+#EXTINF:-1,101.3_WIBD_AM_1470
+https://live.wostreaming.net/manifest/magnumbroadcasting-wbkvamaac-ibc1
+#EXTINF:-1,95_WIIL_Rock
+https://live.wostreaming.net/direct/alphacorporate-wiilfmaac-ibc4
+#EXTINF:-1,Hometown_Rock_96.5_WKLH
+404 https://playerservices.streamtheworld.com/api/livestream-redirect/WKLHFMAAC.aac
+#EXTINF:-1,102.9_The_Hog
+404 https://playerservices.streamtheworld.com/api/livestream-redirect/WHQGFMAAC.aac
+#EXTINF:-1,1250_The_Fan
+404 https://playerservices.streamtheworld.com/api/livestream-redirect/WSSPAMAAC.aac
+#EXTINF:-1,Energy_106.9
+404 https://playerservices.streamtheworld.com/api/livestream-redirect/WNRGFMAAC.aac
+#EXTINF:-1,88Nine_Radio_Milwaukee
+502 https://wyms.streamguys1.com/live
+#EXTINF:-1,WMSE_91.7_FM
+200 https://wmse.streamguys1.com/wmselivemp3
+#EXTINF:-1,1560_WGLB
+https://live.wostreaming.net/direct/wglbllc-wglbamaac-ibc1
+#EXTINF:-1,WUWM_Milwaukee_Public_Radio
+https://wuwm.streamguys1.com/wuwm-64k.aac
+#EXTINF:-1,Riverwest_Radio
+400 https://radio.computer:8443/riverwestradio
+#EXTINF:-1,Lake_96.1
+403 https://vobook.ru/173.193.205.96:7230/stream
+#EXTINF:-1,WGTD_91.1
+400 https://media.gtc.edu:8443/stream
+#EXTINF:-1,Joy_1340
+404 https://playerservices.streamtheworld.com/api/livestream-redirect/WJYIAMAAC.aac
+#EXTINF:-1,414Music.fm
+502 https://wyms.streamguys1.com/414music_aac
+#EXTINF:-1,102.3_FM_The_Bug
+404 http://ice41.securenetsystems.net:80/WAUH
+#EXTINF:-1,103.5_The_Sun
+200 http://ice24.securenetsystems.net/WLSP
+#EXTINF:-1,104.5_FM_WSLD
+200 http://ice5.securenetsystems.net/WSLD
+#EXTINF:-1,104.5_The_X
+http://wccx.carrollu.edu:8000/
+#EXTINF:-1,105.5_Triple_M
+404 http://playerservices.streamtheworld.com/api/livestream-redirect/WMMMFM_SC
+#EXTINF:-1,105.7_Sports_Radio_The_Fan
+302 http://www.vtuner.com/vtunerweb/asp/dynamgeo.aspx?id=69140
+#EXTINF:-1,105.9_The_Hog
+200 http://ice41.securenetsystems.net/WWHGFM
+#EXTINF:-1,106.7_The_Big_Dog
+302 http://playerservices.streamtheworld.com/api/livestream-redirect/WKRUFM_SC
+#EXTINF:-1,1250_Sports_Radio_The_Fan
+302 http://www.vtuner.com/vtunerweb/asp/dynamgeo.aspx?id=20723
+#EXTINF:-1,3_Hmong_Radio
+http://199.195.194.94:8151/
+#EXTINF:-1,3ABN_Radio_101.7_Rice_Lake
+200 http://war.str3am.com:7180/live
+#EXTINF:-1,860_WNOV
+200 http://crystalout.surfernetwork.com:8001/WNOV-AM_MP3
+#EXTINF:-1,88.5_WGNV_The_Family
+200 http://ice64.securenetsystems.net/WGNV
+#EXTINF:-1,89.1_WBSD
+http://live.wostreaming.net/manifest/wbsd-wbsdfmmp3-ibc1
+#EXTINF:-1,89Q
+200 http://ice3.securenetsystems.net/WCLQ
+#EXTINF:-1,91.1_The_Avenue
+200 http://ice5.securenetsystems.net/WOVM
+#EXTINF:-1,91.3_FM_The_Family
+200 http://ice24.securenetsystems.net/WSTM
+#EXTINF:-1,91.3_The_Plug_Radio
+302 http://streaming.live365.com/a86727
+#EXTINF:-1,92.9_The_X
+404 http://ice9.securenetsystems.net/WECL
+#EXTINF:-1,93.1_JAMZ
+http://live.wostreaming.net/direct/mwfmadison-wjqmfmmp3-ibc3
+#EXTINF:-1,94.9_WOLX
+404 http://playerservices.streamtheworld.com/api/livestream-redirect/WOLXFM_SC
+#EXTINF:-1,95.7_The_Rock
+404 http://crystalout.surfernetwork.com:8001/WRQT_MP3
+#EXTINF:-1,95.9_Kiss_FM
+200 http://woodward-radio.streamb.live/SB00132
+#EXTINF:-1,96-1_The_Rock
+200 http://ice24.securenetsystems.net/WTCX
+#EXTINF:-1,97.9_WSPT_Classic_Hits
+200 http://ice7.securenetsystems.net/CWTO
+#EXTINF:-1,97X.fm_WIXL
+302 http://ais-edge07-live365-dal02.cdnstream.com/a10801
+#EXTINF:-1,99.5_PKR
+302 http://playerservices.streamtheworld.com/api/livestream-redirect/WPKRFM_SC
+#EXTINF:-1,A100_Radio
+404 http://hestia.cdnstream.com/1565_128
+#EXTINF:-1,Abiding_Radio_Seasonal
+200 http://streams.abidingradio.org:7830/1
+#EXTINF:-1,All_Anime_Radio
+301 http://players.rcast.net/stream/65538
+#EXTINF:-1,AM_1240_WOMT
+301 http://us2.maindigitalstream.com/ssl/WOMT
+#EXTINF:-1,AM_1400_WRDB
+http://live.wostreaming.net/manifest/magnumbroadcasting-wrdbammp3-ibc1
+#EXTINF:-1,AM_1570_The_Score
+http://ic2.mainstreamnetwork.com/wsco-am
+#EXTINF:-1,AM_680_WOGO
+http://ic1.nwrnetwork.com/wogo-am
+#EXTINF:-1,American_Family_Radio_Music_106.9_Tigerton
+404 http://mediaserver3.afa.net:8000/inspo.mp3
+#EXTINF:-1,B_93.3_FM
+302 http://wldb.streamon.fm:8000/WLDB-48k.aac
+#EXTINF:-1,B102.9_FM
+http://live.wostreaming.net/direct/magnumbroadcasting-wbdlfmmp3-ibc1
+#EXTINF:-1,B104.9
+200 http://ice8.securenetsystems.net/WKQH
+#EXTINF:-1,B93.7
+302 http://playerservices.streamtheworld.com/api/livestream-redirect/WBFMFMAAC_SC
+#EXTINF:-1,Beloit_College_90.3
+302 http://wbcr.streamon.fm:8000/WBCR-48k.aac
+#EXTINF:-1,Calvary_Radio_Network_90.3_FM
+http://91.121.134.23:8044/stream
+#EXTINF:-1,Cathedral_13
+200 http://149.56.157.81:5127/
+#EXTINF:-1,Classic_Country_AM_800
+404 http://ice8.securenetsystems.net/WDUXAM
+#EXTINF:-1,Classic_Hits_1600
+404 http://ice64.securenetsystems.net/WRPN
+#EXTINF:-1,Classic_Hits_94.7
+404 http://crystalout.surfernetwork.com:8001/KCLH_MP3
+#EXTINF:-1,Cool_Oldies_1230
+http://68.117.118.162:8000/WXCO.MP3
+#EXTINF:-1,Country_104.9_FM
+http://live.wostreaming.net/manifest/magnumbroadcasting-wnfmfmmp3-ibc1
+#EXTINF:-1,Cow_Country_1420_AM
+200 http://ice24.securenetsystems.net/WGXI
+#EXTINF:-1,Coyote_Radio
+404 http://streaming.live365.com/a38513
+#EXTINF:-1,Digital_Gunfire
+http://dg.darkonline.org:8080/listen
+#EXTINF:-1,ESPN_540_AM
+http://live.wostreaming.net/manifest//goodkarma-waukammp3-ibc2
+#EXTINF:-1,ESPN_Milwaukee_100.5_FM
+http://live.wostreaming.net/direct/goodkarma-wtlxfmmp3-ibc2
+#EXTINF:-1,EWTN_Radio_WASB_96.5_FM
+200 http://ewtn-ice.streamguys1.com/english-aac
+#EXTINF:-1,Faith_1190_AM
+200 http://nwmedia-ktisam.streamguys1.com/ktis-am
+#EXTINF:-1,Family_Life_Radio_88.1_FM_Lancaster
+400 https://icecast.streammyflr.org/FLRstream
+#EXTINF:-1,Family_Radio_Milwaukee_88.1
+404 http://playerservices.streamtheworld.com/api/livestream-redirect//FAMILYRADIO_EAST_SC
+#EXTINF:-1,FM_102.1
+302 http://wlum.streamon.fm:8000/WLUM-48k.aac
+#EXTINF:-1,Fonz_FM
+302 http://wzti.streamon.fm:8000/WZTI-48k.aac
+#EXTINF:-1,Freedom_Radio_FM_91.5_Wausau
+400 http://stream.freedomradiofm.com:8000/live.aac
+#EXTINF:-1,Greatest_Hits_98.1
+404 http://ice64.securenetsystems.net/WISM
+#EXTINF:-1,Hank_AM_1550
+http://live.wostreaming.net/direct/mwfmadison-whitammp3-ibc3
+#EXTINF:-1,HD_Radio_Classic_Rock
+200 http://rosetta.shoutca.st:8352/
+#EXTINF:-1,HD_Radio_Country
+200 http://rosetta.shoutca.st:8356/
+#EXTINF:-1,HD_Radio_Hot_100
+200 http://rosetta.shoutca.st:8759/
+#EXTINF:-1,HD_Radio_Jazz
+200 http://rosetta.shoutca.st:8290/
+#EXTINF:-1,HD_Radio_Rock
+200 http://rosetta.shoutca.st:8364/
+#EXTINF:-1,HD_Radio_Rock_N_Roll
+200 http://rosetta.shoutca.st:8360/
+#EXTINF:-1,HD_Radio_The_Blues
+200 http://rosetta.shoutca.st:8389/
+#EXTINF:-1,HD_Radio_The_Party_Mix
+200 http://hdradiopartymix-rfritschka.radioca.st/
+#EXTINF:-1,Hodag_Country_97-3_WHDG
+302 http://playerservices.streamtheworld.com/api/livestream-redirect/WHDGFM_SC
+#EXTINF:-1,I-94
+404 http://ice10.securenetsystems.net/WIAL
+#EXTINF:-1,Indie_Radio_Music
+302 http://stream.zeno.fm/ta3wrur81d0uv
+#EXTINF:-1,Joy_1340_AM
+http://live.wostreaming.net/manifest/saga-wjyiammp3-ibc2
+#EXTINF:-1,K-LOVE_105.3_Milwaukee
+404 http://emf.streamguys1.com/sk001_mp3_high_web
+#EXTINF:-1,Kiss_92.9_FM
+http://ic2.mainstreamnetwork.com/wkzg-fm
+#EXTINF:-1,Kool_Gold_1460_WBOG
+http://34.83.211.194/magnumbroadcasting-wbogammp3-ibc1
+#EXTINF:-1,KQ98
+404 http://crystalout.surfernetwork.com:8001/KQYB_MP3
+#EXTINF:-1,La_Gran_D_104.7_FM
+400 http://bustosradio.com:8025/wddw
+#EXTINF:-1,La_MÃ¡s_Grande_92.7_FM
+http://54.82.205.117/magnumbroadcasting-waunfmaac-ibc1
+#EXTINF:-1,La_Movida_WLMV_1480
+http://live.wostreaming.net/direct/mwfmadison-wlmvammp3-ibc3
+#EXTINF:-1,Lake_98.1_FM
+301 http://us2.streamingpulse.com/ssl/wlkn
+#EXTINF:-1,Lifetalk_Radio_WPGR_105.7
+302 http://ltr.streamon.fm:8000/LTR-64k.aac
+#EXTINF:-1,Lighthouse_Christian_Radio_92.9
+http://107.155.116.154:8000
+#EXTINF:-1,Limbik_Frequencies
+http://23.254.130.178:8000/256.mp3
+#EXTINF:-1,Marquette_Wire
+200 http://www.ophanim.net:7360/stream
+#EXTINF:-1,MeTV_FM
+302 http://www.vtuner.com/vtunerweb/asp/dynamgeo.aspx?id=93928
+#EXTINF:-1,Mix_105.1
+404 http://playerservices.streamtheworld.com/api/livestream-redirect/WMHXFM_SC
+#EXTINF:-1,Mix_106.9
+http://54.82.205.117/magnumbroadcasting-wnnofmaac-ibc1
+#EXTINF:-1,News_Talk_1450
+200 http://ice23.securenetsystems.net/KFIZ
+#EXTINF:-1,Newstalk_1150
+http://ic2.mainstreamnetwork.com/whby-am
+#EXTINF:-1,Newstalk_1410
+404 http://crystalout.surfernetwork.com:8001/WIZM-AM_MP3
+#EXTINF:-1,No_Boundaries_Radio
+200 http://usa4.fastcast4u.com:5490
+#EXTINF:-1,Oldies_940
+http://live.wostreaming.net/direct/magnumbroadcasting-wfawammp3-ibc1
+#EXTINF:-1,Oldies_AM_1170
+200 http://ice24.securenetsystems.net/WFDLAM
+#EXTINF:-1,Paradise_Tunes
+http://192.99.177.195:8000/stream/1/
+#EXTINF:-1,Pop_Goes_Christmas
+302 http://www.vtuner.com/vtunerweb/asp/dynamgeo.aspx?id=93934
+#EXTINF:-1,Pure_Oldies_106.9
+http://live.wostreaming.net/manifest/saga-wnrgfmmp3-ibc2
+#EXTINF:-1,Q_106.3
+http://live.wostreaming.net/direct/mwfmadison-wwqmfmmp3-ibc3
+#EXTINF:-1,Q_90_FM
+200 http://ice24.securenetsystems.net/WORQ
+#EXTINF:-1,Q102_FM
+301 http://us2.maindigitalstream.com/ssl/WQTC
+#EXTINF:-1,Radio_620_WTMJ
+404 http://playerservices.streamtheworld.com/api/livestream-redirect/WTMJAM_SC
+#EXTINF:-1,Radio_Maria_USA_91.3_Peshtigo
+200 http://dreamsiteradiocp4.com:8006/
+#EXTINF:-1,Razor_104.7
+200 http://woodward-radio.streamb.live/SB00039
+#EXTINF:-1,Real_Rock_WJJH_96.7_FM
+http://live.wostreaming.net/direct/heartlandcom-wjjhfmmp3-ibc4
+#EXTINF:-1,Reel_Country_1430_AM
+404 http://ice7.securenetsystems.net/WRDN
+#EXTINF:-1,Relevant_Radio_WDVM_1050_AM
+302 http://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAIN_SC
+#EXTINF:-1,Relevant_Radio_WHFA_1240_AM
+http://relevantradio-ice.streamguys.us/relevantradio.mp3
+#EXTINF:-1,REWIND_97.7
+200 http://ice64.securenetsystems.net/WQDC
+#EXTINF:-1,Solid_Rock_94.1
+302 http://playerservices.streamtheworld.com/api/livestream-redirect/WEZNFM_SC
+#EXTINF:-1,Sports_Talk_105.1
+404 http://ice10.securenetsystems.net/WAYY
+#EXTINF:-1,Star_98
+302 http://playerservices.streamtheworld.com/api/livestream-redirect/WQLHFM_SC
+#EXTINF:-1,Sunny_97.7_FM
+200 http://ice24.securenetsystems.net/WFDL
+#EXTINF:-1,The_Beat_98.9
+200 http://ice10.securenetsystems.net/AM1380
+#EXTINF:-1,The_Double_Team_ESPN_Radio
+302 http://playerservices.streamtheworld.com/api/livestream-redirect/WPVLAM.mp3
+#EXTINF:-1,The_Family_WEMI_91.9
+200 http://ice64.securenetsystems.net/WEMI
+#EXTINF:-1,The_Fox_96.9_FM
+302 http://playerservices.streamtheworld.com/api/livestream-redirect/WWWXFM_SC
+#EXTINF:-1,The_Great_98_WMDC_98.7
+200 http://ice24.securenetsystems.net/WMDC
+#EXTINF:-1,The_Hog_102.9_FM
+http://live.wostreaming.net/manifest/saga-whqgfmmp3-ibc2
+#EXTINF:-1,The_Lighthouse
+http://107.155.116.154:8000/
+#EXTINF:-1,The_Prayz_Network_103.9_FM
+200 http://ice7.securenetsystems.net/WTPN
+#EXTINF:-1,The_Resistance_106.7
+http://live.wostreaming.net/direct/mwfmadison-wrisfmmp3-ibc3
+#EXTINF:-1,The_Sustaining_Word_96.3_FM
+302 http://wtswlp.streamon.fm:8000/WTSWLP-24k.aac
+#EXTINF:-1,The_Zone_1670_AM
+http://34.145.38.174/mwfmadison-woznamaac-ibc3
+#EXTINF:-1,Thunder_100.1
+http://live.wostreaming.net/manifest/magnumbroadcasting-wddcfmmp3-ibc1
+#EXTINF:-1,True_Oldies_1010_AM
+200 http://ice8.securenetsystems.net/WSPT
+#EXTINF:-1,Upward_Praise
+404 http://streaming.live365.com/a61133
+#EXTINF:-1,VCY_America
+302 http://playerservices.streamtheworld.com/api/livestream-redirect/WVCYFM_SC
+#EXTINF:-1,VCY_America_WVCX_98.9
+302 http://playerservices.streamtheworld.com/api/livestream-redirect/KVCXFM_SC
+#EXTINF:-1,WADR_103.5_FM
+http://wadr.out.airtime.pro:8000/wadr_b
+#EXTINF:-1,WAPL_105.7_FM
+200 http://woodward-radio.streamb.live/SB00020
+#EXTINF:-1,WAXX_Todays_Country_104.5_FM
+404 http://ice9.securenetsystems.net/WAXX
+#EXTINF:-1,WCWL_103.5_Radio_74
+400 http://radio74.dyndns.org:8080/radio74stlint.mp3
+#EXTINF:-1,WDGY_Radio_740
+200 http://ice41.securenetsystems.net/WDGY
+#EXTINF:-1,WDLB_1450_AM
+http://209.94.170.250:8000/wdlbstream.mp3
+#EXTINF:-1,WDLS_900_AM
+http://52.200.102.246/magnumbroadcasting-wdlsamaac-ibc1
+#EXTINF:-1,WDOR_910_AM
+302 http://playerservices.streamtheworld.com/api/livestream-redirect/WDORFMAAC_SC
+#EXTINF:-1,WDRT_91.9_FM
+200 http://audio.wdrt.org:8000/high
+#EXTINF:-1,WDUX_92.7_FM
+404 http://ice8.securenetsystems.net/WDUX
+#EXTINF:-1,WDUZ_The_Fan_107.5_FM
+302 http://playerservices.streamtheworld.com/api/livestream-redirect/WDUZFM_SC
+#EXTINF:-1,WGLR_97_Country
+302 http://playerservices.streamtheworld.com/api/livestream-redirect/WGLRFMAAC_SC
+#EXTINF:-1,WGTD_91.1_FM
+400 http://media.gtc.edu:8000/stream
+#EXTINF:-1,WGTD_HD2_91.1_FM
+http://199.255.3.11:88/broadwave.mp3
+#EXTINF:-1,WHJL_88.1_FM
+http://ic2.christiannetcast.com/wrvm-fm
+#EXTINF:-1,WHYS_96.3_FM
+400 http://104.238.214.101:8088/whys
+#EXTINF:-1,WIPZ_101.5_FM
+http://wipz.uwp.edu:8000/stream.mp3
+#EXTINF:-1,Wisconsin_106.1
+200 http://ice24.securenetsystems.net/WCWI
+#EXTINF:-1,Wisconsin's_Heartland_102.3
+200 http://ice9.securenetsystems.net/WHTL
+#EXTINF:-1,WIZM_93.3_FM
+404 http://crystalout.surfernetwork.com:8001/WIZM_MP3
+#EXTINF:-1,WJBL_93.1_FM
+301 http://listen1.mixlr.com/d6b5bde06c91c25a2a3209f898d45d11
+#EXTINF:-1,WJJQ_810_AM
+200 http://ice7.securenetsystems.net/WJJQ
+#EXTINF:-1,WJJQ_92.5_FM
+200 http://ice7.securenetsystems.net:80/WJJQ
+#EXTINF:-1,WKLH_96.5_FM
+http://live.wostreaming.net/manifest/saga-wklhfmmp3-ibc2
+#EXTINF:-1,WKTY_580_AM
+404 http://crystalout.surfernetwork.com:8001/WKTY-AM_MP3
+#EXTINF:-1,WLGE_The_Lodge_106.9_FM
+404 http://playerservices.streamtheworld.com/api/livestream-redirect/WLGEFM_SC
+#EXTINF:-1,WLHA_640
+302 http://streaming.live365.com/a04907
+#EXTINF:-1,WMGN_Magic_98_FM
+http://live.wostreaming.net/direct/mwfmadison-wmgnfmmp3-ibc3
+#EXTINF:-1,WMUU_102.9_FM
+200 http://wmuu.out.airtime.pro:8000/wmuu_a
+#EXTINF:-1,WNAM_1280_AM
+302 http://playerservices.streamtheworld.com/api/livestream-redirect/WNAMAM_SC
+#EXTINF:-1,WOCT_101.9_FM
+501 http://woct.oshkoshmedia.org/broadwavehigh.mp3
+#EXTINF:-1,WOGB_103.1_FM
+302 http://playerservices.streamtheworld.com/api/livestream-redirect/WOGBFM_SC
+#EXTINF:-1,WOJB_88.9_FM
+http://peridot.streamguys.com:7450/live
+#EXTINF:-1,WOSH_News_Talk_1490
+302 http://playerservices.streamtheworld.com/api/livestream-redirect/WOSHAM_SC
+#EXTINF:-1,WPCA_93.1_FM
+http://ic1.nwrnetwork.com/wpca-fm
+#EXTINF:-1,WPDR_1350_AM
+http://34.82.94.246/magnumbroadcasting-wpdramaac-ibc1
+#EXTINF:-1,WPR's_All_Classical_88.7_Madison
+404 http://wpr-ice.streamguys.net:80/wpr-hd2-mp3-96
+#EXTINF:-1,WPR's_Ideas_Network_88.1_Green_Bay
+200 http://wpr-ice.streamguys.net/wpr-ideas-mp3-64
+#EXTINF:-1,WPR's_Ideas_Network_91.3_Superior
+200 http://wpr-ice.streamguys.net:80/wpr-ideas-mp3-64
+#EXTINF:-1,WPR's_News_and_Classical_88.7_Madison
+200 http://wpr-ice.streamguys.net:80/wpr-music-96
+#EXTINF:-1,WPR's_NPR_News_and_Classical_88.5_Superior
+200 http://wpr-ice.streamguys.net/wpr-music-mp3-96
+#EXTINF:-1,WPR's_NPR_News_and_Classical_89.9_Brule
+200 http://wpr-ice.streamguys.net:80/wpr-music-mp3-96
+#EXTINF:-1,WRCO_100.9_FM_Radio
+http://173.193.205.96:7469/stream
+#EXTINF:-1,WRCO_1450_AM_Radio
+http://173.193.205.96:7452/stream
+#EXTINF:-1,WRJN_1400_AM
+http://live.wostreaming.net/manifest/magnumbroadcasting-wrjnammp3-ibc1
+#EXTINF:-1,WRJQ_Goodtime_Radio
+http://66.206.12.2:8144/stream
+#EXTINF:-1,WRRD_Resistance_Radio_1510_AM
+http://darnwi.com:8000/stream
+#EXTINF:-1,WRST_90.3_FM
+302 http://wrst.streamon.fm:8000/WRST-32k.aac
+#EXTINF:-1,WSJY_FM_107.3
+http://live.wostreaming.net/direct/magnumbroadcasting-wsjyfmaac-ibc1
+#EXTINF:-1,WSNP_105.9_FM
+200 http://ice24.securenetsystems.net/WSNP
+#EXTINF:-1,WSUM_91.7
+http://stream.studio.wsum.wisc.edu:80/wsum128
+#EXTINF:-1,WUWM_89.7
+http://wuwm.streamguys1.com/live.mp3
+#EXTINF:-1,WVBO_103.9_FM
+302 http://playerservices.streamtheworld.com/api/livestream-redirect/WVBOFM_SC
+#EXTINF:-1,WVMO_98.7_FM
+302 http://playerservices.streamtheworld.com/api/livestream-redirect/WVMOFM_SC
+#EXTINF:-1,WWIB_103.7_FM
+http://ic1.nwrnetwork.com/wwib-fm
+#EXTINF:-1,WXPR_91.7_FM
+200 http://amber.streamguys.com:4370/wxpr2
+#EXTINF:-1,WXVM_104.1
+http://ic2.sslstream.com/wrvm-fm
+#EXTINF:-1,Xtreme_107.1
+302 http://playerservices.streamtheworld.com/api/livestream-redirect/WPVLFMAAC_SC
+#EXTINF:-1,Y105.5_FM_WLJY
+http://209.94.170.250:8000/fmstream.mp3
+#EXTINF:-1,Y106.5
+302 http://playerservices.streamtheworld.com/api/livestream-redirect/WYTEFMAAC_SC
+#EXTINF:-1,Z_93
+http://live.wostreaming.net/manifest/heartlandcom-wbszfmmp3-ibc4
+#EXTINF:-1,Z_Talk_Radio
+http://192.99.83.154:8141/
+#EXTINF:-1,Kiss_FM
+200 https://woodward-radio.streamb.live/SB00132
+#EXTINF:-1,Rock
+403 https://26143.live.streamtheworld.com:443/WOZZFMAAC.aac
+#EXTINF:-1,The_HOG
+https://prod-34-227-96-181.wostreaming.net/saga-whqgfmaac-ibc2
+#EXTINF:-1,Razor_94.7
+200 https://woodward-radio.streamb.live/SB00039
+#EXTINF:-1,Lighthouse_Christian_Radio
+https://lighthouseradio.network/proxy/mainchannel/stream?amazingrnd=q3tc2pu2sp
+#EXTINF:-1,94.1_WJJO
+403 https://14553.live.streamtheworld.com:443/WJJOFMAAC.aac
+#EXTINF:-1,97.7_The_Farm
+403 https://14553.live.streamtheworld.com:443/WHITAMAAC.aac
+#EXTINF:-1,WRVM_102.7_FM
+https://ic2.sslstream.com/wrvm-fm?rnd=365
+#EXTINF:-1,BOG_Country
+https://prod-54-82-205-117.wostreaming.net/magnumbroadcasting-wbogamaac-ibc1?session-id=466e8b954a4a250a75da701c2781020a
+#EXTINF:-1,620_WTMJ
+https://prod-100-24-13-135.wostreaming.net/goodkarma-wtmjamaac-hlsc.m3u8/
+#EXTINF:-1,Fox_Oldies
+200 https://ice64.securenetsystems.net/WGNYFM
+#EXTINF:-1,Weasel_Radio
+400 http://www.weasel.net:9090/weasel-1.ogg
+#EXTINF:-1,Jammin&#039;_FM
+https://prod-3-85-5-61.wostreaming.net/saga-wjmrfmaac-ibc2
+#EXTINF:-1,97X
+302 https://ais-edge101-live365-dal02.cdnstream.com/a10801
+#EXTINF:-1,Life_102.5
+200 https://nwmedia-wnwc-fm.streamguys1.com/wnwc-fm
+#EXTINF:-1,WIXX
+403 https://24233.live.streamtheworld.com:443/WIXXFMAAC_SC
+#EXTINF:-1,94.5_Classic_Rock
+https://prod-34-204-75-199.wostreaming.net/magnumbroadcasting-wtmbfmaac-ibc1?session-id=9b0b86cc1a62ced09cfb4ac6ca0d0d8a
+#EXTINF:-1,WAPL
+200 https://woodward-radio.streamb.live/SB00020
+#EXTINF:-1,WDLS_Radio
+https://prod-54-82-205-117.wostreaming.net/magnumbroadcasting-wdlsamaac-ibc1?session-id=c3d5544145a4a4f727454bc1bd05672f
+#EXTINF:-1,Magic_98
+403 https://26253.live.streamtheworld.com:443/WMGNFMAAC.aac
+#EXTINF:-1,95_WIIL_ROCK
+https://prod-54-234-185-32.wostreaming.net/alphacorporate-wiilfmaac-ibc4?session-id=f282ac862588226e6d6baf7b622a0be2
+#EXTINF:-1,Star_98.5
+403 https://19313.live.streamtheworld.com:443/WQLHFMAAC.aac
+#EXTINF:-1,Hometown_Rock
+https://prod-3-85-5-61.wostreaming.net/saga-wklhfmaac-ibc2
+#EXTINF:-1,WVBO
+403 https://24373.live.streamtheworld.com:443/WVBOFMAAC.aac
+#EXTINF:-1,WOGB
+403 https://19313.live.streamtheworld.com:443/WOGBFMAAC.aac
+#EXTINF:-1,WIFC
+403 https://24233.live.streamtheworld.com:443/WIFCFMAAC.aac
+#EXTINF:-1,WOMT
+404 https://us2.maindigitalstream.com/ssl/WOMT
+#EXTINF:-1,Mix_96.1
+https://prod-34-204-75-199.wostreaming.net/magnumbroadcasting-wxymfmaac-ibc1?session-id=586888373c0ccb07387da11c2b4a423a
+#EXTINF:-1,The_Fox
+403 https://20603.live.streamtheworld.com:443/WWWXFMAAC_SC
+#EXTINF:-1,94.5_ESPN
+https://prod-52-91-107-216.wostreaming.net/goodkarma-wktifmaac-ibc2
+#EXTINF:-1,WSAU_550AM_-_99.9FM
+403 https://14833.live.streamtheworld.com:443/WSAUAMFMAAC.aac
+#EXTINF:-1,Y100
+403 https://24273.live.streamtheworld.com:443/WNCYFMAAC_SC
+#EXTINF:-1,WNFM_Country
+https://prod-54-82-205-117.amperwave.net/magnumbroadcasting-wnfmfmaac-ibc1?session-id=94815a0e961a8ec4939d5edea94920c8
+#EXTINF:-1,WDEZ_101.9_FM
+403 https://26143.live.streamtheworld.com:443/WDEZFMAAC.aac
+#EXTINF:-1,Lake_98.1_FM_-_WLKN
+404 https://us2.streamingpulse.com/ssl/wlkn
+#EXTINF:-1,The_Fan_107.5_&amp;_1400
+403 https://27053.live.streamtheworld.com:443/WDUZFMAAC.aac
+#EXTINF:-1,WEMP_98.9_FM
+404 https://us2.maindigitalstream.com/ssl/WEMP
+#EXTINF:-1,WPR_NPR_News_&amp;_Classical_-_WERN_88.7_FM
+200 https://wpr-ice.streamguys1.com/wpr-music-mp3-96
+#EXTINF:-1,The_Rock
+200 https://ice24.securenetsystems.net/WTCX
+#EXTINF:-1,The_Point
+403 https://26143.live.streamtheworld.com:443/WXERFMAAC_SC
+#EXTINF:-1,Frog_Country
+http://107.182.234.197:7575/stream
+#EXTINF:-1,Duke_FM
+403 https://24223.live.streamtheworld.com:443/WGEEFMAAC_SC
+#EXTINF:-1,WAUNa_Rock
+https://prod-34-204-75-199.wostreaming.net/magnumbroadcasting-wpdramaac-ibc1?session-id=c7319e160f5062a1024f5ce5de032c54
+#EXTINF:-1,News_Talk_1150AM
+200 https://woodward-radio.streamb.live/SB00068
+#EXTINF:-1,The_Buzz
+403 https://14833.live.streamtheworld.com:443/WHBZFMAAC.aac
+#EXTINF:-1,WSJY_-_FM_107.3
+https://prod-34-203-219-111.amperwave.net/magnumbroadcasting-wsjyfmaac-hlsc1.m3u8
+#EXTINF:-1,WTAQ_97.5FM_1360AM
+403 https://15113.live.streamtheworld.com:443/WTAQAMAAC_SC
+#EXTINF:-1,The_Lodge
+403 https://27053.live.streamtheworld.com:443/WLGEFMAAC.aac
+#EXTINF:-1,Wave_100.5
+404 https://us2.maindigitalstream.com/ssl/WAVL
+#EXTINF:-1,100.5_ESPN_Madison
+https://prod-52-91-107-216.wostreaming.net/goodkarma-wtlxfmaac-ibc2?session-id=f1e0a22d75541f579143054f3a76f977
+#EXTINF:-1,93.1_Jamz
+403 https://24493.live.streamtheworld.com:443/WJQMFMAAC.aac
+#EXTINF:-1,WOLX-_94.9_FM
+https://prod-52-90-106-69.wostreaming.net/audacy-wolxfmaac-imc
+#EXTINF:-1,WCUB_980_AM
+http://173.193.205.96:7427/stream
+#EXTINF:-1,Classic_101,_WSHP-DB
+401 https://s6.myradiostream.com/:45160/;
+#EXTINF:-1,Milwaukee_Public_Radio
+https://wuwm.streamguys1.com/live.mp3
+#EXTINF:-1,KZ_Radio_-_WKZG_104.3_FM
+200 https://woodward-radio.streamb.live/SB00131
+#EXTINF:-1,B_102.9
+https://prod-52-200-102-246.wostreaming.net/magnumbroadcasting-wbdlfmaac-ibc1?session-id=73955f33b2678e5d29d73c3eb935761d
+#EXTINF:-1,La_Movida
+https://17483.live.streamtheworld.com:443/WLMVAMAAC.aac
+#EXTINF:-1,Technicolor_Web_of_Sound
+302 https://ais-edge106-live365-dal02.cdnstream.com/a01650
+#EXTINF:-1,WORT_Community_Radio
+400 https://wortcast01.wortfm.org:8443/high.mp3
+#EXTINF:-1,KISS_FM_103.7
+https://prod-34-205-16-207.wostreaming.net/audacy-wxssfmaac-imc
+#EXTINF:-1,WSPT
+200 https://ice7.securenetsystems.net/CWTO
+#EXTINF:-1,Sports_Radio_1440AM_-_101.9_FM
+200 https://mwc.streamguys1.com/wnfl-aac
+#EXTINF:-1,WVMO
+403 https://26313.live.streamtheworld.com:443/WVMOFMAAC.aac
+#EXTINF:-1,Wisconsin_106
+200 https://ice24.securenetsystems.net/WCWI
+#EXTINF:-1,WNAM
+403 https://15313.live.streamtheworld.com:443/WNAMAMAAC.aac
+#EXTINF:-1,Outlaw_Country_D99.3_-_WDMP-FM
+200 https://ice6.securenetsystems.net/WDMPFM
+#EXTINF:-1,WPR_Ideas_-_WHA_970_AM
+200 https://wpr-ice.streamguys1.com/wpr-ideas-mp3-64
+#EXTINF:-1,101.3_WIBD
+https://prod-34-204-75-199.wostreaming.net/magnumbroadcasting-wbkvamaac-ibc1?session-id=a5d62e2aa706f153e1bbbb7dcdc45deb
+#EXTINF:-1,WJJH
+https://prod-52-0-41-232.wostreaming.net/heartlandcom-wjjhfmaac-ibc4?session-id=7c2369673785f85c0d350fd4d95d03ec
+#EXTINF:-1,Country_Z-93.3
+https://prod-52-0-41-232.wostreaming.net/heartlandcom-wbszfmaac-ibc4?session-id=ca793a544d1a4102656eb3b57913b252
+#EXTINF:-1,The_Resistance
+https://17483.live.streamtheworld.com:443/WRISFMAAC.aac
+#EXTINF:-1,MIX_106.9
+https://prod-54-82-205-117.wostreaming.net/magnumbroadcasting-wnnofmaac-ibc1
+#EXTINF:-1,WRDB_Radio
+https://prod-54-82-205-117.wostreaming.net/magnumbroadcasting-wrdbamaac-ibc1
+#EXTINF:-1,The_Source_103.3_FM_-_1170AM
+200 https://ice24.securenetsystems.net/WFDLAM
+#EXTINF:-1,102.3_The_Bug_-_WAUH
+200 https://streamdb7web.securenetsystems.net/v5/index.cfm?stationCallSign=WAUH
+#EXTINF:-1,Bull_Falls_Radio
+301 https://bullfallsradio.com/
+#EXTINF:-1,WRJN_Radio
+https://prod-54-82-205-117.wostreaming.net/magnumbroadcasting-wrjnamaac-ibc1?session-id=50f7166b89f9d9f1b318516e2d95e15a
+#EXTINF:-1,Cow_97.1
+http://64.78.234.165:8000/WCOW
+#EXTINF:-1,HOT102
+302 https://ais-edge106-live365-dal02.cdnstream.com/a88336
+#EXTINF:-1,The_Hog
+200 https://ice41.securenetsystems.net/WWHGFM
+#EXTINF:-1,Today&#039;s_Q106.3
+403 https://18093.live.streamtheworld.com:443/WWQMFMAAC.aac
+#EXTINF:-1,WOWN_-_FM
+http://107.182.234.197:7465/stream
+#EXTINF:-1,Radio_Zelengrad
+https://usa5.fastcast4u.com/proxy/pddonlcc?mp=/1
+#EXTINF:-1,The_Titletown_Music_Archive
+302 https://ais-edge102-live365-dal02.cdnstream.com/a60459
+#EXTINF:-1,Country_Legends_24/7
+404 https://ice23.securenetsystems.net/WIRI
+#EXTINF:-1,Q90_FM
+200 https://ice24.securenetsystems.net/WORQ
+#EXTINF:-1,WOSH_Newstalk_1490_AM
+403 https://15313.live.streamtheworld.com:443/WOSHAMAAC.aac
+#EXTINF:-1,WBSD_Radio
+https://prod-54-166-200-161.wostreaming.net/wbsd-wbsdfmaac-ibc1?session-id=af29e7904a3e558b1361170c74461886
+#EXTINF:-1,Iron_Country
+200 https://ice9.securenetsystems.net/WGEZAM
+#EXTINF:-1,Who_Magoo_*Music_Review*
+302 https://ais-edge103-live365-dal02.cdnstream.com/a58073
+#EXTINF:-1,La_Más_Grande
+https://prod-34-204-75-199.wostreaming.net/magnumbroadcasting-waunfmaac-ibc1?session-id=630872108aba0776e10fcd560d921313
+#EXTINF:-1,The_Score_95.3_FM_-_1570_AM
+200 https://woodward-radio.streamb.live/SB00051
+#EXTINF:-1,1670_The_Zone
+403 https://19293.live.streamtheworld.com:443/WOZNAMAAC_SC
+#EXTINF:-1,WRJOldies
+https://prod-3-85-194-122.wostreaming.net/heartlandcom-wrjofmaac-ibc4
+#EXTINF:-1,Bucky_Country
+https://prod-54-80-72-1.amperwave.net/magnumbroadcasting-wbkyfmaac-hlsc1.m3u8?source=v7player
+#EXTINF:-1,WAXX
+404 https://ice9.securenetsystems.net/WAXX
+#EXTINF:-1,JingleMKE
+404 https://ais-sa2.cdnstream1.com/1912_128
+#EXTINF:-1,Ketch_Radio
+https://cupcake.citrus3.com:8186/stream
+#EXTINF:-1,WPR_All_Classical
+404 https://wpr-ice.streamguys1.com/wpr-hd2-mp3-96
+#EXTINF:-1,WWIS_Radio_-_99.7
+200 https://ice5.securenetsystems.net/WWISFM
+#EXTINF:-1,WDOR_93.9FM_-_910AM
+403 https://14553.live.streamtheworld.com:443/WDORFMAAC.aac
+#EXTINF:-1,Cow_Country
+200 https://ice24.securenetsystems.net/WGXI
+#EXTINF:-1,WGLB
+https://prod-34-229-247-63.wostreaming.net/wglbllc-wglbammp3-ibc1?session-id=98704d8ff85843c53e5779bd5dd78262
+#EXTINF:-1,The_Big_FM_93.7
+200 https://ice23.securenetsystems.net/WBGRFM
+#EXTINF:-1,True_Oldies_92.1_&amp;_1010_AM_WPCN
+200 https://ice8.securenetsystems.net/WSPT
+#EXTINF:-1,98Q_Country
+https://prod-34-229-46-75.wostreaming.net/parkfallscomm-wcqmfmaac-hlsc1.m3u8
+#EXTINF:-1,WTSW-LP
+200 https://ais-sa1.streamon.fm/7077_24k.aac/playlist.m3u8
+#EXTINF:-1,93.1_The_Cabin
+http://107.182.234.197:7458/stream
+#EXTINF:-1,Z107.3
+http://173.193.205.96:7320/stream
+#EXTINF:-1,Radio_74_Internationale
+http:/http:/adio74.dyndns.org:8000http:/adio74stlint.mp3
+#EXTINF:-1,WTCH_AM_960-_96.1_FM
+http://107.182.234.197:7444/stream
+#EXTINF:-1,Rock_96.1/101.1
+https://prod-34-204-75-199.wostreaming.net/magnumbroadcasting-wfawamaac-ibc1?session-id=de4b6c73dc953a75884996670898388e
+#EXTINF:-1,WWIB
+https://ic1.sslstream.com/wwib-fm?rnd=204
+#EXTINF:-1,The_Great_98.7
+200 https://ice24.securenetsystems.net/WMDC
+#EXTINF:-1,101.1_The_River
+200 https://us9.maindigitalstream.com/ssl/wvre
+#EXTINF:-1,All_Praise_Radio
+302 https://ais-edge104-live365-dal02.cdnstream.com/a45228
+#EXTINF:-1,Radio_22
+404 https://streams.radio.co/seb44be42d/listen
+#EXTINF:-1,Smooth_Jazz_&amp;_More_WJTI_Milwaukee_102.5
+302 https://ais-edge104-live365-dal02.cdnstream.com/a34543
+#EXTINF:-1,Newsradio_1230_WCLO
+https:/http:/adio.securenetsystems.net/cwa/index.cfm?CFID=b9a19bf3-a4cf-4f14-8968-7ea98d5a8d7a&CFTOKEN=0&stationCallSign=WCLO
+#EXTINF:-1,Hitz_90.5_fm
+https://klzy.djjustinreed.com/wcgd
+#EXTINF:-1,The_Avenue
+200 https://ice5.securenetsystems.net/WOVM
+#EXTINF:-1,Relevant_Radio
+403 https://19013.live.streamtheworld.com/RR_MAIN.mp3
+#EXTINF:-1,100.7_the_Foundry
+http://107.182.234.197:7638/stream
+#EXTINF:-1,WFHR_AM_1320
+404 https://ice23.securenetsystems.net/WFHR
+#EXTINF:-1,Narodni_Radio_Milvoki
+https://usa18.fastcast4u.com/proxy/suozkmqe?mp=/1
+#EXTINF:-1,The_Bull
+200 https://www.107thebull.com/
+#EXTINF:-1,WPR_Special
+200 https://wpr-ice.streamguys1.com/wpr-events-mp3
+#EXTINF:-1,Country_104.5_-_WSLD
+200 https://ice5.securenetsystems.net/WSLD
+#EXTINF:-1,The_Family
+200 https://ice64.securenetsystems.net/WEMI
+#EXTINF:-1,WHBL
+403 https://26143.live.streamtheworld.com:443/WHBLAMAAC_SC
+#EXTINF:-1,KIX_106.5_WKCH
+https://prod-34-204-75-199.wostreaming.net/magnumbroadcasting-wkchfmaac-ibc1?session-id=80f340315c07b5508ec8795b51c6ac05
+#EXTINF:-1,95-GMO
+http://107.182.234.197:7052/stream
+#EXTINF:-1,ESPN_Radio__-_WOSQ
+200 https://ice23.securenetsystems.net/WOSQ
+#EXTINF:-1,WDLB
+200 https://ice23.securenetsystems.net/WDLB
+#EXTINF:-1,97-SEVEN_COUNTRY
+403 https://17793.live.streamtheworld.com:443/WGLRFMAAC_SC
+#EXTINF:-1,Janesville_Community_Radio
+https://wadr.out.airtime.pro/wadr_b
+#EXTINF:-1,KJAM_1390_AM
+https://prod-34-207-252-189.amperwave.net/alphamidwest-kjamamaac-ibc2?session-id=e52e2dc1046971841a074b908f1c037c
+#EXTINF:-1,WSUM
+200 https://ice23.securenetsystems.net/WSUMFM
+#EXTINF:-1,WRLU
+200 https://ice64.securenetsystems.net/WRLU
+#EXTINF:-1,The_Edge
+http://wsuw-test.uww.edu:80/wsuwliveaac
+#EXTINF:-1,WHTL-FM
+200 https://ice9.securenetsystems.net/WHTL
+#EXTINF:-1,WPCA
+https://ic1.sslstream.com/wpca-fm?rnd=3540
+#EXTINF:-1,WGTD-HD2
+400 http://stream.wgtd.org:8000/jazz
+#EXTINF:-1,News_Talk_1450_AM
+200 https://kfiz.com/
+#EXTINF:-1,Sunny_97.7
+200 https://ice24.securenetsystems.net/WFDL
+#EXTINF:-1,WAYY
+404 https://ice10.securenetsystems.net/WAYY
+#EXTINF:-1,WRPQ_99.7_FM_-___740AM
+404 https://ice41.securenetsystems.net/WRPQ
+#EXTINF:-1,89-Q
+200 https://ice3.securenetsystems.net/WCLQ
+#EXTINF:-1,The_Rock_96.3_WSFQ
+200 https://ice10.securenetsystems.net/WSFQ
+#EXTINF:-1,Bay_Country_101.3
+https://prod-52-0-41-232.wostreaming.net/heartlandcom-watwamaac-ibc4
+#EXTINF:-1,93.1_The_Wave
+200 https://streamdb7web.securenetsystems.net/cirrusencore/WRPN
+#EXTINF:-1,HYFIN
+502 https://wyms.streamguys1.com/hyfin
+#EXTINF:-1,WDRT
+200 https://audio.wdrt.org:8000/high
+#EXTINF:-1,Eagle_1490
+https://prod-52-200-102-246.wostreaming.net/magnumbroadcasting-wlxramaac-ibc1
+#EXTINF:-1,Calvary_Radio_Network
+http:/http:/adio3.citrus3.com:8044/;stream.mp3
+#EXTINF:-1,Bluejay_96.3
+404 https://us2.maindigitalstream.com/ssl/WJMT
+#EXTINF:-1,13_Steps_Radio
+301 http://streaming.radionomy.com:80/JamendoLounge
+#EXTINF:-1,CPL_Radio
+404 https://ais-edge101-live365-dal02.cdnstream.com/a13640
+#EXTINF:-1,95.9_Jamz
+404 https://ice24.securenetsystems.net/WEAQ
+#EXTINF:-1,Classic_Hits_98.7
+http://107.182.234.197:7628/stream
+#EXTINF:-1,96.9_The_Cabin
+http://107.182.234.197:7437/stream
+#EXTINF:-1,Hot_105.7
+https://prod-44-203-251-0.wostreaming.net/audacy-wxsshd2aac-imc
+#EXTINF:-1,Mix_96
+https://prod-52-0-41-232.wostreaming.net/heartlandcom-wnwxfmaac-ibc4
+#EXTINF:-1,Star_98.1
+200 https://streamdb6web.securenetsystems.net/cirrusencore/KPHRHD2&
+#EXTINF:-1,B-104.9_-_WKQH
+200 https://ice8.securenetsystems.net/WKQH
+#EXTINF:-1,Rewind_97.7
+200 https://ice64.securenetsystems.net/WQDC
+#EXTINF:-1,SportsRadio
+200 https://ice24.securenetsystems.net/WMAM
+#EXTINF:-1,K99
+200 https://ice23.securenetsystems.net/WKEB
+#EXTINF:-1,Magic_97.9
+https://prod-34-204-75-199.wostreaming.net/magnumbroadcasting-wkbhhd2aac-ibc1
+#EXTINF:-1,94.7_The_River
+http:/http:/ylee.dyndns.org:8282http:/iver
+#EXTINF:-1,Country_106
+http://107.182.234.197:7627/stream
+#EXTINF:-1,Hot_Country_92.1_FM
+404 https://us2.maindigitalstream.com/ssl/WLTU
+#EXTINF:-1,The_Jazz_Century
+302 https://ais-edge102-live365-dal02.cdnstream.com/a16998
+#EXTINF:-1,Spiritual_Christians_Official_Radio_Station
+405 https://stream-148.zeno.fm/oquahf0ik0rvv?zs=LMphZOmfRGqo5VCIpvWvaw
+#EXTINF:-1,Converge_Radio
+200 https://streamdb6web.securenetsystems.net/cirrusencore/index.cfm?stationCallSign=WDRK
+#EXTINF:-1,WRKR
+https://wrkr.com/listen-live/
+#EXTINF:-1,Phrostvybe_Radio
+302 https://ais-edge103-live365-dal02.cdnstream.com/a16530
+#EXTINF:-1,WXPR
+200 https://amber.streamguys1.com:4372/wxpr2-aac
+#EXTINF:-1,WOGO_680_AM
+https://ic1.sslstream.com/wogo-am?rnd=1542
+#EXTINF:-1,WFEN_Radio
+200 https://www.streamcontrol.net:8444/s/15080
+#EXTINF:-1,Washburn_County_Fire_and_EMS
+501 https://broadcastify.cdnstream1.com/3749
+#EXTINF:-1,The_Sun_Community_Radio
+200 https://ice24.securenetsystems.net/WLSP
+#EXTINF:-1,For_Drive_FX
+404 https://ice64.securenetsystems.net/WGNYHD2
+#EXTINF:-1,WWIS_AM_1260
+200 https://ice5.securenetsystems.net/WWISAM
+#EXTINF:-1,Kickin&#039;_Country
+200 https://ice23.securenetsystems.net/WIGM
+#EXTINF:-1,Kicks_106.3
+https://prod-54-210-244-219.wostreaming.net/magnumbroadcasting-wqccfmaac-hlsc1.m3u8/?source=v7player
+#EXTINF:-1,02.7_WARAYNON_RADIO
+405 https://stream-149.zeno.fm/ew8pgrn6bxhvv?zs=dOMMY6jtQuu8lAGLGf4PNg
+#EXTINF:-1,102.7_WKBH
+https://prod-52-200-102-246.wostreaming.net/magnumbroadcasting-wkbhfmaac-ibc1?session-id=1a979730ff2ad4ac96224e7ee7666752
+#EXTINF:-1,95.3_WBEV
+https://prod-3-93-57-97.wostreaming.net/goodkarma-wbevfmaac-hlsc.m3u8?source=v7
+#EXTINF:-1,Coyote_93.7
+https://prod-52-0-41-232.wostreaming.net/heartlandcom-wcyefmaac-ibc4
+#EXTINF:-1,philipdunn_radio
+302 https://stream-052.zeno.fm/q9qtrhynkv2uv?zs=gTY3hKguTiGoiakQNhsK4g
+#EXTINF:-1,Gateway_Radio_Reading_Service
+400 http://stream.wgtd.org:8000/grrs
+#EXTINF:-1,WLHA_Radio
+302 https://ais-edge106-live365-dal02.cdnstream.com/a04907
+#EXTINF:-1,89Q_Extra
+200 https://streamdb8web.securenetsystems.net/cirrusencore/WCLQ3
+#EXTINF:-1,WIXX_101.1_&quot;WIXX_101&quot;_Green_Bay,_WI
+403 http://26283.live.streamtheworld.com:80/WIXXFMAAC_SC
+#EXTINF:-1,WYMS_88.9_&quot;Radio_Milwaukee&quot;,_WI
+http:/http:/adiomilwaukee.streamguys.net/live
+#EXTINF:-1,WKRU_&quot;KRUZ_@106.7&quot;_Green_Bay,_WI
+403 http://24373.live.streamtheworld.com:80/WKRUFMAAC_SC
+#EXTINF:-1,WBCR_90.3_Beloit,_WI
+502 http://ais-sa1.streamon.fm/7209_48k.aac
+#EXTINF:-1,WGLR_97.7_Lancaster,_WI
+403 http://13693.live.streamtheworld.com:80/WGLRFMAAC_SC
+#EXTINF:-1,WGEE_93.5_&amp;_99.7_&quot;Duke_FM&quot;_New_London,_WI
+403 http://26433.live.streamtheworld.com:80/WGEEFMAAC_SC
+#EXTINF:-1,Steel_Bridge_Radio_-_Sturgeon_Bay,_WI
+200 https://stream.radio.co/sb3c9c9d77/listen
+#EXTINF:-1,WLGE_&quot;106.9_The_Lodge&quot;_Bailey&#039;s_Harbor,_WI
+403 http://24283.live.streamtheworld.com:80/WLGEFMAAC_SC
+#EXTINF:-1,1430_WBEV
+https://prod-3-87-36-240.wostreaming.net/goodkarma-wbevamaac-ibc2?session-id=fbd48a05cb8522668e12f2210c8fb729
+#EXTINF:-1,1330_&amp;_101.5_WHBL
+403 https://24233.live.streamtheworld.com:443/WHBLAMAAC.aac
+#EXTINF:-1,Oldies_103.3_FM/1170_AM
+200 https://ice24.securenetsystems.net/WFDLAM?&playSessionID=797937C8-FCF5-342C-87990F68DDABEC5D
+#EXTINF:-1,The_Ridge
+302 https://ais-edge102-live365-dal02.cdnstream.com/a91300
+#EXTINF:-1,Adroit_Jazz_Underground_HD
+400 https://icecast.walmradio.com:8443/jazz
+#EXTINF:-1,WMSE
+200 http://wmse.streamguys1.com:80/wmseliveaac
+#EXTINF:-1,WMSE_Jazz
+200 https://wmse.streamguys1.com/wmsejazzmp3
+#EXTINF:-1,98.7FM_WVMO,_The_Voice_of_Monona
+403 https://22073.live.streamtheworld.com/WVMOFMAAC.aac
+#EXTINF:-1,The_Prayz_Network
+200 https://ice7.securenetsystems.net/WTPN
+#EXTINF:-1,WCNP
+200 https://ice23.securenetsystems.net/WCNP
+#EXTINF:-1,Wisco_Radio
+404 https://ice23.securenetsystems.net/WISCO
+#EXTINF:-1,Cat_Country_95.1
+200 https://ice10.securenetsystems.net/WLST
+#EXTINF:-1,Plenitud_la_Radio_Adventista
+200 https://edge.mixlr.com/channel/zwtrw
+#EXTINF:-1,gojesusradiowindlakewi
+405 https://stream-150.zeno.fm/fvqb6flds0uvv?zs=AOSUcJeZTqeuOSL446W4-Q
+#EXTINF:-1,WRCA_1330_AM
+200 https://bbgi.com/brands/
+#EXTINF:-1,madison_fm_87
+200 https://stream1.svrdedicado.org/8244/stream
