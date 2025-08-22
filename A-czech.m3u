@@ -1,0 +1,1168 @@
+#EXTM3U
+#EXTINF:-1,ČRo_Radiožurnál_Sport
+400 https://rozhlas.stream/radiozurnal_sport_high.aac
+#EXTINF:-1,ČRo_Pohoda
+400 https://rozhlas.stream/pohoda_high.aac
+#EXTINF:-1,Rádio_Fajn_Rock_Music
+400 https://icecast1.play.cz/fajnrock128.mp3?1397678024622.mp3&ampr=67
+#EXTINF:-1,Radio_Sázava
+400 https://icecast8.play.cz/sazava192.mp3
+#EXTINF:-1,Rádio_Česká_Kanada
+404 http://stream.sepia.sk:8000/kanada128.mp3
+#EXTINF:-1,Radio_Jihlava
+400 http://icecast3.play.cz/radiojihlava128.mp3
+#EXTINF:-1,Rádio_Dálnice
+400 http://icecast8.play.cz/radiodalnice.mp3
+#EXTINF:-1,Rádio_Otava
+https://radiootava.trefcon.cz:8889/radio.mp3
+#EXTINF:-1,Rádio_Jih_Cimbálka
+400 http://icecast6.play.cz/jihcimbalka128.mp3
+#EXTINF:-1,Rádio_Blaník_Morava
+http://ice.abradio.cz/blanikmorava128.mp3
+#EXTINF:-1,Rádio_Beat
+200 https://stream.rcs.revma.com/3d47nqvb938uv
+#EXTINF:-1,Hitrádio_Faktor
+400 https://ice.abradio.cz/faktor128.mp3
+#EXTINF:-1,ČRo_Radio_Wave
+400 https://rozhlas.stream/wave_mp3_128.mp3
+#EXTINF:-1,Vatican_Radio_Čeština
+400 https://radio.vaticannews.va/stream-cs
+#EXTINF:-1,Rádio_Patria
+400 https://icecast.stv.livebox.sk/patria_128.mp3
+#EXTINF:-1,ČRo_Plus
+400 https://rozhlas.stream/plus_mp3_128.mp3
+#EXTINF:-1,ČRo_D-dur
+400 https://rozhlas.stream/ddur_mp3_128.mp3
+#EXTINF:-1,ČRo_Jazz
+400 https://rozhlas.stream/jazz_mp3_128.mp3
+#EXTINF:-1,ČRo_Région
+400 https://rozhlas.stream/region_mp3_128.mp3
+#EXTINF:-1,ČRo_České_Budějovice
+400 https://rozhlas.stream/cb_mp3_128.mp3
+#EXTINF:-1,ČRo_Hradec_Králové
+400 https://rozhlas.stream/hk_mp3_128.mp3
+#EXTINF:-1,ČRo_Karlovy_Vary
+400 https://rozhlas.stream/kv_mp3_128.mp3
+#EXTINF:-1,ČRo_Liberec
+400 https://rozhlas.stream/liberec_mp3_128.mp3
+#EXTINF:-1,ČRo_Olomouc
+400 https://rozhlas.stream/olomouc_mp3_128.mp3
+#EXTINF:-1,ČRo_Ostrava
+400 https://rozhlas.stream/ov_mp3_128.mp3
+#EXTINF:-1,ČRo_Pardubice
+400 https://rozhlas.stream/pardubice_mp3_128.mp3
+#EXTINF:-1,ČRo_Plzen
+400 https://rozhlas.stream/plzen_mp3_128.mp3
+#EXTINF:-1,ČRo_Vysočina
+400 https://rozhlas.stream/vysocina_mp3_128.mp3
+#EXTINF:-1,ČRo_Zlín
+400 https://rozhlas.stream/zlin_mp3_128.mp3
+#EXTINF:-1,ČRo_Rádio_Junior_Písničky
+400 http://icecast7.play.cz/crojuniormini128.mp3
+#EXTINF:-1,Český_rozhlas
+400 http://icecast8.play.cz/cro1-128.mp3
+#EXTINF:-1,ČRo_Radiožurnál
+400 http://icecast7.play.cz/cro1-128.mp3
+#EXTINF:-1,ČRo_Dvojka
+400 http://icecast6.play.cz/cro2-128.mp3
+#EXTINF:-1,ČRo_Vltava
+400 http://icecast5.play.cz/cro3-128.mp3
+#EXTINF:-1,ČRo_Rádio_Junior
+400 http://icecast5.play.cz/crojuniormaxi128.mp3
+#EXTINF:-1,ČRo_Brno
+400 http://icecast2.play.cz/crobrno128.mp3
+#EXTINF:-1,ČRo_Sever
+400 https://rozhlas.stream/sever_mp3_128.mp3
+#EXTINF:-1,Frekvence_1
+400 http://ice.actve.net/fm-frekvence1-128
+#EXTINF:-1,Evropa_2
+400 http://ice.actve.net/fm-evropa2-aac
+#EXTINF:-1,Radio_Kiss
+400 http://icecast4.play.cz/kiss128.mp3
+#EXTINF:-1,Radio_Impuls
+400 http://icecast5.play.cz/impuls128.mp3
+#EXTINF:-1,Rádio_Český_Impuls
+400 http://icecast6.play.cz/cesky-impuls.mp3
+#EXTINF:-1,RockZone
+400 http://icecast5.play.cz/rockzone64.mp3
+#EXTINF:-1,Rádio_Jih
+400 http://icecast6.play.cz/jih128.mp3
+#EXTINF:-1,Radio_Proglas
+400 http://icecast2.play.cz/proglas128
+#EXTINF:-1,Fajn_Radio
+400 http://ice.abradio.cz/fajn128.mp3
+#EXTINF:-1,Rádio_Blaník_CZ
+400 http://ice.abradio.cz/blanikcz128.mp3
+#EXTINF:-1,Rádio_Blaník
+400 http://ice.abradio.cz/blanikfm128.mp3
+#EXTINF:-1,Country_Radio
+400 http://icecast4.play.cz/country128.mp3
+#EXTINF:-1,Classic_Praha
+400 http://icecast8.play.cz/classic128.mp3
+#EXTINF:-1,Radio_1_Praha
+400 http://icecast2.play.cz/radio1-64.mp3
+#EXTINF:-1,Radio_Čas
+400 http://icecast6.play.cz/casradio128.mp3
+#EXTINF:-1,Rock_Radio
+400 http://ice.abradio.cz/rockradio128.mp3
+#EXTINF:-1,Známka_punku
+400 http://ice.abradio.cz/znamkapunku128.mp3
+#EXTINF:-1,Metalomanie
+400 http://ice.abradio.cz/metalomanie128.mp3
+#EXTINF:-1,Hitrádio_City_Brno
+400 http://ice.abradio.cz/citybrno128.mp3
+#EXTINF:-1,Hitrádio_City_Praha
+400 http://ice.abradio.cz/cityfm128.mp3
+#EXTINF:-1,Hitrádio_Černá_Hora
+400 http://ice.abradio.cz/cernahora128.mp3
+#EXTINF:-1,Hitrádio_Dragon
+400 http://ice.abradio.cz/dragon128.mp3
+#EXTINF:-1,Hitrádio_FM_Plus
+400 http://ice.abradio.cz/fmplus128.mp3
+#EXTINF:-1,Hitrádio_Orion
+400 http://ice.abradio.cz/orion128.mp3
+#EXTINF:-1,Hitrádio_Vysočina
+400 http://ice5.abradio.cz/hitvysocina128.mp3
+#EXTINF:-1,Hitrádio_FM_Devadesátka
+400 http://ice.abradio.cz/hit90128.mp3
+#EXTINF:-1,Hitrádio_FM_Osmdesátka
+400 http://ice.abradio.cz/hit80128.mp3
+#EXTINF:-1,Hitrádio_FM_Milénium
+400 http://ice.abradio.cz/hitmi128.mp3
+#EXTINF:-1,Hitrádio_FM_Zóna_lásky
+400 http://ice.abradio.cz/hitzl128.mp3
+#EXTINF:-1,Hitrádio_FM_Poprock
+400 http://ice.abradio.cz/hitpoprock128.mp3
+#EXTINF:-1,ČRo_Radio_DAB_Prague
+400 https://rozhlas.stream/regina_mp3_128.mp3
+#EXTINF:-1,Rocková_zábava
+400 http://ice.abradio.cz/rockzabava128.mp3
+#EXTINF:-1,Cesky_rozhlas_Radiozurnal
+400 http://rozhlas.stream/radiozurnal_aac_128.aac
+#EXTINF:-1,Rádio_HUMOR
+400 https://ice2.abradio.cz/humor64.aac
+#EXTINF:-1,Radio_Beat
+400 http://icecast2.play.cz/beat128aac
+#EXTINF:-1,Rádio_BLANÍK
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_BLANIK.aac
+#EXTINF:-1,Dance_Radio
+400 http://ice.actve.net/fm-dance-aac
+#EXTINF:-1,Radio_1
+400 http://icecast2.play.cz:8000/radio1-128aac
+#EXTINF:-1,Český_rozhlas_Dvojka
+400 http://icecast2.play.cz/cro2-128aac
+#EXTINF:-1,Cesky_rozhlas_Vltava
+400 https://rozhlas.stream/vltava_aac_128.aac
+#EXTINF:-1,Český_rozhlas_Plus
+400 https://rozhlas.stream/plus_aac_128.aac
+#EXTINF:-1,Rádio_Povídka
+400 http://ice.abradio.cz/povidka128.mp3
+#EXTINF:-1,Rádio_Krokodýl
+400 http://icecast4.play.cz/krokodyl128.mp3
+#EXTINF:-1,Oldies_Radio
+400 http://ice.abradio.cz/oldiesradio128.mp3
+#EXTINF:-1,Radio_Pohádka
+400 http://ice.abradio.cz/pohadka128.mp3
+#EXTINF:-1,Radio_Helax
+400 http://ice.abradio.cz:8000/helax64.aac
+#EXTINF:-1,Radio_Proto
+400 https://live3.istoikona.net:18191/stream
+#EXTINF:-1,Expres_FM
+400 http://icecast5.play.cz/expres128mp3
+#EXTINF:-1,Český_rozhlas_D-dur
+400 http://icecast3.play.cz/croddur64aac
+#EXTINF:-1,Hitrádio_City_Devadesátka
+400 https://ice.abradio.cz/hit90128.mp3
+#EXTINF:-1,Radio_Spin
+400 http://icecast4.play.cz/spin128.mp3
+#EXTINF:-1,Rock_Max
+400 https://ice.abradio.cz/rockradiomorava128.mp3
+#EXTINF:-1,Rock_Radio_Sumava
+400 https://ice.abradio.cz/rockradio128.mp3
+#EXTINF:-1,Český_rozhlas_Radio_Wave
+400 https://rozhlas.stream/wave_aac_128.aac
+#EXTINF:-1,Free_Rádio
+400 http://icecast8.play.cz/freeradio128.mp3
+#EXTINF:-1,BLANÍK_CZ
+400 http://ice.abradio.cz:8000/blanikcz64.aac
+#EXTINF:-1,Český_rozhlas_Jazz
+400 https://rozhlas.stream/jazz_aac_64.aac
+#EXTINF:-1,Frekvence_1_Ceskoslovenske_Hity
+http://ice-01.lagardere.cz/web-f1-cshity
+#EXTINF:-1,Cas_Rock
+400 http://icecast7.play.cz/casrock128.mp3
+#EXTINF:-1,COLOR_Music_Radio
+400 http://icecast6.play.cz/color192.mp3
+#EXTINF:-1,Club_Radio
+http://radio.ipip.cz:7996/
+#EXTINF:-1,Radio_Dechovka
+400 http://icecast5.play.cz/dechovka128.mp3
+#EXTINF:-1,Hitrádio_Osmdesátka
+400 http://ice.abradio.cz:8000/hit8064.aac
+#EXTINF:-1,Rádio_Bonton
+400 http://ice.actve.net/fm-bonton-aac
+#EXTINF:-1,Hitrádio_City
+400 https://ice.abradio.cz/citybrno64.aac
+#EXTINF:-1,Český_rozhlas_Brno
+400 http://icecast2.play.cz/crobrno64aac
+#EXTINF:-1,Český_rozhlas_Radio_Junior
+400 http://rozhlas.stream/juniormaxi_aac_64.aac
+#EXTINF:-1,Hitrádio_City_Zóna_lásky
+400 http://ice.abradio.cz:8000/cityzl64.aac
+#EXTINF:-1,HipHopVibes_Radio
+400 http://mp3stream4.abradio.cz/hiphopvibes128.mp3
+#EXTINF:-1,Pigy.cz_-_Pohádky
+400 http://ice.actve.net/web-pg-pohadky
+#EXTINF:-1,Radio_Folk
+400 http://ice3.abradio.cz/folk128.mp3
+#EXTINF:-1,SeeJay_Radio
+301 http://live.seejay.cz/seejay128.aac
+#EXTINF:-1,Český_rozhlas_R_Junior_Pisnick
+400 https://rozhlas.stream/juniormini_mp3_128.mp3
+#EXTINF:-1,Svobodny_vysilac_CS
+400 http://stream.svobodny-vysilac.cz:8000/live.mp3
+#EXTINF:-1,Svobodné_rádio
+http://87.98.130.255:8859/
+#EXTINF:-1,Radio_Cas_Brnesko
+400 http://icecast7.play.cz/casbrno128.mp3
+#EXTINF:-1,Radio_Samson
+400 http://icecast8.play.cz:8000/samsonfm128.mp3
+#EXTINF:-1,Radio_7_CZ
+400 http://icecast1.play.cz/xnostream.mp3
+#EXTINF:-1,Rebel_Radio_Brod
+http://radio.ipip.cz:7988/
+#EXTINF:-1,Radio_Chillout_-_ABradio
+400 http://mp3stream4.abradio.cz/chillout64.mp3
+#EXTINF:-1,Radio_Contact_Liberec
+400 http://icecast8.play.cz/contact128.mp3
+#EXTINF:-1,Český_rozhlas_Region
+400 https://rozhlas.stream/region_aac_64.aac
+#EXTINF:-1,Hitrádio_Zóna_lásky
+400 https://ice2.abradio.cz/hitzl64.aac
+#EXTINF:-1,Hitrádio_City_Osmdesátka
+400 http://ice.abradio.cz:8000/city8064.aac
+#EXTINF:-1,Fajn_Radio_Fresh
+400 http://ice.abradio.cz:8000/fajnfresh128.mp3
+#EXTINF:-1,SeX-Radio.cz
+http://sc.ipip.cz:7980/
+#EXTINF:-1,Rock_radio_Rocková_zábava
+400 http://ice.abradio.cz:8000/rockzabava128.mp3
+#EXTINF:-1,Pigy.cz_-_Pisnicky
+400 http://ice.actve.net/web-pg-pisnicky
+#EXTINF:-1,Rock_radio_Metalománie
+400 http://ice.abradio.cz:8000/metalomanie128.mp3
+#EXTINF:-1,Radio_R
+400 http://radior.video.muni.cz:8000/FSS_mp3-128.mp3
+#EXTINF:-1,Rock_radio_Známka_punku
+400 http://ice.abradio.cz:8000/znamkapunku64.aac
+#EXTINF:-1,Hitrádio_City_Milénium
+400 http://ice.abradio.cz:8000/citymi64.aac
+#EXTINF:-1,Radio_Kromeriz
+301 http://www.radiokromeriz.cz/rds/radio-kromeriz128.mp3.m3u
+#EXTINF:-1,FREERAVE.CZ_-_TEKNO_RADIO
+http://164.68.122.137:8061/
+#EXTINF:-1,Hitrádio_PopRock
+400 http://ice.abradio.cz:8000/hitpoprock64.aac
+#EXTINF:-1,Radio_Orlicko
+400 http://46.28.111.246/stream64.aac
+#EXTINF:-1,Merkur_Radio
+400 http://ice4.abradio.cz/merkur-casino128.mp3
+#EXTINF:-1,Hitrádio_Milénium
+400 http://ice.abradio.cz:8000/hitmi128.mp3
+#EXTINF:-1,Calimeroclub_Radio
+400 http://live.topradio.cz:8000/calimero192
+#EXTINF:-1,Nonstopradio_CZ
+http://server.nonstopradio.cz:8080/
+#EXTINF:-1,Radio_Patriot
+200 http://s28.myradiostream.com:17086/
+#EXTINF:-1,Radio_Good_water
+https://ruby.torontocast.com:1330/stream
+#EXTINF:-1,DWG
+200 http://server25530.streamplus.de
+#EXTINF:-1,Radio_Domino
+400 http://mp3stream4.abradio.cz/domino128.mp3
+#EXTINF:-1,True_Life_in_God_Radio_Czech
+http://46.28.49.164:7812/stream
+#EXTINF:-1,RÁDIO_ČESKÝ_JUKEBOX
+200 https://icecast.beatzone.cz/radio/8810/ceskyjukebox-320-kbs.mp3
+#EXTINF:-1,Fred_FILM_RADIO_CH23_Czech
+http://91.121.139.194:8026/stream
+#EXTINF:-1,Politis_-_Πολίτης
+https://cdn.istoikona.com/politis/live/icecast.audio
+#EXTINF:-1,Imagen_FM
+http://s9.voscast.com:7584/imagenfm105-1
+#EXTINF:-1,Radio_Nostalgie
+400 http://icecast3.play.cz/radio-nostalgie128.mp3
+#EXTINF:-1,ΡΙΚ_Classic
+200 https://r1.cloudskep.com/cybcr/cybc4/icecast.audio
+#EXTINF:-1,ΡΙΚ_Τρίτο_Πρόγραμμα
+200 https://r1.cloudskep.com/cybcr/cybc3/icecast.audio
+#EXTINF:-1,Rádio_Music_CZ
+http://51.158.62.155:8374/stream
+#EXTINF:-1,Radio_Xaver
+https://s1.voscast.com:11559/listen
+#EXTINF:-1,ΡΙΚ_Πρώτο_Πρόγραμμα
+200 https://r1.cloudskep.com/cybcr/cybc1/icecast.audio
+#EXTINF:-1,Desi_-_Δίεση
+200 http://r1.cloudskep.com/radio/diesi/icecast.audio
+#EXTINF:-1,ZFK_Radio
+302 https://stream.zeno.fm/u6un3qyp5tzuv
+#EXTINF:-1,RADIO66
+400 https://ice3.abradio.cz/route128.mp3
+#EXTINF:-1,Rádio_Známka_Punku
+400 https://ice.abradio.cz/znamkapunku128.mp3
+#EXTINF:-1,Metalománie
+400 https://ice.abradio.cz/metalomanie128.mp3
+#EXTINF:-1,Hitrádio_City_(Praha)
+400 https://ice.abradio.cz/cityfm64.mp3
+#EXTINF:-1,Underground_radio_CZ
+400 https://icecast2.play.cz/Underground128.mp3
+#EXTINF:-1,James_Dean_Radio
+https://77.48.63.67:9010/stream/1/
+#EXTINF:-1,ABradio.cz_Jazzinec
+400 https://ice3.abradio.cz/jazzinec64.mp3
+#EXTINF:-1,Rádio_Pohádka
+400 https://ice3.abradio.cz/pohadka64.mp3
+#EXTINF:-1,Signál_Rádio
+200 https://stream.rcs.revma.com/9sw1nuvb938uv
+#EXTINF:-1,Hitrádio_FM
+400 https://ice.abradio.cz/hitradiofm64.mp3
+#EXTINF:-1,Cesky_Rozhlas_1_-_Radiozurnal
+400 https://icecast7.play.cz/cro1-128.mp3
+#EXTINF:-1,Rock_Rádio
+400 https://ice.abradio.cz/rockradio64.mp3
+#EXTINF:-1,Hitrádio_Devadesátka
+400 https://ice.abradio.cz/cityfm128.mp3
+#EXTINF:-1,Radio_1_CZ
+200 https://stream.rcs.revma.com/stk8hrvb938uv
+#EXTINF:-1,Kiss_Proton
+400 https://icecast1.play.cz/kissproton128.mp3
+#EXTINF:-1,Hitrádio_City_(Brno)
+400 https://ice.abradio.cz/magicbrno128.mp3
+#EXTINF:-1,Frekvence_1_Ceskoslovenske_hity
+400 https://ice.actve.net/fm-frekvence1-128
+#EXTINF:-1,Fajn_radio
+400 https://ice.abradio.cz/fajn128.mp3
+#EXTINF:-1,Rádio_Impuls_
+400 https://icecast5.play.cz/impuls64.mp3
+#EXTINF:-1,Rádio_Blaník_
+400 https://ice.abradio.cz/blanikfm128.mp3
+#EXTINF:-1,Evropa_2_
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/EVROPA2AAC.aac
+#EXTINF:-1,Frekvence_1_
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/FREKVENCE1AAC.aac
+#EXTINF:-1,Old_World_Czech_Music
+http://85.17.122.32:8144/stream
+#EXTINF:-1,Kiss_Hady_88.3_FM
+400 http://icecast1.play.cz:8000/kisshady64.mp3
+#EXTINF:-1,Rockova_Zabava
+400 http://mp3stream4.abradio.cz:8000/rockzabava128.mp3
+#EXTINF:-1,Radio_City_Devadesatka
+400 http://ice.abradio.cz:8000/city90128.mp3
+#EXTINF:-1,Hitradio_Zona_Lasky
+400 http://ice.abradio.cz:80/hitzl64.mp3
+#EXTINF:-1,Seejay_Radio
+400 http://mp3stream.abradio.cz:8000/seejay128.mp3
+#EXTINF:-1,CRo_Dvojka
+400 http://icecast1.play.cz/cro2-32aac
+#EXTINF:-1,Kiss_98_FM_Prague
+400 http://icecast2.play.cz/kiss128aac
+#EXTINF:-1,Hitradio_Magic
+400 http://ice.abradio.cz:80/magic128.mp3
+#EXTINF:-1,Rock_Radio_Prachen
+400 http://ice.abradio.cz:80/prachen128.mp3
+#EXTINF:-1,Hitradio_Vysocina
+400 https://ice5.abradio.cz/hitvysocina128.mp3
+#EXTINF:-1,CRo_1_-_Radiozurnal_94.6_FM
+400 http://icecast5.play.cz:8000/cro1-32.mp3
+#EXTINF:-1,Rock_Radio_Gold
+400 http://ice.abradio.cz:80/gold128.mp3
+#EXTINF:-1,Hitradio_Orion_Morava
+400 http://ice.abradio.cz:80/orionmorava64.mp3
+#EXTINF:-1,RockMax_Radio_Heavy
+400 https://ice.abradio.cz/rockmax128.mp3
+#EXTINF:-1,Hitradio_FM_Plus
+400 http://ice.abradio.cz:80/fmplus64.mp3
+#EXTINF:-1,Hitradio_90tka_-_90.0_FM
+400 http://ice.abradio.cz:80/hit90128.mp3
+#EXTINF:-1,Radio_City_Milenium_-_HQ
+400 http://ice.abradio.cz:8000/citymi128.mp3
+#EXTINF:-1,CRo_Plzen
+400 http://icecast1.play.cz/croplzen32.mp3
+#EXTINF:-1,Radio_Krokodyl_FM-103.0_FM
+400 https://icecast4.play.cz/krokodyl128.mp3
+#EXTINF:-1,Radio_CRo_Jazz
+400 http://icecast1.play.cz:8000/crojazz32aac
+#EXTINF:-1,Cesky_rozhlas_3_-_Vltava
+400 http://amp.cesnet.cz:8000/cro3.ogg
+#EXTINF:-1,Radio_Diana
+200 http://westradio.cz/radio/8000/radio.mp3?1544998631
+#EXTINF:-1,Hitrádio_Orion_-_103.9_FM
+400 http://ice.abradio.cz:8000/orion128.mp3
+#EXTINF:-1,Kiss_Jizni_Cechy_-_97.7_FM
+400 http://icecast2.play.cz/kissjc64.mp3
+#EXTINF:-1,Hitradio_FM-_102.8_FM
+400 http://ice.abradio.cz:80/hitradiofm64.mp3
+#EXTINF:-1,Fajn_Radio_Agara
+400 http://ice.abradio.cz:80/fajnagara64.mp3
+#EXTINF:-1,Clubradio_cz
+http://ipip.clubradio.cz:7994
+#EXTINF:-1,Fajn_Radio_Hity-_96.0_FM
+400 http://ice.abradio.cz:80/fajnhity64.mp3
+#EXTINF:-1,Radio_Oldies-_103.7_FM
+400 http://ice.abradio.cz/oldiesradio128.mp3?
+#EXTINF:-1,COMEDY_CLUB_r@dio_DIANA
+200 http://westradio.cz/radio/8010/radio.mp3?1544999953
+#EXTINF:-1,Hitradio_80tka
+400 http://ice.abradio.cz:80/hit8064.mp3
+#EXTINF:-1,Frekvence_1_Romantika
+https://20423.live.streamtheworld.com/FREKVENCE1AAC.aac
+#EXTINF:-1,Radio_1-_91.9_FM
+400 http://icecast6.play.cz:80/radio1-128.mp3
+#EXTINF:-1,CRo_Ceske_Budejovice
+400 http://icecast1.play.cz/crocb32.mp3
+#EXTINF:-1,Hitrádio_Millenium
+400 http://ice.abradio.cz:80/hitmi64.mp3
+#EXTINF:-1,CRo_2_-_Praha_100.7_FM
+400 http://amp.cesnet.cz:8000/cro2-256.ogg
+#EXTINF:-1,COLOR_Music_Radio_-_90.7_FM
+400 http://icecast8.play.cz/color128.mp3
+#EXTINF:-1,Frekvence_1_Ceskoslovenska_Diskoteka
+200 https://25583.live.streamtheworld.com/FREKVENCE1AAC.aac
+#EXTINF:-1,Radio_Cas_Zlinsko
+400 http://icecast7.play.cz:80/casradiozlin128.mp3
+#EXTINF:-1,Radio_Best_of_Rock
+400 http://mp3stream4.abradio.cz/bestofrock128.mp3
+#EXTINF:-1,RockZone_105.9_FM
+400 http://icecast5.play.cz:8000/rockzone128.mp3
+#EXTINF:-1,Radio_Folk_-_Prague
+400 http://mp3stream2.abradio.cz:8000/folk320.mp3
+#EXTINF:-1,CRo_Hradec_Kralove
+400 http://icecast1.play.cz/crohk32.mp3
+#EXTINF:-1,Svobodné_Rádio
+http://87.98.130.255:8859
+#EXTINF:-1,Cesky_rozhlas_1_-_Radiozurnal_-_HQ
+400 http://amp.cesnet.cz:8000/cro1-256.ogg
+#EXTINF:-1,Radio_Humor
+400 http://mp3stream4.abradio.cz:8000/humor128.mp3
+#EXTINF:-1,Fajn_North_Music
+400 http://ice.abradio.cz:80/fajnnorth64.mp3
+#EXTINF:-1,Radio_Expres
+400 http://icecast5.play.cz:8000/expres128aac
+#EXTINF:-1,Radio_Bonton_-_Filmove_melodie
+400 https://ice.actve.net/web-rb-melodie
+#EXTINF:-1,Radio_Wave
+502 https://rozhlas.stream/wave_aac_128.aachttps://streaming3.locucionar.com/proxy/radiowave?mp=/stream
+#EXTINF:-1,Martin_Janek_CZ_HD
+302 http://stream.zenolive.com/b7ge104m1rquv
+#EXTINF:-1,Cesky_Impuls_981_AM
+400 https://icecast6.play.cz/cesky-impuls.mp3
+#EXTINF:-1,CRo_Radiozurnal
+400 http://icecast1.play.cz/cro164aac
+#EXTINF:-1,Cesky_rozhlas_2_-_Praha
+400 http://icecast5.play.cz:8000/cro2-32.mp3
+#EXTINF:-1,Expres_Radio
+400 http://icecast5.play.cz:80/expres64mp3
+#EXTINF:-1,Radio_Cas_Rock
+400 http://icecast6.play.cz/casrock128.mp3
+#EXTINF:-1,CRo_Olomouc
+400 http://icecast1.play.cz/crool32.mp3
+#EXTINF:-1,Evropa_2_Flashback
+400 http://ice.actve.net/web-e2-flashback
+#EXTINF:-1,Radio_City_93,7_FM
+400 http://ice.abradio.cz:8000/cityfm128.mp3
+#EXTINF:-1,Fajn_Radio_Black
+403 https://25583.live.streamtheworld.com/FAJN_RADIO_128.mp3
+#EXTINF:-1,Fajn_Radio_Life
+400 http://ice.abradio.cz:8000/fajnlife128.mp3
+#EXTINF:-1,Fajn_Radio_Hardcore
+400 http://ice.abradio.cz/fajn64.mp3
+#EXTINF:-1,CRo_Region_Stredocesky_kraj
+400 http://icecast1.play.cz/croregion32.mp3
+#EXTINF:-1,Rock_Radio_Sumava-95.2_FM
+400 http://ice.abradio.cz:80/sumava128.mp3
+#EXTINF:-1,Radio_CRo_D-dur
+400 http://amp.cesnet.cz:8000/cro-d-dur.ogg
+#EXTINF:-1,Signal_Radio-_105.7_FM
+400 http://icecast1.play.cz/signal192.mp3
+#EXTINF:-1,Helax_Radio
+400 http://ice.abradio.cz:80/helax128.mp3
+#EXTINF:-1,CRo_-_Radio_Praha
+400 http://icecast1.play.cz/cro7-32.mp3
+#EXTINF:-1,Hitradio_PopRock
+400 http://ice.abradio.cz:80/hitpoprock64.mp3
+#EXTINF:-1,Hitradio_Orion
+400 http://ice.abradio.cz:80/orion64.mp3
+#EXTINF:-1,Hitradio_Magic_Brno
+400 http://ice.abradio.cz/magicbrno64.mp3
+#EXTINF:-1,Hitradio_Orion_Valassko
+400 http://ice.abradio.cz:80/orionval64.mp3
+#EXTINF:-1,CRo_D-dur
+400 http://icecast5.play.cz/croddur-128.mp3
+#EXTINF:-1,Radio_Haná
+400 http://icecast8.play.cz/hana160.mp3
+#EXTINF:-1,Radio_Rubi_-_97.1_FM
+400 http://icecast8.play.cz/radiorubi128.mp3
+#EXTINF:-1,Kiss_Morava_101.1_FM
+400 http://icecast4.play.cz/kissmorava128.mp3
+#EXTINF:-1,Radio_Cas_Olomoucko-_101.3_FM
+400 http://icecast7.play.cz/casradio64.mp3
+#EXTINF:-1,CRo_Region_Vysocina
+400 http://icecast1.play.cz/crovysocina32.mp3
+#EXTINF:-1,Play.CZ
+400 http://icecast2.play.cz/xnostream.mp3
+#EXTINF:-1,CRo_Sever
+400 http://icecast1.play.cz/crosever32.mp3
+#EXTINF:-1,CRo_Radio_Junior_Maxi
+400 http://icecast5.play.cz/crojuniormaxi32.mp3
+#EXTINF:-1,CRo_D-dur_Prague
+400 http://icecast2.play.cz/croddur128aac
+#EXTINF:-1,CRo_Radio_Junior_Pisnicky
+400 http://icecast7.play.cz/crojuniormini32.mp3
+#EXTINF:-1,Radio_Hitradio_Orion_Valassko_Low
+400 http://ice.abradio.cz/orionval64.mp3
+#EXTINF:-1,CRo_Radio_Wave
+404 https://fmradiohub.in/play?url=http://amp.cesnet.cz:8000/cro-radio-wave.ogg
+#EXTINF:-1,rádio_Haná_Skyrock
+400 http://icecast8.play.cz/skyrock128.mp3
+#EXTINF:-1,Radio_Shadowbox
+400 http://ice3.abradio.cz/shadowbox128.mp3
+#EXTINF:-1,Radio_7_HQ
+400 http://icecast1.play.cz:80/radio7cz128.ogg
+#EXTINF:-1,Radio_CRo_Radio_Wave_HQ
+400 http://amp.cesnet.cz:8000/cro-radio-wave-256.ogg
+#EXTINF:-1,Plain_FM
+302 http://stream.zeno.fm/tdhfzftg8yzuv
+#EXTINF:-1,Radio_CRo_Radio_Wave
+400 http://amp.cesnet.cz:8000/cro-radio-wave.ogg
+#EXTINF:-1,Radio_Dixie
+400 http://icecast3.play.cz/radiodixie128.mp3
+#EXTINF:-1,Radio_Evropa_2
+200 https://25633.live.streamtheworld.com/EVROPA2AAC.aac
+#EXTINF:-1,ČRO_pohoda
+400 https://rozhlas.stream/pohoda_aac_128.aac
+#EXTINF:-1,Hitradio_Cerna_Hora
+400 http://ice.abradio.cz/cernahora64.mp3
+#EXTINF:-1,CRo_3_Vltava
+400 http://icecast7.play.cz/cro3-256.mp3
+#EXTINF:-1,Český_rozhlas_Radiožurnál
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/HITRADIO_CITY_PRAHA_128.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYxMjYxNTgxMiwiaXNzIjoidGlzcnYifQ.wq5QPU410fLt05sWgnPLfIw5ilAxsxgskpE7JX3Rj74
+#EXTINF:-1,Free_Rádio_107,0_FM
+400 https://ice.abradio.cz/citybrno128.mp3
+#EXTINF:-1,Hey
+400 http://icecast3.play.cz/hey-radio128.mp3
+#EXTINF:-1,Kiss_Proton_90_FM
+400 http://icecast1.play.cz/kissproton128.mp3
+#EXTINF:-1,BLUES_ROCK_RADIO
+https://mpc.mediacp.eu/stream/bluesrock
+#EXTINF:-1,CRo_Jazz
+400 http://icecast4.play.cz/crojazz256.mp3
+#EXTINF:-1,G6_radio
+https://mpc.mediacp.eu/stream/radiog6
+#EXTINF:-1,CRo_Regina
+400 http://icecast2.play.cz/croregina128.mp3
+#EXTINF:-1,Radio_Petrov
+400 http://icecast6.play.cz/petrov128.mp3
+#EXTINF:-1,CRo_Sever_Liberec
+400 http://icecast2.play.cz/croliberec128.mp3
+#EXTINF:-1,CRo_Region_Str_Cec
+400 http://icecast2.play.cz/croregion128.mp3
+#EXTINF:-1,CRo_Brno
+400 http://ice.abradio.cz:8000/dragon128.mp3
+#EXTINF:-1,Rádio_Retro
+200 https://stream.core-prod.us-west-2.tunenet.io/listen.stream?streamId=32375786&rti=dEZzGgYzfxg4dhE2AxFRSGgyQE5Rdid8WFcFHQASHBMUTxMkflYCFVQZJSkFE0pkDBIYDQcSWT4UHAgaGBwLEAQWWB1pGgFE%7e%7e%7e&render=json&qs=
+#EXTINF:-1,Rádio_Orlicko
+400 http://server.radioorlicko.cz/stream192.mp3
+#EXTINF:-1,CRo_Ces_Bud
+200 https://stream.core-prod.us-west-2.tunenet.io/listen.stream?streamId=9866550&rti=dEZzGgYzfxg4dhE2AxFRSGgyQE5Rdid8WFcFHQASHBMUTxMkflYCFVQZJSkFE0pkDBIYDQcSWT4UHAgaGBwLEAQWWB1pGgBO%7e%7e%7e&render=json&qs=
+#EXTINF:-1,Radio_Prague_International
+400 http://icecast2.play.cz/cro7-128.mp3
+#EXTINF:-1,Radio_Dyje
+400 http://icecast7.play.cz/dyje128.mp3
+#EXTINF:-1,Radio_Helax_93.7_FM
+400 http://ice.abradio.cz:8000/helax128.mp3
+#EXTINF:-1,CRo_Karlovy_Vary
+400 http://icecast2.play.cz/crokv128.mp3
+#EXTINF:-1,Hitrádio_FM_Crystal
+400 http://ice.abradio.cz/hitradiofm128.mp3
+#EXTINF:-1,Hlas_Prahy
+400 https://icecast9.play.cz/radiohlasprahy.mp3
+#EXTINF:-1,Radio_Blaník
+400 http://ice.abradio.cz:8000/blanikfm128.mp3
+#EXTINF:-1,CRo_Plus
+400 http://icecast1.play.cz/croplus32.mp3
+#EXTINF:-1,AB_Radio_Humor
+400 http://icecast1.play.cz/croplus32aac
+#EXTINF:-1,Srandy_Kopec_Radio
+http://sc.ipip.cz:7970/
+#EXTINF:-1,Rock_Radio_Southern_Bohemia
+400 http://ice.abradio.cz:8000/gold64.aac
+#EXTINF:-1,Radio_Cas_Ostravsko
+400 http://icecast7.play.cz/casradio128.mp3
+#EXTINF:-1,Blanik_CZ
+400 http://ice.abradio.cz:8000/blanikcz128.mp3
+#EXTINF:-1,Kiss_Jizni_Cechy
+400 http://icecast4.play.cz/kissjc128.mp3
+#EXTINF:-1,Cesky_Impuls
+400 http://ice.actve.net/fm-bonton-128?DIST=tradio&TGT=tradio&maxServers=2&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzMjAzNDE5MywiaXNzIjoidGlzcnYifQ.n8Dm3Z8M1hiw4WOiGzcxOVkqrOlQEaL5Xye3L6zbo
+#EXTINF:-1,CRo_Radio_Junior
+400 http://icecast8.play.cz/crojuniormaxi64.mp3
+#EXTINF:-1,Fajn_Radio_Hity
+400 http://ice.abradio.cz:8000/fajnhity128.mp3
+#EXTINF:-1,COOL_Rádio
+http://37.157.195.10:8956/
+#EXTINF:-1,Radio_Petrov_-_Folk_&_Country
+http://play.radiopetrov.com:8000/petrovFC
+#EXTINF:-1,Radio_Madonna_-_ABradio
+400 http://mp3stream4.abradio.cz/madonna128.mp3
+#EXTINF:-1,Fajn_radio_Black
+400 http://ice.abradio.cz:8000/fajnblack128.mp3
+#EXTINF:-1,Rock_radio_Prachen
+400 http://ice.abradio.cz:8000/prachen128.mp3
+#EXTINF:-1,radio_7
+400 http://icecast1.play.cz:8000/radio7cz32.mp3
+#EXTINF:-1,Rock_Max_Hard
+http://212.111.2.151:8000/rm_hard_256.mp3
+#EXTINF:-1,Rock_Max_Oldies
+http://212.111.2.151:8000/rm_old_256.mp3
+#EXTINF:-1,Fajn_radio_Hardcore
+400 http://ice.abradio.cz:8000/fajnhardcore128.mp3
+#EXTINF:-1,CRo_R_Junior_Pisnick
+http://pool.cdn.lagardere.cz/web-pg-pohadky
+#EXTINF:-1,Country_Radio_-_ABradio
+400 http://mp3stream4.abradio.cz/country64.mp3
+#EXTINF:-1,Český_rozhlas_Ostrava
+400 http://icecast1.play.cz/croov32.mp3
+#EXTINF:-1,Český_rozhlas_Hradec_Králové
+400 http://icecast4.play.cz/crohk64.mp3
+#EXTINF:-1,Hitrádio_Orion_Morava
+400 http://ice.abradio.cz/orionmorava128.mp3
+#EXTINF:-1,Český_rozhlas_Sever
+400 http://icecast6.play.cz/crosever64.mp3
+#EXTINF:-1,Asot_Radio_Cz
+http://37.157.195.10:7204/
+#EXTINF:-1,Český_rozhlas_Olomouc
+400 http://icecast1.play.cz/crool64.mp3
+#EXTINF:-1,Radio_Cas_Olomoucko
+400 http://icecast7.play.cz:8000/casradioolomouc128.mp3
+#EXTINF:-1,Dance_radio_-_Pure_Trance
+http://pool.cdn.lagardere.cz/web-dr-trance
+#EXTINF:-1,Rádio_Zet
+http://pool.cdn.lagardere.cz/fm-zet
+#EXTINF:-1,Český_rozhlas_Sever_–_Liberec
+400 http://icecast1.play.cz/croliberec32.mp3
+#EXTINF:-1,RADIO_ČESKÝ__JUKEBOX
+http://sc.ipip.cz:8032/
+#EXTINF:-1,Fajn_radio_Fresh
+400 https://rozhlas.stream/pohoda_mp3_256.mp3
+#EXTINF:-1,Radio_One_Retro
+http://217.75.92.14:8000/retro
+#EXTINF:-1,Radio_Folk_-_Abradio
+400 http://mp3stream3.abradio.cz/folk128.mp3
+#EXTINF:-1,CRo_Pardubice
+400 http://icecast1.play.cz/cropardubice64.mp3
+#EXTINF:-1,Dance_radio_-_House_Old_School
+http://pool.cdn.lagardere.cz/web-dr-house
+#EXTINF:-1,Radio_Petrov_-_Rock
+http://play.radiopetrov.com:8000/petrovR
+#EXTINF:-1,Český_rozhlas_Pardubice
+400 http://icecast1.play.cz/cropardubice32.mp3
+#EXTINF:-1,FREERAVE.CZ_-_FREETEKNO_RADIO
+http://8.38.78.173:8061/stream.mp3
+#EXTINF:-1,Radio_West,_80's_&_90's_hits!
+404 http://stream.zeno.fm/1suucummcc9uv
+#EXTINF:-1,Prague_Show_Radio
+http://212.96.160.160:7978/
+#EXTINF:-1,CRo_Radio_Sport
+400 http://icecast7.play.cz/crosport32aac
+#EXTINF:-1,Český_rozhlas_Plzeň,_studio_Karlovy_Vary
+400 http://icecast4.play.cz/crokv64.mp3
+#EXTINF:-1,Pigy.cz_-_Disko_Trysko
+http://pool.cdn.lagardere.cz/web-pg-disko
+#EXTINF:-1,Radio_Cimbalka
+400 http://icecast6.play.cz/radio-kromeriz128.mp3
+#EXTINF:-1,Rádio_Play
+http://falcon.shoutca.st:8100/radioplay
+#EXTINF:-1,Rádio_LFCZ
+http://bluford.torontocast.com:8008/stream
+#EXTINF:-1,CRo_Radio_Retro_Znovu89
+400 http://icecast7.play.cz/croretro32aac
+#EXTINF:-1,Trash_Radio
+http://142.4.202.125:8020/192mp3
+#EXTINF:-1,Radio_One_Rock
+http://217.75.92.14:8000/rrock
+#EXTINF:-1,Rádio_Grup
+http://sc.ipip.cz:8038/stream
+#EXTINF:-1,BoomRadio.cz
+http://sc.ipip.cz:8068/
+#EXTINF:-1,CRo_R_Prague
+400 http://ice.abradio.cz/nostalgie128.mp3
+#EXTINF:-1,Shake_One_Rádio
+http://173.192.207.51:8062/
+#EXTINF:-1,Icf_Praha_Radio
+http://80.87.214.50:8000/
+#EXTINF:-1,Rádio5
+http://31.31.77.171:8000/
+#EXTINF:-1,Radio_Rastafari_CZ
+http://stream.rastafari.cz:11000/rasta.mp3
+#EXTINF:-1,CRo_Region_Vysocin
+400 http://ice.abradio.cz:8000/fajnlife64.aac
+#EXTINF:-1,MixRadio.cz
+http://85.255.14.161:7777/
+#EXTINF:-1,Rádio_LiFe_ROCK
+http://stream.lfrock.eu:8549/stream
+#EXTINF:-1,ONE_RadioCZ
+http://193.150.13.140:9004/
+#EXTINF:-1,TLIG_Radio_Czech
+400 http://icecast7.play.cz/cro2-128.mp3
+#EXTINF:-1,Zedix_DJ
+http://5.189.134.150:8000/stream
+#EXTINF:-1,HalloRadio_Hultschin/Hlucin
+501 http://live.halloradiohultschin.cz:8000/halloradio.mp3
+#EXTINF:-1,Radio_Naparbe
+http://208.167.236.13:8075/stream
+#EXTINF:-1,WebRadio_Epigon
+400 http://ice3.abradio.cz/epigon128.mp3
+#EXTINF:-1,Dalmin_Rádio
+http://sc.ipip.cz:8062/
+#EXTINF:-1,EnergyFMcz
+http://srv.energyfm.cz:8888/radio-stream128.mp3
+#EXTINF:-1,Radio_Krajan
+https://usa6.fastcast4u.com/proxy/radiokrajan?mp=/1
+#EXTINF:-1,StreetCulture
+400 http://icecast2.play.cz:8000/streetradio.mp3
+#EXTINF:-1,Radio_Lovemusic
+http://solid55.streamupsolutions.com:32053/stream?type=http&ampnocache=1
+#EXTINF:-1,Radio_Curtis
+200 http://listen.shoutcast.com/manymanFM.m3u
+#EXTINF:-1,Rádio_One
+http://sc.ipip.cz:8052/stream
+#EXTINF:-1,Radio_Grup_studio_krnov
+https://stream.beatzone.cz/89.221.210.76/13494/1.mp3?1683678412552
+#EXTINF:-1,LFR
+http://sxct.cf/9692
+#EXTINF:-1,Radio_BEAT
+200 https://n05a-eu.rcs.revma.com/3d47nqvb938uv?rj-ttl=5&rj-tok=AAABiLPvjZUAzxRKWVAmHJ2Rvw
+#EXTINF:-1,Radio_Blanik
+400 https://icecast1.play.cz/impuls128.mp3
+#EXTINF:-1,Radiožurnál
+https:/http:/ozhlas.streamhttp:/adiozurnal_aac_128.aac
+#EXTINF:-1,Metal_Heart_Radio
+400 http://fr.radio-streamhosting.com:8000/metalheartradio128mp3
+#EXTINF:-1,Hitrádio_North_Music
+400 https://ice.abradio.cz/hitradiofm128.mp3
+#EXTINF:-1,Svobodný_vysílač_CS
+https:/http:/ozhlas.stream/dvojka_high.aac
+#EXTINF:-1,Helax
+400 https://ice.abradio.cz/helax128.mp3
+#EXTINF:-1,Hitrádio_City_93.7_FM
+https://20853.live.streamtheworld.com:443/HITRADIO_CITY_PRAHA_128.mp3
+#EXTINF:-1,Radio_Čas_Rock
+400 https://icecast6.play.cz/casrock128.mp3
+#EXTINF:-1,RADIO_BEST_OF_ROCK
+400 https://ice4.abradio.cz/bestofrock128.mp3
+#EXTINF:-1,Spin_Radio
+400 https://icecast4.play.cz/spin128.mp3
+#EXTINF:-1,Free_Radio
+400 https://icecast6.play.cz/freeradio64.mp3
+#EXTINF:-1,ABradio_Depeche_Mode
+400 https://ice4.abradio.cz/depeche128.mp3
+#EXTINF:-1,Ostravské_Radio_Čas
+400 https://icecast6.play.cz/casradio128.mp3
+#EXTINF:-1,Radio_HEY
+400 https://icecast3.play.cz/hey-radio128.mp3
+#EXTINF:-1,Radio_Oldies_Rock
+400 https://ice4.abradio.cz/oldiesrock128.mp3
+#EXTINF:-1,Signal_Radio
+400 https://icecast1.play.cz/signal128.mp3
+#EXTINF:-1,Český_rozhlas_Vltava
+https:/http:/ozhlas.stream/vltava_aac_128.aac
+#EXTINF:-1,Dance_Club_Radio
+400 https://ice4.abradio.cz/dance128.mp3
+#EXTINF:-1,Rocková_Zábava
+https://ice.abradio.czhttp:/ockzabava128.mp3
+#EXTINF:-1,Rádio_Pigy_Pohádky
+400 https://ice.actve.net/web-pg-pohadky
+#EXTINF:-1,Freerave.cz_-_Tekno_Radio
+http://164.68.122.137:8061/;
+#EXTINF:-1,Český_rozhlas_Region_-_Praha_a_střední_Čechy
+https:/http:/ozhlas.streamhttp:/egion_mp3_128.mp3
+#EXTINF:-1,Hip_Hop_Vibes_Radio
+400 https://ice4.abradio.cz/hiphopvibes128.mp3
+#EXTINF:-1,Radio_Blanik_CZ
+400 https://ice.abradio.cz/blanikcz128.mp3
+#EXTINF:-1,Rádio_G6_/_Gipsy_Radio
+404 https://mpc1.mediacp.eu/streamhttp:/adiog6
+#EXTINF:-1,Rádio_Pigy_-_Pisnicky
+400 https://ice.actve.net/web-pg-pisnicky
+#EXTINF:-1,Comedy_Club_R@dio_Diana
+https://westradio.czhttp:/adio/8010http:/adio.mp3?1607941293
+#EXTINF:-1,Rádio_Pigy_-_Disko_Trysko
+400 https://ice.actve.net/web-pg-disko
+#EXTINF:-1,Radio_Click_&amp;_Country
+200 https://www.clickandcountry.com/#rozhlas
+#EXTINF:-1,Rádio_4U
+404 https://mpc1.mediacp.eu/streamhttp:/adio4u/stream
+#EXTINF:-1,Radio_66
+https://ice3.abradio.czhttp:/oute128.mp3?type=mp3
+#EXTINF:-1,Český_rozhlas_sport
+https:/http:/ozhlas.stream/sport_aac_128.aac
+#EXTINF:-1,Radio_Relax
+https://icecast7.play.czhttp:/elax128.mp3
+#EXTINF:-1,Hitrádio_North_Music_-_Osmdesátka
+400 https://ice.abradio.cz/hit80128.mp3
+#EXTINF:-1,Hitrádio_Zlín
+https://ice.abradio.czhttp:/adiozlin128.mp3
+#EXTINF:-1,Radio_Junior
+https:/http:/ozhlas.stream/juniormaxi_mp3_128.mp3
+#EXTINF:-1,Radio_Chillout
+400 https://ice4.abradio.cz/chillout128.mp3
+#EXTINF:-1,Český_rozhlas_Pohoda
+https:/http:/ozhlas.stream/pohoda_aac_128.aac
+#EXTINF:-1,Evropa_2_-_Československé_hity
+400 https://ice.actve.net/web-e2-csweb
+#EXTINF:-1,Radio_Praha_International
+400 https://icecast1.play.cz/cro7-32.mp3
+#EXTINF:-1,Radio_Pelik
+404 https://mpc1.mediacp.eu/streamhttp:/adiopelik
+#EXTINF:-1,Evropa_2_-_Top_40
+400 https://ice.actve.net/web-e2-top40
+#EXTINF:-1,ALTERNATIVE_TIMES_RADIO
+400 https://ice3.abradio.cz/alternative128.mp3
+#EXTINF:-1,Radio_Life_TRANCE_FM
+200 http://cast1.asurahosting.com:7709/listen.mp3
+#EXTINF:-1,Hitrádio_North_Music_-_Zóna_lásky
+400 https://ice.abradio.cz/hitzl128.mp3
+#EXTINF:-1,E-RÁDIO_JAZZINEC
+400 https://ice3.abradio.cz/jazzinec128.mp3
+#EXTINF:-1,Evropa_2_-_Flashback
+400 https://ice.actve.net/web-e2-flashback
+#EXTINF:-1,Rádio_Hády
+400 http://46.36.36.149:8000/live
+#EXTINF:-1,Rádio_Dixie
+https://icecast3.play.czhttp:/adiodixie128.mp3
+#EXTINF:-1,Metal_Heart_Radio_-_Soft_Channel
+400 https://cz.radio-streamhosting.com:8443/metalheartradio128mp3
+#EXTINF:-1,Busradio
+200 http://mpc1.mediacp.eu:8064/;stream.nsv
+#EXTINF:-1,Hitrádio_North_Music_-_Milénium
+400 https://ice.abradio.cz/hitmi128.mp3
+#EXTINF:-1,Funkstar_Radio
+200 https://funkstar.radioca.st/stream?ver=153586
+#EXTINF:-1,Chat_Rádio
+https:/http:/adio.chatujme.cz:8000/chatradio
+#EXTINF:-1,Hitrádio_North_Music_-_PopRock
+400 https://ice.abradio.cz/hitpoprock128.mp3
+#EXTINF:-1,Be_iN_Radio_Network_-_Listen_To_Rock
+405 https://stream-150.zeno.fm/4h8asfrwetzuv?zs=raqPWKHoQ1qeF0l_2WboPQ
+#EXTINF:-1,Radio_Svit
+http://stream1.goq.cz:8001http:/adio-svit-zlin-192k
+#EXTINF:-1,Relaxace_-_Zpěv_ptáků
+https://ice6.abradio.czhttp:/elax-morning-birds128.mp3
+#EXTINF:-1,Czechoslovak_Metal_Channel
+400 http://fr.radio-streamhosting.com:8000/metalheartradioczsk128mp3
+#EXTINF:-1,Radio_Blaník_Morava_a_Slezsko
+400 https://ice.abradio.cz/blanikmorava128.mp3
+#EXTINF:-1,666_FM
+400 https://cz.radio-streamhosting.com:8443/metalheartradio666fm128mp3
+#EXTINF:-1,Rádio_MB
+https://ice3.abradio.czhttp:/adiomb128.mp3
+#EXTINF:-1,Hitrádio_City__Milénium
+400 https://ice2.radia.cz/hitmi128.aac
+#EXTINF:-1,Radio_Jih_–_Cimbálka
+400 https://icecast6.play.cz/jihcimbalka128.mp3
+#EXTINF:-1,Evropa_2_-_Movin
+400 https://ice.actve.net/web-e2-movin
+#EXTINF:-1,Netro_Life_Radio
+400 https://icecast9.play.cz/netro-life-radio.mp3
+#EXTINF:-1,Evropa_2_-_Hot
+400 https://ice.actve.net/web-e2-hot
+#EXTINF:-1,Radio_Haná_-_SkyRock
+400 https://icecast8.play.cz/skyrock128.mp3
+#EXTINF:-1,DAB_Plus_Top_40
+400 http://icecast6.play.cz/dabplus-top40.mp3
+#EXTINF:-1,Relaxace_-_Jedoucí_Vlak
+https://ice6.abradio.czhttp:/elax-train128.mp3
+#EXTINF:-1,Radio_Bohemia
+400 https://stream-radiobohemia.cz:8443/stream
+#EXTINF:-1,Radio_Merkur
+400 https://ice4.abradio.cz/merkur-casino128.mp3
+#EXTINF:-1,str8radio
+401 http://titan.shoutca.st:8176/;stream.nsv
+#EXTINF:-1,COOP_TIP_Radio
+400 https://ice4.abradio.cz/coop128.mp3
+#EXTINF:-1,Fresh_radio
+https://icecast.beatzone.czhttp:/adio/8000/128.mp3
+#EXTINF:-1,Freedom_Radio
+400 https://stream.radiofreedom.cz/airtime_128
+#EXTINF:-1,Undergroundradio
+400 http://icecast2.play.cz/Underground128.mp3
+#EXTINF:-1,Radio_Kromeríz
+http://icecast6.play.czhttp:/adio-kromeriz128.mp3
+#EXTINF:-1,Relaxace_-_Letní_bourka
+https://ice6.abradio.czhttp:/elax-thunder-rain128.mp3
+#EXTINF:-1,Bikers_Radio_Doupě
+400 http://icecast7.play.cz/bikersradiodoupe128.mp3
+#EXTINF:-1,Rádio_Expert
+400 http://mp3stream3.abradio.cz/expert-128.mp3
+#EXTINF:-1,Retro_Club_
+https://westradio.czhttp:/adio/8000http:/adio.mp3?1607941728
+#EXTINF:-1,Rádio_Jihlava
+https://icecast3.play.czhttp:/adiojihlava128.mp3
+#EXTINF:-1,Rádio_Pelhřimov
+200 https://quincy.torontocast.com:1715/stream
+#EXTINF:-1,Hitradio_Oldies
+200 https://hitradiooldies.stream.laut.fm/hitradiooldies?t302=2023-09-19_12-39-04&uuid=03bdceb5-f6fe-4a73-9794-d16d87fd0288
+#EXTINF:-1,World_Rádio
+200 https://worldradio100.radioca.st/stream
+#EXTINF:-1,Fajn_Party
+403 https://25583.live.streamtheworld.com:443/FAJN_RADIO.aac
+#EXTINF:-1,Rádio_Cyp
+http:/http:/adio.radiocyp.cz:8000/;stream.nsv
+#EXTINF:-1,Tropic_Vibes_Radio
+200 https://tropicvibesradio.stream.laut.fm/tropicvibesradio?t302=2023-04-25_20-32-02&uuid=cc4bb466-0194-4157-a4ba-4213e8580ce4
+#EXTINF:-1,bassbase._fm
+200 https://bass-base.stream.laut.fm/bass-base?t302=2023-04-25_20-31-52&uuid=a091da69-e984-40f9-9f73-6b14a30f5bc9
+#EXTINF:-1,Relaxace_-_More
+https://ice6.abradio.czhttp:/elax-sea128.mp3
+#EXTINF:-1,Nekonečný_Šum
+200 https://evcast.mediacp.eu:1925/stream
+#EXTINF:-1,Atma_FM_-_Channel_1
+400 http://144.91.73.167:7778/channel1-128k
+#EXTINF:-1,WebRádio_Epigon
+400 https://ice3.abradio.cz/epigon128.mp3
+#EXTINF:-1,FRED_FILM_RADIO
+https://s10.webradio-hosting.com/proxy/fredradiocz/stream/;
+#EXTINF:-1,Rádio_Benešov_City
+400 https://ice6.abradio.cz/benesov128.mp3
+#EXTINF:-1,Rádio_Ponte_Records
+400 https://ice3.abradio.cz/ponterec128.mp3
+#EXTINF:-1,Rádio_Trojka
+http://12901.cloudrad.io:9306/live
+#EXTINF:-1,Radio_Applaus
+400 http://mp3stream3.abradio.cz:8000/applaus64.mp3
+#EXTINF:-1,Rádio_Muflon
+405 https://stream-150.zeno.fm/k2t743bx1f9uv?zs=3AxFPwG1R96uCtVgBuViLw
+#EXTINF:-1,České_rádio_pasov
+200 https://ceske-radio-pasov.stream.laut.fm/ceske-radio-pasov?t302=2023-04-25_20-24-48&uuid=54d51ca1-631e-42ce-9d62-0f157b69da4b
+#EXTINF:-1,Kostka_Rádio
+400 https://ice6.abradio.cz/kostka128.mp3
+#EXTINF:-1,Rádio_Tloskov
+400 https://ice3.abradio.cz/tloskov128.mp3
+#EXTINF:-1,Dance_Club_
+https://westradio.czhttp:/adio/8020http:/adio.mp3
+#EXTINF:-1,Radio_Alexandr
+405 https://stream-150.zeno.fm/6gdrswywm18uv?zs=VTHHljOtQqiirNvguDDGSg
+#EXTINF:-1,Max_Radio_Online
+400 http://ice5.abradio.cz:8000/maxradio128.mp3
+#EXTINF:-1,Relaxace_-_Ohen_v_krbu
+https://ice6.abradio.czhttp:/elax-fire128.mp3
+#EXTINF:-1,The_Roses_Radio
+302 https://stream-052.zeno.fm/qzka18vpkoztv?zs=pdvtAr3CTsukbIWg3OBztA
+#EXTINF:-1,Atma_FM_-_Channel_2
+400 http://144.91.73.167:7778/channel2-128k
+#EXTINF:-1,Rádio_Vratislavice
+400 https://ice2.abradio.cz/vratislavice64.aac
+#EXTINF:-1,Rock_rádio_–_Alternative_Rock
+400 https://ice2.radia.cz/znamkapunku128.aac
+#EXTINF:-1,Cherry80
+http://sc.ipip.cz:8062/;stream
+#EXTINF:-1,Radio_CABLE
+http://89.221.210.76:7994/;stream.nsv
+#EXTINF:-1,Radio_VAMBI
+405 https://stream-150.zeno.fm/msns22zabxhvv?zs=GZxmSmcUQTq13OGTOdZevg
+#EXTINF:-1,Rádio_O_106
+https://listen.radioking.comhttp:/adio/442799/stream/497147
+#EXTINF:-1,Rádio_Exkluzive
+http://mpc1.mediacp.eu:8034/;type=mp3
+#EXTINF:-1,Rádio_Kašpar
+400 https://ice6.abradio.cz/kasparlive128.mp3
+#EXTINF:-1,Nekonečný_Šum_-_Pop_Hits
+200 https://evcast.mediacp.eu:1155/stream
+#EXTINF:-1,hyperpop.fm
+200 https://hyperpop.stream.laut.fm/hyperpop?t302=2023-04-25_20-35-08&uuid=cec79d2c-19ec-4b06-8795-c403107289c8
+#EXTINF:-1,Nekonečný_Šum_-_Hits
+200 https://evcast.mediacp.eu:1455/stream
+#EXTINF:-1,Yoo-rock
+http://89.221.210.76:7114/;
+#EXTINF:-1,DJ_Jerommeke
+502 https://server1.hostingmicherro.nl:2020/stream/8000
+#EXTINF:-1,RádioGrup_Studio_Krnov
+https://stream.beatzone.cz/89.221.210.76/13494/1.mp3
+#EXTINF:-1,Nekonečný_Šum_-_Dance_Hits
+200 https://evcast.mediacp.eu:1895/stream
+#EXTINF:-1,Rock_rádio_–_Hard_and_Heavy
+400 https://ice2.radia.cz/metalomanie128.aac
+#EXTINF:-1,Rádio_Atomium
+405 https://stream-150.zeno.fm/eojbszgepl6tv?zs=depCECk3RtO2n02kmStlzw
+#EXTINF:-1,Vatican_News_-_Čeština__(Czech)
+https:/http:/adio.vaticannews.va/stream-cs
+#EXTINF:-1,BEZVA_rádio
+405 https://stream-152.zeno.fm/1g1yk9u8pxhvv?zs=DX6KsKp9SP-Cs-fqBGrZVg
+#EXTINF:-1,JuKej_Rádio
+http://cast3.my-control-panel.com:7135/stream
+#EXTINF:-1,Radio_Dychovka
+200 https://epanel.mediacp.eu:7661/stream
+#EXTINF:-1,Signál_Rádio_Brno
+400 http://icecast6.play.cz/signal-brno128.mp3
+#EXTINF:-1,RADIO1
+http://icecast2.play.czhttp:/adio1-192.mp3
+#EXTINF:-1,Rádio_Beat_(128_AAC)
+400 https://icecast2.play.cz/beat128aac
+#EXTINF:-1,Expresradio
+400 http://icecast5.play.cz:8000/expres128mp3
+#EXTINF:-1,Rock_zábava
+http://mp3stream4.abradio.czhttp:/ockzabava128.mp3
+#EXTINF:-1,Rádio_Junior
+400 http://amp.cesnet.cz:8000/cro-radio-junior-256.ogg
+#EXTINF:-1,ČRo_Wave
+https:/http:/ozhlas.stream/wave_mp3_256.mp3
+#EXTINF:-1,PlainrockFM_-_Phonk
+https:/http:/adio.plainrock127.xyz/listen/phonk/128.mp3
+#EXTINF:-1,Radio_Depeche_Mode
+400 http://mp3stream4.abradio.cz/depeche128.mp3
+#EXTINF:-1,Express_FM
+400 http://icecast8.play.cz/expres128mp3
+#EXTINF:-1,Rock_rádio_–_CZ_Rock
+https://ice2.radia.czhttp:/ockzabava128.aac
+#EXTINF:-1,Frekvence_1_-_Youradio_Československé_hity
+400 http://ice.actve.net/web-e2-csweb
+#EXTINF:-1,Hitrádio_City_93,7_FM
+http://20853.live.streamtheworld.com/HITRADIO_CITY_PRAHA_128.mp3
+#EXTINF:-1,Pigy.cz_–_Disko_Trysko
+400 http://ice.actve.net/web-pg-disko
+#EXTINF:-1,Radio_Krokodyl
+400 http://icecast-u2.play.cz:8000/krokodyl128.mp3
+#EXTINF:-1,Rock_Rádio_Šumava
+400 http://ice.abradio.cz/sumava128.mp3
+#EXTINF:-1,Rádio_Dráťák
+400 http://dratak.cz:8000/dratak
+#EXTINF:-1,ČRO_Jazz_256
+https:/http:/ozhlas.stream/jazz_mp3_256.mp3
+#EXTINF:-1,Fenix_Radio
+https://maggie.torontocast.com:8006/stream
+#EXTINF:-1,Kiss_Publikum
+400 http://icecast1.play.cz:8000/kisspublikum128aac
+#EXTINF:-1,DWG_Radio_Český
+200 https://server25530.streamplus.de/;stream.mp3
+#EXTINF:-1,Kiss_Delta
+400 http://icecast1.play.cz:8000/kissdelta192.mp3
+#EXTINF:-1,Rádio_7_32kb
+http://icecast1.play.cz:8000http:/adio7cz32.mp3
+#EXTINF:-1,Frekvence_1_-_Youradio_Legendy
+400 http://ice.actve.net/web-f1-legendy
+#EXTINF:-1,Radio_Ostravan
+http://icecast9.play.czhttp:/adio-ostravan-256.mp3
+#EXTINF:-1,Kiss_98_FM
+400 http://icecast2.play.cz:8000/kiss128aac
+#EXTINF:-1,Frekvence_1_-_Youradio_Osmdesátky
+400 http://ice.actve.net/web-80
+#EXTINF:-1,Kiss_Hady
+400 http://icecast8.play.cz/kisshady128.mp3
+#EXTINF:-1,RádioGrup_Česká_Muzika
+http://sc.ipip.cz:8078/;stream
+#EXTINF:-1,ČRo_Radio_Junior_Pisnicky
+400 http://icecast7.play.cz:8000/crojuniormini32.mp3
+#EXTINF:-1,Radio_Cesky_Jukebox
+http://sc.ipip.cz:8046/;
+#EXTINF:-1,Rádio_Diana_–_Retro_Club
+https://westradio.czhttp:/adio/8000http:/adio.mp3
+#EXTINF:-1,ROCK_MAX_Radio
+https://ice.abradio.czhttp:/ockmax128.mp3
+#EXTINF:-1,Clubradio.cz
+400 https://stream.appradiofm.com/stream?url=http://icecast1.play.cz/xnostream.mp3
+#EXTINF:-1,Cesky_rozhlas_Vltava_Czech_Radio_3_Vltava_105.0_FM_Prague_
+200 https://generationfm-underground.ice.infomaniak.ch/generationfm-underground-high.mp3
+#EXTINF:-1,Rádio_Rock_Morava
+400 https://stream.appradiofm.com/stream?url=http://ice.abradio.cz/rockmax128.mp3
+#EXTINF:-1,Radio_Pohadka
+400 https://stream.appradiofm.com/stream?url=http://ice.abradio.cz/pohadka128.mp3
+#EXTINF:-1,Frekvence_1_F1_102.5_FM_Praha_
+400 http://ice.actve.net/fm-frekvence1-aac
+#EXTINF:-1,Frekvence_1_Trampska_Osada
+400 https://stream.appradiofm.com/stream?url=http://ice.actve.net/fm-frekvence1-128
+#EXTINF:-1,Radio_Černá_Hora_-_87.6-105.3_MHz_FM,_Hradec_Králové,_Czech_Republic_
+200 https://27863.live.streamtheworld.com/HITRADIO_CERNAHORA
+#EXTINF:-1,Radio_City_Zona_lasky-_93.7_FM
+400 https://stream.appradiofm.com/stream?url=http://ice.abradio.cz/cityfm128.mp3
+#EXTINF:-1,RockMax_Radio
+400 https://ice.abradio.cz/rockmax128.mp3?
+#EXTINF:-1,CRo_Brno_ČRo_Brno_106.5_FM,_Brno,_
+400 https://rozhlas.stream/brno_aac_64.aac?
+#EXTINF:-1,Cesky_rozhlas_Radiozurnal_Cesky_Rozhlas_1_Radio_Zurnal_106.2_FM_Brno_
+400 https://stream.appradiofm.com/stream?url=http://icecast6.play.cz/casrock128.mp3
+#EXTINF:-1,Evropa_2_-_Hot_-_Prague,_Czech_Republic_
+200 https://27753.live.streamtheworld.com/EVROPA2AAC.aac?tdsdk=js-2.9&swm=false&lat=37.8&long=-97.8&pname=TDSdk&pversion=2.9&banners=none&gdpr=1&gdpr_consent=CQG8l0AQG8l0AAHABBENBQFgAAAAAEPgAAAAAAATUgQgAVAAuABwAEAAMgAaABEACYAFUALgAYgA_ACEgEQARIAjgBlgDNgHcAd4A_QCDgEWAJKAbQA6gCbQFSAKyAWoAtwBeYDJAGpgTUAA.YAAACHwAAAAA&burst-time=15&sbmid=c8bd3286-a24f-488b-81ba-80cd9bbdd72d
+#EXTINF:-1,Evropa_2_88.2_FM_Praha_
+200 https://27793.live.streamtheworld.com/FREKVENCE1AAC
+#EXTINF:-1,Frekvence_1_-_102.5_MHz_FM,_Prague,_Czech_Republic_
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/FREKVENCE1AAC.aac?dist=onlineradiobox
+#EXTINF:-1,Radio_Blaník.cz
+400 https://stream.appradiofm.com/stream?url=http://ice.abradio.cz/blanikcz128.mp3
+#EXTINF:-1,Rádio_Jihlava_-_101.1_MHz_FM,_Jihlava,_Czech_Republic_
+400 https://icecast2.play.cz/Clubradio.mp3
+#EXTINF:-1,Dance_Radio_-_89.0-102.9_MHz_FM,_Prague,_Czech_Republic_
+302 https://playerservices.streamtheworld.com/api/livestream-redirect/DANCEAAC.aac?dist=onlineradiobox
+#EXTINF:-1,Radio_One
+400 http://icecast2.play.cz:80/radio1.mp3
+#EXTINF:-1,Radio_7
+400 https://stream.appradiofm.com/stream?url=http://icecast1.play.cz/radio7cz128.ogg
+#EXTINF:-1,Slay_Radio
+http://relay1.slayradio.org:8000
+#EXTINF:-1,Radio_Zlin_Na_pohodu
+http://212.111.2.151:8000/radiozlin_128.mp3
+#EXTINF:-1,Radio_Spin
+_FM-_96.2_FM
+400 https://stream.appradiofm.com/stream?url=http://icecast7.play.cz/casradio64.mp3
+#EXTINF:-1,Pinguin_Radio
+http://praac.pinguinradio.com
+#EXTINF:-1,Radio_Hitradio_Orion_High
+400 https://stream.appradiofm.com/stream?url=http://ice.abradio.cz/orion128.mp3
+#EXTINF:-1,Hitradio_Faktor
+400 http://ice.abradio.cz/faktor128.mp3
+#EXTINF:-1,Hitradio_Dragon
+400 http://ice.abradio.cz:80/dragon64.mp3
+#EXTINF:-1,CRo_Sever_-_HQ
+400 https://stream.appradiofm.com/stream?url=http://icecast2.play.cz/crosever128.mp3
+#EXTINF:-1,CRo_Ostrava
+400 https://stream.appradiofm.com/stream?url=http://icecast1.play.cz/cro7-32.mp3
+#EXTINF:-1,CRo_Radio_Junior_Pisnicky_-_HQ
+404 https://fmradiohub.in/play?url=https://stream.appradiofm.com/stream?url=http://icecast7.play.cz/crojuniormini128.mp3
+#EXTINF:-1,Radio_Kiss_98FM
+200 https://n09.rcs.revma.com/asn0cmvb938uv
+#EXTINF:-1,Country_Radio-_106.2_FM
+400 http://icecast5.play.cz:80/expres128aac
+#EXTINF:-1,CRo_Dvojka_HQ-_100.7_FM
+400 https://stream.appradiofm.com/stream?url=http://icecast2.play.cz/cro2-128aac
+#EXTINF:-1,Fajn_Radio-_97.2_FM
+400 https://stream.appradiofm.com/stream?url=http://ice.abradio.cz/fajn128.mp3
+#EXTINF:-1,Radio_Jih_-_Cimbalka
+400 https://stream.appradiofm.com/stream?url=http://icecast8.play.cz/skyrock128.mp3
+#EXTINF:-1,Classic_Praha_-_98.7_FM
+400 https://stream.appradiofm.com/stream?url=http://icecast8.play.cz/classic128.mp3
+#EXTINF:-1,Frekvence_1_Osmdesátky
+400 https://icecast9.play.cz/radio-xaver.mp3
+#EXTINF:-1,jasradio_1
+200 http://strm112.1.fm/ajazz_mobile_mp3
+#EXTINF:-1,Rádio_Zelená_Hora_
+400 http://ice3.abradio.cz:8000/zelenahora128.mp3
+#EXTINF:-1,Fresh_radio_Ostrava_103.6_FM
+200 https://icecast.beatzone.cz/radio/8000/128.mp3
+#EXTINF:-1,Hitradio_City_93.7._FM
+200 https://23613.live.streamtheworld.com/HITRADIO_CITY_PRAHA.aac?gdpr=1&gdpr_consent=CQSe30AQSe30AAHABBENBtFgAAAAAEPgAAAAAAATUgQAAVAAuABwAEAAKgAZAA0ACYAFUALgAYgA_ACEgEQARIAjgBlwDuAO8AfoBBwCLAElANoAdQBNoCpAFZALUAW4AvMBkgDUwJqAAAAA.YAAACHwAAAAA
+#EXTINF:-1,Rock_Radio_Morava
+400 https://ice.radia.cz/rockradiomorava128.mp3
+#EXTINF:-1,Radio_Energic
+400 https://icecast9.play.cz/energic.mp3
+#EXTINF:-1,Rádio_Blaník_Oldies
+400 https://ice2.radia.cz/oldiesradio128.aac
+#EXTINF:-1,Rádio_Fenix_FM
+502 https://live.phoenixfm.cz/radio.mp3
+#EXTINF:-1,Hitrádio_90tka
+403 https://27863.live.streamtheworld.com/HITRADIO_FM.aac?gdpr=1&gdpr_consent=CP6_8UAP6_8UAAHABBENAqEgAAAAAAAAAAAAAAAAAAAA.YAAAAAAAAAAA
+#EXTINF:-1,Rádio_G6
+200 https://mpc1.mediacp.eu/stream/radiog6
+#EXTINF:-1,Český_rozhlas_Střední_Čechy
+400 https://rozhlas.stream/region.mp3
+#EXTINF:-1,Radio_Music_Society_71_-_Disco
+200 https://mars.streamerr.co/disco/stream\t
