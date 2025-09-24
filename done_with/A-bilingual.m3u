@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1,MYXX_FM_(MIX_FM_Dallas)
-http://e13140.cloudrad.io:10934/live?_=0.7760671352605815
-#EXTINF:-1,Capital_FM_Cymru
-401 http://media-ice.musicradio.com/CapitalCymru
-#EXTINF:-1,KUAA-LP_99.9_FM_Salt_Lake_City,_UT
-400 http://stream.xmission.com/kuaa
-#EXTINF:-1,WDAV_HD-2_Concierto
-400 https://audio-mp3.ibiblio.org/concierto

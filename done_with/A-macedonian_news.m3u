@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1,ERT_-_102_FM
-https:/http:/adiostreaming.ert.gr/ert-102fm
-#EXTINF:-1,City_Radio_Macedonia
-200 http://176.9.117.123:9998/;stream/1
-#EXTINF:-1,Life_Radio_89.1_Macedonia
-200 http://liferadio.ddns.net:8000/;
-#EXTINF:-1,University_Radio_UGD_FM
-400 http://ugdfm-stream.ugd.edu.mk:8000/stream

@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1,Vibe_FM_(Guadalajara)_-_107.5_FM_-_XHVOZ-FM_-_Grupo_Audiorama_Comunicaciones_-_Guadalajara,_JC
-200 https://ss1.audiorama.com.mx:6574/vibefm
-#EXTINF:-1,DANCEableRADIO
-200 http://176.31.118.194:19580/;
-#EXTINF:-1,DANCEable_Radio
-200 http://176.31.244.83:35944/;

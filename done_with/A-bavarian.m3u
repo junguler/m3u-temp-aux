@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1,Alpin_FM
-200 https://s16.myradiostream.com/:6390/stream/3/listen.mp3
-#EXTINF:-1,Bavarian_Radio_Symphony_Orchestra_-_0_-_The_United_Arab_Emirates_-_classical
-302 https://drive.uber.radio/uber/crbavarianradioorchestra/icecast.audio
-#EXTINF:-1,C.R._-_Bavarian_Radio_Symphony_Orchestra_-_0_-_The_United_Arab_Emirates_-_classical
-200 http://drive.uber.radio/uber/crbavarianradioorchestra/icecast.audio

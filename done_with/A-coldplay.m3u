@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1,Virgin_Radio_Music_Star_Coldplay
-200 https://icy.unitedradio.it/ColdPlay.mp3
-#EXTINF:-1,92.3_The_Fox
-302 https://playerservices.streamtheworld.com/api/livestream-redirect/KOFXFMAAC.aac?dist=onlineradiobox
-#EXTINF:-1,Australian_Digital_Radio_Network_-_Coldplay_(MP3)_-_128_-_Australia_-_coldplay
-302 https://streaming.exclusive.radio/er/coldplay/icecast.audio

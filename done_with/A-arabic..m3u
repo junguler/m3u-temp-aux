@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1,Arabica_TV_-_1152_-_Lebanon_-_music
-200 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-#EXTINF:-1,BBC_Arabic__-_56_-_The_United_Kingdom_Of_Great_Britain_And_Northern_Ireland_-_news
-400 https://stream.live.vc.bbcmedia.co.uk/bbc_arabic_radio
-#EXTINF:-1,BBC_Arabic_Radio_-_101_-_The_United_Kingdom_Of_Great_Britain_And_Northern_Ireland_-_arabic_-_news_-_talk
-200 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_arabic_radio.m3u8
-#EXTINF:-1,Radio_Caprice_-_Arabic_Pop_-_320_-_The_Russian_Federation_-_arabic_-_pop_-_radcap_-_radio_caprice
-200 http://79.120.39.202:8000/arabicpop

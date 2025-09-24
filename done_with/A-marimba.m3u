@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1,Radio_México_Internacional
-200 https://s2.mexside.net:7017/;
-#EXTINF:-1,Radio_IMER
-200 https://s2.mexside.net/8050/stream
-#EXTINF:-1,Radio_Zoque
-https://freepi.host:9100/stream
-#EXTINF:-1,Radio_IMER_(Comitán)_-_107.9_FM_/_540_AM_-_XHEMIT-FM_/_XEMIT-AM_-_IMER_-_Comitán,_Chiapas
-200 https://s2.mexside.net/8050http:/adioimer
