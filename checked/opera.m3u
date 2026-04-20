@@ -18,7 +18,7 @@ https://allzic47.ice.infomaniak.ch/allzic47.mp3
 #EXTINF:-1,Adagio Radio
 https://stream.tunerplay.com/listen/adagioradio/adagioradio.mp3
 #EXTINF:-1,RADIO CLASIC OPERA
-https://radioclasic.ro:8686/stream
+https://live.radioclasic.com/listen/radio_clasic_opera/live.mp3
 #EXTINF:-1,Classic
 https://goldenwest.leanstream.co/goldenwest/CKCLFM.stream/playlist.m3u8
 #EXTINF:-1,Allzic Radio Classic
@@ -41,8 +41,6 @@ https://streams.calmradio.com:1128/stream
 https://wcri.streamguys1.com/live-mp3
 #EXTINF:-1,Yimago Classical (Classic Composers Radio)
 https://strw3.openstream.co/868?aw_0_1st.collectionid%3D3662%26stationId%3D3662%26publisherId%3D892%26k%3D1766073230
-#EXTINF:-1,Classical WETA VivaLaVoce
-https://15313.live.streamtheworld.com/WETAVLV.mp3?dist=onlineradiobox
 #EXTINF:-1,Classicland
 https://moondigitaledge.radyotvonline.net/classicland/playlist.m3u8
 #EXTINF:-1,RTÉ Lyric FM
@@ -95,8 +93,6 @@ http://strm112.1.fm/classical_mobile_mp3
 http://f141.rndfnk.com/ard/br/brklassik/live/mp3/128/stream.mp3?cid=01FBPVP3KY4W2XZ9KV8N032855&sid=371asNWarR9XQ13olQoLUXSv2jm&token=BxLPO1JS6DpQZNDM5hgZoAVtMIg2vQJOZpP4z63GdpI&tvf=Wwljc-VtghhmMTQxLnJuZGZuay5jb20
 #EXTINF:-1,Q2 Music - WQXR-HD2
 https://q2stream.wqxr.org/q2-tunein.aac
-#EXTINF:-1,4MBS Classic FM
-http://s9.viastreaming.net:9620/
 #EXTINF:-1,Classic 107 - CFEQ
 http://goldenwest.leanstream.co/CKCLFM-MP3
 #EXTINF:-1,IMER - Opus 94.5 FM - XHIMER
@@ -109,8 +105,6 @@ http://listen.livestreamingservice.com/181-classical_128k.mp3
 http://allclassical-ice.streamguys.com:80/ac96k
 #EXTINF:-1,WSMR Classical - WUSF-HD2
 https://wusf.streamguys1.com/wsmr-web
-#EXTINF:-1,VivaLaVoce - WETA-HD2
-http://26113.live.streamtheworld.com/WETAVLV.mp3
 #EXTINF:-1,Yimago Radio - Classic Composers Radio
 http://strw3.openstream.co/868?aw_0_1st.collectionid%3D3662%26stationId%3D3662%26publisherId%3D892%26k%3D1766073238
 #EXTINF:-1,Radio Kansas - KHCC-FM
@@ -189,8 +183,6 @@ http://wgbh.streamguys.com:8118/Bach-8108
 http://51.15.160.78:8192/stream/
 #EXTINF:-1,Calm Radio – Opera
 http://streams.calmradio.com:1128/stream
-#EXTINF:-1,CROOZE – classical CROOZE
-http://streams.crooze.fm:8016/stream128
 #EXTINF:-1,France Musique – Webradio Classique Easy
 https://stream.radiofrance.fr/francemusiqueeasyclassique/francemusiqueeasyclassique_hifi.m3u8
 #EXTINF:-1,IMER – Opus 94.5 FM – XHIMER
@@ -205,47 +197,14 @@ http://unlimited5-us.dps.live/beethovenfm/aac/icecast.audio
 http://listen.radioking.com/radio/228241/stream/271804
 #EXTINF:-1,A.1.ONE.BAROQUE
 http://streamingp.shoutcast.com/JamendoLounge?lang=*
-#EXTINF:-1,A.1.ONE.CLASSICAL
-#EXTINF:-1,A.1.ONE.SYMPHONY
-#EXTINF:-1,A Better Classical Station
-#EXTINF:-1,Adagio Vivaldi
-#EXTINF:-1,All Bach on Wide Radius
-#EXTINF:-1,All Beethoven on Wide Radius
-#EXTINF:-1,All Haydn on Wide Radius
-#EXTINF:-1,Allegro
-#EXTINF:-1,Best Classic Opera Aria
-#EXTINF:-1,Best of Classical - LudwigRadio.com
-#EXTINF:-1,Bravo! Opera
-#EXTINF:-1,clairetnetradio
-#EXTINF:-1,Classique 19.20
-#EXTINF:-1,Classique XIX
-#EXTINF:-1,Deleted 123
-#EXTINF:-1,Deleted 131
-#EXTINF:-1,Galaxy Classical
-#EXTINF:-1,jlgclassic
-#EXTINF:-1,kathakali1
-#EXTINF:-1,Las Mosqueteras
 #EXTINF:-1,LUCIANO PAVAROTTI WALLYradio
 http://65.21.202.84:9013/stream
-#EXTINF:-1,Mozartiana
-#EXTINF:-1,ONLY CLASSIC
-#EXTINF:-1,Opera Room
-#EXTINF:-1,PedroyRosa
-#EXTINF:-1,princ0radio
-#EXTINF:-1,psmcoatan
-#EXTINF:-1,radio:russafa:opera
-#EXTINF:-1,RadioManelenv
-#EXTINF:-1,RadioNordEst
-#EXTINF:-1,RSJK
-#EXTINF:-1,Soul Fountain
-#EXTINF:-1,Top Classic
 #EXTINF:-1,1001 Classic Collection
 https://strw3.openstream.co/2447?aw_0_1st.collectionid%3D6390%26stationId%3D6390%26publisherId%3D2471%26k%3D1766073279
 #EXTINF:-1,A 1 ONE CLASSIC FM WEB
 https://streaming.brol.tech/rtfmlounge
 #EXTINF:-1,Rai Radio 8 Opera
 http://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S94966552/WlznU7GmJkjL/icecast
-#EXTINF:-1,Radio Classique XIX
 #EXTINF:-1,LA GRANDE MUSIQUE
 https://stream.rcs.revma.com/186wgykpq42vv
 #EXTINF:-1,Lamma Fm
@@ -332,8 +291,6 @@ https://icecast.radiofrance.fr/francemusiqueopera-hifi.aac
 https://piccpndali.v.myalicdn.com/audio/cctv11_2.m3u8
 #EXTINF:-1,A Classical Masterpieces
 https://listen.openstream.co/6528/audio
-#EXTINF:-1,A 1 ONE BAROQUE
-#EXTINF:-1,A 1 ONE SYMPHONY
 #EXTINF:-1,BMOP
 https://das-edge11-live365-dal03.cdnstream.com/a39578
 #EXTINF:-1,Classic Bests
@@ -342,7 +299,6 @@ https://classicbests.stream.laut.fm/classic_bests?t302=2025-12-18_15-55-04&uuid=
 https://stream.classic.nl/classicnl-opera.mp3
 #EXTINF:-1,WQXR
 https://stream.wqxr.org/wqxr-web
-#EXTINF:-1,Classicnl Opera - 256 - The Netherlands - classical - opera
 #EXTINF:-1,Cooperativa - 48 - Chile - música y noticias
 https://unlimited3-cl.dps.live/cooperativafm/mp3/icecast.audio
 #EXTINF:-1,Klassik Radio - Opera - 0 - Germany - classical - opera
@@ -355,15 +311,10 @@ http://79.120.39.202:8000/opera
 http://opera-stream.wqxr.org/operavore.aac
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/53XJO2.png",ITU Radio Classical
 http://160.75.86.29:8088/stream/5/
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/38398/logo_5MYJ27wsKe.png",Radio Clasic Opera
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/102836/180_G4DV5cZOmx.png",Best of Opera Radio
-https://spn.liveradiofree.com/bstpr-96
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/31062/logo_0vtNrgd9uN.png",Klassik Radio - Opera
 https://klassikr.streamabc.net/klassikr-opera-aac-128-3470802
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/46815/logo_0SB7FOv4m0.png",Classik Radio
 https://stream3.vestaradio.com/ClassikRadio?nocache=42118
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/92008/logo_sq2K4sYUC8.png",Classical WETA VivaLaVoce Radio
-https://18853.live.streamtheworld.com/WETAVLV.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/46353/logo_GIahDMZM8X.png",France Musique Opéra Radio
 https://stream.radiofrance.fr/francemusiqueopera/francemusiqueopera_hifi.m3u8?id=radiofrance
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/73559/logo_FRDZ2kU7RQ.png",Clásica 88.5 Radio

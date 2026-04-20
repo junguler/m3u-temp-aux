@@ -7,22 +7,16 @@ http://5230.cloudrad.io:8354/
 https://rfiafrique64k.ice.infomaniak.ch/rfiafrique-64.mp3
 #EXTINF:-1,Radio One FM 90
 http://162.244.80.52:8740/stream.mp3audio.mp3
-#EXTINF:-1,Radiocity 97 FM
-http://162.244.80.106:10853/stream/1/
 #EXTINF:-1,East Africa Radio
 https://eatv.radioca.st/stream
 #EXTINF:-1,Capital FM 91.3 FM
 http://5229.cloudrad.io:8316/
 #EXTINF:-1,107.0 Salt FM
 https://www.surfmusic.de/m3u/107-0-salt-fm,18859.m3u
-#EXTINF:-1,97fm Radio City
-http://162.244.80.106:10853/stream
 #EXTINF:-1,Akaboozi FM 87.9
 http://162.244.80.52:8732/stream.mp3
 #EXTINF:-1,Gospel Radio East Africa
 https://c32.radioboss.fm:18451/stream?1641237600584
-#EXTINF:-1,Hills FM 100.4
-https://s40.myradiostream.com:21392/?type=http\u0026nocache=1641238033?0.3088607174505158
 #EXTINF:-1,KIIS Uganda
 http://14867.cloudrad.io:9224/live
 #EXTINF:-1,RADIO MARIA UGANDA
@@ -93,8 +87,6 @@ http://5230.cloudrad.io:8354/live
 http://stream.hydeinnovations.com:8042/stream
 #EXTINF:-1,MCF Radio 98.7
 http://152.228.170.37:8000/
-#EXTINF:-1,87.5 Star Fm
-http://cast3.asurahosting.com:8127/stream
 #EXTINF:-1,Ugsound Radio
 http://c14.radioboss.fm:8223/stream
 #EXTINF:-1,EMC Radio
@@ -111,30 +103,22 @@ http://streaming.radio.co/se495a11f2/listen
 http://206.221.188.122:7554/stream
 #EXTINF:-1,Etop Radio
 http://stream.hydeinnovations.com:8032/stream
-#EXTINF:-1,Sevenz Radio
-http://servidor33-2.brlogic.com:7002/live
 #EXTINF:-1,Radio Pacis 101.4
 http://dreamsiteradiocp5.com:8006/stream/
 #EXTINF:-1,Radio One FM
 http://162.244.80.52:8740/
 #EXTINF:-1,Radio Pacis - Arua
 http://radiopacisuganda.radioca.st/stream
-#EXTINF:-1,Radiocity 97.0
-http://162.244.80.106:10853/stream/
 #EXTINF:-1,Kcf radio Uganda
 https://c24.radioboss.fm/stream/185
 #EXTINF:-1,Capital FM
 http://5.135.154.69:15664/
 #EXTINF:-1,KWEMALAFM
 http://www.streamcontrol.net:10010/
-#EXTINF:-1,100.4 Hills Fm
-https://s40.myradiostream.com:21392/
 #EXTINF:-1,88.2 Sanyu FM
 http://s44.myradiostream.com:8138/
 #EXTINF:-1,KCFCH RADIO
 https://c24.radioboss.fm:18185/stream
-#EXTINF:-1,SEVENZ RADIO
-https://servidor33.brlogic.com:7002/live
 #EXTINF:-1,Metal Rock Radio
 https://kathy.torontocast.com:2800/stream/1/
 #EXTINF:-1,Wink FM Uganda
@@ -145,8 +129,6 @@ http://nr8.newradio.it:9544/streamaudio.mp3
 https://c32.radioboss.fm:18451/stream
 #EXTINF:-1,RX Radio – UG-KLA
 https://c14.radioboss.fm:18223/stream
-#EXTINF:-1,Hills Fm – 100.4 FM – UG-KBL
-http://5.135.154.72:21392/
 #EXTINF:-1,Radio One FM 90 – 90 FM – UG-KLA
 http://162.244.80.52:8740/stream.mp3
 #EXTINF:-1,Trust FM – UG-KLA
@@ -161,12 +143,6 @@ https://kkcradio.urdt.net:8000/radio.mp3
 https://sp.streams.ovh/8032/stream
 #EXTINF:-1,Christ FM 91.6 radio
 https://s39.myradiostream.com/:15664/
-#EXTINF:-1,UCCJ Online Radio
-https://julycast.be/8232/stream.mp3
-#EXTINF:-1,KBS Ekisweko 93.0 FM radio
-http://139.162.195.139:8030/radio.mp3
-#EXTINF:-1,Mpondwe FM radio
-https://julycast.be/8248/stream.mp3
 #EXTINF:-1,Bfm The Model radio
 https://studio22.radiolize.com/radio/8000/radio.mp3
 #EXTINF:-1,Beast Trace Radio
@@ -179,16 +155,10 @@ http://162.244.80.52:8732/stream.mp3audio.mp3
 http://c32.radioboss.fm:8451/stream
 #EXTINF:-1,Impact FM 98.4 radio
 https://imc.ug/
-#EXTINF:-1,93.0 KINGDOM FM radio
-http://116.203.177.18:8000/login
-#EXTINF:-1,Hills FM 100.4 radio
-http://s40.myradiostream.com:21392/
 #EXTINF:-1,Open Gate FM Mbale
 https://fps5.listen2myradio.com:2199/listen.php?ip=78.129.139.48&ampport=8024&amptype=ice&ampmount=stream
 #EXTINF:-1,NewLife Radio
 https://s31.radiolize.com/radio/8130/radio.mp3
-#EXTINF:-1,Crooze FM 91.2
-http://streams.crooze.fm:8000/stream64
 #EXTINF:-1,Radio Maria (Uganda)
 http://dreamsiteradiocp.com:8052/
 #EXTINF:-1,MCF RADIO 98.7
@@ -199,16 +169,12 @@ http://162.244.80.52:8740/;stream.mp3;audio.mp3
 https://rastamusic.streamguys1.com/rastamusic
 #EXTINF:-1,91.6 Christ Fm
 http://5.135.154.69:15664/;
-#EXTINF:-1,97. 0 Radio City Fm
-http://162.244.80.106:10853/;
 #EXTINF:-1,XFM Uganda
 https://radiopacisuganda.radioca.st/stream/1/
 #EXTINF:-1,Capital FM Uganda
 https://capitalfm.cloudrad.io/stream
 #EXTINF:-1,Ajuna Isaac FM
 https://a5.asurahosting.com:7270/radio.mp3
-#EXTINF:-1,Luweero Online Radio
-https://a6.asurahosting.com:6920/radio.mp3
 #EXTINF:-1,Uganda Martyrs University Nkozi Radio
 https://s46.webcastserver.com:11190/listen.mp3?nocache=1766122426
 #EXTINF:-1,Antenna Web Kampala
@@ -229,12 +195,6 @@ https://c18.radioboss.fm:8597/stream
 https://fps5.listen2myradio.com:2199/listen.php?ip=78.129.139.48&ampampport=8024&ampamptype=ice&ampampmount=stream
 #EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/107725.v7.png",Rock Fm Ug
 http://titan.shoutca.st:8341/
-#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/89574.v6.png",Step FM Mbale
-http://139.162.195.139:8020/radio.mp3
-#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/30960.v12.png",Open Gate FM Mbale
-http://139.162.195.139:8010/radio.mp3
-#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/UT82OS.png",97fm Radiocity
-http://162.244.80.106:10853/stream.mp3
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/3VCG9G.png",EJazz Extra
 https://c32.radioboss.fm/stream/320
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/HX88YB.png",Hii5 Radio
@@ -263,10 +223,127 @@ http://s46.webcastserver.com:11190/
 https://servidor15.brlogic.com:7116/live
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79755/logo_M0MNr01mZ7.png",Channel 303 FM Radio
 https://a5.asurahosting.com:6530/radio.mp3
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79830/logo_kXnDj7uTMC.png",KBS 93.0 FM - Ekisweko Radio
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79667/logo_XZi11qUnzA.png",Gospel Radio-East Africa
 https://c32.radioboss.fm:8451/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103479/logo_QmrZDIaIvh.png",BLACKSTATES FM Radio
 http://usa3.fastcast4u.com:1136/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103480/logo_fNwQTrwtSC.png",96.0 CITY FM Radio
 https://s1.free-shoutcast.com/stream/18018
+#EXTINF:-1,Capital FM - 91.3 FM (MP3)
+http://capitalfm.cloudrad.io/stream
+#EXTINF:-1,MCF Radio - Kampala - 98.7 FM (MP3)
+http://streams.radio.co/s79fbbb432/listen
+#EXTINF:-1,CNN INTERNATIONAL
+https://tunein.cdnstream1.com/2868_96.mp3
+#EXTINF:-1,Country music (80's)
+http://listen.181fm.com/181-80scountry_128k.mp3
+#EXTINF:-1,80's 90's old music radio
+https://maggie.torontocast.com:2020/stream/100greatestofthe80s
+#EXTINF:-1,Old School Music
+https://ilikeitoldskool.radioca.st/stream
+#EXTINF:-1,TALKSPORT 1
+https://radio.talksport.com/stream
+#EXTINF:-1,NBC News Radio
+http://stream.revma.ihrhls.com/zc6043
+#EXTINF:-1,91.3 Lift Worship US
+https://emg.streamguys1.com/lift-website
+#EXTINF:-1,SKY NEWS
+https://video.news.sky.com/snr/news/snrnews.mp3
+#EXTINF:-1,Christian music channel
+http://das-edge11-live365-dal03.cdnstream.com/a08828
+#EXTINF:-1,Mello fm Jamaica
+http://peridot.streamguys.com:5660/live
+#EXTINF:-1,DW NEWS
+https://f131.rndfnk.com/ard/dw/dw08/mp3/64/stream.mp3?cid=01FMA3P53A77CS879ZHAN721HS&sid=392IADNUHlcVOtrTpQizQhO9j9I&token=OwzBc-fPfH4oAKZ7Z8pGoQi9gr4LUCLY-RGeAz-7Ssc&tvf=4yNeZgj7jxhmMTMxLnJuZGZuay5jb20
+#EXTINF:-1,Trace Urban
+http://hydra.cdnstream.com/1531_backup
+#EXTINF:-1,Christian hits radio
+https://shoutcast.christianrock.net/stream/5/
+#EXTINF:-1,Christian fm
+https://christianfm.streamguys1.com/live-aac
+#EXTINF:-1,RFI Kiswahili
+https://rfienswahili64k.ice.infomaniak.ch/rfienswahili-64.mp3
+#EXTINF:-1,Christ FM 91.6 - Kampala - 91.6 FM (AAC)
+http://s39.myradiostream.com/:15664/
+#EXTINF:-1,Canton News Radio China
+http://ls.qingting.fm/live/4848.m3u8
+#EXTINF:-1,88.2 Sanyu FM - Kampala - 88.2 FM (MP3)
+http://s44.myradiostream.com:8138/listen.mp3?nocache=1769887592
+#EXTINF:-1,90.1 Discovery fm Jamaica
+http://usa14.fastcast4u.com:5192/
+#EXTINF:-1,Christmas choir
+https://rautemusik.stream25.radiohost.de/rm-christmas-chor_mp3-192?ref=radiobrowser+Find+more+stations+in+app+%3A+https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.atf.radiogalaxy&upd-meta&upd-scheme=https&_art=dD0xNzY5ODg3ODkzJmQ9OGYwNDY1YjEzZjAzZWExYWY2OGQ
+#EXTINF:-1,95.1 Kiss FM Jakarta
+http://103.246.184.62:1935/noice_kisfm/kisfm/chunklist.m3u8
+#EXTINF:-1,104.1 Favour FM - Gulu - 104.1 FM (MP3)
+http://us5new.listen2myradio.com:2199/listen.php?port=8138&type=ice&mount=stream
+#EXTINF:-1,TALKSPORT
+http://radio.talksport.com/stream2?awparams=platform:ts-web&amsparams=playerid:ts-web
+#EXTINF:-1,Times radio UK
+https://times.live.stream.broadcasting.news/stream
+#EXTINF:-1,Trace Gospel
+https://c25.radioboss.fm:8130/4rm8tzo7qirtv
+#EXTINF:-1,CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1,Great Hits Manchester
+https://listen-nation.sharp-stream.com/hull.mp3
+#EXTINF:-1,old Christmas hit channel
+http://regiocast.streamabc.net/regc-80s80sevent014441101-mp3-192-8841017?sABC=697r5769%231%23%20Svaq%20zber%20fgngvbaf%20va%20ncc%20:%20uggcf:%23fgernzf.80f80f.qr&id=com.atf.radiogalaxy&aw_0_1st.playerid=streams.80s80s.de&amsparams=playerid:streams.80s80s.de;skey:1769887593
+#EXTINF:-1,Bible 24/7
+http://c28.radioboss.fm:8335/stream
+#EXTINF:-1,CGTN Radio
+http://sk.cri.cn/am846.m3u8
+#EXTINF:-1,Yofochm Radio Uganda (MP3)
+http://c13.radioboss.fm:18053/stream
+#EXTINF:-1,JOY HITS
+http://stream.joyhits.online:8070/joyhitshq.mp3
+#EXTINF:-1,Country Music
+http://ais-sa2.cdnstream1.com/2365_128.mp3
+#EXTINF:-1,Sonlife Radio
+https://storage.sardius.media/archives/Ea867F3e1F56B06/events/site_5F46D0A41C/playlist-eng.m3u8
+#EXTINF:-1,CHENNAI LIVE
+http://216.55.178.11:8008/
+#EXTINF:-1,Jesus radio
+https://streaming.radio.co/s1dc8ab02e/listen
+#EXTINF:-1,CBN Christian
+http://cbnradio.streamguys1.com/news-128K?app=cbnplayer
+#EXTINF:-1,Radio for Jesus
+http://s2.stationplaylist.com:7132/listen.aac
+#EXTINF:-1,CBN Christmas Channel
+https://streams.cbnradio.com/christmas-128K?%20Title1=CBN%20Christmas
+#EXTINF:-1,Sound City
+http://pureplay.cdnstream1.com/6038_128.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRu
+#EXTINF:-1,FUN KIDS RADIO
+https://listen-funkids.sharp-stream.com/funkids.mp3
+#EXTINF:-1,Scripture for America
+http://67.225.254.37:5530/
+#EXTINF:-1,Jewish music channel
+https://stream.jewishmusicstream.com:8000/
+#EXTINF:-1,US Local News
+http://usa8.fastcast4u.com:5168/1/
+#EXTINF:-1,TALK RADIO
+https://25443.live.streamtheworld.com/TALK_RADIO_EUROPE.mp3
+#EXTINF:-1,Bible Trivia
+https://streamer.radio.co/se1aece429/listen
+#EXTINF:-1,talkSPORT 2
+http://radio.talksport.com/stream2?ref=rf
+#EXTINF:-1,talkRADIO
+https://talk.live.stream.broadcasting.news/stream
+#EXTINF:-1,Radio Benediction Dominican
+https://samuel.i-radio.co:9000/radiobendicion
+#EXTINF:-1,Smooth Country
+https://live.radio.sonlife.olympusatmedia.com/index.m3u8
+#EXTINF:-1,Progressive Radio Network
+http://216.55.165.146:8000/
+#EXTINF:-1,Ancient Faith Radio
+https://ancientfaith.streamguys1.com/music
+#EXTINF:-1,Talksport
+https://radio.talksport.com/stream?aw_0_1st.platform=website&aw_0_1st.playerid=wireless-website&aw_0_req.gdpr=true&aw_0_awz.listenerid=#ADVERTISINGID&_=383957
+#EXTINF:-1,Faith Radio
+https://nwm.streamguys1.com/ktis-am
+#EXTINF:-1,Islands FM
+http://radio.canstream.co.uk:8040/live.mp3
+#EXTINF:-1,EMC Radio - Kampala (MP3)
+http://c22.radioboss.fm:18040/stream
+#EXTINF:-1,. Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
