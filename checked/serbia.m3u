@@ -115,8 +115,6 @@ http://stream.rsg.rs:8043/stream.nsv
 http://cmr-hosting.com:8425/stream
 #EXTINF:-1,Radio Tehnomanija
 http://188.40.95.74:8058/stream?nocache=1590044356
-#EXTINF:-1,Radio Zavicaj Plus Godačica
-http://s39.myradiostream.com:14870/listen.pls
 #EXTINF:-1,Radio Zelengrad - Milwaukee - USA
 http://usa5.fastcast4u.com:16276/stream.nsv
 #EXTINF:-1,Radio Zlatibor
@@ -201,15 +199,12 @@ http://streamingp.shoutcast.com/JamendoLounge?lang=*
 https://air.broadcastinggroup.ro/MegaHit
 #EXTINF:-1,Radio 012
 http://144.76.219.22:8762/
-#EXTINF:-1,Evergreen Radio Live
 #EXTINF:-1,Radio Srpski Sion
 http://fmradiolive.net:8006/
 #EXTINF:-1,RADIO PULS Live
 https://stream.radio.co/s8cc7a5da4/listen
 #EXTINF:-1,Radio Mackica Zabavna Muzika
 http://cast2.name.ba:8157/
-#EXTINF:-1,YCN Radio
-http://bombonica.topstream.net:19310/
 #EXTINF:-1,Radio Vladix
 http://vladix.dukahosting.com:8000/
 #EXTINF:-1,ZLATIBORSKI 106 RADIO
@@ -220,7 +215,6 @@ http://188.40.95.74:8012/
 https://play.global.audio/bgradio128
 #EXTINF:-1,Protokol Radio
 http://centauri.shoutca.st:8105/stream
-#EXTINF:-1,Svemocni Jez
 #EXTINF:-1,Radio Lipovac Brcko
 http://stream1.srvnetplus.com:8129/
 #EXTINF:-1,Radio DVA
@@ -233,8 +227,6 @@ http://stream.unlimited.rs:8091/stream.mp3
 https://radio.dukahosting.com:7021/
 #EXTINF:-1,Radio Duda Sombor
 http://shnpdecct1.dihostnet.com:8043/
-#EXTINF:-1,Radio Sokolica
-http://s2.free-shoutcast.com:18130/
 #EXTINF:-1,RUF Radio
 http://77.46.153.156:8000/
 #EXTINF:-1,Radio Vizioni
@@ -285,8 +277,6 @@ http://ns5.albaservers.com:8020/
 http://stream1.srvnetplus.com:8004/stream
 #EXTINF:-1,Radio ljivovica
 http://stream.iradio.pro:8114/stream
-#EXTINF:-1,Radio Zaviaj Plus
-http://s39.myradiostream.com:14870/
 #EXTINF:-1,RSG Party Time
 http://stream.rsg.rs:8073/stream
 #EXTINF:-1,Radio Tupinamba 1120 AM Listen live
@@ -309,8 +299,6 @@ https://dark-metal-radio.stream.laut.fm/dark-metal-radio?t302=2025-12-19_16-56-0
 https://satica.stream.laut.fm/satica?ref=radiode&t302=2025-12-19_16-56-00&uuid=50ea9ac0-750e-420d-9095-bba14ce040e7
 #EXTINF:-1,Elton John - 101.ru Listen live
 https://pub0102.101.ru:8443/stream/pro/aac/64/142
-#EXTINF:-1,Exclusively Lady Gaga Listen live
-https://nl4.mystreaming.net/er/ladygaga/icecast.audio
 #EXTINF:-1,Bluffphonica Listen live
 https://bluffphonica.stream.laut.fm/bluffphonica?ref=radiode&t302=2025-12-19_16-56-01&uuid=667b4c14-9345-4a2b-bb0d-e3c175b5e0e7
 #EXTINF:-1,Radio Amiga Listen live
@@ -401,7 +389,6 @@ https://sradio1.ipradio.rs:9000/
 http://213.239.205.210:8148
 #EXTINF:-1,Radio Star 96.4 FM
 http://radio.1dhe1.com:9400/
-#EXTINF:-1,Radio Stari Grad 104.3
 #EXTINF:-1,Radio Vala Rinore 94.7 FM
 http://ca3.rcast.net:8024/
 #EXTINF:-1,Radio Vizioni 88.1 FM
@@ -458,8 +445,6 @@ http://dreamsiteradiocp2.com:8062/
 https://radio.dukahosting.com/8118/stream
 #EXTINF:-1,Radio Prijepolje
 https://cmr-hosting.com/9530/stream
-#EXTINF:-1,Radio Stari grad - RSG
-http://su-data.com:8009/stream/1/
 #EXTINF:-1,Radio Šumadinac
 https://media.srb-streaming.com/stream/radio-sumadinac-uzivo
 #EXTINF:-1,Radio Šumadinac EX YU
@@ -488,8 +473,6 @@ https://stream.redradio.rs/
 https://s2.radio.co/s80eb57671/listen
 #EXTINF:-1,Serbian Radio Sion
 https://srv.mediastriming.com/8002/stream
-#EXTINF:-1,Su-Data Radio
-http://su-data.com:8009/stream.nsv
 #EXTINF:-1,Sunset Radio
 http://cmr-hosting.com:8425/
 #EXTINF:-1,TEMPO Radio
@@ -608,8 +591,6 @@ http://212.200.230.50:1935/rns1/prviprogram/livestream/playlist.m3u8
 http://144.76.219.22:8762/stream.nsv
 #EXTINF:-1,Радио Златибор radio
 http://stream11.shoutcastsolutions.com:8002/index.html?sid=1
-#EXTINF:-1,Radio Sokolica radio
-http://51.178.26.150:18130/stream.nsv
 #EXTINF:-1,Hit Radio 104.9 FM
 http://144.76.219.22:9337/stream.nsv
 #EXTINF:-1,Radio Bravo FM radio
@@ -620,8 +601,6 @@ https://server4p.com:7001/
 http://s9.yesstreaming.net:7080/stream
 #EXTINF:-1,Radio SUNCE radio
 http://media.srb-streaming.com:9060/
-#EXTINF:-1,Radio Mostarka i Zana radio
-http://192.99.8.192:5058/*.mp3
 #EXTINF:-1,Radio Cvrcak radio
 http://stream.iradio.pro:8190/stream.nsv
 #EXTINF:-1,Radio Zlatousti radio
@@ -660,33 +639,18 @@ https://stream02.pcradio.biz/rad_playrdrs-med
 http://quasar.shoutca.st:8018/
 #EXTINF:-1,RADIO K4 SHQIP
 http://fm.radiokfor.com:8080/
-#EXTINF:-1,Radio 996 FM
-http://radio.en.rs:8000/
-#EXTINF:-1,RADIO K2
-https://radio.en.rs:8040/radio.mp3
 #EXTINF:-1,RUFradio
 http://77.46.153.156:8000/;stream.nsv
-#EXTINF:-1,Ok Radio Plus
-http://live.okplus.rs:8000/;stream.nsv
 #EXTINF:-1,Slovo Ljubve
 http://160.153.245.85:8000/stream/1/;
 #EXTINF:-1,Radio Bravo FM
 http://91.221.134.252:8002/;stream.nsv
-#EXTINF:-1,Radio Zavičaj Plus
-http://s39.myradiostream.com:14870/;
 #EXTINF:-1,Radio Gračanica
 http://188.40.95.74:8012/;
-#EXTINF:-1,TDI House Classics
 #EXTINF:-1,Radio 021 Disco &amp; Funk
 http://vladix.dukahosting.com:8010/sid=1
 #EXTINF:-1,Radio Cvrcak
 http://stream.iradio.pro:8190/;stream.nsv
-#EXTINF:-1,Radio Mis Narodna
-https://srv.mediastriming.com/8046/stream
-#EXTINF:-1,Ok Radio Prelo
-http://live.okplus.rs:8050/;
-#EXTINF:-1,Mis Plus Radio
-https://srv.mediastriming.com/8034/stream
 #EXTINF:-1,DeeJay Radio
 http://stream.iradio.pro:8210/stream?type=http&nocache=14
 #EXTINF:-1,Radio Opsesija
@@ -699,8 +663,6 @@ https://fps3.listen2myradio.com:2199/listen.php?ip=109.169.23.124&port=8660&type
 https://video.stream.rs:8034/stream
 #EXTINF:-1,Desetka Radio
 http://pink.exyuserver.com/
-#EXTINF:-1,Orkestar Carobnjaci
-#EXTINF:-1,Radio Svi Zajedno
 #EXTINF:-1,Prvi Radio Novi Sad
 http://160.153.245.85:8000/
 #EXTINF:-1,Urban City Radio
@@ -717,8 +679,6 @@ https://radio.nisville.com/listen/live/live
 https://as1.radioserveri.com:8130/radio.mp3
 #EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2023/12/12861.v6.png",Radio Bravo FM
 http://91.221.134.252:8002/
-#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2023/12/116942.v5.png",Star Narodni
-https://eu10.fastcast4u.com/starworldhits
 #EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2023/12/12009.v5.png",Radio Novi Sad 3
 http://212.200.230.50:1935/RTV/rtv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2023/12/66591.v18.png",Radio S3
@@ -759,8 +719,6 @@ https://media.radioexs.com/stream/radiobalkanmusic
 https://srv.mediastriming.com/8018/stream
 #EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2023/12/12095.v5.png",MAX FM, Jagodina
 https://stream.radiodak.rs/maxfm
-#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2023/12/13026.v9.png",Radio Sokolica
-http://51.178.26.150:18130/
 #EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2023/12/127385.v1.png",Radio Balkan Dance
 https://radiobalkan.live/radio/live/dance.mp3
 #EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2023/12/87662.v12.png",Radio Pelivan
@@ -773,8 +731,6 @@ https://stream.radiodak.rs/radiodak
 http://stream.iradio.pro:8190/
 #EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2023/12/67129.v11.png",Jack radio Varvarin
 https://uk26freenew.listen2myradio.com/live.mp3?typeportmount=s1_24113_stream_631671707
-#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2023/12/88736.v3.png",Su-Data Radio
-http://su-data.com:8009/
 #EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2023/12/12116.v9.png",Hit Radio, Požarevac
 http://144.76.219.22:9337/
 #EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2023/12/12100.v5.png",Radio Koliba
@@ -789,10 +745,6 @@ http://streaming.orion.rs.:8030/
 http://92.60.230.200:5010/stream/1/
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/station-logo-no.png",iFM Narodni Radio
 http://91.228.254.72:7000/
-#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/R733SR.png",Kiss Radio - Kosovska Mitrovica
-http://cast.oblak.in:9515/
-#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/X2XBR8.png",Koprijan
-http://213.239.205.210:8022/stream
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/QBPFIK.png",OK Radio
 http://live4.okradio.net:8052/
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/VX04CB.png",Ok Radio
@@ -897,9 +849,83 @@ http://cast6.asurahosting.com:7717/
 http://cast6.asurahosting.com:7719/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41095/logo_cA2kiXvTUj.png",Radio Grand
 https://s9.yesstreaming.net:7080/stream
-#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41289/logo_RxARsaLfMv.png",Radio Mostarka i Zana
-http://192.99.8.192:5058/%2A.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41179/logo_zgCAs4f0bR.png",Radio ANTENA
 http://cast6.my-control-panel.com:8547/
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41184/logo_dEL7Wc2pMP.png",Radio MIG
 http://185.171.67.81:8000/radio-mig
+#EXTINF:-1,Radio S1
+http://edge-rs-01.maksnet.tv/asmedia/radios/chunklist_w2049618642.m3u8
+#EXTINF:-1,Rock Radio Belgrade (Рок Радио Београд)
+https://edge9.pink.rs/rockstream
+#EXTINF:-1,Radio S3 Trap And Rap
+https://stream.radios.rs:9030/
+#EXTINF:-1,RTV - Radio Novi Sad 1
+http://212.200.230.50:1935/rns1/prviprogram/livestream/stream.m3u8
+#EXTINF:-1,Radio As
+http://185.102.239.216:8000/
+#EXTINF:-1,RTV - Radio Novi Sad 2 (Újvidéki Rádió)
+http://212.200.230.50:1935/rns2/drugiprogram/livestream/stream.m3u8
+#EXTINF:-1,Radio S3 Folk stars
+https://stream.radios.rs:9024/
+#EXTINF:-1,Radio S3 Narodni
+https://stream.radios.rs:9016/
+#EXTINF:-1,Radio Belami
+http://92.60.239.23:8000/stream
+#EXTINF:-1,RTV - Radio Novi Sad 3
+http://212.200.230.50:1935/rns3/treciprogram/livestream/stream.m3u8
+#EXTINF:-1,Radio S2 - Index radio
+https://stream.radios.rs:9002/
+#EXTINF:-1,Radio Futog
+https://radio.dukahosting.com:7001/
+#EXTINF:-1,Radio Kolo
+https://mars.streamerr.co/8280/stream
+#EXTINF:-1,Radio Slavoslovlje
+http://radio.eparhijabacka.info:8000/RadioSlavoslovlje
+#EXTINF:-1,Radio Krajina 019
+https://cmr-hosting.com:7021/
+#EXTINF:-1,Yu Novi Pazar
+https://yuradio.ipradio.rs:9036/
+#EXTINF:-1,Bravo FM 103.7MHz
+http://91.221.134.252:8002/*.mp3
+#EXTINF:-1,Radio Klas
+http://195.201.172.217:9014/
+#EXTINF:-1,Radio Blagovesnik
+http://radio.eparhijabacka.info:8000/RadioBlagovesnik
+#EXTINF:-1,OK Prelo Radio
+https://stream.okplus.rs/listen/prelo/radio.mp3
+#EXTINF:-1,Oradio RTV Novi Sad
+http://212.200.230.50:1935/oradio/oradio/oradio/playlist.m3u8
+#EXTINF:-1,Radio S XTRA
+https://stream.radios.rs:9026/*.mp3
+#EXTINF:-1,Radio Bubonja
+http://213.239.205.210:8094/stream
+#EXTINF:-1,NAŠ MM Radio 97.8
+https://radio.dukahosting.com:7045/stream
+#EXTINF:-1,Op Top Radio
+http://213.239.205.210:8112/
+#EXTINF:-1,Radio Starcevo
+http://mpc2.mediacp.eu:8350/stream
+#EXTINF:-1,LiD Radio
+http://213.239.205.210:8064/
+#EXTINF:-1,Original Fast Radio
+https://az-de-01.worldradiobeat.com/listen/originalfastradio/live
+#EXTINF:-1,KLAS Radio
+http://media.srb-streaming.com:9014/stream
+#EXTINF:-1,skc slobodni
+https://skc.fm/hls/skc_radio/aac_hifi.m3u8
+#EXTINF:-1,skc
+https://skc.fm/hls/skc_radio/live.m3u8
+#EXTINF:-1,Dream Klub
+https://stream.spettro.info/listen/dream_klub_-_public_illegal/radio.mp3
+#EXTINF:-1,BB Radio Sombor
+https://mhpanel.mediahosting025.com/radio/8383/
+#EXTINF:-1,City Ub 92.7
+http://109.72.57.12:8000/stream.nsv
+#EXTINF:-1,. Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1,Radio 996FM
+https://radio.en.rs/radio/8000/radio.mp3
+#EXTINF:-1,Radio Arilje
+https://radio.dukahosting.com:7022/stream
+#EXTINF:-1,Luna Radio
+https://eu10.fastcast4u.com:6110/stream/7/
