@@ -15,7 +15,6 @@ https://listen5.myradio24.com/seethesea
 https://listen6.myradio24.com/unicorn
 #EXTINF:-1,Oriat Dono – 106.5 FM – Samarkand – Samarqand – UZ
 http://oriat.mediabay.uz/oriatdono.m3u8
-#EXTINF:-1,Mars Fm Uzbekistan radio
 #EXTINF:-1,РАДИО "Ориат Доно" radio
 http://www.oriatdono.uz/
 #EXTINF:-1,Qalbim Navosi Radio
@@ -54,3 +53,5 @@ https://worldradio.online/proxy/?q=http://213.230.109.7:9000/alo_low
 https://worldradio.online/proxy/?q=http://sezamfm.com:8000/stream
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/station-logo-no.png",UZR4 Do'stlik
 http://sc.bce.lu/eldo
+#EXTINF:-1,Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3

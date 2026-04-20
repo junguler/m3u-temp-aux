@@ -1,24 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Kan Bet
-https://25283.live.streamtheworld.com/KAN_BET.mp3?dist=bynetredirect
-#EXTINF:-1,Kol Israel Reshet Bet
-https://kanlivep2event-i.akamaihd.net/hls/live/749624/749624/playlist.m3u8
-#EXTINF:-1,Galgalatz (גלגלצ רדיו)
-https://glzwizzlv.bynetcdn.com/glglz_mp3
-#EXTINF:-1,Kan Gimmel
-https://27873.live.streamtheworld.com/KAN_GIMMEL.mp3?dist=bynetredirect
-#EXTINF:-1,Kan 88
-https://kanlivep2event-i.akamaihd.net/hls/live/749623/749623/master.m3u8
-#EXTINF:-1,Eco 99 FM
-https://eco01.livecdn.biz/ecolive/99fm_aac/icecast.audio
-#EXTINF:-1,From here - Arabic radio
-https://28993.live.streamtheworld.com/RADIO_MAKAN.mp3?dist=bynetredirect
-#EXTINF:-1,רדיו תל אביב
-https://cdn88.mediacast.co.il/102fm-tlv/102fm_aac/icecast.audio
-#EXTINF:-1,Reka Radio
-https://27913.live.streamtheworld.com/KAN_REKA.mp3?dist=bynetredirect
-#EXTINF:-1,Kan Reka
-https://29103.live.streamtheworld.com/KAN_REKA.mp3?dist=bynetredirect
 #EXTINF:-1,Radio 100% Hits
 http://gb25.streamgates.net/radios-audio/100Hits/icecast.audio
 #EXTINF:-1,Radio Haifa (רדיו חיפה)
@@ -33,8 +13,6 @@ http://liveradio.co.il:8070/
 https://kanlivep2event-i.akamaihd.net/hls/live/749627/749627/playlist.m3u8
 #EXTINF:-1,Kan Regesh
 https://kanlivep2event-i.akamaihd.net/hls/live/749630/749630/playlist.m3u8
-#EXTINF:-1,Nostal Radio (רדיו נוסטלגיה)
-http://194.213.4.197:8000/
 #EXTINF:-1,Radio 100% Trance
 https://gb25.streamgates.net/radios-audio/100Trance/playlist.m3u8
 #EXTINF:-1,Radio 100% 80s
@@ -49,8 +27,6 @@ http://gb25.streamgates.net/radios-audio/100Retro/icecast.audio
 https://gb25.streamgates.net/radios-audio/100Dance/playlist.m3u8
 #EXTINF:-1,Radio 100% Latin
 https://gb25.streamgates.net/radios-audio/100Latin/playlist.m3u8
-#EXTINF:-1,Kol Galim
-http://switch2-streaming-212-83-eu.ilcast.com:8055/stream/1/
 #EXTINF:-1,Radio 100% Jazz
 https://gb25.streamgates.net/radios-audio/100Jazz/playlist.m3u8
 #EXTINF:-1,Radio Sahar
@@ -65,8 +41,6 @@ http://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio
 https://cdna.streamgates.net/RadioNas/Live-Audio/icecast.audio
 #EXTINF:-1,Kan Moreshet
 https://25583.live.streamtheworld.com/KAN_MORESHET.mp3?dist=bynetredirect
-#EXTINF:-1,Radio Mevaser Tov 770 AM
-http://770tv.no-ip.org:7777/
 #EXTINF:-1,Eman City Quran Radio 24/7
 http://66.45.232.131:9990/
 #EXTINF:-1,AVIV Media
@@ -87,8 +61,6 @@ http://eu10.fastcast4u.com:3420/stream
 https://eol-live.cdnwiz.com/eol/eolsite/playlist.m3u8
 #EXTINF:-1,Teen Buzz
 https://streamingr.broadcastradio.com:10305/teenbuzzradio
-#EXTINF:-1,Arutz Sheva
-http://media.a7.org:8082/
 #EXTINF:-1,Radio Yeshua
 https://mytuner-radio.com/radio/country/israel-stations
 #EXTINF:-1,Radio 100% 70s
@@ -171,7 +143,6 @@ http://glzwizzlv.bynetcdn.com/glglz_mp3?n=eff2283ac503c07ee29d
 http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz?n=d5ea111397c6fc079632
 #EXTINF:-1,Jewish Music Stream
 https://stream.jewishmusicstream.com:8000/?n=14d9a8c8019d79fe6439
-https://27823.live.streamtheworld.com/KAN_88.mp3?dist=bynetredirect
 #EXTINF:-1,KAN gimel real
 https://27783.live.streamtheworld.com/KAN_GIMMEL.mp3?dist=bynetredirect
 #EXTINF:-1,Kan Israel 88 FM
@@ -184,11 +155,8 @@ https://27793.live.streamtheworld.com/KAN_MORESHET.mp3?dist=bynetredirect
 https://25603.live.streamtheworld.com/KAN_TARBUT.mp3?dist=bynetredirect
 #EXTINF:-1,Kan Kol HaMusica
 https://27743.live.streamtheworld.com/KAN_KOL_HAMUSICA.mp3?dist=bynetredirect
-#EXTINF:-1,Kcm FM Channel 01 Live
 #EXTINF:-1,Martha Kowaski
 https://das-edge14-live365-dal02.cdnstream.com/a95708?n=d2ddc960f063f84bc06e
-#EXTINF:-1,Nostalgia
-http://194.213.4.197:8000/listen.pls?sid=1?n=992644cfc8916b489e78
 #EXTINF:-1,Radio Agape Israel
 https://s3.radio.co/s43b65d791/listen?n=368ce1568e367d5c442e
 #EXTINF:-1,Radio Breslev Carmiel
@@ -201,14 +169,12 @@ https://icecast.live/proxy/zerock/zerock?n=7f87dc0665c1880476cc
 https://eco01.livecdn.biz/ecolive/99fm_aac/icecast.audio?hash=1559501510715.m4a?n=9f17a563d5fd828dbd7c
 #EXTINF:-1,הקצה - Hakatze
 http://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio?n=11f45f9798bcaa68994d
-#EXTINF:-1,כאן ב - Kan Bet
 #EXTINF:-1,נושמים מזרחית - Noshmim Mizrahit
 https://mzr.mediacast.co.il/mzradio
 #EXTINF:-1,קבלה לעם עברית - Kabbalah heb
 http://icecast.kab.tv/live1-heb-574bcfd5.mp3?n=9009ee398a501c8933b0
 #EXTINF:-1,קול חי - Kol Chai
 https://live.kcm.fm/live-new
-#EXTINF:-1,קול חי מיוזיק - Kol Chai Music
 #EXTINF:-1,קול פליי | kol-play
 https://cdn.cybercdn.live/Kol_Barama/Music/icecast.audio?n=68d9e6743c9299f962a4
 #EXTINF:-1,רדיו חמאש - Radio Hamesh

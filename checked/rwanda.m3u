@@ -13,10 +13,6 @@ http://80.241.215.175:4000/
 http://dreamsiteradiocp.com:8044/stream
 #EXTINF:-1,Radio Flash 89.2
 http://80.241.215.175:7410/
-#EXTINF:-1,Radio5 Rwanda
-https://radyo.hostlan.net/proxy/xcubetec/stream
-#EXTINF:-1,88.3 City Radio
-https://ice.zradio.org/z/high.mp3
 #EXTINF:-1,Flash FM Rwanda
 http://80.241.215.175:7410/stream.mp3
 #EXTINF:-1,hairrockradio Listen live
@@ -63,3 +59,5 @@ https://halo.streamerr.co/listen/italiavera/stream.mp3
 http://80.241.215.175:4000/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/78198/logo_P8dbowoS4R.png",Hero Radio (Rwanda)
 https://a2.asurahosting.com:6790/rwanda.mp3
+#EXTINF:-1,Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3

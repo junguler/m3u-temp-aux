@@ -3,7 +3,6 @@
 http://streamingp.shoutcast.com/JamendoLounge?lang=*
 #EXTINF:-1,RAC 105 - 105.0 FM
 https://25693.live.streamtheworld.com/RAC105.mp3
-#EXTINF:-1,Swiss Sound
 #EXTINF:-1,Live 107.8 FM
 http://streaming.enantena.com:8000/livefm128.mp3
 #EXTINF:-1,Antena Caro 96 FM
@@ -70,8 +69,6 @@ http://streaming.enantena.com:8000/cubelles128.mp3
 https://streaming.enacast.com/radiocunitHD.mp3
 #EXTINF:-1,RAB Ràdio
 https://s3.radio.co/sf09831a0e/listen
-#EXTINF:-1,STYL CLASSICS
-http://s2.nexuscast.com:8042/
 #EXTINF:-1,Cooltura FM
 https://server9.emitironline.com:19244/
 #EXTINF:-1,Ràdio Cardedeu

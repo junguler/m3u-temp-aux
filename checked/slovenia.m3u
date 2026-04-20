@@ -27,26 +27,20 @@ http://streamingp.shoutcast.com/JamendoLounge?lang=*
 https://stream.master-dizajn.com:7002/
 #EXTINF:-1,ORF Slovenski Spored
 https://orf-live.ors-shoutcast.at/slo-q1a
-#EXTINF:-1,GratefuleD Radio
 #EXTINF:-1,Radio 24 SI
 http://212.30.80.195:8064/type=mp3
 #EXTINF:-1,Dance Mix Radio
 http://naxos.cdnstream.com/1366_128
 #EXTINF:-1,Radio Urban FM
 https://securestreams4.autopo.st:1668/stream
-#EXTINF:-1,Slowhand Radio
 #EXTINF:-1,Radio Center Rock
 http://stream2.radiocenter.si:8000/center
-#EXTINF:-1,Yu Poprock Radio
-#EXTINF:-1,Shine on Radio
 #EXTINF:-1,Rock Radio SI
 http://stream.radiocenter.si:9034/
 #EXTINF:-1,Katoliki radio MIR Slovenija
 https://listen.radioking.com/radio/84823/stream/123070
 #EXTINF:-1,Radio MAR
 http://stream.mister-deejay.com:9008/
-#EXTINF:-1,Exclusively Peter Green's Fleetwood Mac Listen live
-https://nl4.mystreaming.net/er/pgfleetwood/icecast.audio
 #EXTINF:-1,GL 5 FUNK Listen live
 https://gl5funk.stream.laut.fm/gl5funk?ref=radiode&t302=2025-12-18_16-36-28&uuid=f5313080-b2ee-49bf-8756-a27573e0d996
 #EXTINF:-1,Беседка для друзей Listen live
@@ -69,11 +63,6 @@ http://stream2.radiocenter.si:8200/stream/
 http://212.30.80.195:8100/stream/
 #EXTINF:-1,Hitradio Center - rock radio
 http://stream5.radiocenter.si:9034/rock/
-https://stream.nextmedia.si/hls2/hrc/128k/HRC-128.m3u8
-#EXTINF:-1,Radio Cvrčak
-http://27403.live.streamtheworld.com/DISNEY_PER_LM.mp3
-#EXTINF:-1,Radio Sprejmi
-http://89.142.193.133:8000/radio-sprejmi
 #EXTINF:-1,Hitradio Center - center 80's
 http://stream2.radiocenter.si:8064/stream/
 #EXTINF:-1,Radio Romic
@@ -96,7 +85,6 @@ http://stream2.radioekspres.si:8016/
 http://stream1.srvnetplus.com:8026/stream
 #EXTINF:-1,Radio METEOR - Si
 http://stream.mister-deejay.com:9004/mrdj
-#EXTINF:-1,Radio Capris Ex Yu
 #EXTINF:-1,CENTER YU
 http://stream.radiocenter.si:8100/
 #EXTINF:-1,CENTER 80-a
@@ -112,13 +100,9 @@ http://stream2.radiocenter.si:8102/
 #EXTINF:-1,Radio Rogla – Slovenske Konjice – Slovenska Konjice – SI
 http://193.105.67.24:8010
 #EXTINF:-1,Radio Net FM – Maribor – SI
-http://radionet.si/datoteke/Stream/RadioNetLive.m3u
+https://www.radionet.si/
 #EXTINF:-1,Rock Radio – Ljubljana – SI
 http://stream3.radiocenter.si:9032/
-#EXTINF:-1,Sprejmi.si Radio – Ljubljana – SI
-http://89.142.193.133:8000/
-#EXTINF:-1,Radio Slovenske gorice – Lenart v Slovenskih Goricah – Lenart – SI
-https://radio-slovenske-gorice.moj-radio.stream/?pl=winamp&c=Radio%20Slovenske%20Gorice
 #EXTINF:-1,Dzenarika – Ivančna Gorica – SI
 http://136.243.134.202:8000/
 #EXTINF:-1,Radio Mister Deejay – SI
@@ -179,8 +163,6 @@ http://stream3.radiocenter.si:8060/;stream/1
 https://sonic.mediacp.eu/8120/stream
 #EXTINF:-1,Radio Slovenskie Gorice
 http://136.243.134.202:8082/mountpoint
-#EXTINF:-1,Bumradio.live
-https://rbx2.hnux.com/http://e15360.cloudrad.io:7203/
 #EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/25246.v1.png",Radio Prlek
 http://86.61.68.81:8000/stream.nsv&amptype=mp3
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/XOPVQ2.png",Hitradio Center - center 80's
@@ -199,3 +181,11 @@ http://shnpdecct1.dihostnet.com:8026/stream
 http://86.61.68.81:8000/stream&amptype=mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41839/logo_X3aIcSSL1e.png",Radio Rogla
 http://193.105.67.24:8010/stream
+#EXTINF:-1,Zeleni val
+https://jurepeterka.radioca.st/stream
+#EXTINF:-1,Rádio Timea
+http://evcast.mediacp.eu:1480/stream
+#EXTINF:-1,Radio Prlek
+http://86.61.68.81:8000/stream.nsv&type=mp3
+#EXTINF:-1,Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3

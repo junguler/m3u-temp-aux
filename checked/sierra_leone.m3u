@@ -9,8 +9,6 @@ https://club.asdmedios.cl/radio/8180/radio.mp3
 https://wobfm.stream.laut.fm/wobfm?ref=radiode&t302=2025-12-17_18-48-03&uuid=570dd5c5-db3c-4b72-beb8-a52948db316a
 #EXTINF:-1,Pineapplejuice Listen live
 https://pineapplejuice.stream.laut.fm/pineapplejuice?t302=2025-12-17_18-48-03&uuid=d91b4d91-8747-4c0a-98c9-a0017f6a128e
-#EXTINF:-1,Exclusively Eurythmics Listen live
-https://2.mystreaming.net/er/eurythmics/icecast.audio
 #EXTINF:-1,WAFC-FM - Radio Fiesta 106 FM Listen live
 https://ice7.securenetsystems.net/WAFC
 #EXTINF:-1,Democracy
@@ -33,3 +31,5 @@ https://a2.asurahosting.com:6790/sierraleone.mp3
 https://fast.citrus3.com:2020/stream/urbanwavefmsierraleone
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/78582/logo_3OEOnPN3b5.png",Radio Maria
 http://dreamsiteradiocp2.com:8056/stream
+#EXTINF:-1,Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3

@@ -37,7 +37,6 @@ https://stream.radiovlna.sk/gold-hi.mp3
 http://stream.funradio.sk:8000/fun192.mp3
 #EXTINF:-1,Slobodny Vysielac
 https://vysielanie.online/radio/8020/SV128.mp3
-#EXTINF:-1,Fun Radio cz-sk
 #EXTINF:-1,Jazz Spirit
 http://streamingp.shoutcast.com/JamendoLounge?lang=*
 #EXTINF:-1,Rádio Snina
@@ -52,8 +51,6 @@ http://s32.myradiostream.com:10486/;
 https://stream.funradio.sk:8000/chill128.mp3
 #EXTINF:-1,Rádio Topoľčany
 http://80.242.44.249:8000/;
-#EXTINF:-1,Rádio Beta - Hity 80&#039;s a 90&#039;s
-http://s1-fmt2.liveatc.net:80/lzkz?nocache=2023051507230953451
 #EXTINF:-1,Hitrádio Slovakia - 128 - Slovakia -
 https://hitradioslovakia.stream.laut.fm/hitradioslovakia
 #EXTINF:-1,Radio VIVA

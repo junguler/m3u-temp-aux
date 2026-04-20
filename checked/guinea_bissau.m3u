@@ -7,8 +7,6 @@ https://rfiafrique64k.ice.infomaniak.ch/rfiafrique-64.mp3
 https://stream4.xdevel.com/audio0s976407-1191/stream/icecast.audio
 #EXTINF:-1,Rádio Sensibilização
 https://bissau.radio/listen/4361
-#EXTINF:-1,Rádio Voz de Quelélé
-https://player.srvsh.com.br/proxy/6770
 #EXTINF:-1,RFI 1 Afrique GB
 http://live02.rfi.fr/rfiafrique-64.mp3
 #EXTINF:-1,Radio Bantaba
@@ -21,3 +19,5 @@ https://s40.maxcast.com.br:8136/live?id=1633205305839
 https://halo.streamerr.co/listen/italiavera/stream.mp3
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/78218/logo_jukomvvHTQ.png",Hero Radio (Guinea Bissau)
 https://a2.asurahosting.com:6790/bissau.mp3
+#EXTINF:-1,Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3

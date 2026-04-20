@@ -5,8 +5,6 @@ http://streamingp.shoutcast.com/JamendoLounge?lang=*
 https://streaming.radio.co/se4a8e6a93/listen
 #EXTINF:-1,Rakuten.FM TOHOKU
 https://rakuteneagles-live.hls.wselive.stream.ne.jp/hls-live/1/rakuteneagles-live/livestream/playlist.m3u8
-#EXTINF:-1,CREATIVE FREEDOM radio
-#EXTINF:-1,Vocaloid Radio
 #EXTINF:-1,Gensokyo Radio
 https://stream.gensokyoradio.net/1/
 #EXTINF:-1,Moon Mission
@@ -37,7 +35,6 @@ http://kathy.torontocast.com:3340/stream
 https://kathy.torontocast.com:3330/stream
 #EXTINF:-1,Happy Hardcore Radio
 https://audio-edge-w4d68.yul.o.radiomast.io/0cef93cd-5974-43b1-868e-c739e81f4f2b
-#EXTINF:-1,The Confectionery
 #EXTINF:-1,A Chan
 http://jenny.torontocast.com:8066/stream.nsv
 #EXTINF:-1,AFN Tokyo Eagle 810
@@ -52,8 +49,6 @@ http://radio.kahoku.net:8000
 http://mtist.as.smartstream.ne.jp/30010/livestream/playlist.m3u8
 #EXTINF:-1,FM-N1
 http://mtist.as.smartstream.ne.jp/30001/livestream/playlist.m3u8
-#EXTINF:-1,FM Otaru FM - 76.3 ( FMおたる )
-https://fmotaru.jp/wp-content/uploads/fmotaru-simulradio.mp3
 #EXTINF:-1,Freebird Radio All Country-Rock
 http://freebird.ddns.net:8000/
 #EXTINF:-1,Data Fruits FM
@@ -68,8 +63,6 @@ https://play.streamafrica.net/JapanCityPop
 https://mtist.as.smartstream.ne.jp/30098/livestream/playlist.m3u8
 #EXTINF:-1,FM Nishi-Tokyo
 https://fmplapla.com/fmnishitokyo
-#EXTINF:-1,AFN Iwakuni
-http://17803.live.streamtheworld.com/AFNP_IWAAAC.aac
 #EXTINF:-1,HappyHardcore.com radio
 https://audio-edge-qse4n.yyz.g.radiomast.io/73055724-1141-41e2-a69b-24a6ca96c8e7
 #EXTINF:-1,Future Groove FM
@@ -122,25 +115,20 @@ https://www.jcbasimul.com/radionanami
 https://www.jcbasimul.com/
 #EXTINF:-1,True Life in God Radio Japanese
 https://stream.tligradio.org/listen/japanese/radio.mp3
-#EXTINF:-1,Air Tesshi
 #EXTINF:-1,Radio Takasaki
 https://www.takasaki.fm/
-#EXTINF:-1,FM Maizuru
 #EXTINF:-1,FM Niigata
 https://radiko.jp/#!/live/FMNIIGATA
 #EXTINF:-1,VOICE CUE
 https://www.jcbasimul.com/voicecue
 #EXTINF:-1,KNB Radio
 https://radiko.jp/#!/live/KNB
-#EXTINF:-1,Hassuru FM
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/15226.png",Manganime Radio
 https://listen.moe/opus
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/15273.png",Nara Dot FM
 https://audiocdn18.mixcloud.com/previews/3/5/7/a/6c55-0692-4d88-a6eb-08fd7150e51e.mp3
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/15282.png",FM Gaiya
 https://strm112.1.fm/radiogaia_mobile_aac
-#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/46184449.jpg",Beam FM - Adult Hits
-https://ice1.streeemer.com:8020/radio.mp3
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/30679672.jpg",FM Naha
 https://mtist.as.smartstream.ne.jp/30068/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/50444563.png",FM Ginowan

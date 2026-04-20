@@ -51,8 +51,6 @@ http://ice2.securenetsystems.net/WGNS
 http://audiostreaming.itworkscdn.com:9054/stream.mp3
 #EXTINF:-1,Reve Lebanon
 http://eu9.fastcast4u.com:5072/
-#EXTINF:-1,Nostalgie FM Slows De Legende
-http://ww25.adwzg3.tdf-cdn.com/8563/nrj_178223.mp3?type=.mp3&subid1=20251219-0137-45ba-9bb1-d1e9bdd3b67c
 #EXTINF:-1,RaDio SaHaR
 https://fmsahar.radioca.st/
 #EXTINF:-1,Middle East Radio International
@@ -67,8 +65,6 @@ https://streaming.brol.tech/rtfmlounge
 https://lbihits-lbnet2.radioca.st/stream
 #EXTINF:-1,Sawtalhoda 92.1 FM
 https://l3.itworkscdn.net/itwaudio/9032/stream
-#EXTINF:-1,My Dusty Tapes Radio
-#EXTINF:-1,Just Hits Frenchy
 #EXTINF:-1,Fajr Radio
 http://vps1.osina.cloud:9306/
 #EXTINF:-1,Mix FM
@@ -131,8 +127,6 @@ http://28503.live.streamtheworld.com/MIXFM_LEBANONAAC_SC
 http://europa.shoutca.st:8834/
 #EXTINF:-1,Radio Sawt El Noujoum
 http://audiostreaming.itworkscdn.com:9054/
-#EXTINF:-1,RLL Radio Liban Libre
-http://audiostreaming.itworkscdn.com:9036/
 #EXTINF:-1,Sawt el Mada 92.5
 http://audiostreaming.itworkscdn.com:9018/stream/
 #EXTINF:-1,Al-Nour FM
@@ -195,14 +189,10 @@ https://22183.live.streamtheworld.com/MIXFM_LEBANONAAC_SC?dist=onlineradiobox
 https://28573.live.streamtheworld.com/LIGHTFMAAC.aac?dist=onlineradiobox
 #EXTINF:-1,RaDio SaHaR radio
 https://fmsahar.radioca.st/?1636731096349
-#EXTINF:-1,Pinoy Alternative Fm radio
-https://razzrdfx.com/listen/pinoy_alternative_radio_fm/radio.mp3
 #EXTINF:-1,Lob Anan Radio
 https://listen.radioking.com/radio/152170/stream/192625
 #EXTINF:-1,Angamy radio
 https://radio.avazfarsi.com:8010/radio.mp3
-#EXTINF:-1,Nostalgie FM radio
-http://www.nostalgie.fm/
 #EXTINF:-1,Delta Radio 101.7-101.9 FM
 http://s45.myradiostream.com:18408/\u0026type=mp3
 #EXTINF:-1,Yeridasartoutian Tsayne Radio
@@ -221,8 +211,6 @@ https://a2.asurahosting.com:7380/radio.aac
 https://n06.rcs.revma.com/23yuem43ehuvv
 #EXTINF:-1,Fame FM 99.9
 https://stream2.rcast.net/67679
-#EXTINF:-1,One FM 99.1
-https://media.mtv.com.lb/v1/broadcast/onefmaudio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/41003.v10.png",Jaras Scoop FM
 https://a1.asurahosting.com:8120/radio.mp3
 #EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/39401.v11.png",Delta Radio
@@ -255,3 +243,27 @@ https://securestreams5.reliastream.com:1820/
 https://streaming.nrjaudio.fm/ousra9m4z85f
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80635/logo_SserCDVWvU.png",Beirut Nights Radio
 https://stream1.rcast.net/67679
+#EXTINF:-1,91.7FM Al Nour Radio - 91.9 / 92.2    إذاعة النور :: رائدة الصوت والكلمة :: بيروت - لبنان
+http://andromeda.shoutca.st:8192/stream.mp3
+#EXTINF:-1,Radio Delta Lebanon
+http://cast3.my-control-panel.com:8501/
+#EXTINF:-1,Fame FM Lebanon
+https://l3.itworkscdn.net/itwaudio/9044/stream
+#EXTINF:-1,Light FM 90.5 & 90.7 Beirut
+http://28573.live.streamtheworld.com/LIGHTFMAAC_SC
+#EXTINF:-1,Sawt El Ghad - FM 96.7
+https://l3.itworkscdn.net/itwaudio/9030/stream/
+#EXTINF:-1,Hit 90
+https://edge10.streamonkey.net/energy-90erhits/stream/mp3?aggregator=shorty
+#EXTINF:-1,.. مختصر التفسير
+https://qurango.net/radio/mukhtasartafsir
+#EXTINF:-1,montcarlo
+https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3
+#EXTINF:-1,Sawt El Shaeb
+https://audio.osina.cloud:9320/stream
+#EXTINF:-1,Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1,voice of charity
+http://cassini.shoutca.st:9496/xstream
+#EXTINF:-1,LBI Radio
+https://live.lbiradio.com/listen/station_1/1

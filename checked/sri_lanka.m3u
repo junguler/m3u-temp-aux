@@ -29,8 +29,6 @@ http://cp12.serverse.com:7249/stream/
 http://radio.lotustechnologieslk.net:8000/stream/
 #EXTINF:-1,රංගිරි ශ්‍රි ලංකා අනුපාතය
 http://rangiri.radioca.st:8827/stream
-#EXTINF:-1,APayy Radio - LiveFM
-http://cp11.serverse.com:7118/live
 #EXTINF:-1,APayy Radio - Classic Radio
 http://cp11.serverse.com:7121/live
 #EXTINF:-1,APayy Radio - APayy Radio Hitz
@@ -79,8 +77,6 @@ https://28983.live.streamtheworld.com/HOTDANCERADIO.mp3
 http://streaming.radio.co/s0cfc93915/listen
 #EXTINF:-1,Fox Online
 http://streamingp.shoutcast.com/JamendoLounge?lang=*
-#EXTINF:-1,Radio Plus Sinhala
-https://aurora.shoutca.st/radio/8100/radio.mp3
 #EXTINF:-1,VibeRadio
 http://centova32.instainternet.com:8063/.mp3
 #EXTINF:-1,OviyamFM
@@ -117,8 +113,6 @@ https://stream.zeno.fm/8vw9hec3kwzuv.m3u
 https://stream.zeno.fm/c51cr1tx5hhvv.m3u
 #EXTINF:-1,Shaa FM – 90.9 FM – LK-11
 https://radio.lotustechnologieslk.net:2020/stream/shaafmgarden
-#EXTINF:-1,Radio Lanka – LK-11
-https://sonic.whitelabelservers.co.uk/lankaradio/stream
 #EXTINF:-1,Sooriyan FM – LK-11
 https://radio.lotustechnologieslk.net:8006/stream.mp3
 #EXTINF:-1,Rangiri Sri Lanka Radio – Dambulla – Central – LK
@@ -185,8 +179,6 @@ https://stream02.pcradio.biz/rad_siras-med
 http://us1.internet-radio.com:8156/
 #EXTINF:-1,vendolradio
 http://195.154.185.139/radio/81724/stream/119917
-#EXTINF:-1,FLFN Radio
-http://comet.shoutca.st:8115/
 #EXTINF:-1,Red Rose Fm
 https://onair.punnagairadio.com/8146/stream;;
 #EXTINF:-1,SLBC Sinhala Commercial
@@ -203,8 +195,6 @@ https://mbc.thestreamtech.com:7032/index.html
 https://mbc.thestreamtech.com:8585/
 #EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/31004.v4.png",Sirasa
 https://mbc.thestreamtech.com:8087/index.html
-#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/JWU1Y2.png",Colombo Radio
-https://ais-sa2.cdnstream1.com/1981_128.mp3
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/station-logo-no.png",SLBC Asia English
 http://live-icy.gslb01.dr.dk:80/A/A09H.mp3
 #EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/G03504.png",Tamil FM
@@ -223,3 +213,33 @@ https://s46.myradiostream.com:11156/listen.mp3
 https://stream.starfm.lk:12265/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80372/logo_iZCkntmcd4.png",Bathusha Radio
 https://eu10.fastcast4u.com:14550/stream
+#EXTINF:-1,Hiru FM
+https://radio.lotustechnologieslk.net:2020/stream/hirufmgarden/stream/1/
+#EXTINF:-1,Lakviru Radio
+http://cp11.serverse.com:7643/stream
+#EXTINF:-1,V FM
+http://dc1.serverse.com:7178/stream/1/
+#EXTINF:-1,Gold FM
+https://radio.lotustechnologieslk.net:2020/stream/goldfmgarden
+#EXTINF:-1,Lankasri fm
+http://media2.lankasri.fm/stream.mp3
+#EXTINF:-1,Rangiri Sri Lanka
+https://rangiri.radioca.st/stream
+#EXTINF:-1,Laksara
+https://5a1178b42cc03.streamlock.net/laksara/laksara/chunklist_w1617919055.m3u8
+#EXTINF:-1,Kothmale FM
+https://s11.myradiostream.com:25116/listen.mp3
+#EXTINF:-1,Anow Radio Hd+ Tamil
+https://onair.punnagairadio.com/anowradiohd/stream
+#EXTINF:-1,Radio Plus Hitz
+https://altair.streamerr.co/stream/8054
+#EXTINF:-1,FOX 91.4 FM
+http://142.132.250.174:7673/stream
+#EXTINF:-1,Y FM - Hi-Res
+https://mbc.thestreamtech.com:7032/
+#EXTINF:-1,Lite 87.8
+https://lite878.com/wp-content/uploads/2020/12/spotifydown.com-Better-Place-From-TROLLS-Band-Together.mp3
+#EXTINF:-1,Wellon Radio Cafe
+https://wellonradio.out.airtime.pro/wellonradio_a
+#EXTINF:-1,Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
