@@ -12,14 +12,10 @@ jobs:
         with:
           daemon: true
 
-      - uses: wangsijie/setup-v2ray@v1
-        with:
-          config-base64: ${{ https://raw.githubusercontent.com/voidr3aper-anon/GFW-slayer/refs/heads/main/configs/regional/iran/emergency-add-on-for-iran.json }}
-
       - name: Setup yt-dlp
         uses: AnimMouse/setup-yt-dlp@main
     
-      - run: while ! yt-dlp --proxy socks5://127.0.0.1:1080/ --flat-playlist -s --print "id" "https://www.youtube.com/@AhmadZeidabadii" > ids.txt ; do sleep 5s ; done && echo "Success!"
+      - run: while ! yt-dlp --proxy socks5://127.0.0.1:10808/ --flat-playlist -s --print "id" "https://www.youtube.com/@AhmadZeidabadii" > ids.txt ; do sleep 5m ; done && echo "Success!"
 
       - name: git stuff
         run: |
