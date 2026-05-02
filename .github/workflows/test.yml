@@ -13,11 +13,11 @@ jobs:
     
       - run: |
           sudo apt update
-          sudo apt install tor
+          sudo apt install tor ffmpeg
           sudo systemctl start tor --now
           sudo systemctl enable tor --now
           curl -fsSL https://deno.land/install.sh | sh
-          while ! yt-dlp --proxy socks5://127.0.0.1:9050/ -f 18 NSIC3QVGzNE _ZNOLgM_518 mjqwTY9zjq4 5cq7y-OYxCY wrLJxZQUZqA ; do curl -s --socks5 127.0.0.1:9050 http://httpbin.org/ip ; sudo systemctl restart tor --now ; sleep 5s ; done && echo "Success!"
+          while ! yt-dlp --all-proxy=HTTP://127.0.0.1:10808/ -f 140 NSIC3QVGzNE _ZNOLgM_518 mjqwTY9zjq4 5cq7y-OYxCY wrLJxZQUZqA ; do curl -s --socks5 127.0.0.1:9050 http://httpbin.org/ip ; sudo systemctl restart tor --now ; sleep 5s ; done && echo "Success!"
 
       - name: git stuff
         run: |
