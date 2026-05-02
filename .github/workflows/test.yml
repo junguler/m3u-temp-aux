@@ -13,7 +13,6 @@ jobs:
     
       - run: |
           sudo apt update
-          sudo apt upgrade
           sudo apt install tor
           sudo systemctl start tor --now
           sudo systemctl enable tor --now
