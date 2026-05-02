@@ -10,6 +10,9 @@ jobs:
 
       - name: Setup yt-dlp
         uses: AnimMouse/setup-yt-dlp@main
+        with:
+          nightly: true
+          aria2: false
 
       - run: |
           sudo apt update
@@ -17,7 +20,7 @@ jobs:
           sudo systemctl start tor --now
           sudo systemctl enable tor --now
           curl -fsSL https://deno.land/install.sh | sh
-          while ! torsocks yt-dlp https://www.reddit.com/r/aivideos/comments/1qwtwte/kling_30_is_amazing/ ; do torsocks curl -s http://httpbin.org/ip ; sudo systemctl restart tor --now ; sleep 5s ; done && echo "Success!"
+          while ! torsocks yt-dlp https://www.reddit.com/r/ArtificialInteligence/comments/1qvsoy1/kling_30_is_here_testing_extensively_on/ ; do torsocks curl -s http://httpbin.org/ip ; sudo systemctl restart tor --now ; sleep 5s ; done && echo "Success!"
 
       - name: git stuff
         run: |
