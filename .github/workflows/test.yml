@@ -15,7 +15,7 @@ jobs:
       - name: Setup yt-dlp
         uses: AnimMouse/setup-yt-dlp@v3
     
-      - run: yt-dlp --proxy socks5://127.0.0.1:10808/ --flat-playlist -s --print "id" "https://www.youtube.com/@AhmadZeidabadii"
+      - run: while ! yt-dlp --proxy socks5://127.0.0.1:10808/ --flat-playlist -s --print "id" "https://www.youtube.com/@AhmadZeidabadii" > ids.txt ; do sleep 5m ; done && echo "Success!"
 
       - name: git stuff
         run: |
