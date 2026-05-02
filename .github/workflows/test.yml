@@ -15,7 +15,7 @@ jobs:
       - name: Setup yt-dlp
         uses: AnimMouse/setup-yt-dlp@v3
     
-      - run: yt-dlp --proxy socks5://127.0.0.1:10808/ -f 18 https://www.youtube.com/watch?v=_qQCWtUi4xo
+      - run: while ! yt-dlp --proxy socks5://127.0.0.1:10808/ -f 18 https://www.youtube.com/watch?v=_qQCWtUi4xo; do sleep 5; done && echo "Success!"
 
       - name: git stuff
         run: |
