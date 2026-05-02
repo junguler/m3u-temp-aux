@@ -9,8 +9,9 @@ jobs:
         uses: actions/checkout@main
 
       - name: Setup yt-dlp
-        uses: AnimMouse/setup-yt-dlp@main
-        run: yt-dlp -f 18 https://www.youtube.com/watch?v=q-GsxfMJwGc
+        uses: AnimMouse/setup-yt-dlp@v3
+    
+      - run: yt-dlp https://www.youtube.com/watch?v=DTi8wZ1a1TA
 
       - name: git stuff
         run: |
