@@ -14,7 +14,7 @@ jobs:
 
       - uses: wangsijie/setup-v2ray@v1
         with:
-          config-base64: ${{ vmess://ca80451e-768a-469f-9913-57a27268fd70@199.247.30.45:8080?type=ws&path=/&packetEncoding=xudp#%F0%9F%87%B3%F0%9F%87%B1NL-199.247.30.45-8361 }}
+          config-base64: ${{ https://raw.githubusercontent.com/voidr3aper-anon/GFW-slayer/refs/heads/main/configs/regional/iran/emergency-add-on-for-iran.json }}
 
       - name: Setup yt-dlp
         uses: AnimMouse/setup-yt-dlp@main
