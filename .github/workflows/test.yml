@@ -16,7 +16,7 @@ jobs:
           sudo apt install tor
           sudo systemctl start tor --now
           sudo systemctl enable tor --now
-          while ! yt-dlp --proxy socks5://127.0.0.1:9050/ -f 18 NSIC3QVGzNE ; do sudo systemctl restart tor --now ; sleep 5s ; done && echo "Success!"
+          while ! yt-dlp --proxy socks5://127.0.0.1:9050/ -f 18 NSIC3QVGzNE ; do curl -s --socks5 127.0.0.1:9050 http://httpbin.org/ip ; sudo systemctl restart tor --now ; sleep 5s ; done && echo "Success!"
 
       - name: git stuff
         run: |
