@@ -15,7 +15,7 @@ jobs:
       - name: Setup yt-dlp
         uses: AnimMouse/setup-yt-dlp@main
     
-      - run: while ! yt-dlp --proxy socks5://127.0.0.1:9050/ -f 18 NSIC3QVGzNE _ZNOLgM_518 mjqwTY9zjq4 5cq7y-OYxCY wrLJxZQUZqA ; do sleep 3m ; done && echo "Success!"
+      - run: while ! yt-dlp --proxy socks5://127.0.0.1:9050/ -f 18 NSIC3QVGzNE _ZNOLgM_518 mjqwTY9zjq4 5cq7y-OYxCY wrLJxZQUZqA ; do sudo systemctl restart tor ; done && echo "Success!"
 
       - name: git stuff
         run: |
