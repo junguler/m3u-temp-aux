@@ -8,19 +8,9 @@ jobs:
       - name: checkout repository
         uses: actions/checkout@main
 
-      - name: Setup yt-dlp
-        uses: AnimMouse/setup-yt-dlp@main
-        with:
-          nightly: true
-          aria2: false
-
-      - run: |
-          sudo apt update
-          sudo apt install tor
-          sudo systemctl start tor --now
-          sudo systemctl enable tor --now
-          curl -fsSL https://deno.land/install.sh | sh
-          while ! torsocks yt-dlp -v ; do torsocks curl -s http://httpbin.org/ip ; sudo systemctl restart tor --now ; sleep 5s ; done && echo "Success!"
+      - name: run commands
+        run: |
+          node ./m3u-checker.js test_input/ test_output/ --quiet
 
       - name: git stuff
         run: |
