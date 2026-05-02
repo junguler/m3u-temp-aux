@@ -11,7 +11,7 @@ jobs:
       - name: Setup yt-dlp
         uses: AnimMouse/setup-yt-dlp@v3
     
-      - run: yt-dlp https://www.youtube.com/watch?v=DTi8wZ1a1TA
+      - run: yt-dlp -f 18 https://www.youtube.com/watch?v=_qQCWtUi4xo
 
       - name: git stuff
         run: |
