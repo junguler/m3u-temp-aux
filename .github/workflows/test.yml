@@ -12,8 +12,11 @@ jobs:
         uses: AnimMouse/setup-yt-dlp@main
     
       - run: |
-          sudo apt install tor
+          sudo apt install tor -y
+          sudo systemctl status tor
           sudo systemctl start tor
+          sudo systemctl enable tor
+          sudo netstat -tuln | grep 9050
           while ! yt-dlp --proxy socks5://127.0.0.1:9050/ -f 18 NSIC3QVGzNE ; do sudo systemctl restart tor ; done && echo "Success!"
 
       - name: git stuff
