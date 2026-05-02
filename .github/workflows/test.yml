@@ -17,7 +17,7 @@ jobs:
           sudo systemctl start tor --now
           sudo systemctl enable tor --now
           curl -fsSL https://deno.land/install.sh | sh
-          while ! torsocks yt-dlp -f 140 NSIC3QVGzNE _ZNOLgM_518 mjqwTY9zjq4 5cq7y-OYxCY wrLJxZQUZqA ; do torsocks curl -s http://httpbin.org/ip ; sudo systemctl restart tor --now ; sleep 5s ; done && echo "Success!"
+          while ! torsocks yt-dlp -f 140 NSIC3QVGzNE _ZNOLgM_518 mjqwTY9zjq4 5cq7y-OYxCY wrLJxZQUZqA ; do torsocks curl -s http://httpbin.org/ip ; curl -s http://httpbin.org/ip ; sudo systemctl restart tor --now ; sleep 5s ; done && echo "Success!"
 
       - name: git stuff
         run: |
