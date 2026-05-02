@@ -13,7 +13,7 @@ jobs:
 
       - run: |
           sudo apt update
-          sudo apt install tor ffmpeg
+          sudo apt install tor
           sudo systemctl start tor --now
           sudo systemctl enable tor --now
           curl -fsSL https://deno.land/install.sh | sh
