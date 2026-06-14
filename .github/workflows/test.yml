@@ -10,8 +10,8 @@ jobs:
 
       - name: run commands
         run: |
-          #for i in *.m3u ; do for j in $(cat $i) ; do wget -S --spider -q -t 1 -T 1 --max-redirect 0 $j 2>&1 | grep "HTTP/" | awk '{print $2}' | (cat ; echo $j ;) | paste -s -d " " >> A-$i ; done ; done
-          node ./m3u-checker.js test_input/ test_output/ --quiet
+          for i in $(cat stations.txt); do echo "$i"; curl -s http://l.lixty.com/en/s/$i > mep1; cat mep1 | htmlq ".text-xs> a" -t | paste -sd "_" | sed 's/_/___/g' | tr ' ' '_' > genr; cat mep1 | htmlq "body>div>div>div>div>table tr:nth-child(1) td, body>div>div>div>div>table tr:nth-child(3) td" -t | tr ' ' '_' | sed ':a; N; $!ba; s/\n/___/g' > lang; cat mep1 | htmlq "body>div>div>div>div>div>div>img" | awk -F '"' '{print $8}' | sed 's/?w=160//' > img; cat mep1 | htmlq -t h1 > count; cat mep1 | sed 's|\\||g' | grep -oP '"url":"\K[^"]*' | head -n 1 > strm; sed 's/___/\n/g' lang | while read -r l; do echo -e "#EXTINF:-1 tv-logo=\"$(cat img)\",$(cat count)\n$(cat strm)" >> "${l}.m3u"; done; sed 's/___/\n/g' genr | while read -r g; do sanitized=$(echo "$g" | sed "s|/|_|g; s|:|_|g; s|'|_|g"); echo -e "#EXTINF:-1 tv-logo=\"$(cat img)\",$(cat count)\n$(cat strm)" >> "${sanitized}.m3u"; done; done
+          #node ./m3u-checker.js test_input/ test_output/ --quiet
 
       - name: git stuff
         run: |
