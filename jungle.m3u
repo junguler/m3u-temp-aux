@@ -2,3 +2,9 @@
 https://carol.epichosts.co.uk:8232/live.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-dubplatefm-drum-n-bass-logo.jpg",Radio Dubplate.fm - Drum 'n Bass
 https://sc2.dubplate.fm/radio/8030/dnb/uhifi
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-1213-radio-logo.jpg",1213 radio
+http://67.212.165.106:8048/listen.plslisten.pls
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-drum-and-bass-lounge-logo.jpg",Radio DRUM AND BASS LOUNGE
+http://198.15.94.34:8012/stream/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/drumsro-radio-181066-logo.jpg",Drums.ro Radio
+http://radio.drums.ro:8000/;

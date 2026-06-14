@@ -92,3 +92,13 @@ https://zt02.cdn.eurozet.pl/ZETHIT.mp3
 http://4stream.pl:18226/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pl-radio-orbit-logo.jpg",Radio Orbit
 http://s1.slotex.pl:7390/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pl-radio-opole-2-logo.jpg",Radio Opole 2
+http://dab.radio.opole.pl:8045/1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pl-antyradio-made-in-poland-logo.jpg",Antyradio Made in Poland
+https://an02.cdn.eurozet.pl/ANTPOL.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-radio-rampa-logo.jpg",Radio RAMPA
+https://stream.radio.co/s601fe08ae/listen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-wxyb-1520-am-logo.jpg",Radio WXYB 1520 AM
+http://wpso.com:7071/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/waln-digital-cable-radio-569173-logo.jpg",WALN Digital Cable Radio
+https://s9.voscast.com:9593/stream

@@ -4,3 +4,93 @@ https://icecast.italosound.com/italosound
 https://s25.myradiostream.com/:15246/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-00s-hits-logo.jpg",Radio 00's Hits
 https://live-bauerdk.sharp-stream.com/DK_HQ_RP07.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-radio-alfa-ostjylland-logo.jpg",Radio Alfa Østjylland
+https://radioserver.dk/alfa
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-alfa-sydfyn-182419-logo.jpg",Radio Alfa Sydfyn
+https://radioserver.dk/alfanet
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-radio-alfa-juleradio-logo.jpg",Radio Alfa Juleradio
+https://radioserver.dk/alfaevent
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-radio-jazz-logo.jpg",Radio Jazz
+https://radiojazzcopenhagen.out.airtime.pro/radiojazzcopenhagen_a
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-abc-182191-logo.jpg",Radio ABC
+https://radioserver.dk/abc
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-globus-163968-logo.jpg",Radio Globus
+https://stream.probroadcast.dk/radioglobus
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-la-salsa-del-tren-del-sabor-logo.jpg",Radio La Salsa Del Tren Del Sabor
+https://pstnet5.shoutcastnet.com:50384/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-dr-p4-logo.jpg",Radio DR P4
+http://live-icy.gss.dr.dk:8000/A/A08L.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-radio-aap-ki-awaz-logo.jpg",Radio Aap ki Awaz
+http://162.244.80.106:11332/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-anr-radio-logo.jpg",ANR Radio
+https://stream.anr.dk/anr
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-diablo-181874-logo.jpg",Radio Diablo
+https://icecast1.radiostuff.dk/Diablo128
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-dr-p3-logo.jpg",Radio DR P3
+http://live-icy.gss.dr.dk/A/A05L.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/xfm-181281-logo.jpg",Radio XFM
+http://stream.xfm.dk:8000/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dr-p5-157126-logo.jpg",Radio DR P5
+http://live-icy.gss.dr.dk/A/A25L.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dr-p1-571479-logo.jpg",Radio DR P1
+https://drliveradio.akamaized.net/hls/live/2022411/p1/masterab.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dr-p8-jazz-157117-logo.jpg",Radio DR P8 JAZZ
+https://drliveradio1.akamaized.net/hls/live/2097651/p8jazz/playlist-320000.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tiger-fm-155120-logo.jpg",Radio Tiger FM
+http://85.202.67.163:8001/stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-vlr-568936-logo.jpg",Radio VLR
+https://netradio.vlr.dk/vlr9b
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-radio-playback-logo.jpg",Radio Playback
+https://stream02.radioplayback.dk/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-radio-40-plus-logo.jpg",Radio 40 Plus
+https://stream.radiosolutions.dk/radio40plus
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/solo-fm-182214-logo.jpg",Radio Solo FM
+https://radioserver.dk/solo
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-skagafm-logo.jpg",Radio SkagaFM
+http://stream.wlmm.dk/skagafm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/myrock-602869-logo.jpg",Radio myROCK
+https://live-bauerdk.sharp-stream.com/myrock_dk_mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-radio-slr-koge-logo.jpg",Radio SLR Køge
+https://stream.probroadcast.dk/slrkoegemp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pop-fm-179784-logo.jpg",Radio Pop FM
+https://live-bauerdk.sharp-stream.com/popfm_dk_mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-limfjord-158741-logo.jpg",Radio Limfjord
+http://media.limfjordnetradio.dk/limfjord128
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-klassisk-155100-logo.jpg",Radio Klassisk
+https://live-bauerdk.sharp-stream.com/radioklassisk_dk_mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-nmradio-logo.jpg",NMRadio
+http://5.56.158.246:8000/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-radio-slr-slagelse-logo.jpg",Radio SLR Slagelse
+https://stream.probroadcast.dk/slagelsemp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-norea-radio-logo.jpg",Norea Radio
+http://radio.norea.dk:8080/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-nordic-lodge-copenhagen-logo.jpg",Radio Nordic Lodge Copenhagen
+https://larry.torontocast.com:2260/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-nordjyske-620256-logo.jpg",Radio NORDJYSKE
+https://stream.anr.dk/nordjyske
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/retro-radio-582010-logo.jpg",Retro Radio
+https://streammp3.retro-radio.dk/retro-mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/limfjord-mix-584650-logo.jpg",Radio Limfjord Mix
+http://media.limfjordnetradio.dk/plus128
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-naestved-lokalradio-logo.jpg",Naestved Lokalradio
+https://solid67.streamupsolutions.com/proxy/wcwmpntf?mp=/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-midtfjord-radio-logo.jpg",MIDTFJORD RADIO
+http://stream.midtfjordradio.dk/netradio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-radio-schubert-logo.jpg",Radio Schubert
+http://51.255.235.165:5128/stream/0/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-viborg-182346-logo.jpg",Radio Viborg
+https://netradio.radioviborg.dk/vib11d
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-boost-619159-logo.jpg",Radio Boost
+https://rbx2.hnux.com/http://149.202.22.75:8066/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-nordsjaellands-kristne-radio-logo.jpg",Nordsjællands Kristne Radio
+http://studie.hkr.dk:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rockkanalen-601063-logo.jpg",Radio Rockkanalen
+https://stream.kanalplus.fm/kp128
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-radio-kultur-logo.jpg",Radio Kultur
+http://198.7.62.157:8278/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/partyfm-597987-logo.jpg",Radio PartyFM
+https://stream1.partyfm.dk/Party128web
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-radio-halsnaes-logo.jpg",Radio Halsnæs
+http://halsstream.spdns.de/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-radio-i-ringkobing-logo.jpg",Radio i Ringkøbing
+http://netradio.radioringkobing.dk:8000/;

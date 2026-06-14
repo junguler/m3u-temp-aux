@@ -14,3 +14,7 @@ https://folk.bigportal.ba:8080/folk
 https://sonicpanel.vmakerhost.com/8192/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/ba-skala-logo.jpg",Radio Skala
 http://cast2.name.ba:9049/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ba-balkan-dj-radio-logo.jpg",Balkan DJ Radio
+http://balkan.dj.topstream.net:8070/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ba-pink-radio-logo.jpg",Pink Radio
+http://pink.exyuserver.com/;type=mp3

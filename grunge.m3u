@@ -12,3 +12,11 @@ https://streams.rsa-sachsen.de/rsa-event01/mp3-128/onlineradiobox/
 https://streams.rsa-sachsen.de/rsa-oldies/mp3-128/onlineradiobox/
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-rsa-live-logo.jpg",Radio R.SA Live
 https://streams.rsa-sachsen.de/rsa-live/mp3-128/onlineradiobox/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-star-fm-alternative-logo.jpg",Radio Star FM - Alternative
+https://stream.starfm.de/alternat/mp3-128/webseite
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-mediatica-fm-logo.jpg",Radio Mediatica FM
+https://earwaxme.radioca.st/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rock-radio-online-mexico-638355-logo.jpg",Rock Radio Online Mexico
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAM07AAC286_SC?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pirate-gong-587899-logo.jpg",Radio Pirate Gong
+https://edge10.streamonkey.net/fhn-gong971/stream/mp3?

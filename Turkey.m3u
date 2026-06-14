@@ -134,3 +134,51 @@ https://radyo.radyoimza.com/8008/stream
 http://yayin1.yayindakiler.com:3016/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr-radyo-derman-logo.jpg",Radio Radyo Derman
 https://ssl120.radyotelekom.com.tr/8710/stream/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr-radyo-nevsehir-logo.jpg",Radio Radyo Nevsehir
+http://radyonevsehir.radyoyayini.com:5000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radyo-ozgur-581342-logo.jpg",Radio Radyo Ozgur
+https://yayin.turkhosted.com:6072/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radyo-gul-158050-logo.jpg",Radio Radyo Gül
+http://yayin2.canliyayin.org:8866/;*.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr-fistik-fm-logo.jpg",Radio Fistik FM
+https://yayin.turkhosted.com/6064/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/aksaray-fm-165054-logo.jpg",Radio Aksaray FM
+https://ssl.radyosfer.com:17012/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr-sultan-radyo-logo.jpg",Radio Sultan Radyo
+http://yayin.turkhosted.com:4949/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gurbetci-fm-158165-logo.jpg",Radio Gurbetçi FM
+http://live2.radyotvonline.com:8750/;stream.mp3/mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr-radyo-burdur-logo.jpg",Radio Radyo Burdur
+http://yayin.netyayin.net:4070/;.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hit-fm-172971-logo.jpg",Radio Hit FM
+http://95.173.188.166:9316/stream?
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gun-fm-165074-logo.jpg",Radio Gun FM
+https://ssl120.radyotelekom.com.tr/8130/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr-igdir-fm-logo.jpg",Radio Igdir FM
+http://yayin2.yayindakiler.com:4158/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr-radyo-armoni-logo.jpg",Radio Radyo Armoni
+http://162.210.196.140:13633/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tempo-fm-182226-logo.jpg",Radio Tempo FM
+https://stream2.rtvtakip.com:7016/stream?type=httpu0026nocache=21
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr-radyo-gozlem-logo.jpg",Radio Radyo Gozlem
+http://arifozbey.com:8000/radyogozlem.ogg
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radyo-10-167297-logo.jpg",Radio Radyo 10
+http://sunucu2.radyosfer.com:9362/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/er-fm-163730-logo.jpg",Radio Er FM
+http://yayin3.canlitv.com:4090/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radyo-nikomedya-181093-logo.jpg",Radio Radyo Nikomedya
+http://yayin.netyayin.net:2631/;*.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tur-fm-163393-logo.jpg",Radio Tur FM
+http://sunucu.radyodinle.com:4848/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radyo-ozden-158144-logo.jpg",Radio Radyo Ozden
+http://live.radyotvonline.com:9050/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dost-radyo-584823-logo.jpg",Radio Dost Radyo
+http://yayin1.yayindakiler.com:3156/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr-radyo-mugla-logo.jpg",Radio Radyo Muğla
+http://yayin.yayindakiler.com:3006/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/serhat-fm-587612-logo.jpg",Radio Serhat FM
+http://sunucu2.radyolarburada.com:9150/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr-radio-sonix-logo.jpg",Radio Sonix
+http://cast5.servcast.net:3012/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr-eregli-fm-logo.jpg",Radio Eregli Fm
+http://yayin1.yayindakiler.com:3000/;

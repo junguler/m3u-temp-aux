@@ -24,3 +24,27 @@ https://streams.rsa-sachsen.de/rsa-event01/mp3-128/onlineradiobox/
 https://streams.rsa-sachsen.de/rsa-live/mp3-128/onlineradiobox/
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-rsa-das-beatles-radio-logo.jpg",R.SA  Das Beatles Radio
 https://streams.rsa-sachsen.de/rsa-beatles/aac-64/onlineradiobox/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-yeradio-logo.jpg",Radio Є!Радіо
+https://cast1.asurahosting.com/proxy/northst2/eradio1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-wave-1005-logo.jpg",Radio Wave 100.5
+https://us2.maindigitalstream.com/ssl/WAVL
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-1045-the-vault-logo.jpg",Radio 1045 The Vault
+http://s7.nexuscast.com:8026/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-nash-fm-1007-logo.jpg",Radio Nash FM 100.7
+https://playerservices.streamtheworld.com/api/livestream-redirect/KLSZFMAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uk-herald-radio-logo.jpg",Herald Radio
+http://europa.shoutca.st:8543/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-majic-937-logo.jpg",Radio Majic 93.7
+https://playerservices.streamtheworld.com/api/livestream-redirect/WMAJAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-1071-nash-icon-logo.jpg",Radio 107.1 Nash Icon
+https://playerservices.streamtheworld.com/api/livestream-redirect/KARXFMAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-981-2day-fm-logo.jpg",Radio 98.1 2day FM
+https://vistaradio.streamb.live/SB00094
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-c-ville-country-927-logo.jpg",Radio C-Ville Country 92.7
+https://live.amperwave.net/direct/saga-wcvlfmaac-ibc1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-real-country-wcka-943-fm-logo.jpg",Radio Real Country WCKA  94.3 FM
+https://streamdb7web.securenetsystems.net/cirrusencore/WCKA
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-bob-bobs-metal-623386-logo.jpg",Radio Bob! BOBs Metal
+https://streams.radiobob.de/bob-metal/aac-64/onlineradiobox/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-radio-bob-bobs-best-of-rock-logo.jpg",Radio Bob! BOBs Best of Rock
+https://streams.radiobob.de/bob-bestofrock/mp3-192/onlineradiobox/

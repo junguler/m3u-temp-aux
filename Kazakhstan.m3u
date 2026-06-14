@@ -4,3 +4,35 @@ https://hls-01-regions.emgsound.ru/11_kazakhstan/playlist.m3u8
 https://streamingv2.shoutcast.com/talapuralsk
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/kz-radio-bulbul-logo.jpg",Radio Bulbul
 https://stream.laut.fm/radiobulbul
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kz-nefm-rock-logo.jpg",Radio NE.FM Rock
+http://ne.fm/mp3/rockradio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tengri-fm-183337-logo.jpg",Radio Тенгри FM
+http://91.201.214.229:8000/tengrifm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kz-radio-ns-nacionalnaya-set-logo.jpg",Radio Радио NS - Национальная Сеть
+https://icecast.ns.kz/radions
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kz-radio-ice-logo.jpg",Radio Ice
+http://onair.radioice.ru:8000/mp3_128
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kz-radio-rassvet-logo.jpg",Radio Радио Рассвет
+http://s1.radioheart.ru:8001/rassvet
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kz-radio-ns-launzh-logo.jpg",Radio Радио NS – Лаунж
+http://89.219.35.26:8000/radions-lounge
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-kn-183278-logo.jpg",Radio Радио КН
+http://radiokn.ddns.net:7000/56?
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kz-radio-ns-shanson-logo.jpg",Radio Радио NS – Шансон
+http://89.219.35.26:8000/radions-shanson
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kz-radio-ns-dzhaz-logo.jpg",Radio Радио NS – Джаз
+http://89.219.35.26:8000/radions-jazz
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kz-palmera-blanca-logo.jpg",Radio Palmera Blanca
+http://onair.palmerablanca.com:8000/stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kz-radio-ns-rok-logo.jpg",Radio Радио NS – Рок
+http://89.219.35.26:8000/radions-rock
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kz-radio-orda-logo.jpg",Radio Радио Орда
+https://orda.daitsuna.net/orda/orda/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kz-radio-betelgejze-logo.jpg",Radio Радио Бетельгейзе
+http://sat.radio-betelgeuse.com:8000/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kz-radio-ns-russkij-hit-logo.jpg",Radio Радио NS - Русский хит
+http://89.219.35.26:8000/radions-russian
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kz-radio-ns-kazakh-music-logo.jpg",Radio Радио NS - Kazakh Music
+http://89.219.35.26:8000/radions-kz
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kz-yumor-fm-kazahstan-logo.jpg",Radio Юмор FM Казахстан
+https://live.zhanafm.kz:8443/veseloeradio_onair

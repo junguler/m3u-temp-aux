@@ -4,3 +4,21 @@ https://streaming.live365.com/a51326
 https://kiyi.radioca.st/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-indie-internet-radio-99-hd3-logo.jpg",Indie Internet Radio 99 HD3
 https://stream.zeno.fm/swnpk648td0uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-wclz-989-fm-logo.jpg",Radio WCLZ 98.9 FM
+https://live.amperwave.net/manifest/saga-wclzfmaac-hlsc1.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kuci-889-fm-575747-logo.jpg",Radio KUCI 88.9 FM
+https://streamer.kuci.org:8088/high
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-kucr-883-fm-logo.jpg",Radio KUCR 88.3 FM
+http://138.23.75.92:8001/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mt-all-rock-radio-logo.jpg",All Rock Radio
+http://s6.reliastream.com:8296/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-mediatica-fm-logo.jpg",Radio Mediatica FM
+https://earwaxme.radioca.st/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-skovoroda-614115-logo.jpg",Radio SKOVORODA
+http://stream.radioskovoroda.com:8000/radioskovoroda
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/musical-justice-576858-logo.jpg",Radio Musical Justice
+https://streaming.live365.com/a70753
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/krnu-575411-logo.jpg",Radio KRNU
+https://s8.yesstreaming.net:17004/krnu
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-krux-915-fm-logo.jpg",Radio KRUX 91.5 FM
+https://kruxstream.nmsu.edu/KRUX

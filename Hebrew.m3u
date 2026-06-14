@@ -46,3 +46,25 @@ https://broadcast.adpronet.com/radio/6060/radio.mp3
 https://gb25.streamgates.net/radios-audio/100Shlomo/playlist.m3u8
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/il-fm-102-logo.jpg",Radio FM 102
 https://cdn.cybercdn.live/Eilat_Radio/Live/icecast.audio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/il-radio-israel-1-logo.jpg",Radio Israel 1
+https://live.ecast.co.il/stream4/8025
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/il-radio-lelo-hafsaka-logo.jpg",Radio Lelo Hafsaka
+https://cdn.cybercdn.live/103FM/Live/icecast.audio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/il-radio-90-fm-logo.jpg",Radio 90 FM
+https://radio.streamgates.net/stream/90fm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/il-radio-kol-hagalil-haelion-logo.jpg",Radio Kol Hagalil Haelion
+https://radio.streamgates.net/stream/galil
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/il-eshel-logo.jpg",Radio Eshel
+http://stream.eshelnet.com/xstream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/il-radio-oranim-logo.jpg",Radio Oranim
+http://oranim.cdnwz.net/oranim
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/jlmfm-594776-logo.jpg",Radio Jlm.fm
+http://108.178.13.122:8102/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/il-radio-sol-logo.jpg",Radio Sol
+https://cp.multix.co.il/RadioSol/index.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/il-tshuvafm-logo.jpg",Radio TSHUVAfm
+https://stream.zeno.fm/0n5wzu13cpeuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/il-kol-ramat-hasharon-logo.jpg",Radio Kol Ramat Hasharon
+https://radio.streamgates.net/stream/1036
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/il-radiodance-logo.jpg",radioDANCE
+http://cp11.livecdn.biz/radiodance

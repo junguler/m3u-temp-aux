@@ -6,3 +6,43 @@ https://listen.radioking.com/radio/228241/stream/271810
 https://klassikr.streamabc.net/klassikr-opera-aac-128-3470802
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/france-musique-classique-easy-633723-logo.jpg",Radio France Musique Classique Easy
 http://direct.francemusique.fr/live/francemusiqueeasyclassique-hifi.mp3?ID=76zqey582k
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-classik-radio-logo.jpg",Classik Radio
+https://stream3.vestaradio.com/ClassikRadio?nocache=42118
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/es-adagio-radio-logo.jpg",Adagio Radio
+https://stream.tunerplay.com/listen/adagioradio/adagioradio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/es-splash-classical-logo.jpg",Radio Splash Classical
+https://ais-sa2.cdnstream1.com/2208_128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-wqxr-1059-fm-logo.jpg",Radio WQXR 105.9 FM
+https://stream.wqxr.org/wqxr.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rte-lyric-fm-571493-logo.jpg",Radio RTÉ Lyric FM
+https://www.rte.ie/radio/lyricfm/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nl-concertzender-utrecht-muziekstad-logo.jpg",Radio Concertzender - Utrecht Muziekstad
+https://streams.greenhost.nl:8006/vredenburg
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/concertzender-klassieke-muziek-170933-logo.jpg",Radio Concertzender - Klassieke Muziek
+https://streams.greenhost.nl:8006/klassiek
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/classical-fm-569104-logo.jpg",Radio Classical FM
+https://live.amperwave.net/direct/mzmedia-cfmzfmmp3-ibc2
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-klassisk-155100-logo.jpg",Radio Klassisk
+https://live-bauerdk.sharp-stream.com/radioklassisk_dk_mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hk-dbc數碼7台戲曲台-logo.jpg",Radio DBC數碼7台戲曲台
+http://rtspoversea.dbc.hk/dbc_mp3_ch7?215651.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-calm-radio-oratorios-logo.jpg",Calm Radio Oratorios
+https://calmradio.com/channel-guide/classical-music
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/classic-praha-609816-logo.jpg",Radio Classic Praha
+https://icecast8.play.cz/classic128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cz-radio-praha-international-logo.jpg",Radio Praha International
+https://icecast1.play.cz/cro7-32.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cz-cesky-rozhlas-vltava-logo.jpg",Radio Český rozhlas Vltava
+https://rozhlas.stream/vltava_aac_128.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-romania-muzical-180160-logo.jpg",Radio România Muzical
+http://stream2.srr.ro:8022/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ro-shalom-romania-logo.jpg",Radio Shalom Romania
+http://stream.radioshalom.ro:8000/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-classic-logo.jpg",Radio Classic
+https://goldenwest.leanstream.co/goldenwest/CKCLFM.stream/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-antena-2-opera-logo.jpg",Radio Antena 2 Opera
+https://streaming-live.rtp.pt/liveradio/antena2opera80a/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ro-radio-clasic-opera-logo.jpg",Radio Clasic Opera
+https://radioclasic.ro:8686/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/calm-radio-opera-159408-logo.jpg",Calm Radio Opera
+https://calmradio.com/channel-guide/classical-music

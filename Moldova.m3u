@@ -32,3 +32,27 @@ https://radio5.dixi.md/listen/roks_tricolor/roks_tricolor128.aac
 https://radio1.dixi.md/listen/relax_funk_soul/relaxfunkandsoul128.aac
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/kiss-fm-169892-logo.jpg",Radio Kiss FM
 https://live.kissfm.ro/kissfm.chisinau
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hit-fm-568312-logo.jpg",Radio HIT FM
+https://stream.dixi.md:9443/HitFM
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/maestro-fm-594449-logo.jpg",Radio Maestro FM
+http://live.maestrofm.md:8000/maestro
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-7-169788-logo.jpg",Radio 7
+http://5.32.169.229:8000/?1654143173164
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-lyubimoe-radio-logo.jpg",Radio Любимое Радио
+http://live.ruradio.md:8000/rr_balti
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-eco-fm-logo.jpg",Radio Eco FM
+http://188.138.204.98:8080/ecoFM
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-radio-noroc-logo.jpg",Radio Noroc
+https://stream.noroc.tv/radionoroc_aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-logos-590336-logo.jpg",Radio Logos
+https://www.radio.md/stream/radiologos
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-radio-zum-1-logo.jpg",Radio ZUM 1
+https://streams.radiozum.md/listen/zum1/ZUM1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-radio-moldova-tineret-logo.jpg",Radio Moldova - Tineret
+https://radiolive.trm.md:8001/hls_rmt/tineret.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-radio-vocea-basarabiei-logo.jpg",Radio Vocea Basarabiei
+https://stream.noroc.tv/radiovb_aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-radio-beat-logo.jpg",Radio BEAT
+https://ssl.omegahost.ro/9998/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-moldova-muzical-186938-logo.jpg",Radio Moldova - Muzical
+https://radiolive.trm.md:8001/hls_rmm/muzical.m3u8

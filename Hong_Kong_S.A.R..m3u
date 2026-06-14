@@ -6,3 +6,43 @@ https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/master.m3u8
 https://rthkradiocnrhk-live.akamaized.net/hls/live/2046111/radiocnrhk/master.m3u8
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/rthk-radio-5-569893-logo.jpg",RTHK Radio 5
 https://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/master.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rthk-radio-3-166944-logo.jpg",RTHK Radio 3
+https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hk-rthk-radio-putonghua-logo.jpg",RTHK Radio Putonghua
+https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/master.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hk-dbc數碼3台財經台-logo.jpg",Radio DBC數碼3台財經台
+http://rtspoversea.dbc.hk/dbc_mp3_ch3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hk-dbc數碼4台華語歌曲台-logo.jpg",Radio DBC數碼4台華語歌曲台
+http://rtspoversea.dbc.hk/dbc_mp3_ch4?221719.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hk-dbc數碼2台me2-logo.jpg",Radio DBC數碼2台me2
+http://rtspoversea.dbc.hk/dbc_mp3_ch2?042242.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hk-digital-radio-logo.jpg",Digital Radio
+http://ice.digitalradiohk.net:8000/drhk
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hk-d100-radio-logo.jpg",D100 Radio
+https://uk.d100.net:8001/Channel1-128MP3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hk-dbc數碼6台音樂台-logo.jpg",Radio DBC數碼6台音樂台
+http://rtspoversea.dbc.hk/dbc_mp3_ch6?190032.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hk-rthk-radio-4-logo.jpg",RTHK Radio 4
+https://rthkaudio4-lh.akamaihd.net/i/radio4_1@355867/master.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hk-dbc-5-radio-smiles-logo.jpg",DBC 5 Radio Smiles
+http://rtspoversea.dbc.hk/dbc_mp3_ch5?192219.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hk-dbc數碼7台戲曲台-logo.jpg",Radio DBC數碼7台戲曲台
+http://rtspoversea.dbc.hk/dbc_mp3_ch7?215651.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hk-brg-top-50-logo.jpg",Radio BRG - Top 50
+https://gfm.rastream.com/gfm-todaysmix?
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hk-brg-rock-logo.jpg",Radio BRG - Rock
+https://gfm.rastream.com/gfm-classicsrewind?
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hk-brg-edmclub-logo.jpg",Radio BRG - EDM/Club
+https://gfm.rastream.com/gfm-clubhkgfm?
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hk-brg-80s90s-logo.jpg",Radio BRG - 80's/90's
+https://gfm.rastream.com/gfm-awesome80s?
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hk-brg-asia-hits-logo.jpg",Radio BRG - Asia Hits
+https://billboardradio.rastream.com/gfm-asiahitz.web
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hk-brg-china-hits-logo.jpg",Radio BRG - China Hits
+https://billboardradio.rastream.com/gfm-asiahitzchina?
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hk-apple-fm-logo.jpg",Radio Apple-FM
+http://sc7b.apple-fm.net:8188/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hk-lovehkradiocom-logo.jpg",Lovehkradio.com
+https://streaming.radio.co/s6f4c5734d/listen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hk-fing-radio-logo.jpg",Fing Radio
+https://stream.laut.fm/bluesfan

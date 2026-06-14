@@ -8,3 +8,19 @@ https://metalstation.stream.laut.fm/metalstation
 https://metal-fm-com.stream.laut.fm/metal-fm-com
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-metal-on-80s-hnh-logo.jpg",Radio Metal On: 80s HNH
 https://radiometalon.com/listen/radio_metal_on_80s_hnh/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/star-fm-from-hell-577717-logo.jpg",Radio Star FM - From Hell
+https://streams.starfm.de/from_hell.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-rmf-hard-and-heavy-577762-logo.jpg",Radio RMF - Hard & Heavy
+https://rs103-krk.rmfstream.pl/HARDHEAVY
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-radio-roks-0-logo.jpg",Radio ROKS
+https://online.radioroks.ua/RadioROKS
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-dash-radio-monsters-of-rock-logo.jpg",Dash Radio - Monsters of Rock
+https://ice55.securenetsystems.net/DASH14
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-z-rock-1069-logo.jpg",Radio Z Rock 106.9
+http://zrockkkzr.com:9000/ZRock128k.mp3/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/definite-rock-607617-logo.jpg",Radio Definite Rock
+http://82.77.137.30:8555/sid=1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-metal-heavy-183040-logo.jpg",Radio Metal On: The Heavy
+https://radiometalon.com/listen/radio_metal_on_the_heavy/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-mix-rock-metal-radio-logo.jpg",MIX ROCK METAL RADIO
+http://s3.myradiostream.com:4202/;stream.nsv

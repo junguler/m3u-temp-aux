@@ -22,3 +22,53 @@ https://radiohd.streaminghd.co:7436/live
 https://cast2.my-control-panel.com/proxy/diospis1/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-besame-0-1-2-3-4-logo.jpg",Radio Bésame
 https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_MANIZALESAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ec-america-estereo-logo.jpg",Radio America Estereo
+https://streamingecuador.net:9101/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ec-tropicalida-logo.jpg",Radio Tropicalida
+https://alba-ec-tropicalida-tropicalida.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ec-america-estereo-0-logo.jpg",Radio America Estereo
+https://streamingecuador.net:9103/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ec-america-estereo-0-1-2-logo.jpg",Radio America Estereo
+https://streamingecuador.net:9104/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ec-antena-3-logo.jpg",Radio Antena 3
+https://streamingecuador.net:9368/radioantena3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/do-tropical-100-vallencumbia-logo.jpg",Radio Tropical 100 VallenCumbia
+https://tropical100.net:8452/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ve-tu-voz-stereo-logo.jpg",Radio TU VOZ stereo
+https://stream.zeno.fm/84i9pbpuiovtv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ve-zulia-vallenata-logo.jpg",Radio Zulia Vallenata
+https://laradiossl.online:10347/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ve-ra-909-logo.jpg",Radio R.A. 90.9
+https://transmision.raenlinea.com:8087/RA909FM
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-la-meta-809-logo.jpg",Radio La Meta 809
+https://stream.zeno.fm/w5u4qz9qwv5tv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-la-mega-capital-logo.jpg",Radio La Mega Capital
+https://audio.livecastnet.com:2635/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/el-sol-186702-logo.jpg",Radio El Sol
+https://rcnmundo.com/elsolbuenaventura?
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-la-joya-fm-logo.jpg",Radio La Joya FM
+https://streaming.tresbi.com/8314/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-fiesta-buga-logo.jpg",Radio Fiesta Buga
+https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/632cc859ebfe48089b0c51c5
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-besame-logo.jpg",Radio Bésame
+https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_CALIAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-paisa-179127-logo.jpg",Radio Paisa
+https://rcnmundo.com/radiopaisa?
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-radio-guajira-estereo-logo.jpg",Radio Guajira Estéreo
+https://ssl.rads2.com/listen/guajira2/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-pop-anglo-logo.jpg",Radio Pop Anglo
+https://rcnmundo.com/popanglo?
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-radio-uno-logo.jpg",Radio Uno
+https://rcnmundo.com/radiounobarbosa?
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-fantastica-logo.jpg",Radio Fantástica
+https://rcnmundo.com/fantasticamedellin
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-calidad-158409-logo.jpg",Radio Calidad
+https://rcnmundo.com/calidadcali?
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-uno-179292-logo.jpg",Radio Uno
+https://rcnmundo.com/radiounocali?
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-radio-uno-0-logo.jpg",Radio Uno
+https://rcnmundo.com/radiounobarranca?
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-123-vallenato-logo.jpg",Radio 123 Vallenato
+https://radiolatina.info:10903/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-la-reina-0-logo.jpg",Radio La Reina
+https://playerservices.streamtheworld.com/api/livestream-redirect/RNA_CARTAGENA.mp3?dist=onlineradiobox

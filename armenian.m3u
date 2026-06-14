@@ -8,3 +8,5 @@ https://s8.myradiostream.com/15554/listen.mp3
 https://streams.radio.co/sa0bf8ec29/listen
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/af-radio-salam-watandar-logo.jpg",Radio Salam Watandar
 https://s10.myradiostream.com/12238/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-radio-armenie-fm-logo.jpg",Radio Armenie FM
+http://direct.radioarmenie.com:9029/stream/;

@@ -18,3 +18,5 @@ https://audio.social3.hr/listen/bravo_kids/stream?9878
 https://audio.social3.hr/listen/bravo_kids/stream?9878
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/hr-radio-lenor-logo.jpg",Radio Lenor
 http://144.76.39.214:6042/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-bum-171570-logo.jpg",Radio Bum
+http://217.24.17.31:8102/;

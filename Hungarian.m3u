@@ -38,3 +38,11 @@ http://cast3.my-control-panel.com:8451/live
 http://mr-stream.mediaconnect.hu/4734/mr1.aac
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-radio-maria-logo.jpg",Radio Maria
 https://stream.mariaradio.hu:8000/mr_ajka
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ro-plusz-fm-logo.jpg",Radio Plusz FM
+https://stream2.radiotransilvania.ro/Margitta
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ro-fun-fm-logo.jpg",Radio Fun FM
+http://online.funfm.ro:8000/funfm.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ro-slager-radio-logo.jpg",Radio Sláger Rádió
+http://93.115.175.206:8000/raspi
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kw-quran-radio-quran-in-hungarian-logo.jpg",Qur'an Radio - Quran in Hungarian
+http://server2.quraan.us:9980/;*.mp3

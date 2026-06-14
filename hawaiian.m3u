@@ -1,2 +1,10 @@
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-aloha-joes-christmas-radio-logo.jpg",Aloha Joe's Christmas Radio
 http://s9.voscast.com:8322/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-island-989-fm-kauai-logo.jpg",Radio Island 98.9 FM Kauai
+https://streaming.live365.com/a53788
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-q-1037-fm-logo.jpg",Radio Q 103.7 FM
+http://streamdb7web.securenetsystems.net/v5/KNUQ
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-surf-shack-radio-logo.jpg",Surf Shack Radio
+https://la2.indexcom.com/hls/disco/program.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hawaiian-rainbow-576839-logo.jpg",Radio Hawaiian Rainbow
+https://fwd.autopo.st/hawaiianrainbow/;stream.mp3

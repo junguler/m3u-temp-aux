@@ -26,3 +26,103 @@ http://cast.fex.net:8000/djfm_h
 https://cast.brg.ua/djfmdance_main_public_mp3_hq
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/rabinovich-fm-607149-logo.jpg",Radio Rabinovich-FM
 http://212.26.146.50:8000/rabin.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uafm-156001-logo.jpg",Radio UAFM
+http://live.uafm.org:9001/uafm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-radio-maksimum-logo.jpg",Radio Радіо Максимум
+https://streamvideo.luxnet.ua/maximum/smil:maximum.stream.smil/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-ekoradio-logo.jpg",Radio ЕкоРадіо
+http://134.249.140.134:8000/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-radio-nv-logo.jpg",Radio Радіо НВ
+https://online-radio.nv.ua/radionv.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-109fm-logo.jpg",Radio 109FM
+https://solid48.streamupsolutions.com/proxy/cfujtbgw/109fm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-avtoradio-ukrayina-logo.jpg",Radio Авторадіо Україна
+https://cast.mediaonline.net.ua/avtoradio320
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rzk-592392-logo.jpg",Radio RzK
+http://stream.mjoy.ua:8000/radio-z-kryjivky
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-ua-ukrayinske-radio-logo.jpg",Radio UA: Українське радіо
+http://radio.nrcu.gov.ua:8000/ur1-mp3-m
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-tranceuphoria-logo.jpg",Radio TrancEuphoria
+http://s2.radioheart.ru:8041/nonstop
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-drugij-kanal-promin-logo.jpg",Radio Другий канал "Промiнь"
+http://radio.nrcu.gov.ua:8000/ur2-mp3-m
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-trance-is-star-radio-logo.jpg",TRANCE IS STAR RADIO
+https://myradio24.org/tisradio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-tretij-kanal-kultura-logo.jpg",Radio Третій канал "Культура"
+https://radio3.ukr.radio/ur3-mp3-m
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-vgolos-fm-logo.jpg",Radio Вголос FM
+https://cast108372.customer.uar.net/vgolos64
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-oradio-logo.jpg",ORadio
+https://myradio24.org/9209
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-bumblebee-logo.jpg",Radio BumbleBee
+https://live.bfm.net.ua:8000/radio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-radio-aristokraty-logo.jpg",Radio Радио Аристократы
+http://air.aristocrats.fm:8000/live2
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-zhitomirska-hvilya-logo.jpg",Radio Житомирська хвиля
+http://radio.nrcu.gov.ua:8000/ur1-zt-aacplus
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-lvivska-hvilya-logo.jpg",Radio Львівська хвиля
+https://onair.lviv.fm:8443/lviv.fm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-radio-es-logo.jpg",Radio Радио ЕС
+http://185.65.245.34:8000/kiev
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/narodnoe-radio-577990-logo.jpg",Radio Народное Радио
+http://62.80.190.247:8001/NaRadiO128
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/happy-radio-613085-logo.jpg",Happy Radio
+https://stream.zeno.fm/nkeaps48xg0uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/strij-fm-168134-logo.jpg",Radio Стрий FM
+http://193.53.83.13:8000/stryi-fm_mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-radio-rai-logo.jpg",Radio Радіо РАІ
+https://radio.rai.ua:9000/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-informator-fm-logo.jpg",Radio Informator FM
+https://main.inf.fm:8101/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-radio-terra-logo.jpg",Radio Радіо Терра
+http://176.107.91.151:8000/terra
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-radio-pyatnicya-logo.jpg",Radio Радіо П'ятниця
+https://cast.mediaonline.net.ua/radiopyatnica320
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-yeradio-logo.jpg",Radio Є!Радіо
+https://cast1.asurahosting.com/proxy/northst2/eradio1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-magnoliya-logo.jpg",Radio Магнолия
+http://109.68.47.66:8080/stream128
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-radio-sokal-logo.jpg",Radio Радіо Сокаль
+http://online.sokal.lviv.ua:8000/sokalfm96.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-odessa-mama-logo.jpg",Radio Одесса Мама
+http://online.odessa.fm:8000/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-prosto-rock-logo.jpg",Radio Prosto Rock
+http://77.222.132.153:8000/PRock128
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-skovoroda-614115-logo.jpg",Radio SKOVORODA
+http://stream.radioskovoroda.com:8000/radioskovoroda
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-russkoe-radio-ukrayina-logo.jpg",Radio Русское Радио Україна
+https://online.rusradio.ua/RusRadio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-russkoe-radio-ukrayina-0-logo.jpg",Radio Русское Радио Україна
+https://online.rusradio.ua/RusRadio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-hit-fm-0-1-2-3-logo.jpg",Radio Хіт FM
+https://online.hitfm.ua/HitFM
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-kiss-fm-0-logo.jpg",Radio Kiss FM
+https://online.kissfm.ua/KissFM
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-hit-fm-0-1-2-3-4-logo.jpg",Radio Хіт FM
+https://online.hitfm.ua/HitFM
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-russkoe-radio-ukrayina-0-1-2-logo.jpg",Radio Русское Радио Україна
+https://online.rusradio.ua/RusRadio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-kiss-fm-0-1-2-logo.jpg",Radio Kiss FM
+https://online.kissfm.ua/KissFM
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-radio-roks-0-logo.jpg",Radio ROKS
+https://online.radioroks.ua/RadioROKS
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-russkoe-radio-ukrayina-0-1-2-3-logo.jpg",Radio Русское Радио Україна
+https://online.rusradio.ua/RusRadio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-melodiya-fm-0-logo.jpg",Radio Мелодія FM
+https://online.melodiafm.ua/MelodiaFM
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-radio-relax-logo.jpg",Radio Радіо Relax
+https://online.radiorelax.ua/RadioRelax
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-kiss-fm-0-1-2-3-logo.jpg",Radio Kiss FM
+https://online.kissfm.ua/KissFM
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-melodiya-fm-0-1-2-logo.jpg",Radio Мелодія FM
+https://online.melodiafm.ua/MelodiaFM
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-melodiya-fm-0-1-2-3-logo.jpg",Radio Мелодія FM
+https://online.melodiafm.ua/MelodiaFM
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-melodiya-fm-0-1-2-3-4-logo.jpg",Radio Мелодія FM
+https://online.melodiafm.ua/MelodiaFM
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-kiss-fm-0-1-2-3-4-logo.jpg",Radio Kiss FM
+https://online.kissfm.ua/KissFM
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-radio-relax-0-logo.jpg",Radio Радіо Relax
+https://online.radiorelax.ua/RadioRelax
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio1ua-631082-logo.jpg",Radio1.UA
+http://136.243.158.56:8000/online

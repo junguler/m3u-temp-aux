@@ -66,3 +66,43 @@ https://streaming.live365.com/a37354
 http://radiolatina.live:9798/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-alto-klibre-radio-logo.jpg",Alto Klibre Radio
 http://usa18.fastcast4u.com:5504/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/es-los-40-benidorm-logo.jpg",Radio Los 40 Benidorm
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ASO_BENIDORMAAC_SC?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/es-lafresca-logo.jpg",Radio laFRESCA
+https://stream.produccionesdale.com/listen/lafresca/altacalidad
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-latin-x-943-logo.jpg",Radio Latin X 94.3
+https://usa17.fastcast4u.com/proxy/fiestafm?mp=/1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-carolina-158275-logo.jpg",Radio Carolina
+https://mdstrm.com/audio/637f68ddce4b1208597d8a86/live.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-latina-156623-logo.jpg",Radio Latina
+https://server.laradio.online:58219/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-los-40-0-logo.jpg",Radio Los 40
+https://stream.zeno.fm/g1hl4jzallnvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-cali-939-logo.jpg",Radio Cali 93.9
+https://playerservices.streamtheworld.com/api/livestream-redirect/KLLI_FMAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-x963-logo.jpg",Radio X96.3
+https://www.univision.com/radio/nueva-york-wxny-fm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fm-tu-607800-logo.jpg",Radio FM TU
+https://playerservices.streamtheworld.com/api/livestream-redirect/FMTU_SC?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-retro-1029-fm-logo.jpg",Radio RETRO 102.9 FM
+https://server3.sit-mexico.com:2199/proxy/los40oax?mp=/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-super-965-fm-logo.jpg",Radio Súper 96.5 FM
+https://ss1.audiorama.com.mx:6662/;stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ec-onda-positiva-logo.jpg",Radio Onda Positiva
+https://streamingecuador.net:8011/radioondapositiva
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/amena-radio-593784-logo.jpg",Amena Radio
+https://srv.amenaradio.com.es/listen/amena-radio/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ec-laex-fm-logo.jpg",Radio LAEX FM
+https://streamingecuador.com:7018/laexfm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rumba-stereo-182931-logo.jpg",Radio Rumba Stereo
+http://198.204.234.10:8372/stream?type=.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ve-nex-1059-fm-logo.jpg",Radio NEX 105.9 FM
+https://plugstream.herokuapp.com/https://laradiossl.online:10094/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ve-la-radio-impresionante-logo.jpg",La Radio Impresionante
+https://laradiossl.online:10489/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-la-meta-809-logo.jpg",Radio La Meta 809
+https://stream.zeno.fm/w5u4qz9qwv5tv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/do-wxm-one-radio-logo.jpg",WXM ONE RADIO
+https://jm8n.net/8024/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lushstarr-radio-608972-logo.jpg",LushStarr Radio
+https://s10.voscast.com:7435/lushstarr

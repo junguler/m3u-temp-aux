@@ -94,3 +94,173 @@ https://streams.rsa-sachsen.de/rsa-event01/mp3-128/onlineradiobox/
 https://streams.rsa-sachsen.de/rsa-live/mp3-128/onlineradiobox/
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-rsa-das-beatles-radio-logo.jpg",R.SA  Das Beatles Radio
 https://streams.rsa-sachsen.de/rsa-beatles/aac-64/onlineradiobox/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/es-xtrafm-costa-blanca-logo.jpg",Radio XtraFM Costa Blanca
+https://hls1.eu.peppermindmedia.com/xtrafm/south/XtraFMSouth.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ch-lfm-2000s-logo.jpg",Radio LFM 2000s
+https://webradio0009.ice.infomaniak.ch/webradio0009-128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/inolvidable-fm-175466-logo.jpg",Radio Inolvidable FM
+https://uk1.streamingpulse.com/ssl/inolvidablefm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/es-coast-fm-tenerife-north-logo.jpg",Radio Coast FM Tenerife North
+https://securestreams.autopo.st:1209/tennorth
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/star-98-574898-logo.jpg",Radio Star 98
+http://streamdb4web.securenetsystems.net/cirrusencore/KLLP
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-the-rewind-104-3-kcar-fm-logo.jpg",Radio The Rewind 104-3 KCAR-FM
+https://streamdb9web.securenetsystems.net/cirrusencore/KCAR
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-vibration-fm-2000-logo.jpg",Radio Vibration FM 2000
+https://vibration2000.ice.infomaniak.ch/vibration2000.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hotmixradio-2000-602820-logo.jpg",Hotmixradio 2000
+https://streaming.hotmixradio.fr/hotmix-2000s-fr-mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/es-radio-8-logo.jpg",Radio 8
+https://relay.stream.enacast-cloud.com:30271/radio8HD.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-allzic-radio-rap-us-logo.jpg",Allzic Radio Rap US
+https://allzic01.ice.infomaniak.ch/allzic01.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-wit-fm-2000-logo.jpg",Radio Wit FM 2000
+https://wit2000.ice.infomaniak.ch/wit2000.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/voltage-2000-636111-logo.jpg",Radio Voltage 2000
+https://voltage2000.ice.infomaniak.ch/voltage2000-128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-metropolys-radio-logo.jpg",Metropolys Radio
+https://stream.rcs.revma.com/rvwymh32w42vv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rfc-radio-585220-logo.jpg",RFC Radio
+http://lyra.shoutca.st:8151/rfcaacHD
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ng-classic-fm-logo.jpg",Radio CLASSIC FM
+https://atunwapodcasts.com/player/classicfmlagos.html
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/au-889fm-tamworth-logo.jpg",Radio 88.9fm Tamworth
+https://stream.889fmtamworth.com.au:8443/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-yeradio-logo.jpg",Radio Є!Радіо
+https://cast1.asurahosting.com/proxy/northst2/eradio1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-radio-brocken-livestream-logo.jpg",Radio Brocken Livestream
+https://stream.radiobrocken.de/live/aac-64/onlineradiobox/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-radio-saw-2000-logo.jpg",radio SAW - 2000
+https://saw-stream21.radiohost.de/saw-2000er_mp3-192
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-rsa-logo.jpg",Radio RSA
+https://rsaradio-live.cast.addradio.de/rsaradio/live/mp3/high
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uk-bfbs-rewind-logo.jpg",Radio BFBS Rewind
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs21.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-mas-590619-logo.jpg",Radio Mas
+https://streaming1.locucionar.com/proxy/mas1019?mp=/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/absolute-radio-00s-181028-logo.jpg",Absolute Radio - 00s
+https://edge-bauerabsolute-05-gos2.sharp-stream.com/absolute00shigh.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/crc-fm-169618-logo.jpg",Radio CRC FM
+https://ascella.streamerr.co/radio/8310/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mt-net-fm-logo.jpg",Radio NET FM
+https://s2.voscast.com:11393/default
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/etoile-fm-162328-logo.jpg",Radio Etoile FM
+http://91.121.59.45:8322/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pulsradio-2000-619002-logo.jpg",PulsRadio 2000
+https://icecast.pulsradio.com/puls00AAC64.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mt-bay-radio-retro-logo.jpg",Bay Radio Retro
+https://stream.v3.network/proxy/retro/stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mt-xfm-1002-logo.jpg",Radio XFM 100.2
+http://162.252.85.85:7866/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/prysm-dance-revival-605670-logo.jpg",Radio Prysm Dance Revival
+https://stream.rcs.revma.com/cptzsdc9grruv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kiss-fm-577028-logo.jpg",Radio Kiss FM
+https://webprod.sipse.com.mx:8080/kissfm/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-laggz-radio-logo.jpg",Laggz Radio
+http://198.58.106.133/proxy/djlaggz?mp=/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/blu-fm-185674-logo.jpg",Radio Blu FM
+http://radio.promosat.com:8102/;stream/1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-trion-fm-logo.jpg",Radio Trión FM
+https://trion.b-cdn.net/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-bounce-radio-logo.jpg",Bounce Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/CICZFMAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/r101-enjoy-the-music-579302-logo.jpg",Radio R101 Enjoy The Music
+https://icy.unitedradio.it/101Legend.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/is-flashback-fm-logo.jpg",Radio FlashBack FM
+https://ice-11.spilarinn.is/flashback
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-freewaav-internet-radio-logo.jpg",Freewaav Internet Radio
+https://freewaav.com/HLS/program.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-radio-slr-slagelse-logo.jpg",Radio SLR Slagelse
+https://stream.probroadcast.dk/slagelsemp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-immagine-579364-logo.jpg",Radio Immagine
+https://nr8.newradio.it/proxy/radioimm?mp=/;?ext=.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-bounce-radio-0-logo.jpg",Bounce Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/CKLHFMAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-estereo-joven-0-logo.jpg",Radio Estéreo Joven
+http://184.107.134.130:9326/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-retro-digital-logo.jpg",Radio Retro Digital
+https://s3.radio.co/se38d935ab/listen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/au-ukwa-radio-logo.jpg",UKWA Radio
+http://uk2-pn.webcast-server.net:8348/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-nash-fm-1007-logo.jpg",Radio Nash FM 100.7
+https://playerservices.streamtheworld.com/api/livestream-redirect/KLSZFMAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/daytonas-surf-602429-logo.jpg",Radio Daytona's Surf
+https://streaming.live365.com/a72854
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-the-hits-logo.jpg",Radio The Hits
+https://ais-nzme.streamguys1.com/nz_024/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-the-hits-0-logo.jpg",Radio The Hits
+https://ais-nzme.streamguys1.com/nz_027/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/the-heat-614460-logo.jpg",Radio The Heat
+http://apple2.irirangi.net:8000/The_Heat.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-the-hits-0-1-2-logo.jpg",Radio The Hits
+https://ais-nzme.streamguys1.com/nz_022/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-the-hits-0-1-2-3-logo.jpg",Radio The Hits
+https://ais-nzme.streamguys1.com/nz_014/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-sun-fm-logo.jpg",Radio Sun FM
+https://ais-nzme.streamguys1.com/nz_134_aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-k975-logo.jpg",Radio K97.5
+https://streamdb8web.securenetsystems.net/cirrusencore/kabx
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-dash-radio-y2k-logo.jpg",Dash Radio - Y2K
+https://ice55.securenetsystems.net/DASH19
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-ksli-1280-am-logo.jpg",Radio KSLI 1280 AM
+https://lonestar1280.com/listen-live/popup/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-mix-941-fm-logo.jpg",Radio Mix 94.1 FM
+http://mix941kmxj.com/listen-live/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-k-lite-radio-logo.jpg",K-Lite Radio
+https://streamdb8web.securenetsystems.net/cirrusencore/987KLITE
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-radio-vega-logo.jpg",Radio Радио Vega +
+http://88.80.96.25:40070/vega.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uk-radio-lanarkshire-logo.jpg",Radio Lanarkshire
+https://riclewes.radioca.st/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uk-tay-bridges-radio-logo.jpg",Tay Bridges Radio
+https://solid2.streamupsolutions.com/proxy/kyfzyaqw/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uk-herald-radio-logo.jpg",Herald Radio
+http://europa.shoutca.st:8543/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hitradio-city-milenium-588724-logo.jpg",Radio Hitrádio City  Milénium
+https://ice2.radia.cz/hitmi128.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-majic-937-logo.jpg",Radio Majic 93.7
+https://playerservices.streamtheworld.com/api/livestream-redirect/WMAJAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-1041-wdlt-logo.jpg",Radio 104.1 WDLT
+https://playerservices.streamtheworld.com/api/livestream-redirect/WDLTFMAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bigfoot-country-1021-and-1013-569992-logo.jpg",Radio Bigfoot Country 102.1 & 101.3
+https://streamdb5web.securenetsystems.net/v5/WOWQ
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/country-giant-165216-logo.jpg",Radio The Country Giant
+http://radio.securenetsystems.net/v5/KLGD
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-1071-nash-icon-logo.jpg",Radio 107.1 Nash Icon
+https://playerservices.streamtheworld.com/api/livestream-redirect/KARXFMAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-981-2day-fm-logo.jpg",Radio 98.1 2day FM
+https://vistaradio.streamb.live/SB00094
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-c-ville-country-927-logo.jpg",Radio C-Ville Country 92.7
+https://live.amperwave.net/direct/saga-wcvlfmaac-ibc1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/id-kis-951-fm-logo.jpg",Radio KIS 95.1 FM
+https://ic.mari.co.id:8443/kisfm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-bounce-919-logo.jpg",Radio Bounce 91.9
+https://playerservices.streamtheworld.com/api/livestream-redirect/CKLYFM_SC?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/geice-fm-578166-logo.jpg",Radio Geice FM
+https://ec2.yesstreaming.net:3275/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-som-flashback-logo.jpg",Radio Rádio Som Flashback
+http://stm41.srvstm.com:9254/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/it-radio-venezia-la-radio-che-balla-logo.jpg",Radio Venezia - La Radio che Balla
+http://audio.streamshow.it:8012/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-jetsetfm-logo.jpg",Radio JetSetFM
+https://streaming.live365.com/a28904
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-cherie-2000-logo.jpg",Radio Cherie 2000
+https://scdn.nrjaudio.fm/adwz1/fr/55495/mp3_128.mp3?origine=radioboxu0026aw_0_1st.station=CHERIE-ANNEES-2000
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/katy-country-931-575010-logo.jpg",Radio Katy Country 93.1
+https://live.amperwave.net//direct/alphacorporate-kmktfmaac-ibc4?source=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-coast-933-logo.jpg",Radio Coast 93.3
+https://playerservices.streamtheworld.com/api/livestream-redirect/WNCVFM.mp3?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-real-country-wcka-943-fm-logo.jpg",Radio Real Country WCKA  94.3 FM
+https://streamdb7web.securenetsystems.net/cirrusencore/WCKA
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/icon-country-604481-logo.jpg",Radio iCon Country
+http://lynx.prostreaming.net:8281/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uk-nation-radio-logo.jpg",Nation Radio
+https://tx.sharp-stream.com/icecast.php?i=thamesradio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-nx357-thats-dat-ish-logo.jpg",Radio #NX357 - That's Dat Ish
+https://stream.radiojar.com/2thepz0kb
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/extra-radio-632757-logo.jpg",Extra-Radio
+https://extra-radio.radionetz.de/extra-radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-bob-bobs-metal-623386-logo.jpg",Radio Bob! BOBs Metal
+https://streams.radiobob.de/bob-metal/aac-64/onlineradiobox/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-radio-bob-bobs-best-of-rock-logo.jpg",Radio Bob! BOBs Best of Rock
+https://streams.radiobob.de/bob-bestofrock/mp3-192/onlineradiobox/

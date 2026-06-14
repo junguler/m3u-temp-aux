@@ -2,3 +2,45 @@
 https://hoth.alonhosting.com:2395/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-915-kvr-fm-logo.jpg",Radio 91.5 KVR FM
 https://stream.zeno.fm/hyyzuphrsg0uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-impact-fm-984-logo.jpg",Radio Impact FM 98.4
+http://imc.ug/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dembe-fm-585099-logo.jpg",Radio Dembe FM
+http://41.190.132.68:8000/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-pacis-578376-logo.jpg",Radio Pacis
+https://radiopacisuganda.radioca.st/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-933-kfm-logo.jpg",Radio 93.3 KFM
+http://140.238.81.75:8000/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-akaboozi-logo.jpg",Radio Akaboozi
+http://162.244.80.52:8732/stream.mp3;audio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-one-fm-logo.jpg",Radio One FM
+http://162.244.80.52:8740/;stream.mp3;audio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-yofochm-radio-logo.jpg",Yofochm Radio
+https://c13.radioboss.fm:18053/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-sapientia-582188-logo.jpg",Radio Sapientia
+http://streaming.radiosapientia.com:6300/sapientia
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/beat-fm-616871-logo.jpg",Radio Beat FM
+http://5230.cloudrad.io:8354/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-galaxy-fm-logo.jpg",Radio Galaxy FM
+https://stream.radio.co/s1ef6287cc/listen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-913-capital-fm-logo.jpg",Radio 91.3 Capital FM
+https://capitalfm.cloudrad.io/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-pearl-of-africa-radio-logo.jpg",Pearl of Africa Radio
+https://dc4.serverse.com/proxy/pearlfm/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-metro-fm-logo.jpg",Radio Metro FM
+http://66.55.145.43:7757/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-radiocity-logo.jpg",Radiocity
+http://65.108.120.179:8332/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-spirit-fm-logo.jpg",Radio Spirit FM
+http://216.104.206.38/broadwave.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-radio-simba-logo.jpg",Radio Simba
+https://www.radiosimba.ug/stream2
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-open-gate-fm-mbale-logo.jpg",Radio Open Gate FM Mbale
+http://139.162.195.139:8010/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-voice-of-teso-logo.jpg",Radio Voice of Teso
+https://dc4.serverse.com/proxy/vote/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-touch-fm-logo.jpg",Radio Touch FM
+http://s2.yesstreaming.net:7091/stream?
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-radio-lead-africa-logo.jpg",Radio Lead Africa
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAM04AAC177_SC?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-crooze-fm-logo.jpg",Radio Crooze FM
+http://mp.techsysug.com:21563/;stream

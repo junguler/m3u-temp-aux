@@ -24,3 +24,95 @@ http://lhttp.qingting.fm/live/333/64k.mp3
 https://lhttp.qingting.fm/live/1644/64k.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/tw-民本廣播-am-1296-logo.jpg",Radio 民本廣播 AM 1296
 https://streamak0134.akamaized.net/live0134lh-5gst/_definst_/am1296/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-la-mejor-935-fm-logo.jpg",Radio La Mejor 93.5 FM
+https://radio.securenetsystems.net/cwa/index.cfm?stationCallSign=KADD
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-mrbi-kazn-1300-am-logo.jpg",Radio MRBI - KAZN 1300 AM
+http://mobilewzrc.serverroom.us:6914/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-iciti-radio-los-angeles-logo.jpg",iCiti Radio Los Angeles
+http://68.168.103.13:8343/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/chmb-159066-logo.jpg",Radio CHMB
+https://stream.radiojar.com/nugqupcv8qzuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-wzrc-1480-am-logo.jpg",Radio WZRC 1480 AM
+http://mobilewzrc.serverroom.us:6910/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-mrbi-kahz-logo.jpg",Radio MRBI - KAHZ
+http://mobilewzrc.serverroom.us:6914/;;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hk-digital-radio-logo.jpg",Digital Radio
+http://ice.digitalradiohk.net:8000/drhk
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hk-brg-top-50-logo.jpg",Radio BRG - Top 50
+https://gfm.rastream.com/gfm-todaysmix?
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hk-brg-rock-logo.jpg",Radio BRG - Rock
+https://gfm.rastream.com/gfm-classicsrewind?
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hk-brg-edmclub-logo.jpg",Radio BRG - EDM/Club
+https://gfm.rastream.com/gfm-clubhkgfm?
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hk-brg-80s90s-logo.jpg",Radio BRG - 80's/90's
+https://gfm.rastream.com/gfm-awesome80s?
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hk-brg-asia-hits-logo.jpg",Radio BRG - Asia Hits
+https://billboardradio.rastream.com/gfm-asiahitz.web
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hk-brg-china-hits-logo.jpg",Radio BRG - China Hits
+https://billboardradio.rastream.com/gfm-asiahitzchina?
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hk-apple-fm-logo.jpg",Radio Apple-FM
+http://sc7b.apple-fm.net:8188/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hk-lovehkradiocom-logo.jpg",Lovehkradio.com
+https://streaming.radio.co/s6f4c5734d/listen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hk-fing-radio-logo.jpg",Fing Radio
+https://stream.laut.fm/bluesfan
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cn-guangdong-traffic-radio-logo.jpg",Guangdong Traffic Radio
+http://ctt.rgd.com.cn/fm1052
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cn-guangdong-radio-pearl-river-economics-radio-logo.jpg",Guangdong Radio - Pearl River Economics Radio
+http://ctt5.rgd.com.cn/fm974
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cn-guangdong-radio-voice-of-the-city-logo.jpg",Guangdong Radio - Voice of the City
+http://ctt5.rgd.com.cn/fm1036
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cn-true-life-in-god-radio-chinese-logo.jpg",True Life in God Radio Chinese
+https://stream.galaxywebsolutions.com/proxy/tligradio_zh?mp=/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cn-guangdong-radio-logo.jpg",Guangdong Radio
+http://ctt.rgd.com.cn/fm993
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cn-nanjing-news-radio-logo.jpg",Nanjing News Radio
+http://www.njgb.com/live/?id=1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cn-yunnan-education-radio-logo.jpg",Yunnan Education Radio
+http://www.ynradio.com.cn/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nanjing-news-and-comprehensive-radio-568718-logo.jpg",Nanjing News & Comprehensive Radio
+http://www.njgb.com/live/?id=5
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cn-taiyuan-traffic-radio-logo.jpg",Taiyuan Traffic Radio
+https://lhttp.qingting.fm/live/4900/64k.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cn-fujian-news-radio-logo.jpg",Fujian News Radio
+https://lhttp.qingting.fm/live/1731/64k.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cn-nanjing-traffic-radio-logo.jpg",Nanjing Traffic  Radio
+http://www.njgb.com/live/?id=2;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cn-taiyuan-private-car-radio-logo.jpg",Taiyuan Private Car Radio
+https://lhttp.qingting.fm/live/4018/64k.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cn-nanjing-economics-radio-logo.jpg",Nanjing Economics Radio
+http://www.njgb.com/live/?id=6
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cn-jiangmen-news-radio-logo.jpg",Jiangmen News Radio
+http://www.jmtv.cn/special/at/radiozt.shtml
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cn-guangdong-radio-arts-radio-logo.jpg",Guangdong Radio - Arts Radio
+http://ctt5.rgd.com.cn/fm1077
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cn-guangdong-radio-southern-living-radio-logo.jpg",Guangdong Radio - Southern Living Radio
+http://ctt5.rgd.com.cn/fm936
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cn-nanjing-music-radio-logo.jpg",Nanjing Music Radio
+http://www.njgb.com/live/?id=4
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cn-nanjing-sports-radio-logo.jpg",Nanjing Sports Radio
+http://www.njgb.com/live/?id=3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cn-chengdu-only-radio-logo.jpg",Chengdu Only Radio
+http://livecdn.cdbs.com.cn/fm1032.flv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cn-sichuan-iradio-logo.jpg",Sichuan iRadio
+http://www.sctv.com/live/audio/FM955/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cn-chengdu-simple-music-radio-logo.jpg",Chengdu Simple Music Radio
+https://lhttp.qingting.fm/live/5012/64k.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cn-china-campus-voice-radio-logo.jpg",China Campus Voice Radio
+https://lhttp.qingting.fm/live/20091/64k.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ckdr-568355-logo.jpg",Radio CKDR
+https://ais-sa1.streamon.fm/7231_128k.aac/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/strato-fm-156124-logo.jpg",Radio Strato FM
+http://streaming.stratofm.com:8300/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/id-radio-palupi-bangka-logo.jpg",Radio Palupi Bangka
+https://cast1.my-control-panel.com/proxy/radioso8/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/my-8fm-logo.jpg",Radio 8FM
+https://mediaprima.rastream.com/mediaprima-onefm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/my-my-malaysia-logo.jpg",Radio MY (Malaysia)
+https://audio1.syok.my/myfm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/988-fm-568402-logo.jpg",Radio 988 FM
+http://player.listenlive.co/63371
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/my-melody-logo.jpg",Radio Melody
+https://audio1.syok.my/amp-melody
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/chinese-christian-radio-582197-logo.jpg",Chinese Christian Radio
+https://ly729.out.airtime.pro/ly729_a

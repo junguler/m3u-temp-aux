@@ -1,2 +1,16 @@
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/uk-1940s-radio-home-service-pumpkin-fm-logo.jpg",1940s Radio - Home Service - Pumpkin FM
 https://cast2.asurahosting.com/proxy/1940sradio/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-jazz-radio-saxo-logo.jpg",Jazz Radio - Saxo
+https://jzr-saxo.ice.infomaniak.ch/jzr-saxo.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ch-swiss-internet-radio-jazz-and-swing-logo.jpg",Swiss Internet Radio - Jazz & Swing
+http://relay.publicdomainradio.org:80/jazz_swing.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-yimago-jazz-the-worlds-jazz-station-logo.jpg",Radio Yimago Jazz (The World's Jazz Station)
+https://yimago.torontocast.stream/jazz
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-dash-radio-swing-logo.jpg",Dash Radio - Swing
+https://ice55.securenetsystems.net/DASH80
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/classic-praha-609816-logo.jpg",Radio Classic Praha
+https://icecast8.play.cz/classic128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/it-radio-centro-emilia-logo.jpg",Radio Centro Emilia
+https://c38.radioboss.fm:8078/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-202fm-big-band-logo.jpg",Radio 202.FM - Big Band
+http://relay.181.fm:8004/

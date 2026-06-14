@@ -8,3 +8,11 @@ https://cdn.cybercdn.live/Radio2000/MP3/icecast.audio
 https://stream.radiobreslev.co.il/live
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/il-radio-kol-chai-logo.jpg",Radio Kol-Chai
 https://live.kcm.fm/live-new
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-judaica-lyon-182004-logo.jpg",Radio Judaica Lyon
+https://judaica.ice.infomaniak.ch/judaica-high.mp3?ua=InfomaniakPlayer
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-chaifm-logo.jpg",Radio ChaiFM
+https://zas1.ndx.co.za:8008/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ateret-israel-radio-kol-haneshama-595861-logo.jpg",Ateret Israel (Radio Kol Haneshama)
+http://67.212.189.122:8255/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/il-tshuvafm-logo.jpg",Radio TSHUVAfm
+https://stream.zeno.fm/0n5wzu13cpeuv

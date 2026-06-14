@@ -92,3 +92,225 @@ http://patmos.cdnstream.com:9613/stream
 https://stream.zeno.fm/qasghg3w9uftv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-waves-101-fm-logo.jpg",Radio Waves 101 FM
 http://patmos.cdnstream.com:9617/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-jammin-1077-fm-logo.jpg",Radio Jammin 107.7 FM
+https://crystalout.surfernetwork.com:8001/WWRX_MP3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/es-vega-baja-radio-logo.jpg",Vega Baja Radio
+https://stream.zeno.fm/3xnvzk9dztzuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-arc-en-ciel-183942-logo.jpg",Radio Arc en Ciel
+https://str0.creacast.com/arcencielweb
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/skyrock-571576-logo.jpg",Radio Skyrock
+https://icecast.skyrock.net/s/natio_aac_64k
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/allzic-radio-rap-fr-608683-logo.jpg",Allzic Radio Rap FR
+https://allzic02.ice.infomaniak.ch/allzic02.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-allzic-radio-rap-us-logo.jpg",Allzic Radio Rap US
+https://allzic01.ice.infomaniak.ch/allzic01.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-the-old-school-hip-hop-corner-logo.jpg",Radio The Old School Hip-hop Corner
+http://rs9.radiostreamer.com:8080/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-campus-besancon-177889-logo.jpg",Radio Campus Besançon
+https://cdnradio.streamakaci.com/campusbesancon.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-villages-fm-logo.jpg",Radio Villages FM
+https://stream3.vestaradio.com/VILLAGESFM
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-k104-1045-kkda-fm-logo.jpg",Radio K104 - 104.5 KKDA-FM
+https://ais-sa1.streamon.fm/7285_64k.aac/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/generations-rap-us-177223-logo.jpg",Radio Générations Rap US
+https://generationfm-underground.ice.infomaniak.ch/generationfm-underground-high.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/generations-rap-fr-gold-597602-logo.jpg",Radio Generations - Rap FR Gold
+https://gene-wr06.ice.infomaniak.ch/gene-wr06.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/generations-wati-b-620222-logo.jpg",Radio Generations Wati B
+https://generations-wati-b.ice.infomaniak.ch/generations-wati-b.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-generations-booba-logo.jpg",Radio Générations Booba
+https://generations-booba.ice.infomaniak.ch/generations-booba.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-generations-rohff-logo.jpg",Radio Generations Rohff
+https://generation-rohff.ice.infomaniak.ch/generation-rohff.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-generations-freestyle-logo.jpg",Radio Générations Freestyle
+https://gene-wr09.ice.infomaniak.ch/gene-wr09.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-wdkx-1039-fm-logo.jpg",Radio WDKX 103.9 FM
+https://live.amperwave.net/manifest/monroecounty-wdkxfmaac-ibc1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-generations-lyon-logo.jpg",Radio Generations - Lyon
+https://radiosun.ice.infomaniak.ch/radiosun-high.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-outre-mer-1ere-logo.jpg",Radio Outre-mer 1ère
+https://outremer.ice.infomaniak.ch/outremer-128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/terre-marine-fm-170703-logo.jpg",Radio Terre Marine FM
+https://radio3.pro-fhi.net:19045/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-nrj-rap-us-logo.jpg",Radio NRJ Rap US
+https://scdn.nrjaudio.fm/adwz1/fr/30061/mp3_128.mp3?origine=radioboxu0026aw_0_1st.station=NRJ-Rap-US
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/jammin-fm-177084-logo.jpg",Radio Jammin' FM
+https://live.amperwave.net/manifest/saga-wjmrfmaac-hlsc2.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ng-rhythm-937-fm-jos-logo.jpg",Radio Rhythm 93.7 FM Jos
+http://origin.atunwadigital.streamguys1.com/rhythmfmjos
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-nrj-classic-rap-us-logo.jpg",Radio NRJ Classic Rap US
+https://scdn.nrjaudio.fm/adwz1/fr/31093/mp3_128.mp3?origine=radioboxu0026aw_0_1st.station=NRJ-Classic-Rap-US
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-nrj-gangsta-rap-logo.jpg",Radio NRJ Gangsta Rap
+https://scdn.nrjaudio.fm/adwz1/fr/31081/mp3_128.mp3?origine=radioboxu0026aw_0_1st.station=NRJ-Gangsta-Rap
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/prun-fm-165213-logo.jpg",Radio Prun-FM
+https://www.prun.net/stream/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-rcn-logo.jpg",Radio RCN
+http://46.105.102.17:8000/stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/au-switch-brisbane-logo.jpg",Radio Switch Brisbane
+https://playerservices.streamtheworld.com/api/livestream-redirect/4YBICEAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-vow-fm-logo.jpg",Radio VOW FM
+https://edge.iono.fm/xice/101_medium.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-jam-fm-black-label-logo.jpg",Radio JAM FM Black Label
+https://stream.jam.fm/jamfm-bl/mp3-128/onlineradiobox/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-rmf-hip-hop-577763-logo.jpg",Radio RMF - Hip Hop
+https://rs6-krk2.rmfstream.pl/HIPHOP
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pl-radio-rmf-maxxx-hop-bec-logo.jpg",Radio RMF - Maxxx Hop Bec
+https://rs202-krk.rmfstream.pl/HOPBEC
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-kjlh-radio-logo.jpg",KJLH Radio
+https://live.amperwave.net/manifest/kjlh-kjlhfmaac-hlsc2.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-radio-activ-logo.jpg",Radio Activ
+http://51.75.206.210:8000/live.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-sds-radio-logo.jpg",SDS Radio
+http://ksds-ice.streamguys.com/sds.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-kompaparis-logo.jpg",Radio Kompaparis
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAM05AAC343_SC?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-rap-station-logo.jpg",Radio RAP station
+https://streaming.live365.com/a90692
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-cave-carli-radio-logo.jpg",Cave Carli Radio
+https://radio6.pro-fhi.net/radio/9091/stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-siccness-radio-logo.jpg",Siccness Radio
+https://stream.radiojar.com/q8yghdvnu1duv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nl-ifm-two-disco-fetish-logo.jpg",Radio IFM Two -- Disco Fetish
+https://radio.intergalactic.fm/2
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-979-the-beat-logo.jpg",Radio 97.9 The Beat
+https://playerservices.streamtheworld.com/api/livestream-redirect/KBFBFMAAC_SC?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-boost-619159-logo.jpg",Radio Boost
+https://rbx2.hnux.com/http://149.202.22.75:8066/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/th-buzzin-radio-pattaya-logo.jpg",Buzzin Radio Pattaya
+https://streams.radio.co/s102cd33bc/listen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-radio-i-ringkobing-logo.jpg",Radio i Ringkøbing
+http://netradio.radioringkobing.dk:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-brooklyn-college-radio-logo.jpg",Brooklyn College Radio
+http://www.ophanim.net:7010/stream/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-mafia-live-radio-xm-logo.jpg",Mafia Live Radio XM
+http://streamdb3web.securenetsystems.net/v5/MAFIA#m
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-tele-ole-haiti-615336-logo.jpg",Radio Tele Ole Haiti
+https://stream.zeno.fm/7m4kq8s8bveuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-1091-da-view-radio-logo.jpg",109.1 Da View Radio
+https://stream.zeno.fm/knugh1dft8vtv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/au-1-radiofm-raphip-hoprnb-logo.jpg",1 Radio.FM - Rap/Hip Hop/RnB
+http://raphiphop.dialoz.host:9984/listen.mp3;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/magic-1045-574984-logo.jpg",Radio Magic 104.5
+http://radio.securenetsystems.net/v5/KMGC
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-wblk-937-fm-logo.jpg",Radio WBLK 93.7 FM
+http://wblk.com/listen-live/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/the-heat-614460-logo.jpg",Radio The Heat
+http://apple2.irirangi.net:8000/The_Heat.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-dash-radio-rhythm-and-praise-logo.jpg",Dash Radio - Rhythm & Praise
+https://ice55.securenetsystems.net/DASH56
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-dash-radio-gh3-logo.jpg",Dash Radio - GH3
+https://ice55.securenetsystems.net/DASH77
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-dash-radio-get-familiar-radio-logo.jpg",Dash Radio - Get Familiar Radio
+https://ice55.securenetsystems.net/DASH74
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-dash-radio-myxradio-logo.jpg",Dash Radio - MyxRadio
+https://ice55.securenetsystems.net/DASH62
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-dash-radio-remember-logo.jpg",Dash Radio - Remember
+https://ice55.securenetsystems.net/DASH3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-dash-radio-independent-grind-r-logo.jpg",Dash Radio - Independent Grind ®
+https://ice55.securenetsystems.net/DASH8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-dash-radio-cadillacc-music-logo.jpg",Dash Radio - Cadillacc Music
+https://ice55.securenetsystems.net/DASH16
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-dash-radio-doggystyle-logo.jpg",Dash Radio - Doggystyle
+https://ice55.securenetsystems.net/DASH78
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-peti-polk-radio-logo.jpg",Peti Polk Radio
+http://79.98.108.171:8006/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uk-pyro-radio-logo.jpg",Pyro Radio
+http://mp3streaming.planetwideradio.com:9830/pyrorad
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-hip-hop-dugout-radio-logo.jpg",Hip Hop Dugout Radio
+http://172.93.51.179:8000/stream/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ve-amor-fm-logo.jpg",Radio AMOR FM
+http://lortel28.lorini.net:30098/AMOR961FM
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-jlrradio-logo.jpg",jlrradio
+https://s5.myradiostream.com:43504/listen.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-joy-1580-am-logo.jpg",Radio Joy 1580 AM
+https://streaming.live365.com/a06026
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-big-r-radio-jamz-logo.jpg",Big R Radio - JAMZ
+https://bigrradio.cdnstream1.com/5178_128
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/beats-anonymous-radio-603215-logo.jpg",Beats Anonymous Radio
+https://streaming.radio.co/s24dcb60d4/listen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tiger-fitted-radio-614130-logo.jpg",Tiger Fitted Radio
+https://s1.citrus3.com:8128/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-streetwire-radio-logo.jpg",StreetWire Radio
+https://puma.streemlion.com:4685/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-jammin-101-logo.jpg",Radio Jammin 101
+https://streaming.live365.com/b05851_128mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-hot-810-radio-logo.jpg",HOT 810 Radio
+http://curiosity.shoutca.st:6708/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-979-jamz-logo.jpg",Radio 97.9 Jamz
+http://streamdb6web.securenetsystems.net/v5/WJWZ
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/it-power-logo.jpg",Radio POWER
+https://passas00.radioca.st/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-web-radio-doctor-black-logo.jpg",Radio Web Rádio Doctor Black!
+https://servidor34-1.brlogic.com:8648/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/music-money-mixtapes-156729-logo.jpg",Radio Music Money Mixtapes
+https://s2.radio.co/s1ba4497fe/listen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-1019-the-beat-logo.jpg",Radio 101.9 The Beat
+https://ais-sa1.streamon.fm/7212_64k.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ro-radio-romanian-hip-hop-logo.jpg",Radio Romanian Hip Hop
+http://asculta.radioromanian.net:8400/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-tttradionet-logo.jpg",TTTRADiO.NET
+http://live.tttradio.net/stream/1/listen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-traditional-hip-hop-588248-logo.jpg",Radio Traditional - Hip Hop
+http://rap.radiotraditional.ro:7500/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wjob-fm-591091-logo.jpg",Radio WJOB FM
+http://23.226.90.202:9996/listen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/flow-103-154269-logo.jpg",Radio Flow 103
+https://ais-sa3.cdnstream1.com/1668_128
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-air-connect-logo.jpg",Radio Air Connect
+https://stream.airconnectradio.com/ac192.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-rap-rim-logo.jpg",Radio Rap Rim
+http://50.7.129.122:8466/;stream.mp3/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ma-radio-only-rai-logo.jpg",Radio Only Rai
+http://broadcast.infomaniak.net/onlyrai-high
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-95-7-randb-fm-logo.jpg",Radio 95-7 R&B FM
+https://live.amperwave.net/direct/audacy-wvklfmaac-imc
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-hopesong-broadcasting-network-radio-logo.jpg",HopeSong Broadcasting Network Radio
+http://streams.museter.com:8090/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/optimo-radio-583241-logo.jpg",Optimo Radio
+http://67.212.165.106:8048/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-radio-bonn-urban-radio-logo.jpg",Radio Bonn - Urban Radio
+https://stream.lokalradio.nrw/445276q
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-radio-leverkusen-urban-radio-logo.jpg",Radio Leverkusen - Urban Radio
+https://stream.lokalradio.nrw/44528fq
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-radio-rur-urban-radio-logo.jpg",Radio Rur - Urban Radio
+https://stream.lokalradio.nrw/44527fq
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-radio-wmw-urban-radio-logo.jpg",Radio WMW - Urban Radio
+https://stream.lokalradio.nrw/445278g
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-radio-essen-urban-radio-logo.jpg",Radio Essen - Urban Radio
+https://stream.lokalradio.nrw/44527rg
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-radio-kiepenkerl-urban-radio-logo.jpg",Radio Kiepenkerl - Urban Radio
+https://stream.lokalradio.nrw/44527b7
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-radio-duisburg-urban-radio-logo.jpg",Radio Duisburg - Urban Radio
+https://stream.lokalradio.nrw/44527k7
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-radio-euskirchen-urban-radio-logo.jpg",Radio Euskirchen - Urban Radio
+https://stream.lokalradio.nrw/44527t7
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-radio-sauerland-urban-radio-logo.jpg",Radio Sauerland - Urban Radio
+https://stream.lokalradio.nrw/445286q
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-1046-rtl-black-greatest-hits-logo.jpg",Radio 104.6 RTL Black Greatest Hits
+https://stream.104.6rtl.com/rtl-black/mp3-128/onlineradiobox/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-radio-emscher-lippe-urban-radio-logo.jpg",Radio Emscher Lippe - Urban Radio
+https://stream.lokalradio.nrw/44527vy
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-radio-mulheim-urban-radio-logo.jpg",Radio Mulheim - Urban Radio
+https://stream.lokalradio.nrw/44528pq
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-radio-ennepe-ruhr-urban-radio-logo.jpg",Radio Ennepe Ruhr - Urban Radio
+https://stream.lokalradio.nrw/44527my
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-radio-lippe-welle-hamm-urban-radio-logo.jpg",Radio Lippe Welle Hamm - Urban Radio
+https://stream.lokalradio.nrw/44527zg
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-1live-hip-hop-and-rnb-logo.jpg",Radio 1LIVE Hip Hop & RnB
+https://wdr-1live-hiphoprnb.icecast.wdr.de/wdr/1live/hiphoprnb/mp3/128/stream.mp3?aggregator=onlineradiobox-com
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uk-choice-fm-logo.jpg",Radio Choice FM
+https://cdn.choicefm.uk/stream;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/the-rap-mixx-594971-logo.jpg",Radio The Rap MIXX
+https://ais-sa2.cdnstream1.com/1988_64.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-943-wybc-logo.jpg",Radio 94.3 WYBC
+https://playerservices.streamtheworld.com/api/livestream-redirect/WYBCFMAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-deutschrap-deluxe-logo.jpg",Radio Deutschrap-Deluxe
+https://deutschrap-deluxe.stream.laut.fm/deutschrap-deluxe?
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-radio-gong-wurzburg-oldschool-gong-logo.jpg",Radio Gong Würzburg - Oldschool Gong
+https://frontend.streamonkey.net/gong-oldschool?aggregator=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-radio-gong-wurzburg-in-the-mix-logo.jpg",Radio Gong Würzburg - In The Mix
+https://frontend.streamonkey.net/gong-inthemix?aggregator=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-kiss-fm-urban-beats-logo.jpg",Radio KISS FM - Urban Beats
+https://topradio-de-hz-fal-stream03-cluster01.radiohost.de/kissfm-urbanbeats_mp3-128
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tt-enfx-radio-hd-logo.jpg",eNFX Radio HD
+https://enfxradio.radioca.st/;

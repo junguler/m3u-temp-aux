@@ -1,2 +1,6 @@
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/fm98-7-604179-logo.jpg",Radio FM98,7
 http://high.lindin.fo/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fo-hitstream-dk-logo.jpg",Radio Hitstream dk
+http://78.156.123.142:8030/listen1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kringvarp-foroya-569416-logo.jpg",Radio Kringvarp Føroya
+http://netvarp.kringvarp.fo:443/uvhm

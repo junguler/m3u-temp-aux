@@ -228,3 +228,25 @@ https://radio6.pro-fhi.net/radio/9070/stream
 https://stream.zenolive.com/kfm9pwfskfeuv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-rjfm-club-80-logo.jpg",Radio RJFM Club 80
 https://www.radioking.fr/play/rjfm-club-80
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ch-lfm-scene-francaise-logo.jpg",Radio LFM Scène Française
+https://webradio0005.ice.infomaniak.ch/webradio0005-128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rca-la-radio-577723-logo.jpg",RCA La Radio
+https://rcanantes.ice.infomaniak.ch/rcanantes-192.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/allzic-radio-golds-francais-608900-logo.jpg",Allzic Radio Golds Français
+https://allzic30.ice.infomaniak.ch/allzic30.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-virage-radio-rock-fr-logo.jpg",Virage Radio Rock Fr
+https://vir-wr02.ice.infomaniak.ch/vir-wr02.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/impact-fm-162771-logo.jpg",Radio Impact FM
+https://impactfm.ice.infomaniak.ch/impactfm-64.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-top-tonic-france-logo.jpg",Radio Top Tonic France
+https://listen.radioking.com/radio/277177/stream/322822
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-chyz-fm-943-logo.jpg",Radio CHYZ-FM 94.3
+http://ecoutez.chyz.ca:8000/mp3/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-cpam-1410-logo.jpg",Radio CPAM 1410
+https://centova.radioservers.biz/proxy/groupem2/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-vision-chretienne-598852-logo.jpg",Radio Vision Chretienne
+https://stream.rcast.net/63784
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-rikidi-news-fm-logo.jpg",Radio RIKIDI NEWS FM
+https://s36.myradiostream.com/17140/listen.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-radio-kajou-logo.jpg",Radio Kajou
+http://janus.shoutca.st:8696//stream

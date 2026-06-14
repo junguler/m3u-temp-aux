@@ -1,2 +1,16 @@
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/ar-fm-popular-salta-logo.jpg",Radio FM Popular Salta
 https://emisora.radiosplay.com.ar/8194/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-centro-185265-logo.jpg",Radio Centro
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEQR_AMAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ar-radio-nativa-am-logo.jpg",Radio Nativa AM
+https://streaming.escuchanosonline.com:7156/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ar-radio-galas-logo.jpg",Radio Galas
+http://audio.questreaming.com:25859/;?_=0.6471221755422445
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ar-cadena-maxima-logo.jpg",Radio Cadena Máxima
+http://01.solumedia.com.ar:8374/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ar-radio-la-punta-logo.jpg",Radio La Punta
+https://streaming01.shockmedia.com.ar:10923/stream?icy=http
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uy-clarin-am580-logo.jpg",Radio Clarin AM580
+https://radioclarin-zikoxweb.radioca.st/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-radio-tango-para-bailar-logo.jpg",Radio Tango para Bailar
+https://tangoparabailar.stream.laut.fm/tangoparabailar

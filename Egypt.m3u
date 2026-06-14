@@ -6,3 +6,27 @@ http://66.70.249.70:5784/;stream.mp3
 https://stream.zeno.fm/efx5psd00qruv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/eg-radio-al-jazeera-english-logo.jpg",Radio Al Jazeera English
 https://live-hls-audio-web-aje.getaj.net/VOICE-AJE/index.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nogomi-radio-592708-logo.jpg",Nogomi Radio
+https://securestreams2.autopo.st:1152/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/eman-live-184820-logo.jpg",Radio Eman Live
+https://eu8.fastcast4u.com/proxy/manhagnet/1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/eg-radio-beloghos-logo.jpg",Radio Beloghos
+http://beloghos.elkedeseen.com:8000/player
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/eg-coptic-orthodox-logo.jpg",Radio Coptic Orthodox
+http://66.70.249.70:5828/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/eg-radio-sotak-logo.jpg",Radio Sotak
+https://radio.radiosotak.com/sotak_128
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/egonair-597311-logo.jpg",Radio Egonair
+https://radio.socialgenix.com/8004/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/deacons-school-591179-logo.jpg",Radio Deacons School
+http://198.154.254.10:7006/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/eg-radio-horytna-logo.jpg",Radio Horytna
+https://streams.radio.co/s95868fb50/listen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-masr-160831-logo.jpg",Radio Masr
+https://live.radiomasr.net/RADIOMASR
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/eg-m3ak3latool-radio-radyw-maak-ala-twl-logo.jpg",M3ak3latool Radio راديو معاك على طول
+http://www.radioma3ak.com:8000/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/eg-radyw-hyts-logo.jpg",Radio راديو هيتس
+https://radiohits882.radioca.st/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/eg-alqraan-alkrym-mn-alqahrh-logo.jpg",Radio القرآن الكريم من القاهرة
+http://www.ertu.org/quran/QuranKareem.html

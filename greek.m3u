@@ -40,3 +40,47 @@ http://s1.onweb.gr:8824/;
 http://metro903.live24.gr:80/metro903
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/gr-rso-917-logo.jpg",Radio RSO 91.7
 http://tachyon.shoutca.st:8594/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/london-greek-radio-568168-logo.jpg",London Greek Radio
+http://live3.istoikona.net:8203/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-hellas-fm-logo.jpg",Radio Hellas FM
+https://s3.radio.co/s07f995997/listen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-wxyb-1520-am-logo.jpg",Radio WXYB 1520 AM
+http://wpso.com:7071/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-greek-voice-radio-logo.jpg",Greek Voice Radio
+http://wpso.com:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-dialogos-radio-247-logo.jpg",Dialogos Radio 24/7
+http://dialogosradio.no-ip.org:8000/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-radio-symi-logo.jpg",Radio Symi
+https://stream.zeno.fm/c6rc20e6ag0uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gr-sohos-fm-logo.jpg",Radio Sohos FM
+https://solid55.streamupsolutions.com/proxy/zskzsrci?mp=/1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gr-karamela-923-logo.jpg",Radio Karamela 92.3
+https://netradio.live24.gr/924fm-thess
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gr-kriti-fm-1003-logo.jpg",Radio Kriti FM 100.3
+https://i9.streams.ovh:2200/sc/kritifm1003/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gr-radio-morias-1027-logo.jpg",Radio Morias 102.7
+http://live.e-streaming.eu:8120/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gr-aigaio-live-fm-logo.jpg",Radio Aigaio Live  FM
+https://stream.radiojar.com/nkqh9th47vzuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gr-status-internet-radio-logo.jpg",Status Internet Radio
+https://cast5.magicstreams.gr/sc/statuswe/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-stournareika-925-fm-stereo-trikala-619551-logo.jpg",Radio Stournareika 92.5 FM Stereo (Trikala)
+https://i8.streams.ovh/sc/radiostournareika/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-epirus-157873-logo.jpg",Radio Epirus
+https://neos.win:59454/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gr-4u-radio-logo.jpg",4U Radio
+https://netradio.live24.gr/4uradio931
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gr-arion-radio-arion-christmas-logo.jpg",Arion Radio - Arion Christmas
+http://ice.onestreaming.com/arionchristmas
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cy-radio-sfera-logo.jpg",Radio Sfera
+https://netradio.live24.gr/sfera4132
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cy-radio-diesh-1011-fm-logo.jpg",Radio Δίεση 101.1 FM
+https://r1.cloudskep.com/radio/diesi/icecast.audio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-chir-greek-radio-logo.jpg",CHIR Greek Radio
+https://s6.yesstreaming.net:17032/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/montreal-greek-radio-586864-logo.jpg",Montreal Greek Radio
+http://live.greekradio.ca:8000/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kw-quran-radio-quran-in-arabic-by-sheikh-mohammad-al-tablawi-logo.jpg",Qur'an Radio - Quran in Arabic by Sheikh Mohammad Al-Tablawi
+https://server03.quran.com.kw:7038/;*.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kw-quran-radio-quran-in-greek-logo.jpg",Qur'an Radio - Quran in Greek
+http://server2.quraan.us:9984/;*.mp3

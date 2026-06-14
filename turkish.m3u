@@ -122,3 +122,7 @@ https://radyo.radyoimza.com/8008/stream
 https://ssl120.radyotelekom.com.tr/8710/stream/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/cy-bayrak-radyosu-logo.jpg",Radio Bayrak Radyosu
 http://sc.brtk.net:8002/;*.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-hit-fm-artans-logo.jpg",Radio Hit FM - Artans
+http://stream.hitfm.de:9098/artans
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radyo-nikomedya-181093-logo.jpg",Radio Radyo Nikomedya
+http://yayin.netyayin.net:2631/;*.nsv

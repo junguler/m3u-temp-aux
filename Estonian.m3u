@@ -4,3 +4,65 @@ https://stream.relaxfm.ee/cafe
 https://icecast.pereraadio.ee:9000/Semeinoje
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-rock-fm-metal-logo.jpg",Radio Rock FM Metal
 https://stream.skymedia.ee/live/rckmetal
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/power-hit-radio-160573-logo.jpg",Power Hit Radio
+https://ice.leviracloud.eu/phr96-aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sky-plus-157594-logo.jpg",Radio Sky Plus
+https://stream.skymedia.ee/live/SKYPLUS
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/raadio-kadi-568687-logo.jpg",Radio Raadio Kadi
+https://edge06.cdn.bitflip.ee:8888/kadi
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/raadio-elmar-157596-logo.jpg",Radio Raadio Elmar
+https://router.euddn.net/8103046e16b71d15d692b57c187875c7/elmar.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/raadio-tallinn-631243-logo.jpg",Radio Raadio Tallinn
+http://icecast.err.ee/raadiotallinn.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-netiraadio-kullafond-logo.jpg",Radio Netiraadio - Kullafond
+http://www.netiraadio.ee:8000/kuldsedajad
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-netiraadio-retro-and-biit-logo.jpg",Radio Netiraadio - Retro & Biit
+http://www.netiraadio.ee:8000/retro
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-netiraadio-eesti-loodus-logo.jpg",Radio Netiraadio - Eesti Loodus
+http://www.netiraadio.ee:8000/eestiloodus
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/vikerraadio-163589-logo.jpg",Radio Vikerraadio
+http://icecast.err.ee/vikerraadio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/raadio-7-569503-logo.jpg",Radio Raadio 7
+https://edge05.cdn.bitflip.ee:8888/R7
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/err-raadio-2-569508-logo.jpg",Radio ERR Raadio 2
+http://icecast.err.ee/raadio2.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-netiraadio-jazzi-varvid-logo.jpg",Radio Netiraadio - Jazzi Varvid
+http://www.netiraadio.ee:8000/jazzivarvid
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-netiraadio-jaak-joala-logo.jpg",Radio Netiraadio - Jaak Joala
+http://www.netiraadio.ee:8000/jaakjoala
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-netiraadio-sinu-hetked-logo.jpg",Radio Netiraadio - Sinu Hetked
+http://www.netiraadio.ee:8000/sinuhetked
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/star-fm-160574-logo.jpg",Radio Star FM
+https://ice.leviracloud.eu/star96-aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-netiraadio-puhas-traat-logo.jpg",Radio Netiraadio - Puhas traat
+http://www.netiraadio.ee:8000/puhastraat
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-netiraadio-lastekanal-logo.jpg",Radio Netiraadio - Lastekanal
+http://www.netiraadio.ee:8000/lastekanal
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-netiraadio-ullata-mind-logo.jpg",Radio Netiraadio - Üllata mind
+http://www.netiraadio.ee:8000/yllatamind
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-netiraadio-klubi-bit-logo.jpg",Radio Netiraadio - Klubi Bit
+http://www.netiraadio.ee:8000/klubibiit
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-netiraadio-tumedad-lood-logo.jpg",Radio Netiraadio - Tumedad Lood
+http://www.netiraadio.ee:8000/tumedadlood
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-netiraadio-pop-logo.jpg",Radio Netiraadio - Pop
+http://www.netiraadio.ee:8000/lahepop
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-netiraadio-teistsugne-logo.jpg",Radio Netiraadio - Teistsugne
+http://www.netiraadio.ee:8000/teistsugune
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-pereraadio-tartu-logo.jpg",Radio Pereraadio Tartu
+http://bee.pereraadio.ee:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-netiraadio-klassika-logo.jpg",Radio Netiraadio - Klassika
+http://www.netiraadio.ee:8000/klassika
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-kesk-eesti-tre-logo.jpg",Radio Kesk-eesti Tre
+https://sc2.treraadio.ee/kesk-eesti-tre
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-nomme-raadio-logo.jpg",Radio Nömme Raadio
+http://149.210.138.12:8000/nommeraadio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/spin-fm-160575-logo.jpg",Radio Spin FM
+http://87.110.219.34:8000/spinmp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-ring-fm-logo.jpg",Radio Ring FM
+https://sc2.treraadio.ee/ringfm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-nrj-logo.jpg",Radio NRJ
+https://stream.skymedia.ee/live/NRJ
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-tre-raadio-parnu-logo.jpg",Radio Tre Raadio Pärnu
+https://sc2.treraadio.ee/parnu-tre
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-pereraadio-tallinn-logo.jpg",Radio Pereraadio Tallinn
+http://icecast.pereraadio.ee/Tallinn

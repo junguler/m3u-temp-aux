@@ -14,3 +14,11 @@ https://folk.bigportal.ba:8080/folk
 https://sonicpanel.vmakerhost.com/8192/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/ba-skala-logo.jpg",Radio Skala
 http://cast2.name.ba:9049/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-radio-kapija-logo.jpg",Radio Kapija
+https://s1.voscast.com:7471/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rtv-radio-belle-amie-567584-logo.jpg",RTV Radio Belle Amie
+http://92.60.230.200:5040/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wew-572802-logo.jpg",Radio WEW
+http://wew.birach.com:9008/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kw-quran-radio-quran-in-bosnian-logo.jpg",Qur'an Radio - Quran in Bosnian
+https://server03.quran.com.kw:7013/;*.mp3

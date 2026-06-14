@@ -1,2 +1,16 @@
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/bbc-asian-network-576158-logo.jpg",Radio BBC Asian Network
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_asian_network.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dhol-radio-184908-logo.jpg",Dhol Radio
+https://radio.dholradio.co:8000/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/au-sbs-popdesi-logo.jpg",Radio SBS PopDesi
+https://sbs-ice.streamguys1.com/sbs-popdesi
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/desi-radio-575908-logo.jpg",Desi Radio
+https://desi.canstream.co.uk:8001/live.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uk-dhol-radio-logo.jpg",Dhol Radio
+https://radio.dholradio.co:8000/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/panjab-radio-568133-logo.jpg",Panjab Radio
+http://radio3.citrus3.com:8584/stream/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-inthemixradiocom-logo.jpg",InTheMixRadio.com
+https://inthemixradio.com///shows/third_rail_ep5.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-dhantal-logo.jpg",Radio Dhantal
+http://dhantalradio.ca:8000/;;

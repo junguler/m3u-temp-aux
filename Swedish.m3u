@@ -2,3 +2,53 @@
 https://s2.free-shoutcast.com/stream/18092
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-sydvast-178327-logo.jpg",Radio Sydvast
 http://radiosydvast.duckdns.org:12932/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hamsafar-radio-162015-logo.jpg",Hamsafar Radio
+https://stream.radiojar.com/pyea7q9h5ehvv.m4a
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rix-fm-184673-logo.jpg",Radio Rix FM
+https://fm01-ice.stream.khz.se/fm01_mp3?platform=web
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bandit-rock-155602-logo.jpg",Radio Bandit Rock
+https://fm02-ice.stream.khz.se/fm02_mp3?platform=web
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/star-70s-605137-logo.jpg",Radio Star 70's
+https://wr10-ice.stream.khz.se/wr10_mp3?platform=web
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-vinyl-logo.jpg",Radio Vinyl
+https://live-bauerse-fm.sharp-stream.com/vinylfm_instream_se_aacp
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lugna-favoriter-184674-logo.jpg",Radio Lugna Favoriter
+https://fm03-ice.stream.khz.se/fm03_mp3?platform=web
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sr-p4-stockholm-178157-logo.jpg",Radio SR P4 Stockholm
+https://http-live.sr.se/p4stockholm-mp3-192
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/guldkanalen-90-tal-588006-logo.jpg",Radio Guldkanalen 90-tal
+https://stream.dbmedia.se/gk90talMP3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/guldkanalen-80-tal-588007-logo.jpg",Radio Guldkanalen 80-tal
+https://stream.dbmedia.se/gk80talMP3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-sr-p1-logo.jpg",Radio SR P1
+https://http-live.sr.se/p1-aac-32?type=mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-radio-ayeneh-logo.jpg",Radio Ayeneh
+http://83.250.49.43/;u0026type=mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-haninge-direkt-162325-logo.jpg",Radio Haninge Direkt
+http://213.115.49.175:1157/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/guldkanalen-70-tal-588008-logo.jpg",Radio Guldkanalen 70-tal
+https://stream.dbmedia.se/gk70talMP3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-radio-gnf-logo.jpg",Radio GNF
+http://lyssna.fnf.nu:8080/gnf102.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dansbandskanalen-164877-logo.jpg",Radio Dansbandskanalen
+http://stream.dbmedia.se/dbkMP3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-radio-gagnef-logo.jpg",Radio Gagnef
+http://stream.ueteknik.se:8000/gagnef
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-dagnys-musikcafe-logo.jpg",Radio Dagnys Musikcafe
+https://ssl-streaming.nordblommedia.se/dagny.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-sr-p6-logo.jpg",Radio SR P6
+https://http-live.sr.se/srinternational-mp3-64
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-berg-157813-logo.jpg",Radio Berg
+http://62.20.28.156/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-p4-malmohus-logo.jpg",Radio P4 Malmöhus
+https://http-live.sr.se/p3-mp3-128
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-radio-shalom-logo.jpg",Radio Shalom
+http://radiostreamone.mine.nu:18010/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-88-partille-578324-logo.jpg",Radio 88 Partille
+http://62.209.164.60:8000/mp96.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-sr-p3-logo.jpg",Radio SR P3
+https://http-live.sr.se/p3-aac-32?type=mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-radiosol-logo.jpg",Radiosol
+http://91.145.17.9:8000/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mix-megapol-goteborg-567858-logo.jpg",Radio Mix Megapol Göteborg
+https://live-bauerse-fm.sharp-stream.com/mixmegapolgbg_instream_se_aacp

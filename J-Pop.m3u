@@ -8,3 +8,9 @@ http://curiosity.shoutca.st:8019/stream
 https://stream.zeno.fm/7qk8gcygk5zuv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/jp-j-club-powerplay-hip-hop-logo.jpg",Radio J-Club Powerplay Hip-Hop
 https://kathy.torontocast.com:3350/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/es-otaku-music-radio-logo.jpg",Otaku Music Radio
+https://kathy.torontocast.com:2880/1.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-radio-anime-nexus-logo.jpg",Radio Anime Nexus
+https://cast.animenexusla.com/radio/8000/animenexus
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gamer-sound-614642-logo.jpg",Radio Gamer Sound
+https://altair.streamerr.co:8166/stream

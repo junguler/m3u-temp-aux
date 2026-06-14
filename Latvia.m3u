@@ -20,3 +20,45 @@ https://radio.powerfm.lv:8075/stream
 https://live.radioswh.lv:8443/plusmp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/schlager-time-radio-172097-logo.jpg",Schlager Time Radio
 http://schlagers.org:8760/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-skonto-154601-logo.jpg",Radio Skonto
+http://stream.radioskonto.lv:8002/stereo
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lv-larocca-e-radio-logo.jpg",Larocca E-Radio
+https://radio.powerfm.lv:8025/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/european-hit-radio-183245-logo.jpg",European Hit Radio
+https://stream2.superfm.lv:8000/ehr.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lv-latvijas-radio-lr2-logo.jpg",Latvijas Radio - LR2
+https://5a44e5b800a41.streamlock.net/shoutcast/mp4:lr2a.stream/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lv-latvijas-radio-lr6-naba-logo.jpg",Latvijas Radio - LR6 Naba
+https://5a44e5b800a41.streamlock.net/shoutcast/mp4:naba.stream/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lv-relax-fm-latvija-logo.jpg",Radio Relax FM Latvija
+https://live.relaxfm.lv/02
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lv-latvijas-radio-lr4-logo.jpg",Latvijas Radio - LR4
+https://5a44e5b800a41.streamlock.net/shoutcast/mp4:lr4a.stream/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lv-radio-energy-russian-radio-logo.jpg",Radio Energy - Russian Radio
+http://radioenergy.lv:9000/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lv-european-hit-radio-latviesu-hiti-logo.jpg",European Hit Radio - Latviešu hiti
+https://stream.ehrhiti.lv:8000/Stream_22.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lv-european-hit-radio-fresh-logo.jpg",European Hit Radio - Fresh
+https://stream.ehrhiti.lv:8000/Stream_25.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lv-european-hit-radio-acoustic-logo.jpg",European Hit Radio - Acoustic
+https://stream.ehrhiti.lv:8000/Stream_26.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lv-european-hit-radio-darbam-logo.jpg",European Hit Radio - Darbam
+https://stream.ehrhiti.lv:8000/Stream_23.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lv-european-hit-radio-superhits-logo.jpg",European Hit Radio - Superhits
+https://stream.ehrhiti.lv:8000/Stream_21.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lv-mezciema-radio-logo.jpg",Mezciema Radio
+http://hitscollection.no-ip.org:8000/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lv-mix-fm-1027-logo.jpg",Radio Mix FM 102.7
+https://radio.mixnews.lv/MixFM
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lv-european-hit-radio-dance-logo.jpg",European Hit Radio - Dance
+https://stream.ehrhiti.lv:8000/Stream_24.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-baltkom-184256-logo.jpg",Radio Baltkom
+https://radio.mixnews.lv/baltkom
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lv-jumor-fm-logo.jpg",Radio Jumor FM
+https://radio.mixnews.lv/jumorfm_192
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lv-pieci-atklajumi-logo.jpg",Radio Pieci - Atklājumi
+https://5a44e5b800a41.streamlock.net/pieci/mp4:k1/chunklist_w1044979976.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lv-radio-marija-latvija-logo.jpg",Radio Marija Latvija
+https://dreamsiteradiocp2.com/proxy/rmlatvia2?mp=/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lv-pieci-riti-logo.jpg",Radio Pieci -  Rīti
+https://5a44e5b800a41.streamlock.net/pieci/mp4:k8/playlist.m3u8

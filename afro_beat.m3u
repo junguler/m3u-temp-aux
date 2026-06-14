@@ -20,3 +20,9 @@ https://v2.radiodienst.de:8070/reggaeinthemix
 https://topradio-stream19.radiohost.de/kissfm-afro-beats_mp3-192
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/ng-box-afrofusion-naija-logo.jpg",Radio BOX : Afrofusion Naija
 https://boxradio-edge-00.streamafrica.net/naija
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ng-inspiration-fm-logo.jpg",Radio Inspiration FM
+https://servoserver.com.ng/ifmlagoslive/live.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gospotainment-radio-604563-logo.jpg",Gospotainment Radio
+https://radio.gotright.net/radio/8000/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tt-enfx-radio-hd-logo.jpg",eNFX Radio HD
+https://enfxradio.radioca.st/;

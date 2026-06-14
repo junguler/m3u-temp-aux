@@ -6,3 +6,15 @@ http://finalfantasystation.com:8000/stream
 http://curiosity.shoutca.st:8019/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-radio-elfen-tchat-logo.jpg",Radio Elfen Tchat
 http://elfen-tchat.fr:8000/elfen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/es-otaku-music-radio-logo.jpg",Otaku Music Radio
+https://kathy.torontocast.com:2880/1.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-anime-24-164521-logo.jpg",Radio Anime 24
+http://91.232.4.33:7028/stream/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-superloustic-logo.jpg",Radio Superloustic
+https://www.superloustic.com/listen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-radio-anime-nexus-logo.jpg",Radio Anime Nexus
+https://cast.animenexusla.com/radio/8000/animenexus
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gamer-sound-614642-logo.jpg",Radio Gamer Sound
+https://altair.streamerr.co:8166/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-yggdrasil-radio-logo.jpg",Yggdrasil Radio
+http://yggdrasilradio.net:8000/;stream.nsv

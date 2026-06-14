@@ -16,3 +16,53 @@ https://drive.uber.radio/uber/forkidzmoviesoundtracks/icecast.audio
 https://visual.shoutca.st/stream/kungalooshradio
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/uk-fun-kids-soundtracks-logo.jpg",Radio Fun Kids Soundtracks
 https://stream.rcs.revma.com/x8wbda03tm0uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-radio-scoop-cine-logo.jpg",Radio SCOOP - Ciné
+https://scoopmusiquesdefilms.ice.infomaniak.ch/radioscoop-musiquesdefilms-64.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-fip-radio-logo.jpg",FIP Radio
+https://stream.radiofrance.fr/fip/fip_hifi.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-sequence-fm-logo.jpg",Radio Sequence FM
+http://163.172.37.18:8000/sequence-annecy.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-rmf-muzyka-filmowa-577767-logo.jpg",Radio RMF - Muzyka Filmowa
+https://rs6-krk2-cyfronet.rmfstream.pl/MUZYKAFILMOWA
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-fm4-568460-logo.jpg",Radio FM4
+https://orf-live.ors-shoutcast.at/fm4-q1a
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ch-1fm-movie-soundtracks-hits-logo.jpg",Radio 1.FM - Movie Soundtracks Hits
+https://strmreg.1.fm/moviesoundtracks_mobile_mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-la-grande-evasion-logo.jpg",Radio La Grande Evasion
+https://radio.lagrandeevasion.fr/evasion
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-djam-radio-logo.jpg",Djam Radio
+https://stream9.xdevel.com/audio1s976748-1515/stream/icecast.audio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/m2-classic-582954-logo.jpg",Radio M2 Classic
+https://abf.net-radio.fr/abfcult.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-cult-radio-a-go-go-cragg-logo.jpg",Cult Radio A-Go-Go! - CRAGG
+http://162.252.85.85:8502/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-movie-ticket-radio-logo.jpg",Movie Ticket Radio
+http://listen.djcmedia.com/movieticketclassiclow
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gotradio-musical-magic-187567-logo.jpg",GotRadio - Musical Magic
+http://gr02.cdnstream.com:8540/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gotradio-big-score-187565-logo.jpg",GotRadio - The Big Score
+http://gr01.cdnstream.com:8060/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nl-soundtrack-radiostation-logo.jpg",Soundtrack Radiostation
+https://quincy.torontocast.com:2410/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/game-bytes-radio-590103-logo.jpg",Game Bytes Radio
+http://99.198.118.250:8084/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-scifiradio-logo.jpg",SCIFI.radio
+https://station.kryptonradio.com:8080/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gamer-sound-614642-logo.jpg",Radio Gamer Sound
+https://altair.streamerr.co:8166/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-dash-radio-cinescore-logo.jpg",Dash Radio - Cinescore
+https://ice55.securenetsystems.net/DASH29
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/np-choice-fm-logo.jpg",Radio Choice FM
+http://live.itechnepal.com:8466/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/shakthi-fm-183645-logo.jpg",Radio Shakthi FM
+https://mbc.thestreamtech.com:8086/index.html/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-xraydio-1-logo.jpg",Radio XRaydio 1
+https://xraydio.ddns.net/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-aceradionet-glee-radio-logo.jpg",AceRadio.Net - Glee Radio
+http://bigrradio-edge1.cdnstream.com/5112_128?cb=211296.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cz-bonton-radio-logo.jpg",Bonton Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/BONTONAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-cleansing-cuts-logo.jpg",Radio Cleansing Cuts
+http://hemnos.cdnstream.com/1486_128
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-radio-regenbogen-musical-and-film-hits-logo.jpg",Radio Regenbogen - Musical & Film Hits
+https://stream.regenbogen.de/musical/mp3-128/onlineradiobox

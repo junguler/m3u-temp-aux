@@ -22,3 +22,63 @@ https://stream.zeno.fm/4vgt62wwttzuv
 https://online.kissfm.ua/KissFM_Digital
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-relax-instrumental-604939-logo.jpg",Radio Радіо Relax Instrumental
 https://online.radiorelax.ua/RadioRelax_Instrumental
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-radio-maksimum-logo.jpg",Radio Радіо Максимум
+https://streamvideo.luxnet.ua/maximum/smil:maximum.stream.smil/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-ekoradio-logo.jpg",Radio ЕкоРадіо
+http://134.249.140.134:8000/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-radio-nv-logo.jpg",Radio Радіо НВ
+https://online-radio.nv.ua/radionv.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-109fm-logo.jpg",Radio 109FM
+https://solid48.streamupsolutions.com/proxy/cfujtbgw/109fm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-avtoradio-ukrayina-logo.jpg",Radio Авторадіо Україна
+https://cast.mediaonline.net.ua/avtoradio320
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rzk-592392-logo.jpg",Radio RzK
+http://stream.mjoy.ua:8000/radio-z-kryjivky
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-ua-ukrayinske-radio-logo.jpg",Radio UA: Українське радіо
+http://radio.nrcu.gov.ua:8000/ur1-mp3-m
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-drugij-kanal-promin-logo.jpg",Radio Другий канал "Промiнь"
+http://radio.nrcu.gov.ua:8000/ur2-mp3-m
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-tretij-kanal-kultura-logo.jpg",Radio Третій канал "Культура"
+https://radio3.ukr.radio/ur3-mp3-m
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-vgolos-fm-logo.jpg",Radio Вголос FM
+https://cast108372.customer.uar.net/vgolos64
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-zhitomirska-hvilya-logo.jpg",Radio Житомирська хвиля
+http://radio.nrcu.gov.ua:8000/ur1-zt-aacplus
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-lvivska-hvilya-logo.jpg",Radio Львівська хвиля
+https://onair.lviv.fm:8443/lviv.fm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-radio-es-logo.jpg",Radio Радио ЕС
+http://185.65.245.34:8000/kiev
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/strij-fm-168134-logo.jpg",Radio Стрий FM
+http://193.53.83.13:8000/stryi-fm_mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-radio-rai-logo.jpg",Radio Радіо РАІ
+https://radio.rai.ua:9000/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-radio-pyatnicya-logo.jpg",Radio Радіо П'ятниця
+https://cast.mediaonline.net.ua/radiopyatnica320
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-yeradio-logo.jpg",Radio Є!Радіо
+https://cast1.asurahosting.com/proxy/northst2/eradio1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-radio-sokal-logo.jpg",Radio Радіо Сокаль
+http://online.sokal.lviv.ua:8000/sokalfm96.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-skovoroda-614115-logo.jpg",Radio SKOVORODA
+http://stream.radioskovoroda.com:8000/radioskovoroda
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-kiss-fm-0-logo.jpg",Radio Kiss FM
+https://online.kissfm.ua/KissFM
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-hit-fm-0-1-2-3-4-logo.jpg",Radio Хіт FM
+https://online.hitfm.ua/HitFM
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-kiss-fm-0-1-2-logo.jpg",Radio Kiss FM
+https://online.kissfm.ua/KissFM
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-radio-roks-0-logo.jpg",Radio ROKS
+https://online.radioroks.ua/RadioROKS
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-melodiya-fm-0-logo.jpg",Radio Мелодія FM
+https://online.melodiafm.ua/MelodiaFM
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-radio-relax-logo.jpg",Radio Радіо Relax
+https://online.radiorelax.ua/RadioRelax
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-kiss-fm-0-1-2-3-logo.jpg",Radio Kiss FM
+https://online.kissfm.ua/KissFM
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-kiss-fm-0-1-2-3-4-logo.jpg",Radio Kiss FM
+https://online.kissfm.ua/KissFM
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-radio-relax-0-logo.jpg",Radio Радіо Relax
+https://online.radiorelax.ua/RadioRelax
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-force-3-radio-logo.jpg",Force 3 Radio
+https://radio.securenetsystems.net/v5/KCLT
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio1ua-631082-logo.jpg",Radio1.UA
+http://136.243.158.56:8000/online

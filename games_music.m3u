@@ -2,3 +2,7 @@
 https://listen.radioking.com/radio/422/stream/62785
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pl-radio-rmf-gamemusic-logo.jpg",Radio RMF - GameMusic
 https://rs103-krk-cyfronet.rmfstream.pl/GAMEMUSIC
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-fm4-568460-logo.jpg",Radio FM4
+https://orf-live.ors-shoutcast.at/fm4-q1a
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gamer-sound-614642-logo.jpg",Radio Gamer Sound
+https://altair.streamerr.co:8166/stream

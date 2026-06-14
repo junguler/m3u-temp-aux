@@ -12,3 +12,25 @@ http://radio.1dhe1.com:8555/;
 https://radiokos.radioca.st/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/xk-radio-vala-rinore-logo.jpg",Radio Vala Rinore
 http://ca3.rcast.net:8024/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/xk-radio-vicianum-logo.jpg",Radio Vicianum
+https://s3.free-shoutcast.com/stream/18218
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/xk-urban-fm-logo.jpg",Radio Urban FM
+http://46.19.224.157:8000/;u0026lang=enu0026codec=mp3u0026volume=100u0026introurl=u0026autoplay=trueu0026traking=trueu0026jsevents=falseu0026buffering=5u0026title=Radio%20Urban%20FM%20103.5?1459432422368.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/xk-radio-zeri-mitrovices-logo.jpg",Radio Zeri Mitrovices
+http://199.195.194.140:8021/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/xk-radio-dukagini-logo.jpg",Radio Dukagini
+https://s2.voscast.com:8825/radiodukagjini
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/xk-921-capital-fm-logo.jpg",Radio 92.1 Capital FM
+https://cfm.albaservers.com:8012/live.m4a
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/xk-radio-ilirida-logo.jpg",Radio Ilirida
+http://eu1.reliastream.com:7041/stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/xk-radio-zeri-i-shtimes-logo.jpg",Radio Zeri i Shtimes
+http://radio.1dhe1.com:8090/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/xk-studio-rejan-logo.jpg",Radio Studio Rejan
+http://streaming.jusahost.com:9988/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/xk-radio-rinia-984-fm-logo.jpg",Radio Rinia 98.4 FM
+http://radio.1dhe1.com:9200/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/xk-radio-kosova-1-logo.jpg",Radio Kosova 1
+https://radio.rtklive.com:8443/?type=sc1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/xk-radio-kosova-2-logo.jpg",Radio Kosova 2
+https://radio.rtklive.com:9443/?type=sc1
