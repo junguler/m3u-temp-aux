@@ -1,0 +1,112 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-la-chona-radio-logo.jpg",La chona Radio
+https://server3.sit-mexico.com:2199/proxy/lachona?mp=/stream?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-los-40-0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-logo.jpg",Radio Los 40
+https://los40.b-cdn.net/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-chono-radio-logo.jpg",Chono Radio
+https://server2.sit-mexico.com:2199/proxy/chonoradio?mp=/stream?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-llanura-radio-logo.jpg",Llanura Radio
+https://stm13.xcast.com.br:8416/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/la-mejor-909-san-luis-potosi-612713-logo.jpg",Radio La Mejor 90.9 San Luis Potosí
+http://hd.digitalradio.mx:5885/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-instrumentales-radio-logo.jpg",Instrumentales Radio
+https://media.streamingradiomx.com/listen/radiofm/fm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-la-poderosa-logo.jpg",Radio La Poderosa
+https://streaming.servicioswebmx.com/8130/stream;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/voces-del-rancho-999-648512-logo.jpg",Radio voces del rancho 99.9
+http://5.79.86.14:8106/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-los-40-0-1-2-3-logo.jpg",Radio Los 40
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICOAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-buenisiima-885-fm-logo.jpg",Radio Buenisiima 88.5 FM
+https://ss1.audiorama.com.mx:6628/;stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-jm-radio-instrumental-relax-logo.jpg",JM Radio Instrumental Relax
+https://stream.zeno.fm/nttqukp84k0uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-el-lobo-logo.jpg",Radio El Lobo
+https://streamingcwsradio30.com/8172/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/miled-music-soundtrack-598300-logo.jpg",Radio Miled Music Soundtrack
+https://miledmusic71-cybertec.radioca.st/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-principe-de-paz-1047-fm-630038-logo.jpg",Radio Principe De Paz 104.7 FM
+http://62.210.25.63:44228/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-miled-music-country-logo.jpg",Radio Miled Music Country
+https://miledmusic14-cybertec.radioca.st/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-miled-music-60s-logo.jpg",Radio Miled Music 60’s
+https://miledmusic76-cybertec.radioca.st/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-nicolaita-579324-logo.jpg",Radio Nicolaita
+http://148.216.0.21:8000/rnic
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-latidos-fm-logo.jpg",Radio Latidos fm
+https://rr5100.globalhost1.com/8002/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/miled-music-90s-598256-logo.jpg",Radio Miled Music 90’s
+https://miledmusic2-cybertec.radioca.st/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/miled-music-pop-598301-logo.jpg",Radio Miled Music Pop
+https://miledmusic16-cybertec.radioca.st/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-miled-music-jose-jose-logo.jpg",Radio Miled Music José José
+https://miledmusic95-cybertec.radioca.st/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-miled-music-50s-logo.jpg",Radio Miled Music 50’s
+https://miledmusic75-cybertec.radioca.st/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-radiosofando-logo.jpg",Radiosofando
+https://stream9.mexiserver.com:7040/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-buenisima-logo.jpg",Radio Buenísima
+https://ss1.audiorama.com.mx:6606/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/buenisiima-569140-logo.jpg",Radio Buenisiima
+https://ss1.audiorama.com.mx:6594/;stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-ke-buena-0-logo.jpg",Radio Ke Buena
+https://streaming.servicioswebmx.com/8292/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-radio-cutzamala-905-fm-logo.jpg",Radio Cutzamala 90.5 Fm
+https://stream.zeno.fm/uyniccqbrsgvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-radio-sin-nombre-internacional-de-mexico-logo.jpg",Radio Sin Nombre Internacional de México
+https://stream.zenolive.com/t62yuu8dqrhvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-suave-logo.jpg",Radio Suave
+https://app.sonicpanelradio.com/8526/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-romantica-logo.jpg",Radio Romántica
+https://cdn1.onstream.audio/proxy/xeco/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-ritmo-fm-logo.jpg",Radio Ritmo FM
+https://laradio.stream/proxy/ritmofm/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-los-40-0-1-2-3-4-logo.jpg",Radio Los 40
+https://ss1.audiorama.com.mx:6634/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-radio-cachanilla-logo.jpg",Radio Cachanilla
+https://app.sonicpanelradio.com/8010/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/miled-music-alternativo-598339-logo.jpg",Radio Miled Music Alternativo
+https://miledmusic25-cybertec.radioca.st/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/miled-music-classic-rock-598292-logo.jpg",Radio Miled Music Classic Rock
+https://miledmusic11-cybertec.radioca.st/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-radio-libertad-oaxaca-logo.jpg",Radio Libertad Oaxaca
+https://tv.radiohosting.online:9216/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-vida-y-rock-and-roll-logo.jpg",Radio vida y rock and roll
+https://radio11.servidorderadio.net/8084/radio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-nitro-radio-logo.jpg",Nitro Radio
+https://stm6.xcast.com.br:10420/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-la-maquina-que-bonita-radio-logo.jpg",La Maquina Que Bonita Radio
+https://stream.zeno.fm/wjzury7imzutv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-siempre-gruperos-logo.jpg",Radio Siempre Gruperos
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR07_s01AAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-radio-baladas-viejitas-romanticas-logo.jpg",Radio Baladas Viejitas Romànticas
+https://media.streamingradiomx.com/listen/radio_baladas_viejitas_romànticas/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-al-fin-rock-logo.jpg",Radio Al Fin Rock
+https://stream.zeno.fm/xygvbwnn2nhvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-baladas-romanticas-radio-logo.jpg",Baladas Románticas Radio
+https://media.streamingradiomx.com/listen/baladas_románticas_radio/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-alfa-y-omega-1053-fm-643835-logo.jpg",Radio Alfa y Omega 105.3 FM
+http://centova.armedia.mx:8114/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-la-kpitana-1035-fm-logo.jpg",Radio La Kpitana 103.5 FM
+https://stream.zeno.fm/s3oi06jeyifuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/magica-fm-987-648468-logo.jpg",Radio Mágica Fm 98.7
+http://centova.armedia.mx:8306/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-matehuas-radio-logo.jpg",Matehuas Radio
+https://sp5.servidorrprivado.com:10947/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-radio-la-paz-de-dios-logo.jpg",Radio La Paz De Dios
+https://stream.zeno.fm/tcv96mcuizluv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/masmusic-909fm-176334-logo.jpg",Radio masmusic 90.9fm
+http://144.217.67.108:2330/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-clasicos-rock-1017-logo.jpg",Radio Clasicos-Rock 101.7
+https://stream.zeno.fm/97zhh7dyus8uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-sonido100-salina-cruz-logo.jpg",Radio Sonido100 salina cruz
+https://stream.zeno.fm/uek0gewozwpvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-ya-fm-957-villahermosa-logo.jpg",Radio Ya! FM 95.7 Villahermosa
+https://sg.centrocibernetico.com/yafmvillahermosa
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-ke-buena-0-1-2-logo.jpg",Radio Ke Buena
+https://kebuenaslp.b-cdn.net/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/stereo-100-578613-logo.jpg",Radio Stereo 100
+https://streamingcwsradio30.com:7026/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/miled-music-80s-598257-logo.jpg",Radio Miled Music 80’s
+https://miledmusic1-cybertec.radioca.st/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-radio-baladas-viejitas-bonitas-logo.jpg",Radio Baladas Viejitas Bonitas
+https://media.streamingradiomx.com/listen/radio_baladas_viejitas_bonitas/radio.mp3

@@ -1,0 +1,22 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/enigmatic-station-i-615829-logo.jpg",Radio Enigmatic station I
+http://listen2.myradio24.com:9000/8226
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/diskoteka-90-x-187652-logo.jpg",Radio Дискотека 90-х
+http://listen1.myradio24.com:9000/5967
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dwg-radio-russia-578728-logo.jpg",DWG Radio Russia
+https://server32349.streamplus.de/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ng-radio-show-609464-logo.jpg",NG RADIO SHOW
+https://myradio24.org/8840
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/komsomolskaya-pravda-lipetsk-609403-logo.jpg",Radio Komsomolskaya Pravda Lipetsk
+http://lipetck.radiokp128.mp3.streamr.ru/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gtrk-kareliya-182438-logo.jpg",Radio GTRK Kareliya
+http://file.podfm.ru/3/38/388/3888/mp3/2107101210.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-vera-607455-logo.jpg",Radio Vera
+http://radiovera.hostingradio.ru:8007/radiovera_64
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/popular-classic-645853-logo.jpg",Radio Popular Classic
+http://icecast-radioclassica.cdnvideo.ru/radioclassica
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/old-good-radio-592821-logo.jpg",Old good radio
+http://91.189.162.134:8008/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/melody-voronezh-584705-logo.jpg",Radio Melody-Voronezh
+http://icecast.mediaalliance.cdnvideo.ru/mediaalliance
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-caprice-russian-shanson-590875-logo.jpg",Radio Caprice Russian Shanson
+http://79.120.77.11:9025/;

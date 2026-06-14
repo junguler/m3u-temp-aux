@@ -1,0 +1,12 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-la-red-592761-logo.jpg",Radio La Red
+https://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ec-jm-radio-logo.jpg",JM Radio
+https://radio.kapchosting.com/8010/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ir-radio-mojahed-logo.jpg",Radio Mojahed
+https://s2.radio.co/s830691c74/listen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cd-waziwazi-radio-logo.jpg",WAZIWAZI RADIO
+https://stream.zeno.fm/clkive9b4butv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-kossuth-radio-logo.jpg",Radio Kossuth Rádió
+http://mr-stream.mediaconnect.hu/4734/mr1.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cy-bayrak-radyosu-logo.jpg",Radio Bayrak Radyosu
+http://sc.brtk.net:8002/;*.mp3

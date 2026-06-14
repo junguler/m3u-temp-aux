@@ -1,0 +1,10 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gr-onenews-radio-logo.jpg",OneNews Radio
+https://cast2.radiohost.ovh/onenewsradio?mp=/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gr-politia-fm-logo.jpg",Radio Politia FM
+http://politiafm.zapto.org:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gr-radio-agiasos-logo.jpg",Radio Agiasos
+https://centova.streams.gr:8088/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gr-lampsh-1057-logo.jpg",Radio ΛΑΜΨΗ 105.7
+https://stream3.proradio.gr/listen/lampsi/lampsifm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cy-star-fm-logo.jpg",Radio Star FM
+http://s6.myradiostream.com:11056/;

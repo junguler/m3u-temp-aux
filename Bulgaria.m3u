@@ -1,0 +1,16 @@
+#EXTINF:-1 tv-logo="",Radio Slavi
+http://79.98.108.170:8043/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-antenna-web-varna-logo.jpg",Radio Antenna Web Varna
+https://tinyurl.com/Antenna-Web-Varna
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-bnr-radio-sofiya-logo.jpg",Radio BNR Радио София
+https://lb-hls.cdn.bg/2032/fls/Sofia.stream/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-urban-hits-radio-logo.jpg",Urban Hits Radio
+https://radio.jump.bg/proxy/feed11?mp=/UHRAAC
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-bnr-hristo-botev-logo.jpg",Radio BNR Христо Ботев
+https://lb-hls.cdn.bg/2032/fls/HrBotev.stream/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-radio-gama-logo.jpg",Radio Радио Гама
+http://g5.turbohost.eu:8003/gama128
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-internet-radio-best-logo.jpg",Internet Radio Best
+http://radio-best.net:8000/best
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bnr-horizont-567988-logo.jpg",Radio BNR Хоризонт
+https://e106-ts.cdn.bg/regstations/fls/Horizont.stream/playlist.m3u8

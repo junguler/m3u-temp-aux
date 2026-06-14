@@ -1,0 +1,22 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wwos-592745-logo.jpg",Radio WWOS
+http://192.241.185.108:8040/1/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/maria-radio-papa-596142-logo.jpg",Radio Mária Rádió Pápa
+http://mariaradio.hu:8000/mr_papa
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-tiempo-de-gracia-639799-logo.jpg",Radio Tiempo de Gracia
+http://stream.zenolive.com/p5vkqcv44rquv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-uncion-escuintla-602082-logo.jpg",Radio Uncion Escuintla
+http://stream.zenolive.com/0az3ddwkeseuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dwg-radio-russia-578728-logo.jpg",DWG Radio Russia
+https://server32349.streamplus.de/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sbbradio-network-584151-logo.jpg",SBBradio Network
+http://s7.voscast.com:10664/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wmqm-573391-logo.jpg",Radio WMQM
+http://67.225.254.37:2112/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kibc-574607-logo.jpg",Radio KIBC
+http://kibc.streamguys1.com/live-mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/revive-fm-615551-logo.jpg",Radio Revive FM
+http://ice42.securenetsystems.net/KEPHLP
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sw-radio-russisch-184104-logo.jpg",SW-Radio Russisch
+http://www.segenswelle.de:8000/russisch
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-vera-607455-logo.jpg",Radio Vera
+http://radiovera.hostingradio.ru:8007/radiovera_64

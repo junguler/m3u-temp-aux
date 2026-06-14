@@ -1,0 +1,14 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/guyette2469-620159-logo.jpg",Radio guyette2469
+http://s6.voscast.com:10090/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-waterpol-international-598482-logo.jpg",Radio Waterpol International
+http://193.242.108.93:8060/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cjrs-radio-montreal-153593-logo.jpg",CJRS Radio Montreal
+http://radio3.cjrsradio.com:8138/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/qmusic-het-foute-uur-601475-logo.jpg",Radio Qmusic Het Foute Uur.
+http://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_fouteuur_96.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hot-1011-kodiak-575464-logo.jpg",Radio HOT 101.1 KODIAK
+http://kea.cdnstream.com/1928_128
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rabinovich-fm-607149-logo.jpg",Radio Rabinovich-FM
+http://212.26.146.50:8000/rabin.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-star-pop-explosion-581475-logo.jpg",Radio Star - Pop Explosion
+http://dreamsiteradiocp3.com:8014/;

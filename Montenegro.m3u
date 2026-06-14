@@ -1,0 +1,8 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-renome-186569-logo.jpg",Radio Renome
+https://r.name.ba:7316/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tdi-crna-gora-607368-logo.jpg",Radio TDI Crna Gora
+http://streaming.tdiradio.com:8000/crnagora.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/me-radio-balkansko-srce-logo.jpg",Radio Balkansko Srce
+http://cmr-hosting.com:8445/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/me-mag-radio-party-logo.jpg",MAG Radio Party
+https://radio.elmag.me/party.mp3

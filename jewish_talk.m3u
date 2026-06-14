@@ -1,0 +1,8 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/jewish-radio-network-610810-logo.jpg",Jewish Radio Network
+http://23.92.66.93:8000/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/chabadorg-jewish-music-648753-logo.jpg",Radio Chabad.org Jewish Music
+http://stream.radio.co/sdfd68a101/listen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kabbalah-tv-russian-581495-logo.jpg",Radio Kabbalah TV Russian
+http://icecast.kab.tv/rus.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kabbalah-tv-hebrew-581496-logo.jpg",Radio Kabbalah TV Hebrew
+http://icecast.kab.tv/heb.mp3

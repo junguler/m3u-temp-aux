@@ -1,0 +1,30 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-epic-oldies-logo.jpg",Radio Epic Oldies
+http://198.178.123.8:11372/1/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-radiobilly365com-logo.jpg",Radiobilly365.com
+https://studio28.radiolize.com/radio/8110/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uk-1940s-radio-home-service-pumpkin-fm-logo.jpg",1940s Radio - Home Service - Pumpkin FM
+https://cast2.asurahosting.com/proxy/1940sradio/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-miled-music-50s-logo.jpg",Radio Miled Music 50’s
+https://miledmusic75-cybertec.radioca.st/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-rsa-event-101-logo.jpg",Radio R.SA  Event 101
+https://streams.rsa-sachsen.de/101/aac-64/onlineradiobox/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bn-rtb-harmoni-fm-logo.jpg",Radio RTB Harmoni FM
+https://d2kziuzkf9oizb.cloudfront.net/rd002/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sv-juvi-logo.jpg",Radio JUVI
+http://aler.org:8000/juvi
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uk-best-oldies-radio-bor-logo.jpg",BEST OLDIES RADIO (BOR)
+https://a8.asurahosting.com:8090/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rsa-rockzirkus-607247-logo.jpg",Radio R.SA  Rockzirkus
+https://streams.rsa-sachsen.de/rsa-rockzirkus/mp3-128/onlineradiobox/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rsa-ostrock-607249-logo.jpg",Radio R.SA Ostrock
+https://streams.rsa-sachsen.de/rsa-ostrock/mp3-192/onlineradiobox/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rsa-maxis-maximal-628900-logo.jpg",Radio R.SA  Maxis Maximal
+https://streams.rsa-sachsen.de/maxis/mp3-128/onlineradiobox/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-rsa-weihnachtsradio-logo.jpg",R.SA  Weihnachtsradio
+https://streams.rsa-sachsen.de/rsa-event01/mp3-128/onlineradiobox/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-rsa-oldie-club-logo.jpg",Radio R.SA  Oldie-club
+https://streams.rsa-sachsen.de/rsa-oldies/mp3-128/onlineradiobox/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-rsa-live-logo.jpg",Radio R.SA Live
+https://streams.rsa-sachsen.de/rsa-live/mp3-128/onlineradiobox/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-rsa-das-beatles-radio-logo.jpg",R.SA  Das Beatles Radio
+https://streams.rsa-sachsen.de/rsa-beatles/aac-64/onlineradiobox/

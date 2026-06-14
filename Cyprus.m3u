@@ -1,0 +1,8 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sport-fm-950-cyprus-639974-logo.jpg",Radio Sport fm 95.0 Cyprus
+http://eradio.networksolutions.com.cy:1935/SportFM/SportFM.stream/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-banat-598540-logo.jpg",Radio Banat
+http://live.radiobanatfm.com:8002/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cy-star-fm-logo.jpg",Radio Star FM
+http://s6.myradiostream.com:11056/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cy-bayrak-radyosu-logo.jpg",Radio Bayrak Radyosu
+http://sc.brtk.net:8002/;*.mp3

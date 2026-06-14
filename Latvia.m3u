@@ -1,0 +1,22 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/prosto-radio-liepaja-1080-645184-logo.jpg",Prosto Radio Liepaja 108.0
+http://89.254.163.122:8000/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lv-talsi-lounge-radio-logo.jpg",Talsi Lounge Radio
+http://kuums.lv:5555/?type=httpu0026nocache=170
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/latviesu-radio-172031-logo.jpg",Latviesu Radio
+http://stream.europeanhitradio.com:8000/lhr.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lv-hmr-logo.jpg",Radio HMR
+https://stream.zeno.fm/gaqllg8gkftuv
+#EXTINF:-1 tv-logo="",Radio Talsi mixed kuums
+http://radio.kuums.lv:5555/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lv-radio-energy-hit-music-radio-logo.jpg",Radio Energy - Hit Music Radio
+http://radioenergy.lv:8000/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kurzemes-radio-568856-logo.jpg",Kurzemes Radio
+http://31.170.16.6:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lv-flash-sound-lv-radio-logo.jpg",Flash Sound (LV) radio
+https://myradio24.org/65462
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/power-fm-175897-logo.jpg",Radio Power Fm
+https://radio.powerfm.lv:8075/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-swh-plus-568106-logo.jpg",Radio SWH Plus
+https://live.radioswh.lv:8443/plusmp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/schlager-time-radio-172097-logo.jpg",Schlager Time Radio
+http://schlagers.org:8760/;

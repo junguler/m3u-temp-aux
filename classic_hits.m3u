@@ -1,0 +1,6 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-tiempo-puerto-570072-logo.jpg",Radio Tiempo Puerto
+http://server7.servistreaming.com:10064/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/popular-classic-645853-logo.jpg",Radio Popular Classic
+http://icecast-radioclassica.cdnvideo.ru/radioclassica
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/old-good-radio-592821-logo.jpg",Old good radio
+http://91.189.162.134:8008/;

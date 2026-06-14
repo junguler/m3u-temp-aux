@@ -1,0 +1,32 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-la-chona-radio-logo.jpg",La chona Radio
+https://server3.sit-mexico.com:2199/proxy/lachona?mp=/stream?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-la-comadre-frontera-584797-logo.jpg",Radio La Comadre Frontera
+http://live.myradioserver.net:8200/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-buenisiima-885-fm-logo.jpg",Radio Buenisiima 88.5 FM
+https://ss1.audiorama.com.mx:6628/;stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-latidos-fm-logo.jpg",Radio Latidos fm
+https://rr5100.globalhost1.com/8002/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-fiesta-1510-am939-fm-logo.jpg",Radio FIESTA 1510 AM/93.9 FM
+https://www.streamcontrol.net:8444/s/14070
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/buenisiima-569140-logo.jpg",Radio Buenisiima
+https://ss1.audiorama.com.mx:6594/;stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-ke-buena-0-logo.jpg",Radio Ke Buena
+https://streaming.servicioswebmx.com/8292/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gt-estereo-alegre-1015-fm-occidente-logo.jpg",Radio Estereo Alegre 101.5 FM Occidente
+https://stream.zeno.fm/597dgr66e2zuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sv-musiquera-logo.jpg",Radio Musiquera
+https://stream.zeno.fm/ucg7nnxmrc9uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-radio-libertad-oaxaca-logo.jpg",Radio Libertad Oaxaca
+https://tv.radiohosting.online:9216/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-nitro-radio-logo.jpg",Nitro Radio
+https://stm6.xcast.com.br:10420/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-siempre-gruperos-logo.jpg",Radio Siempre Gruperos
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR07_s01AAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sv-juvi-logo.jpg",Radio JUVI
+http://aler.org:8000/juvi
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-la-kpitana-1035-fm-logo.jpg",Radio La Kpitana 103.5 FM
+https://stream.zeno.fm/s3oi06jeyifuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/musiquera-578285-logo.jpg",Radio Musiquera
+https://stream.zeno.fm/83h238tqsceuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-ke-buena-0-1-2-logo.jpg",Radio Ke Buena
+https://kebuenaslp.b-cdn.net/stream

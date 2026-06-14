@@ -1,0 +1,40 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/be-klara-continuo-logo.jpg",Radio Klara Continuo
+https://icecast.vrtcdn.be/klaracontinuo-high.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/be-instrumental-radio-logo.jpg",Instrumental Radio
+https://listen.openstream.co/4097/audio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nostalgie-soul-party-159494-logo.jpg",Radio Nostalgie Soul Party
+https://stream.rcs.revma.com/6qq9cq43ehuvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/be-nostalgie-camping-logo.jpg",Radio Nostalgie Camping
+https://stream.rcs.revma.com/8cshgmq4ehuvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/be-le-meilleur-de-nostalgie-logo.jpg",Radio Le Meilleur de Nostalgie
+https://stream.rcs.revma.com/r9gvhg43ehuvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/be-studio-neau-logo.jpg",Radio Studio Neau
+https://studioneau.out.airtime.pro/studioneau_a
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/be-rqc-logo.jpg",Radio R.Q.C.
+http://5.39.80.55:8000/live;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/be-stadsradio-halle-logo.jpg",Stadsradio Halle
+https://mscp2.live-streams.nl:8132/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/be-blackmetallive-logo.jpg",Radio Blackmetal.live
+https://stream.blackmetal.live:8443/stream.ogg
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/be-rtbf-musiq3-baroque-logo.jpg",Radio RTBF - Musiq3 Baroque
+https://radios.rtbf.be/wr-m3-baroque-128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/be-klara-logo.jpg",Radio Klara
+https://icecast.vrtcdn.be/klara-high.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/be-q-allstars-logo.jpg",Radio Q-Allstars
+https://streams.radio.dpgmedia.cloud/redirect/qbe_allstars/mp3?source=onlineradioboxu0026player=rp_externalu0026gdpr=1u0026gdpr_consent=
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/max-fm-173752-logo.jpg",Radio Max FM
+https://direct.maxfm.be:8000/maxfm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/be-webradio-waasland-logo.jpg",WebRadio-Waasland
+https://cast1.torontocast.com:2245/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rcf-sud-belgique-592597-logo.jpg",Radio RCF Sud Belgique
+http://rcf.streamakaci.com/rcfsudbe.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-nova-599850-logo.jpg",Radio Nova
+https://nova.dzradio.nl/nova
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/be-xmas-fm-logo.jpg",Radio Xmas FM
+https://live.radiostudio.be/xmasfm-tease
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/be-citymusic-logo.jpg",Radio CityMusic
+https://play.citymusic.be/citymusic.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/be-radio-contact-kids-logo.jpg",Radio Contact Kids
+https://contactkids.ice.infomaniak.ch/contactkids-192.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-emotion-belgique-611379-logo.jpg",Radio Emotion Belgique
+https://azura.radioemotion.be/listen/live/1

@@ -1,0 +1,28 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-difusora-am-logo.jpg",Radio Rádio Difusora AM
+http://paineldj.com.br:8149/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-itatiaia-0-1-2-logo.jpg",Radio Rádio Itatiaia
+https://radio.saopaulo01.com.br:7000/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-independencia-fm-0-1-2-logo.jpg",Radio Rádio Independência FM
+https://hts03.brascast.com:8406/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-alto-piranhas-logo.jpg",Radio Rádio Alto Piranhas
+https://5a57bda70564a.streamlock.net/altopiranhas/altopiranhas.stream/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/canudos-fm-179067-logo.jpg",Radio Canudos FM
+https://streammaior.jmhost.com.br/radio/8020/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-campo-maior-am-logo.jpg",Radio Rádio Campo Maior AM
+https://streammaior.jmhost.com.br/radio/8010/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-cabiuna-logo.jpg",Radio Cabiúna
+https://ice.fabricahost.com.br/radiocabiuna
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-itataia-logo.jpg",Radio Itataia
+https://radio.saopaulo01.com.br/8270/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-cidade-am-165124-logo.jpg",Radio Rádio Cidade AM
+https://stream.splug.com.br:8443/Radio83
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-relogio-am-logo.jpg",Radio Relogio AM
+https://s45.maxcast.com.br:8060/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-difusora-cristal-166049-logo.jpg",Radio Rádio Difusora Cristal
+http://wz4.dnip.com.br/cristal/cristal.sdp/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-onda-livre-logo.jpg",Radio Rádio Onda Livre
+https://centova2.svdns.com.br:20059/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-jornal-0-logo.jpg",Radio Rádio Jornal
+http://suaradio1.dyndns.ws:13385/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-socorro-178699-logo.jpg",Radio Rádio Socorro
+https://radiosocorro2.jmvstream.com/stream

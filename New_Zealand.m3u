@@ -1,0 +1,8 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-more-fm-high-school-hits-logo.jpg",Radio More FM High School Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/MOREFM_S01.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-viperfm-logo.jpg",Radio Viperfm
+https://viperfm-gecko.radioca.st/viperfmlive
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-more-fm-high-school-hit-countdown-replay-2023-logo.jpg",Radio More FM High School Hit Countdown Replay 2023
+https://playerservices.streamtheworld.com/api/livestream-redirect/HSHCOUNT_S01.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-power-hit-fm-878-logo.jpg",Radio Power Hit FM 87.8
+https://pstnet1.shoutcastnet.com:16104/stream

@@ -1,0 +1,6 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/es-exitoradio-logo.jpg",Exitoradio
+https://eu1.lhdserver.es:8009/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lk-imai-fm-logo.jpg",Radio Imai fm
+https://centova71.instainternet.com/proxy/imaifmradio?mp=/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-frequence-mediterranee-638464-logo.jpg",Radio Fréquence Méditerranée
+https://frequencemediterranee.ice.infomaniak.ch/frequencemediterranee-128.mp3
