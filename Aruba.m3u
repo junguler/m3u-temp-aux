@@ -1,0 +1,26 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/top-fm-156646-logo.jpg",Radio Top FM
+http://198.245.51.58:10995/topfm?type=.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/aw-radio-bo-guia-logo.jpg",Radio Bo Guia
+http://whooshserver.net:9880/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hits-100-fm-164887-logo.jpg",Radio Hits 100 FM
+https://audio-edge-5bkfj.fra.h.radiomast.io/f4b2dcfb-399c-4650-a64a-e4fb5b32717e
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/aw-vip-radio-logo.jpg",VIP Radio
+http://s02.whooshserver.net:8054/vip
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/aw-super-exitos-aruba-logo.jpg",Radio Super Exitos Aruba
+https://stream.zeno.fm/28d9wayzmc9uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/aw-radio-fresh-fm-logo.jpg",Radio Fresh FM
+http://www.fresharuba.com:8006/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/magic-965-fm-568666-logo.jpg",Radio Magic 96.5 FM
+http://158.69.114.190:8072/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/aw-la-mania-logo.jpg",Radio La Mania
+https://stream.zeno.fm/c118fgzm9k0uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/aw-radio-cool-fm-logo.jpg",Radio Cool FM
+https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/aw-radio-gfm-galactica-logo.jpg",Radio GFM Galactica
+https://stream.zeno.fm/ywr9n56pnc9uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/aw-latina-fm-logo.jpg",Radio Latina FM
+https://server.radiogs.org/8140/stream/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/aw-comeback-radio-logo.jpg",Comeback Radio
+https://s8.voscast.com:7001/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/aw-hit-94-fm-logo.jpg",Radio Hit 94 FM
+http://hit94fm.serverroom.us:8490/;stream.mp3

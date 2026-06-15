@@ -1,0 +1,16 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-domeldo-live-626814-logo.jpg",Radio Domeldo Live
+http://185.105.4.53:3000/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-danko-radio-logo.jpg",Radio Dankó Rádió
+https://mr-stream.connectmedia.hu/4748/mr7.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-danko-radio-0-logo.jpg",Radio Dankó Rádió
+https://mr-stream.connectmedia.hu/4748/mr7.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-danko-radio-0-1-2-logo.jpg",Radio Dankó Rádió
+https://mr-stream.connectmedia.hu/4748/mr7.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-rtvs-r-pyramida-logo.jpg",Radio RTVS R Pyramída
+https://icecast.stv.livebox.sk/klasika_128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-wqxr-operavore-logo.jpg",Radio WQXR - Operavore
+https://opera-stream.wqxr.org/operavore-web
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nl-classicnl-opera-logo.jpg",Radio Classicnl - Opera
+https://stream.classic.nl/classicnl-opera.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/clasica-88-5-581793-logo.jpg",Radio Clásica 88.5
+https://s47.myradiostream.com/:16492/listen.mp3?nocache=1698245490

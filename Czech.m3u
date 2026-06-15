@@ -1,0 +1,98 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-proglas-165108-logo.jpg",Radio Proglas
+https://icecast2.play.cz/proglas128
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-nova-voz-logo.jpg",Radio Rádio Nova Voz
+http://sl.dnip.com.br:16920/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cz-evropa-2-flashback-logo.jpg",Radio Evropa 2 - Flashback
+https://ice.actve.net/web-e2-flashback
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cz-evropa-2-hot-logo.jpg",Radio Evropa 2 - Hot
+https://ice.actve.net/web-e2-hot
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cz-evropa-2-movin-logo.jpg",Radio Evropa 2 - Movin
+https://ice.actve.net/web-e2-movin
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cz-evropa-2-top-40-logo.jpg",Radio Evropa 2 - Top 40
+https://ice.actve.net/web-e2-top40
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cz-hitradio-north-music-devadesatka-logo.jpg",Radio Hitrádio North Music - Devadesátka
+https://ice.abradio.cz/hit90128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hitradio-dragon-568780-logo.jpg",Hitradio Dragon
+https://ice.abradio.cz/dragon128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hitradio-fm-plus-581551-logo.jpg",Hitradio FM Plus
+https://playerservices.streamtheworld.com/api/livestream-redirect/HITRADIO_FMPLUS.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hitradio-vysocina-568886-logo.jpg",Radio Hitrádio Vysocina
+https://playerservices.streamtheworld.com/api/livestream-redirect/HITRADIO_VYSOCINA_128.mp3?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cz-hitradio-north-music-osmdesatka-logo.jpg",Radio Hitrádio North Music - Osmdesátka
+https://ice.abradio.cz/hit80128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cz-hitradio-north-music-poprock-logo.jpg",Radio Hitrádio North Music - PopRock
+https://ice.abradio.cz/hitpoprock128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cz-hitradio-north-music-zona-lasky-logo.jpg",Radio Hitrádio North Music - Zóna lásky
+https://ice.abradio.cz/hitzl128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cz-alternative-times-radio-logo.jpg",ALTERNATIVE TIMES RADIO
+https://ice3.abradio.cz/alternative128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hitradio-faktor-568871-logo.jpg",Hitradio Faktor
+https://ice.abradio.cz/faktor128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cz-kostka-radio-logo.jpg",Radio Kostka Rádio
+https://ice6.abradio.cz/kostka128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-pohadka-180130-logo.jpg",Radio Rádio Pohádka
+https://ice3.abradio.cz/pohadka128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cz-dance-club-radio-logo.jpg",Dance Club Radio
+https://ice4.abradio.cz/dance128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cz-radio-olympic-logo.jpg",Radio Rádio Olympic
+https://ice3.abradio.cz/olympic128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cz-radio-shadowbox-logo.jpg",Radio Shadowbox
+https://ice3.abradio.cz/shadowbox128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rockova-zabava-183130-logo.jpg",Radio Rocková Zábava
+https://ice.abradio.cz/rockzabava128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/metalomanie-180441-logo.jpg",Radio Metalomanie
+https://ice.abradio.cz/metalomanie128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-domino-180124-logo.jpg",Radio Domino
+http://mp3stream4.abradio.cz/domino128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cz-radio-golf-logo.jpg",Radio Rádio Golf
+https://ice4.abradio.cz/golf128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cz-radio-tloskov-logo.jpg",Radio Rádio Tloskov
+https://ice3.abradio.cz/tloskov128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cz-hitradio-orion-logo.jpg",Radio Hitrádio Orion
+https://playerservices.streamtheworld.com/api/livestream-redirect/HITRADIO_ORION_128.mp3?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cz-radio-bohemia-logo.jpg",Radio Bohemia
+https://stream-radiobohemia.cz:8443/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cz-radio-pigy-pohadky-logo.jpg",Radio Rádio Pigy Pohádky
+https://ice.actve.net/web-pg-pohadky
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cz-fred-film-radio-logo.jpg",FRED FILM RADIO
+https://s10.webradio-hosting.com/proxy/fredradiocz/stream/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/znamka-punku-180935-logo.jpg",Radio Známka Punku
+https://ice.abradio.cz/znamkapunku128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cz-be-in-radio-network-listen-to-rock-logo.jpg",Be iN Radio Network - Listen To Rock
+https://stream.zeno.fm/4h8asfrwetzuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cz-radio-kiss-proton-logo.jpg",Radio Kiss Proton
+https://icecast1.play.cz/kissproton128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cz-brnenske-radio-cas-logo.jpg",Brněnské Radio Čas
+https://icecast6.play.cz/casradio128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cz-slovacke-radio-cas-logo.jpg",Slovácké Radio Čas
+http://icecast6.play.cz/casradio128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-patriot-606815-logo.jpg",Radio Patriot
+http://s28.myradiostream.com:17086/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-kromeriz-598509-logo.jpg",Radio Kromeríz
+http://icecast6.play.cz/radio-kromeriz128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cz-zlinske-radio-cas-logo.jpg",Zlínské Radio Čas
+https://icecast6.play.cz/casradio128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rebel-radio-brod-173395-logo.jpg",Rebel Radio Brod
+http://sc.ipip.cz:7988/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cz-olomoucke-radio-cas-logo.jpg",Olomoucké Radio Čas
+https://icecast7.play.cz/casradio128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cz-relaxace-letni-bourka-logo.jpg",Radio Relaxace - Letní bourka
+https://ice6.abradio.cz/relax-thunder-rain128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cz-relaxace-more-logo.jpg",Radio Relaxace - More
+https://ice6.abradio.cz/relax-sea128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cz-relaxace-zpev-ptaku-logo.jpg",Radio Relaxace - Zpěv ptáků
+https://ice6.abradio.cz/relax-morning-birds128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cz-radio-hana-skyrock-logo.jpg",Radio Haná - SkyRock
+https://icecast8.play.cz/skyrock128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-hey-182323-logo.jpg",Radio HEY
+https://icecast3.play.cz/hey-radio128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cz-radio-samson-logo.jpg",Radio Samson
+https://icecast8.play.cz/samsonfm128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cz-svobodny-vysilac-cs-logo.jpg",Radio Svobodný vysílač CS
+http://stream.svobodny-vysilac.cz:8000/live.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cz-cesky-rozhlas-retro-logo.jpg",Radio Český rozhlas - Retro
+https://ice3.abradio.cz/croretro128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cz-relaxace-ohen-v-krbu-logo.jpg",Radio Relaxace - Ohen v krbu
+https://ice6.abradio.cz/relax-fire128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cz-cesky-rozhlas-liberec-logo.jpg",Radio Český rozhlas Liberec
+https://rozhlas.stream/liberec_mp3_128.mp3

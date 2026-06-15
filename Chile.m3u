@@ -1,0 +1,10 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cl-loncoche-al-dia-logo.jpg",Radio Loncoche al Día
+http://admin.loncochealdia.cl:8000/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cl-m1-radio-chile-logo.jpg",M1 radio chile
+https://sonic.portalfoxmix.cl/9836/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cl-fm-7-antofagasta-logo.jpg",Radio FM 7 Antofagasta
+https://sp1.streamingssl.com/8042/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cl-radio-san-ignacio-logo.jpg",Radio San Ignacio
+https://centova.streaming-chile.com/proxy/radiosanignacio?mp=/sanignacio_live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cl-bioestacion-radio-logo.jpg",BioEstacion Radio
+https://puma.streemlion.com:2135/stream

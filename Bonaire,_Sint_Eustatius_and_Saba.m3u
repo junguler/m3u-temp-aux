@@ -1,0 +1,10 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bq-bon-fm-1027-logo.jpg",Radio BON F.M. 102.7
+http://162.244.80.21:6482/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bq-radio-alpha-fm-logo.jpg",Radio Alpha FM
+https://kadushi.westream.cloud/listen/alfafm/xstream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bq-mega-hit-fm-logo.jpg",Radio Mega Hit FM
+http://megaspice.primcast.com:5216/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bq-radio-94-korsou-logo.jpg",Radio 94 Korsou
+http://162.243.94.61:8028/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bq-voz-di-bonaire-logo.jpg",Radio Voz di Bonaire
+https://kadushi.westream.cloud/listen/vozdibonaire/xstream

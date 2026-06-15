@@ -1,0 +1,8 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-hambastegi-178617-logo.jpg",Radio Hambastegi
+http://hambastegithree.mine.nu:9600/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-hambastegi-178617-logo.jpg",Radio Hambastegi
+http://hambastegithree.mine.nu:9600/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/au-8ccc-logo.jpg",Radio 8CCC
+https://playerservices.streamtheworld.com/api/livestream-redirect/8CCC.mp3?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-radio-alborz-logo.jpg",Radio Alborz
+http://live.indvandrerradio.dk:8000/;stream.mp3

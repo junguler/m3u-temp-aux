@@ -1,0 +1,10 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-zenobia-fm-626155-logo.jpg",Radio Zenobia FM
+http://radioliveb.rtv.gov.sy:8002/RadioZenobia
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rayan-fm-602685-logo.jpg",Radio Rayan FM
+https://stream.zeno.fm/fbhyqgivbgnvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/arta-fm-639601-logo.jpg",Radio Arta FM
+https://edge.mixlr.com/channel/qtgru
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/melody-fm-580565-logo.jpg",Radio Melody FM
+http://streaming.inet.sy:8000/melodyfm?type=.mp3/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sy-fuse-fm-logo.jpg",Radio FUSE FM
+http://192.95.23.89:4986/;stream.mp3

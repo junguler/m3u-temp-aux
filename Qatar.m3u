@@ -1,0 +1,10 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/qa-radio-uthamiyae-fm-logo.jpg",Radio Uthamiyae FM
+https://ssl.aloncast.com:1595/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/qa-radio-al-jazeera-arabic-logo.jpg",Radio Al Jazeera Arabic
+https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/index.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/qa-radio-sawa-logo.jpg",Radio Sawa
+https://stream.radiojar.com/mzw8z62r92quv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/qa-radio-sout-al-khaleej-fm-logo.jpg",Radio Sout Al Khaleej FM
+https://live.amperwave.net/direct/ihorizonsradio-sakfmaac-ibc1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/qa-qatar-radio-logo.jpg",Qatar Radio
+http://52.178.28.223:1935/QRS/myStream/Playlist.m3u8

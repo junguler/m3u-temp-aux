@@ -1,0 +1,62 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fun-604008-logo.jpg",Radio Fun
+https://st.downtime.fi/fun.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-helsinki-579769-logo.jpg",Radio Helsinki
+https://stream.radiohelsinki.fi/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-suomipop-568640-logo.jpg",Radio SuomiPop
+https://ms-live-suomipop.nm-elemental.nelonenmedia.fi/master.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-pori-569421-logo.jpg",Radio Pori
+https://radioplay.fi/radio-pori/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-city-569419-logo.jpg",Radio City
+https://radioplay.fi/radio-city/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-nova-158992-logo.jpg",Radio Nova
+https://radioplay.fi/radio-nova/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-santa-claus-180466-logo.jpg",Radio Santa Claus
+https://streaming.radiostreamlive.com/radiosantaclaus_devices
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-sun-582398-logo.jpg",Radio Sun
+https://st.downtime.fi/sun.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-pooki-171055-logo.jpg",Radio Pooki
+https://radioplay.fi/radio-pooki/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fi-radio-rex-logo.jpg",Radio Rex
+https://stream.radiorex.fi:8000/radiorex
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-auran-aallot-183176-logo.jpg",Radio Auran Aallot
+https://radioplay.fi/auran-aallot/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fi-radio-classic-logo.jpg",Radio Classic
+https://radioplay.fi/radio-classic/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fi-nrj-suomihitit-logo.jpg",Radio NRJ Suomihitit
+https://radioplay.fi/nrj/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fi-kiss-fm-logo.jpg",Radio Kiss fm
+https://radioplay.fi/kiss/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bassoradio-153566-logo.jpg",Bassoradio
+https://radioplay.fi/basso/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fi-oikea-asema-logo.jpg",Radio Oikea Asema
+http://stream2.sbs.fi/rc-hki.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hamsi-fm-154077-logo.jpg",Radio Hamsi FM
+http://radyo.hamsi.fm:8050/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fi-steel-fm-959-logo.jpg",Radio Steel FM 95.9
+https://streamdb7web.securenetsystems.net/v5/STEELFM
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fi-sea-fm-radio-logo.jpg",Sea FM Radio
+https://s3.myradiostream.com/:4976/listen.mp3?ver=976890
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-hear-154006-logo.jpg",Radio Hear
+http://hear.fi:8000/h128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-moreeni-163960-logo.jpg",Radio Moreeni
+http://moreenistream1.uta.fi:8080/moreeni.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-voima-178248-logo.jpg",Radio Voima
+https://cast2.radiovoima.fi/voima.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fi-oikea-asema-0-logo.jpg",Radio Oikea Asema
+http://stream2.sbs.fi/rc-hki.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fi-radio-nostalgia-logo.jpg",Radio Nostalgia
+https://radioplay.fi/radio-nostalgia/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fi-radio-classic-0-logo.jpg",Radio Classic
+https://radioplay.fi/radio-classic/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fi-radio-dei-logo.jpg",Radio Dei
+https://stream.dei.fi:8443/yleisohjelma
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fi-yle-vega-aboland-logo.jpg",Radio YLE Vega Aboland
+https://yleuni-f.akamaihd.net/i/yleliveradiohd_32@113909/master.m3u8?set-segment-duration=quality
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/finest-fm-600091-logo.jpg",Radio Finest FM
+https://shoutcast.finestfm.fi/stream/1/:80/;stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/iskelma-154831-logo.jpg",Radio Iskelmä
+https://www.iskelma.fi/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/alands-radio-569733-logo.jpg",Ålands Radio
+https://stream.alandsradio.ax/stream.ogg
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fi-helmiradio-logo.jpg",Helmiradio
+https://ms-live-helmiradio.nm-elemental.nelonenmedia.fi/master.m3u8

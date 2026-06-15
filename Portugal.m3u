@@ -1,0 +1,38 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rdp-africa-571571-logo.jpg",Radio RDP África
+https://streaming-live.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/antena-1-lusitania-577737-logo.jpg",Radio Antena 1 - Lusitânia
+https://streaming-live.rtp.pt/liveradio/lusitania80a/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rdp-internacional-568118-logo.jpg",Radio RDP Internacional
+https://streaming-live.rtp.pt/liveradio/rdpint80a/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/antena-1-568550-logo.jpg",Radio Antena 1
+https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-antena-3-logo.jpg",Radio Antena 3
+http://radiocast.rtp.pt/antena380a.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-rdp-antena-3-madeira-logo.jpg",Radio RDP Antena 3 Madeira
+http://radiocast.rtp.pt/antena3madeira80a.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-rdp-antena-1-madeira-logo.jpg",Radio RDP Antena 1 Madeira
+http://radiocast.rtp.pt/antena1madeira80a.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/antena-2-568117-logo.jpg",Radio Antena 2
+https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-antena-1-fado-logo.jpg",Radio Antena 1 - Fado
+http://radiocast.rtp.pt/antena1fado80a.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-antena-1-vida-logo.jpg",Radio Antena 1 - Vida
+https://streaming-live.rtp.pt/liveradio/vida80a/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-antena-1-memory-logo.jpg",Radio Antena 1 - Memory
+http://radiocast.rtp.pt/antena1memoria80a.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-rtp-zig-zag-logo.jpg",Radio RTP- ZIG ZAG
+http://radiocast.rtp.pt/zigzag80a.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-antena-2-jazz-in-logo.jpg",Radio Antena 2 Jazz in
+http://radiocast.rtp.pt/antena2jazzin80a.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-motard-fm-logo.jpg",Radio Rádio Motard FM
+https://sp0.redeaudio.com/8096/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-onda-mega-625096-logo.jpg",Radio Rádio Onda Mega
+https://radios.justweb.pt/8036/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-fred-film-radio-logo.jpg",FRED FILM RADIO
+https://s10.webradio-hosting.com/proxy/fredradiopt/stream/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-luna-fm-world-logo.jpg",Radio LUNA FM - World
+https://stream.lunafm.net/listen/lunaworld/radio.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-radio-alfa-e-omega-logo.jpg",Radio Rádio Alfa e Ômega
+https://stm3.streaminghd.net.br:7468/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-hard-and-heavy-metal-hits-radio-logo.jpg",Hard & Heavy Metal Hits Radio
+https://audio.serv.pt/8040/stream

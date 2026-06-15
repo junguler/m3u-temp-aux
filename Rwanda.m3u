@@ -1,0 +1,20 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rw-magic-fm-logo.jpg",Radio Magic FM
+http://listen.rba.co.rw:8080/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rw-radio-rubavu-logo.jpg",Radio Rubavu
+http://listen.rba.co.rw:4000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rw-radio-salus-logo.jpg",Radio Salus
+http://salus.ur.ac.rw:8006/saluslive
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rw-umucyo-radio-logo.jpg",Umucyo Radio
+http://80.241.215.175:4000/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rw-imbaraga-internet-radio-logo.jpg",Imbaraga Internet Radio
+http://66.55.145.43:7473/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rw-flash-fm-rwanda-logo.jpg",Radio Flash FM Rwanda
+http://80.241.215.175:7410/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rw-gospel-radio-online-logo.jpg",Gospel Radio Online
+http://radio.nediamed.com:5168/1/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rw-kt-radio-logo.jpg",KT RADIO
+http://197.243.1.130:8006/k2dlivemp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rw-radio-maria-logo.jpg",Radio Maria
+http://dreamsiteradiocp2.com:8098/stream/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rw-943-royal-fm-logo.jpg",Radio 94.3 ROYAL FM
+http://80.241.215.175:3000/;stream.nsv

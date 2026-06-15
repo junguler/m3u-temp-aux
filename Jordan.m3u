@@ -1,0 +1,22 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/jo-sawtelghad-fm-logo.jpg",Radio Sawtelghad FM
+https://edge.mixlr.com/channel/llhwd
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/jo-global-945-fm-logo.jpg",Radio Global 94.5 FM
+http://stream.joinvisions.net:1935/live/global/chunklist_w450577882.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/jo-radio-fann-jordan-logo.jpg",Radio Fann-Jordan
+http://82.212.85.195:8101/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/jo-jordan-sat-tv-logo.jpg",Radio Jordan Sat TV
+http://stream.joinvisions.net:1935/live/en/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/jo-al-rasheed-fm-logo.jpg",Radio Al Rasheed FM
+http://alrasheedfm.in/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/jo-radio-sawa-jordan-logo.jpg",Radio Sawa Jordan
+https://stream.radiojar.com/whbvyphna3quv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/jo-rotana-fm-jordan-logo.jpg",Radio Rotana FM Jordan
+http://82.212.85.198:8101/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/play-fm-579388-logo.jpg",Radio Play FM
+https://play995.radioca.st//stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mood-92-161477-logo.jpg",Radio Mood 92
+https://securestreams2.autopo.st:1241/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/beat-fm-579386-logo.jpg",Radio Beat FM
+https://securestreams2.autopo.st:1242/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/jo-hayat-fm-logo.jpg",Radio Hayat FM
+http://104.194.9.142:8302/live

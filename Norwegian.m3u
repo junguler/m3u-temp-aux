@@ -1,0 +1,12 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nrk-sport-181690-logo.jpg",Radio NRK Sport
+https://nrk-sport.akamaized.net/45/0/hls/nrk_sport/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/no-narvik-studentradio-logo.jpg",Narvik Studentradio
+http://stream.sysrq.no:8000/00-nsr.mp3?type=.mp3/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-bo-182973-logo.jpg",Radio Bø
+https://nettradio.radiobo.com/radiobo-high
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nrj-norway-159830-logo.jpg",Radio NRJ Norway
+https://nrj.p4groupaudio.com/NRJ_MM
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-z-594005-logo.jpg",Radio Z
+https://straumod.blindeforbundet.no/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/no-pinoy-radio-nordic-logo.jpg",Pinoy Radio Nordic
+http://206.72.194.250:9978/;

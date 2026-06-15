@@ -1,0 +1,12 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ar-1035-fm-cielo-logo.jpg",Radio 103.5 FM Cielo
+https://s8.stweb.tv/cielo/live/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/previa-madryn-638452-logo.jpg",Radio Previa Madryn
+http://radio02.ferozo.com:8502/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ar-nacional-y-popular-logo.jpg",Radio Nacional y Popular
+https://server.laradio.online/proxy/roberto_devoto?mp=/streamu00261588281877067
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ar-radio-muuuy-rana-antiplanes-logo.jpg",Radio Muuuy Rana Antiplanes
+https://stream.laut.fm/radiomuuuyrana
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ar-radio-3-cadena-patagonia-logo.jpg",Radio 3 Cadena Patagonia
+https://radio01.ferozo.com/proxy/ra01000981?mp=/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ar-radio-3-andina-logo.jpg",Radio 3 Andina
+https://radio01.ferozo.com/proxy/ra01000982?mp=/stream

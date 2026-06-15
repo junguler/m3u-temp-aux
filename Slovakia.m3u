@@ -1,0 +1,62 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rtvs-r-junior-583911-logo.jpg",Radio RTVS R Junior
+https://icecast.stv.livebox.sk/junior_128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rtvs-r-devin-568725-logo.jpg",Radio RTVS R Devin
+https://icecast.stv.livebox.sk/devin_128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rtvs-radio-fm-569939-logo.jpg",RTVS Radio FM
+https://icecast.stv.livebox.sk/fm_128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rtvs-r-patria-568792-logo.jpg",Radio RTVS R Patria
+https://icecast.stv.livebox.sk/patria_128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-rtvs-litera-logo.jpg",Radio RTVS Litera
+https://icecast.stv.livebox.sk/litera_128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rtvs-r-slovakia-int-631246-logo.jpg",Radio RTVS R Slovakia Int
+https://icecast.stv.livebox.sk/rsi_128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fun-radio-170259-logo.jpg",Fun Radio
+http://stream.funradio.sk:8000/fun128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-radio-regina-stred-logo.jpg",Radio Rádio Regina Stred
+https://icecast.stv.livebox.sk/regina-bb_128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-rtvs-radio-slovensko-logo.jpg",Radio RTVS Rádio Slovensko
+https://icecast.stv.livebox.sk/slovensko_128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-rtvs-r-pyramida-logo.jpg",Radio RTVS R Pyramída
+https://icecast.stv.livebox.sk/klasika_128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-radio-beta-logo.jpg",Radio Rádio BETA
+http://109.71.67.102:8000/beta_live_low.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-radio-regina-zapad-logo.jpg",Radio Rádio Regina Západ
+https://icecast.stv.livebox.sk/regina-ba_128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-kosice-157362-logo.jpg",Radio Kosice
+http://stream.ecce.sk:8000/radiokosice-128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/zahoracke-radio-183537-logo.jpg",Radio Záhorácke rádio
+http://live.zahorackeradio.sk:8000/zr128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-radio-topolcany-logo.jpg",Radio Rádio Topoľčany
+http://80.242.44.249:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-viva-170278-logo.jpg",Radio Rádio Viva
+http://stream.sepia.sk:8000/viva128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-radio-plus-logo.jpg",Radio Rádio Plus
+http://stream.sepia.sk:8000/plus128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-radio-melody-logo.jpg",Radio Rádio Melody
+https://stream.bauermedia.sk/melody-hi.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-radio-sity-logo.jpg",Radio Sity
+https://radiosity.online:8000/aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/europa-2-182841-logo.jpg",Radio Europa 2
+https://stream.bauermedia.sk/europa2.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-radio-wow-logo.jpg",Radio WOW
+https://radioserver.online:9816/radiowow.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-top-radio-logo.jpg",Top Radio
+https://solid1.streamupsolutions.com/proxy/vhhggmih/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-radio-7-logo.jpg",Radio 7
+https://play.radio7.sk/128
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-radio-kiss-logo.jpg",Radio Kiss
+http://80.94.49.49:8000/kiss24.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-piestany-168018-logo.jpg",Radio Piestany
+http://live.radiopiestany.sk:8000/live.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/frontinus-radio-168424-logo.jpg",Frontinus Radio
+http://stream.frontinus.sk:8000/frontinus64.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-lumen-170083-logo.jpg",Radio Lumen
+http://audio.lumen.sk:8000/live128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/slobodny-vysielac-595007-logo.jpg",Radio Slobodny Vysielac
+https://vysielanie.online/radio/8010/aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/janko-hrasko-161872-logo.jpg",Radio Janko Hrasko
+http://78.24.9.110:31088/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-897-dance-radio-logo.jpg",897 DANCE Radio
+http://c34.radioboss.fm:8106/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-fred-film-radio-logo.jpg",FRED FILM RADIO
+https://s10.webradio-hosting.com/proxy/fredradiosk/stream/;

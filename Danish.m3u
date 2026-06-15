@@ -1,0 +1,94 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gl-ice-fm-logo.jpg",Radio ICE FM
+http://media.limfjordnetradio.dk/icefm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-skive-182192-logo.jpg",Radio Skive
+https://radioserver.dk/skive
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-24syv-logo.jpg",Radio 24syv
+https://stream.radioloud.dk/loud128
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-radio-happy-dk-logo.jpg",Radio Happy DK
+https://streaming.radio.co/sd9d980ff0/listen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dr-nyheder-580827-logo.jpg",Radio DR Nyheder
+http://live-icy.gss.dr.dk:8000/A/A02L.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radioti-568575-logo.jpg",Radioti
+http://195.215.168.146:9200/;u0026type=mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/retro-radio-jul-629775-logo.jpg",Retro radio jul
+http://isstream.kanalplus.fm/TX-1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dr-p6-beat-157121-logo.jpg",Radio DR P6 Beat
+http://live-icy.gss.dr.dk:8000/A/A29H.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-albertslund-radio-logo.jpg",Albertslund Radio
+http://87.61.251.162:8080/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-den2radio-logo.jpg",Den2Radio
+http://81.7.160.152:8010/d2r.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-fred-film-radio-logo.jpg",FRED FILM RADIO
+https://s10.webradio-hosting.com/proxy/fredradiodk/stream/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pulz-fm-625865-logo.jpg",Radio Pulz FM
+http://netradio.skala.fm/pulz
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-classic-fm-logo.jpg",Radio Classic FM
+https://webradio.classicfm.dk/classicstruer
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-alfa-midtjylland-602939-logo.jpg",Radio Alfa Midtjylland
+https://radioserver.dk/alfamidt
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dr-p4-nordjylland-185929-logo.jpg",Radio DR P4 Nordjylland
+https://drliveradio.akamaized.net/hls/live/2022411/p4kobenhavn/masterab.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dr-p4-midt-vest-157122-logo.jpg",Radio DR P4 Midt & Vest
+https://drradio1-lh.akamaihd.net/i/p4midtvest_9@143510/master.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-alfa-silkeborg-598562-logo.jpg",Radio Alfa Silkeborg
+https://radioserver.dk/alfasilk
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dr-p4-sjaelland-157490-logo.jpg",Radio DR P4 Sjælland
+https://drliveradio.akamaized.net/hls/live/2022411/p4sjaelland/masterab.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-radio-rollo-logo.jpg",Radio Rollo
+http://stream.radiosolutions.dk/rollo?hash=1650478358746.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dr-p4-bornholm-157120-logo.jpg",Radio DR P4 Bornholm
+http://live-icy.gss.dr.dk/A/A06L.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dr-p4-fyn-568490-logo.jpg",Radio DR P4 Fyn
+http://live-icy.gss.dr.dk/A/A07L.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dr-p4-syd-157119-logo.jpg",Radio DR P4 Syd
+http://live-icy.gss.dr.dk/A/A12L.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-radio-alfa-always-elvis-logo.jpg",Radio Alfa - Always Elvis
+http://netradio.radioalfa.dk/alwayselvisradio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-radio-alfa-skive-logo.jpg",Radio Alfa Skive
+https://radioserver.dk/alfaskive
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dr-p4-trekanten-157124-logo.jpg",Radio DR P4 Trekanten
+http://live-icy.gss.dr.dk/A/A13L.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dr-p4-ostjylland-156846-logo.jpg",Radio DR P4 Østjylland
+http://live-icy.gss.dr.dk/A/A14H.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-tonder-614813-logo.jpg",Radio Tønder
+http://stream.wlmm.dk/syddanmark
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-heartbeats-radio-logo.jpg",Heartbeats Radio
+https://streaming02.zfast.co.uk/proxy/heartbea?mp=/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-den-tunge-radio-logo.jpg",Den Tunge Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAM08AAC276.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/retro-radio-millennium-635032-logo.jpg",Retro-Radio Millennium
+https://tx-2.retro-radio.dk/TX-2
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-limfjord-schlager-logo.jpg",Radio Limfjord Schlager
+http://media.limfjordnetradio.dk/plusslager128
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-fri-born-logo.jpg",Radio Fri-born
+https://s2.radio.co/s8367afdd8/listen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-oest-fm-logo.jpg",Radio Oest FM
+https://stream.probroadcast.dk/oestfmmp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-radio-klassisk-dansk-logo.jpg",Radio Klassisk Dansk
+http://51.255.235.165:5400/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-helsingor-626009-logo.jpg",Radio Helsingør
+https://stream.radiohelsingor.dk/rh
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-radio-10fm-logo.jpg",Radio 10FM
+https://stream.radio10fm.dk/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-ucb-media-logo.jpg",Radio UCB MEDIA
+https://s2.radio.co/s6f04f551c/listen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-radio-dk4-schlager-logo.jpg",Radio DK4 Schlager
+http://stream.radiosolutions.dk/slagerhi
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-ahenfo-radio-logo.jpg",Ahenfo Radio
+https://s35.myradiostream.com/4702/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/assyrian-babylon-radio-172784-logo.jpg",Assyrian Babylon Radio
+http://server.assyrians.dk:1930/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-streamsound-klassisk-logo.jpg",Radio Streamsound Klassisk
+http://51.255.235.165:5400/stream/0/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-radio-maelkebotten-logo.jpg",Radio Mælkebøtten
+http://live2.rcast.net:8722/;stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-the-lake-radio-logo.jpg",The Lake Radio
+http://hyades.shoutca.st:8627/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-radio-beatles-logo.jpg",Radio Beatles
+http://51.255.235.165:5148/;listen.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-streamsound-world-logo.jpg",Radio Streamsound World
+http://51.255.235.165:5088/stream/0/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-folkets-radio-logo.jpg",Folkets Radio
+https://folketsradio.out.airtime.pro/folketsradio_a
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-lumi-radio-logo.jpg",LUMI Radio
+http://stream.lumiradio.dk:8000/radio.mp3

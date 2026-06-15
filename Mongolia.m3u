@@ -1,0 +1,10 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mn-eden-hotyn-hristijn-radio-na-russkom-logo.jpg",Radio Эден хотын Христийн радио (на русском)
+https://myradio24.org/cityeden
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mn-mgl-radio-logo.jpg",MGL Radio
+http://74.91.125.187:8096/stream/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mn-p3-radio-logo.jpg",P3 radio
+https://live.mnb.mn/radio/radio2.stream_aac/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mn-voice-of-mongolia-logo.jpg",Radio Voice of Mongolia
+http://vom.mn/c/-1?t=4
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mn-mongolyn-radio-logo.jpg",Radio Монголын радио
+http://103.14.38.108:8000/radio1

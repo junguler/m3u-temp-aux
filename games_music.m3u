@@ -1,0 +1,16 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-kirtang-pirate-radio-logo.jpg",Kirtang Pirate Radio
+https://server.kirtangpirateradio.com:1055/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-classic-videogames-radio-logo.jpg",Classic-Videogames Radio
+https://lead-server.de:1551/stream/2/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-simliveradio-logo.jpg",SimLiveRadio
+https://simliveradio.stream.laut.fm/simliveradio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-j-hero-logo.jpg",Radio Rádio J-Hero
+https://stm1.radiojhero.com:18008/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-zocker-fm-logo.jpg",Radio Zocker FM
+https://stream.laut.fm/zockerfm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-zocker-radio-logo.jpg",Zocker Radio
+https://stream.laut.fm/zocker-radio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-tydox-radio-logo.jpg",Tydox-Radio
+https://stream.laut.fm/tydox-radio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-memigh-radio-logo.jpg",MeMigH-Radio
+https://stream.laut.fm/vextonde

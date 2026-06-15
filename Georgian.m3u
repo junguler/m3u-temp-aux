@@ -1,0 +1,14 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ge-pirveli-radio-logo.jpg",Pirveli Radio
+http://178.134.47.58:88/broadwave.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ge-radio-1-logo.jpg",Radio 1
+https://player.1tv.ge/radio1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ge-ucnobi-fm-logo.jpg",Radio Ucnobi FM
+http://149.3.104.166:8000/stream.ogg
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ge-radio-trialeti-logo.jpg",Radio რადიო "თრიალეთი"
+http://www.myvideo.ge/radio/fm-trialeti-104.9
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ge-radio-gipa-radio-jipa-logo.jpg",Radio GIPA / რადიო ჯიპა
+http://217.147.235.142/livemp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ge-radio-imedi-logo.jpg",Radio Imedi
+https://tv.cdn.xsg.ge/radioimedi/stream01/index.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ge-afkhazetis-khma-logo.jpg",Radio აფხაზეთის ხმა
+http://109.172.136.60:8081/broadwavelow.mp3
