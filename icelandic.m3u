@@ -1,0 +1,12 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ruv-ras-1-567774-logo.jpg",Radio RÚV  Rás 1
+https://ruv-radio-live.akamaized.net/streymi/ras1/ras1.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ruv-ras-2-567775-logo.jpg",Radio RÚV Rás 2
+https://ruv-ras2-live-hls.secure.footprint.net/hls-live/ruv-ras2/_definst_/live.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/is-ruv-rondo-logo.jpg",Radio RÚV Rondó
+https://ruv-rondo-live-hls.secure.footprint.net/hls-live/ruv-ras3/_definst_/live.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/is-ruv-null-logo.jpg",Radio RÚV Núll
+http://netradio.ruv.is:80/ruvnull.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/is-krakka-ruv-logo.jpg",Radio Krakka RÚV
+http://netradio.ruv.is:80/krakkaruv.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-arbereshe-international-579350-logo.jpg",Radio Arbereshe International
+http://sr7.inmystream.info:8010/stream

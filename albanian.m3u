@@ -1,0 +1,10 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/al-radio-liria-logo.jpg",Radio LIRIA
+http://46.4.104.253:9998/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/al-radio-hasi-thate-logo.jpg",Radio Hasi Thate
+http://listen.lspublic.com:8000/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/al-radio-vati-logo.jpg",Radio Vati
+http://radiostream.neotel.mk:8000/radiovati
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-radio-dervendi-logo.jpg",Radio Dervendi
+http://antares.dribb.com:4239/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/xk-radio-sharri-logo.jpg",Radio SHARRI
+http://live.radio-sharri.info:8020/;stream.mp3

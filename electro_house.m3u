@@ -1,0 +1,8 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-edc-radio-logo.jpg",EDC Radio
+http://c14icyelb.prod.playlists.ihrhls.com/7355_icy
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-stereo-mix-logo.jpg",Radio Stereo MIX
+http://167.114.223.51:9322/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/es-abrucena-radio-logo.jpg",Abrucena Radio
+https://streaming2.elitecomunicacion.es:8616/stream?type=.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/es-aegean-lounge-radio-logo.jpg",Aegean Lounge Radio
+http://91.121.78.191:8469/;stream.mp3

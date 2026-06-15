@@ -1,0 +1,22 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-musik-world-logo.jpg",Radio Musik World
+https://stream.laut.fm/musik-world
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-radio-rambo-logo.jpg",Radio Rambo
+https://stream.laut.fm/radio-rambo
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mutiny-radio-155533-logo.jpg",Mutiny Radio
+http://nthmost.net:8000/mutiny-studio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/181fm-soul-578934-logo.jpg",Radio 181.FM Soul
+https://listen.181fm.com/181-soul_128k.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-181fm-90s-country-logo.jpg",Radio 181.FM 90's Country
+https://listen.181fm.com/181-90scountry_128k.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/181fm-mix-178254-logo.jpg",Radio 181.FM The Mix
+https://listen.181fm.com/181-themix_128k.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-181fm-christmas-gospel-logo.jpg",Radio 181.FM Christmas Gospel
+https://listen.181fm.com/181-xgospel_128k.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-181fm-christmas-kountry-logo.jpg",Radio 181.FM Christmas Kountry
+https://listen.181fm.com/181-xkkountry_128k.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kokomo-radio-618543-logo.jpg",Kokomo Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAM02AAC86_SC?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-classixtechno-logo.jpg",Radio ClassixTechno
+https://classixtechno.stream.laut.fm/classixtechno
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/es-loca-fm-industrial-logo.jpg",Radio Loca FM INDUSTRIAL
+https://s2.we4stream.com/listen/loca_industrial/live

@@ -1,0 +1,6 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bi-rtmb-chaine-2-logo.jpg",Radio RTMB Chaine 2
+http://41.79.226.196:8000/stream-RTNB2
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-emp-radio-logo.jpg",EMP Radio
+http://emp.cx:8192/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-fallbrook-amateur-club-repeaters-and-cal-fire-logo.jpg",Radio Fallbrook Amateur Club Repeaters and CAL FIRE
+https://broadcastify.cdnstream1.com/1713

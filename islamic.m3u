@@ -1,0 +1,76 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/za-channel-islam-radio-logo.jpg",Channel Islam Radio
+https://edge.iono.fm/xice/109_medium.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-islam-chile-636092-logo.jpg",Radio Islam Chile
+http://5.9.65.9:8031/live?1508938696879
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uk-unity-fm-logo.jpg",Radio Unity FM
+http://live.canstream.co.uk:8000/unity.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uk-newcastle-fast-fm-logo.jpg",Radio Newcastle Fast FM
+http://s6.voscast.com:11146/;stream1531232267663/1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ma-zine-bladi-logo.jpg",Radio Zine Bladi
+https://zinebladi.ma/radio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ly-kitabb-sunnah-logo.jpg",Radio Kitabb Sunnah
+http://162.244.80.118:5678/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ly-kitabb-sunnah-english-logo.jpg",Radio Kitabb Sunnah English
+http://162.244.80.52:6656/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radyo-islam-163975-logo.jpg",Radio Radyo Islam
+https://yayin2.canliyayin.org/7676/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr-radyo-gunes-logo.jpg",Radio Radyo Güneş
+http://78.129.193.82/stream.mp3?ipport=78.129.193.82_36873
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dost-fm-180452-logo.jpg",Radio Dost FM
+http://yayin.dostfm.com:8920/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/seyr-fm-171303-logo.jpg",Radio Seyr FM
+https://sslyayin.netyayin.net:10907/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mekke-fm-608940-logo.jpg",Radio Mekke FM
+http://yayin2.canliyayin.org:17175/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radyo-mevlana-602384-logo.jpg",Radio Radyo Mevlana
+http://radyo.radyomevlana.com:9786/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dolunay-fm-171296-logo.jpg",Radio Dolunay FM
+http://yayin1.canliyayin.org:8318/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radyo-ses-169732-logo.jpg",Radio Radyo Ses
+http://31.6.86.17:8005/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr-dinimizislam-logo.jpg",Radio Dinimizislam
+https://radyo.huzurpinari.com:8443/radio/8050/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rahmet-fm-171301-logo.jpg",Radio Rahmet FM
+http://yayin.netyayin.net:1634/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/moral-fm-568459-logo.jpg",Radio MORAL FM
+http://yayin2.canliyayin.org:8886/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/umut-fm-166694-logo.jpg",Radio Umut FM
+http://yayin1.canliyayin.org:8888/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/akra-fm-569344-logo.jpg",Radio Akra FM
+https://cdn3.akradyo.net/akracanli2/_definst_/livestream_aac/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hedef-radyo-569341-logo.jpg",Radio Hedef Radyo
+http://stream.radyogrup.com:4010/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr-radyo-denge-logo.jpg",Radio Radyo Denge
+http://yayin1.canliyayin.org:8278/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr-radyo-tulu-logo.jpg",Radio Radyo Tulu
+http://yayin2.canliyayin.org:8248/;*.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cagri-fm-158908-logo.jpg",Radio Cagri FM
+http://yayin1.canliyayin.org:8202/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/davet-radyo-598105-logo.jpg",Radio Davet Radyo
+https://stream.zeno.fm/xzuwreqpfg0uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr-enderun-fm-logo.jpg",Radio Enderun FM
+http://yayin2.canliyayin.org:7052/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr-birlik-fm-radyo-logo.jpg",Radio Birlik FM Radyo
+http://yayin2.canliyayin.org:7082/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ribat-fm-568464-logo.jpg",Radio Ribat FM
+https://yayin2.canliyayin.org:7010/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr-en-radyo-logo.jpg",Radio En Radyo
+http://yayin2.canliyayin.org:7222/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr-gozyasi-fm-logo.jpg",Radio Gozyasi FM
+http://yayin1.canliyayin.org:8700/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr-radyo-genclik-logo.jpg",Radio Radyo Genclik
+https://canli.radyogenclik.com:9000/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cemre-fm-160970-logo.jpg",Radio Cemre FM
+http://yayin1.canliyayin.org:8024/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hatay-fm-588345-logo.jpg",Radio Hatay FM
+http://sunucu.radyodinle.com:9900/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sd-۩-alzawyh-altjanyh-۩-logo.jpg",Radio ۩ الزاوية التجانية ۩
+http://tijaniyyah.asuscomm.com:8000/stream/1/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sd-۩-alsyadh-۩-logo.jpg",Radio ۩ السيادة ۩
+http://tijaniyyah.asuscomm.com:8000/stream/6/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sd-ﷺ-ithaah-almdyh-ﷺ-logo.jpg",Radio ﷺ إذاعة المديح ﷺ
+http://tijaniyyah.asuscomm.com:8000/stream/3/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sd-۞-ithaah-alqraan-۞-logo.jpg",Radio ۞ إذاعة القرآن ۞
+http://tijaniyyah.asuscomm.com:8000/stream/2/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-islam-radio-deutschland-logo.jpg",Islam Radio Deutschland
+https://islam-radio-deutschland.stream.laut.fm/islam-radio-deutschland

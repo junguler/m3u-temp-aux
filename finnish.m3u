@@ -1,0 +1,46 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-inari-581473-logo.jpg",Radio Inari
+http://radioinari.radioman.fi:8000/radioinari
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-patmos-635894-logo.jpg",Radio Patmos
+https://s3.yesstreaming.net:7011/radio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-musa-628348-logo.jpg",Radio Musa
+https://stream.radiojar.com/n6yg5q0z8vzuv.m4a
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fi-radio-dei-0-logo.jpg",Radio Dei
+https://stream.dei.fi:8443/helsinki
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fi-radio-sandels-logo.jpg",Radio Sandels
+https://radiosandels.radiotaajuus.fi:9050/radio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fi-radioverkko-logo.jpg",Radioverkko
+http://kuuntele.radioverkko.fi:8000/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fi-radio-ramona-logo.jpg",Radio Ramona
+http://185.123.117.122:8000/ramona.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fi-suomirock-logo.jpg",Radio SuomiRock
+https://radioplay.fi/suomi-rock/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fi-rql-logo.jpg",Radio RQL
+https://centova2.cheapshoutcast.com:2199/proxy/rqlweb?mp=/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fi-yle-radio-suomi-kokkola-logo.jpg",Yle Radio Suomi Kokkola
+https://yleuni-f.akamaihd.net/i/yleliveradiohd_15@113892/master.m3u8?set-segment-duration=quality
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fi-yle-radio-suomi-lahti-logo.jpg",Yle Radio Suomi Lahti
+https://yleradiolive.akamaized.net/hls/live/2027710/in-YleLahti/master.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fi-yle-radio-suomi-kotka-logo.jpg",Yle Radio Suomi Kotka
+https://yleuni-f.akamaihd.net/i/yleliveradiohd_16@113893/master.m3u8?set-segment-duration=quality
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fi-yle-radio-suomi-oulu-logo.jpg",Yle Radio Suomi Oulu
+https://yleuni-f.akamaihd.net/i/yleliveradiohd_22@113899/master.m3u8?set-segment-duration=quality
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fi-yle-radio-suomi-jyvaskyla-logo.jpg",Yle Radio Suomi Jyväskylä
+https://yleuni-f.akamaihd.net/i/yleliveradiohd_12@113889/master.m3u8?set-segment-duration=quality
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fi-yle-radio-suomi-rovaniemi-logo.jpg",Yle Radio Suomi Rovaniemi
+https://yleuni-f.akamaihd.net/i/yleliveradiohd_25@113902/master.m3u8?set-segment-duration=quality
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fi-yle-radio-suomi-pori-logo.jpg",Yle Radio Suomi Pori
+https://yleuni-f.akamaihd.net/i/yleliveradiohd_23@113900/master.m3u8?set-segment-duration=quality
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fi-yle-radio-suomi-hameenlinna-logo.jpg",Yle Radio Suomi Hämeenlinna
+https://yleuni-f.akamaihd.net/i/yleliveradiohd_10@113887/master.m3u8?set-segment-duration=quality
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fi-yle-radio-suomi-kemi-logo.jpg",Yle Radio Suomi Kemi
+https://yleradiolive.akamaized.net/hls/live/2027706/in-YleKemi/master.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fi-yle-radio-suomi-joensuu-logo.jpg",Yle Radio Suomi Joensuu
+https://yleradiolive.akamaized.net/hls/live/2027682/in-YleJoensuu/master.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fi-yle-radio-suomi-kuopio-logo.jpg",Yle Radio Suomi Kuopio
+https://yleradiolive.akamaized.net/hls/live/2027709/in-YleKuopio/master.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fi-yle-radio-suomi-tampere-logo.jpg",Yle Radio Suomi Tampere
+https://yleradiolive.akamaized.net/hls/live/2027718/in-YleTampere/master.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fi-yoradio-logo.jpg",Yöradio
+http://yoradio.fi:8080/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fi-ylex-logo.jpg",Radio YleX
+https://yleradiolive.akamaized.net/hls/live/2027674/in-YleX/master.m3u8

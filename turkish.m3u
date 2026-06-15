@@ -1,0 +1,54 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-arabesk-fm-0-logo.jpg",Radio Arabesk FM
+http://yayin.arabeskfm.biz:8042/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr-radyo-taverna-logo.jpg",Radio Radyo Taverna
+http://94.102.2.199:9710/;type=mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ro-radio-t-logo.jpg",Radio T
+http://94.177.3.109:8000/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr-radyo-mod-logo.jpg",Radio Radyo MOD
+http://radyo.yayin.com.tr:5962/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nl-radyo-deniz-hollanda-logo.jpg",Radio Radyo Deniz Hollanda
+http://88.150.230.110:27614/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-radyo-kampusun-sesi-almanya-logo.jpg",Radio Radyo Kampüsün Sesi Almanya
+https://thevoice.80.yayin.com.tr/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr-radyo-damarfm-logo.jpg",Radio Radyo DamaRFM
+http://radyodamarfm.com:8404/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr-baska-logo.jpg",Radio Baska
+https://playerservices.streamtheworld.com/api/livestream-redirect/SC007_SO1AAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/efkar-640438-logo.jpg",Radio Efkar
+https://25693.live.streamtheworld.com/EFKAR128AAC.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/joyturk-rock-640436-logo.jpg",Radio JoyTurk Rock
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_ROCK128AAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr-yol-arkadasim-logo.jpg",Radio Yol Arkadaşım
+https://playerservices.streamtheworld.com/api/livestream-redirect/SC022_SO1AAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr-diva-logo.jpg",Radio Diva
+https://playerservices.streamtheworld.com/api/livestream-redirect/SC015_SO1AAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr-pop90-logo.jpg",Radio Pop90
+https://playerservices.streamtheworld.com/api/livestream-redirect/POP90128AAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr-gonul-turkuleri-logo.jpg",Radio Gönül Türküleri
+https://27913.live.streamtheworld.com/GONUL_TURKULERI128AAC.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr-hot-tickets-logo.jpg",Radio Hot Tickets
+https://playerservices.streamtheworld.com/api/livestream-redirect/HOTTICKETS128AAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr-joyturk-akustik-logo.jpg",Radio JoyTurk Akustik
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_AKUSTIK128AAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr-radyo-extra-turkce-muzigin-kalbi-logo.jpg",Radio Radyo EXTRA - Türkçe Müziğin Kalbi
+https://dinle.radyoextra.com.tr//stream/1/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr-trd-1-turk-radyo-dunyasi-logo.jpg",Radio TRD 1 – Türk Radyo Dünyası
+https://live.streamlojik.com:8000/trd1.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr-karma-turk-logo.jpg",Radio Karma Türk
+http://shoutcast.radyogrup.com:2040/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr-goksun-fm-logo.jpg",Radio GÖKSUN Fm
+https://sslyayin.netyayin.net:10970/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr-hatay-dost-fm-logo.jpg",Radio Hatay Dost Fm
+http://yayin.netyayin.net:1515/streype=.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr-radyo-n-logo.jpg",Radio Radyo N
+http://95.173.188.166:9702/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/yon-radyo-turku-567952-logo.jpg",Radio Yön Radyo Turku
+https://stream.radyolarburada.com/radio/8020/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr-yon-radyo-anatolia-logo.jpg",Radio Yön Radyo Anatolia
+http://yonradyo.radyolarburada.com:8030/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/yon-radyo-alaturka-588964-logo.jpg",Radio Yön Radyo Alaturka
+https://stream.radyolarburada.com/radio/8060/yonalaturca
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-radio-baba-logo.jpg",Radio Baba
+https://eu2.fastcast4u.com/proxy/radiobaba_nbg?mp=/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr-radyo-sevimli-fm-logo.jpg",Radio Radyo Sevimli FM
+http://yayin2.canliyayin.org:7887/;stream

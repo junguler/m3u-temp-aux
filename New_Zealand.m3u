@@ -1,0 +1,14 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/retro-hit-radio-581971-logo.jpg",Retro Hit Radio
+https://riphel02.radioca.st/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-radio-x-logo.jpg",Radio X
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAM02AAC65_SC?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-the-generator-fm-logo.jpg",Radio The Generator FM
+https://s1.myradiostream.com/:14268/listen.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dave-fm-606638-logo.jpg",Radio Dave FM
+http://s13.myradiostream.com:4618/listen.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-switch-fm-gisborne-logo.jpg",Radio Switch FM Gisborne
+http://s8.myradiostream.com:56886/listen.m4a
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/andhowfm-185427-logo.jpg",Radio andHow.FM
+https://us4.internet-radio.com/proxy/andhowfm?mp=/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-rag-fm-1077-raglan-new-zealand-logo.jpg",Radio RAG-FM 107.7 Raglan New Zealand
+https://cast6.asurahosting.com/proxy/ragfmcom/stream

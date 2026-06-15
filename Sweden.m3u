@@ -1,0 +1,96 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-kohina-radio-logo.jpg",Kohina Radio
+https://kohina.duckdns.org/icecast/stream.ogg
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-q-music-sverige-logo.jpg",Radio Q Music - Sverige
+http://37.59.28.208:8281/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-247-continuous-music-logo.jpg",Radio 24/7 Continuous Music
+https://securestream.cuelightsmedia.com.au/listen/247_continuous_music/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/icprm-radio-sweden-634026-logo.jpg",ICPRM RADIO Sweden
+https://stream.zenolive.com/kybydz65sfeuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-pulsefmse-logo.jpg",Radio Pulsefm.se
+https://jonasfalkestedt.radioca.st/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-radio-eskilstuna-latina-logo.jpg",Radio Eskilstuna Latina
+http://eskilstunalatina886.ddns.net:88/listen.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-gold-logo.jpg",Radio Gold
+https://goldfm.nu/goldfm_aacp
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-radio-gnf-0-logo.jpg",Radio GNF
+http://lyssna.fnf.nu:8080/gnf094.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-rb-dance-logo.jpg",Radio RB Dance
+https://rb.enson.se/rb3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-motgift-logo.jpg",Radio Motgift
+https://d2a481t1usahi0.cloudfront.net/live/40417243.mp3?
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-psy-radio-progressive-logo.jpg",Psy Radio - Progressive
+http://host.psyradio.fm:8010/;listen.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-nonstop-casiopea-logo.jpg",Radio Nonstop Casiopea
+http://hyades.shoutca.st:8551/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-45-617796-logo.jpg",Radio 45
+https://streaming.943.se/radio45
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-radio-pe20-logo.jpg",Radio pE20
+https://streaming.943.se/radiope20
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-subtropical-radio-oskarshamn-logo.jpg",Subtropical Radio Oskarshamn
+https://stream.radio.co/s4dfd01cc3/listen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-sr-p2-logo.jpg",Radio SR P2
+https://live-cdn.sr.se/pool2/p2musik/p2musik.isml/p2musik.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-radio-gallivare-logo.jpg",Radio Gällivare
+http://stream.imegasystem.se:8000/radiogellivare
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-radio-arta-logo.jpg",Radio Arta
+http://173.192.207.51:8086/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-radio-siljan-logo.jpg",Radio Siljan
+http://stream.ueteknik.se:8000/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/scenesat-radio-173712-logo.jpg",SceneSat Radio
+https://sj-1.scenesat.com/scenesatmax
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/country-rocks-radio-601743-logo.jpg",Country Rocks Radio
+http://stream.dbmedia.se/crrMP3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-sr-ekot-logo.jpg",Radio SR Ekot
+https://http-live.sr.se/ekotsanderdirekt-mp3-192
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-radiohits-logo.jpg",RadioHits
+https://stream4.rcast.net/71184
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-hit-fm-gold-logo.jpg",Radio HIT FM Gold
+http://gold24.xnk.nu:8080/;469928443008656stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-lindsdal-610236-logo.jpg",Radio Lindsdal
+http://www.macmagnus.net:8000/listen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-malmokanalen-568733-logo.jpg",Radio Malmokanalen
+http://stream.nsp.se:8000/MNR89_AAC_Hi
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bollywoodbio-live-567390-logo.jpg",Radio BollywoodBio Live!
+http://cora.cdnstream.com/1925_192
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-sotenas-568838-logo.jpg",Radio Sotenäs
+http://sc1.radiosotenas.se/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-vikingarock-radio-logo.jpg",Vikingarock Radio
+http://radio.vikingarock.se:8000/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-radio-schweden-logo.jpg",Radio-Schweden
+https://radio-schweden.stream.laut.fm/radio-schweden
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-polarlicht-logo.jpg",Radio Polarlicht
+https://polarlicht.stream.laut.fm/polarlicht
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hallsta-sura-narradio-581031-logo.jpg",Hallsta Sura Narradio
+https://s16.myradiostream.com/:6630/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-tyresoradion-logo.jpg",Tyresöradion
+https://s5.radio.co/s8ace52d32/listen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-mnf-172720-logo.jpg",Radio MNF
+https://radio.fnf.nu/gnf102.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-boras-narradio-logo.jpg",Boras Narradio
+http://lyssna.fnf.nu:8080/radioboras.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nanan-radio-601543-logo.jpg",Nanan Radio
+http://s1.wohooo.net:8971/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-umea-studentradio-logo.jpg",Umea Studentradio
+http://webb.umeastudentradio.se:8000/usr.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-radio-shahrvand-logo.jpg",Radio Shahrvand
+http://radiostreamone.mine.nu:9100/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-kn-radio-logo.jpg",KN RADIO
+http://46.105.124.120:8004/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-sverigekanalen-lyssna-8-logo.jpg",Radio Sverigekanalen Lyssna 8
+http://109.169.23.84:22259/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-sverige-kanalen-3c-logo.jpg",Radio Sverige Kanalen 3C
+http://78.129.187.57/stream.mp3?ipport=78.129.187.57_19101
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-radio-halgan-logo.jpg",Radio Halgan
+http://smoke.wavestreamer.com:9390/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-radio-bubb-la-logo.jpg",Radio Bubb La
+http://live.radio.bubb.la/stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-radio-linkoping-logo.jpg",Radio Linkoping
+https://stream.linkopingsnarradio.se:8005/radioprogram
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-radio-sala-logo.jpg",Radio Sala
+http://test.radioavesta.se:9700/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-rivendell-154150-logo.jpg",Radio Rivendell
+https://play.radiorivendell.com/radio/8000/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-retro-hits-sweden-logo.jpg",Radio Retro Hits Sweden
+http://85.229.115.150:5000/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dunken-fm-618999-logo.jpg",Radio Dunken FM
+http://stream.nsp.se:8000/DFM_MP3_Hi

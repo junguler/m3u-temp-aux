@@ -1,0 +1,24 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ph-raudio-livestream-logo.jpg",Radio Raudio Livestream
+http://109.169.23.17:8014/stream?type=.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ph-brigada-news-fm-cauayan-logo.jpg",Radio Brigada News FM Cauayan
+https://cauayanstream.brigadanews.ph/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ph-brigada-news-fm-bacolod-logo.jpg",Radio Brigada News FM Bacolod
+https://bacolodstream.brigadanews.ph/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ph-brigada-news-fm-legazpi-logo.jpg",Radio Brigada News FM Legazpi
+https://legaspistream.brigadanews.ph/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ph-brigada-news-fm-naga-logo.jpg",Radio Brigada News FM NAGA
+https://nagastream.brigadanews.ph/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ph-brigada-news-fm-sorsogon-logo.jpg",Radio Brigada News FM Sorsogon
+http://209.133.216.3:7506/;stream.mp4
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ph-brigada-news-fm-trento-agusan-logo.jpg",Radio Brigada News FM Trento Agusan
+https://trentostream.brigadanews.ph/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ph-raudio-plus-fm-logo.jpg",Radio Raudio Plus FM
+https://rbx2.hnux.com:443/http://e14096.cloudrad.io:8910/RAU_PLUSFM?type=.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ph-newsradio-juan-logo.jpg",NewsRadio Juan
+https://stream.zeno.fm/33ztywrzdzzuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ph-raudio-loop-logo.jpg",Radio Raudio Loop
+https://rbx2.hnux.com/http://e14923.cloudrad.io:8910/RAU_LOOPFM?type=.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ph-dwiz-943-fm-palawan-logo.jpg",Radio DWIZ 94.3 FM Palawan
+https://palawan.radioca.st/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ph-green-giant-fm-logo.jpg",Radio Green Giant FM
+https://stream.greengiantfm.com/stream

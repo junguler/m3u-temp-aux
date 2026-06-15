@@ -1,0 +1,14 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pr-lite-online-logo.jpg",Radio Lite Online
+https://srstreaming.com/proxy/liteonme?mp=/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pr-radio-carisma-logo.jpg",Radio Carisma
+http://91.121.155.140:22518/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-jireh-broadcast-605535-logo.jpg",Radio Jireh Broadcast
+https://cloudstream2036.conectarhosting.com:7022/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pr-la-voz-de-mayaguez-logo.jpg",Radio La Voz De Mayaguez
+https://vip.livecastnet.com:4343/lavozdemayaguez.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pr-wisa-1390-logo.jpg",Radio Wisa 1390
+https://elfaro.radionline.com.es/listen/wisa_1390_am/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pr-dmradio-hd-pr-logo.jpg",DMRadio HD PR
+http://78.129.218.84:7651/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pr-musica-en-vivo-radio-logo.jpg",Musica En Vivo Radio
+https://usa6.fastcast4u.com/proxy/musicaenvivopr1?mp=/;

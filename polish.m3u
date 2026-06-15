@@ -1,0 +1,6 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-sudety-24-627933-logo.jpg",Radio Sudety 24
+http://stream4.nadaje.com:15006/sudety24
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pl-musicmax-logo.jpg",Radio MusicMax
+http://91.232.4.33:7040/stream1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/meloradio-644085-logo.jpg",Meloradio
+https://hub.radiostream.pl/stream.pls?radio=8800u0026type=noneu0026dist=onlineradioboxu0026app=noneu0026coding=mp3u0026redirect=true

@@ -1,0 +1,16 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-classic-101-wshp-db-logo.jpg",Radio Classic 101, WSHP-DB
+https://s6.myradiostream.com/:45160/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-energie-logo.jpg",Radio Énergie
+https://playerservices.streamtheworld.com/api/livestream-redirect/CKMFFMAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cr-rock-fm-costa-rica-logo.jpg",Radio Rock FM Costa Rica
+https://centova.hostingtico.com:7070/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/caya-radio-635986-logo.jpg",CAYA Radio
+https://tuneintoradio1.com:8020/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-maximusrockfm-logo.jpg",Radio MaximusRockFM
+https://stream.laut.fm/maximusrockfm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-107dot5-logo.jpg",Radio 107dot5
+https://www.tuneintoradio1.com/radio/8030/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-rsa-das-schnarchnasenradio-logo.jpg",R.SA  Das Schnarchnasenradio
+https://streams.rsa-sachsen.de/rsa-schnarchnase/mp3-192/onlineradiobox/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ar-alternativa-radiorock-logo.jpg",Alternativa Radiorock
+https://sonic.host-live.com/8406/stream

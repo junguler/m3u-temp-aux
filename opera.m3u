@@ -1,0 +1,30 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/allzic-radio-classic-piano-642573-logo.jpg",Allzic Radio Classic Piano
+https://allzic47.ice.infomaniak.ch/allzic47.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ar-arpeggio-logo.jpg",Radio Arpeggio
+https://playerservices.streamtheworld.com/api/livestream-redirect/ARPEGGIO_SC?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-la-terrasse-alto-logo.jpg",Radio LA TERRASSE - ALTO
+http://149.56.234.138:9054/:
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-yimago-classical-classic-composers-radio-logo.jpg",Yimago Classical (Classic Composers Radio)
+https://yimago.torontocast.stream/classical
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/linn-classical-175492-logo.jpg",Radio Linn Classical
+http://radio.linn.co.uk:8004/autodj
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-rtr1-die-powerstation-klassikwelt-logo.jpg",Radio RTR1 - Die Powerstation Klassikwelt
+https://rtr1klassikwelt.stream.laut.fm/rtr1_klassikwelt
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/be-rtbf-musiq3-logo.jpg",Radio RTBF - Musiq3
+https://radios.rtbf.be/musiq3-128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-abacus-classical-logo.jpg",Radio Abacus Classical
+http://54.38.44.70:8016/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-classical-weta-vivalavoce-logo.jpg",Radio Classical WETA VivaLaVoce
+https://playerservices.streamtheworld.com/api/livestream-redirect/WETAVLV.mp3?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gr-akous-my-classic-logo.jpg",Radio Akous - My Classic
+http://ice2.onestreaming.com/akousmyclassic
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gr-radio-art-romantic-period-logo.jpg",Radio Art - Romantic Period
+https://live.radioart.com/fRomantic_period.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gr-radio-art-classical-logo.jpg",Radio Art - Classical
+http://air.radioart.com/fClassical.mp3?dlid=
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr-classicland-logo.jpg",Radio Classicland
+https://moondigitaledge.radyotvonline.net/classicland/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ch-kanal8610-klassik-logo.jpg",Radio Kanal8610 Klassik
+https://kanal8610klassik.stream.laut.fm/kanal8610klassik
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-khoi-community-radio-logo.jpg",KHOI Community Radio
+https://stream.pacificaservice.org:9000/khoi

@@ -1,0 +1,20 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fo-logtingid-logo.jpg",Radio Løgtingið
+https://w2.kringvarp.fo/radio/_definst_/radio.stream/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-det-rigtige-faaborg-logo.jpg",Radio Det Rigtige Faaborg
+http://stream.wlmm.dk/detrigtigefaaborgaac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-soft-178235-logo.jpg",Radio Soft
+https://live-bauerdk.sharp-stream.com/radiosoft_dk_mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-sydhavsoerne-155119-logo.jpg",Radio SydhavsØerne
+https://stream.probroadcast.dk/sydhavsradiomp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-roende-589064-logo.jpg",Radio Roende
+http://media.wlmm.dk/djurs
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-globus-guld-logo.jpg",Radio Globus Guld
+https://stream.probroadcast.dk/guldmidt
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-silkeborg-568912-logo.jpg",Radio Silkeborg
+https://radioserver.dk/silkeborg
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-web-fm-dk-logo.jpg",Radio WEB fm dk
+https://stream1.webfm.dk/Web192
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-radio-adalen-logo.jpg",Radio Ådalen
+http://stream.radiosolutions.dk/radioaadalen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-dobre-vibracije-153656-logo.jpg",Radio Dobre Vibracije
+http://81.7.160.152:8010/live
