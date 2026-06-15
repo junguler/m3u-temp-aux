@@ -1,0 +1,20 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pl-dobrastacja-disco-polo-logo.jpg",Radio DobraStacja Disco Polo
+https://s3.slotex.pl/shoutcast/7344/stream?sid=1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nl-radio-calypso-am-675-khz-logo.jpg",Radio Calypso AM 675 khz
+https://mcp-1.streampanel.nl:8024/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nl-raak-logo.jpg",Radio RAAK
+https://secure.stream.demuziekisraak.nl/raak.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nl-radio-muziekstad-logo.jpg",Radio Muziekstad
+http://muziekstad.getmyip.com:8033/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nl-radio-deltha-zwolle-logo.jpg",Radio Deltha Zwolle
+http://caster05.streampakket.com:8664/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-radio-nopotyvo-893-fm-logo.jpg",Radio Ñopotyvo 89.3 Fm
+http://streaming.camaronhosting.com:8070/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-fara-fara-radio-logo.jpg",Fara Fara Radio
+https://panel.retrolandigital.com/listen/fara_fara_radio/listen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nl-radio-hermax-logo.jpg",Radio Hermax
+https://azura.radiohermax.nl:8010/hermax
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nl-radio-ronalisa-logo.jpg",Radio Ronalisa
+https://server5.radio-streams.net:8101/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-on-volksmusik-logo.jpg",Radio ON Volksmusik
+https://0n-volksmusik.radionetz.de/0n-volksmusik.mp3

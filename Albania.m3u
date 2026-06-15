@@ -1,0 +1,36 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/al-radio-ra-logo.jpg",Radio Ra
+http://shqiponjat.al:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/al-radio-korca-logo.jpg",Radio Korça
+https://radiolive.rtsh.dev/radiokorca
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-shkodra-159492-logo.jpg",Radio Shkodra
+https://radiolive.rtsh.dev/radioshkodra
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/al-radio-gjirokastra-logo.jpg",Radio Gjirokastra
+https://radiolive.rtsh.dev/radiotiranagjirokaster
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/al-radio-kukesi-logo.jpg",Radio Kukësi
+https://radiolive.rtsh.dev/radiokukesi
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/al-si-radio-jazz-logo.jpg",Si Radio - Jazz
+https://mpc4.mediacp.eu:8012/jazz
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/al-si-radio-gold-logo.jpg",Si Radio - Gold
+https://mpc4.mediacp.eu:8014/gold
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/al-si-radio-smooth-logo.jpg",Si Radio - Smooth
+https://mpc4.mediacp.eu:8006/smooth
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/al-si-radio-rock-logo.jpg",Si Radio - Rock
+https://mpc4.mediacp.eu:8004/rock
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/al-si-radio-your-house-logo.jpg",Si Radio - Your House
+https://mpc4.mediacp.eu:8008/house
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/al-radio-positive-gold-fm-premium-logo.jpg",Radio Positive Gold FM - Premium
+http://51.77.140.178:4000/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/al-radio-positive-gold-fm-thesari-qytetare-logo.jpg",Radio Positive Gold FM - Thesari Qytetare
+http://54.38.159.233:6020/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/al-radio-positive-gold-fm-music-ks-logo.jpg",Radio Positive Gold FM - Music KS
+http://51.77.140.178:4040/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/al-radio-positive-gold-fm-cafe-logo.jpg",Radio Positive Gold FM - Cafe
+http://51.77.140.178:4060/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/al-radio-positive-gold-fm-caramela-logo.jpg",Radio Positive Gold FM - Caramela
+http://51.77.140.178:8070/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/al-radio-positive-gold-fm-suite-logo.jpg",Radio Positive Gold FM - Suite
+http://51.77.140.178:4020/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/al-love-radio-907-digital-logo.jpg",Love Radio 90.7 Digital
+https://radio.albanialoveradio.al/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/al-radio-viciana-folklor-logo.jpg",Radio Viciana Folklor
+http://radioviciana.org:8020/;stream.nsv

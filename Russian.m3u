@@ -1,0 +1,80 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-radio-studentus-logo.jpg",Radio Studentus
+http://radiolive.studentus.md:8000/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/az-balkan-rainbow-logo.jpg",Radio Balkan Rainbow
+https://s0.radioheart.ru:8000/RH20730
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/me-real-fm-relax-logo.jpg",Radio Real FM Relax
+https://realfm.net:8443/rfr
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-monkeyfm-logo.jpg",Radio MONKEY.FM
+https://radio.monkey.fm:8001/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/om-radio-156064-logo.jpg",OM Radio
+http://188.138.251.192:8002/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fi-volna-fm-logo.jpg",Radio Волна FM
+https://r1.goradio.sbs:8010/VOLNA
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-retro-fm-logo.jpg",Radio Ретро FM
+https://efir.retrofm.md:8000/retro
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-retro-fm-90s-logo.jpg",Radio Ретро FM 90s
+https://hls-01-retro90.emgsound.ru/3/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-retro-fm-vecherinka-logo.jpg",Radio Ретро FM Вечеринка
+https://hls-01-retro-vecherinka.emgsound.ru/20/96/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-retro-fm-80s-logo.jpg",Radio Ретро FM 80s
+https://hls-01-retro80.emgsound.ru/2/96/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-retro-fm-70s-logo.jpg",Radio Ретро FM 70s
+https://hls-01-retro70.emgsound.ru/1/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-retro-fm-san-remo-logo.jpg",Radio Ретро FM Сан Ремо
+https://hls-01-sanremo.emgsound.ru/5/96/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-radio-nova-toronto-logo.jpg",Radio Nova Toronto
+https://streams.radio.co/s1ae1175cf/listen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-7ssr-dance-logo.jpg",Radio 7SSR Dance
+http://5.32.169.230:8007/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-7ssr-chill-logo.jpg",Radio 7SSR Chill
+http://5.32.169.230:8006/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ae-radio-optimist-logo.jpg",Radio Радио Оптимист
+https://myradio24.org/s383718
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kz-russian-dance-radio-logo.jpg",Russian Dance Radio
+https://lux-radio.com:8015/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kz-russian-dance-radio-logo.jpg",Russian Dance Radio
+https://lux-radio.com:8015/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-hit-fm-tricolor-de-hituri-logo.jpg",Radio HIT FM Tricolor de Hituri
+https://radio3.dixi.md/listen/hit_fm_tricolour/hitfmtricolor128.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-hit-fm-hot-hits-logo.jpg",Radio HIT FM Hot Hits
+https://radio3.dixi.md/listen/hit_fm_hot_hits/hitfm_hothits128.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-hit-fm-best-hits-logo.jpg",Radio HIT FM Best Hits
+https://radio3.dixi.md/listen/hit_fm_best_hits/hitfm_besthits128.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-hit-fm-russkoe-hitovoe-logo.jpg",Radio HIT FM Русское Хитовое
+https://radio3.dixi.md/listen/hit_fm_russkoe_hitovoe/hitfm_ruhit128.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pl-radio-surprise-logo.jpg",Radio Surprise
+http://sc.noviktech.pl:8000/;stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/es-queer-hd-radio-logo.jpg",Queer HD Radio
+https://radio.queerhd.com:8005/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-radio-russkaya-reklama-russkij-hit-logo.jpg",Radio Радио «Русская реклама» - Русский ХИТ
+https://securestreams6.autopo.st:2130/onlyrussian
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-radio-russkaya-reklama-russkij-hit-logo.jpg",Radio Радио «Русская реклама» - Русский ХИТ
+https://securestreams6.autopo.st:2130/onlyrussian
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-radio-russkaya-reklama-muzyka-bez-slov-logo.jpg",Radio Радио «Русская реклама» - Музыка без слов
+https://securestreams6.autopo.st:2130/instrumental
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kz-aloha-fm-logo.jpg",Radio Aloha FM
+https://myradio24.org/alohafm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pt-luna-sunshine-logo.jpg",Radio LUNA Sunshine
+https://lunasunshine.lunabroadcasting.net/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cu-radio-kukabara-logo.jpg",Radio Радио Кукабара
+http://c2.radioboss.fm:8414/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ae-nashi-emiraty-our-emirates-radio-logo.jpg",Наши Эмираты / Our Emirates Radio
+http://nl1.streamingpulse.com:7062/stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-radio-germaniya-logo.jpg",Radio Радио Германия
+https://server4.streamserver24.com:8080/proxy/radioger?mp=/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-jtradio-logo.jpg",JTRadio
+https://jtradio.net/live192
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uz-lifefm-logo.jpg",Radio LifeFM
+http://lifefm.uz:8000/radio-64.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-bbn-radio-russian-logo.jpg",BBN Radio Russian
+https://streams.radiomast.io/1f7e18dd-42dc-4869-9785-a9800456b9e3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-cidade-nova-de-jauru-logo.jpg",Radio Cidade Nova de Jauru
+https://ssl.streamproarte.com.br:7192/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/az-bakiradio-logo.jpg",BakiRadio
+https://broadcast.bakiradio.az/radio/8000/bakiradio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-pro-dj-radio-logo.jpg",PRO Dj Radio
+http://live.prodjradio.net:8050/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-sun-fm-logo.jpg",Radio SUN FM
+https://ec5.yesstreaming.net:2225/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-radio-zum-2-logo.jpg",Radio ZUM 2
+https://streams.radiozum.md/listen/zum2/ZUM2

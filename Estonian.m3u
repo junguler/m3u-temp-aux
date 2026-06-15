@@ -1,0 +1,14 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-doubleclap-radio-logo.jpg",Doubleclap Radio
+https://s3.radio.co/scfd7273b2/listen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/raadio-kuku-157597-logo.jpg",Radio Raadio Kuku
+https://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuku.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-chat-raadio-logo.jpg",Radio Chat Raadio
+https://puma.streemlion.com:1830/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-postimees-raadio-logo.jpg",Radio Postimees Raadio
+https://router.euddn.net/8103046e16b71d15d692b57c187875c7/postimeesraadio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-r2-pop-logo.jpg",Radio R2 Pop
+http://icecast.err.ee:80/r2popkorge.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-tagatuba-fm-logo.jpg",Radio Tagatuba FM
+https://sp.streams.ovh/8012/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-rahvaraadio-logo.jpg",Radio Rahvaraadio
+http://streamer.tt.ee:8000/rahvaraadio

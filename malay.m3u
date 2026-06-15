@@ -1,0 +1,12 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/my-gegar-radio-network-logo.jpg",Gegar Radio Network
+http://198.27.68.65:8834/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/jalinan-kasih-fm-645906-logo.jpg",Radio Jalinan Kasih FM
+https://azura14.instainternet.com/radio/8000/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/my-islamictunes-fm-logo.jpg",Radio IslamicTunes FM
+http://cloud.tujuh.my:8065/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/my-ai-fm-logo.jpg",Radio Ai FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ceriafm-596039-logo.jpg",Radio CeriaFM
+http://ceriafm.iradio.work:8080/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/my-nrfm-internet-radio-logo.jpg",NRfm Internet Radio
+https://freeus5.listen2myradio.com/live.mp3?typeportmount=s1_23311_stream

@@ -1,0 +1,36 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/si-radio-capris-80s-logo.jpg",Radio Capris 80s
+https://stream.exit.si/80
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/si-radio-zagorje-logo.jpg",Radio Zagorje
+http://178.32.146.184:30046/stream?type=httpu0026nocache=364
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/si-rock-radio-best-ballads-logo.jpg",Rock Radio Best Ballads
+http://stream.rockradio.si:9036/;stream/1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/si-rock-radio-hard-and-heavy-logo.jpg",Rock Radio Hard & Heavy
+http://stream.rockradio.si:9040/;stream/1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/si-hitradio-center-top-100-logo.jpg",Hitradio Center top 100
+http://stream3.radiocenter.si:9020/;stream/1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/si-hitradio-center-love-logo.jpg",Hitradio Center love
+http://stream3.radiocenter.si:8060/;stream/1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/si-hitradio-center-ar-ljubljana-stream-logo.jpg",Hitradio Center ar ljubljana stream
+http://stream3.radiocenter.si:8208/;stream/1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/si-hitradio-center-yu-logo.jpg",Hitradio Center yu
+http://stream3.radiocenter.si:8100/;stream/1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/si-hitradio-center-xmas-logo.jpg",Hitradio Center xmas
+http://stream3.radiocenter.si:8062/;stream/1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/si-hitradio-center-latin-logo.jpg",Hitradio Center latin
+http://stream3.radiocenter.si:8200/;stream/1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/si-hitradio-center-rock-radio-logo.jpg",Hitradio Center rock radio
+http://stream.rockradio.si:9034/;stream/1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/si-radio-capris-xmas-logo.jpg",Radio Capris Xmas
+https://stream.exit.si/XMAS
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/si-radio-prvi-logo.jpg",Radio Prvi
+https://mp3.rtvslo.si/ra1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-capodistria-162310-logo.jpg",Radio Capodistria
+https://mp3.rtvslo.si/capo
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/si-radio-aktual-galama-logo.jpg",Radio Aktual Galama
+https://live.radio.si/AktualGalama
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/si-002evergreen-radio-slo-logo.jpg",002.Evergreen Radio Slo
+http://s1.voscast.com:11286/;EVERGREENRadioSLO
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/si-radio-nula-3-beatz-logo.jpg",Radio Nula 3 Beatz
+https://strm.radionula.com/lounge
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/si-radio-nula-2-organic-logo.jpg",Radio Nula 2 Organic
+https://strm.radionula.com/channel2

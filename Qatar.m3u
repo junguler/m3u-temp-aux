@@ -1,0 +1,8 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/qa-habaieb-fm-logo.jpg",Radio Habaieb FM
+http://188.166.95.19:8000/live_habaiebfm.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/qa-radio-olive-nepal-logo.jpg",Radio Olive Nepal
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_OLIVE_HITS_S02AAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/qa-radio-olive-1063-logo.jpg",Radio Olive 106.3
+https://playerservices.streamtheworld.com/api/livestream-redirect/OLIVE1063.mp3?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/qa-radio-olive-kids-logo.jpg",Radio Olive Kids
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_OLIVE_CLUB_S04AAC.aac?dist=onlineradiobox

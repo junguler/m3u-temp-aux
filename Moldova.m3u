@@ -1,0 +1,36 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-radio-studentus-logo.jpg",Radio Studentus
+http://radiolive.studentus.md:8000/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-monkeyfm-logo.jpg",Radio MONKEY.FM
+https://radio.monkey.fm:8001/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/om-radio-156064-logo.jpg",OM Radio
+http://188.138.251.192:8002/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-retro-fm-logo.jpg",Radio Ретро FM
+https://efir.retrofm.md:8000/retro
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-retro-fm-90s-logo.jpg",Radio Ретро FM 90s
+https://hls-01-retro90.emgsound.ru/3/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-retro-fm-vecherinka-logo.jpg",Radio Ретро FM Вечеринка
+https://hls-01-retro-vecherinka.emgsound.ru/20/96/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-retro-fm-80s-logo.jpg",Radio Ретро FM 80s
+https://hls-01-retro80.emgsound.ru/2/96/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-retro-fm-70s-logo.jpg",Radio Ретро FM 70s
+https://hls-01-retro70.emgsound.ru/1/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-retro-fm-san-remo-logo.jpg",Radio Ретро FM Сан Ремо
+https://hls-01-sanremo.emgsound.ru/5/96/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-7ssr-dance-logo.jpg",Radio 7SSR Dance
+http://5.32.169.230:8007/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-7ssr-chill-logo.jpg",Radio 7SSR Chill
+http://5.32.169.230:8006/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-hit-fm-tricolor-de-hituri-logo.jpg",Radio HIT FM Tricolor de Hituri
+https://radio3.dixi.md/listen/hit_fm_tricolour/hitfmtricolor128.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-hit-fm-hot-hits-logo.jpg",Radio HIT FM Hot Hits
+https://radio3.dixi.md/listen/hit_fm_hot_hits/hitfm_hothits128.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-hit-fm-best-hits-logo.jpg",Radio HIT FM Best Hits
+https://radio3.dixi.md/listen/hit_fm_best_hits/hitfm_besthits128.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-hit-fm-russkoe-hitovoe-logo.jpg",Radio HIT FM Русское Хитовое
+https://radio3.dixi.md/listen/hit_fm_russkoe_hitovoe/hitfm_ruhit128.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-radio-zum-3-logo.jpg",Radio ZUM 3
+https://streams.radiozum.md/listen/zum3/ZUM3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-pro-dj-radio-logo.jpg",PRO Dj Radio
+http://live.prodjradio.net:8050/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/md-radio-zum-2-logo.jpg",Radio ZUM 2
+https://streams.radiozum.md/listen/zum2/ZUM2

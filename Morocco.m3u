@@ -1,0 +1,30 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nota-magharibia-638604-logo.jpg",Radio Nota Magharibia
+http://109.169.15.16:9100/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-chaine-inter-583919-logo.jpg",Radio Chaine Inter
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_chaine_inter/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ma-idaa-mohammed-assadiss-logo.jpg",Radio Idaa Mohammed Assadiss
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_mohammed_6/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ma-idaa-al-watania-logo.jpg",Radio Idaa Al Watania
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_idaa_watanya/hls_snrt_radio/index.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ma-adwaafm-5-logo.jpg",Radio Adwaafm 5
+https://stream.zeno.fm/ezxx195gq2zuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ma-rmn-radio-maroc-news-logo.jpg",RMN-Radio Maroc News
+https://stream.zeno.fm/nefhp3q9fc9uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ma-tarab-radio-logo.jpg",Tarab Radio
+http://streaming2.rimradio.ma:8000/livetarab
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ma-radio-maloulou-logo.jpg",Radio Maloulou
+https://streaming2.rimradio.ma/livemaloulou
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ma-radio-des-andalousies-logo.jpg",Radio des Andalousies
+https://streaming2.rimradio.ma/liveandalousies
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ma-world-of-aita-logo.jpg",Radio World of Aita
+http://streaming2.rimradio.ma:8000/liveworldofaita
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ma-radio-tamazgha-logo.jpg",Radio Tamazgha
+https://streaming2.rimradio.ma/liveamazighe
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ma-radio-samaa-logo.jpg",Radio Samaa
+http://streaming2.rimradio.ma:8000/samaa
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ma-dib-radio-logo.jpg",DIB Radio
+https://streaming2.rimradio.ma/dibradio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ma-radio-nador-logo.jpg",Radio Nador
+http://149.56.147.197:8092/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ma-skyrock-casablanca-logo.jpg",Radio Skyrock Casablanca
+https://icecast.skyrock.net/s/casa_aac_64k

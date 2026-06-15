@@ -1,0 +1,32 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ar-radio-malena-logo.jpg",Radio Malena
+https://playerservices.streamtheworld.com/api/livestream-redirect/MALENAAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uy-radiodifusion-nacional-del-uruguay-logo.jpg",Radiodifusión Nacional del Uruguay
+http://173.212.242.118:8096/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-bohemia-stereo-logo.jpg",Radio Bohemia Stereo
+http://199.180.75.2:10201/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ar-radiofusion-1025-logo.jpg",Radiofusion 102.5
+http://server.laradio.online:8304/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-radio-narino-logo.jpg",Radio Nariño
+https://stream.zeno.fm/8ewqw7vbd2zuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ar-espacial-933-logo.jpg",Radio Espacial 93.3
+https://stream.zeno.fm/c10md5n4zf9uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-montanera-stereo-logo.jpg",Radio Montañera Stereo
+https://stream.zeno.fm/hf0tztg9fphvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ar-radio-preludio-online-logo.jpg",Radio Preludio Online
+https://sc.dattalive.com/8170/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-solsticio-radio-logo.jpg",Solsticio Radio
+https://s01.digitalserver.org:7047/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-tango-medellin-logo.jpg",Radio Tango Medellín
+https://play12.tikast.com/proxy/tangomedellinradio?mp=/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-radio-charrua-usa-logo.jpg",Radio Charrua USA
+http://cast6.my-control-panel.com:9377/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ar-todo-argentino-logo.jpg",Radio Todo Argentino
+https://stm17.voxhd.com.br:9298/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rs-naxi-latino-radio-logo.jpg",Naxi Latino Radio
+https://naxidigital-latino128ssl.streaming.rs:8232/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-general-belgrano-578177-logo.jpg",Radio General Belgrano
+https://streaming2.locucionar.com/proxy/radiowall1?mp=/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tango-pasion-radio-635018-logo.jpg",Tango Pasión Radio
+https://nr1.newradio.it:19180/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uy-2014radio-logo.jpg",2014radio
+http://162.210.196.140:30351/;

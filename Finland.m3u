@@ -1,0 +1,10 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fi-volna-fm-logo.jpg",Radio Волна FM
+https://r1.goradio.sbs:8010/VOLNA
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fi-reggaenord-logo.jpg",Radio ReggaeNord
+https://centova2.cheapshoutcast.com:2199/proxy/reggaenord?mp=/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fi-vomba-fm-logo.jpg",Radio Võmba FM
+https://c4.radioboss.fm:18123/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fi-sea-fm-radio-0-logo.jpg",Sea FM Radio
+http://87.98.216.129:4976/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fi-yle-vega-huvudstadsregionen-logo.jpg",Radio YLE Vega Huvudstadsregionen
+https://yleuni-f.akamaihd.net/i/yleliveradiohd_7@113884/master.m3u8?set-segment-duration=quality

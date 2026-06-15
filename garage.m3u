@@ -1,0 +1,30 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-bluesmen-channel-gold-logo.jpg",Radio BluesMen Channel (Gold)
+https://stream.rcast.net/62193
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ukg-247-595416-logo.jpg",Radio UKG 247
+https://fra-pioneer08.dedicateware.com:1495/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uk-fuzion-live-logo.jpg",Radio Fuzion Live
+https://fuzionlivetv.com/hls/fuzion.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uk-hot-radio-0-logo.jpg",Hot Radio
+https://stream1.hippynet.co.uk/stream/hotradio/dorset?_=263895
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/es-kit-radio-internacional-logo.jpg",Kit Radio Internacional
+https://sonic.sistemahost.es/8250/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uk-upfront-radio-logo.jpg",UPFront Radio
+https://uk1.streamingpulse.com/ssl/upfrontradio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fire-angel-radio-627505-logo.jpg",Fire Angel Radio
+https://stream.zeno.fm/5vvc85ycna0uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uk-i-like-it-oldskool-logo.jpg",Radio I Like It Oldskool
+https://ilikeitoldskool.radioca.st/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uk-front-fm-logo.jpg",Radio Front FM
+http://carol.epichosts.co.uk:8100/live.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-the-retro-logo.jpg",Radio The Retro
+https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3353585.mp3?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gr-djlrockradio-logo.jpg",djlrockradio
+http://whsh4u-panel.com:14155/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-kult-records-logo.jpg",Radio KULT Records
+http://kult.fm:1620/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-ultradesertica-logo.jpg",Radio Ultradesértica
+https://s3.free-shoutcast.com/stream/18092
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-ultradesertica-logo.jpg",Radio Ultradesertica
+https://s3.free-shoutcast.com/stream/18092/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uk-psychedelicized-radio-logo.jpg",Psychedelicized Radio
+https://cast1.my-control-panel.com/proxy/psychedelicized/stream

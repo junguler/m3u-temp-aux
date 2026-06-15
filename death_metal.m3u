@@ -1,0 +1,12 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/metal-maximum-radio-mmr-589035-logo.jpg",Metal Maximum Radio (MMR)
+https://s5.ssl-stream.com:8022/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uk-the-voice-of-doom-logo.jpg",Radio The Voice Of Doom
+https://streaming.galaxywebsolutions.com:9046/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-omnipotent-radio-logo.jpg",OMNIPOTENT RADIO
+https://ec2.yesstreaming.net:2500/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-radio-no9-logo.jpg",Radio No9
+https://www.radio-no9.de:8001/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/zombie-radio-582514-logo.jpg",Zombie Radio
+http://24.59.178.193:420/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-rokradio-metal-logo.jpg",Radio РокРадіо Metal
+https://rockradioua.online:8433/metal_dodatok_256

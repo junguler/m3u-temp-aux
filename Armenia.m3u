@@ -1,0 +1,8 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/am-radio-mix-logo.jpg",Radio Mix
+http://109.169.15.16:15962/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/am-radio-xfm-logo.jpg",Radio XFM
+http://eu.stream4cast.com:8050/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/am-radio-energy-logo.jpg",Radio Energy
+https://eu.stream4cast.com/proxy/energyfm/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/am-kiss-fm-armenia-logo.jpg",Radio Kiss FM Armenia
+https://am.radioaurora.am/kiss
