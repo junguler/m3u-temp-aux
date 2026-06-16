@@ -1,0 +1,14 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pe-oldies-radio-900s-logo.jpg",Oldies Radio 900s
+https://stream.zeno.fm/f0ah12sfyrhvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uk-hits-fm-logo.jpg",Radio Hits FM
+https://www.radioking.com//play/hits-fm5
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-top-fm-max-logo.jpg",Radio TOP FM max
+http://live.notafm.hu:8000/max.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-wavemix-radio-logo.jpg",WaveMix Radio
+http://ec2-18-218-198-193.us-east-2.compute.amazonaws.com:8000/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/at-euro-dance-xpress-logo.jpg",Radio Euro Dance XPress
+https://secureonair.krone.at/eurodance.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uk-banana-fm-logo.jpg",Radio Banana FM
+https://stream.zeno.fm/voxrausibbmuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-radio-fm-dance-logo.jpg",Radio Fm Dance
+https://sonic.streamingchilenos.com:8138/stream

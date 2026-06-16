@@ -1,0 +1,14 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr-imparator-fm-logo.jpg",Radio Imparator fm
+https://ssl.radyosfer.com/imparatorfm/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr-radyo-atlas-logo.jpg",Radio Radyo Atlas
+https://radyoatlas.ozelip.com/8048/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr-trt-world-logo.jpg",Radio TRT World
+https://radio-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr-datca-radyo-logo.jpg",Radio Datça Radyo
+http://radyo.radyohost.net:5080/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr-radyo-dram-logo.jpg",Radio Radyo Dram
+https://sslyayin.radyoyayini.com:7028/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr-radyorap-logo.jpg",Radio RadyoRAP
+https://radyorap.ozelip.com/8182/radyorap
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr-radyo-fenomen-yaz-logo.jpg",Radio Radyo Fenomen Yaz
+https://live.radyofenomen.com/fenomenyaz/abr/playlist.m3u8

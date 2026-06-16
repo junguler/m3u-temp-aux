@@ -1,0 +1,20 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-radio-sirava-vianoce-logo.jpg",Radio Rádio Šírava Vianoce
+https://stream.sepia.sk:8000/vianoce.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-radio-x-dance-x-logo.jpg",Radio Rádio X - Dance X
+https://stream.radiox.sk:8443/dance.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-radio-x-dnb-x-logo.jpg",Radio Rádio X - DnB X
+https://stream.radiox.sk:8443/dnb.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-radio-x-logo.jpg",Radio Rádio X
+https://stream.radiox.sk:8443/radiox_256.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-radio-x-alternative-x-logo.jpg",Radio Rádio X - Alternative X
+https://stream.radiox.sk:8443/alternative.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-radio-x-oldies-x-logo.jpg",Radio Rádio X - Oldies X
+https://stream.radiox.sk:8443/oldies.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-radio-x-chillout-x-logo.jpg",Radio Rádio X - Chillout X
+https://stream.radiox.sk:8443/chillout.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-numberstation-logo.jpg",Radio Numberstation
+https://home3-ice.nezbednik.eu.org:2000/numberstation.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-radio-romper-logo.jpg",Radio Romper
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAM05AAC415.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-radio-misiacik-logo.jpg",Radio Rádio Mišiačik
+https://stream.zeno.fm/7gi0z5uqrzbvv

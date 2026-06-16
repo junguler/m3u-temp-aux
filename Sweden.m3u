@@ -1,0 +1,34 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bananradion-648302-logo.jpg",Bananradion
+https://lyssna.bananradion.se/lyssna-bandbredd
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-sverigekanalen-mediacast-1-logo.jpg",Radio Sverigekanalen Mediacast 1
+http://176.227.215.27:35022/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-sweden-tamils-fm-logo.jpg",Radio Sweden Tamils FM
+https://listen.radioking.com/radio/355330/stream/404626
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-radio-nattsudd-logo.jpg",Radio Nattsudd
+https://listen.radioking.com/radio/405787/stream/458038
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-radio-yalla-logo.jpg",Radio Yalla
+https://stream.nsp.se/yalla?_=374
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-sverigekanalen-2-logo.jpg",Radio Sverigekanalen 2
+http://37.157.242.102:31991/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-sverigekanalen-direkt1-logo.jpg",Radio Sverigekanalen Direkt1
+http://78.129.185.84:11500/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-clubalicious-logo.jpg",Radio Clubalicious
+https://listen.radioking.com/radio/319832/stream/524243
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-high-coast-radio-logo.jpg",High Coast Radio
+https://listen.radioking.com/radio/468890/stream/524894
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-oldschoolgames-logo.jpg",Radio Oldschoolgames
+https://s6.ssl-stream.com/listen/neradio-wake-up/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-chug-radio-logo.jpg",Chug Radio
+https://stream.zeno.fm/gass9n5th2rtv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-mix-music-radio-logo.jpg",MIX MUSIC RADIO
+https://s4.radio.co:80/s32835e59d/listen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-favor-radio-sweden-logo.jpg",Favor Radio (Sweden)
+https://a10.asurahosting.com:7660/sweden.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-groovefm-logo.jpg",Radio GrooveFM
+https://streams.radio.co/s081b1b9bb/listen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-radio-los-andes-gotemburgo-logo.jpg",Radio Los Andes Gotemburgo
+http://streaming.xtservers.com:8006/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-radio-sthlm-logo.jpg",Radio STHLM
+https://listen.radioking.com/radio/496501/stream/553600
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-roslagen-live-logo.jpg",Radio Roslagen Live
+https://radio.daemon.nu/listen/roslagen_live/radio.mp3
