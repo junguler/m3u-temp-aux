@@ -1,0 +1,12 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fi-radio-957-logo.jpg",Radio 957
+https://radioplay.fi/radio-957/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fi-ysari-radio-logo.jpg",Ysäri Radio
+https://stream.bauermedia.fi/ysari/ysari_64.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fi-kasari-radio-logo.jpg",Kasari Radio
+https://stream.bauermedia.fi/kasari/kasari_64.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fi-aito-iskelma-logo.jpg",Radio Aito Iskelmä
+https://ms-live-aitoiskelma.nm-elemental.nelonenmedia.fi/master.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fi-radio-dei-0-1-2-logo.jpg",Radio Dei
+https://stream.dei.fi:8443/kajaani
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fi-jahrvi-sound-logo.jpg",Radio Jahrvi Sound
+http://giss.tv:8000/jahrvisound.ogg

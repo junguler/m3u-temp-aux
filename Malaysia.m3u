@@ -1,0 +1,74 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/my-nasyid-fm-logo.jpg",Radio Nasyid FM
+http://stereo.nasyidfm.com:8000/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/my-fortune-fm-logo.jpg",Radio Fortune FM
+http://51.79.219.199:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/my-bdfm-logo.jpg",Radio BDFM
+http://172.83.43.182:8000/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/my-keypohfm-logo.jpg",Radio KeyPohFM
+http://stream.keypohfm.com:8000/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/my-auraafm-logo.jpg",Radio Auraa.fm
+http://51.79.219.203:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/my-cyber-station-logo.jpg",Radio Cyber Station
+http://167.114.131.90/proxy/cyberstation?mp=/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/my-gegaq-kepala-ku-station-logo.jpg",Radio Gegaq Kepala Ku Station
+http://109.169.76.155:8446/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/my-radiorosak-logo.jpg",RADIOROSAK
+https://radiorosak.radioca.st/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/my-take5fm-logo.jpg",Radio Take5FM
+http://167.114.131.90:5286/stream/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/my-jazz-abe-radio-online-malaysia-logo.jpg",Jazz Abe Radio Online Malaysia
+http://103.216.188.243:9958/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/my-radio-rocfm-logo.jpg",Radio ROCFM
+http://cloud.tujuh.my:8000/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/my-neuro-nadi-al-quran-logo.jpg",Radio Neuro Nadi Al Quran
+http://radio.neuronadi.fm:8000/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/my-rythmmixfm-logo.jpg",Radio RythmMixFm
+https://rythmmixfm.radioca.st/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/my-layan-logo.jpg",Radio Layan
+http://opportunity.shoutca.st:8144/stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/my-myworld-radio-fm-logo.jpg",MyWorld Radio FM
+https://stream.zeno.fm/67wn5waq64zuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/my-pyorfm-logo.jpg",Radio PyorFM
+http://178.32.62.167:8792/stream;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/my-sinar-irama-80-logo.jpg",Radio Sinar Irama 80'
+https://audio1.syok.my/astro-sinar-80
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/my-gegar-maghi-gelek-logo.jpg",Radio Gegar Maghi Gelek
+https://audio1.syok.my/astro-gegar-maghigelek
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/my-era-cintan-logo.jpg",Radio ERA Cintan
+https://audio1.syok.my/astro-era-cintan
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/my-sinar-irama-70-logo.jpg",Radio Sinar Irama 70'
+https://audio1.syok.my/astro-sinar-70
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/my-era-indie-logo.jpg",Radio ERA Indie
+https://audio1.syok.my/astro-era-indie
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/my-era-nusantera-logo.jpg",Radio ERA Nusantera
+https://audio1.syok.my/astro-era-nusantera
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/my-my-pop-hit-songs-logo.jpg",Radio MY Pop Hit Songs
+https://audio1.syok.my/astro-my-pop
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/my-my-love-uu-logo.jpg",Radio MY Love UU
+https://audio1.syok.my/astro-my-loveuu
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/my-hitz-urban-logo.jpg",Radio HITZ Urban
+https://audio1.syok.my/astro-hitz-urban
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/my-hitz-kpop-logo.jpg",Radio HITZ KPop
+https://audio1.syok.my/astro-hitz-kpop
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/my-hitz-chillest-logo.jpg",Radio HITZ Chillest
+https://audio1.syok.my/astro-hitz-chillest
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/my-hitz-tiktok-logo.jpg",Radio HITZ Tiktok
+https://audio1.syok.my/astro-hitz-tiktok
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/my-mix-90s-mix-tape-logo.jpg",Radio MIX 90's Mix Tape
+https://audio1.syok.my/astro-mix-90
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/my-melody-chi-classic-70-logo.jpg",Radio Melody CHI Classic 70
+https://audio1.syok.my/astro-melody-70
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/my-sinar-pop-yeh-yeh-logo.jpg",Radio Sinar Pop Yeh Yeh
+https://audio1.syok.my/astro-sinar-popyehyeh
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/my-melody-chi-classic-80-logo.jpg",Radio Melody CHI Classic 80
+https://audio1.syok.my/astro-melody-80
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/my-mix-lovesongs-logo.jpg",Radio MIX Lovesongs
+https://audio1.syok.my/astro-mix-lovesongs
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/my-melody-chi-classic-90-logo.jpg",Radio Melody CHI Classic 90
+https://audio1.syok.my/astro-melody-90
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/my-sinar-iramalaysia-logo.jpg",Radio Sinar IraMalaysia
+https://audio1.syok.my/astro-sinar-iramalaysia
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/my-sana-sini-fm-logo.jpg",Radio Sana Sini FM
+https://cast1.asurahosting.com/proxy/sanasini/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/my-zayan-logo.jpg",Radio Zayan
+https://audio1.syok.my/zayan

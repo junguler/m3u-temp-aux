@@ -1,0 +1,20 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/al-radio-mi-logo.jpg",Radio Mi
+https://streamingv2.shoutcast.com/radio-mi-online
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/al-play-radio-albania-logo.jpg",Play Radio Albania
+https://business.playfm.al:8170/paperplay
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/al-radio-melodia-shqip-logo.jpg",Radio Melodia Shqip
+https://s41.myradiostream.com/:37680/listen.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/al-si-radio-dj-artist-logo.jpg",Si Radio - DJ Artist
+https://mpc4.mediacp.eu:8010/djartist
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/al-radio-dj-track-to-track-logo.jpg",Radio DJ Track to Track
+https://radio.albaniaradiodj.al/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/al-chill-albania-logo.jpg",Radio Chill Albania
+https://streams.radiomast.io/346318d3-5312-4a69-8f80-64d75640fd35
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/al-si-radio-urban-beats-logo.jpg",Si Radio - Urban Beats
+https://mpc4.mediacp.eu:8016/urbanbeats
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/al-radio-tirana-jazz-logo.jpg",Radio Tirana Jazz
+https://radiolive.rtsh.dev/radiotiranajazz
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/al-play-mix-logo.jpg",Radio Play Mix
+https://cloud.playradio.one:8555/mix128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/al-si-radio-fresh-logo.jpg",Si Radio - Fresh
+https://mpc4.mediacp.eu:8000/fresh
