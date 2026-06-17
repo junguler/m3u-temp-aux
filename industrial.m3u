@@ -1,0 +1,6 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wfku-581502-logo.jpg",Radio WFKU
+http://142.93.232.177:8000/wfku
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/toxic-sickness-radio-590943-logo.jpg",Toxic Sickness Radio
+http://46.28.49.164:7711/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rant-radio-industrial-157011-logo.jpg",Rant Radio Industrial
+http://broadcast.rantradio.com:8888/;

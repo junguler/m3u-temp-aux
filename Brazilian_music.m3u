@@ -1,0 +1,160 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lusomedia-radio-portugues-609829-logo.jpg",LUSOMedia Radio Portugues
+http://s8.voscast.com:9200/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-globo-rio-568213-logo.jpg",Radio Rádio Globo (Rio)
+http://medias.sgr.globo.com/hls/aRGloboRJ/aRGloboRJ.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-termal-631893-logo.jpg",Radio Rádio Termal
+http://servidor40.brlogic.com:8286/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/saudades-fm-163025-logo.jpg",Radio Saudades FM
+http://sc1.cadena.com.br:8610/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-farol-879-fm-163362-logo.jpg",Radio Rádio Farol 87.9 FM
+http://www.radiofarolfm.com.br:8101/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-viola-595362-logo.jpg",Radio Rádio Viola
+http://suaradio1.dyndns.ws:8018/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-gauchona-605833-logo.jpg",Radio Gauchona
+http://09.stmip.net:8294/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-oriente-fm-nordeste-164037-logo.jpg",Radio Rádio Oriente FM (Nordeste)
+http://audio.vanguardamg.com.br:9318/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-manchete-am-164088-logo.jpg",Radio Rádio Manchete AM
+http://192.163.213.186:9300/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mr-groove-radio-158815-logo.jpg",Mr Groove Radio
+http://9.fm5.com.br:8094/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-palmeira-am-164108-logo.jpg",Radio Palmeira AM
+http://r13.ciclano.io:8093/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-transversal-fm-164140-logo.jpg",Radio Rádio Transversal FM
+http://stm11.xcast.com.br:12332/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-nova-timbauba-fm-164160-logo.jpg",Radio Rádio Nova Timbaúba FM
+http://radio.novatimbaubafm.com:8204/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-querencia-am-164197-logo.jpg",Radio Rádio Querência AM
+http://192.99.150.31:9275/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-vibefm-brasil-619180-logo.jpg",Radio Rádio VibeFm Brasil
+http://186.232.181.147:8000/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-jovem-tropical-157936-logo.jpg",Radio Rádio Jovem Tropical
+http://cast.midiaip.com.br:6103/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-jp-rock-and-pop-jovem-pan-605899-logo.jpg",Radio Rádio JP Rock & Pop (Jovem Pan)
+http://6d9a.webradio.upx.net.br:8016/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-jovem-barra-588813-logo.jpg",Radio Rádio Jovem Barra
+http://rvn01.painelstream.net:8250/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-jp-pop-brasil-jovem-pan-595996-logo.jpg",Radio Rádio JP Pop Brasil (Jovem Pan)
+http://6d9a.webradio.upx.net.br:9046/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-cristal-am-164603-logo.jpg",Radio Rádio Cristal AM
+http://50.97.204.42:8132/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-integracao-do-oeste-am-165157-logo.jpg",Radio Integracao do Oeste AM
+http://50.97.204.42:8032/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-ovelhamix-156470-logo.jpg",Radio Rádio Ovelhamix
+http://107.155.164.136:9962/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-doze-de-maio-165393-logo.jpg",Radio Doze de Maio
+http://198.100.146.218:7056/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-fandango-165456-logo.jpg",Radio Rádio Fandango
+http://s01.transmissaodigital.com:7112/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-itaja-fm-165534-logo.jpg",Radio Rádio Itajá FM
+http://aovivo.itaja105.com.br:30302/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-erechim-165612-logo.jpg",Radio Rádio Erechim
+http://centova15.ciclanohost.com.br:4283/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-sao-joao-165633-logo.jpg",Radio Sao Joao
+http://stream.sistemaplug.com:1935/SaoJoaoSJ/radiosaojoao.stream/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-chopinzinho-172075-logo.jpg",Radio Chopinzinho
+http://10.fm5.com.br:8804/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-sao-lourenco-172114-logo.jpg",Radio Sao Lourenco
+http://radio1.suaradionanet.net:8034/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-jaguari-am-172152-logo.jpg",Radio Rádio Jaguari AM
+http://cast62.sitehosting.com.br:9992/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-atitude-am-172173-logo.jpg",Radio Atitude AM
+http://192.240.96.195:8060/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-manchester-fm-172169-logo.jpg",Radio Rádio Manchester FM
+http://10.fm5.com.br:8280/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-veranense-172884-logo.jpg",Radio Veranense
+https://redesul.link:8088/Redesul/RSVeranense/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-clube-de-sao-joao-batista-172878-logo.jpg",Radio Rádio Clube de São João Batista
+http://sysrad.net:30460/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-guarabira-fm-172941-logo.jpg",Radio Rádio Guarabira FM
+http://ice11.crossradio.com.br:8034/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-campo-aberto-am-165747-logo.jpg",Radio Rádio Campo Aberto AM
+http://107.161.124.106:25244/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-jambeiro-fm-159235-logo.jpg",Radio Rádio Jambeiro FM
+http://stm22.srvstm.com:8576/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-pajeu-583329-logo.jpg",Radio Rádio Pajeú
+http://server3.webradios.com.br:9434/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-assocei-fm-580079-logo.jpg",Radio Rádio Assocei FM
+http://streaming04.maxcast.com.br:8030/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-tupanci-am-175144-logo.jpg",Radio Rádio Tupanci AM
+http://suaradio2.dyndns.ws:10024/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-itaunas-fm-174843-logo.jpg",Radio Itaunas FM
+http://177.125.192.6:8004/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/inconfidencia-fm-100-9-brasileirissima-569875-logo.jpg",Radio Inconfidência FM 100,9 - Brasileiríssima
+http://srv39.brasilstream.com.br:8446/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-alto-astral-159731-logo.jpg",Radio Rádio Alto Astral
+http://192.198.204.194:8090/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-sds-fm-176490-logo.jpg",Radio SDS FM
+rtmp://64.56.64.54/15998/15998.stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-tempo-fm-165948-logo.jpg",Radio Tempo FM
+http://auranet.com.br:8005/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-web-dimensao-176705-logo.jpg",Radio Web Dimensao
+http://23.89.9.181:9000/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-regional-am-176835-logo.jpg",Radio Regional AM
+http://r18.ciclano.io:8228/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-caraiba-176833-logo.jpg",Radio Caraiba
+http://ice11.crossradio.com.br:8136/live.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nova-onda-fm-175311-logo.jpg",Radio Nova Onda FM
+http://stm11.srvstm.com:9994/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-studio-livre-fm-175346-logo.jpg",Radio Rádio Studio Livre FM
+http://74.63.250.82:8236/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-teresopolis-am-178462-logo.jpg",Radio Rádio Teresópolis AM
+http://158.69.25.64:8096/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-web-alternativa-178465-logo.jpg",Radio Rádio Web Alternativa
+http://stm49.adcast.com.br:11070/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-sucesso-bambui-fm-178539-logo.jpg",Radio Rádio Sucesso Bambui Fm
+http://wms5.webradios.com.br:9070/9070
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-tres-rios-fm-178561-logo.jpg",Radio Rádio Tres Rios FM
+http://207.38.87.204:9855/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-itaipu-fm-178655-logo.jpg",Radio Rádio Itaipú FM
+http://stm15.srvstm.com:25972/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-alvorada-am-178930-logo.jpg",Radio Alvorada AM
+http://stm45.srvstm.com:17118/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-itaperuna-am-166412-logo.jpg",Radio Itaperuna AM
+http://10.stmip.net:8488/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-feliz-179806-logo.jpg",Radio Feliz
+http://streaming18.hstbr.net:8276/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-capital-do-agreste-179091-logo.jpg",Radio Capital do Agreste
+http://177.20.208.135:8094/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-ondas-fm-179119-logo.jpg",Radio Ondas FM
+http://ondasfm.streams.com.br:7819/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-somzoom-sat-fortaleza-166876-logo.jpg",Radio Rádio Somzoom Sat (Fortaleza)
+http://zoeweb.net:9014/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-centro-oeste-160231-logo.jpg",Radio Rádio Centro Oeste
+http://online.rco.com.br:8226/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-capela-fm-180047-logo.jpg",Radio Rádio Capela FM
+http://audio3.cmaudioevideo.com:8513/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-cidade-cancao-fm-159926-logo.jpg",Radio Rádio Cidade Canção FM
+http://209.126.127.123:8124/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-costa-oeste-fm-167050-logo.jpg",Radio Rádio Costa Oeste FM
+http://stm01.virtualcast.com.br:8392/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-povo-jequie-180269-logo.jpg",Radio Povo Jequie
+http://208.115.218.74:8038/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-cultura-de-itatiba-179618-logo.jpg",Radio Rádio Cultura de Itatiba
+http://server3.webradios.com.br:9312/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-alto-urugual-am-167089-logo.jpg",Radio Rádio Alto Urugual AM
+http://streaming.lccomunic.com:9221/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-salgueiro-fm-180335-logo.jpg",Radio Rádio Salgueiro FM
+http://hd3.matutos.com.br:9144/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-quissama-fm-176296-logo.jpg",Radio Rádio Quissamã FM
+http://sceua.softhost.com.br:8026/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-guajuvira-fm-166997-logo.jpg",Radio Rádio Guajuvira FM
+http://50.97.204.42:8638/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-som-2000-am-156955-logo.jpg",Radio Som 2000 AM
+http://69.64.52.71:8103/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-feitoria-fm-156967-logo.jpg",Radio Rádio Feitoria FM
+http://stm1.painel.skyradios.com.br:8028/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-esperanca-estancia-180649-logo.jpg",Radio Rádio Esperança (Estancia)
+http://streaming12.maxcast.com.br:8138/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-difusora-maravilha-167311-logo.jpg",Radio Difusora Maravilha
+http://rvn01.estudioproarte.com.br:9166/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-comercial-am-167310-logo.jpg",Radio Comercial AM
+http://sh.upx.com.br:8250/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-transmineral-167358-logo.jpg",RADIO TRANSMINERAL
+http://radio.fitcloud.com.br:8894/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-ternura-fm-157013-logo.jpg",Radio Rádio Ternura FM
+https://ice.fabricahost.com.br/ternurafm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-danubio-azul-167415-logo.jpg",Radio Danubio Azul
+http://radios.emid.com.br:7222/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-dimensao-fm-181424-logo.jpg",Radio Rádio Dimensao FM
+http://svrstream2.svreua.com:8152/;

@@ -1,0 +1,18 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dieters-schlager-radio-2-591011-logo.jpg",Dieters Schlager Radio 2
+http://138.201.234.214:9986/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-discofoxhimmel-583652-logo.jpg",Radio Discofoxhimmel
+http://83.169.2.183:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-schlagertempel-584881-logo.jpg",Radio-Schlagertempel
+http://87.118.78.52:8000/stream/3/;?sid=3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/harmonyfm-schlager-radio-580691-logo.jpg",harmony.fm Schlager Radio
+http://streams.harmonyfm.de/hrmchannels/aac/playerid:RTFFHTunein/schlager.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/heideland-radio-599474-logo.jpg",Heideland Radio
+http://144.76.84.153:21934/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/partyradio24-175547-logo.jpg",Partyradio24
+http://91.250.77.9:8070/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rautemusikfm-schlager-589076-logo.jpg",Radio RauteMusik.FM Schlager
+http://schlager-high.rautemusik.fm/stream.mp3?ref=tunein
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/angels-fox-radio-594270-logo.jpg",Angels Fox-Radio
+http://85.25.217.30/afr64.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/alpenmelodie-155231-logo.jpg",Radio Alpenmelodie
+http://radio.alpenmelodie.de:8500/;

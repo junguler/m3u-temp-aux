@@ -1,0 +1,10 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/grindfm-radiostation-184067-logo.jpg",Grind.FM Radiostation
+http://radio01.goha.ru:8000/grindfm.ogg
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/eve-radio-577867-logo.jpg",EVE-Radio
+http://stream.evehost.net:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gensokyo-radio-588273-logo.jpg",Gensokyo Radio
+http://stream.gensokyoradio.net:8000/1/listen.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rainwave-game-soundtracks-585841-logo.jpg",Radio Rainwave Game Soundtracks
+http://gamestream.rainwave.cc:8000/game.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-nintendo-584583-logo.jpg",Radio Nintendo
+http://66.228.50.131:9994/;

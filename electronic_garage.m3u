@@ -1,0 +1,6 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/modul-303-631806-logo.jpg",Radio modul 303
+http://178.251.230.147:8000/source
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/starfrosch-611381-logo.jpg",Radio starfrosch
+https://radio.starfrosch.com:8443/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dark-section-radio-167443-logo.jpg",Dark Section Radio
+http://stream.dark-section.eu:8000/;

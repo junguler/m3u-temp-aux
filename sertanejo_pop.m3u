@@ -1,0 +1,14 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-globo-rio-568213-logo.jpg",Radio Rádio Globo (Rio)
+http://medias.sgr.globo.com/hls/aRGloboRJ/aRGloboRJ.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-caipirona-fm-620889-logo.jpg",Radio Rádio Caipirona FM
+http://svrstream1.svreua.com:8240/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uop-web-radio-sertaneja-616558-logo.jpg",Radio UOP - Web Rádio Sertaneja
+http://audio8.cmaudioevideo.com:8859/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-jp-sertanejo-jovem-pan-582532-logo.jpg",Radio Rádio JP Sertanejo (Jovem Pan)
+http://6d9a.webradio.upx.net.br:9049/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-nativa-fm-norte-do-parana-175892-logo.jpg",Radio Rádio Nativa FM (Norte do Paraná)
+http://94.23.5.152:8214/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-viola-viva-179773-logo.jpg",Radio Viola Viva
+http://11.fm5.com.br:8116/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-pinhais-fm-179413-logo.jpg",Radio Rádio Pinhais FM
+http://servidor32.brlogic.com:8114/live?type=.m3u

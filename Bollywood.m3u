@@ -1,0 +1,8 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/suno-584399-logo.jpg",Radio Suno
+http://50.7.71.27:9693/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-dhoom-163166-logo.jpg",Radio Dhoom
+http://radiodhoom.serverroom.us:6646/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lycadilse-1035-604192-logo.jpg",Radio LycaDilse 1035
+http://tx.sharp-stream.com/icecast.php?i=1035.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/asian-sound-radio-network-576394-logo.jpg",Asian Sound Radio Network
+http://streaming.broadcastradio.com:9420/asiansoundradio

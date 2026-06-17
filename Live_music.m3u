@@ -1,0 +1,6 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-letzgo-608211-logo.jpg",Radio LetzGo
+http://eu2.radioboss.fm:8072/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/activeradio-154808-logo.jpg",Activeradio
+http://198.27.68.65:8811/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ndr-2-soundcheck-live-165055-logo.jpg",Radio NDR 2 Soundcheck Live
+http://ndr-loop-15.cast.addradio.de/ndr/loop/15/mp3/128/stream.mp3

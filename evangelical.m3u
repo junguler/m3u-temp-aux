@@ -1,0 +1,30 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rede-boa-nova-guarulhos-567872-logo.jpg",Radio Rede Boa Nova (Guarulhos)
+http://stm7.conectastm.com:23646/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-web-alianca-net-158211-logo.jpg",Radio Rádio Web Aliança Net
+http://radio.server6.com.br:8166/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-iglesia-de-dios-hd-648520-logo.jpg",Radio Iglesia De Dios HD
+http://aacplus.rstreaming.net:7290/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-nueva-alianza-637188-logo.jpg",Radio Nueva Alianza
+http://radio008.gt.gt:8020/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-aleluia-fm-sao-paulo-165246-logo.jpg",Radio Rádio Aleluia FM (São Paulo)
+https://34398c.ha.azioncdn.net/primary/radiorasp.sdp/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-atalaias-sc-633244-logo.jpg",Radio Rádio Atalaias SC
+http://hts03.kshost.com.br:8438/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-88-175642-logo.jpg",Radio Rádio 88
+http://23.235.227.66:8188/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-fm-esperanca-165949-logo.jpg",Radio Rádio FM Esperança
+http://radio.server6.com.br:9990/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-boas-novas-am-165959-logo.jpg",Radio Rádio Boas Novas AM
+http://rbc1.directradios.com:8296/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-vida-fm-sao-paulo-178522-logo.jpg",Radio Rádio Vida FM (São Paulo)
+http://srv6.streamjei.com.br:7446/32
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-melodia-178627-logo.jpg",Radio Melodia
+http://hts02.kshost.com.br:8942/;
+#EXTINF:-1 tv-logo="",Radio Hinos Inspirados
+http://ip2.paineldj5.com.br:8658/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-oasis-fm-155192-logo.jpg",Radio Oasis FM
+http://167.114.189.62:7046/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-suprema-167004-logo.jpg",Radio Rádio Suprema
+http://sh.upx.com.br:10438/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-feira-fm-180838-logo.jpg",Radio Feira FM
+http://23.235.227.66:8292/;

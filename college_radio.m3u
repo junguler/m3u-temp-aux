@@ -1,0 +1,34 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ucc-983-154812-logo.jpg",Radio UCC 98.3
+http://143.239.169.110:8000/listen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-shawinigan-162994-logo.jpg",Radio Shawinigan
+http://m01.stream.ustream.ca/fm91132.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/eradio-wmcr-569868-logo.jpg",eRadio WMCR
+http://www.streamvortex.com:11060/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kwfc-571820-logo.jpg",Radio KWFC
+http://nyc01.egihosting.com:6414/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hochschulradio-aachen-164125-logo.jpg",Hochschulradio Aachen
+http://evans.hochschulradio.rwth-aachen.de:8000/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radiofonia-100-5-fm-583095-logo.jpg",Radiofonia 100,5 FM
+http://80.48.65.99/radiofonia
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-uem-fm-172077-logo.jpg",Radio UEM FM
+http://186.233.153.151:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/npr-illinois-570910-logo.jpg",Radio NPR Illinois
+http://war.str3am.com:7780/wuis.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cjsw-154069-logo.jpg",Radio CJSW
+https://cjsw.leanstream.co/CJSWFM?args=tunein_01
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wcrx-572535-logo.jpg",Radio WCRX
+http://wcrx.streamguys1.com:80/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kdsu-574310-logo.jpg",Radio KDSU
+http://18133.live.streamtheworld.com:3690/KCNDHD3_SC?DIST=TuneInu0026TGT=TuneInu0026maxServers=2u0026tdtok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6ImZTeXA4In0.eyJpc3MiOiJ0aXNydiIsInN1YiI6I
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/95bfm-177981-logo.jpg",Radio 95bFM
+http://streams.95bfm.com/stream95
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dcufm-160276-logo.jpg",Radio DCUfm
+http://dcufm.redbrick.dcu.ie/stream128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/chuo-fm-179644-logo.jpg",Radio CHUO-FM
+http://icecast.isilive.ca/chuo
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cfbu-fm-166959-logo.jpg",Radio CFBU-FM
+http://s2.stationplaylist.com:8110/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/four-states-public-radio-575422-logo.jpg",Four States Public Radio
+http://s2.voscast.com:12108/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-universitaria-fm-179289-logo.jpg",Radio Rádio Universitária FM
+http://webradio.dr.ufu.br:8000/live

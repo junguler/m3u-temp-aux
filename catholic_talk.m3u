@@ -1,0 +1,32 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-maria-albania-577598-logo.jpg",Radio Maria (Albania)
+http://dreamsiteradiocp2.com:8028/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/la-red-de-pedro-606926-logo.jpg",Radio La Red de Pedro
+http://149.56.157.81/proxy/pedro?mp=/1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-maria-belgium-163182-logo.jpg",Radio Maria (Belgium)
+http://www.radiomaria.be:8000/RadioMaria-96
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-fides-tarija-163177-logo.jpg",Radio Fides Tarija
+http://149.56.175.167:5415/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-misericordia-613962-logo.jpg",Radio Misericordia
+http://rm.aztechnologie.com:8000/misericordia
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-loyola-sucre-fides-599285-logo.jpg",Radio Loyola Sucre - Fides
+http://192.99.17.12:6310/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-serra-do-mar-am-164584-logo.jpg",Radio Rádio Serra do Mar AM
+http://streaming11.hstbr.net:8194/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-cristo-sin-fronteras-612700-logo.jpg",Radio Cristo Sin Fronteras
+http://stm10.miradio.com.es:11058/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-corazon-578110-logo.jpg",Radio Corazón
+http://miradioenlaweb.com:4660/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-arcangel-923-fm-637486-logo.jpg",Radio Arcangel 92.3 FM
+http://streaming.morfosisdigital.com:8029/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ewtn-radio-569879-logo.jpg",EWTN Radio
+http://www.ewtn.com/radio/streaming/radio-english-mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-gozo-162471-logo.jpg",Radio Gozo
+http://radio.gisslive.com:9006/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-vatican-8-583114-logo.jpg",Radio Vatican 8
+http://rvl.vaticanmedia.va/channel8.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-sds-fm-176490-logo.jpg",Radio SDS FM
+rtmp://64.56.64.54/15998/15998.stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-xavantes-am-177633-logo.jpg",Radio Xavantes AM
+http://143.208.11.104:8138/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-maria-france-160348-logo.jpg",Radio Maria France
+http://37.187.164.152:8058/;
