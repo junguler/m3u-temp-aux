@@ -1,0 +1,28 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hotmixradio-80-154011-logo.jpg",Hotmixradio 80
+http://streaming.hotmixradio.fm/hotmixradio-80-128.mp3?from=tunein
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/1075-beach-radio-571410-logo.jpg",107.5 Beach Radio
+http://cjib.streamon.fm:8000/CJIB-48k.aac?starttime=1568960366
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/singlestreff-radio-80er-jahre-185441-logo.jpg",Singlestreff Radio - 80er Jahre
+http://87.118.119.128:13250/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/max-fm-577466-logo.jpg",Radio Max FM
+http://player.listenlive.co/27041
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/most-radio-579408-logo.jpg",MOST Radio
+http://streaming2.sim-indonesia.com:8000/most
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/profm-80s-582957-logo.jpg",Radio ProFM `80s
+http://stream.profm.ro:8122/80s.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/flor-paraiso-582344-logo.jpg",Radio Flor Paraiso
+http://route.ceomedia.live/florparaiso
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kiss-911-fm-582358-logo.jpg",Radio Kiss 91.1 FM
+http://kissfm.live24.gr/kiss2111
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/south-devon-sound-582400-logo.jpg",Radio South Devon Sound
+http://91.85.212.188:88/broadwave.mp3?src=1u0026rate=1u0026ref=
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-vox-fm-585998-logo.jpg",Radio Rádio Vox FM
+http://svrstream2.svreua.com:8144/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/totally80sfm-588047-logo.jpg",Radio Totally80sfm
+http://streaming.dragonstack.com:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/80s-rfm-587728-logo.jpg",Radio 80's RFM
+http://player.streamtheworld.com/liveplayer.php?CALLSIGN=GR80SRFM
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/80spartyfm-588437-logo.jpg",Radio 80sParty.fm
+http://player.radioloyalty.com/station/23568.html
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/box-uk-at-danceradiouk-590497-logo.jpg",Box Uk at DanceRadioUk
+http://192.227.85.169:6191/;

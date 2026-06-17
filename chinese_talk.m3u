@@ -1,0 +1,34 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/shandong-economics-radio-172429-logo.jpg",Shandong Economics Radio
+http://m.hz.qingting.fm/live/60198.m3u8?bitrate=24
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cnr-business-radio-575850-logo.jpg",CNR - Business Radio
+http://bfq.cnr.cn/zhibo/?2
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nerhl-576118-logo.jpg",Radio NERHL
+http://streaming.ner.gov.tw/live/5/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/shenzhen-i-radio-580658-logo.jpg",Shenzhen I Radio
+rtmp://live.s1979.com/s1979live/video/szr-4
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hunan-news-radio-580680-logo.jpg",Hunan News Radio
+http://www.aizhibo.net/radio/hunan/373.htm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dongguan-news-radio-580666-logo.jpg",Dongguan News Radio
+http://www.sun0769.com/online/index.asp
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/zhtv-1-581179-logo.jpg",Radio ZHTV-1
+http://www.zhtv.com/zhtvlive/zhtv1live.htm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ankang-news-radio-579749-logo.jpg",Ankang News Radio
+http://112.124.42.156/10.200.118.92/live/2685662/24.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sound-of-hope-radio-579905-logo.jpg",Sound of Hope Radio
+http://radio.soundofhope.org:8000/NEWS_64K.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/yichang-news-radio-581855-logo.jpg",Yichang News Radio
+http://115.28.241.219/10.144.42.66/live/78209/24.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/2ac-cantonese-channel-583792-logo.jpg",Radio 2AC Cantonese Channel
+http://s21.myradiostream.com:13762/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/guangzhou-news-radio-583822-logo.jpg",Guangzhou News Radio
+http://www.fifm.us/r/radio84.htm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/suzhou-news-radio-584383-logo.jpg",Suzhou News Radio
+http://42.96.172.5/10.129.53.175/live/2808/48.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/huangshi-news-radio-581800-logo.jpg",Huangshi News Radio
+http://www.6bang.com/v/312.html
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/chongqing-story-radio-581808-logo.jpg",Chongqing Story Radio
+http://42.121.31.49/10.161.148.247/live/1501/24.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/huangshi-traffic-radio-581802-logo.jpg",Huangshi Traffic Radio
+http://www.aizhibo.net/radio/hubei/317.htm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/jiangxi-city-radio-581818-logo.jpg",Jiangxi City Radio
+http://115.28.46.105/10.129.53.158/live/1810/48.m3u8

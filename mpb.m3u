@@ -1,0 +1,16 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-rio-verde-fm-577010-logo.jpg",Radio Rádio Rio Verde FM
+http://paineldj5.com.br:8147/stream?type=.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-assembleia-581091-logo.jpg",Radio Rádio Assembléia
+http://srv6.zoeweb.tv:1935/z405-live/stream/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-uniao-fm-pelotas-579812-logo.jpg",Radio Rádio União FM (Pelotas)
+http://stream.ouveai.com.br:8055/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-santa-barbara-fm-585978-logo.jpg",Radio Rádio Santa Bárbara FM
+http://216.245.220.173:8474/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-1-rio-585970-logo.jpg",Radio Rádio 1 Rio
+http://globoradio.globo.com/player/radio-corporativa/radio-1-rio.htm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-nova-brasil-fm-salvador-587289-logo.jpg",Radio Rádio Nova Brasil FM (Salvador)
+http://20833.live.streamtheworld.com:3690/NOVABRASIL_SSAAAC_SC?DIST=TuneInu0026TGT=TuneInu0026maxServers=2u0026ua=RadioTimeu0026ttag=RadioTime
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-nova-brasil-fm-recife-587287-logo.jpg",Radio Rádio Nova Brasil FM (Recife)
+http://20833.live.streamtheworld.com/NOVABRASIL_RECAAC_SC?DIST=TuneInu0026TGT=TuneInu0026maxServers=2u0026ua=RadioTimeu0026ttag=RadioTime
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-globo-joinvile-587334-logo.jpg",Radio Rádio Globo (Joinvile)
+http://67809y.ha.azioncdn.net/primary/glo_joi.sdp/playlist.m3u8

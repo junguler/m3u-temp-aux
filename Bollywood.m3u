@@ -1,0 +1,24 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/chennai-fm-rainbow-161326-logo.jpg",Radio Chennai FM Rainbow
+http://163.172.165.94:8002/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hot-pepper-572034-logo.jpg",Radio Hot Pepper
+http://radio.securenetsystems.net/v4/index.cfm?stationCallSign=HPMN
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sada-bahar-music-radio-185090-logo.jpg",Sada Bahar Music Radio
+http://192.240.102.133:8512/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rsnwaves-576447-logo.jpg",Radio RSNWaves
+http://radio.securenetsystems.net/v5/SNW
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-hsl-169504-logo.jpg",Radio HSL
+http://50.7.68.251:7064/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/funasia-577125-logo.jpg",Radio FunAsiA
+http://funasia.streamguys1.com/live-1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/oye-fm-577530-logo.jpg",Radio OYE FM
+http://gir.fm/?play=del-1048
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fever-104-fm-577534-logo.jpg",Radio Fever 104 FM
+http://gir.fm/?play=del-1040
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/platform-channel-myopusradiocom-580276-logo.jpg",Platform Channel - Myopusradio.com
+http://stream0.myopusradio.com:8000/myopusradio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bindas-radio-581469-logo.jpg",Bindas Radio
+http://50.7.70.66:8666/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/desi-junction-radio-581876-logo.jpg",Desi Junction Radio
+http://96.31.90.115:8046/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-spice-584777-logo.jpg",Radio Spice
+http://stream9.broadcast.co.nz:8000/radiospicewebsiteaudio.mp3

@@ -1,0 +1,12 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/childrens-radio-yekaterinburg-584166-logo.jpg",Children's radio Yekaterinburg
+http://den.101.ru:4000/det_66_01
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radijojo-169187-logo.jpg",Radio Radijojo
+http://84.19.190.63:9200/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cctv-14-577514-logo.jpg",Radio CCTV-14
+http://tv.cntv.cn/live/cctvchild/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/smile-of-a-child-tv-581029-logo.jpg",Radio Smile of a Child TV
+http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kidstar-kprp-589175-logo.jpg",Radio KidStar KPRP
+http://s4.total-streaming.com:9112/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bookvar-589849-logo.jpg",Radio Bookvar
+http://78.46.70.206:8000/bookvario-aac

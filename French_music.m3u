@@ -1,0 +1,56 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/le-loup-989-181600-logo.jpg",Radio Le Loup 98.9
+http://stream.statsradio.com:8066/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-atlantis-181689-logo.jpg",Radio Atlantis
+http://91.121.153.12:9006/atlantis128
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/frequence-paris-plurielle-184759-logo.jpg",Radio Frequence Paris Plurielle
+http://radio.toile-libre.org:8000/fpp.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-studio-1-161367-logo.jpg",Radio Studio 1
+http://broadcast.infomaniak.ch/radiostudio1-128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/vogue-radio-184601-logo.jpg",Vogue Radio
+http://vogueradio.ice.infomaniak.ch/vogueradio-high.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-plus-douvrin-168305-logo.jpg",Radio Plus Douvrin
+http://radioplus2.ice.infomaniak.ch/radioplus.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/o97-3-571416-logo.jpg",Radio O97,3
+http://stream.statsradio.com:8012/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ckrl-89-1-571424-logo.jpg",Radio CKRL 89,1
+http://stream02.ustream.ca:8000/ckrl128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/chyz-571420-logo.jpg",Radio CHYZ
+http://ecoutez.chyz.ca:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cieu-fm-571450-logo.jpg",Radio CIEU-FM
+http://stream.statsradio.com:8074/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rezo-571543-logo.jpg",Radio Rézo
+http://broadcast.infomaniak.net:80/radioefm-low.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/france-bleu-bearn-576609-logo.jpg",Radio France Bleu Béarn
+http://direct.francebleu.fr/live/fbbearn-lofi.mp3?ID=76zqey582k
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fip-nantes-576830-logo.jpg",Radio FIP Nantes
+http://direct.fipradio.fr/live/fipnantes-lofi.mp3?ID=76zqey582k
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/voxinox2-577453-logo.jpg",Radio Voxinox2
+http://94.23.41.123:8015/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-ambiance-fm-578320-logo.jpg",Radio Ambiance FM
+http://184.154.202.243:8326/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/accuradio-french-poples-hommes-franaais-578996-logo.jpg",AccuRadio French Pop:Les hommes franÃ§ais
+http://www.accuradio.com/pop_player/frenchpop/591/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/frequence-plus-169628-logo.jpg",Radio Fréquence Plus
+http://freqplus.ice.infomaniak.ch/freqplus-high.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-peltre-loisirs-169719-logo.jpg",Radio Peltre Loisirs
+http://91.121.62.121:9800/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-6-dunkerque-579644-logo.jpg",Radio 6 Dunkerque
+http://radio6-dunkerque.ice.infomaniak.ch/radio6-dunkerque-128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/metropole-radio-583832-logo.jpg",Métropole Radio
+http://stream.self-radio.com:10000/metropole
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-arrels-169870-logo.jpg",Radio Arrels
+http://stream.franclr.fr:8000/radioarrels
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-pays-169846-logo.jpg",Radio Pays
+http://195.154.9.30:8002/pays
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-ye-ye-584622-logo.jpg",Radio Yé-Yé!
+http://mediaradio.com/yeye1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/eole-588421-logo.jpg",Radio Eole
+http://213.186.61.62:8700/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/totem-lozere-169997-logo.jpg",Radio Totem Lozere
+http://aratotem.ice.infomaniak.ch/lozere.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/delta-fm-saint-omer-186482-logo.jpg",Radio Delta FM Saint-Omer
+http://deltafmsaintomer.ice.infomaniak.ch/deltafmsaintomer-high.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fip-170005-logo.jpg",Radio FIP
+http://direct.fipradio.fr/live/fip-midfi.mp3?ID=76zqey582k
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-pluriel-170042-logo.jpg",Radio Pluriel
+http://radiopluriel.ice.infomaniak.ch/radiopluriel-128.mp3

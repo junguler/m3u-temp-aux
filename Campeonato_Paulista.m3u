@@ -1,0 +1,10 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-cbn-campinas-182516-logo.jpg",Radio Rádio CBN (Campinas)
+http://ceb1.live.upx.net.br:8030/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-central-campinas-580043-logo.jpg",Radio Rádio Central (Campinas)
+http://20323.live.streamtheworld.com/RADIOCENTRAL_AMAAC_SC?DIST=TuneInu0026TGT=TuneInu0026maxServers=2u0026ua=RadioTimeu0026ttag=RadioTime
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-transamerica-sao-paulo-579779-logo.jpg",Radio Rádio Transamérica (São Paulo)
+http://transamerica.crossradio.com.br:9100/live.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-band-news-fm-sao-paulo-580009-logo.jpg",Radio Rádio Band News FM (São Paulo)
+https://evpp.mm.uol.com.br/band/bandnewsfm_sp/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/web-radio-verdao-587634-logo.jpg",Radio Web Rádio Verdão
+http://streaming09.hstbr.net:8062/live

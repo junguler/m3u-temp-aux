@@ -1,0 +1,16 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/shanghai-5-star-sports-radio-577145-logo.jpg",Shanghai 5-Star Sports Radio
+http://live-cdn1.smgbb.tv/channels/bbtv/audio_sport/flv:fm/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/shenzhen-i-radio-580658-logo.jpg",Shenzhen I Radio
+rtmp://live.s1979.com/s1979live/video/szr-4
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/xuzhou-economy-life-radio-581870-logo.jpg",Xuzhou Economy Life Radio
+http://qingting.fm/livechat/channels/4923
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/chinamerica-radio-582486-logo.jpg",Chinamerica Radio
+http://sc4.spacialnet.com:26814/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nanjing-my-fm-1035-583732-logo.jpg",Radio Nanjing My FM 103.5
+http://qingting.fm/livechat/channels/2769
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/huadu-radio-581798-logo.jpg",Huadu Radio
+http://qingting.fm/channels/1263
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/harbin-literature-and-arts-radio-581774-logo.jpg",Harbin Literature & Arts Radio
+http://112.124.31.188/10.161.148.247/live/3955/48.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sichuan-entertainment-radio-588918-logo.jpg",Sichuan Entertainment Radio
+http://218.30.13.60:8000/live_proxy_dll.dll?cmd=playu0026id=1012954900u0026start=2012-04-09_14:17:28u0026offset=0

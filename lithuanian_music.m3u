@@ -1,0 +1,6 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tau-182705-logo.jpg",Radio TAU
+http://www.tau.lt/tau.m3u
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/saules-radijas-171457-logo.jpg",Radio Saules Radijas
+http://saule-aac.vinlita.lt:8000/stream.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mazeikiu-aidas-170022-logo.jpg",Radio Mazeikiu aidas
+http://www.mazeikiuaidas.lt:8000/;

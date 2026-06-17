@@ -1,0 +1,8 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nossa-radio-usa-1260am-573771-logo.jpg",Nossa Radio USA 1260am
+https://ice41.securenetsystems.net/WBIX
+#EXTINF:-1 tv-logo="",Radio RTP 1
+http://www.rtp.pt/play/direto/rtp1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-leziria-581151-logo.jpg",Radio Rádio Lezíria
+http://213.136.92.8:8010/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-foz-do-mondego-581415-logo.jpg",Radio Rádio Foz Do Mondego
+http://s5.myradiostream.com:16356/;

@@ -1,0 +1,16 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/moodytech-radio-608362-logo.jpg",MoodyTech Radio
+http://188.165.212.154:8080/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-estacion95-598037-logo.jpg",Radio Estacion95
+http://sonando.us.digitalproserver.com/estacion95.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/decibel-station-club-sound-184715-logo.jpg",Radio Decibel Station - Club Sound
+http://www.decibel-station.fr:9000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/samuraifm-576721-logo.jpg",Radio Samurai.FM
+http://www.samurai.fm/player/index.php?id=0
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/raka-fm-586002-logo.jpg",Radio Raka FM
+http://stream.suararadio.com:8000/bandung_rakafm_stereo
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-33-progressive-589130-logo.jpg",Radio 33 Progressive
+http://radio33.org:8120/radio33
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/external-radio-589845-logo.jpg",External Radio
+http://listen.shoutcast.com/externalradio:9090
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hardmode-radio-590921-logo.jpg",Hardmode Radio
+http://188.138.1.52:22602/;

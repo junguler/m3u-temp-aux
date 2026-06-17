@@ -1,0 +1,6 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/super-rede-boa-vontade-sao-paulo-579903-logo.jpg",Radio Super Rede Boa Vontade (São Paulo)
+http://streamradio.boavontade.com/sp/live.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-band-news-fm-rio-580011-logo.jpg",Radio Rádio Band News FM (Rio)
+http://evpp.mm.uol.com.br/band/bandnewsfm_rj/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-hits-fm-macae-587010-logo.jpg",Radio Rádio Hits FM (Macaé)
+http://shout35.crossradio.com.br:14016/;

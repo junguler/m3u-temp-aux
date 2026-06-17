@@ -1,0 +1,8 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-transamerica-sao-paulo-579779-logo.jpg",Radio Rádio Transamérica (São Paulo)
+http://transamerica.crossradio.com.br:9100/live.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-band-news-fm-rio-580011-logo.jpg",Radio Rádio Band News FM (Rio)
+http://evpp.mm.uol.com.br/band/bandnewsfm_rj/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-band-news-fm-sao-paulo-580009-logo.jpg",Radio Rádio Band News FM (São Paulo)
+https://evpp.mm.uol.com.br/band/bandnewsfm_sp/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-transamerica-salvador-586038-logo.jpg",Radio Rádio Transamérica (Salvador)
+http://transamerica.crossradio.com.br:9128/1;

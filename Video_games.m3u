@@ -1,0 +1,10 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-localstrike-581399-logo.jpg",Radio LocalStrike
+http://streaming.localhost.net.ar:8100/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/the-spinning-stream-nintendo-music-radio-583345-logo.jpg",The Spinning Stream: Nintendo Music Radio
+http://s7.viastreaming.net:7030/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/all-games-radio-582410-logo.jpg",All Games Radio
+http://www.allgames.com:9500/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fragradio-584268-logo.jpg",FragRadio
+http://stream.fragradio.com:8000/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cvgmnet-588087-logo.jpg",Radio CVGM.net
+http://slacker.cvgm.net/cvgm128
