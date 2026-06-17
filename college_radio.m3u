@@ -1,0 +1,40 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wfdu-572837-logo.jpg",Radio WFDU
+http://amber.streamguys.com:4910/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ksmk-lp-575932-logo.jpg",Radio KSMK-LP
+http://ksmk.org:8000/radio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wppj-569172-logo.jpg",Radio WPPJ
+http://167.88.241.163:8000/listen1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wwpt-571100-logo.jpg",Radio WWPT
+http://amber.streamguys.com:5640/MP3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wnyo-889fm-570159-logo.jpg",Radio WNYO 88.9FM
+http://us5.internet-radio.com:8295/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-web-uprh-184410-logo.jpg",Radio Web UPRH
+http://radioweb-envivo.uprh.edu:8000/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wzip-571292-logo.jpg",Radio WZIP
+http://www.elasticplayer.xyz/wzip/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/krvs-radio-acadie-887-567520-logo.jpg",KRVS Radio Acadie 88.7
+http://17253.live.streamtheworld.com:3690/KRVSFM_SC?DIST=TuneInu0026TGT=TuneInu0026maxServers=2u0026tdtok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6ImZTeXA4In0.eyJpc3MiOiJ0aXNydiIsInN1YiI6I
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cfou-157715-logo.jpg",Radio CFOU
+http://132.209.25.7:5050/broadwave.mp3?src=1u0026rate=1u0026ref=
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/2ser-569960-logo.jpg",Radio 2SER
+http://138.25.219.25:840/2ser128.MP3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-universidad-de-guadalajara-569607-logo.jpg",Radio Universidad de Guadalajara
+http://148.202.165.7:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cr-944-569490-logo.jpg",Radio CR 94.4
+http://www.cr944.at:8000/cr944
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wunh-durham-913fm-570917-logo.jpg",Radio WUNH-Durham, 91.3FM
+http://s9.viastreaming.net:9000/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-412-592430-logo.jpg",Radio 412
+http://stream.mjoy.ua:8000/radio-412-aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tstu-jazz-172473-logo.jpg",Radio TSTU Jazz
+http://radio.tstu.edu.ua:8000/jazz
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radioecoit-186803-logo.jpg",radioeco.it
+http://listen.radioeco.it:8000/outdoor.ogg
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kgrg1-574353-logo.jpg",Radio KGRG1
+http://www.ophanim.net:7080/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uagm-radio-629007-logo.jpg",UAGM Radio
+http://68.235.35.243:9041/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wiit-573191-logo.jpg",Radio WIIT
+http://216.47.133.68:8000/WIITstream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wtul-new-orleans-570879-logo.jpg",Radio WTUL New Orleans
+http://129.81.156.83:8000/stream

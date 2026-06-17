@@ -1,0 +1,36 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-backstuw-radio-daun-logo.jpg",Backstuw Radio Daun
+https://stream.laut.fm/backstuw-radio-daun
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-studio-mix-esportes-logo.jpg",Radio Studio Mix Esportes
+https://stm002.smghosting.com.br:7482/stream/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-classic-rock-radio-softrock-logo.jpg",Classic Rock Radio - Softrock
+https://internetradio.salue.de:8443/channel12
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cr-antena-joven-cr-logo.jpg",Radio Antena Joven CR
+https://a3.asurahosting.com/hls/antena_joven_cr/live.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-majic-online-radio-logo.jpg",Majic Online Radio
+https://cast1.asurahosting.com/proxy/majiconlineradio/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-wsns-songwriters-soul-and-solid-gold-logo.jpg",Radio WSNS: Songwriters, Soul, and Solid Gold
+https://streaming.live365.com/a77838
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-smooth-jazz-1079-logo.jpg",Radio Smooth Jazz 107.9
+https://playerservices.streamtheworld.com/api/livestream-redirect/WAVV_HD2AAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-rsa-live-chemnitz-logo.jpg",Radio R.SA Live Chemnitz
+https://rsa.streamabc.net/regc-rsalivesnchm-mp3-192-5259305
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-rsa-live-dresden-logo.jpg",Radio R.SA Live Dresden
+https://rsa.streamabc.net/regc-rsalivesnddn-mp3-192-4941659
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-logica-fm-logo.jpg",Radio Lógica FM
+https://fm.logicaweb.top:8000/hifi
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-mirage-web-radio-logo.jpg",Mirage Web Radio
+https://fm.logicaweb.top:8020/hifi
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-soft-logo.jpg",Radio Soft
+https://srv1.braudio.com.br:7292/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/in-easy-dr-hook-logo.jpg",Radio Easy Dr Hook
+https://streaming.exclusive.radio/uber/easydrhook/icecast.audio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/soft-tracks-585835-logo.jpg",Radio Soft Tracks
+http://198.105.216.204:8200/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/magic-fm-romania-160536-logo.jpg",Radio Magic FM - Romania
+http://live.kissfm.ro:9128/magicfm.aacp
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/soft-1039-580972-logo.jpg",Radio Soft 103.9
+http://castanet.leanstream.co/CKOOFM-MP3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/easy-991-570320-logo.jpg",Radio Easy 99.1
+http://17523.live.streamtheworld.com:3690/WPLMFMAAC_SC?DIST=TuneInu0026TGT=TuneInu0026maxServers=2u0026tdtok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6ImZTeXA4In0.eyJpc3MiOiJ0aXNydiIsInN1YiI6I
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/easy-rock-paradise-594610-logo.jpg",Radio Easy Rock Paradise
+http://78.129.227.10:8262/;

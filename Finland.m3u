@@ -1,0 +1,14 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fi-finnradiofm-logo.jpg",FinnRadio.FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R4296648.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fi-druzifi-logo.jpg",Radio drUzi.fi
+https://radiodruzi.online:8443/druzi.fi
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fi-las-pegasus-radio-logo.jpg",Las Pegasus Radio
+https://icecast.laspegas.us/ari
+#EXTINF:-1 tv-logo="",Radio HitMix Kuopio
+http://hel2-77-86-247-184.ext.nebulacloud.fi:8000/kuopio
+#EXTINF:-1 tv-logo="",Radio HitMix Kuopio
+http://hel2-77-86-247-184.ext.nebulacloud.fi:8000/kuopio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/jarviradio-159972-logo.jpg",Järviradio
+http://radio2.6net.fi:8000/jarviradio2
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/jarviradio-159972-logo.jpg",Järviradio
+http://radio2.6net.fi:8000/jarviradio2

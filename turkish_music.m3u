@@ -1,0 +1,20 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mersin-fm-157992-logo.jpg",Radio MERSIN FM
+http://stream.taksimbilisim.com:8038/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/zara-fm-161119-logo.jpg",Radio Zara FM
+http://sunucu.radyodinle.com:8150/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bozkurtlar-fm-154376-logo.jpg",Radio Bozkurtlar Fm
+http://bozkurtlarfm.canliyayinda.com:4040/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/slow-radyo-589522-logo.jpg",Radio Slow Radyo
+http://yayindaslowradyo.net:5050/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fenomen-turk-604223-logo.jpg",Radio Fenomen Turk
+http://fenomenturk.listenfenomen.com/fenomenturk/128/icecast.audio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/askturk-radyo-634030-logo.jpg",Radio AskTurk Radyo
+http://95.211.206.18/Stream7
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/atlantis-fm-164973-logo.jpg",Radio Atlantis Fm
+http://live4.radyotvonline.com:9400/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kral-pop-158946-logo.jpg",Radio KRAL POP
+http://kralpopwmp.radyotvonline.com/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/konya-genc-fm-185626-logo.jpg",Radio KONYA GENÇ FM
+http://yayin.turkhosted.com:6030/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radyo-gencebay-588943-logo.jpg",Radio Radyo Gencebay
+http://46.228.199.31:8000/;

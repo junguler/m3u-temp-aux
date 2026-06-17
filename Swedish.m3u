@@ -1,0 +1,20 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-sverigekanalen-direkt-logo.jpg",Radio Sverigekanalen Direkt
+http://109.169.23.84:26778/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-sverigekanalen-mix2-logo.jpg",Radio Sverigekanalen Mix2
+http://uk22freenew.listen2myradio.com:24232/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-sverigekanalen-livekanal-logo.jpg",Radio Sverigekanalen Livekanal
+http://78.129.241.110:7445/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ch-radio-schlagertime-logo.jpg",Radio SchlagerTime
+https://stream.laut.fm/schlagertime
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ch-podkastfm-logo.jpg",Radio Podkast.FM
+https://podkastfm.ice.infomaniak.ch/podkastfm-128.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-iranzamin-logo.jpg",Radio Iranzamin
+https://stream.radiojar.com/rhrpk4s474uvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-iptn-live-logo.jpg",Radio iptn live
+https://stream2.svrdedicado.org:7252/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ch-radio-sintonia-logo.jpg",Radio Sintonia
+https://tonyvendas.top/8586/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-blackcomb-radio-logo.jpg",Blackcomb Radio
+https://cast6.asurahosting.com/proxy/mikael/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-scandinavian-albania-radio-logo.jpg",Scandinavian Albania Radio
+https://streaming.shoutcast.com/skandinavian-albania-radio

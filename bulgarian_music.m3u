@@ -1,0 +1,6 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tatkovina-588842-logo.jpg",Radio Tatkovina
+http://www.tatkovina.eu:8000/bg
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sky-radio-bulgaria-568627-logo.jpg",Sky Radio Bulgaria
+http://93.152.140.225:8000/stream/6/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radyo-varna-631553-logo.jpg",Radio Radyo Varna
+http://server.radyovarna.com:2010/;

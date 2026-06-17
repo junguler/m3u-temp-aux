@@ -1,0 +1,18 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/signal-fm-162801-logo.jpg",Radio Signal FM
+http://stream.zenolive.com/ev0nn2awb84tv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/franceinfo-568782-logo.jpg",Radio franceinfo
+http://direct.franceinfo.fr/live/franceinfo-lofi.mp3?ID=76zqey582k
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tendance-ouest-157975-logo.jpg",Radio Tendance Ouest
+http://streaming.tendanceouest.com/tomanche.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-freedom-fm-159138-logo.jpg",Radio Freedom FM
+http://freedomice.streamakaci.com/freedom.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-yaguana-fm-591628-logo.jpg",Radio Yaguana FM
+http://s1.nexuscast.com:8200/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-jupiter-plus-578818-logo.jpg",Radio Jupiter Plus
+http://ca.radioboss.fm:8213/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/replay-news-577726-logo.jpg",Radio Replay News
+http://replaynews.ice.infomaniak.ch/replaynews-192.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rmc-169991-logo.jpg",Radio RMC
+http://rmc.bfmtv.com/rmcinfo-mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radyo-levekanpe-157438-logo.jpg",Radio Radyo LeveKanpe
+http://sitegenial.com:8004/;

@@ -1,0 +1,8 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rathergood-radio-582795-logo.jpg",Rathergood Radio
+http://audio.viewtvgroup.com:7210/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/spreeradio-2000er-649358-logo.jpg",Spreeradio 2000er
+http://stream.spreeradio.de/2000er/mp3-128/tunein/
+#EXTINF:-1 tv-logo="",Radio NRJ 00's
+http://broadcast.infomaniak.net:80/energy00s-high.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sky-radio-00s-hits-611599-logo.jpg",Sky Radio 00's Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR06AAC.aac?dist=tunein

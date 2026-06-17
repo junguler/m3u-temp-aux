@@ -1,0 +1,34 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/1a-modern-rock-630717-logo.jpg",Radio 1A Modern Rock
+https://stream.1a-webradio.de/saw-mrock/aac-48/tunein/stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/spreeradio-deutsch-649356-logo.jpg",Spreeradio Deutsch
+http://stream.spreeradio.de/deutsch/aac-64/tunein/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-ingolstadt-radio-in-579643-logo.jpg",Radio Ingolstadt (Radio IN)
+http://4broadcast.de:8300/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-blau-578203-logo.jpg",Radio Blau
+http://stream.radioblau.de/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rautemusikfm-partyhits-619854-logo.jpg",Radio RauteMusik.FM PartyHits
+http://partyhits-high.rautemusik.fm/stream.mp3?ref=tunein
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rautemusikfm-oriental-584563-logo.jpg",Radio RauteMusik.FM Oriental
+http://oriental-aacp.rautemusik.fm?ref=tunein/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/punkerwelle-598996-logo.jpg",Radio Punkerwelle
+http://87.98.217.63:23406/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dj-mag-germany-radio-by-iloveradiode-649213-logo.jpg",DJ Mag Germany Radio by iloveradio.de
+http://stream02.iloveradio.de/iloveradio4.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-arabella-munchen-582592-logo.jpg",Radio Arabella München
+http://live.radioarabella.de/stream.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/primaton-578208-logo.jpg",Radio PRIMATON
+http://mp3ad.primaton.c.nmdn.net/primaton/livestream4hi.mp3?ar-distributor=f0b7
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-confusion-174131-logo.jpg",Radio Confusion
+http://stream.radio-confusion.de:9210/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-imperial-fm-163419-logo.jpg",Radio Imperial FM
+http://01.stmip.net:7904/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/energy-relax-638952-logo.jpg",Radio Energy Relax
+http://energyrelax.ice.infomaniak.ch/energyrelax-high.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/12punksfm-593432-logo.jpg",Radio 12punks.FM
+http://12punks-high.rautemusik.fm/stream.mp3?ref=tunein
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ndr-90-3-567723-logo.jpg",Radio NDR 90,3
+http://addrad.io/4WRJv3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gq-waves-647538-logo.jpg",Radio GQ Waves
+http://149.210.172.183:8012/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hcjb-deutschland-591016-logo.jpg",Radio HCJB Deutschland
+http://www.segenswelle.de:8000/hcjb

@@ -1,0 +1,16 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/family-radio-radio-316-169697-logo.jpg",Family Radio - Radio 316
+http://tx.sharp-stream.com/icecast.php?i=familymedia.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/moody-radio-chicago-573712-logo.jpg",Moody Radio Chicago
+http://primary.moodyradiostream.org/wmbifm.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rjl-radio-597707-logo.jpg",RJL Radio
+http://51.15.166.181:8002/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/moody-radio-florida-573421-logo.jpg",Moody Radio Florida
+http://209.62.16.60:80/wkes.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/veda-radio-180056-logo.jpg",Radio Веда-радио
+http://listen.vedaradio.fm:8000/verylow
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/life-and-spirit-radio-588029-logo.jpg",Life and Spirit Radio
+http://192.99.41.102:5270/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/out-of-sightnet-radio-647042-logo.jpg",Out-Of-Sight.net Radio
+http://streaming.live365.com/a21790
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bucks-scout-radio-649072-logo.jpg",Bucks Scout Radio
+http://37.187.93.104:8127/stream

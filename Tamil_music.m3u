@@ -1,0 +1,10 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/atbc-australias-tamil-radio-173467-logo.jpg",ATBC - Australia's Tamil Radio
+http://s7.viastreaming.net:7920/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/slbc-tamil-national-service-576218-logo.jpg",Radio SLBC Tamil National Service
+http://220.247.227.6:8000/Tnsstream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/vaanamfm-646196-logo.jpg",Radio VaanamFM
+http://europa.shoutca.st:8106/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/oli-fm-163455-logo.jpg",Radio Oli FM
+http://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FMAAC.aac?tdtok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6ImZTeXA4In0.eyJpc3MiOiJ0aXNydiIsInN1YiI6IjIxMDY0IiwiaWF0IjoxNTY4OTk4MjMyLCJ0ZC1yZWciOmZhbHNlfQ.iP5TkFtLC27P_YfUdbcHz7RT3wiptkK7g_sxDika1cc
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/iyalisai-devotional-605774-logo.jpg",Radio iYaliSai Devotional
+https://mhariraa.radioca.st/aac64

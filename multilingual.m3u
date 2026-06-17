@@ -1,0 +1,6 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/unity-101-community-radio-576293-logo.jpg",Unity 101 Community Radio
+http://icecast.commedia.org.uk:8000/unity24.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bbc-afrique-576816-logo.jpg",Radio BBC Afrique
+http://bbcwsradio-lh.akamaihd.net/i/WSFRENA_1@189890/master.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-la-vida-catalan-162581-logo.jpg",Radio La Vida -  Catalan
+http://98.142.109.211:8007/live?1456526233420.mp3
