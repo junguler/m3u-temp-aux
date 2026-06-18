@@ -1,0 +1,14 @@
+#EXTINF:-1 tv-logo="",Kiev Radio USA
+http://stream.kievradio.com:8000/;
+#EXTINF:-1 tv-logo="",Radio Rock Solide FM
+http://live.mcrmedia.net:9002/rock.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/995-kadi-573888-logo.jpg",Radio 99.5 KADI
+http://radio.securenetsystems.net/radio_player_large.cfm?stationCallSign=KADIFM
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/air-1-573936-logo.jpg",Radio Air 1
+http://emf.mp3.dpa.miisolutions.net/air1_high-01
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/burning-dog-fm-575960-logo.jpg",Radio Burning Dog FM
+http://www.jfbelievers.com/jesusfellowshipaudiostream.htm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cfsh-fm-579560-logo.jpg",Radio CFSH-FM
+http://knight.wavestreamer.com:3942/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/spirit-toc-584478-logo.jpg",Radio Spirit TOC
+http://radio.wow.net.id:8100/;

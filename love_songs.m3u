@@ -1,0 +1,16 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/romantic-fm-157090-logo.jpg",Radio ROMANTIC FM
+http://live.romanticfm.ro:8002/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/capital-maxima-979-piedras-negras-579031-logo.jpg",Radio Capital Máxima 97.9 Piedras Negras
+http://playerservices.streamtheworld.com/api/livestream-redirect/XHMJAAC.aac?tdtok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6ImZTeXA4In0.eyJpc3MiOiJ0aXNydiIsInN1YiI6IjIxMDY0IiwiaWF0IjoxNTY4OTY0NjgxLCJ0ZC1yZWciOmZhbHNlfQ.h1o2uyh-CtqAV5t1n5l62Jb_FPSUN3qsKw0Yb_Dv9Hk
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kardia-95-fm-580526-logo.jpg",Radio Kardia 95 FM
+http://cast3.radiohost.ovh:8146/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/music-life-580604-logo.jpg",Radio Music Life
+http://213.239.206.179:9501/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-sun-love-romania-582419-logo.jpg",Radio Sun Love Romania
+http://live.radiosun.ro/sunlove
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-tiempo-cali-584108-logo.jpg",Radio Tiempo (Cali)
+http://master.letio.com/getMD.aspx?gs=9164u0026streamType=iceDirectAACu0026redir=1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/loungefm-wien-584112-logo.jpg",Radio LoungeFM Wien
+http://188.138.9.183/lounge-at.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/love-radio-93fm-585656-logo.jpg",Love Radio 93FM
+http://onair.onair.network:8066/;

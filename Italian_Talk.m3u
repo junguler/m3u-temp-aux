@@ -1,0 +1,12 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rai-r1-estero-571647-logo.jpg",Radio RAI R1 Estero
+http://icestreaming.rai.it/8.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-insieme-576571-logo.jpg",Radio Insieme
+http://streaming2.gheri.it:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-voce-inblu-579359-logo.jpg",Radio Voce-inBlu
+http://www.radiovoce.it/streaming2.html
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/milan-inter-radio-tv-579519-logo.jpg",Milan Inter Radio Tv
+http://91.121.222.160:1935/milaninter/milaninter.sdp/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rumore-web-radio-584955-logo.jpg",Rumore Web Radio
+http://broadcaster-radio.unimore.it:8000/rumore.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/seven-radio-585059-logo.jpg",Seven Radio
+http://www.sevenradio.it/diretta

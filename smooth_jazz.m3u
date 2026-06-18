@@ -1,0 +1,40 @@
+#EXTINF:-1 tv-logo="",Radio WHJZDB.NET
+http://whjzdb.net:8002/stream/2/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/love-94-619563-logo.jpg",Radio Love 94
+http://199.189.86.43/proxy/love94?mp=/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/jazzspirations-620811-logo.jpg",Radio Jazzspirations
+http://streaming.radio.co:80/s2fabc9a78/listen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/smooth-jazz-radio-cafe-621267-logo.jpg",Smooth Jazz Radio Cafe
+http://bluford.torontocast.com:8467/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/the-funky-moth-624318-logo.jpg",Radio The Funky Moth
+http://listen.spacial.com/api/listen/?sid=72978u0026method=sc
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/deep-pockets-jazz-632144-logo.jpg",Radio Deep Pockets Jazz
+http://ais-sa2.cdnstream1.com/1575_128
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tap-the-mic-radio-635625-logo.jpg",Tap the Mic Radio
+http://psn3.prostreaming.net:8324/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wjsj-jazz-sweet-jazz-636341-logo.jpg",Radio WJSJ JAZZ SWEET JAZZ
+http://50.7.99.155:12257/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mustbe5-radio-636813-logo.jpg",mustbe5 Radio
+http://stream.radio.co:80/sf2ed5928f/listen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/jazz-bay-radio-639351-logo.jpg",Jazz Bay Radio
+http://icecast01.loudcaster.com:80/803.32.aac
+#EXTINF:-1 tv-logo="",Radio Da Boom Box
+http://s40.myradiostream.com:16672/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sky-one-o-five-646698-logo.jpg",Radio sky One O Five
+http://thassos.cdnstream.com:5146/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/my-jazzy-blue-648746-logo.jpg",Radio My Jazzy Blue
+http://s6.total-streaming.com:9888/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/r-thailand-880-571557-logo.jpg",Radio R Thailand 88.0
+http://prdonline.prd.go.th:8200/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/soulful-smooth-jazz-radio-576724-logo.jpg",Soulful Smooth Jazz Radio
+http://50.7.53.2/SoulfulSmoothJazz_hi.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/accuradio-textures-textures-579099-logo.jpg",AccuRadio Textures: Textures
+http://www.accuradio.com/pop_player/textures/46/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/accuradio-smooth-jazz-smooth-groove-579113-logo.jpg",AccuRadio Smooth Jazz : Smooth Groove
+http://www.accuradio.com/pop_player/smoothjazz/561/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cool-med-radio-579972-logo.jpg",Cool Med Radio
+http://176.31.107.8:8590/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/blues-jazz-radio-585411-logo.jpg",Blues Jazz Radio
+http://r2.radioloyalty.net/lmjc2391
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wave-fm-585558-logo.jpg",Radio Wave FM
+https://17833.live.streamtheworld.com/CIWVFM_SC?DIST=TuneInu0026TGT=TuneInu0026maxServers=2u0026ua=RadioTimeu0026ttag=RadioTime

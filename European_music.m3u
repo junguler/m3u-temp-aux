@@ -1,0 +1,10 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-latinica-173900-logo.jpg",Radio Latinica
+http://208.87.25.4:8002/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cro-pardubice-575889-logo.jpg",Radio CRo Pardubice
+http://icecast1.play.cz/cropardubice64.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rtv-logo-578005-logo.jpg",Radio RTV LOGO
+http://icecast.radiowesterwolde.nl:8000/G1_RTVLOGO
+#EXTINF:-1 tv-logo="",kohviradio
+http://kohviradio.com:8080/kohviradio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/plus-u-radio-585748-logo.jpg",Plus U Radio
+http://cast4.magicstreams.gr:10064/live

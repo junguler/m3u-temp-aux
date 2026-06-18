@@ -1,0 +1,14 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/olimpica-fm-valledupar-580058-logo.jpg",Radio Olímpica FM (Valledupar)
+http://www.olimpicastereo.com.co/en-vivo/escuchenos-en-vivovalledupar.html
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/olimpica-fm-cucuta-580060-logo.jpg",Radio Olímpica FM (Cúcuta)
+http://www.olimpicastereo.com.co/en-vivo/escuchenos-en-vivocucuta.html
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/olimpica-fm-monteria-580062-logo.jpg",Radio Olímpica FM (Montería)
+http://master.letio.com/io/?gs=9112u0026type=live.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-fundinguecom-581256-logo.jpg",Radio Fundingue.com
+http://icecast.vpsradio.com/fundingue.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/la-voz-de-los-robles-1490-581281-logo.jpg",Radio La Voz de Los Robles 1490
+http://radio.lavozdelosrobles.com:8200/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-uno-santa-marta-585910-logo.jpg",Radio Uno (Santa Marta)
+http://live.rcnmundo.com/radiounosantamarta.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-uno-monteria-585912-logo.jpg",Radio Uno (Monteria)
+http://live2.rcnmundo.com/radiounomonteria.mp3

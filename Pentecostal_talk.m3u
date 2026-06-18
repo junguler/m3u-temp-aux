@@ -1,0 +1,10 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/emisora-louisiana-620616-logo.jpg",Radio EMISORA LOUISIANA
+http://209.133.216.3:7324/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-bajo-el-poder-de-dios-622443-logo.jpg",Radio Bajo el Poder de Dios
+http://142.4.216.91:8292/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-la-senda-de-bendicion-628935-logo.jpg",Radio La Senda De Bendicion
+http://209.133.216.3:7582/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ipda-radio-deus-e-amor-acre-583135-logo.jpg",Radio IPDA - Rádio Deus é Amor (Acre)
+http://14943.live.streamtheworld.com:3690/AC_RADIOONLINEAAC_SC?DIST=TuneInu0026TGT=TuneInu0026maxServers=2u0026ua=RadioTimeu0026ttag=RadioTime
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/elim-pentecostal-tabernacle-583825-logo.jpg",Radio Elim Pentecostal Tabernacle
+http://radioeast.no-ip.org:4010/;

@@ -1,0 +1,16 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radyo-best-173213-logo.jpg",Radio Radyo Best
+http://yayin1.yayindakiler.com:3100/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/trt-haber-tv-571667-logo.jpg",Radio TRT Haber TV
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/semazen-radio-577023-logo.jpg",Semazen Radio
+http://50.7.240.146:8320/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/anadolu-tv-580321-logo.jpg",Radio Anadolu TV
+http://www.trt.net.tr/Anasayfa/canli.aspx?y=tvu0026k=trtanadolu
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/canal-d-580528-logo.jpg",Radio Canal D
+http://www.kanald.com.tr/Canli/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kanal-e-radio-580968-logo.jpg",Kanal E Radio
+http://www.bizidinle.com/player/radyoplayer.asp?rd=23
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/shaber-radyo-581242-logo.jpg",Radio Shaber Radyo
+http://www.kure.tv/samanyolu-haber-radyo/Canli-yayin-izle/6/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-mit-585844-logo.jpg",RADIO MIT
+http://www.radioking.fr/play/radiomit

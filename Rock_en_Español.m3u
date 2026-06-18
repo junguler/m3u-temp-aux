@@ -1,0 +1,20 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rafaga-fm-618061-logo.jpg",Radio Rafaga FM
+http://janus.cdnstream.com:5511/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/global-system-radio-630554-logo.jpg",Global System Radio
+http://94.23.6.53:8632/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ciudad-reina-634432-logo.jpg",Radio Ciudad Reina
+http://srv2.radiohd.mx:7350/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/miradiofmus-647414-logo.jpg",Miradiofm.us
+http://192.184.9.158:9161/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-710-am-ciudad-de-mexico-571353-logo.jpg",Radio 710 AM Ciudad de México
+http://imer-edge1.cdnstream.com/1505_64?cb=467909.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/imagen-queretaro-579010-logo.jpg",Radio Imagen Querétaro
+http://radio.alphamx.net:8070/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/la-zeta-1075-fm-579175-logo.jpg",Radio La Zeta 107.5 FM
+http://17393.live.streamtheworld.com/XHVOZ_FMAAC_SC?DIST=TuneInu0026TGT=TuneInu0026maxServers=2u0026tdtok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6ImZTeXA4In0.eyJpc3MiOiJ0aXNydiIsInN1YiI6I
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/city-rock-582652-logo.jpg",Radio City Rock
+http://st.produccionesdha.com:9998/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/punto-de-fe-radio-584124-logo.jpg",Punto De Fe Radio
+http://eu2.fastcast4u.com/proxy/puntodef?mp=/1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tlalox-radio-585904-logo.jpg",Tlalox Radio
+http://206.190.131.100:9998/;

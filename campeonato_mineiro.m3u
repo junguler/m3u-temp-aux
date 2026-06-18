@@ -1,0 +1,8 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-clube-98-582573-logo.jpg",Radio Rádio Clube 98
+http://srv05.brasilstream.com.br:9061/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-globo-juiz-de-fora-583614-logo.jpg",Radio Rádio Globo (Juiz de Fora)
+http://r13.ciclano.io:8366/stream.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-transamerica-belo-horizonte-586039-logo.jpg",Radio Rádio Transamérica (Belo Horizonte)
+http://transamerica.crossradio.com.br:9136/live.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-itatiaia-fm-sul-de-minas-586967-logo.jpg",Radio Rádio Itatiaia FM (Sul de Minas)
+http://radio2.fitcloud.com.br:8422/stream.aac

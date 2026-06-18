@@ -1,0 +1,20 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cgbc-155817-logo.jpg",Radio CGBC
+http://radio.cgbc.org:8000/2
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/best-radio-575849-logo.jpg",Best Radio
+http://hichannel.hinet.net/player/radio/index.jsp?radio_id=212
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nertt-576119-logo.jpg",Radio NERTT
+http://streaming.ner.gov.tw/live/2/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ankang-traffic-tourism-and-music-radio-579750-logo.jpg",Ankang Traffic Tourism & Music Radio
+http://112.124.64.189/10.200.118.50/live/2685673/24.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/guangzhou-auto-and-music-radio-580693-logo.jpg",Guangzhou Auto & Music Radio
+http://www.fifm.us/r/radio7693.htm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/anhui-myfm-581767-logo.jpg",Radio Anhui MyFM
+http://115.28.48.50/10.161.61.219/live/4838/24.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/xian-myfm-581841-logo.jpg",Radio Xi'an MyFM
+http://119.188.72.39:8000/live_proxy_dll.dll?cmd=playu0026id=976467760
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/zhenjiang-music-radio-581875-logo.jpg",Zhenjiang Music Radio
+http://qingting.fm/livechat/channels/4605
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/baotou-entertainment-radio-582949-logo.jpg",Baotou Entertainment Radio
+http://115.28.162.19/10.129.53.165/live/1891/24.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/guangzhou-youth-radio-583823-logo.jpg",Guangzhou Youth Radio
+http://qingting.fm/channels/20194

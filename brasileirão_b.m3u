@@ -1,0 +1,8 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-pelotense-172153-logo.jpg",Radio Rádio Pelotense
+http://suaradio2.dyndns.ws:10082/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-cmn-579944-logo.jpg",Radio Rádio CMN
+http://ice44f.crossradio.com.br:14014/1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-cbn-am-fortaleza-585934-logo.jpg",Radio Rádio CBN AM (Fortaleza)
+https://srv6.zoeweb.tv:1935/z411-live/stream/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-transamerica-belo-horizonte-586039-logo.jpg",Radio Rádio Transamérica (Belo Horizonte)
+http://transamerica.crossradio.com.br:9136/live.aac

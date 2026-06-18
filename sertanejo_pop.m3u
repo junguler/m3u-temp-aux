@@ -1,0 +1,70 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-imigrantes-fm-usa-620085-logo.jpg",Radio Imigrantes FM USA
+http://servidor26.brlogic.com:8186/live?type=.stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-florida-brazil-621227-logo.jpg",Radio Florida Brazil
+http://142.44.217.210:9828/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-sertaneja-fm-576995-logo.jpg",Radio Rádio Sertaneja FM
+http://caikron.com.br:1935/sertaneja/sertaneja.sdp/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-band-fm-sao-jose-do-rio-preto-577273-logo.jpg",Radio Rádio Band FM (São José do Rio Preto)
+http://stream2.painel-stm.com:7284/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-band-fm-pouso-alegre-577271-logo.jpg",Radio Rádio Band FM (Pouso Alegre)
+https://s24.maxcast.com.br:8108/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-band-fm-criciuma-577269-logo.jpg",Radio Rádio Band FM (Criciúma)
+http://rrdns-rcr.webnow.com.br/band.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-band-fm-vitoria-da-conquista-577277-logo.jpg",Radio Rádio Band FM (Vitória da Conquista)
+http://bandfm991.flashplayer.acessaradios.com.br:8004/bandfm991
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-alegria-porto-alegre-578255-logo.jpg",Radio Rádio Alegria (Porto Alegre)
+http://stream.ouveai.com.br:8061/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-massa-fm-blumenau-578360-logo.jpg",Radio Rádio Massa FM (Blumenau)
+https://ice.fabricahost.com.br/massafmblumenau
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-nativa-fm-adamantina-580032-logo.jpg",Radio Rádio Nativa FM (Adamantina)
+http://149.56.38.172:9330/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-massa-fm-ponta-grossa-580112-logo.jpg",Radio Rádio Massa FM (Ponta Grossa)
+https://ice.fabricahost.com.br/massafmpontagrossa
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-treze-de-maio-fm-580124-logo.jpg",Radio Rádio Treze de Maio Fm
+http://www.trezefm.com/
+#EXTINF:-1 tv-logo="",Radio Rádio Menina
+http://206.51.228.226:9948/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/super-radiopatos-fm-582541-logo.jpg",Super RadioPatos FM
+http://stm1.painelcast.com:7048/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/zonadez-radio-582609-logo.jpg",Radio ZONADEZ Rádio
+http://104.131.72.92:8012/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-3-colinas-fm-582798-logo.jpg",Radio Rádio 3 Colinas FM
+http://144.217.192.144:8004/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-nativa-fm-pocos-de-caldas-582882-logo.jpg",Radio Rádio Nativa FM (Poços de Caldas)
+http://69.162.122.42:8264/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-band-fm-lages-583415-logo.jpg",Radio Rádio Band FM (Lages)
+http://65.182.104.113:10220/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-band-fm-florianopolis-583414-logo.jpg",Radio Rádio Band FM (Florianópolis)
+http://sysrad.net:10090/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-massa-fm-tubarao-583412-logo.jpg",Radio Rádio Massa FM (Tubarão)
+http://c2.fabricahost.com.br:8057/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-massa-fm-cacoal-583422-logo.jpg",Radio Rádio Massa FM (Cacoal)
+https://ice.fabricahost.com.br/massafmcacoal
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-band-fm-cuiaba-583464-logo.jpg",Radio Rádio Band FM (Cuiabá)
+http://zoeweb.net:8010/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-mantiqueira-am-583574-logo.jpg",Radio Rádio Mantiqueira AM
+http://stream.hostpg.com.br:8132/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-massa-fm-curitiba-583616-logo.jpg",Radio Rádio Massa FM (Curitiba)
+https://ice.fabricahost.com.br/massafmcuritiba
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-explosao-fm-583765-logo.jpg",Radio Rádio Explosão FM
+http://radio01.logicahost.com.br:8387/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-t-irati-583854-logo.jpg",Radio Rádio T (Irati)
+https://wz1.dnip.com.br/radiotaacp/radiotaacp.stream/chunklist_w1517138991.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-nova-fm-sertaneja-585397-logo.jpg",Radio Rádio Nova FM Sertaneja
+https://radio.jmvstream.com:8536/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-sim-fm-vitoria-586977-logo.jpg",Radio Rádio SIM FM (Vitória)
+http://stm7.painelvox.com:8136/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-massa-fm-litoral-587013-logo.jpg",Radio Rádio Massa FM (Litoral)
+http://c2.fabricahost.com.br:8041/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-massa-fm-maringa-587011-logo.jpg",Radio Rádio Massa FM (Maringá)
+http://c2.fabricahost.com.br:8020/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-nativa-fm-sao-jose-do-rio-preto-587258-logo.jpg",Radio Rádio Nativa FM (São José do Rio Preto)
+https://wz5.dnip.com.br/nativariopreto/nativariopreto.stream/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-top-fm-bauru-587272-logo.jpg",Radio Rádio Top FM (Bauru)
+https://ice.fabricahost.com.br/topfmbauru
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-top-fm-sorocaba-587273-logo.jpg",Radio Rádio Top FM (Sorocaba)
+http://cloud1.cdnseguro.com:16806/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-sucesso-jatai-587274-logo.jpg",Radio Rádio Sucesso (Jataí)
+http://ice2.fabricahost.com.br:8044/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-sucesso-fm-salvador-587275-logo.jpg",Radio Rádio Sucesso FM (Salvador)
+http://live.dgradios.com/sucessofmsalvador

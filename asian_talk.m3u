@@ -1,0 +1,10 @@
+#EXTINF:-1 tv-logo="",KDX Worldround Radio
+http://24.178.243.236:8004/;
+#EXTINF:-1 tv-logo="",Radio Patriot Outlaws
+http://206.190.136.212:2653/Live
+#EXTINF:-1 tv-logo="",Radio Exclisiva
+http://192.99.170.8:5402/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nerch-576115-logo.jpg",Radio NERCH
+rtmp://streaming.ner.gov.tw/live/7/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cmr-577780-logo.jpg",Radio CMR
+http://live.cmr24.net:8081/CMR/CMR-HQ/icecast.audio

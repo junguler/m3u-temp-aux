@@ -1,0 +1,14 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/russian-radio-dlia-detei-631463-logo.jpg",Russian Radio Dlia Detei
+http://66.117.160.106:7700/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/baby-radio-172137-logo.jpg",Baby Radio
+http://poznan4-1.radio.pionier.net.pl:8000/babyradio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tubafm-radio-zyrafa-172631-logo.jpg",Tuba.FM - Radio Zyrafa
+http://stream5.radioagora.pl/tuba21-1.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/disney-channel-web-radio-avec-nrj-179567-logo.jpg",Disney Channel Web Radio avec NRJ
+http://vipicecast.yacast.net/nrj_by_disney_64
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kinderradio-fm-577937-logo.jpg",Kinderradio FM
+http://kinderradio.ic-stream.nl:30039/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pro-fm-kids-581606-logo.jpg",Radio Pro FM Kids
+http://stream.profm.ro:8262/kids.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/arion-kids-584520-logo.jpg",Radio Arion Kids
+http://golive.onestreaming.com/arionkids

@@ -1,0 +1,6 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/iranianradio-eshghe-iran-576015-logo.jpg",IranianRadio Eshghe Iran
+http://listen.shoutcast.com/IranianRadioPop
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/iranianradio-traditional-576851-logo.jpg",IranianRadio Traditional
+http://listen.shoutcast.com/IranianRadioTraditionalSonati
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/jbc-radio-582065-logo.jpg",JBC Radio
+http://stream.arabiacell.biz:1935/JBCLive/audio/playlist.m3u8
