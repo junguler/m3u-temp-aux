@@ -1,0 +1,32 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/1radiomk-presents-the-jazzmas-channel-617696-logo.jpg",1Radio.mk Presents: The Jazzmas Channel
+http://ams-2.1radio.mk/1647_64
+#EXTINF:-1 tv-logo="",RadioSon.ru - Smooth Jazz channel
+http://radioson.ru:8009/Smooth-Jazz.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/myradioua-jazz-580113-logo.jpg",myRadio.ua Jazz
+http://music.myradio.ua/Jazz_news128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/jazzy-one-jazz-radio-625064-logo.jpg",Jazzy One Jazz radio
+http://samcloud.spacial.com/api/listen?sid=72401
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nonstop-casiopea-fusion-radio-624225-logo.jpg",Nonstop Casiopea - Fusion Radio
+http://hyades.shoutca.st:8551/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sonido-suave-fm-629987-logo.jpg",Radio Sonido Suave FM
+http://108.178.57.196:8272/autodj
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/deluxe-easy-632967-logo.jpg",Radio Deluxe Easy
+https://audiostreams.deluxemusic.tv/easy/mp3-128/tunein
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wsjr-db-630373-logo.jpg",Radio WSJR-DB
+http://wsjrdbradio.com/station2.html
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/massanet-629317-logo.jpg",Radio MassaNet
+http://stream.massanetsolutions.net:9646/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/groove-and-smooth-631753-logo.jpg",Radio Groove & Smooth
+http://91.121.59.45:10003/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/abacus-smooth-jazz-640116-logo.jpg",Radio Abacus Smooth Jazz
+http://178.33.232.106:8034/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cool-fm-panama-587642-logo.jpg",Radio Cool FM Panama
+http://player.listenlive.co/15431
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wsrn-dbjazz-oasis-maine-638309-logo.jpg",Radio WSRN-DBJazz Oasis Maine
+http://74.82.59.197/proxy/jazzoasi?mp=/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-plane-plus-639498-logo.jpg",Radio Plane Plus
+http://ca3.radioboss.fm:8282/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/smooth-groovers-589488-logo.jpg",Radio Smooth Groovers
+http://s5.voscast.com:7866/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/spirit-network-591463-logo.jpg",Radio Spirit Network
+http://vip.livecastnet.com:8000/spiritnetworkradio.aac

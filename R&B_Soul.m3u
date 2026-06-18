@@ -1,0 +1,6 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rbrs-radio-162508-logo.jpg",RBRS Radio
+http://109.228.5.193:8000/423
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/1clubfms-deep-funk-channel-155851-logo.jpg",Radio 1CLUB.FM's Deep Funk Channel
+http://wms-19.streamsrus.com/funk-mp3
+#EXTINF:-1 tv-logo="",MikeyRadio.com
+http://stream.mikeyradio.com:8000/;

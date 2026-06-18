@@ -1,0 +1,10 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-nashe-568736-logo.jpg",Radio Nashe
+https://nashe1.hostingradio.ru:80/nashe-64.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hit-fm-soft-581061-logo.jpg",Radio Hit FM Soft
+http://icecast.radiohitfm.cdnvideo.ru/st14.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/yumor-fm-yekaterinburg-605321-logo.jpg",Radio Yumor FM - Yekaterinburg
+http://den.101.ru:4000/hu_66_01
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/russkoe-radio-russian-rock-625812-logo.jpg",Russkoe Radio - Russian Rock
+http://icecast.russkoeradio.cdnvideo.ru/st37.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/brezhnev-fm-601843-logo.jpg",Radio Brezhnev FM
+http://91.144.154.150:8000/;

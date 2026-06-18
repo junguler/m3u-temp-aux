@@ -1,0 +1,20 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/choice-fm-171562-logo.jpg",Radio Choice FM
+http://choiceradio.primcast.com:7710/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/choice-fm-171562-logo.jpg",Radio Choice FM
+http://choiceradio.primcast.com:7710/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kyss-fm-578727-logo.jpg",Radio Kyss FM
+http://ott.streann.com/loadbalancer/services/public/radios/5783b7fc2cdc305ad43a9743/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kyss-fm-578727-logo.jpg",Radio Kyss FM
+http://ott.streann.com/loadbalancer/services/public/radios/5783b7fc2cdc305ad43a9743/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/choice-fm-578752-logo.jpg",Radio Choice FM
+http://162.244.81.111:4020/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/choice-fm-578752-logo.jpg",Radio Choice FM
+http://162.244.81.111:4020/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mixup-628888-logo.jpg",Radio MIXUP
+http://78.129.187.73:16738/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mixup-628888-logo.jpg",Radio MIXUP
+http://78.129.187.73:16738/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/von-radio-569623-logo.jpg",VON Radio
+http://vonradio.streamon.fm/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/von-radio-569623-logo.jpg",VON Radio
+http://vonradio.streamon.fm/

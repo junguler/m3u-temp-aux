@@ -1,0 +1,14 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-mayak-569326-logo.jpg",Radio Mayak
+https://icecast-vgtrk.cdnvideo.ru/mayakfm_aac_64kbps
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/megaradio-sna-583639-logo.jpg",Megaradio SNA
+http://audio2.video.ria.ru/voiceger
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/russkiy-mir-601927-logo.jpg",Radio Russkiy Mir
+http://s4.radioheart.ru:8029/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/apex-radio-631248-logo.jpg",Apex Radio
+http://webcast.apexradio.ru:8000/NvkzMp3?1300095797984.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/echo-of-moscow-perm-585472-logo.jpg",Radio Echo of Moscow Perm
+http://echoperm.radio-tochka.com:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/r-mayak-chita-584738-logo.jpg",Radio R Mayak Chita
+http://gtrkchita.ru:8100/mayak32
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/new-moon-645746-logo.jpg",Radio New Moon
+http://5.59.132.82:8000/live

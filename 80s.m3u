@@ -1,0 +1,42 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pulsradio-version-80-576670-logo.jpg",Puls'Radio Version 8.0
+http://icecast.pulsradio.com/magicradioAAC64.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/max-616102-logo.jpg",Radio Max
+http://mp3streaming.planetwideradio.com:9800/2zyaac
+#EXTINF:-1 tv-logo="",Radio Auckland 80's
+https://streamer.radio.co/s81fc850fd/listen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tone-air-601482-logo.jpg",Radio TONE Air
+http://stream.toneair.fr/hifi
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/good-soundde-581173-logo.jpg",Radio Good-Sound.de
+http://stream.good-sound.de:1610/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/antenne-vorarlberg-80er-hits-581316-logo.jpg",Radio Antenne Vorarlberg 80er Hits
+http://webradio.antennevorarlberg.at/80er.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rewind-1007-580963-logo.jpg",Radio Rewind 100.7
+https://kymv.streamon.fm/stream/KYMV-48k.aac?starttime=1536184113
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/threeten-radio-only-the-80s-580854-logo.jpg",Threeten Radio Only The 80's
+http://threetenradio.com:8089/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-hunter-80fm-584095-logo.jpg",Radio Rádio Hunter - 80FM
+http://live.hunter.fm/80s
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radiostormcom-80s-585254-logo.jpg",Radiostorm.com: 80s
+http://sc1.cdn.radiostorm.com/1069_64
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/abc-80s-583170-logo.jpg",Radio ABC 80S
+http://sky1.torontocast.com:9142/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-siva-602182-logo.jpg",Radio Sivà
+http://nr11.newradio.it:9146/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-80-569610-logo.jpg",Radio 80
+http://app.rtv80.nl:1031/;
+#EXTINF:-1 tv-logo="",80s Child Radio
+http://janus.shoutca.st:9660/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/centre-radio-638980-logo.jpg",Centre Radio
+http://cassini.shoutca.st:8970/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/reality-one-radio-588431-logo.jpg",Reality One Radio
+http://ls7.int.live365.net:8000/a57712_live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/only1-radio-569713-logo.jpg",Only1 Radio
+http://stream.only1.fr:8015/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/corail-80-602473-logo.jpg",Radio Corail 80
+http://listen.openstream.co/3051/audio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/qmr-classic-gold-80s-602592-logo.jpg",Radio QMR Classic Gold 80's
+http://78.129.146.97:7015/stream2_autodj
+#EXTINF:-1 tv-logo="",Wonde Radio
+http://184.107.133.34:9822/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bostin-radio-80s-643758-logo.jpg",Bostin Radio 80s
+http://5.196.41.242:8106/live

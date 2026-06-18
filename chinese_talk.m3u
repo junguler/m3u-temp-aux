@@ -1,0 +1,26 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wzrc-569164-logo.jpg",Radio WZRC
+http://mobilewzrc.serverroom.us:6910
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/voice-of-america-chinese-568753-logo.jpg",Radio Voice of America Chinese
+http://voa-11.akacast.akamaistream.net/7/317/322023/v1/ibb.akacast.akamaistream.net/voa-11.m3u
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/canadian-chinese-radio-171629-logo.jpg",Canadian Chinese Radio
+http://50.7.70.66:8642/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/inner-mongolia-news-radio-in-mongolian-581786-logo.jpg",Inner Mongolia News Radio In Mongolian
+http://61.134.115.164:9081/show.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/chongqing-news-radio-581806-logo.jpg",Chongqing News Radio
+http://112.124.42.176/10.200.118.93/live/1498/24.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/jilin-information-radio-581827-logo.jpg",Jilin Information Radio
+http://115.28.152.222/10.129.53.160/live/3978/24.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/shijiazhuang-news-radio-581847-logo.jpg",Shijiazhuang News Radio
+http://live.sjzntv.cn/channels/sjzntv/new882_channel_01/flv:new/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cnr-for-the-elders-581859-logo.jpg",Radio CNR - For the Elders
+http://bfq.cnr.cn/zhibo/?10
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/zhuhai-news-radio-569369-logo.jpg",Zhuhai News Radio
+http://my.n21.cc/951/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/shanghai-peoples-broadcast-radio-569370-logo.jpg",Shanghai People's Broadcast Radio
+http://lhttp.qingting.fm/live/270/64k.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rthk-putonghua-radio-569374-logo.jpg",RTHK Putonghua Radio
+http://stm.rthk.hk/radiopth
+#EXTINF:-1 tv-logo="",Radio Thailand Bangkok
+http://prdonline.prd.go.th:8202/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/news-98-fm-radio-569900-logo.jpg",News 98 FM Radio
+http://cast.news98.com.tw:8000/news98

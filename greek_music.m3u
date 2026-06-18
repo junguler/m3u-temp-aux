@@ -1,0 +1,30 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/peran-net-620976-logo.jpg",Radio PERAN NET
+http://192.111.140.6:8200/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rythmos-1045-578396-logo.jpg",Radio Rythmos 104.5
+http://stream.cretanservers.gr/1045fm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/symi-fm-568703-logo.jpg",Radio Symi FM
+http://symiradio.no-ip.biz:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-ilios-580977-logo.jpg",RADIO ILIOS
+http://46.23.76.199:3700/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/vlaxoxorifm-601731-logo.jpg",Radio vlaxoxorifm
+http://162.210.196.145:7214/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/party-971-580578-logo.jpg",Radio Party 97.1
+http://s1.onweb.gr:8824/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fmlife-580624-logo.jpg",Radio FMLIFE
+http://s6.onweb.gr:8044/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-begleri-631897-logo.jpg",Radio Begleri
+http://begleri.no-ip.biz:9100/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/aigaio-live-569510-logo.jpg",Radio AIGAIO live
+http://radio.aigaiolive.gr:6172/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-fm-8-634534-logo.jpg",Radio Fm 8
+http://solid2.streamupsolutions.com:8000/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ponosradio-635974-logo.jpg",ponosradio
+http://cast.streams.ovh:9318/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-christianity-569735-logo.jpg",Radio Christianity
+http://s1.fastcast4u.com:9326/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/saint-jude-thaddeus-greek-orthodox-holy-chapel-641195-logo.jpg",Radio Saint Jude Thaddeus Greek Orthodox Holy Chapel
+http://176.9.226.18:9998/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dj-tolis-greek-music-644024-logo.jpg",Radio dj tolis greek music
+http://50.22.219.97:28383/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/playfmgr-589245-logo.jpg",Radio Playfm.gr
+http://144.76.92.208:9000/stream

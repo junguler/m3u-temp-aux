@@ -1,0 +1,24 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-grodno-577578-logo.jpg",Radio Grodno
+http://178.124.203.233:8000/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-grodno-577578-logo.jpg",Radio Grodno
+http://178.124.203.233:8000/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-roks-hit-radio-618876-logo.jpg",Radio Roks Hit Radio
+http://streams.radioplayer.by:8000/hit_mc
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-roks-hit-radio-618876-logo.jpg",Radio Roks Hit Radio
+http://streams.radioplayer.by:8000/hit_mc
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/top-100-622654-logo.jpg",Radio Top 100
+http://radio1.hzradio.by:8000/top100
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/top-100-622654-logo.jpg",Radio Top 100
+http://radio1.hzradio.by:8000/top100
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-roks-569726-logo.jpg",Radio Roks
+http://streams.radioplayer.by:8000/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-roks-569726-logo.jpg",Radio Roks
+http://streams.radioplayer.by:8000/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/1st-channel-569725-logo.jpg",Radio 1st Channel
+http://video.tvr.by:1935/radio/radio1/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/1st-channel-569725-logo.jpg",Radio 1st Channel
+http://video.tvr.by:1935/radio/radio1/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/minsk-house-c-641609-logo.jpg",Radio Minsk House ©
+https://stream.minsk-house.by:8443/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/minsk-house-c-641609-logo.jpg",Radio Minsk House ©
+https://stream.minsk-house.by:8443/stream

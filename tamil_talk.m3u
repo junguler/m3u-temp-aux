@@ -1,0 +1,10 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/yet-radio-624469-logo.jpg",YET Radio
+http://107.182.231.73:7074/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/slbc-thendral-fm-569366-logo.jpg",Radio SLBC Thendral Fm
+http://220.247.227.20:8000/Threndralstream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gtbc-fm-583078-logo.jpg",Radio GTBC FM
+http://38.96.148.18:6150/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tiruvannamalai-devotional-radio-638722-logo.jpg",Tiruvannamalai Devotional Radio
+http://janus.shoutca.st:8930/svstvm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/thamarai-fm-641625-logo.jpg",Radio Thamarai FM
+http://api.spreaker.com/listen/user/9791457/episode/latest/shoutcast.mp3

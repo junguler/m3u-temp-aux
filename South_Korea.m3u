@@ -1,0 +1,24 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/breez-622358-logo.jpg",Radio BREEZ
+http://procyon.shoutca.st:8660/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/breez-622358-logo.jpg",Radio BREEZ
+http://procyon.shoutca.st:8660/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cbs-standard-fm-981-631260-logo.jpg",Radio CBS Standard FM 98.1
+http://aac.cbs.co.kr/cbs981/_definst_/cbs981.stream/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cbs-standard-fm-981-631260-logo.jpg",Radio CBS Standard FM 98.1
+http://aac.cbs.co.kr/cbs981/_definst_/cbs981.stream/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kvirgin-radio-629240-logo.jpg",KVirgin RADIO
+http://sc11.saycast.com:8102/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kvirgin-radio-629240-logo.jpg",KVirgin RADIO
+http://sc11.saycast.com:8102/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pbc-daegu-fm-586892-logo.jpg",Radio PBC Daegu FM
+http://live.dgpbc.co.kr/cdnlive-hls/dgpbclive/_definst_/liveevent/dgpbclive_mp4.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pbc-daegu-fm-586892-logo.jpg",Radio PBC Daegu FM
+http://live.dgpbc.co.kr/cdnlive-hls/dgpbclive/_definst_/liveevent/dgpbclive_mp4.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kmfm-new-age-fm-638540-logo.jpg",Radio KMFM New Age FM
+http://c9.inlive.co.kr:1652/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kmfm-new-age-fm-638540-logo.jpg",Radio KMFM New Age FM
+http://c9.inlive.co.kr:1652/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ebs-korea-educational-broadcasting-system-638956-logo.jpg",Radio EBS (Korea Educational Broadcasting System)
+http://ebsonairiosaod.ebs.co.kr/fm_kt_ai_hls/bandiappaac/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ebs-korea-educational-broadcasting-system-638956-logo.jpg",Radio EBS (Korea Educational Broadcasting System)
+http://ebsonairiosaod.ebs.co.kr/fm_kt_ai_hls/bandiappaac/playlist.m3u8

@@ -1,0 +1,44 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cctv-8-577516-logo.jpg",Radio CCTV-8
+http://tv.cntv.cn/live/cctv8/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/canale-10-579232-logo.jpg",Radio Canale 10
+http://www.canaledieci.it/Live.aspx
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tv-zemplin-580310-logo.jpg",Radio TV Zemplin
+http://www.respublica.sk/?id=2
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tele-taxi-tv-580318-logo.jpg",Radio Tele Taxi TV
+http://www.teletaxitv.com/tvonline.html
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ieitv-580435-logo.jpg",Radio IEITV
+http://www.ieitv.com/05%20WatchNow.html
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tv30-580437-logo.jpg",Radio TV30
+http://www.tri-valleytv.org/live-tv30.html
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kanal-7-580340-logo.jpg",Radio Kanal 7
+http://www.yayin.tv.tr/play.stream.php?id=1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mana-sat-580411-logo.jpg",Radio MANÁ SAT
+http://www.manasat.com/immediaplayer.php?channel=m1low
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tele-etruria-581047-logo.jpg",Radio Tele Etruria
+http://hls01.gterra.it/teletrurialive.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kolcsey-tv-581045-logo.jpg",Radio Kolcsey TV
+http://live.kolcseytv.hu:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/the-voice-tv-580788-logo.jpg",Radio The Voice TV
+http://www.voice.fi/includes/player/livetvplayer.php
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/omrop-fryslan-tv-580802-logo.jpg",Radio Omrop Fryslan TV
+http://www.omroplive.nl/omrop-fryslan-tv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kanu-tv-580821-logo.jpg",Radio KANU TV
+http://www.kanutv.com/kanu-new-tv/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/telerama-569641-logo.jpg",Radio Telerama
+http://www.ustream.tv/channel-popup/etv-telerama
+#EXTINF:-1 tv-logo="",Radio P TV
+http://ptv.com.pk/PTVHOME-live.asp
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tva-569648-logo.jpg",Radio TVA
+http://tvavicenza.gruppovideomedia.it/it/live/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/trinity-broadcasting-network-569765-logo.jpg",Radio Trinity Broadcasting Network
+http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/oman-tv-569794-logo.jpg",Radio Oman TV
+http://www.oman-tv.gov.om/links/Omantv1.html
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tc-television-569808-logo.jpg",Radio TC Televisión
+http://www.tctelevision.com/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mtv-569834-logo.jpg",Radio MTV
+http://www.mtv.com.lb/live.php
+#EXTINF:-1 tv-logo="",Radio Hillsong Channel
+http://acaooyalahd2-lh.akamaihd.net/i/TBN02_delivery@186240/master.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ireland-live-television-569857-logo.jpg",Radio Ireland Live Television
+http://www.liveireland.com/tv.shtml

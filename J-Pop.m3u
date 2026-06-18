@@ -1,0 +1,22 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/moriya-no-jinja-radio-621384-logo.jpg",Moriya no Jinja: Radio
+http://radio.moriyanojinja.xyz:8000/mnjrmp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/j1-radio-619713-logo.jpg",J1 Radio
+http://66.70.187.44:9041/aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/j-pop-powerplay-kawaii-626880-logo.jpg",Radio J-Pop Powerplay Kawaii
+http://sky1.torontocast.com:9029/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/power-945-601703-logo.jpg",Radio Power 945
+http://38.96.148.28:8754/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-shinka-626231-logo.jpg",Radio Shinka
+http://5.9.65.9:8171/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/j-rock-powerplay-625484-logo.jpg",Radio J-Rock Powerplay
+http://cristina.torontocast.com:8057/;.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/asia-dream-radio-japan-hits-624796-logo.jpg",asia DREAM radio - Japan Hits
+http://bluford.torontocast.com:8526/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/j-pop-sakura-asia-dream-radio-630859-logo.jpg",J-Pop Sakura - asia DREAM radio
+http://bluford.torontocast.com:8519/;.mp3
+#EXTINF:-1 tv-logo="",Radio ALT-J
+http://s42.myradiostream.com:27516/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/muteki-radio-642700-logo.jpg",Muteki Radio
+http://192.99.14.225:9946/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/j-pop-haru-sakura-645354-logo.jpg",Radio J-Pop Haru Sakura
+http://agnes.torontocast.com:8087/;
