@@ -1,0 +1,20 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-sens-632451-logo.jpg",Radio Rádio Sens
+http://ada.dissonante.org:443/radiosens
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nbs-burger-645578-logo.jpg",Radio NBS Burger
+http://radio.awmix.com:9104/;
+#EXTINF:-1 tv-logo="",Radio Naranjo 88.1 FM
+http://167.114.219.240:9029/stream?type=.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kauza-602920-logo.jpg",Radio Kauza
+http://104.131.243.43:8125/;
+#EXTINF:-1 tv-logo="",Ramblin Radio
+http://199.195.194.140:8122/;
+#EXTINF:-1 tv-logo="",Radio RHits
+http://us3.internet-radio.com:8289/stream;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-misionera-fuente-de-vida-646951-logo.jpg",Radio Misionera Fuente de Vida
+http://unoredradio.com:9774/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/estereo-eben-ezer-virginia-648877-logo.jpg",Radio Estereo Eben-Ezer Virginia
+http://5.135.192.243:9508/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-ptnet-649089-logo.jpg",Radio Rádio PTnet
+http://radio.ptnet.org:9304/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-escenario-647146-logo.jpg",Radio Escenario
+http://67.222.24.62:9326/;

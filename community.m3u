@@ -1,0 +1,20 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-nossa-fm-0-1-2-logo.jpg",Radio Nossa FM
+https://stm24.srvaudio.com.br:10110/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-alvorada-0-1-2-3-4-5-logo.jpg",Radio Alvorada
+https://player.painelvox.com/player-ssl/6788
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-cidade-0-1-2-3-4-5-6-7-8-9-10-logo.jpg",Radio Rádio Cidade
+https://hts07.kshost.com.br:8200/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-cidade-0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-logo.jpg",Radio Rádio Cidade
+https://ssl.conectastreaming.com:13196/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-cultura-0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-logo.jpg",Radio Rádio Cultura
+https://stream.zeno.fm/ddhnas829qruv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-novo-tempo-0-1-2-3-4-logo.jpg",Radio Rádio Novo Tempo
+http://198.24.165.180:8910/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-santa-cruz-0-1-logo.jpg",Radio Rádio Santa Cruz
+https://stm1.painel.cloudstream.com.br:7102/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-colmundo-radio-0-1-logo.jpg",Colmundo Radio
+https://streaming.shoutcast.com/colmundo-radio-pasto
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ph-radyo-natin-0-1-logo.jpg",Radio Radyo Natin
+http://ph-icecast-win.eradioportal.com:8000/radyo_natin
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-wvtf-public-radio-0-1-logo.jpg",WVTF Public Radio
+https://wvtf.streamguys1.com/wvtf-edge/radioiq-mp3-64/icecast.audio

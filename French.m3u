@@ -1,0 +1,58 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-boa-esperanca-fm-0-1-logo.jpg",Radio Rádio Boa Esperança FM
+https://stream.zeno.fm/adfqdwdlsxivv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-ici-musique-0-1-logo.jpg",Radio Ici Musique
+https://playerservices.streamtheworld.com/api/livestream-redirect//CBUXFM_SRC.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-ici-musique-0-1-2-logo.jpg",Radio Ici Musique
+https://rcavliveaudio-tunein.akamaized.net/hls/live/2006998/M-7MWIN0_WIN/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-ici-musique-0-1-2-3-logo.jpg",Radio Ici Musique
+https://rcavliveaudio.akamaized.net/hls/live/2006986/M-7OOTT0_OTT/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-ici-musique-0-1-2-3-4-logo.jpg",Radio Ici Musique
+https://rcavliveaudio.akamaized.net/hls/live/2006979/M-7QMTL0_MTL/master.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-ici-musique-0-1-2-3-4-5-logo.jpg",Radio Ici Musique
+https://rcavliveaudio.akamaized.net/hls/live/2006988/M-7QSAG0_SAG/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-ici-musique-0-1-2-3-4-5-6-logo.jpg",Radio Ici Musique
+https://rcavliveaudio.akamaized.net/hls/live/2006990/M-7OSUB0_SUB/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-mix-0-1-logo.jpg",Radio Mix
+https://stream.statsradio.com:8054/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-rouge-fm-0-1-logo.jpg",Radio Rouge FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/CFVMFMAAC_SC?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-rouge-fm-0-1-2-logo.jpg",Radio Rouge FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/CIMFFMAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-rouge-fm-0-1-2-3-logo.jpg",Radio Rouge FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/CFIXFMAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-virgin-radio-0-1-2-logo.jpg",Virgin Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/CJCHFMAAC_SC?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-alouette-radio-0-1-logo.jpg",Alouette Radio
+https://alouette-limoges.ice.infomaniak.ch/alouette-limoges-128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-alpes-1-alpes-du-sud-0-1-logo.jpg",Radio Alpes 1 - Alpes du sud
+https://alpes1gap.ice.infomaniak.ch/alpes1-sisteron.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-capsao-0-1-logo.jpg",Radio CapSao
+https://ice.creacast.com/capsao_v
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-frequence-mistral-fm-0-1-logo.jpg",Radio Frequence Mistral FM
+https://azuracast.fmistral-serveur.com/radio/8150/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-hit-west-0-1-logo.jpg",Radio Hit West
+https://stream.rcs.revma.com/mvyt6kr0am3vv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-kaolin-fm-0-1-logo.jpg",Radio Kaolin FM
+https://hosting.studioradiomedia.fr:1875/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-magnum-la-radio-fm-0-1-logo.jpg",Magnum La Radio FM
+https://ice.creacast.com/magnum-vittel
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-meuse-fm-0-1-logo.jpg",Radio Meuse FM
+https://listen.radioking.com/radio/194749/stream/237130
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-oceane-0-1-logo.jpg",Radio Océane
+https://stream.rcs.revma.com/pbe1r79e0v3vv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-oxygene-radio-0-1-logo.jpg",Oxygène Radio
+https://icecast.oxygeneradio.fr:8443/OxygeneRadio.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-radio-galaxie-0-1-logo.jpg",Radio Galaxie
+http://stream.radios-arra.fr:8000/radiogalaxie
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-radio-sensations-0-1-logo.jpg",Radio Sensations
+https://sensationsessonne.ice.infomaniak.ch/sensationsessonne-128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-rts-fm-0-1-logo.jpg",Radio RTS FM
+https://str0.creacast.com/rts-narbonne
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-sun-le-son-unique-0-1-logo.jpg",Radio SUN Le Son Unique
+https://diffusion.lafrap.fr/webradio-angers.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-vibration-fm-0-1-logo.jpg",Radio Vibration FM
+https://webvib-montargis.ice.infomaniak.ch/webvib-montargis-128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-vosges-fm-0-1-logo.jpg",Radio Vosges FM
+https://str0.creacast.com/vosgesfm-bruyeres
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lu-radio-2-0-8-logo.jpg",Radio 2-0-8
+https://stream.zeno.fm/3384cgvyk2zuv

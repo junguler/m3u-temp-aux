@@ -1,0 +1,8 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pk-buzz-fm-0-1-logo.jpg",Radio Buzz FM
+http://158.69.4.171:8116/stream.mp3:
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pk-fm-100-pakistan-0-1-logo.jpg",Radio Fm 100 Pakistan
+http://162.244.80.118:4900/stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pk-radio-awaz-0-1-logo.jpg",Radio Awaz
+http://192.95.35.65:9322/stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pk-vok-fm-0-1-logo.jpg",Radio VOK FM
+https://cc.vmakerhost.com/proxy/link2?mp=/;stream.mp3

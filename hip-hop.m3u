@@ -1,0 +1,38 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-fm-o-dia-0-1-2-logo.jpg",Radio FM O Dia
+https://stream.zeno.fm/ad0up4hcz98uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-fm-o-dia-0-1-2-3-4-logo.jpg",Radio FM O Dia
+https://wz7.servidoresbrasil.com:8274/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-nova-0-1-2-3-4-logo.jpg",Radio Nova
+https://centova4.transmissaodigital.com:20236/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-transamerica-0-1-2-3-logo.jpg",Radio Rádio Transamérica
+https://playerservices.streamtheworld.com/api/livestream-redirect/RT_RJAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-tropicana-0-1-logo.jpg",Radio Tropicana
+https://playerservices.streamtheworld.com/api/livestream-redirect/TR_PEREIRAAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-tropicana-0-1-2-logo.jpg",Radio Tropicana
+https://playerservices.streamtheworld.com/api/livestream-redirect/TR_MONTERIAAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-tropicana-0-1-2-3-logo.jpg",Radio Tropicana
+https://playerservices.streamtheworld.com/api/livestream-redirect/TR_CARTAGENAAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-tropicana-0-1-2-3-4-logo.jpg",Radio Tropicana
+https://playerservices.streamtheworld.com/api/livestream-redirect/TR_VILLAVICENCIOAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-tropicana-0-1-2-3-4-5-6-logo.jpg",Radio Tropicana
+https://stream.jachmedia.com/8154/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/id-endless-for-beacon-fm-0-1-logo.jpg",Radio Endless For Beacon FM
+https://stream.zeno.fm/xbiqizas5qfvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-mai-fm-0-1-logo.jpg",Radio Mai FM
+https://digitalstreams-edge-lb.mediaworks.nz/mai_net/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-1037-kiss-fm-0-1-logo.jpg",Radio 103.7 Kiss Fm
+https://icecast.starradiogroup.com/radio/wxkjbackup.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-925-the-beat-0-1-logo.jpg",Radio 92.5 The Beat
+http://beat925.iheart.com/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-985-kiss-fm-0-1-logo.jpg",Radio 98.5 Kiss FM
+https://streamingv2.shoutcast.com/-KISSFM985-
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-hot-106-0-1-logo.jpg",Radio HOT 106
+https://stream.zeno.fm/lfdhducwotytv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-hot-941-0-1-logo.jpg",Radio Hot 94.1
+https://live.amperwave.net/manifest/southernstonefl-whoghd2aac-ibc4
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-power-965-0-1-logo.jpg",Radio Power 96.5
+https://ic2.sslstream.com/wqhh-fm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-real-977-0-1-logo.jpg",Radio Real 97.7
+https://live.amperwave.net/manifest/audacy-wusyhd2aac-hlsc.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-the-vibe-0-1-logo.jpg",Radio The Vibe
+https://playerservices.streamtheworld.com/api/livestream-redirect/WVBW_FMAAC.aac?dist=onlineradiobox

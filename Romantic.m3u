@@ -1,0 +1,28 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/caricia-fm-975-648330-logo.jpg",Radio Caricia FM 97.5
+http://64.31.8.244:8028/stream?type=.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-band-fm-0-1-2-3-4-logo.jpg",Radio Band FM
+https://stm28.xcast.com.br:11364/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-interativa-web-radio-0-1-logo.jpg",Interativa Web Radio
+https://stream.zeno.fm/k0xwhzzhaituv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-jovem-pan-fm-0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-22-23-24-25-26-27-28-logo.jpg",Radio Jovem Pan FM
+https://str1.streamhostpg.com.br:8048/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-manchete-0-1-logo.jpg",Radio Rádio Manchete
+https://server15.srvsh.com.br:8170/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-novo-som-0-1-logo.jpg",Radio Rádio Novo Som
+https://stream.zeno.fm/pg9t3gt2td0uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-roberto-carlos-0-1-logo.jpg",Radio Rádio Roberto Carlos
+https://stream.zeno.fm/wqvsla6ylpotv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-besame-0-1-logo.jpg",Radio Bésame
+https://playerservices.streamtheworld.com/api/livestream-redirect//BESAME_PEREIRA_FMAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-besame-0-1-2-logo.jpg",Radio Bésame
+https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_BARRANQUILLAAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-sonora-stereo-0-1-logo.jpg",Radio Sonora Stereo
+https://stream.zeno.fm/rx3ez7gczvbtv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-la-mejor-0-1-logo.jpg",Radio La Mejor
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHVZ_SC?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-vida-romantica-0-1-logo.jpg",Radio Vida Romántica
+https://stream.zeno.fm/g1c3rka6dkhvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr-romantik-ses-0-1-logo.jpg",Radio Romantik Ses
+https://radyo1.radyo-dinle.tc:8062/;/;type=mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ve-amor-fm-0-1-logo.jpg",Radio AMOR FM
+https://streaming.islahostingla.com/8192/stream

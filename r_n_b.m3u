@@ -1,0 +1,36 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-antena-1-0-1-2-logo.jpg",Radio Antena 1
+https://stream.antena1.com.br/stream16
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-antena-1-0-1-2-3-logo.jpg",Radio Antena 1
+https://antenaone.crossradio.com.br:8232/stream/1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-antena-1-0-1-2-3-4-5-logo.jpg",Radio Antena 1
+https://servidor26.brlogic.com:8026/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-cool-0-1-logo.jpg",Radio Cool
+https://live.leanstream.co/CKUEF2?args=web_01
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-q107-0-1-logo.jpg",Radio Q107
+https://live.leanstream.co/CFGQFM-MP3?tunein
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-rouge-fm-0-1-logo.jpg",Radio Rouge FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/CFVMFMAAC_SC?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-rouge-fm-0-1-2-logo.jpg",Radio Rouge FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/CIMFFMAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-rouge-fm-0-1-2-3-logo.jpg",Radio Rouge FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/CFIXFMAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-virgin-radio-0-1-2-logo.jpg",Virgin Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/CJCHFMAAC_SC?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ua-hit-fm-0-1-logo.jpg",Radio Хіт FM
+https://online.hitfm.ua/HitFM
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-925-the-beat-0-1-logo.jpg",Radio 92.5 The Beat
+http://beat925.iheart.com/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-hot-106-0-1-logo.jpg",Radio HOT 106
+https://stream.zeno.fm/lfdhducwotytv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-hot-941-0-1-logo.jpg",Radio Hot 94.1
+https://live.amperwave.net/manifest/southernstonefl-whoghd2aac-ibc4
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-hot-fm-0-1-logo.jpg",Radio HOT FM
+https://streamdb3web.securenetsystems.net/cirrusencore/KMVA
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-power-965-0-1-logo.jpg",Radio Power 96.5
+https://ic2.sslstream.com/wqhh-fm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-q102-0-1-logo.jpg",Radio Q102
+https://ais-sa1.streamon.fm/7049_24k.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-real-977-0-1-logo.jpg",Radio Real 97.7
+https://live.amperwave.net/manifest/audacy-wusyhd2aac-hlsc.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-the-vibe-0-1-logo.jpg",Radio The Vibe
+https://playerservices.streamtheworld.com/api/livestream-redirect/WVBW_FMAAC.aac?dist=onlineradiobox

@@ -1,0 +1,282 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-104-fm-0-1-logo.jpg",Radio 104 FM
+https://azura1.cmaudioevideo.com:8150/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-104-fm-0-1-2-logo.jpg",Radio 104 FM
+https://stmbr.com.br:8184/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-antena-1-0-1-logo.jpg",Radio Antena 1
+https://servidor21.brlogic.com:7002/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-antena-fm-0-1-logo.jpg",Radio Antena FM
+https://ssl.xcast.com.br:11866/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-antena-fm-0-1-2-logo.jpg",Radio Antena FM
+https://ssl.xcast.com.br:10954/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-antena-fm-0-1-2-3-logo.jpg",Radio Antena FM
+https://ssl.xcast.com.br:10346/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-antena-fm-0-1-2-3-4-logo.jpg",Radio Antena FM
+https://ssl.xcast.com.br:12700/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-band-fm-0-1-2-logo.jpg",Radio Band FM
+https://audio8.cmaudioevideo.com:10072/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-cidade-fm-0-1-2-logo.jpg",Radio Cidade FM
+http://streaming06.hstbr.net:8146/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-clube-fm-0-1-2-3-4-5-6-7-logo.jpg",Radio Clube FM
+https://player.voxhd.com.br/proxy/7624/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-clube-fm-0-1-2-3-4-5-6-7-8-logo.jpg",Radio Clube FM
+https://servidor17.brlogic.com:8262/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-clube-fm-0-1-2-3-4-5-6-7-8-9-logo.jpg",Radio Clube FM
+https://shout35.crossradio.com.br:18118/1;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-clube-fm-0-1-2-3-4-5-6-7-8-9-10-11-logo.jpg",Radio Clube FM
+https://srv1.uaihost.audio:7022/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-clube-fm-0-1-2-3-4-5-6-7-8-9-10-11-12-logo.jpg",Radio Clube FM
+https://centova5.transmissaodigital.com:20133/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-clube-fm-0-1-2-3-4-5-6-7-8-9-10-11-12-13-logo.jpg",Radio Clube FM
+https://cast.radiu.live:6758/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-clube-fm-0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-logo.jpg",Radio Clube FM
+https://live8.livemus.com.br:27576/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-clube-fm-0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-logo.jpg",Radio Clube FM
+https://9703.brasilstream.com.br/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-clube-fm-0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-logo.jpg",Radio Clube FM
+https://8282.brasilstream.com.br/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-estacao-fm-0-1-logo.jpg",Radio Estação FM
+https://play.radio.br:8089/estacaofm/estacaofm/icecast.audio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-gazeta-0-1-logo.jpg",Radio Gazeta
+https://playerservices.streamtheworld.com/api/livestream-redirect/GAZETA_LINHARESAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-jovem-pan-0-1-logo.jpg",Radio Jovem Pan
+https://stream.loopert.com/stream/150
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-jovem-pan-fm-0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-22-23-24-25-26-27-28-logo.jpg",Radio Jovem Pan FM
+https://str1.streamhostpg.com.br:8048/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-mix-fm-0-1-2-3-4-5-6-logo.jpg",Radio Mix FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_NATALAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-mix-fm-0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-logo.jpg",Radio Mix FM
+https://stream02.ouveai.com.br/8034/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-nossa-fm-0-1-2-logo.jpg",Radio Nossa FM
+https://stm24.srvaudio.com.br:10110/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-nova-fm-0-1-2-logo.jpg",Radio Nova FM
+https://5a2b083e9f360.streamlock.net/88novafm/88novafm.stream/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-1049-fm-0-1-2-logo.jpg",Radio Rádio 104.9 FM
+https://servidor40-5.brlogic.com:7008/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-92-fm-0-1-logo.jpg",Radio Rádio 92 FM
+https://cast4.hoost.com.br:20190/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-alternativa-fm-0-1-2-logo.jpg",Radio Rádio Alternativa FM
+https://wms5.webradios.com.br:18914/8914
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-alternativa-fm-0-1-2-3-4-logo.jpg",Radio Rádio Alternativa FM
+https://stm1.streamproarte.com.br:7024/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-alternativa-fm-0-1-2-3-4-5-6-logo.jpg",Radio Rádio Alternativa FM
+http://158.69.7.169:8080/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-alvorada-0-1-2-3-4-logo.jpg",Radio Rádio Alvorada
+https://centova.transmissaodigital.com:20008/alvorada
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-ativa-fm-0-1-2-3-logo.jpg",Radio Rádio Ativa FM
+http://148.72.158.239:8036/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-ativa-fm-0-1-2-3-4-5-6-logo.jpg",Radio Rádio Ativa FM
+http://stream.splug.com.br:8000/Radio19
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-band-fm-0-1-2-3-4-5-6-7-8-9-10-11-12-logo.jpg",Radio Rádio Band FM
+https://cast2.youngtech.radio.br/radio/8010/radio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-cbn-0-1-logo.jpg",Radio CBN
+https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_RJAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-cbn-0-1-2-logo.jpg",Radio CBN
+https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_SPAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-cidade-0-1-2-3-4-5-6-7-8-9-10-11-logo.jpg",Radio Rádio Cidade
+https://stm2.streamproarte.com.br:7252/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-cidade-0-1-2-3-4-5-6-7-8-9-10-11-12-logo.jpg",Radio Rádio Cidade
+https://glsolutionstreming.com.br/radio/8010/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-cidade-0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-logo.jpg",Radio Rádio Cidade
+https://sonicpanel.oficialserver.com:7007/;stream.nsvu0026type=ac+
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-cidade-fm-0-1-2-logo.jpg",Radio Rádio Cidade FM
+http://srv27.brasilstream.com.br:8993/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-cidade-fm-0-1-2-3-4-5-6-7-8-9-10-11-12-13-logo.jpg",Radio Rádio Cidade FM
+https://server14.srvsh.com.br:7114/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-cidade-fm-0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-logo.jpg",Radio Rádio Cidade FM
+https://server2.webradios.com.br:19168/9168
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-clube-fm-0-1-2-3-4-5-6-logo.jpg",Radio Rádio Clube FM
+https://fmclube.jmvstream.com/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-cultura-0-1-2-3-4-5-6-7-8-logo.jpg",Radio Rádio Cultura
+https://ice.fabricahost.com.br/culturaandira
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-cultura-0-1-2-3-4-5-6-7-8-9-10-11-logo.jpg",Radio Rádio Cultura
+https://03.bitstreaming.info:8606/;?1694530552816
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-cultura-0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-logo.jpg",Radio Rádio Cultura
+https://str02.kfmidia.com.br:6672/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-cultura-0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-logo.jpg",Radio Rádio Cultura
+https://stm20.srvaudio.com.br:9480/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-cultura-0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-logo.jpg",Radio Rádio Cultura
+https://stm2.streamproarte.com.br:7426/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-cultura-fm-0-1-2-3-4-logo.jpg",Radio Rádio Cultura FM
+http://stream2.svrdedicado.org:8194/stream/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-difusora-0-1-2-3-4-5-6-7-8-9-logo.jpg",Radio Rádio Difusora
+https://r15.ciclano.io:14427/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-difusora-0-1-2-3-4-5-6-7-8-9-10-11-12-13-logo.jpg",Radio Rádio Difusora
+http://qh5fz.srv27.brasilstream.com.br:8005/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-difusora-0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-logo.jpg",Radio Rádio Difusora
+https://streaming.inweb.com.br/difusora
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-farol-0-1-logo.jpg",Radio Rádio Farol
+https://sws.onradio.biz:10987/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-fm-96-0-1-logo.jpg",Radio Rádio FM 96
+https://cast2.youngtech.radio.br/radio/8130/radio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-guara-fm-0-1-logo.jpg",Radio Rádio Guará FM
+https://servidor28.brlogic.com:7090/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-hits-0-1-2-logo.jpg",Radio Rádio Hits
+https://srv3.soundstream.com.br/listen/canalhits/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-jovem-guarda-0-1-logo.jpg",Radio Rádio Jovem Guarda
+https://radiocinemaenovela.com.br:3006/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-lider-0-1-2-3-logo.jpg",Radio Rádio Líder
+https://ssl.srvstm.com:13272/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-lider-fm-0-1-2-3-4-5-6-7-logo.jpg",Radio Rádio Líder FM
+https://player.uaihost.audio/proxy/7008
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-lideranca-0-1-2-logo.jpg",Radio Lideranca
+https://stream.zeno.fm/uh5fsx1rwmzuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-magia-0-1-logo.jpg",Radio Rádio Magia
+https://stream.zeno.fm/hbmtesubelivv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-mais-0-1-2-logo.jpg",Radio Rádio Mais
+https://ice.fabricahost.com.br/maismaringapr
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-mais-0-1-2-3-4-logo.jpg",Radio Mais
+https://stream.zeno.fm/gelsu8195r8tv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-mais-fm-0-1-2-3-4-logo.jpg",Radio Rádio Mais FM
+https://conecta.welltecnologia.com.br/radio/8160/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-mania-0-1-2-3-logo.jpg",Radio Rádio Mania
+http://server14.srvsh.com.br:7564/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-massa-fm-0-1-2-3-4-5-6-7-8-9-10-11-12-13-logo.jpg",Radio Rádio Massa FM
+https://ice.fabricahost.com.br/massafmcmourao
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-massa-fm-0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-logo.jpg",Radio Rádio Massa FM
+https://stm01.virtualcast.com.br:8166/massaivaipora
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-mega-0-1-2-logo.jpg",Radio Rádio Mega
+https://player.stms.live/proxy/6692/1/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-metropole-0-1-2-logo.jpg",Radio Rádio Metrópole
+https://stm17.xcast.com.br:7292/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-nativa-0-1-2-3-4-logo.jpg",Radio Rádio Nativa
+https://ssl.xcast.com.br:8422/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-nativa-0-1-2-3-4-5-logo.jpg",Radio Rádio Nativa
+https://r16.ciclano.io:15026/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-nova-0-1-2-3-4-logo.jpg",Radio Nova
+https://centova4.transmissaodigital.com:20236/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-nova-fm-0-1-2-3-4-5-6-7-logo.jpg",Radio Nova FM
+https://ice.fabricahost.com.br/novafm103
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-novo-tempo-0-1-2-3-4-logo.jpg",Radio Rádio Novo Tempo
+http://198.24.165.180:8910/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-palmeira-0-1-logo.jpg",Radio Rádio Palmeira
+https://stm1.voxpainel.com.br:7030/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-regional-fm-0-1-logo.jpg",Radio Rádio Regional FM
+https://wms5.webradios.com.br:19054/9054
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-santa-cruz-0-1-2-logo.jpg",Radio Rádio Santa Cruz
+https://casthttps1.suaradionanet.net/10204/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-sorriso-fm-0-1-logo.jpg",Radio Rádio Sorriso FM
+http://centova10.ciclanohost.com.br:9139/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-sorriso-fm-0-1-2-logo.jpg",Radio Rádio Sorriso FM
+https://r10.ciclano.io:15081/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-sorriso-fm-0-1-2-3-logo.jpg",Radio Rádio Sorriso FM
+http://142.44.230.74:9062/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-sucesso-fm-0-1-logo.jpg",Radio Rádio Sucesso FM
+http://s01.onradio.biz:7666/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-vida-nova-fm-0-1-2-3-logo.jpg",Radio Rádio Vida Nova FM
+https://ssl.mestrestream.xyz:7094/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-rede-aleluia-0-1-2-logo.jpg",Radio Rede Aleluia
+https://194398c.ha.azioncdn.net/primary/radio99_3fm.sdp/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-rede-aleluia-0-1-2-3-logo.jpg",Radio Rede Aleluia
+https://44398c.ha.azioncdn.net/primary/marumbyfm.sdp/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-rede-aleluia-0-1-2-3-4-5-logo.jpg",Radio Rede Aleluia
+https://u9f60a6dec.map.azionedge.net/primary/radiocaraguatatuba102_7fm.sdp/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-rede-aleluia-0-1-2-3-4-5-6-logo.jpg",Radio Rede Aleluia
+https://214398c.ha.azioncdn.net/primary/radio98_1fm.sdp/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-rede-aleluia-0-1-2-3-4-5-6-7-logo.jpg",Radio Rede Aleluia
+https://174398c.ha.azioncdn.net/primary/radiocidade.sdp/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-rede-aleluia-0-1-2-3-4-5-6-7-8-logo.jpg",Radio Rede Aleluia
+https://254398c.ha.azioncdn.net/primary/radio91fm.sdp/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-rede-aleluia-0-1-2-3-4-5-6-7-8-9-logo.jpg",Radio Rede Aleluia
+https://204398c.ha.azioncdn.net/primary/radio98_5fm.sdp/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-rede-aleluia-0-1-2-3-4-5-6-7-8-9-10-logo.jpg",Radio Rede Aleluia
+https://84398c.ha.azioncdn.net/primary/radio105_5fm.sdp/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-rede-aleluia-0-1-2-3-4-5-6-7-8-9-10-11-logo.jpg",Radio Rede Aleluia
+https://274398c.ha.azioncdn.net/primary/radio90_5fm.sdp/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-rede-aleluia-0-1-2-3-4-5-6-7-8-9-10-11-12-logo.jpg",Radio Rede Aleluia
+https://94398c.ha.azioncdn.net/primary/radio88_5fm.sdp/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-rede-aleluia-0-1-2-3-4-5-6-7-8-9-10-11-12-13-logo.jpg",Radio Rede Aleluia
+https://14398c.ha.azioncdn.net/primary/rj_angra.sdp/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-rede-aleluia-0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-logo.jpg",Radio Rede Aleluia
+https://14398c.ha.azioncdn.net/primary/sp_limeira.sdp/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-rede-aleluia-0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-logo.jpg",Radio Rede Aleluia
+https://14398c.ha.azioncdn.net/primary/sp_piracicaba.sdp/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-rede-aleluia-0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-logo.jpg",Radio Rede Aleluia
+https://14398c.ha.azioncdn.net/primary/sp_ribpreto.sdp/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-rede-aleluia-0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-logo.jpg",Radio Rede Aleluia
+https://54398c.ha.azioncdn.net/primary/sp_praiagrande.sdp/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-rede-aleluia-0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-logo.jpg",Radio Rede Aleluia
+https://14398c.ha.azioncdn.net/primary/sp_jau.sdp/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-rede-aleluia-0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-logo.jpg",Radio Rede Aleluia
+https://14398c.ha.azioncdn.net/primary/sp_aracatuba.sdp/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-rede-aleluia-0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-logo.jpg",Radio Rede Aleluia
+https://14398c.ha.azioncdn.net/primary/sc_blumenau.sdp/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-rede-aleluia-0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-logo.jpg",Radio Rede Aleluia
+https://14398c.ha.azioncdn.net/primary/pr_londrina.sdp/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-rede-aleluia-0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-22-logo.jpg",Radio Rede Aleluia
+https://14398c.ha.azioncdn.net/primary/rs_riogrande.sdp/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-rede-aleluia-0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-22-23-logo.jpg",Radio Rede Aleluia
+https://14398c.ha.azioncdn.net/primary/sp_sjriopreto.sdp/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-regional-fm-0-1-logo.jpg",Radio Regional FM
+https://stm1.srvif.com:8066/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-sucesso-fm-0-1-logo.jpg",Radio Sucesso FM
+https://servidor36-4.brlogic.com:8300/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-sucesso-fm-0-1-2-logo.jpg",Radio Sucesso FM
+https://www.appradio.app:8128/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-sucesso-fm-0-1-2-3-logo.jpg",Radio Sucesso FM
+http://144.217.192.196:8099/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-bounce-radio-0-1-logo.jpg",Bounce Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/CJPTFM_SC?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-bounce-radio-0-1-2-logo.jpg",Bounce Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/CKKWFMAAC_SC?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-bounce-radio-0-1-2-3-logo.jpg",Bounce Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/CKNLFMAAC_SC?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-bounce-radio-0-1-2-3-4-logo.jpg",Bounce Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/CKKCFMAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-bounce-radio-0-1-2-3-4-5-logo.jpg",Bounce Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/CKGR.mp3?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-bounce-radio-0-1-2-3-4-5-6-logo.jpg",Bounce Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/CKXRFMAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-bounce-radio-0-1-2-3-4-5-6-7-logo.jpg",Bounce Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/CKORAMAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-bounce-radio-0-1-2-3-4-5-6-7-8-logo.jpg",Bounce Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/CKTKFMAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-bounce-radio-0-1-2-3-4-5-6-7-8-9-logo.jpg",Bounce Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/CJATFMAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-coast-0-1-logo.jpg",Radio Coast
+https://vistaradio.streamb.live/SB00081
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cl-digital-fm-0-1-2-3-logo.jpg",Radio Digital FM
+https://radio.digitalfm.cl:8000/talca
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cl-digital-fm-0-1-2-3-4-logo.jpg",Radio Digital FM
+https://radio.digitalfm.cl:8000/ptaarenas
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cl-la-metro-fm-0-1-logo.jpg",Radio La Metro FM
+https://audio.streaminghd.cl:2000/stream/estacionmetropolitana/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ar-planet-music-0-1-2-logo.jpg",Radio Planet Music
+https://strcdn.klm99.com:10986/planetvillagesell
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ar-radio-andina-0-logo.jpg",Radio Andina
+https://radios.streamingdha.com.ar:9670/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/es-lafresca-0-1-logo.jpg",Radio laFRESCA
+https://stream.produccionesdale.com/listen/lafresca/ciudadreal
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-alouette-radio-0-1-logo.jpg",Alouette Radio
+https://alouette-limoges.ice.infomaniak.ch/alouette-limoges-128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-alpes-1-alpes-du-sud-0-1-logo.jpg",Radio Alpes 1 - Alpes du sud
+https://alpes1gap.ice.infomaniak.ch/alpes1-sisteron.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-hit-west-0-1-logo.jpg",Radio Hit West
+https://stream.rcs.revma.com/mvyt6kr0am3vv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-meuse-fm-0-1-logo.jpg",Radio Meuse FM
+https://listen.radioking.com/radio/194749/stream/237130
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gr-radio-dee-jay-0-1-logo.jpg",Radio Dee Jay
+https://sp3.streams.ovh/8089/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/id-endless-for-beacon-fm-0-1-logo.jpg",Radio Endless For Beacon FM
+https://stream.zeno.fm/xbiqizas5qfvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/it-radio-one-0-1-logo.jpg",Radio One
+https://az11.yesstreaming.net:8280/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pl-radio-czarna-sowa-0-1-logo.jpg",Radio Czarna Sowa
+https://stream.zeno.fm/tack8qe7b0vuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ro-radio-viva-fm-0-1-logo.jpg",Radio Viva FM
+https://cloud.radiosonicpanel.ro:8006/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-classic-oldies-0-1-logo.jpg",Radio Classic Oldies
+https://streamdb3web.securenetsystems.net/cirruspremier/WMID
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-jack-fm-0-1-logo.jpg",Radio Jack FM
+https://streamdb9web.securenetsystems.net/ce/index.cfm?stationCallSign=KJKQ
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-mix-1065-0-1-logo.jpg",Radio Mix 106.5
+https://streamdb8web.securenetsystems.net/cirruscontent/YEA1065
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-q94-0-1-logo.jpg",Radio Q94
+https://live.amperwave.net/manifest/audacy-wrvqfmaac-hlsc.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-the-lift-fm-0-1-logo.jpg",Radio The Lift FM
+https://ais-sa1.streamon.fm/7107_48k.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-the-vibe-0-1-logo.jpg",Radio The Vibe
+https://playerservices.streamtheworld.com/api/livestream-redirect/WVBW_FMAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-z99-0-1-logo.jpg",Radio Z99
+https://stream.zeno.fm/36ehu2m4es8uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ve-cadena-digital-fm-0-1-logo.jpg",Radio Cadena Digital FM
+https://streamingned.com:2000/stream/AACDigital953FM

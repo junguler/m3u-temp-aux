@@ -1,0 +1,22 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wellington1053fm-591329-logo.jpg",Radio Wellington105.3fm
+http://fire.wavestreamer.com:4261/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wellington1053fm-591329-logo.jpg",Radio Wellington105.3fm
+http://fire.wavestreamer.com:4261/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/just-jazz-648568-logo.jpg",Radio Just Jazz
+http://epsilon.shoutca.st:9136/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/just-jazz-648568-logo.jpg",Radio Just Jazz
+http://epsilon.shoutca.st:9136/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-magic-0-1-logo.jpg",Radio Magic
+https://digitalstreams-edge-lb.mediaworks.nz/magic_net/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-mai-fm-0-1-logo.jpg",Radio Mai FM
+https://digitalstreams-edge-lb.mediaworks.nz/mai_net/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-newstalk-zb-0-1-logo.jpg",Radio Newstalk ZB
+https://23153.live.streamtheworld.com/NZME_01AAC/HLS/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-the-edge-0-1-logo.jpg",Radio The Edge
+https://digitalstreams-edge-lb.mediaworks.nz/edge_net/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-the-hits-0-1-logo.jpg",Radio The Hits
+https://ais-nzme.streamguys1.com/nz_005/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-the-rock-0-1-logo.jpg",Radio The Rock
+https://digitalstreams-edge-lb.mediaworks.nz/rock_net/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-the-sound-0-1-logo.jpg",Radio The Sound
+https://digitalstreams-edge-lb.mediaworks.nz/sound_net/playlist.m3u8

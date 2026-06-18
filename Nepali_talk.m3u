@@ -1,0 +1,10 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/namaste-fm-592255-logo.jpg",Radio Namaste FM
+http://core.itech.host:7014/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-gandaki-592283-logo.jpg",Radio Gandaki
+http://radio.itechnepal.com:9689/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-pariwartan-592307-logo.jpg",Radio Pariwartan
+http://37.59.42.207:8166/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bfbs-gurkha-radio-577296-logo.jpg",BFBS Gurkha Radio
+http://edge-audio-02-gos1.sharp-stream.com/ssvcbfbs3.mp3?i=ssvcbfbs3.mp3.m3u
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nepali-christian-radio-585874-logo.jpg",Nepali Christian Radio
+http://sh2.audio-stream.com/tunein.php/kbaraily/playlist.pls

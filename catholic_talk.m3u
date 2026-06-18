@@ -1,0 +1,88 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/catedral-web-radio-632459-logo.jpg",Radio Catedral Web Rádio
+http://192.198.204.194:8168/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ksgs-lp-584839-logo.jpg",Radio KSGS-LP
+http://38.107.243.221:8530/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wmtb-fm-570020-logo.jpg",Radio WMTB-FM
+http://wmtb.msmary.edu:81/broadwave.m3u?src=1u0026rate=1u0026src=1u0026rate=1
+#EXTINF:-1 tv-logo="",Radio Magnificat
+http://radios.navegacionesfranks.com:9820/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pallotti-radio-647356-logo.jpg",PALLOTTI RADIO
+http://192.99.18.107:8000/stream
+#EXTINF:-1 tv-logo="",Radio La Voz de San Mateo
+http://67.227.193.39:9312/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/san-pablo-colombia-593209-logo.jpg",Radio San Pablo Colombia
+http://centova.paradigmaweb.com:9320/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-evangelizar-fm-curitiba-649496-logo.jpg",Radio Rádio Evangelizar FM (Curitiba)
+http://192.95.32.177:8096/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/living-bread-radio-network-570460-logo.jpg",Living Bread Radio Network
+http://ic2.nwrnetwork.com/wilb-am
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wryt-570620-logo.jpg",Radio WRYT
+http://covenantnet.stream.miriamtech.net:8000/wryt
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wpyr-571241-logo.jpg",Radio WPYR
+http://38.107.243.219:8610/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-vatican-3-571643-logo.jpg",Radio Vatican 3
+http://vatican.ic.llnwd.net/stream/vatican_vatican03.m3u
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-vatican-4-571645-logo.jpg",Radio Vatican 4
+http://rvl.vaticanmedia.va/channel4.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/waob-we-are-one-bodyr-radio-572166-logo.jpg",WAOB - We Are One Body® Radio
+https://ice66.securenetsystems.net/WAOBET
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wqom-572301-logo.jpg",Radio WQOM
+http://ruby.streamguys.com:8110/wqom.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/domestic-church-media-572373-logo.jpg",Radio Domestic Church Media
+http://50.22.253.46/wfjs-am
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wjhd-573297-logo.jpg",Radio WJHD
+https://s2.radio.co/s4b09a5b03/listen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wlof-573647-logo.jpg",Radio WLOF
+http://peace.str3am.com:6750/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wdmc-573740-logo.jpg",Radio WDMC
+http://wdmc.stream.miriamtech.net:8000/wdmc.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/real-life-radio-573770-logo.jpg",Real Life Radio
+http://ic2.christiannetcast.com/wajc-ir
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wmet-573744-logo.jpg",Radio WMET
+http://grn-stream-01.miriamtech.net:8000/WMET1160AM.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-guadalupe-dallas-574737-logo.jpg",Radio Guadalupe Dallas
+http://grn-stream-01.miriamtech.net:8000/KJON850AM.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/real-presence-radio-network-575774-logo.jpg",Real Presence Radio Network
+https://realpresence.stream.miriamtech.net:13701/kwtl
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ewtn-catholic-radio-and-local-programs-576027-logo.jpg",EWTN Catholic radio and local programs
+http://173.161.7.254:8000/stream1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kedc-579661-logo.jpg",Radio KEDC
+http://red-c.miriamtech.net:8000/KEDC
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-luz-de-cristo-582787-logo.jpg",Radio Luz de Cristo
+http://st.unored.com:8000/luzdecristo
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-vatican-7-583113-logo.jpg",Radio Vatican 7
+http://rvl.vaticanmedia.va/channel7.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wjta-583546-logo.jpg",Radio WJTA
+http://72.11.9.42:8000/stream
+#EXTINF:-1 tv-logo="",Radio WLOL-FM
+http://radio.securenetsystems.net/radio_player_large.cfm?stationCallSign=WLOL
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/decatur-catholic-radio-584836-logo.jpg",Decatur Catholic Radio
+http://streamdb3web.securenetsystems.net/v5/WDCR
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-maria-boston-587523-logo.jpg",Radio Maria (Boston)
+http://162.144.253.233:8084/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-maria-houston-587930-logo.jpg",Radio Maria (Houston)
+http://162.144.253.233:8096/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wtmi-589113-logo.jpg",Radio WTMI
+http://ruby.streamguys.com:8060/live.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/spirit-online-radio-589342-logo.jpg",Spirit Online Radio
+http://radio.securenetsystems.net/radio_player_large.cfm?stationCallSign=PAXC
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/encuentro-fm-592543-logo.jpg",Radio Encuentro FM
+http://50.22.219.37:33234/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-maria-rwanda-592948-logo.jpg",Radio Maria Rwanda
+http://dreamsiteradiocp.com:8044/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-maria-papua-new-guinea-592944-logo.jpg",Radio Maria (Papua New Guinea)
+http://50.7.181.186:8030/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kfhc-593637-logo.jpg",Radio KFHC
+http://radio.securenetsystems.net/v5/KFHC
+#EXTINF:-1 tv-logo="",Radio Jesus Esta Vivo
+http://s16.myradiostream.com:5712/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/palabra-de-fe-y-vida-603462-logo.jpg",Radio PALABRA DE FE Y VIDA
+http://198.100.145.185:8184/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radiopsmm-603541-logo.jpg",RadioPsmm
+http://64.31.10.130:8142/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-web-la-voz-de-jesus-603735-logo.jpg",Radio Web La Voz de Jesus
+http://156.obj.netromedia.net/LVDJ/LVDJ/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/maria-radio-indy-604981-logo.jpg",Maria Radio Indy
+http://184.107.195.130:6746/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/haz-lio-radio-605625-logo.jpg",Haz Lio Radio
+http://188.165.240.90:9054/;

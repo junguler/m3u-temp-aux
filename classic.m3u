@@ -1,0 +1,28 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-nova-0-1-2-logo.jpg",Radio Rádio Nova
+https://server2.webradios.com.br:19106/9106
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-universitaria-0-1-logo.jpg",Radio Rádio Universitária
+https://streaming.ufg.br:8443/radiouniversitaria
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-ici-musique-0-1-logo.jpg",Radio Ici Musique
+https://playerservices.streamtheworld.com/api/livestream-redirect//CBUXFM_SRC.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-ici-musique-0-1-2-logo.jpg",Radio Ici Musique
+https://rcavliveaudio-tunein.akamaized.net/hls/live/2006998/M-7MWIN0_WIN/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-ici-musique-0-1-2-3-logo.jpg",Radio Ici Musique
+https://rcavliveaudio.akamaized.net/hls/live/2006986/M-7OOTT0_OTT/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-ici-musique-0-1-2-3-4-logo.jpg",Radio Ici Musique
+https://rcavliveaudio.akamaized.net/hls/live/2006979/M-7QMTL0_MTL/master.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-ici-musique-0-1-2-3-4-5-logo.jpg",Radio Ici Musique
+https://rcavliveaudio.akamaized.net/hls/live/2006988/M-7QSAG0_SAG/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-ici-musique-0-1-2-3-4-5-6-logo.jpg",Radio Ici Musique
+https://rcavliveaudio.akamaized.net/hls/live/2006990/M-7OSUB0_SUB/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ar-radio-curuzu-en-linea-1-logo.jpg",Radio Curuzú en Línea 1
+https://stream.zeno.fm/ipsjxfnfnadvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-radio-1-0-1-logo.jpg",Radio Rádió 1
+https://icast.connectmedia.hu/5219/live.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-radio-universidad-de-guanajuato-0-1-logo.jpg",Radio Universidad de Guanajuato
+http://148.214.155.119:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-kusc-0-1-logo.jpg",Radio KUSC
+https://playerservices.streamtheworld.com/api/livestream-redirect/KUSCMP128_SC?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-vpm-music-0-1-logo.jpg",Radio VPM Music
+https://playerservices.streamtheworld.com/api/livestream-redirect/WCVEHD2_SC?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-wvtf-public-radio-0-1-logo.jpg",WVTF Public Radio
+https://wvtf.streamguys1.com/wvtf-edge/radioiq-mp3-64/icecast.audio
