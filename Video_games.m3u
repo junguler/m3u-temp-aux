@@ -1,0 +1,10 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wasteland-radio-594381-logo.jpg",Wasteland Radio
+http://wasteland.su:8080/radio.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/galaxy-news-radio-593892-logo.jpg",Galaxy News Radio
+http://galaxynewsradio.info/stream.m3u
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-gamefm-599190-logo.jpg",Radio Rádio GameFM
+http://centova.imaginaredigital.com.br:8000/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-excitebit-611607-logo.jpg",Radio ExciteBit
+http://46.105.180.202:8100/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/curveradio-601253-logo.jpg",CurveRadio
+http://178.32.107.151/proxy/curveradio?mp=/stream

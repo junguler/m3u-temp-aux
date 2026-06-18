@@ -1,0 +1,14 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/national-education-radio-567668-logo.jpg",National Education Radio
+rtmp://streaming.ner.gov.tw/live/3/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ufo-radio-568241-logo.jpg",UFO Radio
+http://hichannel.hinet.net/radio/index.do?id=205
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/muse-sydney-chinese-radio-598896-logo.jpg",Muse Sydney Chinese Radio
+http://streamer2.rightclickitservices.com:7240/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sun-fm-1036-567839-logo.jpg",Radio Sun FM 1036
+http://mj.rgd.com.cn/rgd-live/8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uni-radio-567953-logo.jpg",Uni Radio
+http://hichannel.hinet.net/player/radio/index.jsp?radio_id=282
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/i-radio-bcc-music-network-568637-logo.jpg",i Radio (BCC Music Network)
+http://hichannel.hinet.net/player/radio/index.jsp?radio_id=206
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gold-vox-xiangtan-1065-587225-logo.jpg",Radio Gold Vox Xiangtan 106.5
+http://42.121.31.78/10.200.118.81/live/2412/48.m3u8

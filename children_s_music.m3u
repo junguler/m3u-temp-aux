@@ -1,0 +1,40 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bebenautas-592361-logo.jpg",Radio BebeNautas
+http://sc2p.ceomedia.cl/proxy/bebenautas?mp=/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/koala-radio-593007-logo.jpg",Koala Radio
+http://fire.wavestreamer.com:8600/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radiolinoch-593339-logo.jpg",Radiolino.ch
+http://radiolinoch.ice.infomaniak.ch/radiolinoch-192.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wonderground-radio-161915-logo.jpg",Wonderground Radio
+http://wondergroundstream1.publicradio.org/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cherie-kids-187017-logo.jpg",Radio Chérie Kids
+http://mp3.live.tv-radio.com/3380/cherie_kids/che_115735.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nifu-nifa-radio-597328-logo.jpg",Nifu Nifa Radio
+http://74.50.126.229:8006/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mdr-figaro-figarino-157754-logo.jpg",Radio MDR FIGARO Figarino
+http://c22033-l.i.core.cdn.streamfarm.net/22033mdr/live/3087mdr_figaro/ch_figarino_128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kolybelnaya-101ru-187462-logo.jpg",Radio Колыбельная - 101.ru
+http://ru2.101.ru:8000/c8_1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/detskie-pesni-101ru-187463-logo.jpg",Radio Детские Песни - 101.ru
+http://eu7.101.ru:8000/m3_3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/genzii-radio-162158-logo.jpg",GenZii Radio
+http://icecast01.loudcaster.com:80/693.32.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cyber-fm-old-time-radio-157791-logo.jpg",Cyber-FM Old Time Radio
+http://music.cyber-fm.com:25000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/heavenly-holidays-154603-logo.jpg",Radio Heavenly Holidays
+http://gotradioaac55.lbdns-streamguys.com/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-magica-599134-logo.jpg",RADIO MAGICA
+http://bwbstream.beeweeb.com:1935/live/radiomagica_live.stream/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sunradio-detskie-pesenki-171293-logo.jpg",SunRadio Детские Песенки
+http://radio.sunradio.ru:80/children64
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mash-ups-153811-logo.jpg",Radio Mash Ups
+http://gotradioaac53.lbdns-streamguys.com
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/smile-music-childrens-radio-599529-logo.jpg",Smile Music - Children's Radio
+http://smilemusic.gr:2199/tunein/stekgr.pls
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pearlfm-610240-logo.jpg",Radio PearlFM
+http://stereo.wavestreamer.com:5214/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-glagoljica-173901-logo.jpg",Radio Glagoljica
+http://208.87.25.4:7777/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gulli-radio-613333-logo.jpg",Gulli Radio
+http://stream.myjungly.fr/GULLI
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kids-hits-junior-601209-logo.jpg",Radio KIDS HITS Junior
+http://92.255.237.31:8000/kids-hits-junior

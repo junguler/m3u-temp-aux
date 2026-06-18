@@ -1,0 +1,8 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/calm-radio-latin-590194-logo.jpg",Calm Radio - Latin
+http://streams.calmradio.com/api/243/128/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/miled-music-tango-598331-logo.jpg",Radio Miled Music Tango
+http://192.99.34.205:8240/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/reportango-radio-609926-logo.jpg",ReporTango Radio
+http://206.190.130.182:8088/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/viceversaradio-612610-logo.jpg",ViceVersaRadio
+http://s9.myradiostream.com:4396/;

@@ -1,0 +1,12 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/poppies-radio-591163-logo.jpg",Poppies Radio
+http://stream1.poppiesradio.com:8000/PoppiesRadio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nasn-radio-591953-logo.jpg",NASN Radio
+http://ghost.wavestreamer.com:5961/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uda-radio-592404-logo.jpg",UDA Radio
+http://sd395-a.lcinternet.com:9148/livelq
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/genlud-604068-logo.jpg",Radio Genlüd
+http://genlud.dmjx.dk:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gol-radio-malaga-587181-logo.jpg",Gol Radio Málaga
+http://78.129.190.50:6017/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/al-rojo-vivo-dim-606901-logo.jpg",Radio Al Rojo Vivo DIM
+http://62.210.203.78:8055/live

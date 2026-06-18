@@ -1,0 +1,6 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/capital-radio-595218-logo.jpg",Capital Radio
+http://capitalfm.sd:9106/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-kanal-barcelona-171185-logo.jpg",Radio Kanal Barcelona
+http://5.135.71.2:31826/stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/classical-ipr-573161-logo.jpg",Radio Classical IPR
+http://playerservices.streamtheworld.com/api/livestream-redirect/WIAAFM.mp3?tdtok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6ImZTeXA4In0.eyJpc3MiOiJ0aXNydiIsInN1YiI6IjIxMDY0IiwiaWF0IjoxNTY4OTYxMjQ5LCJ0ZC1yZWciOmZhbHNlfQ.eqBbUr5lHGp7ZLFT5iEIKPNPRIBVbmw0rApH_dm96lQ

@@ -1,0 +1,32 @@
+#EXTINF:-1 tv-logo="",MBC Radio Rodrigues
+http://www.mbcradio.tv/sites/all/themes/mbcradiotv/radiostreams/rodfm.m3u8
+#EXTINF:-1 tv-logo="",MBC Radio Rodrigues
+http://www.mbcradio.tv/sites/all/themes/mbcradiotv/radiostreams/rodfm.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mbc-radio-maurice-1-568036-logo.jpg",MBC Radio Maurice 1
+http://www.mbcradio.tv/sites/all/themes/mbcradiotv/radiostreams/radiomaurice.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mbc-radio-maurice-1-568036-logo.jpg",MBC Radio Maurice 1
+http://www.mbcradio.tv/sites/all/themes/mbcradiotv/radiostreams/radiomaurice.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mbc-radio-mauritius-2-568037-logo.jpg",MBC Radio Mauritius 2
+http://www.mbcradio.tv/sites/all/themes/mbcradiotv/radiostreams/radiomauritius.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mbc-radio-mauritius-2-568037-logo.jpg",MBC Radio Mauritius 2
+http://www.mbcradio.tv/sites/all/themes/mbcradiotv/radiostreams/radiomauritius.m3u8
+#EXTINF:-1 tv-logo="",Jarsor Mizik Radio
+http://72.55.149.162:5807/;
+#EXTINF:-1 tv-logo="",Jarsor Mizik Radio
+http://72.55.149.162:5807/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/zero-alpha-608066-logo.jpg",Radio Zero Alpha
+http://samcloud.spacial.com/api/listen?sid=5692u0026rid=122149
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/zero-alpha-608066-logo.jpg",Radio Zero Alpha
+http://samcloud.spacial.com/api/listen?sid=5692u0026rid=122149
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/porneswarradio-611849-logo.jpg",PorneswarRadio
+http://listen.spacial.com/api/listen/?sid=56772u0026method=scu0026rid=1133913
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/porneswarradio-611849-logo.jpg",PorneswarRadio
+http://listen.spacial.com/api/listen/?sid=56772u0026method=scu0026rid=1133913
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fullfaya-mauritius-613820-logo.jpg",Radio FULLFAYA MAURITIUS
+http://87.117.193.10:8400/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fullfaya-mauritius-613820-logo.jpg",Radio FULLFAYA MAURITIUS
+http://87.117.193.10:8400/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/musique-des-iles-de-ocean-indien-616337-logo.jpg",Radio Musique des Iles de Océan Indien
+http://listen.shoutcast.com/lovehitfm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/musique-des-iles-de-ocean-indien-616337-logo.jpg",Radio Musique des Iles de Océan Indien
+http://listen.shoutcast.com/lovehitfm

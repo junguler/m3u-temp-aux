@@ -1,0 +1,72 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/jouluradio-xmas-593764-logo.jpg",Jouluradio: Xmas
+http://relay1.toivon.zenon.media:8004/xmas
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/jouluradio-xmas-593764-logo.jpg",Jouluradio: Xmas
+http://relay1.toivon.zenon.media:8004/xmas
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/classic-595212-logo.jpg",Radio Classic
+https://stream.gbtimes.com/classic
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/classic-595212-logo.jpg",Radio Classic
+https://stream.gbtimes.com/classic
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pispalan-radio-597948-logo.jpg",Pispalan Radio
+http://digiradio.xyz:8000/pispalanradio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pispalan-radio-597948-logo.jpg",Pispalan Radio
+http://digiradio.xyz:8000/pispalanradio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hyypio-fm-170934-logo.jpg",Radio Hyypio FM
+http://stream.taajuus.fi:8161/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hyypio-fm-170934-logo.jpg",Radio Hyypio FM
+http://stream.taajuus.fi:8161/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/yle-radio-vega-568078-logo.jpg",YLE Radio Vega
+http://yleuni-f.akamaihd.net/i/yleliveradiohd_7@113884/master.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/yle-radio-vega-568078-logo.jpg",YLE Radio Vega
+http://yleuni-f.akamaihd.net/i/yleliveradiohd_7@113884/master.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-klf-171054-logo.jpg",Radio KLF
+http://217.30.180.245:80/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-klf-171054-logo.jpg",Radio KLF
+http://217.30.180.245:80/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/yle-kainuun-radio-568803-logo.jpg",YLE Kainuun Radio
+rtmp://stream3.yle.mobi/yle/live/kainuu.sdp
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/yle-kainuun-radio-568803-logo.jpg",YLE Kainuun Radio
+rtmp://stream3.yle.mobi/yle/live/kainuu.sdp
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/yle-radio-hame-568685-logo.jpg",YLE Radio Hame
+http://yleuni-f.akamaihd.net/i/yleliveradiohd_10@113887/master.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/yle-radio-hame-568685-logo.jpg",YLE Radio Hame
+http://yleuni-f.akamaihd.net/i/yleliveradiohd_10@113887/master.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/yle-tampereen-radio-568916-logo.jpg",YLE Tampereen Radio
+rtmp://stream3.yle.mobi/yle/live/tampere.sdp
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/yle-tampereen-radio-568916-logo.jpg",YLE Tampereen Radio
+rtmp://stream3.yle.mobi/yle/live/tampere.sdp
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/yle-turun-radio-568926-logo.jpg",YLE Turun Radio
+rtmp://stream3.yle.mobi/yle/live/turunradio.sdp
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/yle-turun-radio-568926-logo.jpg",YLE Turun Radio
+rtmp://stream3.yle.mobi/yle/live/turunradio.sdp
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/yle-pohjanmaan-radio-568934-logo.jpg",YLE Pohjanmaan Radio
+rtmp://stream3.yle.mobi/yle/live/pohjanmaa.sdp
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/yle-pohjanmaan-radio-568934-logo.jpg",YLE Pohjanmaan Radio
+rtmp://stream3.yle.mobi/yle/live/pohjanmaa.sdp
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/yle-keski-suomi-568960-logo.jpg",Radio YLE Keski-Suomi
+http://yleuni-f.akamaihd.net/i/yleliveradiohd_12@113889/master.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/yle-keski-suomi-568960-logo.jpg",Radio YLE Keski-Suomi
+http://yleuni-f.akamaihd.net/i/yleliveradiohd_12@113889/master.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/yle-etela-savon-568954-logo.jpg",Radio YLE Etela-Savon
+rtmp://stream3.yle.mobi/yle/live/etelasavo.sdp
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/yle-etela-savon-568954-logo.jpg",Radio YLE Etela-Savon
+rtmp://stream3.yle.mobi/yle/live/etelasavo.sdp
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/signatuneradio-609663-logo.jpg",SignatuneRadio
+http://67.212.189.122:8013/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/signatuneradio-609663-logo.jpg",SignatuneRadio
+http://67.212.189.122:8013/stream
+#EXTINF:-1 tv-logo="",Radio YLE Elava Arkisto
+http://yleuni-f.akamaihd.net/i/yleliveradiohd_8@113885/master.m3u8
+#EXTINF:-1 tv-logo="",Radio YLE Elava Arkisto
+http://yleuni-f.akamaihd.net/i/yleliveradiohd_8@113885/master.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/boofboofi-radio-613600-logo.jpg",Boofboofi Radio
+http://s14.myradiostream.com:8716/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/boofboofi-radio-613600-logo.jpg",Boofboofi Radio
+http://s14.myradiostream.com:8716/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radioverkkofi-614120-logo.jpg",Radioverkko.fi
+http://kuuntele.radioverkko.fi:8000/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radioverkkofi-614120-logo.jpg",Radioverkko.fi
+http://kuuntele.radioverkko.fi:8000/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/persian-rap-601265-logo.jpg",Radio Persian Rap
+http://play.datafaryad.com:8000/live128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/persian-rap-601265-logo.jpg",Radio Persian Rap
+http://play.datafaryad.com:8000/live128.mp3

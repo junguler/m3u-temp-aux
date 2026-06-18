@@ -1,0 +1,8 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/yesterday-radio-590936-logo.jpg",Yesterday-Radio
+http://www.yesterdayradio.de:4000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-mkw-hitmix-608354-logo.jpg",Radio MKW Hitmix
+http://92.222.49.186:9900/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-38-braunschweig-609527-logo.jpg",Radio 38 Braunschweig
+http://stream.radio38.de/radio38.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-esperando-614363-logo.jpg",Radio Esperando
+http://server-66.stream-server.nl:8838/;

@@ -1,0 +1,12 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/konyevi-radyo-597530-logo.jpg",Radio Konyevi Radyo
+http://95.173.184.17:8086/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/burc-fm-567889-logo.jpg",Radio Burç FM
+http://live.kure.fm:8052/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/instelafm-608600-logo.jpg",Radio instela.fm
+http://5.39.95.100/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/trt-kent-radyo-ankara-610142-logo.jpg",Radio TRT Kent Radyo Ankara
+http://trtcanlifm-lh.akamaihd.net/i/KENTANKARA_1@126162/master.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/trt-kent-radyo-istanbul-610146-logo.jpg",Radio TRT Kent Radyo Istanbul
+http://trtcanlifm-lh.akamaihd.net/i/KENTISTANBUL_1@126163/master.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radyo-retro-610650-logo.jpg",Radio Radyo Retro
+http://95.173.161.132:9966/;
