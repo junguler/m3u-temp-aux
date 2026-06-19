@@ -1,0 +1,24 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radiotochka-montreal-587946-logo.jpg",RadioTochka Montreal
+http://s5.radioboss.fm:8107/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/myradioua-vysotskys-songs-588416-logo.jpg",myRadio.ua Vysotsky's Songs
+http://music.myradio.ua:8000/pesni-vysockogo128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/chikradio-monte-carlo-590650-logo.jpg",Chikradio Monte-Carlo
+http://uk2.internet-radio.com:8373/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/autoradio-yekaterinburg-605318-logo.jpg",Autoradio- Yekaterinburg
+http://den.101.ru:4000/ar_66_03
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/russkoe-radio-ukraine-zolotoy-grammofon-605423-logo.jpg",Russkoe Radio Ukraine Zolotoy Grammofon
+http://online-rusradio2.tavrmedia.ua/RusRadio_Grammofon
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-spunik-107-fm-607772-logo.jpg",Radio Spunik 107 FM
+http://online.sputnik107.ru:8000/sputnik107_aacplus
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-vdv-616159-logo.jpg",Radio VDV
+http://vdvradio128.streamr.ru/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cherry-fresh-russian-rock-616298-logo.jpg",Radio Cherry Fresh - Russian Rock
+http://online.cherryfresh.ru:8000/rock_live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-roks-russian-rock-618875-logo.jpg",Radio Roks Russian Rock
+http://streams.radioplayer.by:8000/rusrock
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-roks-russian-top-618877-logo.jpg",Radio Roks Russian Top
+http://streams.radioplayer.by:8000/rushot_mc
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/russkoe-radio-detskiy-625815-logo.jpg",Russkoe Radio - Detskiy
+http://icecast.russkoeradio.cdnvideo.ru/st28.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/russkoe-radio-visotskiy-625813-logo.jpg",Russkoe Radio - Visotskiy
+http://icecast.russkoeradio.cdnvideo.ru/st27.mp3

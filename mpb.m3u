@@ -1,0 +1,10 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-sarau-587393-logo.jpg",Radio Rádio Sarau
+http://streaming13.hstbr.net:8184/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-nova-brasil-fm-aracaju-590601-logo.jpg",Radio Rádio Nova Brasil FM (Aracaju)
+http://20833.live.streamtheworld.com/NOVABRASIL_ARACAJUAAC_SC?DIST=TuneInu0026TGT=TuneInu0026maxServers=2u0026ua=RadioTimeu0026ttag=RadioTime
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/webmix-cambara-590856-logo.jpg",Radio Webmix Cambará
+http://cast4.hoost.com.br:8132/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-nova-brasil-fm-rio-608981-logo.jpg",Radio Rádio Nova Brasil FM (Rio)
+https://8216.brasilstream.com.br/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-web-pmpj-614135-logo.jpg",Radio Rádio Web PMPJ
+rtmp://wowza-hbw05.dyb.fm:1935/dyb/pmjpnovojuazeiro/media

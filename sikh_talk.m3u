@@ -1,0 +1,14 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nanaksar-radio-587966-logo.jpg",Nanaksar Radio
+http://janus.shoutca.st:8516/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mehra-media-gurbani-radio-591196-logo.jpg",Mehra Media Gurbani Radio
+http://mehramedia.com:8035/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sikhnet-radio-7-takhat-hazur-sahib-591621-logo.jpg",SikhNet Radio 7 - Takhat Hazur Sahib
+http://radio2.sikhnet.com:8038/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dharmik-fm-591910-logo.jpg",Radio Dharmik FM
+http://ns1.manpreetmoga.in:8000/;
+#EXTINF:-1 tv-logo="",Radio Bhai Amarjit Singh
+http://74.50.122.103:8578/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/24-7-radio-sarab-rog-kaa-auokhad-naam-613247-logo.jpg",24/7 Radio Sarab Rog Kaa Auokhad Naam
+http://akalmultimedia.net:8000/srkan
+#EXTINF:-1 tv-logo="",Khalsa Shauni Radio
+http://162.252.85.85:7718/;

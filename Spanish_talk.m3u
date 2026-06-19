@@ -1,0 +1,248 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-ser-jaen-588050-logo.jpg",Radio Cadena SER - Jaen
+http://46.39.192.8:84/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fm-simple-588064-logo.jpg",Radio FM Simple
+http://198.50.206.239:8022/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sol-fm-cordoba-radio-944-588703-logo.jpg",Radio Sol FM Córdoba Rádio 94.4
+http://212.129.60.86:9954/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-intereconomia-granada-589099-logo.jpg",Radio Intereconomia Granada
+http://streaming.elitecomunicacion.es:8004/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-ser-bilbao-589141-logo.jpg",Radio Cadena SER - Bilbao
+http://19373.live.streamtheworld.com:3690/SER_BILBAO_SC?DIST=TuneInu0026TGT=TuneInu0026maxServers=2u0026ua=RadioTimeu0026ttag=RadioTime
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-ser-albacete-589166-logo.jpg",Radio Cadena SER - Albacete
+http://19373.live.streamtheworld.com/SER_ALBACETE_SC?DIST=TuneInu0026TGT=TuneInu0026maxServers=2u0026ua=RadioTimeu0026ttag=RadioTime
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-ser-vimianzo-589162-logo.jpg",Radio Cadena SER - Vimianzo
+http://radiocoruna.lcinternet.com:9301/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-ser-andorra-589170-logo.jpg",Radio Cadena SER - Andorra
+http://playerservices.streamtheworld.com/api/livestream-redirect/SER_ANDORRA.mp3?tdtok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6ImZTeXA4In0.eyJpc3MiOiJ0aXNydiIsInN1YiI6IjIxMDY0IiwiaWF0IjoxNTY4OTcwODc2LCJ0ZC1yZWciOmZhbHNlfQ.h9QKO2Nu3bmY9UxJEOvu1TkcATNyQqz0uG9Tj4Ci3QM
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-ser-alpicat-589192-logo.jpg",Radio Cadena SER - Alpicat
+http://21273.live.streamtheworld.com/SER_AVILA_SC?DIST=TuneInu0026TGT=TuneInu0026maxServers=2u0026ua=RadioTimeu0026ttag=RadioTime
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-ser-gijon-589176-logo.jpg",Radio Cadena SER - Gijón
+http://19373.live.streamtheworld.com/SER_GIJON_SC?DIST=TuneInu0026TGT=TuneInu0026maxServers=2u0026ua=RadioTimeu0026ttag=RadioTime
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-ela-589204-logo.jpg",Radio Ela
+http://streaming.nodo50.org:8001/radioela.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-ser-caceres-589226-logo.jpg",Radio Cadena SER - Cáceres
+http://19373.live.streamtheworld.com/SER_CACERES_SC?DIST=TuneInu0026TGT=TuneInu0026maxServers=2u0026ua=RadioTimeu0026ttag=RadioTime
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-ser-burgos-589224-logo.jpg",Radio Cadena SER - Burgos
+http://19373.live.streamtheworld.com:3690/SER_BURGOS_SC?DIST=TuneInu0026TGT=TuneInu0026maxServers=2u0026ua=RadioTimeu0026ttag=RadioTime
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-ser-ceuta-589240-logo.jpg",Radio Cadena SER - Ceuta
+http://20723.live.streamtheworld.com/SER_CEUTA_SC?DIST=TuneInu0026TGT=TuneInu0026maxServers=2u0026ua=RadioTimeu0026ttag=RadioTime
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-ser-ciudad-real-589242-logo.jpg",Radio Cadena SER - Ciudad Real
+http://19983.live.streamtheworld.com/SER_CIUDAD_REAL_SC?DIST=TuneInu0026TGT=TuneInu0026maxServers=2u0026ua=RadioTimeu0026ttag=RadioTime
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-ser-algeciras-589234-logo.jpg",Radio Cadena SER - Algeciras
+http://19113.live.streamtheworld.com/SER_ALGECIRAS_SC?DIST=TuneInu0026TGT=TuneInu0026maxServers=2u0026ua=RadioTimeu0026ttag=RadioTime
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-ser-girona-589266-logo.jpg",Radio Cadena SER - Girona
+http://19993.live.streamtheworld.com/SER_GIRONA_SC?DIST=TuneInu0026TGT=TuneInu0026maxServers=2u0026ua=RadioTimeu0026ttag=RadioTime
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-ser-els-ports-castello-589238-logo.jpg",Radio Cadena SER - Els Ports/Castello
+http://83.44.160.96:8000/RADIOELSPORTS
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-ser-cordoba-luna-589264-logo.jpg",Radio Cadena SER - Cordoba/Luna
+http://srv0625.emisorasonline.com:8003/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-ser-granada-om-589290-logo.jpg",Radio Cadena SER - Granada OM
+http://19393.live.streamtheworld.com:3690/SER_SAN_SEBASTIAN_SC?DIST=TuneInu0026TGT=TuneInu0026maxServers=2u0026ua=RadioTimeu0026ttag=RadioTime
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-ser-jerez-589230-logo.jpg",Radio Cadena SER - Jerez
+http://streaming6.elitecomunicacion.es:8642/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/oiartzun-irratia-radio-589312-logo.jpg",Oiartzun Irratia Radio
+http://50.7.129.122:8341/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-ser-palma-de-mallorca-589306-logo.jpg",Radio Cadena SER - Palma de Mallorca
+http://19393.live.streamtheworld.com/SER_MALLORCA_SC?DIST=TuneInu0026TGT=TuneInu0026maxServers=2u0026ua=RadioTimeu0026ttag=RadioTime
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-ser-rioja-arnedo-589326-logo.jpg",Radio Cadena SER - Rioja/Arnedo
+http://streaming.radioarnedo.com/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-ser-radio-lugo-589350-logo.jpg",Cadena SER - Radio Lugo
+http://21323.live.streamtheworld.com/SER_ASO_LUGOAAC_SC?DIST=TuneInu0026TGT=TuneInu0026maxServers=2u0026ua=RadioTimeu0026ttag=RadioTime
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-ser-lorca-589356-logo.jpg",Radio Cadena SER - Lorca
+http://19983.live.streamtheworld.com:80/SER_LORCA_SC
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-ser-malaga-axarquia-589352-logo.jpg",Radio Cadena SER - Malaga/Axarquía
+http://emisoras.cadenaser.com:8085/velezmalaga
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-ser-cadena-ser-ourense-om-589362-logo.jpg",Radio Cadena SER - Cadena SER - Ourense OM
+http://188.165.241.117:8000/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-ser-soria-589374-logo.jpg",Radio Cadena SER - Soria
+http://19643.live.streamtheworld.com:3690/SER_SORIA_SC?DIST=TuneInu0026TGT=TuneInu0026maxServers=2u0026ua=RadioTimeu0026ttag=RadioTime
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-ser-tarragona-589376-logo.jpg",Radio Cadena SER - Tarragona
+http://19093.live.streamtheworld.com/SER_TARRAGONA_SC?DIST=TuneInu0026TGT=TuneInu0026maxServers=2u0026ua=RadioTimeu0026ttag=RadioTime
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-ser-valencia-xativa-589386-logo.jpg",Radio Cadena SER - Valencia/Xátiva
+http://emisoras.cadenaser.com:8085/xativa
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-ser-ourense-palencia-589366-logo.jpg",Radio Cadena SER - Ourense/Palencia
+http://player.streamtheworld.com/liveplayer.php?callsign=SER_PALENCIA
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-ser-toledo-589380-logo.jpg",Radio Cadena SER - Toledo
+http://19393.live.streamtheworld.com/SER_TOLEDO_SC?DIST=TuneInu0026TGT=TuneInu0026maxServers=2u0026ua=RadioTimeu0026ttag=RadioTime
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fama-1025-589539-logo.jpg",Radio FAMA 1025
+https://rcn.com.gt/radioonline/fama/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-mundo-sur-fm-589761-logo.jpg",Radio Mundo Sur FM
+http://www.mundosurfm.com
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-uner-fm-parana-590392-logo.jpg",Radio Uner FM (Paraná)
+http://streaming.uner.edu.ar/parana
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-la-llagosta-fm-590424-logo.jpg",Radio La Llagosta FM
+http://www.lcinternet.es/player/v3_420_666_llag/player.html
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-total-590478-logo.jpg",Radio Total
+http://miradioenlaweb.com:11068/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-estacion-mediterranea-590502-logo.jpg",Radio Estación Mediterránea
+rtmp://serverstreamgroup.biz/8032/default.stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-globo-sur-590522-logo.jpg",Radio Globo (SUR)
+https://rcn.radioonlinehd.net:8010/globosur
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-3-am-780-590620-logo.jpg",Radio 3 AM 780
+http://23.229.34.170:9300/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/aeros-radio-590712-logo.jpg",Aeros Radio
+http://aeros.hgo.itesm.mx:8000/AEROS128
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-nacional-santiago-del-estero-590766-logo.jpg",Radio Nacional (Santiago del Estero)
+http://icecast01.dcarsat.com.ar:8000/sc_rad21
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-impacto-tigre-590824-logo.jpg",Radio Impacto Tigre
+http://www.fmimpactotigre.com.ar/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-nueva-argentina-590818-logo.jpg",Radio Nueva Argentina
+http://184.107.187.146:8002/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/frecuencia-u-emisora-cultural-universidad-de-medellin-590848-logo.jpg",Radio Frecuencia U - Emisora Cultural Universidad de Medellín
+http://streaming.codigoe-marketing.com:8100/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-cafayate-591002-logo.jpg",Radio Cafayate
+http://www.radiocafayate.com/envivo/?r=540
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-10-san-carlos-591000-logo.jpg",Radio 10 San Carlos
+http://radio02.ferozo.com/tunein.php/ra02000303/playlist.pls
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-artika-591190-logo.jpg",Radio Artika
+http://streamingargentino4.com.ar:7126/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-mas-591244-logo.jpg",Radio Mas
+http://91.121.159.50/imbabura2/radio.htm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/extra-online-la-radio-591222-logo.jpg",Extra Online La Radio
+http://makrodigital.com:8136/ExtraHD
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-inedita-591374-logo.jpg",Radio Inédita
+http://server1.dainusradio.com:5258/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-integral-591392-logo.jpg",Radio Integral
+http://184.154.177.106:8320/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/caracol-radio-cali-591398-logo.jpg",Caracol Radio (Cali)
+http://17323.live.streamtheworld.com:3690/CR_CALIAAC_SC?DIST=TuneInu0026TGT=TuneInu0026maxServers=2u0026ua=RadioTimeu0026ttag=RadioTime
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-sapucay-591465-logo.jpg",Radio Sapucay
+http://server4.veemesoft.com.ar:25430/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/la-fm-ibague-591709-logo.jpg",Radio LA F.M. (Ibagué)
+http://live2.rcnmundo.com/lafmibague.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-super-studio-591976-logo.jpg",Radio Super Studio
+http://88.198.43.9:9432/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/venezuela-en-accion-on-line-592300-logo.jpg",Radio Venezuela en Acción on-line
+http://players40.iccbroadcast.com/players/venezuelaenaccion/reproductor_venezuelaenaccion.php
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/la-fm-manizales-592364-logo.jpg",Radio La FM (Manizales)
+http://live2.rcnmundo.com/lafmmanizales.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/onda-cero-tierras-de-medina-592819-logo.jpg",Radio Onda Cero Tierras de Medina
+http://server10.emitironline.com:8100/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-fmx-1035-592912-logo.jpg",Radio FMX 103.5
+http://184.107.240.26:8565/vivo
+#EXTINF:-1 tv-logo="",Radio Fm Mediterraneo
+http://200.58.106.247:8564/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-chalatenango-1290am-593342-logo.jpg",Radio Chalatenango 1290AM
+http://192.99.12.68:8080/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/onda-cero-jerez-de-la-frontera-593374-logo.jpg",Radio Onda Cero - Jerez de La Frontera
+https://icecast-streaming.nice264.com/jerez
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/onda-cero-torrelavega-593408-logo.jpg",Radio Onda Cero - Torrelavega
+rtmp://ondacerofms35livefs.fplive.net/ondacerofms35live-live/stream-torrelavega
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/onda-cero-alcala-de-henares-593428-logo.jpg",Radio Onda Cero Alcalá de Henares
+https://icecast-streaming.nice264.com/alcala
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/onda-cero-madrid-norte-593431-logo.jpg",Radio Onda Cero Madrid Norte
+http://hys009.hostyourstream.com/c32d69cv5p5tv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/colmundo-radio-pereira-593548-logo.jpg",Colmundo Radio - Pereira
+http://192.163.226.125:8217/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/colmundo-radio-cucuta-593551-logo.jpg",Colmundo Radio - Cúcuta
+http://192.163.226.125:8083/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/colmundo-radio-pasto-593547-logo.jpg",Colmundo Radio - Pasto
+http://142.4.2.235:8047/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-amor-nueve69-593557-logo.jpg",Radio Amor Nueve69
+http://190.99.72.142:8000/amornueve69
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dunas-fm-593584-logo.jpg",Radio DUNAS FM
+http://212.129.60.86:9998/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/107-punto-9-593919-logo.jpg",Radio 107 Punto 9
+http://streaming.buinaldia.cl:8006/buinaldia128
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-cope-alicante-fm-593925-logo.jpg",Radio Cadena Cope (Alicante FM)
+https://alicante-copesedes-rrcast.flumotion.com/copesedes/alicante-low.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-cope-bilbao-593933-logo.jpg",Radio Cadena COPE (Bilbao)
+https://bilbao-copesedes-rrcast.flumotion.com/copesedes/bilbao-low.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-cope-cordoba-om-593941-logo.jpg",Radio Cadena COPE (Córdoba OM)
+https://cordoba-copesedes-rrcast.flumotion.com/copesedes/cordoba-low.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-cope-cartagena-593939-logo.jpg",Radio Cadena COPE (Cartagena)
+https://cartagena-copesedes-rrcast.flumotion.com/copesedes/cartagena-low.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-cope-las-palmas-593951-logo.jpg",Radio Cadena COPE Las Palmas
+https://laspalmas-copesedes-rrcast.flumotion.com/copesedes/laspalmas-low.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-cope-guadalajara-593953-logo.jpg",Radio Cadena COPE Guadalajara
+https://guadalajara-copesedes-rrcast.flumotion.com/copesedes/guadalajara-low.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-cope-cuenca-593943-logo.jpg",Radio Cadena COPE (Cuenca)
+https://cuenca-copesedes-rrcast.flumotion.com/copesedes/cuenca-low.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-cope-jaca-593957-logo.jpg",Radio Cadena COPE (Jaca)
+https://jaca-copesedes-rrcast.flumotion.com/copesedes/jaca-low.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-cope-jerez-593959-logo.jpg",Radio Cadena COPE (Jerez)
+https://jerez-copesedes-rrcast.flumotion.com/copesedes/jerez-low.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-cope-ibiza-593955-logo.jpg",Radio Cadena COPE (Ibiza)
+rtmp://cp111164.live.edgefcs.net/live/cope_ibiza@39196
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-cope-lorca-594023-logo.jpg",Radio Cadena COPE (Lorca)
+https://lorca-copesedes-rrcast.flumotion.com/copesedes/lorca-low.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-cope-mallorca-594024-logo.jpg",Radio Cadena COPE (Mallorca)
+https://mallorca-copesedes-rrcast.flumotion.com/copesedes/mallorca-low.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-cope-ourense-594026-logo.jpg",Radio Cadena COPE (Ourense)
+rtmp://cp111178.live.edgefcs.net/live/cope_orense@39210
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-cope-logrono-594022-logo.jpg",Radio Cadena COPE (Logroño)
+https://logrono-copesedes-rrcast.flumotion.com/copesedes/logrono-low.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-cope-santander-am-594032-logo.jpg",Radio Cadena COPE (Santander AM)
+https://santander-copesedes-rrcast.flumotion.com/copesedes/santander-low.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-cope-teruel-594048-logo.jpg",Radio Cadena COPE Teruel
+https://teruel-copesedes-rrcast.flumotion.com/copesedes/teruel-low.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-cope-segovia-594044-logo.jpg",Radio Cadena COPE (Segovia)
+https://segovia-copesedes-rrcast.flumotion.com/copesedes/segovia-low.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-cope-soria-594046-logo.jpg",Radio Cadena COPE (Soria)
+https://soria-copesedes-rrcast.flumotion.com/copesedes/soria-low.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-cope-toledo-594050-logo.jpg",Radio Cadena COPE (Toledo)
+https://toledo-copesedes-rrcast.flumotion.com/copesedes/toledo-low.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-cope-zamora-594056-logo.jpg",Radio Cadena COPE (Zamora)
+https://zamora-copesedes-rrcast.flumotion.com/copesedes/zamora-low.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-cope-vigo-594052-logo.jpg",Radio Cadena COPE Vigo
+https://vigo-copesedes-rrcast.flumotion.com/copesedes/vigo-low.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-cope-de-la-sierra-594054-logo.jpg",Radio Cadena COPE de la Sierra
+http://wecast-m01-01.flumotion.com/copesedes/villalba-low.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/al-aire-594180-logo.jpg",Radio Al Aire
+https://samcloud.spacial.com/api/listen?sid=90072
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cope-pozoblanco-594309-logo.jpg",Radio COPE Pozoblanco
+http://srv01.redsanmarcos.com:8012/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-viva-ipiales-594780-logo.jpg",Radio Viva (Ipiales)
+http://virtualtronics.co:9994/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-san-fernando-596018-logo.jpg",Radio San Fernando
+http://149.202.198.86:6308/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/teleformula-596839-logo.jpg",Radio TeleFórmula
+http://www.teleformula.com.mx/estaciones.asp?idEs=teleu0026iPos=2
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-fantasia-603499-logo.jpg",Radio Fantasía
+http://radiomaker.ddns.net:8000/stream/3/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rcn-la-radio-armenia-603679-logo.jpg",RCN La Radio (Armenia)
+http://live.rcnmundo.com/rcnlaradioarmenia.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rcn-la-radio-cucuta-604182-logo.jpg",RCN La Radio (Cúcuta)
+http://live2.rcnmundo.com/rcnlaradiocucuta.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/la-fm-neiva-604394-logo.jpg",Radio La FM (Neiva)
+http://live4.rcnmundo.com/lafmneiva.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rcn-la-radio-popayan-604497-logo.jpg",RCN La Radio (Popayán)
+http://live2.rcnmundo.com/rcnlaradiopopayan.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rcn-la-radio-buenaventura-604502-logo.jpg",RCN La Radio (Buenaventura)
+http://live1.rcnmundo.com/rcnlaradiobuenaventura.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rcn-la-radio-neiva-604499-logo.jpg",RCN La Radio (Neiva)
+http://live3.rcnmundo.com/rcnlaradioneiva.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rcn-la-radio-barbosa-604501-logo.jpg",RCN La Radio (Barbosa)
+http://live3.rcnmundo.com/rcnlaradiobarbosa.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rcn-la-radio-sogamoso-604618-logo.jpg",RCN La Radio (Sogamoso)
+http://live1.rcnmundo.com/rcnlaradiosogamoso.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-colmena-604844-logo.jpg",Radio Colmena
+http://centova.cerounoargentina.com:8012/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-kairos-fm-605011-logo.jpg",Radio Kairos FM
+http://wowza.chiloestreaming.com:9156/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-red-cali-606871-logo.jpg",Radio Red (Cali)
+https://kamemefm-atunwadigital.streamguys1.com/kamemefm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/arte-sonoro-iberoamericano-609616-logo.jpg",Radio Arte Sonoro Iberoamericano
+http://rflx1.cloudapp.net:8100/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-formula-yucatan-612257-logo.jpg",Radio Fórmula Yucatán
+http://201.148.65.132:8000/merida1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/platino-stereo-612457-logo.jpg",Radio Platino Stereo
+http://stream2.emisorasvirtuales.com:8568/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-familia-613727-logo.jpg",Radio Familia
+http://108.163.177.98:1935/shoutcast/radiofamilia.stream/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-planton-921-fm-613755-logo.jpg",Radio Plantón 92.1 FM
+http://miradioenlinea.net:8506/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-okey-bolivia-616720-logo.jpg",Radio Okey Bolivia
+http://stream.zenolive.com/z7u5zqt7x5quv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/caracol-radio-pereira-623758-logo.jpg",Caracol Radio (Pereira)
+https://kamemefm-atunwadigital.streamguys1.com/kamemefm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-4g-onda-ilicitana-625697-logo.jpg",Radio 4G Onda ilicitana
+http://212.83.151.18:38722/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-la-cotorra-631241-logo.jpg",Radio La Cotorra
+http://69.30.238.18:8064/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-nacional-salta-631520-logo.jpg",Radio Nacional (Salta)
+http://icecast01.dcarsat.com.ar:8000/sc_rad4
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-ser-merida-631562-logo.jpg",Radio Cadena SER - Mérida
+http://18973.live.streamtheworld.com:3690/SER_MERIDA_SC?DIST=TuneInu0026TGT=TuneInu0026maxServers=2u0026ua=RadioTimeu0026ttag=RadioTime
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cadena-ser-segovia-631567-logo.jpg",Radio Cadena SER - Segovia
+http://21273.live.streamtheworld.com/SER_ASO_SEGOVIA_SC?DIST=TuneInu0026TGT=TuneInu0026maxServers=2u0026ua=RadioTimeu0026ttag=RadioTime

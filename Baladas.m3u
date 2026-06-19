@@ -1,0 +1,34 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/m3-romantica-594497-logo.jpg",Radio M3 Romántica
+http://69.64.58.8:8067/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-fm-amistad-du-graty-595149-logo.jpg",Radio FM Amistad (Du Graty)
+rtmp://stream.shockmedia.com.ar:1935/radiofmamistad/default.stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/la-cucaracha-grupera-604347-logo.jpg",Radio La Cucaracha Grupera
+http://163.182.175.106:7074/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/la-carinosa-espinal-604529-logo.jpg",Radio La Cariñosa (Espinal)
+http://live2.rcnmundo.com/lacarinosaespinal.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-superior-fm-604539-logo.jpg",Radio Superior FM
+http://redpulsohd-server.info:9250/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/melody-romantica-605741-logo.jpg",Radio Melody Romantica
+http://sistemas.melodyhd.com:8517/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ondas-del-meta-romantica-606437-logo.jpg",Radio Ondas del Meta Romantica
+http://199.168.188.253:9988/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/publisom-hd-607889-logo.jpg",Radio Publisom HD
+http://192.99.233.46:9742/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-peniel-983fm-612172-logo.jpg",Radio Peniel 98.3FM
+http://206.190.135.28:8008/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/estacion-suramerica-613201-logo.jpg",Radio Estación Suramérica
+http://giss.tv:8000/Suramerica.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-el-tigre-615099-logo.jpg",Radio El Tigre
+http://sonic.topdns.org:9972/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-del-amor-baladas-622047-logo.jpg",RADIO DEL AMOR Baladas
+http://stream.zenolive.com/2whqmg6rqewtv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-misericordia-626438-logo.jpg",Radio Misericordia
+http://iws1.radioonlinehd.com:9980/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-enamorados-ballads-628205-logo.jpg",Radio ENAMORADOS Ballads
+http://stream.zenolive.com/6522v45cag5tv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/la-mejor-1033-fm-ciudad-obregon-631429-logo.jpg",Radio La Mejor 103.3 FM Ciudad Obregón
+http://streamingcwsradio20.com:8199/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/feeling-internet-radio-631476-logo.jpg",Feeling Internet Radio
+http://208.77.20.3:8430/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/super-amor-632197-logo.jpg",Radio Super Amor
+http://167.114.118.119:7950/;

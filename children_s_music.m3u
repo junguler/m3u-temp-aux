@@ -1,0 +1,20 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/funky-kids-radio-588219-logo.jpg",Funky Kids Radio
+http://streamdb3web.securenetsystems.net/v5/FKRADIO
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cdr-infantil-592539-logo.jpg",Radio CDR (Infantil)
+http://www.cdr.cr/player/168/Infantil
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kicsik-radioja-594622-logo.jpg",Kicsik Radioja
+http://198.154.106.103:8471/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/netiraadioee-lastekanal-595258-logo.jpg",Radio Netiraadio.ee Lastekanal
+http://www.netiraadio.ee:8000/lastekanal
+#EXTINF:-1 tv-logo="",Radio Minecraftier.net
+http://198.105.220.12:2794/Live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pop-kids-radio-604533-logo.jpg",Pop Kids radio
+http://server1.dainusradio.com:9878/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/little-rockers-radio-604760-logo.jpg",Little Rockers Radio
+http://radio.securenetsystems.net/radio_player_large.cfm?stationCallSign=LRRADIO
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/f-aradio-animes-605346-logo.jpg",[F-A]Radio-Animes
+http://sv2.vestaradio.com:3970/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/blackberry-kids-radio-606940-logo.jpg",BlackBerry Kids Radio
+http://198.27.68.65:8356/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/russkoe-radio-detskiy-625815-logo.jpg",Russkoe Radio - Detskiy
+http://icecast.russkoeradio.cdnvideo.ru/st28.mp3

@@ -1,0 +1,18 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ndtv-24x7-587376-logo.jpg",Radio NDTV 24X7
+http://stream1.ndtv.com:8080/on-ndtv24x7
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dw-tv-german-588283-logo.jpg",Radio DW TV German
+http://www.dw.de/media-center/live-tv/s-100825/channel/9801
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dw-tv-latinoamerica-588285-logo.jpg",Radio DW-TV Latinoamerica
+http://www.dw.de/media-center/live-tv/s-100825/channel/9797
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/teleformula-596839-logo.jpg",Radio TeleFórmula
+http://www.teleformula.com.mx/estaciones.asp?idEs=teleu0026iPos=2
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cnn-ibn-604086-logo.jpg",Radio CNN IBN
+http://ibnlive.in.com/livetv/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/aaj-tak-604133-logo.jpg",Radio Aaj Tak
+http://aajtak.intoday.in/livetv.html
+#EXTINF:-1 tv-logo="",Radio News Live TV
+http://www.newslivetv.org/index.php/live-tv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/newsx-604224-logo.jpg",Radio NewsX
+http://www.newsx.com/live-tv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/trs-info-631449-logo.jpg",Radio TRS info
+http://www.tsr.ch/video/info/journal-continu/?direct=1
