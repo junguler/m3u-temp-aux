@@ -1,8 +1,0 @@
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-ransis-592940-logo.jpg",Radio RANSiS
-http://radio.ransis.org:8000/ransis
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/canal-m-599874-logo.jpg",Radio Canal M
-http://s4.streammonster.com:8460/;stream.mp3
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/acb-radio-interactive-576124-logo.jpg",ACB Radio Interactive
-http://stream.acbradio.org:8000/interactive.mp3
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sight-into-sound-radio-reading-service-577079-logo.jpg",Sight into Sound radio reading service
-http://peridot.streamguys.com:5360/live

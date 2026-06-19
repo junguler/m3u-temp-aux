@@ -1,8 +1,0 @@
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fm-karuizawa-579857-logo.jpg",Radio FM Karuizawa
-http://musicbird.leanstream.co/JCB108-MP3?args=tunein_02
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fm-senri-579859-logo.jpg",Radio FM Senri
-http://musicbird-hls.leanstream.co/musicbird/JCB112.stream/playlist.m3u8?args=tunein_01
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/knb-579890-logo.jpg",Radio KNB
-http://radiko.jp/player/player.html#KNB
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fm791-587260-logo.jpg",Radio FM791
-rtmp://jcbasimul085-live1.sp1.fmslive.stream.ne.jp/jcbasimul085-live1/jcbasimul085-live

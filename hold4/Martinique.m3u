@@ -1,8 +1,0 @@
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mq-radio-actif-logo.jpg",Radio Actif
-http://198.27.68.65:8170/;audio.mp3
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mq-handi-fm-martinique-logo.jpg",Radio Handi FM Martinique
-https://hosting2.studioradiomedia.com:8053/stream.mp3
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mq-rfa-radio-logo.jpg",RFA Radio
-https://live2.vestaradio.com/rfaradio
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mq-sem-radio-logo.jpg",SEM Radio
-https://hosting.studioradiomedia.fr:1285/stream

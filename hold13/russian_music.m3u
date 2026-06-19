@@ -1,6 +1,0 @@
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-21-172923-logo.jpg",Radio 21
-http://stream3.radio-21.ru:8080/Radio_21
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/russian-radio-minsk-578106-logo.jpg",Russian Radio - Minsk
-http://live.rusradio.by:8000/live
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/etvnet-retro-radio-585629-logo.jpg",eTVnet Retro Radio
-http://icecast.etvnet.com:8000/retro128.mp3

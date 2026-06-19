@@ -1,4 +1,46 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-rsa-event-101-logo.jpg",Radio R.SA  Event 101
+https://streams.rsa-sachsen.de/101/aac-64/onlineradiobox/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rsa-rockzirkus-607247-logo.jpg",Radio R.SA  Rockzirkus
+https://streams.rsa-sachsen.de/rsa-rockzirkus/mp3-128/onlineradiobox/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rsa-ostrock-607249-logo.jpg",Radio R.SA Ostrock
+https://streams.rsa-sachsen.de/rsa-ostrock/mp3-192/onlineradiobox/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rsa-maxis-maximal-628900-logo.jpg",Radio R.SA  Maxis Maximal
+https://streams.rsa-sachsen.de/maxis/mp3-128/onlineradiobox/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-rsa-oldie-club-logo.jpg",Radio R.SA  Oldie-club
+https://streams.rsa-sachsen.de/rsa-oldies/mp3-128/onlineradiobox/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-rsa-live-logo.jpg",Radio R.SA Live
+https://streams.rsa-sachsen.de/rsa-live/mp3-128/onlineradiobox/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rockthefolk-603918-logo.jpg",Radio RockTheFolk
+http://laut.fm/rockthefolk
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pirate-nation-607413-logo.jpg",Radio Pirate Nation
+http://149.255.59.162:8088/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/the-office-609606-logo.jpg",Radio The Office
+http://209.193.110.34:8000/officelive.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rapid-rock-radio-611950-logo.jpg",Rapid Rock Radio
+http://listen.rapidradio.co.za:8000/radio64
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/beach-booster-radio-595928-logo.jpg",Beach BOOSTER Radio
+http://us3.streamingpulse.com:8082/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/montessori-radio-616372-logo.jpg",Montessori Radio
+http://65.60.62.181:9984/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/1013-myfm-milton-647655-logo.jpg",Radio 101.3 myFM Milton
 http://ice24.securenetsystems.net/CJML
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/959-lite-fm-648113-logo.jpg",Radio 95.9 Lite FM
 http://playerservices.streamtheworld.com/api/livestream-redirect/WLTMFM.mp3?tdtok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6ImZTeXA4In0.eyJpc3MiOiJ0aXNydiIsInN1YiI6IjIxMDY0IiwiaWF0IjoxNTY5MDAxNzgzLCJ0ZC1yZWciOmZhbHNlfQ.W56m9Mj6HFqEwZMVjXc_Sv82p-Ty8oOldZqiJr_yyh4
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rsh-80er-609199-logo.jpg",Radio R.SH 80er
+https://streams.rsh.de/rsh-80er/aac-64/onlineradiobox/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-rsh-weihnachtshits-logo.jpg",Radio R.SH Weihnachtshits
+https://streams.rsh.de/rsh-event02/mp3-128/onlineradiobox/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rsh-90er-628898-logo.jpg",Radio R.SH 90er
+https://streams.rsh.de/90er/mp3-128/onlineradiobox/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-rsa-das-schnarchnasenradio-logo.jpg",R.SA  Das Schnarchnasenradio
+https://streams.rsa-sachsen.de/rsa-schnarchnase/mp3-192/onlineradiobox/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-radio-bijoux-logo.jpg",Radio Bijoux
+https://wbij.rocks/radio/8000/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-rsa-live-chemnitz-logo.jpg",Radio R.SA Live Chemnitz
+https://rsa.streamabc.net/regc-rsalivesnchm-mp3-192-5259305
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-rsa-live-dresden-logo.jpg",Radio R.SA Live Dresden
+https://rsa.streamabc.net/regc-rsalivesnddn-mp3-192-4941659
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rock-station-581036-logo.jpg",Radio Rock Station
+http://rs11.stream24.org:8130/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kclc-hd2-the-experience-584712-logo.jpg",Radio KCLC-HD2 The Experience
+http://radio.securenetsystems.net/radio_player_large.cfm?stationCallSign=KCLC2

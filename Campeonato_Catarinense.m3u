@@ -1,0 +1,18 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-avai-585632-logo.jpg",Radio Rádio Avaí
+http://suaradio1.dyndns.ws:13475/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-cbn-blumenau-587199-logo.jpg",Radio Rádio CBN (Blumenau)
+http://servidor28.brlogic.com:8112/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-cbn-diario-florianopolis-569824-logo.jpg",Radio Rádio CBN Diário (Florianópolis)
+https://27809y.ha.azioncdn.net/primary/cbn_fln.sdp/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-arca-da-alianca-580199-logo.jpg",Radio Rádio Arca Da Aliança
+http://stm2.ifantasy.com.br:7996/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-clube-joinville-580189-logo.jpg",Radio Rádio Clube (Joinville)
+http://sysrad.net:30330/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-super-conda-581269-logo.jpg",Radio Rádio Super Condá
+http://sh.upx.com.br:8254/stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-oeste-capital-583596-logo.jpg",Radio Rádio Oeste Capital
+https://rtmp.cdn.upx.net.br/3b6b_1/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-hulha-negra-163446-logo.jpg",Radio Hulha Negra
+http://cdn2.w7virtual.net:8000/stream/2/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-fundacao-marconi-169051-logo.jpg",Radio Rádio Fundacao Marconi
+http://143.208.11.104:8408/;
