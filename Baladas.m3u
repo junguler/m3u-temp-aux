@@ -1,0 +1,16 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-fuego-639157-logo.jpg",Radio Fuego
+http://78.129.224.17:3333/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/blondy-radio-639727-logo.jpg",blondy radio
+http://162.210.196.142:12554/;
+#EXTINF:-1 tv-logo="",Radio La Y fm
+http://158.69.242.119:7504/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-top-907-fm-641993-logo.jpg",Radio Top 90.7 FM
+http://radioserver10.profesionalhosting.com:45443/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/balada-rock-baladas-americanas-y-rock-suave-643574-logo.jpg",Radio Balada Rock- Baladas Americanas y Rock suave.
+http://la2-ssd.myautodj.com:8013/;
+#EXTINF:-1 tv-logo="",Radio Diocesis de San Miguel
+http://195.154.182.222:25087/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/la-mocoana-646638-logo.jpg",Radio La Mocoana
+http://62.210.38.137:8002/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/paz-stereo-648057-logo.jpg",Radio Paz Stereo
+http://server2.ejeserver.com:8826/stream

@@ -1,0 +1,34 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-massa-fm-telemaco-borba-634218-logo.jpg",Radio Rádio Massa FM (Telemaco Borba)
+http://c2.fabricahost.com.br:8028/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-cidade-de-jaragua-635579-logo.jpg",Radio cidade de jaragua
+http://cast61.sitehosting.com.br:9620/live
+#EXTINF:-1 tv-logo="",Radio Rádio Pifôneja
+http://suaradio1.dyndns.ws:13231/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-casa-dos-caipiras-639315-logo.jpg",Radio Rádio Casa dos Caipiras
+http://suaradio2.dyndns.ws:10530/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lestefm-639801-logo.jpg",Radio LesteFM
+https://s13.hstbr.net:8006/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/geracao-sertaneja-642655-logo.jpg",Radio Geração Sertaneja
+http://stream.geracaoradios.com:8030/radio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/canarinho-fm-643935-logo.jpg",Radio Canarinho FM
+http://str12.hostgator.com.br:5078/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-momentos-sertanejo-644398-logo.jpg",Radio Rádio Momentos Sertanejo
+http://stm10.srvstm.com:10904/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/top-sertanejo-girando-o-brasil-646850-logo.jpg",Radio Top Sertanejo Girando o Brasil
+http://servidor29.brlogic.com:8716/live?type=.m3u
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-terra-sertaneja-648283-logo.jpg",Radio Rádio Terra Sertaneja
+http://stm17.srvstm.com:18078/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-massa-fm-assis-649440-logo.jpg",Radio Rádio Massa FM (Assis)
+http://c2.fabricahost.com.br:8035/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-massa-fm-rolim-de-moura-649444-logo.jpg",Radio Rádio Massa FM (Rolim de Moura)
+http://c2.fabricahost.com.br:8062/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-massa-fm-canoinhas-649441-logo.jpg",Radio Rádio Massa FM (Canoinhas)
+http://c1.fabricahost.com.br:8091/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-massa-fm-colorado-649442-logo.jpg",Radio Rádio Massa FM (Colorado)
+http://c2.fabricahost.com.br:8060/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-massa-fm-cascavel-649640-logo.jpg",Radio Rádio Massa FM (Cascavel)
+http://c1.fabricahost.com.br:8022/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-massa-fm-litoral-norte-649641-logo.jpg",Radio Rádio Massa FM (Litoral Norte)
+http://c2.fabricahost.com.br:8067/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-massa-fm-chapeco-649642-logo.jpg",Radio Rádio Massa FM (Chapecó)
+https://ice.fabricahost.com.br/massafmchapeco

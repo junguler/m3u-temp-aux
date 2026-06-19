@@ -1,0 +1,16 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/camu-fm-637609-logo.jpg",Radio Camú FM
+http://radio-streaming.ddns.net:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/taptap-radio-639853-logo.jpg",TapTap Radio
+http://81.169.223.197:5580/;
+#EXTINF:-1 tv-logo="",Radio Diocesis de San Miguel
+http://195.154.182.222:25087/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/la-mocoana-646638-logo.jpg",Radio La Mocoana
+http://62.210.38.137:8002/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-super-647074-logo.jpg",Radio-Super
+http://wmp.radiosuper.es:9970/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/stragus-507-radio-647438-logo.jpg",STRAGUS 507 RADIO
+http://laradiohd.stream:9070/;
+#EXTINF:-1 tv-logo="",Radio Ercilla
+http://envivo.portalmalleco.cl:8200/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-macarena-raul-y-maria-648974-logo.jpg",Radio Macarena Raul Y maria
+http://88.198.43.9:9426/;

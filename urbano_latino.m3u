@@ -1,0 +1,6 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/chakiti-radio-635763-logo.jpg",Chakiti Radio
+http://192.240.102.198:14225/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/1055-fm-the-king-643343-logo.jpg",Radio 105.5 FM The King
+http://104.251.118.50:8008/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/renovado-x-cristo-647529-logo.jpg",Radio Renovado x Cristo
+http://137.74.18.1:9566/;

@@ -1,0 +1,10 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-mpb-online-638108-logo.jpg",Radio Rádio MPB Online
+http://stm7.voxstream.com.br:7078/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-web-piaui-mpb-641300-logo.jpg",Radio Web Piaui MPB
+http://78.129.193.127:16258/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/web-radio-cancoes-de-terreiro-642179-logo.jpg",Radio Web Rádio Canções de Terreiro
+http://serv1.audiovox.pw:6758/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/geracao-country-642658-logo.jpg",Radio Geração Country
+http://stream.geracaoradios.com:8100/radio
+#EXTINF:-1 tv-logo="",Radio Rádio Brasileira
+http://142.44.136.68:8020/stream

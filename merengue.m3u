@@ -1,0 +1,14 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/labrava809-637083-logo.jpg",Radio LABRAVA809
+http://stream7a.domint.net:9224/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sabrosa-957-fm-638241-logo.jpg",Radio Sabrosa 95.7 fm
+http://173.249.52.6:9300/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/taptap-radio-639853-logo.jpg",TapTap Radio
+http://81.169.223.197:5580/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fieramix-la-merenguera-641072-logo.jpg",Radio FIERAMIX LA MERENGUERA
+http://81.169.223.197:5622/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-zumba-641498-logo.jpg",Radio Zumba
+http://stm5.painelcast.com:7394/;
+#EXTINF:-1 tv-logo="",Radio Diocesis de San Miguel
+http://195.154.182.222:25087/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/la-mocoana-646638-logo.jpg",Radio La Mocoana
+http://62.210.38.137:8002/stream

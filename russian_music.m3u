@@ -1,0 +1,10 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/russian-radio-bessmertniy-polk-638737-logo.jpg",Russian radio - Bessmertniy polk
+http://icecast.russkoeradio.cdnvideo.ru/st10.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/free-radio-646881-logo.jpg",Free Radio
+https://lk.castnow.ru:8100/freeradio-320.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/anprmr-radio-647449-logo.jpg",Anprmr radio
+http://anprmr-airtime.tk:8000/anprmr_256
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-astrakhan-647552-logo.jpg",Radio Astrakhan
+http://s05.volnorez.com:8001/live-app/tmp/813434
+#EXTINF:-1 tv-logo="",LongCoast radio
+http://94.140.225.1:8000/nonstop

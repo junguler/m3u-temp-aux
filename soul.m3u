@@ -1,0 +1,14 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/atlantasoulmusicnet-637430-logo.jpg",Radio AtlantaSoulMusic.net
+http://69.164.212.12:8018/stream3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/studio-one-640141-logo.jpg",Radio Studio One
+http://198.7.59.204:3151/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tape-deck-web-radio-641011-logo.jpg",Tape-Deck Web Radio
+http://142.44.217.210:10141/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/paradiso-soul-642397-logo.jpg",Radio Paradiso Soul
+https://stream.paradiso.de/paradiso-soul/mp3-128/stream.mp3?ref=tunein
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pep-agency-radio-647266-logo.jpg",PEP Agency Radio
+http://sirius.shoutca.st:8279/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/allen-bankz-radio-647810-logo.jpg",Allen Bankz Radio
+http://149.56.175.167/proxy/allenbankzradio?mp=/1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-d59b-648595-logo.jpg",RADIO D59B
+http://d59b-tube-main-liq-icecast.radiokitapp.org/d59b-liq.mp3

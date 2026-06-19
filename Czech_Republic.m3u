@@ -1,0 +1,28 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nonstopradio-cz-633875-logo.jpg",Nonstopradio CZ
+http://server.nonstopradio.cz:8080/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nonstopradio-cz-633875-logo.jpg",Nonstopradio CZ
+http://server.nonstopradio.cz:8080/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/maxxbeat-634161-logo.jpg",Radio MaXxbeat
+http://srv.maxxbeat.com:8888/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/maxxbeat-634161-logo.jpg",Radio MaXxbeat
+http://srv.maxxbeat.com:8888/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dalmin-radio-634733-logo.jpg",Radio Dalmin Rádio
+http://sc.ipip.cz:8062/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dalmin-radio-634733-logo.jpg",Radio Dalmin Rádio
+http://sc.ipip.cz:8062/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-good-water-636737-logo.jpg",Radio Good water
+http://sky1.torontocast.com:9092/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-good-water-636737-logo.jpg",Radio Good water
+http://sky1.torontocast.com:9092/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/zedix-dj-637899-logo.jpg",Radio Zedix DJ
+http://5.189.134.150:8000/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/zedix-dj-637899-logo.jpg",Radio Zedix DJ
+http://5.189.134.150:8000/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/freeravecz-freetekno-radio-647654-logo.jpg",FREERAVE.CZ - FREETEKNO RADIO
+http://8.38.78.173:8061/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/freeravecz-freetekno-radio-647654-logo.jpg",FREERAVE.CZ - FREETEKNO RADIO
+http://8.38.78.173:8061/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dwg-647996-logo.jpg",Radio DWG
+http://server25530.streamplus.de/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dwg-647996-logo.jpg",Radio DWG
+http://server25530.streamplus.de/;

@@ -1,0 +1,24 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/the-knob-634833-logo.jpg",Radio The Knob
+http://s42.myradiostream.com:30208/listen.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/alta-radio-636347-logo.jpg",Alta Radio
+http://199.180.72.2:9175/stream
+#EXTINF:-1 tv-logo="",Master of Radio
+http://www.cnethosting.org:8090/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/triple-m-greatest-hits-digital-641642-logo.jpg",Radio Triple M Greatest Hits Digital
+http://ic2ti.scahw.com.au/2greatesthits_128
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/aguas-internet-radio-641872-logo.jpg",Aguas Internet Radio
+http://stm49.conectastm.com:15026/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/88-6-classic-rock-644883-logo.jpg",Radio 88 6 Classic Rock
+http://radio886.at/streams/88.6_Classic_Rock/aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-bass-fm-645963-logo.jpg",Radio Rádio Bass FM
+https://s01.maxcast.com.br:8034/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-des-zamis-647185-logo.jpg",Radio Des Zamis
+http://green.streamhood.net:8216/;
+#EXTINF:-1 tv-logo="",Radio Salland Sound
+HTTP://server-27.stream-server.nl:8504
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/koqi-rock-647451-logo.jpg",Radio Koqi Rock
+http://streaming.live365.com/a48082
+#EXTINF:-1 tv-logo="",Back to 54 Radio
+http://streaming.live365.com/a31729
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/vrt-studio-brussel-de-tijdloze-649106-logo.jpg",Radio VRT Studio Brussel De Tijdloze
+http://icecast.vrtcdn.be/stubru_tijdloze-high.mp3

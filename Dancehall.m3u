@@ -1,0 +1,10 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bds-radio-1-636675-logo.jpg",BDS Radio 1
+http://37.59.47.192:8232/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/massive-1035-fm-638053-logo.jpg",Radio Massive 103.5 FM
+http://shoutie.bitklik.com:8001/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hbb-radio-station-640745-logo.jpg",HBB Radio Station
+http://playerservices.streamtheworld.com/pls/SAM05AAC299.pls?DIST=TuneInu0026TGT=TuneInu0026maxServers=2u0026tdtok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6ImZTeXA4In0.eyJpc3MiOiJ0aXNydiIsInN1YiI6I
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-hit-lokal-641983-logo.jpg",Radio Hit Lokal
+https://www.radioking.com/play/hit-lokal-radio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/reggae-run-tings-642173-logo.jpg",Radio Reggae Run Tings
+http://s2.voscast.com:10322/;

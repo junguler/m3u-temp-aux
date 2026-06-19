@@ -1,0 +1,8 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/exa-fm-1071-ciudad-victoria-637023-logo.jpg",Radio Exa FM 107.1 Ciudad Victoria
+http://69.30.238.18:8062/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bioconexion-647454-logo.jpg",Radio BioConexión
+http://player.srvstm.com/player/30052/iphone.m3u
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/france-24-espanol-647748-logo.jpg",Radio FRANCE 24 Español
+http://www.france24.com/es/tv-en-vivo-live
+#EXTINF:-1 tv-logo="",RadioFantasy
+http://142.44.227.209:9908/;stream.mp3

@@ -1,0 +1,44 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radiomixrd-634275-logo.jpg",RADIOMIXRD
+http://78.129.193.103:26126/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-alternativa-985-fm-634581-logo.jpg",Radio Alternativa 98.5 Fm
+http://www.colombiaemite.com:10352/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/barranquilla-en-carnaval-635611-logo.jpg",Radio barranquilla en carnaval
+http://cast.direcnode.com:8190/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/garisima-radio-640868-logo.jpg",Garisima Radio
+http://s19.myradiostream.com:16204/autodj
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kapital-fm-641858-logo.jpg",Radio Kapital FM
+http://167.114.119.122:9762/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/baladas94fm-642381-logo.jpg",Radio BALADAS94FM
+http://stream.zenolive.com/c98ky706fyduv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/salserisima-rd-642833-logo.jpg",Radio SALSERISIMA RD
+http://stream1.prostudionetwork.com:8075/salserisima
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/energia94-643107-logo.jpg",Radio Energia94
+http://173.249.0.141:8018/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/la-ruta-fm-643618-logo.jpg",Radio LA RUTA FM
+http://162.210.196.142:25648/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/la-radio-de-cumbe-643923-logo.jpg",La Radio de Cumbe
+http://gnstreammedia.com:8434/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/accion-104-fm-644099-logo.jpg",Radio Accion 104 Fm
+http://rs1.domint.net:8010/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radiola-stereo-644730-logo.jpg",Radiola Stereo
+http://giss.tv:8001/radiolast.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/la-rumbera-cuenca-645671-logo.jpg",Radio La Rumbera Cuenca
+http://gnstreammedia.com:8446/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sol-fm-mallorca-646464-logo.jpg",Radio SOL FM MALLORCA
+http://78.129.193.127/stream.mp3?ipport=78.129.193.127_19006
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/la-mocoana-646638-logo.jpg",Radio La Mocoana
+http://62.210.38.137:8002/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lider-stereo-1064-646868-logo.jpg",Radio LIDER STEREO 106.4
+http://167.114.113.108:10082/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-play-cali-647431-logo.jpg",radio play cali
+http://163.172.198.16:8136/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radiocordillerafm-647471-logo.jpg",RadioCordilleraFM
+http://5.9.65.9:8084/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/supra-fm-ny-648056-logo.jpg",Radio Supra FM NY
+http://173.212.215.227:8547/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-coleccionistas-de-musica-648524-logo.jpg",Radio Coleccionistas de  Música
+http://51.15.160.78:8150/;
+#EXTINF:-1 tv-logo="",Radio FM Winner Argentina
+http://167.114.64.181:8147/stream
+#EXTINF:-1 tv-logo="",Radio iTipico
+http://rs1.domint.net:2199/tunein/itipico.pls

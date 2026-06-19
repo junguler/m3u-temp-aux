@@ -1,0 +1,12 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/freetime-radio-636698-logo.jpg",Freetime Radio
+http://nr11.newradio.it:9200/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/musica-jazz-radio-641835-logo.jpg",Musica Jazz Radio
+https://ice16.fluidstream.net/mjr.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/antenne-vorarlberg-musica-italiana-645373-logo.jpg",Radio Antenne Vorarlberg Musica Italiana
+http://webradio.antennevorarlberg.at/italiana.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-gazzarra-646921-logo.jpg",Radio Gazzarra
+http://stream001.topstream.it:8002/stream
+#EXTINF:-1 tv-logo="",Radio musica semplicemente
+http://radio.itvideochat.net:8036/stream
+#EXTINF:-1 tv-logo="",radionapolinelcuoreweb
+http://178.33.41.216:9308/;

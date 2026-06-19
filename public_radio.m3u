@@ -1,0 +1,18 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/icprm-radio-france-634639-logo.jpg",ICPRM Radio France
+http://ample-zeno-03.radiojar.com/4prwagzv9s5tv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/donderschoer-radio-635917-logo.jpg",Donderschoer Radio
+http://85.214.127.50:8000/stream
+#EXTINF:-1 tv-logo="",Radio Rádio Câmara - Teixeira de Freitas
+http://centova02.logicahost.com.br:8581/stream
+#EXTINF:-1 tv-logo="",Penedes Radio FM
+http://95.154.254.129:5172/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/orizont-2017-644163-logo.jpg",Radio Orizont 2017
+http://orizont2018.out.airtime.pro:8000/orizont2018_a
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rede-nacional-de-radio-645333-logo.jpg",Radio Rede Nacional de Rádio
+https://ebcredenacionalderadio-rtmp.adaptive.level3.net/egress/bhandler/ebcremuxlive/redenacional/chunklist_b65536.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-urgence-fm-646708-logo.jpg",Radio Urgence FM
+http://s46.myradiostream.com:9910/listen.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kissfm-pinas1027-647851-logo.jpg",Radio Kissfm Pinas102.7
+http://node-24.zeno.fm:80/gdh4m7vsebruv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-tce-goias-649261-logo.jpg",Radio Rádio TCE Goiás
+http://servidor36.brlogic.com:8072/live

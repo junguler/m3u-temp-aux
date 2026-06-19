@@ -1,0 +1,8 @@
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-assembleia-minas-gerais-637270-logo.jpg",Radio Rádio Assembleia Minas Gerais
+http://radio.almg.gov.br/radiomp3
+#EXTINF:-1 tv-logo="",Radio Rádio Câmara - Teixeira de Freitas
+http://centova02.logicahost.com.br:8581/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cns-radio-642509-logo.jpg",CNS Radio
+http://cns.onlivestreaming.net:9494/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rede-nacional-de-radio-645333-logo.jpg",Radio Rede Nacional de Rádio
+https://ebcredenacionalderadio-rtmp.adaptive.level3.net/egress/bhandler/ebcremuxlive/redenacional/chunklist_b65536.m3u8
