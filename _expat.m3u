@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,Oasis FM Tenerife
+https://stream3.themediasite.co.uk:8128/
+#EXTINF:-1,Spectrum FM Costa Almeria
+https://eu8.fastcast4u.com/proxy/almeria2?mp=/1
+#EXTINF:-1,Xtra FM (North)
+https://hls1.eu.peppermindmedia.com/xtrafm/north/XtraFMNorth.m3u8
+#EXTINF:-1,Xtra FM (South)
+https://hls1.eu.peppermindmedia.com/xtrafm/south/XtraFMSouth.m3u8

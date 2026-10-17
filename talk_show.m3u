@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1,Rádio Xaver
 https://icecast6.play.cz/radio-xaver.aac
+#EXTINF:-1,Misterio FM
+https://stream-38.zeno.fm/zr1ntv61fchvv?zs=B6YIARuRSaujjyuQoZxg0g
+#EXTINF:-1,Supernana
+https://radiosurle.net:8765/showsupernana

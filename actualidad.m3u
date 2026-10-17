@@ -21,3 +21,5 @@ https://cl-a3-p-e-av11-audio.cdn.mdstrm.com/live-audio-aw/632cbdb5202d6801a31785
 https://playerservices.streamtheworld.com/api/livestream-redirect/MIX_BARRANQUILLAAAC.aac?dist=oro_web
 #EXTINF:-1,COPE Granada-Sta.Fe
 https://granada-copesedes-rrcast.flumotion.com/copesedes/granada-low.mp3
+#EXTINF:-1,RNE Radio Nacional
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r1_main.m3u8

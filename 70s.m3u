@@ -49,3 +49,47 @@ https://oleland.stream.laut.fm/oleland?ref=web-app&start_time=1711363896112
 https://stream.rockantenne.de/70er-rock/stream/mp3
 #EXTINF:-1,_80 EXITOS
 https://80sexitos.stream.laut.fm/80sexitos
+#EXTINF:-1,DISCO MUSIC RADIO
+https://discomusicradio.com:8100/;
+#EXTINF:-1,Esplugues FM
+https://antares.dribbcast.com/proxy/espluguesfm?mp=/stream
+#EXTINF:-1,_Funky Corner Radio (Spain)
+https://ais-sa2.cdnstream1.com/2447_96.aac
+#EXTINF:-1,Mediterrani FM Barcelona
+https://listen1.myradio24.com/37511
+#EXTINF:-1,Onda 80 Radio Bellvitge
+https://radiostreamingserver.com/listen/onda80bellvitge/radio.mp3
+#EXTINF:-1,Radio Moscatel 107.1 FM Axarquía - España
+https://axarquia.emisiononline.es/radio/8040/radio.mp3
+#EXTINF:-1,Allzic Radio Années 70
+https://allzic50.ice.infomaniak.ch/allzic50.aac
+#EXTINF:-1,Retro Souvenirs Radio
+https://listen.radioking.com/radio/108/stream/890
+#EXTINF:-1,4ever49radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/4EVER49.mp3
+#EXTINF:-1,94.1 KODJ, Utah's Greatest Hits, Salt Lake City, Utah
+https://n2ab-e2.revma.ihrhls.com/zc2393/42_o8pwrbty9pzm02/playlist.m3u8
+#EXTINF:-1,99.3 The Peach
+https://ice7.securenetsystems.net/KPCH
+#EXTINF:-1,AnZoRadio
+https://stream.laut.fm/anzoradio
+#EXTINF:-1,Bollywood Gaane Purane
+https://stream.zeno.fm/6n6ewddtad0uv?rj-ttl=5&rj-tok=AAABfdz5mRcA9yj1evZVO3EF-w
+#EXTINF:-1,CBN Classic Christian Radio
+https://streams.cbnradio.com/Classic-Christian-128K?app=cbnplayer
+#EXTINF:-1,Classic Hits 103.7 KOSF
+https://n1db-e2.revma.ihrhls.com/zc4342/29_1ffnkz9luadbf02/playlist.m3u8?streamid=4342&zip=&aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=11942172447&clientType=web&companionAds=false&deviceName=web-mobile&dist=iheart&host=webapp.US&listenerId=610ef79a28d5ede41f20cf242de2bff1&playedFrom=157&pname=live_profile&profileId=11942172447&stationid=4342&terminalId=159&territory=US
+#EXTINF:-1,Classic Hits 109
+https://broadcast.classichits109.com/70s-90s
+#EXTINF:-1,Delmarva FM
+https://jenny.torontocast.com:2000/stream/Delmarva
+#EXTINF:-1,Dorozhnoye Radio Nostalgiya
+https://hls-01-dorognoe-nostalgia.emgsound.ru/19/96/playlist.m3u8
+#EXTINF:-1,Easy 70s
+https://streaming.exclusive.radio/uber/easy70/icecast.audio
+#EXTINF:-1,EKR Retro Rock
+https://streaming06.liveboxstream.uk/proxy/eastken4?mp=/stream
+#EXTINF:-1,Exclusively Led Zeppelin
+https://streaming.exclusive.radio/er-app/ledzeppelin/icecast.audio
+#EXTINF:-1,Exclusively Led Zeppelin - Only Hits
+https://streaming.exclusive.radio/er-app/ledzeppelinhits/icecast.audio

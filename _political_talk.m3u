@@ -9,3 +9,5 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CARACOL_RADIOA
 https://wdrhf.akamaized.net/hls/live/2027996-b/wdr5/192/seglist.m3u8
 #EXTINF:-1,Radio IIII
 https://netradio.radio4.dk/radio4
+#EXTINF:-1,INFORMA RADIO
+https://24x7.red:42045/informa

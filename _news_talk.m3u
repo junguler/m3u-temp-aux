@@ -61,3 +61,27 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SEVILLA.mp
 https://mdstrm.com/audio/67d2a8685ae4234de49e40f6/live.m3u8?_=1748201428470&dnt=true&player=67bf8d9eb8fdbbe59cb3dc1e&uid=ZGjN46saKhxpR9l4R89Rah2jvFyKlii2&sid=Ylu5J6JhzLU9YYjHNlrKub2B78xqLdvG&pid=FM2735sWw0sy8ShSstpnBPcUEKzC3DWC&an=lightning-player&at=web-app&av=v1.0.19&sc=0&ds=67bf8b74ff9cc60dd3e575b4&ref=www.capitalradio.es&res=1600x900
 #EXTINF:-1,Catalunya Informaci� (Catinfo)
 https://shoutcast.ccma.cat/ccma/catalunyainformacioHD.mp3
+#EXTINF:-1,INFORMA RADIO
+https://24x7.red:42045/informa
+#EXTINF:-1,Onca Cero Alzira
+https://atres-live.ondacero.es/live/delegaciones/oc/alzira/master.m3u8
+#EXTINF:-1,Onda Cero Malaga
+https://atres-live.ondacero.es/live/delegaciones/oc/malaga/master.m3u8
+#EXTINF:-1,Ser Soria
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SORIA.mp3
+#EXTINF:-1,MTV Uutiset
+https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
+#EXTINF:-1,89.5 WMFV News
+https://wmfe-iad.streamguys1.com/wmfv
+#EXTINF:-1,970 KVWM
+https://ice41.securenetsystems.net/KVWM
+#EXTINF:-1,Accion 930 AM FM 97.3 (LA PRIMERA EN NOTICIAS)
+https://stream.revma.ihrhls.com/zc3201/hls.m3u8
+#EXTINF:-1,Catholic Faith Network
+https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
+#EXTINF:-1,Catholic Radio in SC
+https://stream.zeno.fm/ugqv8t9gs18uv
+#EXTINF:-1,Catholic TV
+https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
+#EXTINF:-1,Дождь ТВ (Звук)
+https://wl.tvrain.tv/transcode/ses_audio_only/playlist.m3u8

@@ -233,3 +233,57 @@ https://icecast.wdr.de/wdr/wdr4/rheinruhr/mp3/128/stream.mp3
 https://icecast.wdr.de/wdr/wdr4/rheinland/mp3/128/stream.mp3
 #EXTINF:-1,WDR 4 Sï¿½dwestfalen
 https://icecast.wdr.de/wdr/wdr4/suedwestfalen/mp3/128/stream.mp3
+#EXTINF:-1,Radio Castelldefels
+https://streaming.enacast.com/radiocastelldefels128.mp3
+#EXTINF:-1,YeneVibe Radio
+https://stream.zeno.fm/5mz3qqftsnhvv
+#EXTINF:-1,Sveriges Radio - SR Sisuradio
+https://live1.sr.se/finska-aac-320
+#EXTINF:-1,Yle Sámi Radio
+https://yleradiolive.akamaized.net/hls/live/2027680/in-YleSami/master.m3u8
+#EXTINF:-1,FIP
+https://stream.radiofrance.fr/fip/fip.m3u8
+#EXTINF:-1,FIP (no pub)
+https://stream.radiofrance.fr/fip/fip_hifi.m3u8
+#EXTINF:-1,FIP Pop
+https://icecast.radiofrance.fr/fippop-hifi.aac
+#EXTINF:-1,FIP Rock
+https://stream.radiofrance.fr/fip/fip_hifi.m3u8?id=radiofrance
+#EXTINF:-1,FIP Sacré Français !
+https://stream.radiofrance.fr/fipsacrefrancais/fipsacrefrancais.m3u8?id=radiofrance
+#EXTINF:-1,France Culture
+https://stream.radiofrance.fr/franceculture/franceculture.m3u8?id=radiofrance
+#EXTINF:-1,France Culture
+https://stream.radiofrance.fr/franceculture/franceculture_hifi.m3u8
+#EXTINF:-1,France Info
+https://stream.radiofrance.fr/franceinfo/franceinfo_hifi.m3u8
+#EXTINF:-1,France Inter
+https://icecast.radiofrance.fr/franceinter-hifi.aac
+#EXTINF:-1,France Musique
+https://stream.radiofrance.fr/francemusique/francemusique.m3u8
+#EXTINF:-1,France Musique (no pub)
+https://stream.radiofrance.fr/francemusique/francemusique.m3u8?id=radiofrance
+#EXTINF:-1,France Musique Opera
+https://icecast.radiofrance.fr/francemusiqueopera-hifi.aac
+#EXTINF:-1,90.5 WICN Public Radio - Jazz+ for New England
+https://wicn-ice.streamguys1.com/live-mp3
+#EXTINF:-1,91.3 WYEP
+https://ais-sa3.cdnstream1.com/2557_128.mp3?
+#EXTINF:-1,ABC Radio National NT HLS
+https://mediaserviceslive.akamaized.net/hls/live/2038332/rnnt/index.m3u8
+#EXTINF:-1,BBC RADIO 1 ANTHEMS: All-day anthems from the 00s to now
+https://as-hls-ww.live.cf.md.bbci.co.uk/pool_11351741/live/ww/bbc_radio_one_anthems/bbc_radio_one_anthems.isml/bbc_radio_one_anthems-audio%3d96000.norewind.m3u8
+#EXTINF:-1,BBC RADIO 1XTRA: Amplifying black music & culture
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_1xtra.m3u8
+#EXTINF:-1,BR6 Radio
+https://qxjr001.digiplay.nl/stream/9160/stream
+#EXTINF:-1,BSPR Music (Classical, KBSU)
+https://boisestate.streamguys1.com/Music1-aac-128k-icy
+#EXTINF:-1,BSPR Music (Jazz)
+https://boisestate.streamguys1.com/Jazz-aac-256k-icy.aac
+#EXTINF:-1,CRB Classical 99.5
+https://wgbh-live.streamguys1.com/classical-hi
+#EXTINF:-1,CRB Classical 99.5 AAC 256
+https://wgbh-live.streamguys1.com/wcrb-itunes-256k
+#EXTINF:-1,CRB Classical 99.5 HLS
+https://wgbh-hls.streamguys1.com/wcrb_hls/playlist.m3u8

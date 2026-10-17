@@ -35,3 +35,13 @@ https://fluxmusic.api.radiosphere.io/channels/electronic-chillout/stream.aac?qua
 https://fluxmusic.api.radiosphere.io/channels/traumerei/stream.mp3?quality=10
 #EXTINF:-1,FluxFM traumerei | 64k AAC
 https://fluxmusic.api.radiosphere.io/channels/traumerei/stream.aac?quality=1
+#EXTINF:-1,ISEKOI Radio | Non-Stop Ambient
+https://public.isekoi-radio.com/listen/ambient/ambientradio.flac
+#EXTINF:-1,24/7 Country Walks Radio
+https://ec6.yesstreaming.net:1585/stream
+#EXTINF:-1,24/7 Seawaves Radio
+https://ec6.yesstreaming.net:1505/stream
+#EXTINF:-1,Classic Vinyl HD
+https://icecast.walmradio.com:8443/classic
+#EXTINF:-1,Classic Vinyl HD Opus
+https://icecast.walmradio.com:8443/classic_opus

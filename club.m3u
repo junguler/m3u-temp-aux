@@ -21,3 +21,23 @@ https://stream.rpr1.de/tanzbar/mp3-128/radiobrowser
 https://stream.technolovers.fm/handsup?ref=radiobrowser
 #EXTINF:-1,Radio Panini
 https://radi-panini.radiocult.fm/stream
+#EXTINF:-1,Ibiza Global Classics
+https://control.streaming-pro.com:8000/ibizaglobalclassics.mp3
+#EXTINF:-1,M2S Radio
+https://icecast.m2sradio.fr/radio.aac
+#EXTINF:-1,M40 le klub'
+https://live.m40radio.fr/listen/le-klub-by-m40/le-klub-by-m40-128.mp3
+#EXTINF:-1,PulsRadio Club
+https://icecast.pulsradio.com/mxHD.mp3
+#EXTINF:-1,Apple Music Club
+https://itsliveradio.apple.com/3p-tune-in/tune_in/1740613859/usw/256.m3u8?accessKey=1790904816_2e73b3ed0f8a61b3eb345a4434670019_FsoJ5%2BO6YFA%2BdogVcb7mV4vIxx7il0sswjJSNYFtM2Pg9kh%2B%2B0HAKXpklMscCgcoHiKmeElgW8u3%2B5lGLIv5A828eaePAwLOLrDf8umSsFu%2BauvYcG%2FZkBOrJCoDtEeh
+#EXTINF:-1,AshTunes EDM Club
+https://stream.zeno.fm/3rjpbrwutohvv
+#EXTINF:-1,Clubmix
+https://stream.zeno.fm/vztn8ux96zhvv
+#EXTINF:-1,DFM
+https://hls-01-dfm.hostingradio.ru/dfm/playlist.m3u8
+#EXTINF:-1,DFM - Club 
+https://dfm-dfmclub.hostingradio.ru/dfmclub96.aacp
+#EXTINF:-1,edm1.fm Club House
+https://radio.edm1.fm/proxy/15_clubhouse?mp=/stream

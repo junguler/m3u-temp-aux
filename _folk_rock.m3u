@@ -9,3 +9,7 @@ https://fluxmusic.api.radiosphere.io/channels/60s/stream.mp3?quality=1
 https://streams.radiobob.de/southernrock/aac-64/streams.radiobob.de/
 #EXTINF:-1,RADIO BOB - Southern Rock [mp3 | 192 kbps]
 https://streams.radiobob.de/southernrock/mp3-192/streams.radiobob.de/
+#EXTINF:-1,Exclusively Bob Dylan
+https://streaming.exclusive.radio/er/bobdylan/icecast.audio
+#EXTINF:-1,Exclusively Cher
+https://streaming.exclusive.radio/er/cher/icecast.audio

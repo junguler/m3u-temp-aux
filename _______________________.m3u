@@ -1,3 +1,17 @@
 #EXTM3U
 #EXTINF:-1,Радио Свобода
 https://rfe-ingest.akamaized.net/hls/live/2035254/axia04/playlist.m3u8
+#EXTINF:-1,Алмазный край
+https://stream.almaz-media.tv/radio
+#EXTINF:-1,Азбука веры - Знаменные песнопения
+https://radio.azbyka.ru/znamennye-pesnopenija
+#EXTINF:-1,Благо
+https://live.radioblago.ru/live-2.mp3
+#EXTINF:-1,Бродяга On-Line
+https://listen9.myradio24.com/traveller
+#EXTINF:-1,Dance FM Россия
+https://listen3.myradio24.com/dmfm
+#EXTINF:-1,DFM Русский Рейв
+https://dfm-russianrave.hostingradio.ru/russianrave96.aacp
+#EXTINF:-1,Дождь ТВ (Звук)
+https://wl.tvrain.tv/transcode/ses_audio_only/playlist.m3u8

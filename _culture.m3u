@@ -73,3 +73,29 @@ https://wdrhf.akamaized.net/hls/live/2027994/wdr3/master.m3u8
 https://it.tail7acb88.ts.net/aithropology.mp3
 #EXTINF:-1,Cadena SER - Radio Zamora
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ZAMORA.mp3
+#EXTINF:-1,INFORMA RADIO
+https://24x7.red:42045/informa
+#EXTINF:-1,Intimidad Radio
+https://eu1.lhdserver.es:9119/stream
+#EXTINF:-1,Radio Alsace
+https://radio.kasumay.fr/radioalsace.mp3
+#EXTINF:-1,Radio Ici & Maintenant
+https://s64.radiolize.com/radio/8090/radio.mp3
+#EXTINF:-1,Radio Mulhouse
+https://radio.kasumay.fr/radiomulhouse.mp3
+#EXTINF:-1,Radio Notre Dame (lower bitrate)
+https://windu.radionotredame.net/RadioNotreDame-Fm.mp3
+#EXTINF:-1,Rayvox
+https://www.rayvox.org:8443/flux
+#EXTINF:-1,Aligre FM 93.1
+https://stream3.vestaradio.com/aligrefmradio
+#EXTINF:-1,Arcadi Current Events — Signal City
+https://signalcity.tv/radio/arcadi.mp3
+#EXTINF:-1,ART City Radio
+https://listen7.myradio24.com/artcity
+#EXTINF:-1,Clyde Built Radio
+https://clydebuiltradio.out.airtime.pro/clydebuiltradio_a
+#EXTINF:-1,Deutschlandfunk Nova
+https://f141.rndfnk.com/ard/dlf/03/aac/96/stream.aac?sid=22a7m9EwaHl4bazexTooEUpNir3&token=rn_JUu_6fgqdBSq0UIt6EdQsAjA6Da_2gMmarGU4-MQ&tvf=oFZUDSrBwhZmMTQxLnJuZGZuay5jb20
+#EXTINF:-1,ElderGut Deep Cuts — Signal City
+https://signalcity.tv/radio/eldergut.mp3

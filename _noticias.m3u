@@ -297,3 +297,55 @@ https://server8.emitironline.com:10891/;
 https://granada-copesedes-rrcast.flumotion.com/copesedes/granada-low.mp3
 #EXTINF:-1,COPE Tenerife
 https://wecast-bl02.flumotion.com/copesedes/tenerife-mas.mp3
+#EXTINF:-1,Dipalme Radio
+https://streaming.indalteco.net/proxy/dipalmerad?mp=/stream
+#EXTINF:-1,Doble V radio 107.9 FM
+https://stream.zeno.fm/x7wm4rrv5yzuv
+#EXTINF:-1,Dunas FM 94.4 y 94.2
+https://sonic.mediatelekom.net/8424/stream/;
+#EXTINF:-1,INFORMA RADIO
+https://24x7.red:42045/informa
+#EXTINF:-1,NEGOCIOS.COM
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+#EXTINF:-1,Onda CERO ALMERIA 1341 OM
+https://atres-live.ondacero.es/live/delegaciones/oc/almeria/bitrate_1.m3u8
+#EXTINF:-1,Onda Cero Huelva
+https://25593.live.streamtheworld.com/OC_HUELVAAAC.aac
+#EXTINF:-1,Onda Cero Más +
+https://agregadores-atres-live.atresmedia.com/tunein/live/ondaceroeventos1/bitrate_1.m3u8
+#EXTINF:-1,Radio 5 RNE Almería
+https://d131.rndfnk.com/star/crtve/rne5/alm/mp3/128/stream.mp3?cid=01GEPXZ8ZTFMN07R4EJZ955R9W&sid=38HaGqdb77NBk307NrDb2yzrSIG&token=ImNRQn16tD2RKxYDYV8EqY8Am8NyX-d-ICiVKc8ynuo&tvf=9JScGpvnihhkMTMxLnJuZGZuay5jb20
+#EXTINF:-1,Radio España
+https://stream.zeno.fm/7ywx2u45vv8uv
+#EXTINF:-1,Radio España
+https://stream-153.zeno.fm/7ywx2u45vv8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3eXd4MnU0NXZ2OHV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoieDhqMFJsWDhRc2U3NTdRQnRhb05PQSIsImlhdCI6MTc2ODQ2MzE1MCwiZXhwIjoxNzY4NDYzMjEwfQ.V6vfsT3fVVsdtV9XIO6dbLIL9Vc7djnpI97Er62y-qU
+#EXTINF:-1,Radio Hora
+https://s5.radio.co/s58f5759a4/listen
+#EXTINF:-1,Radio Intercontinental - Madrid
+https://cast5.servcast.net/proxy/inter/stream
+#EXTINF:-1,Radio Nervión
+https://gruponervion.streaming-pro.com:6131/
+#EXTINF:-1,Radio Red
+https://streams.radio.co/s450f67578/listen
+#EXTINF:-1,RNE Radio 1 Galicia
+https://dispatcher.rndfnk.com/crtve/rne1/gal/mp3/high
+#EXTINF:-1,RNE Radio 5 Galicia
+https://f131.rndfnk.com/star/crtve/rne5/lcg/mp3/128/stream.mp3?cid=01GEP53FAF08XXF9WHNDFYA8SJ&sid=38HJAGZ6rSProR2woSIoBS6RxTu&token=Dx6kVclbEBfoUL0cUfo3BrWpDi2Icy5uBPjIQtnr3RY&tvf=06fLNe7fihhmMTMxLnJuZGZuay5jb20
+#EXTINF:-1,RNE Radio Nacional
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r1_main.m3u8
+#EXTINF:-1,RNE Radio Nacional Almería
+https://dispatcher.rndfnk.com/crtve/rne1/alm/mp3/high
+#EXTINF:-1,Acción 104.5 FM (La diferencia en el dial)
+https://stream.intervalohost.com/accionfm/stream
+#EXTINF:-1,Acción 97.9 (La Primera En Noticias)
+https://stream.revma.ihrhls.com/zc7959/hls.m3u8
+#EXTINF:-1,Alba Ciudad 96.3 FM
+https://envivo.albaciudad.org/albaciudad.mp3
+#EXTINF:-1,Dominicana FM 98.9 y 99.9 FM
+https://protvradiostream.com:8610/;
+#EXTINF:-1,El Heraldo Radio 101.3 XHMAB
+https://ss1.audiorama.com.mx:6676/
+#EXTINF:-1,El Rey 1360 AM
+https://playerservices.streamtheworld.com/api/livestream-redirect/KKMOAMAAC.aac
+#EXTINF:-1,Etoile TV
+https://estrellanews-roku.amagi.tv/playlist.m3u8

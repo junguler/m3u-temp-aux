@@ -13,3 +13,7 @@ https://streams.deltaradio.de/delta-unplugged/mp3-192/streams.deltaradio.de/
 https://stream.rtlradio.de/nitrolaut/mp3-192/
 #EXTINF:-1,Pirate Radio
 https://frontend.streamonkey.net/fhn-pirateradio/stream/mp3
+#EXTINF:-1,Eden Underground Radio
+https://stream.casthost.net/listen/eden_underground_radio/radio.mp3
+#EXTINF:-1,Exclusively Nirvana
+https://streaming.exclusive.radio/er/nirvana/icecast.audio

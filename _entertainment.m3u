@@ -73,3 +73,29 @@ https://smalltownradio.de:8000/gaessjerfm.mp3
 https://mdr-radio-hls.akamaized.net/hls/live/2112904/mdr-284320-0-hls/index.m3u8
 #EXTINF:-1,Cadena SER - Radio Zamora
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ZAMORA.mp3
+#EXTINF:-1,Radio Fanática
+https://radio1-zikoxweb.radioca.st/stream
+#EXTINF:-1,Music Radio
+https://radio.musicradio.ai/listen/musicradio.ai/radio.mp3
+#EXTINF:-1,Agoo 96.9 FM
+https://agoofm-atunwadigital.streamguys1.com/agoofm
+#EXTINF:-1,Angel FM
+https://atunwadigital.streamguys1.com/angelfm
+#EXTINF:-1,Cape FM
+https://stream.zeno.fm/qpq7hygy77zuv
+#EXTINF:-1,Kastle FM
+https://stream.zeno.fm/evaq9ab4k0hvv
+#EXTINF:-1,Kyebi Radio
+https://stream.zenolive.com/ep91zyvc9zquv
+#EXTINF:-1,Nhyira 104.5 FM
+https://mmg.streamguys1.com/NhyiraFM-mp3?key=63d8990dfe4438ae984fd70d2d2b4bd31c842c474987bd810ac0e8e0fd62e8cf2015661105cced63ccfdca89a8422ab1
+#EXTINF:-1,TW Radio 88.9 FM
+https://a00.w3gradle.com/a21.mp3
+#EXTINF:-1,90.7 DZSF SMILE Radio
+https://audio.cloudrad.io/9a77084c/live
+#EXTINF:-1,BBC RADIO 1 ANTHEMS: All-day anthems from the 00s to now
+https://as-hls-ww.live.cf.md.bbci.co.uk/pool_11351741/live/ww/bbc_radio_one_anthems/bbc_radio_one_anthems.isml/bbc_radio_one_anthems-audio%3d96000.norewind.m3u8
+#EXTINF:-1,BBC RADIO 1XTRA: Amplifying black music & culture
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_1xtra.m3u8
+#EXTINF:-1,CAPITAL - The UK's No.1 Hit Music Station
+https://media-ssl.musicradio.com/CapitalUK

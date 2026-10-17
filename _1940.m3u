@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,Classic Vinyl HD
+https://icecast.walmradio.com:8443/classic
+#EXTINF:-1,Classic Vinyl HD Opus
+https://icecast.walmradio.com:8443/classic_opus

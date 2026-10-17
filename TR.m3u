@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1,A Spor Radyo
+https://trkvz-radyolar.ercdn.net/asporradyo/playlist.m3u8
+#EXTINF:-1,AFN Incirlik 107.1 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_ICK_SC
+#EXTINF:-1,Apaçık Radyo
+https://stream.34bit.net/ar.aac
+#EXTINF:-1,CNN Turk Radyo 92.5
+https://moondigitaledge2.radyotvonline.net/cnnturk/playlist.m3u8
+#EXTINF:-1,Damar T�rk FM
+https://live.radyositesihazir.com:10997/stream
+#EXTINF:-1,Dinamo.fm Caffe
+https://channels.dinamo.fm/caffe-mp3
+#EXTINF:-1,Dinamo.fm Deep
+https://channels.dinamo.fm/deep-mp3
+#EXTINF:-1,Dinamo.fm Discotheque
+https://channels.dinamo.fm/discotheque-mp3
+#EXTINF:-1,Dinamo.fm Fluent
+https://channels.dinamo.fm/fluent-mp3
+#EXTINF:-1,Dinamo.fm Legacy
+https://channels.dinamo.fm/legacy-mp3
+#EXTINF:-1,Dinamo.fm Locodyno
+https://channels.dinamo.fm/locodyno-mp3
+#EXTINF:-1,Dinamo.fm Sleep
+https://channels.dinamo.fm/sleep-mp3
+#EXTINF:-1,Dinamo.fm Smog
+https://channels.dinamo.fm/smog-mp3
+#EXTINF:-1,Diyanet Risalet Radyo
+https://eustr76.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1520b2626.smil/mt.m3u8

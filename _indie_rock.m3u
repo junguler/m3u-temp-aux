@@ -27,3 +27,29 @@ https://fluxmusic.api.radiosphere.io/channels/indiedisco/stream.mp3?quality=1
 https://fluxmusic.api.radiosphere.io/channels/alternative/stream.mp3?quality=1
 #EXTINF:-1,Radio Home of Rock
 https://server24094.streamplus.de/stream.mp3
+#EXTINF:-1,Mariskal Rock
+https://media.profesionalhosting.com:8047/stream
+#EXTINF:-1,RNE Radio 3
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r3_main.m3u8
+#EXTINF:-1,ODS Radio Rock
+https://ods-rock.ice.infomaniak.ch/ods-rock.mp3
+#EXTINF:-1,91.3 WYEP
+https://ais-sa3.cdnstream1.com/2557_128.mp3?
+#EXTINF:-1,95.7 That Station
+https://ais-sa8.cdnstream1.com/2749_64.aac
+#EXTINF:-1,BAGeL Radio
+https://ais-sa3.cdnstream1.com/2606_64.aac
+#EXTINF:-1,Belters Radio
+https://uk2.internet-radio.com/proxy/belters?mp=/live
+#EXTINF:-1,CHIRP Radio (WCXP-LP)
+https://peridot.streamguys1.com:5185/live
+#EXTINF:-1,ColoRadio
+https://streams.loudspeaker.org/listen/coloradio/music
+#EXTINF:-1,CruiseOne Radio
+https://solid24.streamupsolutions.com/proxy/cmxicxxx?mp=/256kbps
+#EXTINF:-1,EarGlow Radio
+https://cast1.asurahosting.com/proxy/earglowr/stream
+#EXTINF:-1,Exclusively Crowded House
+https://2.mystreaming.net/er/crowdedhouse/icecast.audio
+#EXTINF:-1,Exclusively INXS
+https://streaming.exclusive.radio/er/INXS/icecast.audio

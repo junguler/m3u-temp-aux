@@ -21,3 +21,13 @@ https://unicordobaestereo.unicordoba.edu.co/unicor
 https://www.utp.edu.co/stream/
 #EXTINF:-1,DW TV
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1,RAC1 +1
+https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_MES_1.mp3
+#EXTINF:-1,Radio Ici & Maintenant
+https://s64.radiolize.com/radio/8090/radio.mp3
+#EXTINF:-1,Alba Ciudad 96.3 FM
+https://envivo.albaciudad.org/albaciudad.mp3
+#EXTINF:-1,Crystal 107.4 FM
+https://crystalfm-radiohosting2.radioca.st/stream
+#EXTINF:-1,Deutschlandfunk
+https://d141.rndfnk.com/ard/dlf/01/opus/24/stream.opus?sid=22ZmScLTNSyKXQJXwe55PyPnP7v&token=rm4OpSHnXBBTBo261sIYaiaXOU5aebsFVt67LjGZ7Dg&tvf=lXZZZZm3whZkMTQxLnJuZGZuay5jb20

@@ -1,3 +1,65 @@
 #EXTM3U
 #EXTINF:-1,Deutschlandradio
 https://st01.sslstream.dlf.de/dlf/01/high/opus/stream.opus
+#EXTINF:-1,Chiakos 102.4
+https://cast2.radiohost.ovh/xiakos?mp=/stream
+#EXTINF:-1,En Lefko World Music
+https://n0d.radiojar.com/u4w964dscrruv?rj-ttl=5&rj-tok=AAABfdrapDMAd5oHcSmm0kN9hw
+#EXTINF:-1,ESKA Belchatow
+https://radio.stream.smcdn.pl/timeradio-p/2010-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Beskidy
+https://radio.stream.smcdn.pl/timeradio-p/2300-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Braniewo
+https://radio.stream.smcdn.pl/timeradio-p/2520-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Bydgoszcz
+https://radio.stream.smcdn.pl/timeradio-p/2030-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Elblag
+https://radio.stream.smcdn.pl/timeradio-p/2430-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Gorzow
+https://radio.stream.smcdn.pl/timeradio-p/2040-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Grudziadz
+https://radio.stream.smcdn.pl/timeradio-p/2450-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Kielce
+https://radio.stream.smcdn.pl/timeradio-p/2050-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Krakow
+https://radio.stream.smcdn.pl/timeradio-p/2070-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Krasnik
+https://radio.stream.smcdn.pl/timeradio-p/2360-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Leszno
+https://radio.stream.smcdn.pl/timeradio-p/2080-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Lomza
+https://radio.stream.smcdn.pl/timeradio-p/2460-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Olsztyn
+https://radio.stream.smcdn.pl/timeradio-p/2110-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Ostzeszow
+https://radio.stream.smcdn.pl/timeradio-p/2500-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Pila
+https://radio.stream.smcdn.pl/timeradio-p/2090-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Plock
+https://radio.stream.smcdn.pl/timeradio-p/2250-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Poludine
+https://radio.stream.smcdn.pl/timeradio-p/2570-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Przemysl
+https://radio.stream.smcdn.pl/timeradio-p/2320-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Radom
+https://radio.stream.smcdn.pl/timeradio-p/2210-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Siedlce
+https://radio.stream.smcdn.pl/timeradio-p/2060-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Starachowice
+https://radio.stream.smcdn.pl/timeradio-p/2400-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Szczecin
+https://radio.stream.smcdn.pl/timeradio-p/2260-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Szczecinek
+https://radio.stream.smcdn.pl/timeradio-p/2310-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Tarnow
+https://radio.stream.smcdn.pl/timeradio-p/2160-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Torun
+https://radio.stream.smcdn.pl/timeradio-p/2150-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Trojmiasto
+https://radio.stream.smcdn.pl/timeradio-p/2170-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Warszawa
+https://radio.stream.smcdn.pl/timeradio-p/2380-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Zary
+https://radio.stream.smcdn.pl/timeradio-p/2420-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Zielona Gora
+https://radio.stream.smcdn.pl/timeradio-p/2190-1.aac/playlist.m3u8

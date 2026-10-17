@@ -9,3 +9,19 @@ https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
 https://onair7.xdevel.com/proxy/xautocloud_nwct_1310?mp=/;stream/
 #EXTINF:-1,EWTN Europe
 https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
+#EXTINF:-1,Radio María España
+https://dreamsiteradiocp4.com/proxy/rmspain1?mp=/stream/1/
+#EXTINF:-1,1410 AM Archangel Radio
+https://ice41.securenetsystems.net/WNGL
+#EXTINF:-1,Catholic Faith Network
+https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
+#EXTINF:-1,Catholic Radio in SC
+https://stream.zeno.fm/ugqv8t9gs18uv
+#EXTINF:-1,Catholic TV
+https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
+#EXTINF:-1,Classical Catholic Radio
+https://streaming.live365.com/a64105
+#EXTINF:-1,EWTN Catholic Radio
+https://ewtn-ice.streamguys1.com/english-aac
+#EXTINF:-1,EWTN - Radio Católica Mundial
+https://ewtn-ice.streamguys1.com/spanish-aac

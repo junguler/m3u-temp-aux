@@ -7,3 +7,19 @@ https://streaming2.locucionar.com/proxy/goodradio?mp=/stream
 https://mediaserviceslive.akamaized.net/hls/live/2038301/localperth/index.m3u8
 #EXTINF:-1,Radio Wfm 105.4 - Westerlo, be
 https://mcp-2.mm-stream.nl:8126/WFM
+#EXTINF:-1,Bramcom Radio Online
+https://node-30.zeno.fm/5k38xxf1v7zuv?rj-ttl=5&rj-tok=AAABdx0o9UAAN89Op-WH21jpBw
+#EXTINF:-1,Oman Fm
+https://omanfm-atunwadigital.streamguys1.com/omanfm?amsparams=playerid%3ASGplayer%3Bskey%3A1611555812774%3B&awparams=playerid%3ASGplayer%3Bplayerid%3ASGplayer%3Bplayerid%3ASGplayer%3B&aw_0_req.gdpr=true&us_privacy=1YNN&aw_0_req.gdpr=true&us_privacy=1YNN&aw_0_req.gdpr=true&us_privacy=1YNN
+#EXTINF:-1,Onioo Radio
+https://node-33.zeno.fm/d079m8zuhnruv?rj-ttl=5&rj-tok=AAABdyi4XhAAre7yjzkNex1DrA
+#EXTINF:-1,Radio NED
+https://node-35.zeno.fm/qsa068q31tzuv?rj-ttl=5&rj-tok=AAABdx1DLUoAU00UG7izXej_Bw
+#EXTINF:-1,Secret Fm Online
+https://node-17.zeno.fm/rgts3k9c37zuv?rj-ttl=5&rj-tok=AAABdyhxwJwAaqeEVj3BmJOfZw
+#EXTINF:-1,95.1 Steve.fm
+https://ice23.securenetsystems.net/WUEZ
+#EXTINF:-1,Coalville Public Radio
+https://uksoutha.streaming.broadcast.radio/cpr
+#EXTINF:-1,Dorozhnoye Radio Nizhny Novgorod 105.4
+https://hls-01-dorognoe.emgsound.ru/15/128/playlist.m3u8

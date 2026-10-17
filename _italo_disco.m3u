@@ -5,3 +5,7 @@ https://cast1.torontocast.com:4560/stream
 https://cast1.torontocast.com:2130/stream
 #EXTINF:-1,80er-Revival
 https://stream.laut.fm/80er-revival
+#EXTINF:-1,Hotel Costes
+https://s3.radio.co/s39c195d74/listen
+#EXTINF:-1,Диско-радио SOVA
+https://evcast.mediacp.eu:1965/stream

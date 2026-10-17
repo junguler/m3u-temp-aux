@@ -61,3 +61,7 @@ https://cloud.cdnseguro.com:2008/
 https://stream2.statsradio.com:8150/stream
 #EXTINF:-1,dublab DE
 https://dublabde.out.airtime.pro/dublabde_a
+#EXTINF:-1,Radio OnBouge Français
+https://onbouge.eu/flux/onbouge-fr.mp3
+#EXTINF:-1,Bolton FM
+https://radio.canstream.co.uk:8083/live.mp3

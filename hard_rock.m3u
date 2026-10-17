@@ -19,3 +19,13 @@ https://lagerfeuermetal.stream.laut.fm/lagerfeuermetal?pl=m3u&t302=2026-01-14_23
 https://laut.fm/emden
 #EXTINF:-1,Rock Antenne - Hard Rock
 https://stream.rockantenne.de/rock-antenne-hard-rock/stream/mp3
+#EXTINF:-1,FIP Metal
+https://icecast.radiofrance.fr/fipmetal-hifi.aac?id=radiofrance
+#EXTINF:-1,Heavy1
+https://listen.radioking.com/radio/119653/stream/159127
+#EXTINF:-1,OUI FM BRING THE NOISE
+https://ouifmbringthenoise.ice.infomaniak.ch/ouifmbringthenoise.mp3
+#EXTINF:-1,95.1 95 WIIL Rock!
+https://live.amperwave.net/direct/alphacorporate-wiilfmmp3-ibc4
+#EXTINF:-1,Exclusively Joan Jett
+https://2.mystreaming.net/er/joanjett/icecast.audio

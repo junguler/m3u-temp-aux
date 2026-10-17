@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,Acustik Radio 1150 XEJP
+https://server2.sit-mexico.com:2199/proxy/acustik
+#EXTINF:-1,Arre en Acustik 1150 XEJP
+https://server2.sit-mexico.com:2199/proxy/acustik?mp=/stream

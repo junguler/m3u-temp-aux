@@ -1,0 +1,135 @@
+#EXTM3U
+#EXTINF:-1,100,5 Das Hitradio
+https://stream.dashitradio.de/dashitradio/mp3-128/stream.mp3
+#EXTINF:-1,1000 Jazz Hits
+https://stream.laut.fm/1000jazzhits
+#EXTINF:-1,102.1 The Edge
+https://corus.leanstream.co/CFNYFM?args=web_01&startTime=1590267351
+#EXTINF:-1,102.2 Radio Essen
+https://edge67.streamonkey.net/wf-radioessen
+#EXTINF:-1,106.1 CHEZ - The Capital of Rock
+https://rogers-hls.leanstream.co/rogers/ott1061.stream/48k/playlist.m3u8
+#EXTINF:-1,108 Soul
+https://s2.radio.co/sdd9757d9b/listen
+#EXTINF:-1,181.FM Smooth AC (US)
+https://listen.181fm.com/181-smoothac_128k.mp3?noPreRoll=true
+#EXTINF:-1,3 FM
+https://icecast.omroep.nl/3fm-bb-aac
+#EXTINF:-1,92.9 Radio Muelheim
+https://edge07.streamonkey.net/wf-radiomuelheim
+#EXTINF:-1,94,3 rs2 2000er
+https://stream.rs2.de/rs2-2000er/mp3-192
+#EXTINF:-1,94,3 rs2 Ed Sheeran
+https://stream.rs2.de/rs2-ed-sheeran/mp3-192
+#EXTINF:-1,94,3 rs2 Kulthits
+https://stream.rs2.de/rs2-kulthits/mp3-128
+#EXTINF:-1,94,3 rs2 Party
+https://stream.rs2.de/rs2-80er-party/mp3-192
+#EXTINF:-1,94,3 rs2 Top 40
+https://stream.rs2.de/rs2-top40/mp3-128
+#EXTINF:-1,98,3 MHz | 98 FM Belo Horizonte
+https://9554.brasilstream.com.br/stream
+#EXTINF:-1,Absolut Oldie Classics
+https://absolut-oldieclassics.live-sm.absolutradio.de/absolut-oldieclassics?aggregator=Surfmusik
+#EXTINF:-1,Al Jazeera Arabic
+https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/index.m3u8
+#EXTINF:-1,Allô la planète
+https://listen.radioking.com/radio/189739/stream/232990
+#EXTINF:-1,Alpenpower
+https://alpenpower.stream.laut.fm/alpenpower
+#EXTINF:-1,Altitude FM
+https://centova.radio.com.pt/proxy/034?mp=/stream
+#EXTINF:-1,AngelsFox-Radio
+https://schlager-high.rautemusik.fm/stream.mp3
+#EXTINF:-1,Anoixi
+https://solid1.streamupsolutions.com/proxy/smartfmradio?mp=/stream
+#EXTINF:-1,Anomaly Radio
+https://anomaly.out.airtime.pro/anomaly_a
+#EXTINF:-1,Antenne 1 Neckarburg
+https://stream.antenne1.de/a1nbg/livestream2.mp3
+#EXTINF:-1,Antenne Thueringen
+https://edge66.streamonkey.net/antthue-mitte?aggregator=surfmusik
+#EXTINF:-1,Antenne Thüringen Yesterhits
+https://edge09.streamonkey.net/antthue-yesterhits?aggregator=rewrite/
+#EXTINF:-1,Antithèse
+https://listen.radioking.com/radio/11549/stream/22940
+#EXTINF:-1,Ariane Web Radio
+https://radio.de-lussigny.com/listen/guy-de-lussigny/radio.mp3
+#EXTINF:-1,Asterisk Radio
+https://securestreams6.autopo.st:2173/
+#EXTINF:-1,Astounded Old School Radio
+https://stream.laut.fm/astounded
+#EXTINF:-1,AudioBook Radio
+https://audiobookradio.out.airtime.pro/audiobookradio_a
+#EXTINF:-1,Basstime
+https://basstime.stream.laut.fm/basstime?t302=2026-01-15_03-39-13&uuid=aa1a567d-9f2d-43f0-bfe2-f41d6d05da86
+#EXTINF:-1,Bavarias Rock Ballads
+https://laut.fm/bavarias-rock-ballads
+#EXTINF:-1,Best Of Rock.FM Nonstop Metal
+https://bestofrockfm.stream.vip/metal/mp3-256/bestofrock.fm/
+#EXTINF:-1,BestOfRock.fm Alternative
+https://bestofrockfm.stream.vip/altrock/mp3-192/bestofrockfm.stream.vip/
+#EXTINF:-1,BFBS Germany
+https://edge-audio-01-cr.sharp-stream.com/ssvcbfbs5.mp3
+#EXTINF:-1,Cabo Branco FM
+https://onlineradiobox.com/json/br/cabobranco/play?platform=web
+#EXTINF:-1,Café Romántico
+https://panel.retrolandigital.com:8110/listen
+#EXTINF:-1,Cambridge 105
+https://stream.cambridge105.co.uk:8443/105-radioplayer-high
+#EXTINF:-1,cctv1
+https://cctvksh5c.v.kcdnvip.com/live/cdrmcctv1_1/index.m3u8
+#EXTINF:-1,Celeb TV UK Live Radio
+https://radio.phil.rocks/listen/celeb-tv-live/radio.mp3
+#EXTINF:-1,Cherie FM
+https://streaming.nrjaudio.fm/ou2n2epw5hs7
+#EXTINF:-1,Chilli ZET World Jazz
+https://ch04.cdn.eurozet.pl/CHIWJZ.mp3
+#EXTINF:-1,Chillout
+https://mp3channels.webradio.antenne.de/chillout
+#EXTINF:-1,Chillout Area
+https://stream.laut.fm/chillout-area
+#EXTINF:-1,Classical Christmas FM
+https://christmasfm.cdnstream1.com/2550_128.mp3?aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1605423292
+#EXTINF:-1,Comanche County Oklahoma Public safety
+https://broadcastify.cdnstream1.com/31352
+#EXTINF:-1,CommodExplorer
+https://manager8.streamradio.fr:2295/stream
+#EXTINF:-1,COPE Almeria
+https://wecast-bl02.flumotion.com/copesedes/almeria.mp3
+#EXTINF:-1,Cuterdio 1
+https://stream.rockantenne.de/heavy-metal/stream/mp3
+#EXTINF:-1,Cuterdio 2
+https://stream.rockantenne.de/rockantenne/stream/mp3
+#EXTINF:-1,Dance Wave!
+https://dancewave.online/dance.aac
+#EXTINF:-1,De Bandieten Uit Twente
+https://stream.debandietenuittwente.nl/listen/de_bandieten_uit_twente/radio.mp3
+#EXTINF:-1,DE Esprit  128
+https://stream.laut.fm/esprit
+#EXTINF:-1,DFM deep
+https://dfm-dfmdeep.hostingradio.ru/dfmdeep96.aacp
+#EXTINF:-1,DIE NEUE 107.7 - Oldies
+https://addrad.io/4454x2x
+#EXTINF:-1,Î”Î¹ÎºÏ„Ï…Î¿
+https://eu1.fastcast4u.com/proxy/diktyofm?mp=/1
+#EXTINF:-1,DKFM Classic
+https://radio.streemlion.com:4245/stream
+#EXTINF:-1,Doujinstyle Radio
+https://streams.radio.co:80/s5ff57669c/listen
+#EXTINF:-1,DR P5 Nordjylland
+https://live-icy.dr.dk/A/A18H.mp3
+#EXTINF:-1,Dzed Bardaitis Radio
+https://samcloud.spacial.com/api/listen?sid=113442&m=sc&rid=195031
+#EXTINF:-1,Ed Sheeran
+https://nl4.mystreaming.net/er/edsheeran/icecast.audio
+#EXTINF:-1,egofm jazz
+https://cast.egofm.de/egofmjazz.mp3?aw_0_1st.playerid=radioplayer.de&aw_0_1st.skey=1768450462&aw_0_req.gdpr=true
+#EXTINF:-1,EWTN Catholic Radio
+https://ewtn-ice.streamguys1.com/english-aac
+#EXTINF:-1,EWTN - Radio Católica Mundial
+https://ewtn-ice.streamguys1.com/spanish-aac
+#EXTINF:-1,Exclusively James Blunt
+https://streaming.exclusive.radio/er/jamesblunt/icecast.audio
+#EXTINF:-1,Exclusively Meat Loaf
+https://streaming.exclusive.radio/er/meatloaf/icecast.audio

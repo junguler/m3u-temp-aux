@@ -23,3 +23,29 @@ https://cast.dialradio.live/stream.opus
 https://dunklewelle.spcast.eu/dj03
 #EXTINF:-1,Mother Earth Radio
 https://stream.motherearthradio.de/listen/motherearth/motherearth.aac
+#EXTINF:-1,C-Lab
+https://www.c-lab.fr/stream/
+#EXTINF:-1,FIP (no pub)
+https://stream.radiofrance.fr/fip/fip_hifi.m3u8
+#EXTINF:-1,Fip Pop
+https://icecast.radiofrance.fr/fippop-hifi.aac?id=radiofrance
+#EXTINF:-1,Le Bon Mix HiFi Flac 1411 Kbps
+https://stream10.xdevel.com/audio17s976748-2218/stream/icecast.audio
+#EXTINF:-1,Radio Balises
+https://stream.radios.bzh/hls/radiobalises/live.m3u8
+#EXTINF:-1,Radio Fil de l'eau
+https://hosting.studioradiomedia.fr:2495/stream
+#EXTINF:-1,Radio Grand Lieu
+https://listen.radioking.com/radio/377152/stream/427591
+#EXTINF:-1,Radio Larzac
+https://stream.radiolarzac.org/hls/master.m3u8
+#EXTINF:-1,RDWA
+https://live.aurafm.org/R-Dwa
+#EXTINF:-1,UP Station
+https://cast.up-station.com/listen/up-station/radio.mp3
+#EXTINF:-1,AJK Radio
+https://solid41.streamupsolutions.com/proxy/wzbznkee/stream
+#EXTINF:-1,Belfast Community Radio
+https://ice66.securenetsystems.net/WBFY
+#EXTINF:-1,Deal Radio
+https://s2.radio.co/sa44aa697f/listen

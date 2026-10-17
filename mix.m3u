@@ -13,3 +13,13 @@ https://5a1c76baf08c0.streamlock.net/z18-live/stream/playlist.m3u8
 https://stream.spreeradio.de/spree-live/mp3-128/surfmusikDE/
 #EXTINF:-1,1LIVE Mix der Woche
 https://wdr-1live-mixderwoche.icecast.wdr.de/wdr/1live/mixderwoche/mp3/128/stream.mp3
+#EXTINF:-1,102.2 Radio Essen
+https://edge67.streamonkey.net/wf-radioessen
+#EXTINF:-1,92.9 Radio Muelheim
+https://edge07.streamonkey.net/wf-radiomuelheim
+#EXTINF:-1,Antenne Thueringen
+https://edge66.streamonkey.net/antthue-mitte?aggregator=surfmusik
+#EXTINF:-1,BFBS Germany
+https://edge-audio-01-cr.sharp-stream.com/ssvcbfbs5.mp3
+#EXTINF:-1,Cherie FM
+https://streaming.nrjaudio.fm/ou2n2epw5hs7

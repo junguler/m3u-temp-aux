@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,Christmas Vinyl HD
+https://icecast.walmradio.com:8443/christmas
+#EXTINF:-1,Christmas Vinyl HD Opus
+https://icecast.walmradio.com:8443/christmas_opus

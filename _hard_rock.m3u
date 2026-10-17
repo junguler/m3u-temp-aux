@@ -77,3 +77,31 @@ https://wackenradio-high.rautemusik.fm/?ref=radiobrowser
 https://wastewatermusic.stream.laut.fm/wastewatermusic?pl=m3u&t302=2026-01-17_11-17-31&uuid=375c958d-7d82-4712-a917-fa6517cce6d6
 #EXTINF:-1,Classic Rock Danmark
 https://netradio.classicfm.dk/classicrock
+#EXTINF:-1,Mariskal Rock
+https://media.profesionalhosting.com:8047/stream
+#EXTINF:-1,Rock Radioo
+https://a10.asurahosting.com:7570/radio.mp3
+#EXTINF:-1,Hotmix Hard Rock
+https://streaming.hotmixradio.com/hotmix-hard-rock-en-mp3?provider=radiobrowser
+#EXTINF:-1,105.7 WAPL
+https://woodward-radio.streamb.live/SB00020?args=web_01&starttime=1702969916
+#EXTINF:-1,106.1 CHEZ - The Capital of Rock
+https://rogers-hls.leanstream.co/rogers/ott1061.stream/48k/playlist.m3u8
+#EXTINF:-1,Christian Hard Rock Dot Net
+https://listen.christianrock.net/stream/15/
+#EXTINF:-1,CRnet Hard Rock (128)
+https://shoutcast.christianrock.net/stream/3/
+#EXTINF:-1,CRnet Hard Rock (32)
+https://shoutcast.christianrock.net/stream/4/
+#EXTINF:-1,Emo Radio
+https://n3fb-e2.revma.ihrhls.com/zc9380/63_zun0p3v3w43c02/playlist.m3u8?streamid=9380&zip=&clientType=web&host=webapp.US&modTime=1769985886674&profileid=11932796403&terminalid=159&territory=US&us_privacy=1-N-&callLetters=FEEL-FL&devicename=web-desktop&stationid=9380&dist=iheart&subscription_type=free
+#EXTINF:-1,Exclusively Deep Purple
+https://nl4.mystreaming.net/er/deeppurple/icecast.audio
+#EXTINF:-1,Exclusively Eric Clapton
+https://nl4.mystreaming.net/er/ericclapton/icecast.audio
+#EXTINF:-1,Exclusively Guns N’ Roses
+https://streaming.exclusive.radio/er/gunsnroses/icecast.audio
+#EXTINF:-1,Exclusively Led Zeppelin
+https://streaming.exclusive.radio/er-app/ledzeppelin/icecast.audio
+#EXTINF:-1,Exclusively Led Zeppelin - Only Hits
+https://streaming.exclusive.radio/er-app/ledzeppelinhits/icecast.audio

@@ -11,3 +11,5 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/BLU_MEDELLIN_A
 https://wdr-wdr2-ruhrgebiet.icecastssl.wdr.de/wdr/wdr2/ruhrgebiet/mp3/128/stream.mp3
 #EXTINF:-1,Cadena SER Sevilla
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SEVILLA.mp3
+#EXTINF:-1,ClearAir.fm
+https://a12.asurahosting.com/listen/clearair/radio.mp3

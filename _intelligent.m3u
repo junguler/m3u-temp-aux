@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1,Danmarks Radio P3
 https://live-icy.dr.dk/A/A27L.mp3
+#EXTINF:-1,Breaking Bass Air
+https://aircast.breaking-bass.ru:8443/air

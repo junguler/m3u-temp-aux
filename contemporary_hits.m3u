@@ -9,3 +9,7 @@ https://stream.statsradio.com:8054/stream
 https://rogers-hls.leanstream.co/rogers/vic1031.stream/playlist.m3u8
 #EXTINF:-1,CKIS "KISS 92.5" Toronto, ON
 https://rogers-hls.leanstream.co/rogers/tor925.stream/playlist.m3u8
+#EXTINF:-1,Hit53
+https://azura.hit53.fr/hit128.mp3
+#EXTINF:-1,Hits 1
+https://radio12.pro-fhi.net/live/Hits%201%20radio

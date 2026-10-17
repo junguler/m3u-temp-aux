@@ -45,3 +45,15 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOACKTIVA_M
 https://usa18.fastcast4u.com/proxy/rmoohhrw?mp=/1
 #EXTINF:-1,Brisa Azul FM
 https://streaming01.radiosenlinea.com.ar/8196/stream
+#EXTINF:-1,Fibwi Radio
+https://sound.gigaradius.eu/proxy/fibwiradio/stream
+#EXTINF:-1,InterRadio Tenerife
+https://server8.emitironline.com:8200/;
+#EXTINF:-1,KISS FM
+https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbkissfm.kissfmradio.cires21.com/bbkissfm.mp3
+#EXTINF:-1,Radio Líder Santiago
+https://server8.emitironline.com:18520/stream
+#EXTINF:-1,Xanadú Radio Tenerife
+https://server8.emitironline.com:10852/radio.mp3?1646071824637
+#EXTINF:-1,BBC RADIO 1XTRA: Amplifying black music & culture
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_1xtra.m3u8

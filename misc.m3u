@@ -57,3 +57,25 @@ https://rcstream0001.redcastle.net/radio/8000/tide-128.mp3?rp_source=1&=&&___cb=
 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_03.mp3
 #EXTINF:-1,C. DIAL Latino
 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_02AAC_SC
+#EXTINF:-1,Onda Regional Musica (Murcia)
+https://crmlive.redctnet.es/liveedge/orm/ormmusical/playlist.m3u8
+#EXTINF:-1,Radio Argayo
+https://radiobot.radioslibres.info/radio/8030/radio.ogg
+#EXTINF:-1,Radio Faycan
+https://radio.streamenginelogin.com:8016/stream
+#EXTINF:-1,RADIOLÉ
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE.mp3
+#EXTINF:-1,SER
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
+#EXTINF:-1,SER Asturias
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ASTURIAS.mp3
+#EXTINF:-1,SER Gijón
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_GIJON.mp3
+#EXTINF:-1,EIPM
+https://stunnel1.cyber-streaming.com:9046/stream?type=http&nocache=30
+#EXTINF:-1,FIP Groove (hifi.aac)
+https://icecast.radiofrance.fr/fipgroove-hifi.aac
+#EXTINF:-1,FIP (hifi.aac)
+https://icecast.radiofrance.fr/fip-hifi.aac
+#EXTINF:-1,Dao
+https://stream.zeno.fm/5uyxq85zm7zuv

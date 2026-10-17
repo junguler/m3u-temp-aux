@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,AXR
+https://hongkongstream.axr.online/
+#EXTINF:-1,CNR-14 香港之聲
+https://satellitepull.cnr.cn/live/wxxgzs/playlist.m3u8?wsSession=5849bb6c90cf7fc1a7e3eae9-174908181231216&wsIPSercert=f7b6cfa8467acd0836b62cf14aa786d3
+#EXTINF:-1,大連都市之聲廣播
+https://lhttp-hw.qtfm.cn/live/1086/64k.mp3
+#EXTINF:-1,大連少兒廣播
+https://lhttp.qtfm.cn/live/1084/64k.mp3
+#EXTINF:-1,大連新聞綜合廣播
+https://live.xmcdn.com/live/2732/64.m3u8
+#EXTINF:-1,大嶼山廣播電台 RADIO LANTAU
+https://radio.dripfeed.net/listen/radiolantau/radio.mp3
+#EXTINF:-1,第四台
+https://rthkaudio4-lh.akamaihd.net/i/radio4_1@355867/master.m3u8

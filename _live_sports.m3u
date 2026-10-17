@@ -49,3 +49,5 @@ https://wdr-sportschau-liga1spiel9.icecastssl.wdr.de/wdr/sportschau/liga1spiel9/
 https://wdr-sportschau-liga2spiel2.icecastssl.wdr.de/wdr/sportschau/liga2spiel2/mp3/high
 #EXTINF:-1,Radio Regenbogen Adler Mannheim
 https://stream.regenbogen.de/adler/mp3-128/radiobrowser
+#EXTINF:-1,RAC1 +1
+https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_MES_1.mp3

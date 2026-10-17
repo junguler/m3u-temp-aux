@@ -23,3 +23,5 @@ https://mediaserviceslive.akamaized.net/hls/live/2038353/rnqld/index.m3u8
 https://mediaserviceslive.akamaized.net/hls/live/2038333/rnsa/index.m3u8
 #EXTINF:-1,ABC Radio National WA HLS
 https://mediaserviceslive.akamaized.net/hls/live/2038354/rnwa/index.m3u8
+#EXTINF:-1,ABC Radio National NT HLS
+https://mediaserviceslive.akamaized.net/hls/live/2038332/rnnt/index.m3u8

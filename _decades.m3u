@@ -5,3 +5,9 @@ https://maggie.torontocast.com:2020/stream/rdmixlovesongs
 https://18093.live.streamtheworld.com/SAM03AAC226_SC?Bravo?Bogota?Colombia&80s
 #EXTINF:-1,Flower Power Radio
 https://nl1.streamingpulse.com/ssl/flowerpowerradio
+#EXTINF:-1,80s Drive
+https://samcloud.spacial.com/api/listen?sid=111415&m=sc&rid=293634&t=ssl?&80sradio128mp3stereo44
+#EXTINF:-1,80s Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAM03AAC226_SC?80sradio
+#EXTINF:-1,80s Zoom
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAM03AAC226_SC.mp3

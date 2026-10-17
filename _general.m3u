@@ -7,3 +7,7 @@ https://stream.zeno.fm/gh9xcb73mfhvv
 https://stream.zeno.fm/3e6q693tnd0uv
 #EXTINF:-1,Cadena SER - Radio Zamora
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ZAMORA.mp3
+#EXTINF:-1,France Inter
+https://icecast.radiofrance.fr/franceinter-hifi.aac
+#EXTINF:-1,Sud Radio
+https://ice.creacast.com/sudradio_aac

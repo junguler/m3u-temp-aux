@@ -51,3 +51,7 @@ https://stream.rpr1.de/ludwigshafen/mp3-128/radiobrowser
 https://stream.rpr1.de/mainz/mp3-128/radiobrowser
 #EXTINF:-1,RPR1. Webradio
 https://stream.rpr1.de/webradio/mp3-128/radiobrowser
+#EXTINF:-1,Chaoyang Traffic Broadcasting 103.9
+https://live.xmcdn.com/live/354/64.m3u8
+#EXTINF:-1,Enshi Traffic Music Broadcasting 94.0
+https://live.xmcdn.com/live/1434/64.m3u8

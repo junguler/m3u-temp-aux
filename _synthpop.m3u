@@ -9,3 +9,7 @@ https://atomicwavefm.stream.laut.fm/atomicwavefm?ref=web-app&start_time=17399672
 https://blackspot.stream.laut.fm/blackspot
 #EXTINF:-1,DARKCLUB-RADIO
 https://darkclubradio.stream.laut.fm/darkclubradio?pl=m3u&t302=2026-01-15_01-25-24&uuid=071b4561-c61e-4f53-bb60-527b9528ba2d
+#EXTINF:-1,Exclusively Human League
+https://nl4.mystreaming.net/er/humanleague/icecast.audio
+#EXTINF:-1,Exclusively Level 42
+https://2.mystreaming.net/er/level42/icecast.audio

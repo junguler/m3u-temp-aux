@@ -3,3 +3,7 @@
 https://play.ilovemusic.de/ilm_iloveradio/
 #EXTINF:-1,Klar FM
 https://klarfm.stream.laut.fm/klarfm?t302=2026-09-30_19-21-23&uuid=2339dd6f-27f6-a85d-63ad-adceb9a8a0c9
+#EXTINF:-1,538 Classics
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR08.mp3
+#EXTINF:-1,538 Classics AAC
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR08AAC.aac

@@ -1,3 +1,11 @@
 #EXTM3U
 #EXTINF:-1,CBC Radio 1 Halifax
 https://cbcradiolive.akamaized.net/hls/live/2040987/ES_R1AHF/master.m3u8
+#EXTINF:-1,91.3 WYEP
+https://ais-sa3.cdnstream1.com/2557_128.mp3?
+#EXTINF:-1,BBC RADIO 1 ANTHEMS: All-day anthems from the 00s to now
+https://as-hls-ww.live.cf.md.bbci.co.uk/pool_11351741/live/ww/bbc_radio_one_anthems/bbc_radio_one_anthems.isml/bbc_radio_one_anthems-audio%3d96000.norewind.m3u8
+#EXTINF:-1,BBC RADIO 1XTRA: Amplifying black music & culture
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_1xtra.m3u8
+#EXTINF:-1,DLF
+https://f131.rndfnk.com/ard/dlf/01/opus/64/stream.opus?aggregator=web&sid=22ZAaN1Sl2sw6jqTqnkk9lpQrxc&token=XJnjASp3JEAPtAmckL_Qw7dXAXtvSUmrlX3RJYAnObM&tvf=2PtxrpqmwhZmMTMxLnJuZGZuay5jb20

@@ -65,3 +65,11 @@ https://server7.streamserver24.com:8080/proxy/radiozwiebel?mp=/stream
 https://special-radio.stream.laut.fm/special-radio?t302=2026-03-24_22-09-25&uuid=bbf6c4db-2005-4024-9674-9ccb3a4d3d90
 #EXTINF:-1,sunshine live - Classic & Vocal House
 https://stream.sunshine-live.de/vocalhouse/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,Free FM Classical
+https://stream.zeno.fm/x5jlpogsaedvv
+#EXTINF:-1,ART City Radio
+https://listen7.myradio24.com/artcity
+#EXTINF:-1,Cadena Dial 91.7
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3
+#EXTINF:-1,CBN Classic Christian Radio
+https://streams.cbnradio.com/Classic-Christian-128K?app=cbnplayer

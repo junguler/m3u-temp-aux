@@ -1,3 +1,9 @@
 #EXTM3U
 #EXTINF:-1,CJSF
 https://www.cjsf.ca/streaming
+#EXTINF:-1,88.7 KTRM (Truman State University, Kirksville, Missouri)
+https://securestream.truman.edu/ktrm
+#EXTINF:-1,91.7 WMCN
+https://audio-edge-vqwx4.yyz.g.radiomast.io/0786c562-432d-4d2b-a4b6-fda1a2f60cf7
+#EXTINF:-1,eRadio WMCR (Montgomery College)
+https://www.streamvortex.com:8444/s/11060

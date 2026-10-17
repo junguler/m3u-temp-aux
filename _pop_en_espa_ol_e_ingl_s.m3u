@@ -19,3 +19,11 @@ https://5eac7b031d945.streamlock.net/canal3/canal3/playlist.m3u8
 https://eu1.fastcast4u.com/proxy/antena2000?mp=/1
 #EXTINF:-1,Candela Radio 91.4 FM
 https://radio.streamenginelogin.com:8002/stream
+#EXTINF:-1,Dunas FM 94.4 y 94.2
+https://sonic.mediatelekom.net/8424/stream/;
+#EXTINF:-1,!MODA
+https://server5.mediasector.es:8180/moda.mp3
+#EXTINF:-1,Music Radio
+https://radio.musicradio.ai/listen/musicradio.ai/radio.mp3
+#EXTINF:-1,Canal 105.1 FM 
+https://stream.zeno.fm/b94afcu8na0uv

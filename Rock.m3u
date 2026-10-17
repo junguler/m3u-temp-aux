@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,48FM 100.1
+https://stream.48fm.com:8000/48fm-64?rp_source=1&=&&___cb=592738638262229
+#EXTINF:-1,4RBL Rebel FM
+https://s8.yesstreaming.net:17145/RblGC_hq?1638436061635
+#EXTINF:-1,CHOZ 94.7
+https://ozfm.streamb.live/SB00174?ver=764874
+#EXTINF:-1,CKLZ 104.7 The Lizard
+https://stream.jpbgdigital.com/CKLZ.m3u8?device_id=@uuid@&member_id=@memberid@&player_type=web

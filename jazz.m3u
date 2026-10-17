@@ -133,3 +133,63 @@ https://stream.munichvinylradio.de/listen/mvr/stream.aac
 https://xjazz.api.radiosphere.io/channels/supreme-jazz-voices/stream.mp3
 #EXTINF:-1,DR P8 JAZZ (AAC)
 https://drliveradio1.akamaized.net/hls/live/2097651/p8jazz/masterab.m3u8
+#EXTINF:-1,Jazz FM Spain
+https://ns1.estaciondigital.es/listen/jazzfmspain/live
+#EXTINF:-1,Radio Callao Madrid
+https://server8.emitironline.com:18176/stream
+#EXTINF:-1,KlaRa Jazz
+https://icecast.err.ee/klarajazz.mp3
+#EXTINF:-1,Relax cafe
+https://stream.relaxfm.ee/cafe
+#EXTINF:-1,Allzic Radio Jazz
+https://allzic40.ice.infomaniak.ch/allzic40.aac
+#EXTINF:-1,Allzic Radio Jazz Lounge
+https://allzic03.ice.infomaniak.ch/allzic03.mp3
+#EXTINF:-1,Couleurs JAZZ
+https://www.radioking.com/play/couleurs-jazz/216016
+#EXTINF:-1,Europa Radio Jazz SD
+https://streams.radiomast.io/818607ce-8815-42fb-8dfc-344234a0ff83
+#EXTINF:-1,FIP Jazz (Hi-Fi)
+https://stream.radiofrance.fr/fipjazz/fipjazz_hifi.m3u8?id=radiofrance
+#EXTINF:-1,FIP Jazz (hifi.aac)
+https://icecast.radiofrance.fr/fipjazz-hifi.aac
+#EXTINF:-1,Hotmix Cocktail Jazz
+https://streaming.hotmixradio.com/hotmix-cocktail-jazz-en-mp3?provider=radiobrowser
+#EXTINF:-1,Hotmix Piano Bar
+https://streaming.hotmixradio.com/hotmix-piano-bar-en-mp3?provider=radiobrowser
+#EXTINF:-1,IAradio Jazz
+https://iaradiojazz.ice.infomaniak.ch/iaradiojazz-128.mp3
+#EXTINF:-1,Nostalgie Jazz
+https://stream.rcs.revma.com/5t0ewz43ehuvv
+#EXTINF:-1,Radio Univers
+https://stream4.vestaradio.com/RadioUnivers
+#EXTINF:-1,Radio 2 - Tbilisi FM 100,9 
+https://tv.cdn.xsg.ge/gpb-radio2/tracks-a1/index.m3u8
+#EXTINF:-1,103.7 The Oasis
+https://ice42.securenetsystems.net/KOAZAM?playSessionID=EE67F132-DB59-0E2B-D5F260EC5335C908
+#EXTINF:-1,24/7 Jazz Radio
+https://ec3.yesstreaming.net:3455/stream
+#EXTINF:-1,90.5 wes
+https://ais-sa3.cdnstream1.com/2556_128.mp3
+#EXTINF:-1,90.7 FM KWMU-2
+https://kwmu.streamguys1.com/jazz-128
+#EXTINF:-1,90.7 FM KWMU-2 
+https://kwmu1-ice.streamguys1.com/kwmu3.m3u
+#EXTINF:-1,Adroit Jazz Underground HD
+https://walmradio.com:8443/jazz
+#EXTINF:-1,Armstrong
+https://nl4.mystreaming.net/er/louisarmstrong/icecast.audio
+#EXTINF:-1,AZPM Jazz 89.1 HD2
+https://tektite.streamguys1.com:5145/wwnojazz?uuid=e64c7c3ks
+#EXTINF:-1,AZPM Jazz 89.1 HD2 AAC 128
+https://streaming.azpm.org/jazz128
+#EXTINF:-1,AZPM Jazz 89.1 HD2 AAC 256
+https://streaming.azpm.org/jazz256
+#EXTINF:-1,AZPM Jazz 89.1 HD2 AAC 64
+https://streaming.azpm.org/jazz64
+#EXTINF:-1,Classical Jazz Radio
+https://ec1.yesstreaming.net:2905/stream
+#EXTINF:-1,Cream
+https://playerservices.streamtheworld.com/api/livestream-redirect/CREAM.mp3
+#EXTINF:-1,egofm jazz
+https://cast.egofm.de/egofmjazz.mp3?aw_0_1st.playerid=radioplayer.de&aw_0_1st.skey=1768450462&aw_0_req.gdpr=true

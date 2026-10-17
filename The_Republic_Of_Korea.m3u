@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1,안동MBC FM4U
+https://live.andongmbc.co.kr/live/fmlive/playlist.m3u8
+#EXTINF:-1,Big B Radio - Kpop
+https://antares.dribbcast.com/proxy/kpop?mp=/s
+#EXTINF:-1,(BSOD) MBC mini All-That-Music
+https://radio.bsod.kr/stream/?stn=mbc&ch=chm
+#EXTINF:-1,CBS 음악 FM
+https://m-aac.cbs.co.kr/cbs939/_definst_/cbs939.stream/playlist.m3u8
+#EXTINF:-1,CBS 음악FM
+https://m-aac.cbs.co.kr/mweb_cbs939/_definst_/cbs939.stream/playlist.m3u8
+#EXTINF:-1,CBS JOY4U
+https://m-aac.cbs.co.kr/mweb_cbscmc/_definst_/cbscmc.stream/playlist.m3u8
+#EXTINF:-1,CBS 파워라디오 [Music FM]
+https://lhttp-hw.qtfm.cn/live/15318233/64k.mp3
+#EXTINF:-1,CBS 표준FM 98.1
+https://m-aac.cbs.co.kr/mweb_cbs981/_definst_/cbs981.stream/playlist.m3u8
+#EXTINF:-1,CPBC
+https://cdn-radio-seoul.cpbc.co.kr/cpbcseoul/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTA4NDQwMjEsInBhdGgiOiIvY3BiY3Nlb3VsIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiJkNDcyZjQwYi1hNmVmLTQwMmUtYWRhMy1mNjg5MmNiZWMxMTMiLCJpYXQiOjE3OTA4MDA4MjF9.J9OJN5BUTk4UHqkUl6hkdHnXhz3nTkGn09heiSoTpwk
+#EXTINF:-1,ebs tune in
+https://ebsonair.ebs.co.kr/fmradiofamilypc/familypc1m/playlist.m3u8

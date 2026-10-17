@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,40UP (320k stream)
+https://stream.40upradio.nl/bp-transmit
+#EXTINF:-1,Clos FM
+https://server-28.stream-server.nl:8864/stream

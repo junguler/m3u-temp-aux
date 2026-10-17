@@ -11,3 +11,9 @@ https://stream.epic-classical.com/modern-classical
 https://streams.radiobob.de/bob-chillout/aac-64/streams.radiobob.de/
 #EXTINF:-1,RADIO BOB - Chillout Unplugged Songs [mp3 | 192 kbps]
 https://streams.radiobob.de/bob-chillout/mp3-192/streams.radiobob.de/
+#EXTINF:-1,Adroit Jazz Underground
+https://icecast.walmradio.com:8443/jazz
+#EXTINF:-1,Adroit Jazz Underground HD
+https://walmradio.com:8443/jazz
+#EXTINF:-1,Adroit Jazz Underground HD Opus
+https://icecast.walmradio.com:8443/jazz_opus

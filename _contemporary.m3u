@@ -49,3 +49,15 @@ https://fluxmusic.api.radiosphere.io/channels/traumerei/stream.aac?quality=1
 https://fluxmusic.api.radiosphere.io/channels/yoga-sounds/stream.aac?quality=1
 #EXTINF:-1,FluxFM Yoga Sounds | 64k MP3
 https://fluxmusic.api.radiosphere.io/channels/yoga-sounds/stream.mp3?quality=1
+#EXTINF:-1,Adroit Jazz Underground
+https://icecast.walmradio.com:8443/jazz
+#EXTINF:-1,Adroit Jazz Underground HD
+https://walmradio.com:8443/jazz
+#EXTINF:-1,Adroit Jazz Underground HD Opus
+https://icecast.walmradio.com:8443/jazz_opus
+#EXTINF:-1,BFBS Falklands
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs6.aac
+#EXTINF:-1,Dimensione Suono Soft Nord
+https://icstream.rds.radio/dssn
+#EXTINF:-1,ECR 94.0
+https://live.ecr.co.za/ecrlow.aac

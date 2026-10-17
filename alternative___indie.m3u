@@ -17,3 +17,19 @@ https://krautland.stream.laut.fm/krautland?t302=2026-03-31_12-38-02&uuid=abb18dd
 https://stream.laut.fm/eins
 #EXTINF:-1,Rockcorner
 https://stream.laut.fm/rockcorner
+#EXTINF:-1,Radio Nelly
+https://stream.radionelly.com:8443/nelly.aac
+#EXTINF:-1,Rayvox
+https://www.rayvox.org:8443/flux
+#EXTINF:-1,Saravadio
+https://manager8.streamradio.fr:3355/stream
+#EXTINF:-1,WAVE RADIO 89.8 Hossegor
+https://s34.myradiostream.com/12340/listen.mp3
+#EXTINF:-1,91.3 WYEP
+https://ais-sa3.cdnstream1.com/2557_128.mp3?
+#EXTINF:-1,BBC 6 Indie Forever
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/mobile_wifi_main_hd_abr_v2/aks/bbc_radio_six_indie_forever.m3u8
+#EXTINF:-1,CDU - Columbus Alternative Underground
+https://streaming.live365.com/a91942
+#EXTINF:-1,ColoRadio
+https://streams.loudspeaker.org/listen/coloradio/music

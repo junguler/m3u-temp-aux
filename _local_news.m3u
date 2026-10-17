@@ -87,3 +87,53 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_CORUNA
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_FERROL.mp3
 #EXTINF:-1,Capital Radio Madrid
 https://mdstrm.com/audio/67d2a8685ae4234de49e40f6/live.m3u8?_=1748201428470&dnt=true&player=67bf8d9eb8fdbbe59cb3dc1e&uid=ZGjN46saKhxpR9l4R89Rah2jvFyKlii2&sid=Ylu5J6JhzLU9YYjHNlrKub2B78xqLdvG&pid=FM2735sWw0sy8ShSstpnBPcUEKzC3DWC&an=lightning-player&at=web-app&av=v1.0.19&sc=0&ds=67bf8b74ff9cc60dd3e575b4&ref=www.capitalradio.es&res=1600x900
+#EXTINF:-1,Mataró Ràdio
+https://relay.stream.enacast-cloud.com:30049/mataroradioHD.mp3
+#EXTINF:-1,Onda CERO ALMERIA 1341 OM
+https://atres-live.ondacero.es/live/delegaciones/oc/almeria/bitrate_1.m3u8
+#EXTINF:-1,RAC1
+https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3
+#EXTINF:-1,RAC1 +1
+https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_MES_1.mp3
+#EXTINF:-1,Ràdio Litoral
+https://stream.serviciospararadios.es/radio/8310/litoralfm.mp3
+#EXTINF:-1,Radio Murta
+https://stream.recasound.es/proxy/radiomurta/stream
+#EXTINF:-1,RNE Radio 5 Las Palmas
+https://d121.rndfnk.com/star/crtve/rne5/lpa/mp3/128/stream.mp3?cid=01GEP4X9Y3EYSQDV2G2MRTWGGZ&sid=2KXdzbu8f6MPAaCmdrAfA7scSHY&token=wiTLRflaxoLHseM8UraPggqszRT9NNr2mUoTnKi8TdU&tvf=6Up4UpPDOxdkMTIxLnJuZGZuay5jb20
+#EXTINF:-1,Bréniges FM
+https://stream.rcs.revma.com/uzz0fgg64zcwv
+#EXTINF:-1,Frequence Luz
+https://stream-ssl.radios-arra.fr:8443/frequenceluz
+#EXTINF:-1,Irulegiko Irratia
+https://hosting.studioradiomedia.fr:1365/stream
+#EXTINF:-1,Liberté FM
+https://stream.libertefm.fr/libertefm.192.mp3
+#EXTINF:-1,Lyon Demain
+https://listen.radioking.com/radio/93388/stream/131857
+#EXTINF:-1,OceaneFM
+https://stream.rcs.revma.com/4q26yzaf0v3vv
+#EXTINF:-1,Radio Aviva
+https://radio13.pro-fhi.net/listen-tpgmxyoe-stream.mp3
+#EXTINF:-1,Radio Dio
+https://live.aurafm.org/RadioDio
+#EXTINF:-1,Radio Méga
+https://stream.ferarock.org:8020/radio-mega
+#EXTINF:-1,Radio Top Side
+https://listen.radioking.com/radio/33560/stream/275656
+#EXTINF:-1,Radio Vallespir
+https://stream10.vestaradio.com/Radio-Vallespir
+#EXTINF:-1,RCI Martinique
+https://stream.rcs.revma.com/t0abpqyspwzuv
+#EXTINF:-1,TBM06.FR
+https://listen.radioking.com/radio/806511/stream/875226
+#EXTINF:-1,Riduna-radio.com
+https://stream.radio.co/sa70b464db/listen
+#EXTINF:-1,BR6 Radio
+https://qxjr001.digiplay.nl/stream/9160/stream
+#EXTINF:-1,Brooklands Radio
+https://stream4.hippynet.co.uk/stream/brooklandsradio
+#EXTINF:-1,broradio
+https://streaming.broadcastradio.com:8422/brorad?=&&___cb=380218828489260
+#EXTINF:-1,Donderschoer Radio (2nd server)
+https://server-28.stream-server.nl:8806/stream

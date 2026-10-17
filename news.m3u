@@ -375,3 +375,143 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_PONTEV
 https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
 #EXTINF:-1,copesal
 https://salamanca-copesedes-rrcast.flumotion.com/copesedes/salamanca-low.mp3
+#EXTINF:-1,esRadio Galicia
+https://libertaddigital-radio-live2.flumotion.com/libertaddigital/ld-live2-low.mp3
+#EXTINF:-1,Onda Cero Granada
+https://atres-live.ondacero.es/live/delegaciones/oc/granada/bitrate_1.m3u8
+#EXTINF:-1,Onda Cero Huelva
+https://25593.live.streamtheworld.com/OC_HUELVAAAC.aac
+#EXTINF:-1,Onda Cero Tenerife
+https://atres-live.ondacero.es/live/delegaciones/oc/tenerife/bitrate_1.m3u8
+#EXTINF:-1,Radio 5 Zamora 
+https://dispatcher.rndfnk.com/crtve/rne5/zam/aac/high?=&&___cb=615514255358732
+#EXTINF:-1,Radio Aventura Siglo21 (FM 107.8)
+https://streaming.enantena.com:8000/carmelomartinHD.mp3
+#EXTINF:-1,Radio Hora
+https://s5.radio.co/s58f5759a4/listen
+#EXTINF:-1,Radio Intercontinental - Madrid
+https://cast5.servcast.net/proxy/inter/stream
+#EXTINF:-1,Radio Nacional de Espa�a - Radio 5 Todo noticias
+https://d131.rndfnk.com/star/crtve/rne5/main/mp3/128/stream.mp3?aggregator=tunein&cid=01GEP4MW5CAHPYP1EXHVKWFJ8W&sid=2OeE42hivuba6dTGvjnMGjKByQe&token=cdczXcnimVx4AY4iamqYbTMdu3cK7oBxmS2UQN9cWc0&tvf=pdPcDBxuVxdkMTMxLnJuZGZuay5jb20
+#EXTINF:-1,DW Amharic 
+https://dw.audiostream.io/dw/1027/mp3/64/dw08
+#EXTINF:-1,MTV Uutiset
+https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
+#EXTINF:-1,Yle Vega Huvudstadsregionen
+https://yleradiolive.akamaized.net/hls/live/2027679/in-YleVega/master.m3u8
+#EXTINF:-1,franceinfo aac lofi
+https://icecast.radiofrance.fr/franceinfo-lofi.aac
+#EXTINF:-1,Radio sisko fm
+https://stream.zeno.fm/nesckintyb8uv
+#EXTINF:-1,REPLAY NEWS - Story (Fran�ais)
+https://replaynewsstory.ice.infomaniak.ch/replaynewsstory-128.mp3
+#EXTINF:-1,RFI Kiswahili
+https://rfiswahili96k.ice.infomaniak.ch/rfiswahili-96k.mp3
+#EXTINF:-1,RFI Russia
+https://rfiukraine.ice.infomaniak.ch/rfiukraine-96.mp3
+#EXTINF:-1,VSD Radio
+https://play.radioking.io/vsd-radio
+#EXTINF:-1,Happy Fm
+https://atunwadigital.streamguys1.com/happyfm989accra
+#EXTINF:-1,1050 AM KTBL
+https://playerservices.streamtheworld.com/api/livestream-redirect/KTBLAMAAC.aac
+#EXTINF:-1,1110 KFAB
+https://stream.revma.ihrhls.com/zc1325
+#EXTINF:-1,1250 WTMA
+https://playerservices.streamtheworld.com/api/livestream-redirect/WTMAAMAAC.aac
+#EXTINF:-1,1330 & 101.5 WHBL
+https://playerservices.streamtheworld.com/api/livestream-redirect/WHBLAMAAC.aac
+#EXTINF:-1,1490 WMRN
+https://stream.revma.ihrhls.com/zc1829
+#EXTINF:-1,550 KTSA
+https://live.amperwave.net/manifest/alphacorporate-ktsaamaac-ibc4
+#EXTINF:-1,55KRC
+https://stream.revma.ihrhls.com/zc1709
+#EXTINF:-1,590 KQNT
+https://stream.revma.ihrhls.com/zc4952
+#EXTINF:-1,600 WREC
+https://stream.revma.ihrhls.com/zc2145
+#EXTINF:-1,670 KBOI
+https://playerservices.streamtheworld.com/api/livestream-redirect/KBOIAMAAC.aac
+#EXTINF:-1,680 The Fan
+https://playerservices.streamtheworld.com/api/livestream-redirect/WCNNAMAAC.aac
+#EXTINF:-1,770 KKOB
+https://playerservices.streamtheworld.com/api/livestream-redirect/KKOBAMAAC.aac
+#EXTINF:-1,830 WEEU
+https://ais-sa2.cdnstream1.com/2350_128.mp3
+#EXTINF:-1,850 WFTL
+https://playerservices.streamtheworld.com/api/livestream-redirect/WFTLAMAAC.aac
+#EXTINF:-1,89.5 WMFV News
+https://wmfe-iad.streamguys1.com/wmfv
+#EXTINF:-1,91.9 KSPB Stevenson Pebble Beach
+https://livestream.kspb.org/kspbstream
+#EXTINF:-1,94.9 News Now
+https://crystalout.surfernetwork.com:8001/WJJF-FM_MP3
+#EXTINF:-1,98.1 WTSN
+https://ice64.securenetsystems.net/WTSN
+#EXTINF:-1,Accion 930 AM FM 97.3 (LA PRIMERA EN NOTICIAS)
+https://stream.revma.ihrhls.com/zc3201/hls.m3u8
+#EXTINF:-1,Ag News 890
+https://ice64.securenetsystems.net/KQLXAM
+#EXTINF:-1,AIR Tirupati 103.2
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio144/playlist.m3u8
+#EXTINF:-1,AM 1100 The Flag
+https://playerservices.streamtheworld.com/api/livestream-redirect/WZFGAMAAC.aac
+#EXTINF:-1,AM 1280 The Patriot
+https://playerservices.streamtheworld.com/api/livestream-redirect/WWTCAMAAC.aac
+#EXTINF:-1,AM 1350 KABQ
+https://stream.revma.ihrhls.com/zc1401
+#EXTINF:-1,AM 1420 The Answer
+https://playerservices.streamtheworld.com/api/livestream-redirect/WHKAMAAC.aac
+#EXTINF:-1,AM 800 KXIC
+https://stream.revma.ihrhls.com/zc5262
+#EXTINF:-1,Antena 102.5
+https://streamingcwsradio30.com:7093/listen.pls
+#EXTINF:-1,Arcadia Tripole
+https://n08.radiojar.com/g34k4f92n74tv?rj-ttl=5&rj-tok=AAABfdpjLQsAz0OVQnc0bc1Rng
+#EXTINF:-1,AZPM NPR 89.1 AAC 128
+https://streaming.azpm.org/kuaz128
+#EXTINF:-1,AZPM NPR 89.1 AAC 256
+https://streaming.azpm.org/kuaz256
+#EXTINF:-1,AZPM NPR 89.1 AAC 64
+https://streaming.azpm.org/kuaz64
+#EXTINF:-1,Bayern 5
+https://d141.rndfnk.com/ard/br/br24/live/mp3/128/stream.mp3?sid=22bgzTktyyrvc6kknTQdMQhmZ72&token=vcPM49oROaxQCwsAoBvSb5_bO2Gkf2iOsT6YK7U9bzo&tvf=PUqhAsnswhZkMTQxLnJuZGZuay5jb20
+#EXTINF:-1,BBC Arabic 
+https://stream.live.vc.bbcmedia.co.uk/bbc_arabic_radio
+#EXTINF:-1,BBC for Australasia
+https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_australasia
+#EXTINF:-1,BBC World Service
+https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_east_asia
+#EXTINF:-1,Бизнес FM —  Business Fm (Moscow)
+https://bfm.hostingradio.ru/bfm256.mp3?radiostatistica=bfmru
+#EXTINF:-1,Bombo Radyo Iloilo
+https://stream.zenolive.com/gzudz59nz9duv
+#EXTINF:-1,Capital Radio
+https://capitalradio.radioca.st/stream
+#EXTINF:-1,Changyuan People's Broadcasting Station 95.7
+https://lhttp.qingting.fm/live/15318663/64k.mp3
+#EXTINF:-1,Chaoyang Comprehensive Broadcasting
+https://live.xmcdn.com/live/353/64.m3u8
+#EXTINF:-1,China Radio-1 综合频道
+https://sk.cri.cn/am846.m3u8?
+#EXTINF:-1,CNN
+https://tunein.cdnstream1.com/2868_96.mp3
+#EXTINF:-1,CNN International Audio
+https://tunein.cdnstream1.com/3519_96.aac
+#EXTINF:-1,CNN Turk Radyo 92.5
+https://moondigitaledge2.radyotvonline.net/cnnturk/playlist.m3u8
+#EXTINF:-1,Colorado Public Radio News
+https://stream1.cprnetwork.org/cpr1_lo
+#EXTINF:-1,Дождь ТВ (Звук)
+https://wl.tvrain.tv/transcode/ses_audio_only/playlist.m3u8
+#EXTINF:-1,Echo ЭХО Online
+https://i1.echofm.online:8443/stream
+#EXTINF:-1,ECR 94.0
+https://live.ecr.co.za/ecrlow.aac
+#EXTINF:-1,Enshi Comprehensive Broadcasting 99.0
+https://live.xmcdn.com/live/1435/64.m3u8
+#EXTINF:-1,Enshi Traffic Music Broadcasting 94.0
+https://live.xmcdn.com/live/1434/64.m3u8
+#EXTINF:-1,Etoile TV
+https://estrellanews-roku.amagi.tv/playlist.m3u8

@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1,Capital Salsa
 https://stream.integracionvirtual.com/proxy/capitalsalsa?mp=/stream
+#EXTINF:-1,Hotmix Salsa
+https://streaming.hotmixradio.com/hotmix-salsa-en-mp3?provider=radiobrowser

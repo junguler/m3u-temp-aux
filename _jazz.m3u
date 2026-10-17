@@ -255,3 +255,161 @@ https://xjazz.api.radiosphere.io/channels/supreme-movin-jazz/stream.mp3
 https://stream2.rcast.net/64145
 #EXTINF:-1,Candil Radio
 https://candilradio.com/liveradio/candil/live.mp3
+#EXTINF:-1,DABClassic Radio
+https://studio.dabclassic.com/hls/dabclassic/live.m3u8
+#EXTINF:-1,delicious.beach - formentera lounge radio
+https://server31435.streamplus.de/;stream.mp3
+#EXTINF:-1,OpenLab Radio
+https://ice04.fluidstream.net/openlab.mp3
+#EXTINF:-1,Pakito FM
+https://nodo102.liveradio.com.es/8016/stream
+#EXTINF:-1,Perfect Radio Coffeemusic
+https://stream.radiojar.com/1uqnt5zp1v8uv.mp3
+#EXTINF:-1,R‡dio 90 (128k)
+https://giss.tv:666/r90-128.mp3
+#EXTINF:-1,Radio Hostafrancs 
+https://relay.stream.enacast-cloud.com:30276/radiohostafrancsHD.mp3
+#EXTINF:-1,Radio Radio Network Jazz
+https://premium.streams.gr/sc/rrnjazz/stream
+#EXTINF:-1,RNE Radio 3
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r3_main.m3u8
+#EXTINF:-1,Soul FM
+https://soul-fm.com/live/soul.fm
+#EXTINF:-1,KlaRa Nostalgia
+https://icecast.err.ee/klaranostalgia.mp3
+#EXTINF:-1,Groove FM
+https://aud-stream-groove.nm-elemental.nelonenmedia.fi/playlist.m3u8
+#EXTINF:-1,Radio W&M
+https://stream.zeno.fm/qgeotx9vzpluv
+#EXTINF:-1,Unexplained Agency Radio
+https://radio.unexplained.agency/stream
+#EXTINF:-1,#1 Splash Jazz
+https://ais-sa2.cdnstream1.com/2346_128.mp3
+#EXTINF:-1,AÔoli Radio
+https://stream.aioli-radio.org/main.ogg
+#EXTINF:-1,Alternative Radio
+https://www.radioking.com/play/alternative-radio-1
+#EXTINF:-1,bringthenoise
+https://radio.bringthenoi.se/listen/dj_nocide/default
+#EXTINF:-1,CAMP Radio
+https://listen.camp/campradio.ogg
+#EXTINF:-1,CINEMUSIC Radio
+https://listen.radioking.com/radio/422/stream/62785
+#EXTINF:-1,DiscothËque Fantastique Radio
+https://radio.discothequefantastique.org/listen/discotheque_fantastique_radio/radio.mp3
+#EXTINF:-1,Elise radio 
+https://elise.wanastream.com:25000/;stream.nsv
+#EXTINF:-1,Espwa Radyo 97
+https://stream10.vestaradio.com/espwaradyo97
+#EXTINF:-1,France Musique
+https://stream.radiofrance.fr/francemusique/francemusique.m3u8
+#EXTINF:-1,Hotmix Jazz
+https://streaming.hotmixradio.com/hotmix-jazz-en-mp3?provider=radiobrowser
+#EXTINF:-1,Jazz Radio Electro Swing
+https://jazz-wr04.ice.infomaniak.ch/jazz-wr04-64.aac?i=67090
+#EXTINF:-1,Jazzradio.fr Jazz & Cinema
+https://jzr-wr20.ice.infomaniak.ch/jzr-wr20.mp3
+#EXTINF:-1,Jazzradio.fr Jazz & Classique
+https://jazz-wr17.ice.infomaniak.ch/jazz-wr17-128.mp3
+#EXTINF:-1,La Grosse Radio Rock
+https://hd.lagrosseradio.info/lagrosseradio-rock-192.mp3
+#EXTINF:-1,Le Bon Mix - AAC320LC
+https://stream10.xdevel.com/audio13s976748-2017/stream/icecast.audio
+#EXTINF:-1,Le Bon Mix HiFi Flac 1411 Kbps
+https://stream10.xdevel.com/audio17s976748-2218/stream/icecast.audio
+#EXTINF:-1,Music Radio
+https://radio.musicradio.ai/listen/musicradio.ai/radio.mp3
+#EXTINF:-1,OceaneFM
+https://stream.rcs.revma.com/4q26yzaf0v3vv
+#EXTINF:-1,Pinata
+https://listen.radioking.com/radio/96031/stream/134656
+#EXTINF:-1,Podjazz Radio
+https://radio.podjazz.net/listen/podjazz_radio/radio.mp3
+#EXTINF:-1,Radio Bar Sardine
+https://listen.radioking.com/radio/552908/stream/612230
+#EXTINF:-1,Radio Boom Boom
+https://listen.radioboomboom.com/listen/rbb/radio.mp3
+#EXTINF:-1,Radio campus bordeaux
+https://live.radio-campus.org:8002/campus-bordeaux
+#EXTINF:-1,Radio Campus Clermont-Ferrand
+https://live.radio-campus.org:8002/clermont-ferrand
+#EXTINF:-1,Radio Echo des Choucas (REC)
+https://hosting.radiomedia.fr:2005/stream
+#EXTINF:-1,Radio MÈga
+https://stream.ferarock.org:8020/radio-mega
+#EXTINF:-1,Radio Nelly
+https://stream.radionelly.com:8443/nelly.aac
+#EXTINF:-1,RADIO NOVA
+https://novazz.ice.infomaniak.ch/novazz-128.mp3
+#EXTINF:-1,Radio Sofa
+https://listen.radioking.com/radio/292531/stream/338878
+#EXTINF:-1,RapTz
+https://www.radioking.com/play/radio-raptz/78175
+#EXTINF:-1,RCV 99 fm
+https://listen.radioking.com/radio/3086/stream/9476
+#EXTINF:-1,RDWA Luc
+https://live.aurafm.org/R-Dwa-LUC
+#EXTINF:-1,Soft Radio
+https://stream10.xdevel.com/audio14s976748-2279/stream/icecast.audio
+#EXTINF:-1,Soul Radio
+https://listen.soulradio.eu/eu
+#EXTINF:-1,The Lounge Hour
+https://listen2.streamaudio.co/stream/8056
+#EXTINF:-1,UP Station
+https://cast.up-station.com/listen/up-station/radio.mp3
+#EXTINF:-1,Red Wine Radio
+https://stream.zeno.fm/pcbduafehg0uv
+#EXTINF:-1,24/7 Lounge Radio
+https://ec3.yesstreaming.net:3665/stream
+#EXTINF:-1,88.7 WICR - The Diamond
+https://live.amperwave.net/direct/univofindy-wicrhd1mp3-ibc4
+#EXTINF:-1,90.5 WICN Public Radio - Jazz+ for New England
+https://wicn-ice.streamguys1.com/live-mp3
+#EXTINF:-1,Above The Clouds Radio
+https://radio.abovethecloudsradio.com/listen/above_the_clouds_radio/radio.mp3
+#EXTINF:-1,Abusia Radio
+https://ice66.securenetsystems.net/ABUSIA
+#EXTINF:-1,Afrobeats Jazz Radio
+https://radio.nitro-server.uk/listen/frobeatsazzadio/radio.mp3
+#EXTINF:-1,AryStation - Beyond Reality
+https://a11.asurahosting.com:8740/radio.mp3
+#EXTINF:-1,Atl Paper Chasers Radio 
+https://servidor27.brlogic.com:7004/live
+#EXTINF:-1,BE 99.7
+https://stream1.rcast.net/61186
+#EXTINF:-1,BeatFlow Radio
+https://stream.beatflowradio.com/beatflow.mp3
+#EXTINF:-1,BGMVibes
+https://radio.sutekihost.com/listen/bgmvibes/radio.mp3
+#EXTINF:-1,Black Sparrow Radio KBSR
+https://streams.radio.co/sb821fbb0a/listen
+#EXTINF:-1,BROKEN BEATS 
+https://stream.zeno.fm/27tv6ay24d0uv
+#EXTINF:-1,BSPR Music (Jazz)
+https://boisestate.streamguys1.com/Jazz-aac-256k-icy.aac
+#EXTINF:-1,CDE Affiliated Radio
+https://s2.netradiostation.com/proxy/cderadio?mp=/
+#EXTINF:-1,chocolate-radio.com 
+https://stream.radio.co/sa7336b687/listen
+#EXTINF:-1,Classic Vinyl HD
+https://icecast.walmradio.com:8443/classic
+#EXTINF:-1,Classic Vinyl HD Opus
+https://icecast.walmradio.com:8443/classic_opus
+#EXTINF:-1,Colourful Radio
+https://listen-colourful.sharp-stream.com/colourfulmid.mp3
+#EXTINF:-1,Â§ßÂ∂ºÂ±±Âª£Êí≠ÈõªÂè∞ RADIO LANTAU
+https://radio.dripfeed.net/listen/radiolantau/radio.mp3
+#EXTINF:-1,DWDM Eagle FM 95.5
+https://stream.radiojar.com/yus0r2bghd3vv
+#EXTINF:-1,Exclusively Amy Wibehouse
+https://nl4.mystreaming.net/er/amywinehouse/icecast.audio
+#EXTINF:-1,Exclusively Amy Winehouse
+https://streaming.exclusive.radio/er/amywinehouse/icecast.audio
+#EXTINF:-1,Exclusively Diana Krall
+https://nl4.mystreaming.net/er/dianakrall/icecast.audio
+#EXTINF:-1,Exclusively Ella Fitzgerald
+https://nl4.mystreaming.net/er/ellafitzgerald/icecast.audio
+#EXTINF:-1,Exclusively Herbie Hancock
+https://2.mystreaming.net/er/herbiehancock/icecast.audio
+#EXTINF:-1,Exclusively Lana Del Rey
+https://nl4.mystreaming.net/er/lanadelrey/icecast.audio

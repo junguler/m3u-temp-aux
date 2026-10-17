@@ -147,3 +147,49 @@ https://eu1.lhdserver.es:8039/stream
 https://panel5.soydigital.fm/8024/live
 #EXTINF:-1,Castro Punto Radio 88.2 FM
 https://server8.emitironline.com:10891/;
+#EXTINF:-1,Dipalme Radio
+https://streaming.indalteco.net/proxy/dipalmerad?mp=/stream
+#EXTINF:-1,Doble V radio 107.9 FM
+https://stream.zeno.fm/x7wm4rrv5yzuv
+#EXTINF:-1,Dos FM Radio 97.7 / 101.0
+https://control.streaming-pro.com:8008/stream
+#EXTINF:-1,Radio Universidad de Navarra 98.3 FM
+https://s2.radio.co/sb23429e9f/listen
+#EXTINF:-1,1460 AM Deportes Vegas
+https://playerservices.streamtheworld.com/api/livestream-redirect/KENOAM.mp3
+#EXTINF:-1,98.5 El Patron
+https://stream.revma.ihrhls.com/zc6969/hls.m3u8
+#EXTINF:-1,Acción 104.5 FM (La diferencia en el dial)
+https://stream.intervalohost.com/accionfm/stream
+#EXTINF:-1,Accion 930 AM FM 97.3 (LA PRIMERA EN NOTICIAS)
+https://stream.revma.ihrhls.com/zc3201/hls.m3u8
+#EXTINF:-1,Acción 97.9 (La Primera En Noticias)
+https://stream.revma.ihrhls.com/zc7959/hls.m3u8
+#EXTINF:-1,Activa Nashville AM 1240 - FM 105.1
+https://ice66.securenetsystems.net/WNVL
+#EXTINF:-1,Alba Ciudad 96.3 FM
+https://envivo.albaciudad.org/albaciudad.mp3
+#EXTINF:-1,Ambiente 1030 AM
+https://ice41.securenetsystems.net/WGSF
+#EXTINF:-1,Amiga FM 93.9
+https://stream.zeno.fm/dr612ew61rhvv
+#EXTINF:-1,Bendicion95.1 FM
+https://sp.unoredcdn.net/8054/stream
+#EXTINF:-1,Bravas 99.7 FM
+https://stream.zeno.fm/nnzbefxo8cjvv
+#EXTINF:-1,CDR 98.7 FM
+https://laradiossl.online:8347/;
+#EXTINF:-1,Comunion 97.5 Fm
+https://stream.zeno.fm/cy3ef0frwmzuv
+#EXTINF:-1,Contacto FM 93.7
+https://laradiossl.online:10058/;
+#EXTINF:-1,Dinamik 89.9 FM
+https://stream.zeno.fm/wmnqq0m2uk8uv
+#EXTINF:-1,Dominicana FM 98.9 y 99.9 FM
+https://protvradiostream.com:8610/;
+#EXTINF:-1,El Patron 93.5 FM
+https://ample.revma.ihrhls.com/zc6872/40_n95p6xek6ufh02/playlist.m3u8
+#EXTINF:-1,El Rey 1360 AM
+https://playerservices.streamtheworld.com/api/livestream-redirect/KKMOAMAAC.aac
+#EXTINF:-1,El Rey 94.9 FM Y 630 AM
+https://ice41.securenetsystems.net/WREY

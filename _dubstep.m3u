@@ -13,3 +13,11 @@ https://stream.laut.fm/faf-records-979
 https://www.partyviberadio.com:8061/;listen.pls?sid=1
 #EXTINF:-1,Technolovers TRAP
 https://stream.technolovers.fm/trap?ref=radiobrowser
+#EXTINF:-1,BBC RADIO 1XTRA: Amplifying black music & culture
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_1xtra.m3u8
+#EXTINF:-1,CDE Affiliated Radio
+https://s2.netradiostation.com/proxy/cderadio?mp=/
+#EXTINF:-1,DnB&EDM
+https://edmdnb.com:448/radio/8000/radio.mp3
+#EXTINF:-1,EdmColorado.com Radio
+https://azura.entelcore.com/listen/edmco1/edmco1.mp3

@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,4CA 846
+https://playerservices.streamtheworld.com/api/livestream-redirect/CAI_4CAAAC.aac
+#EXTINF:-1,ABC Radio Midwest & Wheatbelt
+https://mediaserviceslive.akamaized.net/hls/live/2038256/localwheatbelt/index.m3u8?source=web
+#EXTINF:-1,ABC Radio North and West SA
+https://mediaserviceslive.akamaized.net/hls/live/2109420/localportpirie-u1/v0-221.m3u8
+#EXTINF:-1,ABC Radio North West Queensland
+https://mediaserviceslive.akamaized.net/hls/live/2109417/localmtisa-u1/v0-221.m3u8
+#EXTINF:-1,ABC Radio Northern Tasmania
+https://mediaserviceslive.akamaized.net/hls/live/2109413/locallaunceston-u1/v0-221.m3u8
+#EXTINF:-1,ABC Riverland 1062
+https://mediaserviceslive.akamaized.net/hls/live/2038160/localriverland/index.m3u8
+#EXTINF:-1,CHUM 1050
+https://27033.live.streamtheworld.com/CHUMAM_ADP/HLS/playlist.m3u8

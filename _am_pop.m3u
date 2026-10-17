@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1,Exclusively Bee Gees
+https://streaming.exclusive.radio/er/beegees/icecast.audio
+#EXTINF:-1,Exclusively Bob Dylan
+https://streaming.exclusive.radio/er/bobdylan/icecast.audio
+#EXTINF:-1,Exclusively Cher
+https://streaming.exclusive.radio/er/cher/icecast.audio
+#EXTINF:-1,Exclusively John Lennon
+https://streaming.exclusive.radio/er/lennon/icecast.audio
+#EXTINF:-1,Exclusively Paul McCartney
+https://streaming.exclusive.radio/er/paulmccartney/icecast.audio

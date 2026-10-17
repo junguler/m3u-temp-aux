@@ -25,3 +25,11 @@ https://radiolatina.info/8166/stream
 https://rozhlas.stream/radiozurnal_sport_adhoc_2_high.mp3
 #EXTINF:-1,Radio Prostor
 https://bcast.spmmedia.cz/prostor-mp3
+#EXTINF:-1,Mataró Ràdio
+https://relay.stream.enacast-cloud.com:30049/mataroradioHD.mp3
+#EXTINF:-1,RAC1 +1
+https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_MES_1.mp3
+#EXTINF:-1,Radio MARCA Asturias
+https://streaming.enacast.com/radiomarcaasturiasHD.mp3
+#EXTINF:-1,Hotmix Sport Hits
+https://streaming.hotmixradio.com/hotmix-sport-hits-en-mp3?provider=radiobrowser

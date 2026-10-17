@@ -75,3 +75,37 @@ https://breakz-high.rautemusik.fm/?ref=radiobrowser-partybreakz
 https://breakz-high.rautemusik.fm/stream.mp3?ref=DJCHARTSRB
 #EXTINF:-1,WDR COSMO -- (https)
 https://wdr-cosmo-live.icecastssl.wdr.de/wdr/cosmo/live/mp3/128/stream.mp3
+#EXTINF:-1,Flaix FM
+https://stream.flaixfm.cat/icecast
+#EXTINF:-1,Los 40 Urban
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp3
+#EXTINF:-1,motiva PARTY
+https://server5.mediasector.es/listen/motiva_mix/motivaparty.mp3
+#EXTINF:-1,A.D Prod Radio
+https://astromaria.fr/webradio_stream/live
+#EXTINF:-1,Air Connect
+https://stream.airconnectradio.com/ac192.mp3
+#EXTINF:-1,Fréquence 3 Urban
+https://frequence3.net-radio.fr/frequence3urban-128.mp3
+#EXTINF:-1,Fréquence 3 Urban FLAC
+https://frequence3.net-radio.fr/frequence3urban.flac
+#EXTINF:-1,Radio Fresh
+https://radio4.pro-fhi.net/live/RadioFRESH?t=1788083035038
+#EXTINF:-1,Radio Fuego
+https://n12a-eu.rcs.revma.com/dapwbz2befcwv
+#EXTINF:-1,RDWA Luc
+https://live.aurafm.org/R-Dwa-LUC
+#EXTINF:-1,.100 Hip hop and RNB FM
+https://ice64.securenetsystems.net/LFTM
+#EXTINF:-1,540 AM Wilkins
+https://ice41.securenetsystems.net/WASG
+#EXTINF:-1,Amsterdam Funk Channel
+https://live.afc.fm/
+#EXTINF:-1,BBC RADIO 1XTRA: Amplifying black music & culture
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_1xtra.m3u8
+#EXTINF:-1,Boom SVG 106.9
+https://streaming.shoutcast.com/boom106-9
+#EXTINF:-1,Deus Entertainment Radio
+https://streaming.live365.com/a46210
+#EXTINF:-1,ECR 94.0
+https://live.ecr.co.za/ecrlow.aac

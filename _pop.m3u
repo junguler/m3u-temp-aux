@@ -1293,3 +1293,559 @@ https://sonic.sistemahost.es/40200radiovilla/stream
 https://quincy.torontocast.com:2260/;
 #EXTINF:-1,Castro Punto Radio 88.2 FM
 https://server8.emitironline.com:10891/;
+#EXTINF:-1,Dos FM Radio 97.7 / 101.0
+https://control.streaming-pro.com:8008/stream
+#EXTINF:-1,Dunas FM 94.4 y 94.2
+https://sonic.mediatelekom.net/8424/stream/;
+#EXTINF:-1,Eixample Barcelona Radio
+https://directe.eixamplebarcelonaradio.com:8443/radioOnline
+#EXTINF:-1,Eme Radio
+https://streaming.enacast.com/emeradiofmHD.mp3
+#EXTINF:-1,Esplugues FM
+https://antares.dribbcast.com/proxy/espluguesfm?mp=/stream
+#EXTINF:-1,FORMULA 10 MUSICA
+https://formula10musica.stream.laut.fm/formula10musica
+#EXTINF:-1,Inolvidable FM
+https://uk1.streamingpulse.com/ssl/inolvidablefm
+#EXTINF:-1,La Mega FM Asturias
+https://lamegafmasturias.com
+La Mega FM Asturias
+https://streaming12.elitecomunicacion.es/proxy/lamegafmastur/stream
+#EXTINF:-1,Los 40 Asturias
+https://27913.live.streamtheworld.com/LOS40_ASO_ASTURIASAAC.aac
+#EXTINF:-1,LOS 40 Principales Espa�a
+https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3
+#EXTINF:-1,Los 40 Santander
+https://22183.live.streamtheworld.com/LOS40_SANTANDERAAC.aac
+#EXTINF:-1,Los 40 Urban
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp3
+#EXTINF:-1,LOS40
+https://20103.live.streamtheworld.com/LOS40_SC
+#EXTINF:-1,Mediterrani FM Barcelona
+https://listen1.myradio24.com/37511
+#EXTINF:-1,Oasis FM Tenerife
+https://stream3.themediasite.co.uk:8128/
+#EXTINF:-1,Onda Wantuki 
+https://stream-53.zeno.fm/5dfkzqm70s8uv?zs=7mVurCDLSPy5bKKzKX0EYQ
+#EXTINF:-1,Onda Wantuki 
+https://stream.zeno.fm/5dfkzqm70s8uv
+#EXTINF:-1,Ondamar80
+https://radiostreamingserver.com/listen/ondamar80/live
+#EXTINF:-1,Only Romantic Radio
+https://stream.laut.fm/only-romantic-radio
+#EXTINF:-1,R�dio 90 (128k)
+https://giss.tv:666/r90-128.mp3
+#EXTINF:-1,Radio Castelldefels
+https://streaming.enacast.com/radiocastelldefels128.mp3
+#EXTINF:-1,Radio Estepona-Costa del Sol
+https://streaming2.elitecomunicacion.es:8602/stream
+#EXTINF:-1,Radio Hostafrancs 
+https://relay.stream.enacast-cloud.com:30276/radiohostafrancsHD.mp3
+#EXTINF:-1,Radio Intercontinental - Madrid
+https://cast5.servcast.net/proxy/inter/stream
+#EXTINF:-1,R�dio Litoral
+https://stream.serviciospararadios.es/radio/8310/litoralfm.mp3
+#EXTINF:-1,Radio Moscatel 107.1 FM Axarqu�a - Espa�a
+https://axarquia.emisiononline.es/radio/8040/radio.mp3
+#EXTINF:-1,Radio Murta
+https://stream.recasound.es/proxy/radiomurta/stream
+#EXTINF:-1,Radio Planeta Costa del Sol
+https://radioplaneta.emitironline.com/radio
+#EXTINF:-1,Radio Primavera GC 107.3 FM
+https://stream.radio-pv.com/
+#EXTINF:-1,Radio Rytmica
+https://streamingtumusicaonline.ispgestion.com/listen/rytmica/radio.mp3
+#EXTINF:-1,Radio Serran�a
+https://stream-179.zeno.fm/suyydyfgwf9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzdXl5ZHlmZ3dmOXV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiaDJqN09GTE5RSXVXZzVvZDRUWWhDUSIsImlhdCI6MTc2ODQ1OTQyMywiZXhwIjoxNzY4NDU5NDgzfQ.VQGXKt0LSXNn5bTuBulvfM_Q_z-M_NPoAm-9gKUZ-4I
+#EXTINF:-1,Radio Universidad de Navarra 98.3 FM
+https://s2.radio.co/sb23429e9f/listen
+#EXTINF:-1,RNE Radio 3
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r3_main.m3u8
+#EXTINF:-1,rockSateliteONE
+https://server5.mediasector.es:8050/rocksatelite.mp3
+#EXTINF:-1,Xtra FM (North)
+https://hls1.eu.peppermindmedia.com/xtrafm/north/XtraFMNorth.m3u8
+#EXTINF:-1,Xtra FM (South)
+https://hls1.eu.peppermindmedia.com/xtrafm/south/XtraFMSouth.m3u8
+#EXTINF:-1,Radio Olematu
+https://radio.olematu.ee/listen/radio_olematu/radio.mp3
+#EXTINF:-1,Retro Love
+https://edge05.cdn.bitflip.ee:8888/RetroJ6ulud
+#EXTINF:-1,V�mba FM
+https://c4.radioboss.fm:18123/stream
+#EXTINF:-1,Karjalainen Syke
+https://radio.diks.fi/karjalainensyke
+#EXTINF:-1,Pride Radio
+https://streaming.radioplay.fi/fi_pride_128.mp3
+#EXTINF:-1,Radio Auran Aallot
+https://streaming.radioplay.fi/fi_auranaallot_128.mp3
+#EXTINF:-1,Radio City
+https://streaming.radioplay.fi/fi_radiocity_128.mp3
+#EXTINF:-1,Radio Mega
+https://streaming.radioplay.fi/fi_radiomega_128.mp3
+#EXTINF:-1,Radio Tuottaja1
+https://kaupunkiradio.radiotaajuus.fi:9013/radio
+#EXTINF:-1,Radio W&M
+https://stream.zeno.fm/qgeotx9vzpluv
+#EXTINF:-1,Sea FM
+https://s3.myradiostream.com/4976/listen.mp3
+#EXTINF:-1,Teko�lyradio
+https://streaming.radioplay.fi/fi_tekoalyradio_128.mp3
+#EXTINF:-1,Yle X3M
+https://yleradiolive.akamaized.net/hls/live/2027678/in-YleX3M/master.m3u8
+#EXTINF:-1,YleX
+https://yleradiolive.akamaized.net/hls/live/2027674/in-YleX/master.m3u8
+#EXTINF:-1,100% Radio Carcassonne
+https://100radio-carcassonne.ice.infomaniak.ch/100radio-carcassonne-128.mp3
+#EXTINF:-1,..87,5!. Nantes
+https://listen.radioking.com/radio/15130/stream/28217
+#EXTINF:-1,A�oli Radio
+https://stream.aioli-radio.org/main.ogg
+#EXTINF:-1,Air Connect
+https://stream.airconnectradio.com/ac192.mp3
+#EXTINF:-1,Air Connect Radio
+https://stream2.airconnectradio.com/ac128.mp3
+#EXTINF:-1,Allzic Radio Pop Queens
+https://allzic54.ice.infomaniak.ch/allzic54.aac
+#EXTINF:-1,Alouette Nouveau Talents
+https://alouettenouveauxtalents.ice.infomaniak.ch/alouettenouveauxtalents-128.mp3
+#EXTINF:-1,bringthenoise
+https://radio.bringthenoi.se/listen/dj_nocide/default
+#EXTINF:-1,C9 Radio
+https://stream.c9.fr/c9radio-192.mp3
+#EXTINF:-1,Cacao Radio
+https://stream10.vestaradio.com/Cacao-Radio
+#EXTINF:-1,chitsradio
+https://stream10.vestaradio.com/chitsradio
+#EXTINF:-1,CINEMUSIC Radio
+https://listen.radioking.com/radio/422/stream/62785
+#EXTINF:-1,EFR12 Radio
+https://listen.radioking.com/radio/151768/stream/192217
+#EXTINF:-1,Europe 1 Musique
+https://wr.lmn.fm/e1-wr5.aac?aw_0_1st.playerid=lgrdnwsRadioplayer
+#EXTINF:-1,Europe 2 Mix / Rock, Electro, Pop
+https://europe2.lmn.fm/vr-wr6.mp3?aw_0_1st.playerid=lagardereappVirgin
+#EXTINF:-1,Europe 2 Nouvelle Sc�ne
+https://europe2.lmn.fm/vr-wr8.mp3?aw_0_1st.playerid=lagardereappVirgin
+#EXTINF:-1,F. HITS AQUITAINE
+https://listen.f-group.fr/listen/fhitsaquitaine/fhits_aquitaine_96.aac
+#EXTINF:-1,Fip Pop
+https://icecast.radiofrance.fr/fippop-hifi.aac?id=radiofrance
+#EXTINF:-1,FIP Pop
+https://icecast.radiofrance.fr/fippop-hifi.aac
+#EXTINF:-1,Fr�quence 3 Dance
+https://frequence3.net-radio.fr/frequence3dance.mp3
+#EXTINF:-1,Frequence Luz
+https://stream-ssl.radios-arra.fr:8443/frequenceluz
+#EXTINF:-1,FunVibe
+https://radio.funvibe.fr/listen/funvibe/radio.mp3
+#EXTINF:-1,Girl Power
+https://scoopgirls.ice.infomaniak.ch/radioscoop-girls-64.aac
+#EXTINF:-1,Hag' FM
+https://hagfm.streamakaci.com/hagfm.mp3
+#EXTINF:-1,Hit53
+https://azura.hit53.fr/hit128.mp3
+#EXTINF:-1,Hits 1
+https://radio7.pro-fhi.net/radio/9006/hits1hd
+#EXTINF:-1,Hits 1
+https://radio12.pro-fhi.net/live/Hits%201%20radio
+#EXTINF:-1,Hits 1 latina
+https://hits1latina-audiomediaradio.radioca.st/latina
+#EXTINF:-1,Hotmix Gaming
+https://streaming.hotmixradio.com/hotmix-gaming-en-mp3
+#EXTINF:-1,Hotmix Hip Hop INT
+https://streaming.hotmixradio.com/hotmix-hiphop-en-mp3
+#EXTINF:-1,Hotmix HipHop
+https://streaming.hotmixradio.com/hotmix-hiphop-fr-mp3
+#EXTINF:-1,Hotmix New
+https://streaming.hotmixradio.com/hotmix-new-fr-mp3
+#EXTINF:-1,Hotmix New INT
+https://streaming.hotmixradio.com/hotmix-new-en-mp3
+#EXTINF:-1,Hotmix Party FR
+https://streaming.hotmixradio.com/hotmix-party-fr-mp3
+#EXTINF:-1,ICI Occitanie
+https://icecast.radiofrance.fr/fbtoulouse-midfi.mp3
+#EXTINF:-1,KISS Pop Rock
+https://radiola.me/listen/kiss_pop_rock/radio.mp3
+#EXTINF:-1,La Radio Des Artistes Oubli�s
+https://stream-179.zeno.fm/hg9eg9q5quzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJoZzllZzlxNXF1enV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNk1IbmR3V29Td0dRVzhGUUkwME1iQSIsImlhdCI6MTc2ODQ1ODU0MywiZXhwIjoxNzY4NDU4NjAzfQ.SZ9a15333MeMXeGDqwTCEKtPvQpV57TgK4Wl3j6PyH4
+#EXTINF:-1,Le Bon Mix HiFi Flac 1411 Kbps
+https://stream10.xdevel.com/audio17s976748-2218/stream/icecast.audio
+#EXTINF:-1,M2S Radio
+https://icecast.m2sradio.fr/radio.aac
+#EXTINF:-1,Max Radio Grenoble
+https://maxfm.ice.infomaniak.ch/maxfm-945.mp3
+#EXTINF:-1,Maxi France radio
+https://stream.maxifrance.radio/stream
+#EXTINF:-1,Maxstation
+https://rocket.streamradio.fr/stream/maxstation
+#EXTINF:-1,N�ric Collection
+https://radio.neric-collection.fr/listen/neric_collection/radio.mp3
+#EXTINF:-1,Nostalgie Europop
+https://streaming.nrjaudio.fm/oudnot2h9r57
+#EXTINF:-1,NRJ La French Pop
+https://streaming.nrjaudio.fm/ouv6kjoarp52
+#EXTINF:-1,NRJ Pop 2026
+https://streaming.nrjaudio.fm/ouagthw2dqao
+#EXTINF:-1,OceaneFM
+https://stream.rcs.revma.com/4q26yzaf0v3vv
+#EXTINF:-1,Pistache La Radio
+https://rpstrm.pistache.org:9443/pistache.mp3
+#EXTINF:-1,Platine 45 Radio
+https://ecmanager.pro-fhi.net:1710/;
+#EXTINF:-1,Play Radio Drag
+https://listen.radioking.com/radio/923691/stream/994696
+#EXTINF:-1,Proxi Radio
+https://hosting.studioradiomedia.fr:2390/stream
+#EXTINF:-1,Radio AC'S
+https://listen.radioking.com/radio/33824/stream/199675
+#EXTINF:-1,Radio Boom Boom
+https://listen.radioboomboom.com/listen/rbb/radio.mp3
+#EXTINF:-1,radio braquage
+https://radio.braquage.fun/listen/radio_braquage/stream
+#EXTINF:-1,Radio Campus Clermont-Ferrand
+https://live.radio-campus.org:8002/clermont-ferrand
+#EXTINF:-1,Radio Fresh
+https://radio4.pro-fhi.net/live/RadioFRESH?t=1788083035038
+#EXTINF:-1,Radio La Belle Aventure
+https://flux.radiolabelleaventure.com/listen/radio_la_belle_aventure/radio.mp3
+#EXTINF:-1,Radio M�ga
+https://stream.ferarock.org:8020/radio-mega
+#EXTINF:-1,Radio Naoned
+https://stream.radios.bzh/listen/naoned/radio.mp3
+#EXTINF:-1,Radio Titine
+https://listen.radioking.com/radio/435545/stream/489533
+#EXTINF:-1,Radio Top Side
+https://listen.radioking.com/radio/33560/stream/275656
+#EXTINF:-1,Radio Zig Zag - Pays de Romans
+https://zig.syndicastream.fr:8443/stream
+#EXTINF:-1,Redzing Radio
+https://onair.redzingradio.com/redzing-256
+#EXTINF:-1,RFM POP-ROCK
+https://stream.rfm.fr/rfm-wr10.aac
+#EXTINF:-1,RVA radio
+https://rva.ice.infomaniak.ch/rva-high.mp3
+#EXTINF:-1,TBM06.FR
+https://listen.radioking.com/radio/806511/stream/875226
+#EXTINF:-1,TST Radio
+https://listen.radioking.com/radio/113992/stream/153202
+#EXTINF:-1,VRJ
+https://stream10.vestaradio.com/VRJ
+#EXTINF:-1,Zic Radio
+https://listen.radioking.com/radio/643213/stream/706300
+#EXTINF:-1,არდაიდარდო
+https://tv.cdn.xsg.ge/cld9-0386/ardaidardo/tracks-a1/mono.m3u8
+#EXTINF:-1,რადიო ჩვენებური
+https://radio.cdn.xsg.ge/cld9-1050/chveneburi/index.m3u8
+#EXTINF:-1,Sompa 101.1FM Tarkwa
+https://stream.zeno.fm/ey5mddtbdfeuv
+#EXTINF:-1,Sompa 106.5FM Accra
+https://stream-281.zeno.fm/55sg1lh4pqquv
+#EXTINF:-1,Sompa 93.1FM Kumasi
+https://stream.zeno.fm/erjhljewkybuv
+#EXTINF:-1,00s Alive
+https://stream.00sa.live/00s-alive.aac
+#EXTINF:-1,011.FM - Cruise Control - Road Trip Radio
+https://listen.011fm.com/stream30
+#EXTINF:-1,1000 HITS RADIO
+https://stream.1000hit.ru:8000/stream128
+#EXTINF:-1,101.ru Madonna
+https://srv01.gpmradio.ru/stream/pro/aac/64/128
+#EXTINF:-1,102.3 The Long Drive - Yakima, WA 
+https://orbit.citrus3.com:8256/stream
+#EXTINF:-1,102 WVAQ
+https://prod-100-53-217-72.amperwave.net/wvradio-wvaqfmaac-hlsc2.m3u8
+#EXTINF:-1,103.5 KISSFM Boise
+https://live.amperwave.net/direct/townsquare-ksasfmaac-ibc3
+#EXTINF:-1,2020 the beacon
+https://listen.2020thebeacon.com:8000/radio.mp3
+#EXTINF:-1,24/7 MJ Radio
+https://stream.zeno.fm/us5et3sns0hvv
+#EXTINF:-1,32 Radio
+https://online.guberniya.tv:8443/32radio
+#EXTINF:-1,40UP Radio
+https://stream.40upradio.nl/40up
+#EXTINF:-1,80s Live
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAM03AAC226_SC?__80sradio__
+#EXTINF:-1,80s Rhythm
+https://stream.mybroadbandradio.com/80srhythmhq/
+#EXTINF:-1,80s Zoom
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAM03AAC226_SC.mp3
+#EXTINF:-1,90 Hits
+https://stream.pcradio.ru/shitsradiopcradio90-hi
+#EXTINF:-1,90RU
+https://stream.pcradio.ru/ru90pcradio-hi
+#EXTINF:-1,90s 2000s & More
+https://lunar.citrus3.com:8162/stream
+#EXTINF:-1,90s 3NeRgY
+https://s11.ssl-stream.com/ssl/90s_energy?mp=/stream
+#EXTINF:-1,93.1 KATO
+https://ice24.securenetsystems.net/KATO
+#EXTINF:-1,95.7 The Party
+https://stream.revma.ihrhls.com/zc2795/hls.m3u8
+#EXTINF:-1,96.1 KISS FM
+https://stream.revma.ihrhls.com/zc2021
+#EXTINF:-1,99.3 KDRM
+https://us9.maindigitalstream.com/ssl/KDRM
+#EXTINF:-1,99.5 Campus FM
+https://streaming.live365.com/a06369
+#EXTINF:-1,Absolute Radio 10s
+https://stream-ar.hellorayo.co.uk/absolute10s.aac?direct=true&aw_0_1st.skey=1602676850&aw_0_awz.listenerid=~LSID~&aw_0_1st.platform=~PLATFORM~&aw_0_1st.playerid=~PLAYER_ID~&aw_0_awz.appVers=~APPVERSION~&aw_0_1st.bauer_preroll=~REQUEST_PREROLL~&aw_0_1st.in_car=~IN_CAR~&lat=~LAT~&lon=~LONG~&aw_0_req.userConsentV2=~TCSTRING~&=&&___cb=850509090209086
+#EXTINF:-1,Africa Radio Abidjan
+https://africaradio.ice.infomaniak.ch/abidjan128.mp3
+#EXTINF:-1,Alex Pepper Live
+https://halo.streamerr.co/listen/alexpepperlive/105.aac
+#EXTINF:-1,Altitude FM
+https://centova.radio.com.pt/proxy/034?mp=/stream
+#EXTINF:-1,America's Greatest 80s Hits
+https://ais-sa2.cdnstream1.com/2281_128.mp3
+#EXTINF:-1,안동MBC FM4U
+https://live.andongmbc.co.kr/live/fmlive/playlist.m3u8
+#EXTINF:-1,Antith�se
+https://listen.radioking.com/radio/11549/stream/22940
+#EXTINF:-1,Arcadia Tripole
+https://n08.radiojar.com/g34k4f92n74tv?rj-ttl=5&rj-tok=AAABfdpjLQsAz0OVQnc0bc1Rng
+#EXTINF:-1,Archive Radio
+https://stream2.hippynet.co.uk/stream/8228
+#EXTINF:-1,Atlantic 252
+https://stream4.themediasite.co.uk:8042/
+#EXTINF:-1,Banbury FM
+https://stream.agprohosting.com/banburyfm
+#EXTINF:-1,BB Radio Deutsche Hits
+https://irmedia.streamabc.net/irm-bbrdeutsch-mp3-192-4502242?sABC=61p12nr8%230%23480403531qsn3q883o6q243r435924np%23jro&amsparams=playerid:web;skey:1640049384
+#EXTINF:-1,BBC RADIO 1 ANTHEMS: All-day anthems from the 00s to now
+https://as-hls-ww.live.cf.md.bbci.co.uk/pool_11351741/live/ww/bbc_radio_one_anthems/bbc_radio_one_anthems.isml/bbc_radio_one_anthems-audio%3d96000.norewind.m3u8
+#EXTINF:-1,BE 99.7
+https://stream1.rcast.net/61186
+#EXTINF:-1,Best of Rock.FM Party Rock
+https://radio21.streamabc.net/radio21-partyrock-mp3-256-7707367?sABC=61p13p9q%230%23r4880qrn6s01nn6n263q843o4n00pqq9%23orfgbsebpx.sz&amsparams=playerid:bestofrock.fm;skey:1640053917
+#EXTINF:-1,Best of Rock.FM Zur�ck in die 80er
+https://radio21.streamabc.net/radio21-80errock-mp3-256-6624232?sABC=61p2233r%230%23r4880qrn6s01nn6n263q843o4n00pqq9%23orfgbsebpx.sz&amsparams=playerid:bestofrock.fm;skey:1640112958
+#EXTINF:-1,BFBS Ops
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs9.aac
+#EXTINF:-1,Big B Radio - Asian pop
+https://antares.dribbcast.com/proxy/apop?mp=/s?
+#EXTINF:-1,Big B Radio - Kpop
+https://antares.dribbcast.com/proxy/kpop?mp=/s
+#EXTINF:-1,Big Beat Brighton
+https://s4.citrus3.com:8366/stream
+#EXTINF:-1,Big R Radio - 80s and 90s Pop Mix - Mill Creek, WA
+https://bigrradio.cdnstream1.com/5183_128
+#EXTINF:-1,Blue Radio Web
+https://stream.zeno.fm/m8s8m3oflj8uv
+#EXTINF:-1,Boomerang 2010s
+https://nl4.mystreaming.net/uber/boomerang2010s/icecast.audio
+#EXTINF:-1,Boomerang 2020s
+https://drive.uber.radio/uber/boomerang2020s/icecast.audio
+#EXTINF:-1,Bremen Vier Rockt
+https://d141.rndfnk.com/ard/rb/webchannel8/mp3/128/stream.mp3?sid=22ax0kCVY8Wise0tYMYmP1UmnJy&token=W9rOBaZG9c3o8c2ORlzoEZVyLtKlSqqryHhnEb8r3J0&tvf=asv5NCfYwhZkMTQxLnJuZGZuay5jb20
+#EXTINF:-1,Bridge FM (Wales)
+https://listen-nation.sharp-stream.com/tcbridge.mp3
+#EXTINF:-1,Broadland Radio
+https://arqiva-broadlandradio-live-a.edge.audiocdn.com/10002_128mp3
+#EXTINF:-1,BUENA COMPA��A 94.1 FM
+https://stream-178.zeno.fm/ekzk93vtmchvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJla3prOTN2dG1jaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiYW5HMUdfbmJRbGVvcmpYOGE0el82USIsImlhdCI6MTc2ODQzNjQxNSwiZXhwIjoxNzY4NDM2NDc1fQ.h7_qBj9aMjexYRKnUzbOeNre5hHaKyn7z6PXv7hWB5k
+#EXTINF:-1,Cadena Dial 91.7
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3
+#EXTINF:-1,Cafe 80's
+https://streams.loudspeaker.org/listen/cafe-80s/channel_8
+#EXTINF:-1,Can't Be Serious Records
+https://stream.zeno.fm/tfzhyatgswzuv
+#EXTINF:-1,Canal 105.1 FM 
+https://stream.zeno.fm/b94afcu8na0uv
+#EXTINF:-1,Candela 92.7 XHUM
+https://stream.zeno.fm/nv2zf1kc4p8uv.aac?rj-ttl=5&rj-tok=AAABfdrfvLMALWLpHxpipbG5iw
+#EXTINF:-1,Cangzhou Mengcunrong Media Center 103.5
+https://live.xmcdn.com/live/2050/64.m3u8
+#EXTINF:-1,Capital Anthems
+https://media-ice.musicradio.com/CapitalAnthemsMP3
+#EXTINF:-1,CDE Affiliated Radio
+https://s2.netradiostation.com/proxy/cderadio?mp=/
+#EXTINF:-1,Central Radio
+https://n33a-eu.rcs.revma.com/aehah7wnpp3vv
+#EXTINF:-1,Chiakos 102.4
+https://cast2.radiohost.ovh/xiakos?mp=/stream
+#EXTINF:-1,Classic Hits 109
+https://broadcast.classichits109.com/70s-90s
+#EXTINF:-1,Classics Radio
+https://icy.cloudrad.io/03412573
+#EXTINF:-1,Clyde Coast Radio
+https://s5.radio.co/scaab7719a/listen
+#EXTINF:-1,CruiseOne Radio
+https://solid24.streamupsolutions.com/proxy/cmxicxxx?mp=/256kbps
+#EXTINF:-1,CUYUNI FM 106.5
+https://stream.zeno.fm/xag8wa3c4v8uv
+#EXTINF:-1,Dance Radio UK
+https://dancestream.danceradiouk.com/
+#EXTINF:-1,Ddr Eins
+https://ddreins.stream.laut.fm/ddr_eins?t302=2021-12-21_05-57-12&uuid=aa3e9beb-a717-46f7-be08-028665aebd91
+#EXTINF:-1,Dean Radio
+https://radio.forestmedia.co.uk/deanradio
+#EXTINF:-1,Densomaniak Radio
+https://stream.iradio.pro/proxy/densomaniak?mp=/stream
+#EXTINF:-1,Derby ONE
+https://stream.aiir.com/qbgoiwyhsyquv?_=475595
+#EXTINF:-1,Deventer Radio
+https://stream.deventerrtv.nl:8443/mp3
+#EXTINF:-1,DFM - Party
+https://dfm-party.hostingradio.ru/dfmparty96.aacp
+#EXTINF:-1,DFM - Pop Dance
+https://dfm-popdance.hostingradio.ru/popdance96.aacp
+#EXTINF:-1,DFM POP GOLD 1990s
+https://dfm-popgold90.hostingradio.ru/popgold9096.aacp
+#EXTINF:-1,DFM POP GOLD 2000s
+https://dfm-popgold00.hostingradio.ru/popgold0096.aacp
+#EXTINF:-1,DFM POP GOLD 2010s
+https://dfm-popgold10.hostingradio.ru/popgold1096.aacp
+#EXTINF:-1,DFM POP GOLD 2020s
+https://dfm-popgold20.hostingradio.ru/popgold2096.aacp
+#EXTINF:-1,DFM Сыктывкар 103.2 FM
+https://cast.severmedia.ru:5443/DIFM_11_01
+#EXTINF:-1,Dinamik 89.9 FM
+https://stream.zeno.fm/wmnqq0m2uk8uv
+#EXTINF:-1,DOC Radio: Contemporary Christian Music
+https://streaming.live365.com/a08828
+#EXTINF:-1,Дорожное радио Анадырь 100.0 FM
+https://stream.stvradio.ru/radio/8000/DR_ANA
+#EXTINF:-1,Дорожное радио Симферополь 91.5 FM
+https://radio.promedia.ru/dorozh-simf
+#EXTINF:-1,DWDM Eagle FM 95.5
+https://stream.radiojar.com/yus0r2bghd3vv
+#EXTINF:-1,Dzhon Radio
+https://stream.drugradio.ru:8000/stream128
+#EXTINF:-1,EarGlow Radio
+https://cast1.asurahosting.com/proxy/earglowr/stream
+#EXTINF:-1,East Africa Radio FM
+https://eatv.radioca.st/stream
+#EXTINF:-1,Eastside 89.7
+https://eastsidefm.stream.laut.fm/eastside_fm?t302=2021-12-21_18-22-37&uuid=2d46409a-0df0-443a-9172-4706b9a640be
+#EXTINF:-1,Easy 97.2
+https://n13.radiojar.com/cthtwxk5yvduv.mp3?rj-ttl=5&rj-tok=AAABfd2AnFkA8r6u5FqFuw7Y1w
+#EXTINF:-1,Eden Underground Radio
+https://stream.casthost.net/listen/eden_underground_radio/radio.mp3
+#EXTINF:-1,Electric 102.7
+https://live.amperwave.net/direct/bristolbroad-wvsrfmaac-ibc2
+#EXTINF:-1,ESKA 2 Biala-Podlaska
+https://radio.stream.smcdn.pl/timeradio-p/1390-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA 2 Jelenia Gora
+https://radio.stream.smcdn.pl/timeradio-p/1480-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA 2 Kielce
+https://radio.stream.smcdn.pl/timeradio-p/1050-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA 2 Nowy Sacz
+https://radio.stream.smcdn.pl/timeradio-p/1290-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA 2 Opole
+https://radio.stream.smcdn.pl/timeradio-p/1120-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA 2 Rzeszow
+https://radio.stream.smcdn.pl/timeradio-p/1240-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA 2 Stalowa Wola
+https://radio.stream.smcdn.pl/timeradio-p/1370-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA 2 Szczecin
+https://radio.stream.smcdn.pl/timeradio-p/1260-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA 2 Torun
+https://radio.stream.smcdn.pl/timeradio-p/1150-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA 2 Trojmiasto
+https://radio.stream.smcdn.pl/timeradio-p/1170-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA 2 Trzebnica
+https://radio.stream.smcdn.pl/timeradio-p/1510-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Belchatow
+https://radio.stream.smcdn.pl/timeradio-p/2010-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Beskidy
+https://radio.stream.smcdn.pl/timeradio-p/2300-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Braniewo
+https://radio.stream.smcdn.pl/timeradio-p/2520-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Bydgoszcz
+https://radio.stream.smcdn.pl/timeradio-p/2030-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Elblag
+https://radio.stream.smcdn.pl/timeradio-p/2430-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Gorzow
+https://radio.stream.smcdn.pl/timeradio-p/2040-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Grudziadz
+https://radio.stream.smcdn.pl/timeradio-p/2450-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Kielce
+https://radio.stream.smcdn.pl/timeradio-p/2050-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Krakow
+https://radio.stream.smcdn.pl/timeradio-p/2070-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Krasnik
+https://radio.stream.smcdn.pl/timeradio-p/2360-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Leszno
+https://radio.stream.smcdn.pl/timeradio-p/2080-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Lomza
+https://radio.stream.smcdn.pl/timeradio-p/2460-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Olsztyn
+https://radio.stream.smcdn.pl/timeradio-p/2110-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Ostzeszow
+https://radio.stream.smcdn.pl/timeradio-p/2500-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Pila
+https://radio.stream.smcdn.pl/timeradio-p/2090-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Plock
+https://radio.stream.smcdn.pl/timeradio-p/2250-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Poludine
+https://radio.stream.smcdn.pl/timeradio-p/2570-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Przemysl
+https://radio.stream.smcdn.pl/timeradio-p/2320-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Radom
+https://radio.stream.smcdn.pl/timeradio-p/2210-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Siedlce
+https://radio.stream.smcdn.pl/timeradio-p/2060-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Starachowice
+https://radio.stream.smcdn.pl/timeradio-p/2400-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Szczecin
+https://radio.stream.smcdn.pl/timeradio-p/2260-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Szczecinek
+https://radio.stream.smcdn.pl/timeradio-p/2310-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Tarnow
+https://radio.stream.smcdn.pl/timeradio-p/2160-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Torun
+https://radio.stream.smcdn.pl/timeradio-p/2150-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Trojmiasto
+https://radio.stream.smcdn.pl/timeradio-p/2170-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Warszawa
+https://radio.stream.smcdn.pl/timeradio-p/2380-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Zary
+https://radio.stream.smcdn.pl/timeradio-p/2420-1.aac/playlist.m3u8
+#EXTINF:-1,ESKA Zielona Gora
+https://radio.stream.smcdn.pl/timeradio-p/2190-1.aac/playlist.m3u8
+#EXTINF:-1,Еuropa Plus Ufa
+https://hls-01-regions.emgsound.ru/11_ufa/96/playlist.m3u8
+#EXTINF:-1,Европа Плюс Симферополь 89.7 FM
+https://radio.promedia.ru/europa-simf
+#EXTINF:-1,Exa 90.5 XHVW
+https://radios.radiohd.com.mx:7140/
+#EXTINF:-1,Exclusively Adele
+https://streaming.exclusive.radio/er/adele/icecast.audio
+#EXTINF:-1,Exclusively Beyonce
+https://streaming.exclusive.radio/er/beyonce/icecast.audio
+#EXTINF:-1,Exclusively Britney Spears
+https://streaming.exclusive.radio/er/britney/icecast.audio
+#EXTINF:-1,Exclusively  Celine Dion Hits
+https://nl4.mystreaming.net/er/celinedionhits/icecast.audio
+#EXTINF:-1,Exclusively Christina Aguilera
+https://streaming.exclusive.radio/er/christinaaguilera/icecast.audio
+#EXTINF:-1,Exclusively Demi Lovato
+https://streaming.exclusive.radio/er/demilovato/icecast.audio
+#EXTINF:-1,Exclusively Dionne Warwick
+https://2.mystreaming.net/er/dionnewarwick/icecast.audio
+#EXTINF:-1,Exclusively Donna Summer
+https://nl4.mystreaming.net/er/donnasummer/icecast.audio
+#EXTINF:-1,Exclusively Earth, Wind & Fire
+https://nl4.mystreaming.net/er/earthwindandfire/icecast.audio
+#EXTINF:-1,Exclusively  Elton John 
+https://2.mystreaming.net/er/eltonjohn/icecast.audio
+#EXTINF:-1,Exclusively  Elvis Presley
+https://nl4.mystreaming.net/er/elvispresley/icecast.audio
+#EXTINF:-1,Exclusively Enrique Iglesias
+https://nl4.mystreaming.net/er/enriqueiglesias/icecast.audio
+#EXTINF:-1,Exclusively George Michael
+https://streaming.exclusive.radio/er/georgemichael/icecast.audio
+#EXTINF:-1,Exclusively Herbie Hancock
+https://2.mystreaming.net/er/herbiehancock/icecast.audio
+#EXTINF:-1,Exclusively Janet Jackson
+https://streaming.exclusive.radio/er/janetjackson/icecast.audio
+#EXTINF:-1,Exclusively Kanye West
+https://streaming.exclusive.radio/er/kanyewest/icecast.audio
+#EXTINF:-1,Exclusively Kylie Minogue
+https://streaming.exclusive.radio/er-app/kylie/icecast.audio
+#EXTINF:-1,Exclusively Lana Del Rey
+https://nl4.mystreaming.net/er/lanadelrey/icecast.audio
+#EXTINF:-1,Exclusively Michael Jackson
+https://streaming.exclusive.radio/er/michaeljackson/icecast.audio

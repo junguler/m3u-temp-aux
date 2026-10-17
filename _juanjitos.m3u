@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,Onda CERO ALMERIA 1341 OM
+https://atres-live.ondacero.es/live/delegaciones/oc/almeria/bitrate_1.m3u8
+#EXTINF:-1,Radio 5 RNE Almería
+https://d131.rndfnk.com/star/crtve/rne5/alm/mp3/128/stream.mp3?cid=01GEPXZ8ZTFMN07R4EJZ955R9W&sid=38HaGqdb77NBk307NrDb2yzrSIG&token=ImNRQn16tD2RKxYDYV8EqY8Am8NyX-d-ICiVKc8ynuo&tvf=9JScGpvnihhkMTMxLnJuZGZuay5jb20
+#EXTINF:-1,RNE Radio Nacional Almería
+https://dispatcher.rndfnk.com/crtve/rne1/alm/mp3/high

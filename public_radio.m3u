@@ -45,3 +45,21 @@ https://rozhlas.stream/hradec_kralove.mp3
 https://live.radio8.de/radio8.mp3
 #EXTINF:-1,Radio Tonkuhle
 https://stream.tonkuhle.de/tonkuhle.mp3
+#EXTINF:-1,Ethio FM 107.8
+https://stream.zeno.fm/72y045deqeruv
+#EXTINF:-1,FM ADDIS 97-1
+https://stream.zeno.fm/rb6wbrap7yzuv
+#EXTINF:-1,Fip : Metal
+https://icecast.radiofrance.fr/fipmetal-hifi.aac
+#EXTINF:-1,France Bleu Alsace
+https://icecast.radiofrance.fr/fbalsace-midfi.mp3
+#EXTINF:-1,88.5 KQED
+https://streams.kqed.org/kqedradio?onsite=true
+#EXTINF:-1,88.5 WRAS FM GPB 
+https://gpb.streamguys1.com/gpb-atlanta-aac-website
+#EXTINF:-1,89.3 WRKF
+https://playerservices.streamtheworld.com/api/livestream-redirect/WRKFFM.mp3
+#EXTINF:-1,90.9 The Bridge
+https://live.amperwave.net/manifest/publictv19-ktbgfmaac-hlsc1.m3u8
+#EXTINF:-1,91.5 WBEZ-FM
+https://stream.wbez.org/wbez64-web.aac

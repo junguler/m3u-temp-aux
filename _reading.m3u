@@ -5,3 +5,5 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/3RPHAAC.aac
 https://fluxmusic.api.radiosphere.io/channels/traumerei/stream.mp3?quality=10
 #EXTINF:-1,FluxFM traumerei | 64k AAC
 https://fluxmusic.api.radiosphere.io/channels/traumerei/stream.aac?quality=1
+#EXTINF:-1,Hotmix Focus
+https://streaming.hotmixradio.com/hotmix-focus-en-mp3?provider=radiobrowser

@@ -3,3 +3,11 @@
 https://play.global.audio/radio1-koledahi.aac
 #EXTINF:-1,Radio PSR Dresden | AAC 64 kbps
 https://streams.radiopsr.de/psr-live-sn-ddn/aac-64
+#EXTINF:-1,Europe 1
+https://stream.europe1.fr/europe1.aac
+#EXTINF:-1,FIP Pop
+https://icecast.radiofrance.fr/fippop-hifi.aac
+#EXTINF:-1,France Inter
+https://icecast.radiofrance.fr/franceinter-hifi.aac
+#EXTINF:-1,Sud Radio
+https://ice.creacast.com/sudradio_aac

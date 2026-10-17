@@ -1,3 +1,9 @@
 #EXTM3U
 #EXTINF:-1,radiorara
 https://sonicpanel.chileservidores.cl/8004/stream
+#EXTINF:-1,CAMP Radio
+https://listen.camp/campradio.ogg
+#EXTINF:-1,*Duuu
+https://duuu.out.airtime.pro/duuu_a
+#EXTINF:-1,Radio Univers
+https://stream4.vestaradio.com/RadioUnivers

@@ -131,3 +131,67 @@ https://cast1.asurahosting.com/proxy/historyr/stream.mp3
 https://radiochaine3.ice.infomaniak.ch/chaine3.mp3
 #EXTINF:-1,Cadena SER Granada
 https://20043.live.streamtheworld.com/SER_ASO_GRANADAAAC.aac
+#EXTINF:-1,Eixample Barcelona Radio
+https://directe.eixamplebarcelonaradio.com:8443/radioOnline
+#EXTINF:-1,esRadio Granada
+https://azura.abcorp.es/listen/esradio_granada/radio.mp3
+#EXTINF:-1,Fred Film Radio(Espa�ol)
+https://s10.webradio-hosting.com/proxy/fredradiosp/stream
+#EXTINF:-1,Onda Cero (Eventos 1)
+https://atres-live.ondacero.es/live/ondaceroeventos1/bitrate_1.m3u8
+#EXTINF:-1,Onda Cero Huelva
+https://atres-live.ondacero.es/live/delegaciones/oc/huelva/master.m3u8
+#EXTINF:-1,Onda Cero Huelva
+https://atres-live.ondacero.es/live/delegaciones/oc/pontevedra/master.m3u8
+#EXTINF:-1,Onda Cero Las Palmas
+https://atres-live.ondacero.es/live/delegaciones/oc/laspalmas/
+#EXTINF:-1,Ondacero Cartagena
+https://atres-live.ondacero.es/live/delegaciones/oc/cartagena/bitrate_1.m3u8
+#EXTINF:-1,RAC1
+https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3
+#EXTINF:-1,Radio Albolote
+https://streaming2.elitecomunicacion.es:8144/stream
+#EXTINF:-1,RNE Andaluc�a
+https://f141.rndfnk.com/star/crtve/rne5/gra/mp3/128/stream.mp3?cid=01GEPXW032X3Y2SXM6M4X4F1X4&sid=2ar1MBXpFkcnL6WuaxAXO1hEITa&token=L_nTm1RjUems0IjZMMQ_ZzFu3XQ_1_faFzfSM3OR5t8&tvf=06JeYFmsqRdmMTQxLnJuZGZuay5jb20
+#EXTINF:-1,RNE Murcia
+https://d121.rndfnk.com/star/crtve/rne1/mur/mp3/128/stream.mp3?cid=01GEP3ZKY6YSV20P6RMNTKNDD6&sid=2ar2W2AJRHCleglLtfnn6nLklsU&token=25qdZ9PRjFVlFZkLiFrLLCHGs5cDbRXkhlVCjXwNN8Q&tvf=kGi_U96sqRdkMTIxLnJuZGZuay5jb20
+#EXTINF:-1,RNE Radio 5 Cartagena
+https://d121.rndfnk.com/star/crtve/rne5/crt/mp3/128/stream.mp3?cid=01GEPY85J4FZ50K0956C6QZ4TT&sid=2ar1h9FifG7sqNVZxCzJSo1f7fk&token=TVD8UCJOI3n7sREjfbHHyvVozfE9KGpEyZVnRwsqUsU&tvf=k-AvSYCsqRdkMTIxLnJuZGZuay5jb20
+#EXTINF:-1,RNE Radio 5 Las Palmas
+https://d121.rndfnk.com/star/crtve/rne5/lpa/mp3/128/stream.mp3?cid=01GEP4X9Y3EYSQDV2G2MRTWGGZ&sid=2KXdzbu8f6MPAaCmdrAfA7scSHY&token=wiTLRflaxoLHseM8UraPggqszRT9NNr2mUoTnKi8TdU&tvf=6Up4UpPDOxdkMTIxLnJuZGZuay5jb20
+#EXTINF:-1,Xorroxin Irratia
+https://control.streaming-pro.com:6002/xorroxinirratia.mp3
+#EXTINF:-1,Yle Radio 1
+https://yleradiolive.akamaized.net/hls/live/2027672/in-YleRadio1/master.m3u8
+#EXTINF:-1,Yle S�mi Radio
+https://yleradiolive.akamaized.net/hls/live/2027680/in-YleSami/master.m3u8
+#EXTINF:-1,Yle X3M
+https://yleradiolive.akamaized.net/hls/live/2027678/in-YleX3M/master.m3u8
+#EXTINF:-1,France Culture
+https://stream.radiofrance.fr/franceculture/franceculture.m3u8?id=radiofrance
+#EXTINF:-1,France Culture
+https://stream.radiofrance.fr/franceculture/franceculture_hifi.m3u8
+#EXTINF:-1,France Culture (sans pub)
+https://stream.radiofrance.fr/franceculture/franceculture.m3u8?id=radiofranceBose
+#EXTINF:-1,R D’Autan Gaillac
+https://direct.rdautan.fr/streamgaillac.mp3
+#EXTINF:-1,Radio Campus Clermont-Ferrand
+https://live.radio-campus.org:8002/clermont-ferrand
+#EXTINF:-1,Radio Fuori Campo
+https://listen.radioking.com/radio/397948/stream/449947
+#EXTINF:-1,RAJE
+https://rajenimes.ice.infomaniak.ch/rajenimes-128.mp3
+#EXTINF:-1,Ai Radio TAIWAN 台灣AI電台
+https://n10.rcs.revma.com/h4ta80hbqwuvv
+#EXTINF:-1,Bei'an Radio
+https://live.xmcdn.com/live/2767/64.m3u8
+#EXTINF:-1,曾文溪廣播電台
+https://n09.rcs.revma.com/9ssfduqkr0hvv
+#EXTINF:-1,Classic Arts Showcase
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+#EXTINF:-1,DLF
+https://f131.rndfnk.com/ard/dlf/01/opus/64/stream.opus?aggregator=web&sid=22ZAaN1Sl2sw6jqTqnkk9lpQrxc&token=XJnjASp3JEAPtAmckL_Qw7dXAXtvSUmrlX3RJYAnObM&tvf=2PtxrpqmwhZmMTMxLnJuZGZuay5jb20
+#EXTINF:-1,DLF Kultur
+https://f121.rndfnk.com/ard/dlf/02/mp3/128/stream.mp3?sid=22bPDHEjgmLJf5sGA6CA0iRJlBx&token=dYSC4CslKTKSstZfnWO06F5-22aDVmPGhcH-oFm_Dh0&tvf=TAls3M7kwhZmMTIxLnJuZGZuay5jb20
+#EXTINF:-1,DLR-6 Dalian Metropolis Broadcasting 99.1
+https://lhttp.qingting.fm/live/1086/64k.mp3

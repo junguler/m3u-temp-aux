@@ -45,3 +45,25 @@ https://icecast.wdr.de/wdr/wdr4/rheinruhr/mp3/128/stream.mp3
 https://icecast.wdr.de/wdr/wdr4/rheinland/mp3/128/stream.mp3
 #EXTINF:-1,WDR 4 Sï¿½dwestfalen
 https://icecast.wdr.de/wdr/wdr4/suedwestfalen/mp3/128/stream.mp3
+#EXTINF:-1,Dipalme Radio
+https://streaming.indalteco.net/proxy/dipalmerad?mp=/stream
+#EXTINF:-1,Durango Irratia
+https://control.streaming-pro.com:6006/durangoirratia.mp3
+#EXTINF:-1,Onda Avilés Radio
+https://stream-179.surfernetwork.com/ptzhy52dcchvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwdHpoeTUyZGNjaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InlvYWluTHRNU1ZpbjF5bjlJeHBqYlEiLCJpYXQiOjE3OTA0NzI1NDcsImV4cCI6MTc5MDQ3MjYwN30.qStHUrpek1bZNYhSUD3z6yT3MhIBCR-SqimZzvfdPfs
+#EXTINF:-1,Radio Galega
+https://crtvg-radiogalega-hls.flumotion.cloud/playlist.m3u8
+#EXTINF:-1,Radixu Irratia
+https://radixu.info/zuzenean/radixu-live-128
+#EXTINF:-1,Sorgintxu Irratia
+https://stream.zeno.fm/42qzmgdu4tzuv
+#EXTINF:-1,Xorroxin Irratia
+https://control.streaming-pro.com:6002/xorroxinirratia.mp3
+#EXTINF:-1,Kaguraadio
+https://locomanoco.vlevelscdn.net/radio/kaguraadio.stream/playlist.m3u8
+#EXTINF:-1,Tre Raadio Ring FM
+https://cdn.treraadio.ee/ringfm
+#EXTINF:-1,Karjalainen Syke
+https://radio.diks.fi/karjalainensyke
+#EXTINF:-1,Radio Vaasa
+https://stream.protonbroadcast.com:8443/radiovaasa.mp3

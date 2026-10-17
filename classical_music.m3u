@@ -13,3 +13,13 @@ https://liveradio.swr.de/sw890cl/swr4bw/
 https://live-icy.dr.dk/A/A27L.mp3
 #EXTINF:-1,Catalunya Música
 https://directes-radio-int.3catdirectes.cat/live-content/catalunya-musica-hls/bitrate_1.m3u8
+#EXTINF:-1,DABClassic Radio
+https://studio.dabclassic.com/hls/dabclassic/live.m3u8
+#EXTINF:-1,France Musique
+https://stream.radiofrance.fr/francemusique/francemusique.m3u8
+#EXTINF:-1,France Musique (no pub)
+https://stream.radiofrance.fr/francemusique/francemusique.m3u8?id=radiofrance
+#EXTINF:-1,CLASSICAL RADIO INTERNATIONAL
+https://ec3.yesstreaming.net:3625/stream
+#EXTINF:-1,Classical Radio - Malcolm Sargent
+https://nl4.mystreaming.net/uber/crmalcolmsargent/icecast.audio

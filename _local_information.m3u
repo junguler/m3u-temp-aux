@@ -11,3 +11,7 @@ https://streaming.abc-cdn.net.au/audio/hls/localcanberra.m3u8?source=web
 https://streaming.abc-cdn.net.au/audio/hls/localsydney.m3u8?source=web
 #EXTINF:-1,Lofty Community Media
 https://stream01.sigile.net/lofty-48-aac
+#EXTINF:-1,Irulegiko Irratia
+https://hosting.studioradiomedia.fr:1365/stream
+#EXTINF:-1,Le bouquet Granvillais
+https://www.radioking.com/play/lebouquetgranvillais

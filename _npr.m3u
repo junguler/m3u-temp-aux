@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1,90.5 wes
+https://ais-sa3.cdnstream1.com/2556_128.mp3
+#EXTINF:-1,Alaska Public Media (KSKA)
+https://alaskapublic-live.streamguys1.com/aac-web
+#EXTINF:-1,AZPM NPR 89.1 AAC 128
+https://streaming.azpm.org/kuaz128
+#EXTINF:-1,AZPM NPR 89.1 AAC 256
+https://streaming.azpm.org/kuaz256
+#EXTINF:-1,AZPM NPR 89.1 AAC 64
+https://streaming.azpm.org/kuaz64
+#EXTINF:-1,BSPR Music (Classical, KBSU)
+https://boisestate.streamguys1.com/Music1-aac-128k-icy
+#EXTINF:-1,BSPR Music (Jazz)
+https://boisestate.streamguys1.com/Jazz-aac-256k-icy.aac
+#EXTINF:-1,Colorado Public Radio News
+https://stream1.cprnetwork.org/cpr1_lo
+#EXTINF:-1,CRB Classical 99.5
+https://wgbh-live.streamguys1.com/classical-hi
+#EXTINF:-1,CRB Classical 99.5 AAC 256
+https://wgbh-live.streamguys1.com/wcrb-itunes-256k
+#EXTINF:-1,CRB Classical 99.5 HLS
+https://wgbh-hls.streamguys1.com/wcrb_hls/playlist.m3u8

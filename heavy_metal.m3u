@@ -7,3 +7,11 @@ https://stream.rockantenne.bayern/rockantenne-bayern/stream/mp3
 https://stream.rockantenne.de/modern-metal/stream/mp3
 #EXTINF:-1,RPR1. Heavy Metal
 https://stream.rpr1.de/metal/mp3-128/radiobrowser
+#EXTINF:-1,FIP Metal
+https://stream.radiofrance.fr/fipmetal/fipmetal_hifi.m3u8?id=radiofrance
+#EXTINF:-1,Hotmix meal
+https://streaming.hotmixradio.com/hotmix-metal-en-mp3
+#EXTINF:-1,Radio Heavy Metal
+https://manager7.streamradio.fr:1435/stream
+#EXTINF:-1,Exclusively Iron Maiden
+https://nl4.mystreaming.net/er/ironmaiden/icecast.audio

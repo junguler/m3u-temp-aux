@@ -7,3 +7,7 @@ https://maggie.torontocast.com:8038/musicbox
 https://wdr-cosmo-neuincosmo.icecastssl.wdr.de/wdr/cosmo/neuincosmo/mp3/128/stream.mp3
 #EXTINF:-1,WMR - World Music Radio
 https://stream.probroadcast.dk/wmr
+#EXTINF:-1,Fréquence 3 - World FLAC
+https://frequence3.net-radio.fr/frequence3world.flac
+#EXTINF:-1,IAradio World music
+https://iaradioworldmusic.ice.infomaniak.ch/iaradioworldmusic-128.mp3

@@ -45,3 +45,7 @@ https://stream.ffn.de/ffn-80er/?ref=radio-browser
 https://stream.ffn.de/ffn-gold/mp3-192?ref=radio-browser
 #EXTINF:-1,__SCHLAGER OLDIES__ by rautemusik (rm.fm)
 https://schlager-oldies-high.rautemusik.fm/?ref=radiobrowser
+#EXTINF:-1,80s Drive
+https://samcloud.spacial.com/api/listen?sid=111415&m=sc&rid=293634&t=ssl?&80sradio128mp3stereo44
+#EXTINF:-1,80s Zoom
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAM03AAC226_SC.mp3

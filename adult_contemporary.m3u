@@ -211,3 +211,115 @@ https://wdr-radio.ard-mcdn.de/wdr/radio/wdr2swf/hls/master.m3u8
 https://radiostreamserver.de/wunschradio.mp3
 #EXTINF:-1,Radio Platinum Fm
 https://streamingecuador.com:8160/radioplatinum
+#EXTINF:-1,Radio Calima
+https://escucha.calima.fm/stream
+#EXTINF:-1,Radio La Botica
+https://radiolabotica.emisiononline.es/listen/radiolabotica/radio.mp3
+#EXTINF:-1,Ràdio Litoral
+https://stream.serviciospararadios.es/radio/8310/litoralfm.mp3
+#EXTINF:-1,Ràdio Litoral Oro
+https://stream.serviciospararadios.es/listen/litoral_oro/litoral-oro.mp3
+#EXTINF:-1,scannerFM
+https://eu10.fastcast4u.com/scannerfm
+#EXTINF:-1,Radio Auran Aallot
+https://streaming.radioplay.fi/fi_auranaallot_128.mp3
+#EXTINF:-1,Alouette Nouveau Talents
+https://alouettenouveauxtalents.ice.infomaniak.ch/alouettenouveauxtalents-128.mp3
+#EXTINF:-1,Pistache La Radio
+https://rpstrm.pistache.org:9443/pistache.mp3
+#EXTINF:-1,100.3 The Peak
+https://stream.revma.ihrhls.com/zc1389
+#EXTINF:-1,101.5 KPLA
+https://playerservices.streamtheworld.com/api/livestream-redirect/KPLAFMAAC.aac
+#EXTINF:-1,101.5 The River
+https://ample.revma.ihrhls.com/zc1853/19_1n3b2kyukilj602/playlist.m3u8?zip=&streamid=1853&pname=live_profile&companionAds=false&dist=iheart&terminalId=159&deviceName=web-mobile&aw_0_1st.playerid=iHeartRadioWebPlayer&listenerId=&clientType=web&profileId=6319548085&aw_0_1st.skey=6319548085&host=webapp.US&playedFrom=157&stationid=1853&territory=US
+#EXTINF:-1,101.7 KKIQ
+https://live.amperwave.net/direct/alphacorporate-kkiqfmmp3-ibc4
+#EXTINF:-1,102.9 NOW
+https://stream.revma.ihrhls.com/zc2237
+#EXTINF:-1,1043 MYfm
+https://stream.revma.ihrhls.com/zc173
+#EXTINF:-1,105.9 KGBX
+https://stream.revma.ihrhls.com/zc1261
+#EXTINF:-1,106.1 The Breeze
+https://stream.revma.ihrhls.com/zc2001
+#EXTINF:-1,106 WCOD
+https://stream.revma.ihrhls.com/zc6756
+#EXTINF:-1,107.9 The Mix
+https://playerservices.streamtheworld.com/api/livestream-redirect/WNTRFMAAC.aac
+#EXTINF:-1,2020 the beacon
+https://listen.2020thebeacon.com:8000/radio.mp3
+#EXTINF:-1,540 WRGC The River
+https://ice24.securenetsystems.net/WRGC
+#EXTINF:-1,88.9 Titan Radio - New Wilmington, PA
+https://ice64.securenetsystems.net/WWNW
+#EXTINF:-1,90.7 DZSF SMILE Radio
+https://audio.cloudrad.io/9a77084c/live
+#EXTINF:-1,93.5 The Mix
+https://ice7.securenetsystems.net/THEMIX
+#EXTINF:-1,94.9 HOM - The Best Mix of the '80s, '90's & Today (WHOM-FM)
+https://live.amperwave.net/manifest/townsquare-whomfmaac-hlsc3.m3u8
+#EXTINF:-1,96-1 SRS
+https://stream.revma.ihrhls.com/zc1109
+#EXTINF:-1,96.1 The River
+https://stream.revma.ihrhls.com/zc1001
+#EXTINF:-1,96.1 WEJZ
+https://playerservices.streamtheworld.com/api/livestream-redirect/WEJZFMAAC.aac
+#EXTINF:-1,96.3 WDVD
+https://playerservices.streamtheworld.com/api/livestream-redirect/WDVDFMAAC.aac
+#EXTINF:-1,96.9 Hits FM
+https://ice9.securenetsystems.net/KLTAHD2
+#EXTINF:-1,99.5 The River
+https://stream.revma.ihrhls.com/zc1433
+#EXTINF:-1,Absolute Radio
+https://stream-ar.hellorayo.co.uk/absoluteradio.aac?aw_0_1st.skey=1602676850&direct=true&rp_source=1
+#EXTINF:-1,B106.7
+https://playerservices.streamtheworld.com/api/livestream-redirect/WTCBFMAAC.aac
+#EXTINF:-1,B98.5 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/KURBFMAAC.aac
+#EXTINF:-1,Beach Bar Radio
+https://streaming.radio.co/s23d2a636c/listen
+#EXTINF:-1,Big 98.7
+https://ice3.securenetsystems.net/KLTA
+#EXTINF:-1,Capital Anthems
+https://media-ice.musicradio.com/CapitalAnthemsMP3
+#EXTINF:-1,Coast 93.3
+https://stream.revma.ihrhls.com/zc2053
+#EXTINF:-1,Colourful Radio
+https://listen-colourful.sharp-stream.com/colourfulmid.mp3
+#EXTINF:-1,delilah stories and songs matched perfectly
+https://stream.revma.ihrhls.com/zc4846
+#EXTINF:-1,Easy Radio WEZV 105.9 Myrtle Beach
+https://ice64.securenetsystems.net/WEZV
+#EXTINF:-1,Exclusively Adele
+https://streaming.exclusive.radio/er/adele/icecast.audio
+#EXTINF:-1,Exclusively Allman Brothers
+https://streaming.exclusive.radio/er/allmanbrothers/icecast.audio
+#EXTINF:-1,Exclusively Amy Wibehouse
+https://nl4.mystreaming.net/er/amywinehouse/icecast.audio
+#EXTINF:-1,Exclusively Amy Winehouse
+https://streaming.exclusive.radio/er/amywinehouse/icecast.audio
+#EXTINF:-1,Exclusively Bee Gees
+https://streaming.exclusive.radio/er/beegees/icecast.audio
+#EXTINF:-1,Exclusively Britney Spears
+https://streaming.exclusive.radio/er/britney/icecast.audio
+#EXTINF:-1,Exclusively  Celine Dion Hits
+https://nl4.mystreaming.net/er/celinedionhits/icecast.audio
+#EXTINF:-1,Exclusively Cher
+https://streaming.exclusive.radio/er/cher/icecast.audio
+#EXTINF:-1,Exclusively Christina Aguilera
+https://streaming.exclusive.radio/er/christinaaguilera/icecast.audio
+#EXTINF:-1,Exclusively Enrique Iglesias
+https://nl4.mystreaming.net/er/enriqueiglesias/icecast.audio
+#EXTINF:-1,Exclusively Eric Clapton
+https://nl4.mystreaming.net/er/ericclapton/icecast.audio
+#EXTINF:-1,Exclusively Fleetwood Mac
+https://streaming.exclusive.radio/er/fleetwoodmac/icecast.audio
+#EXTINF:-1,Exclusively George Michael
+https://streaming.exclusive.radio/er/georgemichael/icecast.audio
+#EXTINF:-1,Exclusively Janet Jackson
+https://streaming.exclusive.radio/er/janetjackson/icecast.audio
+#EXTINF:-1,Exclusively Josh Groban
+https://streaming.exclusive.radio/er/joshgroban/icecast.audio
+#EXTINF:-1,Exclusively Lionel Richie
+https://nl4.mystreaming.net/er/lionelrichie/icecast.audio

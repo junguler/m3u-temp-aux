@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1,1 Station Radio
+https://stream5.xdevel.com/audio1s975854-414/stream/icecast.audio
+#EXTINF:-1,ACI Radio
+https://sphera.fluidstream.eu/company.mp3
+#EXTINF:-1,AFN Aviano
+https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_AVN_SC
+#EXTINF:-1,AFN Naples
+https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_NAP_SC
+#EXTINF:-1,AFN Sigonella
+https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_SIG_SC
+#EXTINF:-1,AFN Vicenza
+https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_VIC_SC
+#EXTINF:-1,Apple Radio Dance
+https://s2.radioapple.eu:8000/stream
+#EXTINF:-1,Chill Out Zone
+https://chilloutzone.stream.laut.fm/chilloutzone
+#EXTINF:-1,Dimensione Suono Soft Nord
+https://icstream.rds.radio/dssn
+#EXTINF:-1,Discoradio
+https://icstream.rds.radio/discoradio

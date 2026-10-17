@@ -1,0 +1,127 @@
+#EXTM3U
+#EXTINF:-1,5Sens Radio
+https://radio.5sens.fr/radio/stream.php
+#EXTINF:-1,Aïoli Radio
+https://stream.aioli-radio.org/main.ogg
+#EXTINF:-1,Air Connect Radio
+https://stream2.airconnectradio.com/ac128.mp3
+#EXTINF:-1,Alouette
+https://alouette.ice.infomaniak.ch/alouette-high.mp3
+#EXTINF:-1,Black Corvette
+https://radio2.vip-radios.fm:18084/stream-AAC-BlackCorvette
+#EXTINF:-1,C9 Radio
+https://stream.c9.fr/c9radio-flac.ogg
+#EXTINF:-1,CAMP Radio
+https://listen.camp/campradio.ogg
+#EXTINF:-1,Cave Carli Radio
+https://radio6.pro-fhi.net/live/Cave%20Carli%20Radio
+#EXTINF:-1,Chante France
+https://chantefrance.ice.infomaniak.ch/chantefrance-128.mp3
+#EXTINF:-1,Crooner Radio Frenchy
+https://direct.croonerradio.fr/croonerradio-frenchy-midfi.mp3
+#EXTINF:-1,Crooner Radio Julio Iglesias
+https://croonerradio_julioiglesias.ice.infomaniak.ch/croonerradio-julioiglesias-midfi.mp3
+#EXTINF:-1,Crooner Radio - Movies
+https://croonerradio_movies.ice.infomaniak.ch/croonerradio-movies-midfi.mp3
+#EXTINF:-1,Crooner Radio Premium
+https://direct.croonerradio.fr/croonerradio-inprivate-midfi.mp3
+#EXTINF:-1,Dans Le Club
+https://dansle.club/listen/live/radio.mp3
+#EXTINF:-1,Discover trance
+https://uk01.discovertrance.com/;*.mp3
+#EXTINF:-1,ELECTRO CHOC
+https://manager.conceptradio.fr:1255/stream?x=1778074871622
+#EXTINF:-1,Europe 1
+https://stream.europe1.fr/europe1.aac
+#EXTINF:-1,Fip
+https://icecast.radiofrance.fr/fip-hifi.aac?id=radiofrance%20%20%20format:%20aac,%20bitrate:%20192
+#EXTINF:-1,FIP
+https://stream.radiofrance.fr/fip/fip.m3u8
+#EXTINF:-1,FIP Electro
+https://stream.radiofrance.fr/fipelectro/fipelectro.m3u8
+#EXTINF:-1,FIP Groove
+https://stream.radiofrance.fr/fipgroove/fipgroove.m3u8
+#EXTINF:-1,Fip : Metal
+https://stream.radiofrance.fr/fipmetal/fipmetal_hifi.m3u8
+#EXTINF:-1,FIP Metal
+https://stream.radiofrance.fr/fipmetal/fipmetal_hifi.m3u8?id=radiofrance
+#EXTINF:-1,FIP Rock
+https://stream.radiofrance.fr/fip/fip_hifi.m3u8?id=radiofrance
+#EXTINF:-1,FIP Rock
+https://stream.radiofrance.fr/fiprock/fiprock.m3u8?id=radiofrance
+#EXTINF:-1,FIP Rock
+https://stream.radiofrance.fr/fiprock/fiprock_hifi.m3u8?id=radiofrance
+#EXTINF:-1,FIP Sacré Français !
+https://stream.radiofrance.fr/fipsacrefrancais/fipsacrefrancais.m3u8?id=radiofrance
+#EXTINF:-1,FM 80 FUNKY MUSIC
+https://play.radioking.io/fm80funkymusic
+#EXTINF:-1,France Bleu Provence
+https://icecast.radiofrance.fr/fbprovence-midfi.mp3?ID=radiofrance
+#EXTINF:-1,France Culture
+https://stream.radiofrance.fr/franceculture/franceculture.m3u8?id=radiofrance
+#EXTINF:-1,France Culture
+https://stream.radiofrance.fr/franceculture/franceculture_hifi.m3u8
+#EXTINF:-1,France Culture
+https://stream.radiofrance.fr/franceculture/franceculture_hifi.m3u8?id=radiofrance
+#EXTINF:-1,France Info
+https://stream.radiofrance.fr/franceinfo/franceinfo_hifi.m3u8
+#EXTINF:-1,France Inter
+https://stream.radiofrance.fr/franceinter/franceinter_hifi.m3u8
+#EXTINF:-1,France Inter
+https://icecast.radiofrance.fr/franceinter-hifi.aac
+#EXTINF:-1,France Inter
+https://stream.radiofrance.fr/franceinter/franceinter_hifi.m3u8?id=radiofrance
+#EXTINF:-1,France Musique
+https://stream.radiofrance.fr/francemusique/francemusique.m3u8
+#EXTINF:-1,Fun Radio
+https://icecast.funradio.fr/fun-1-44-128
+#EXTINF:-1,G One Radio
+https://radio.garden/api/ara/content/listen/pahlMAe0/channel.mp3?1726401108732
+#EXTINF:-1,Galaxie Lounge
+https://www.radioking.com/play/galaxielounge
+#EXTINF:-1,GENERATION SOUL DISCO FUNK RADIO
+https://gestream.fr/g-radio-hd.mp3
+#EXTINF:-1,Hits 1
+https://radio7.pro-fhi.net/radio/9006/hits1hd
+#EXTINF:-1,Hits 1
+https://hits1-audiomediaradio.radioca.st/hits1
+#EXTINF:-1,Hotmix 2000
+https://streaming.hotmixradio.fr/hotmix-2000s-en-mp3
+#EXTINF:-1,Hotmix 2010
+https://streaming.hotmixradio.fr/hotmix-2010-en-mp3
+#EXTINF:-1,Hotmix 80
+https://streaming.hotmixradio.com/hotmix-80-en-mp3?provider=radiobrowser
+#EXTINF:-1,Hotmix 90
+https://streaming.hotmixradio.fr/hotmix-90s-en-mp3
+#EXTINF:-1,Hotmix Classic Soul
+https://streaming.hotmixradio.fr/hotmix-classic_soul-en-mp3
+#EXTINF:-1,Hotmix Country
+https://streaming.hotmixradio.fr/hotmix-country_hits-en-mp3
+#EXTINF:-1,Hotmix Dance
+https://streaming.hotmixradio.com/hotmix-dance-en-mp3
+#EXTINF:-1,Hotmix Gold
+https://streaming.hotmixradio.fr/hotmix-gold-fr-mp3
+#EXTINF:-1,Hotmix Indie
+https://streaming.hotmixradio.fr/hotmix-indie-en-mp3
+#EXTINF:-1,i2 Radio
+https://www.radioking.com/play/i2-radio
+#EXTINF:-1,ISEKOI Radio
+https://public.isekoi-radio.com/listen/isekoi/radio.flac
+#EXTINF:-1,ISEKOI Radio | Chill Zone
+https://public.isekoi-radio.com/listen/chill/radio.mp3
+#EXTINF:-1,Jazz
+https://jazz-wr18.ice.infomaniak.ch/jazz-wr18-128.mp3
+#EXTINF:-1,Jazz
+https://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3
+#EXTINF:-1,Jazz Radio
+https://jazzradio.ice.infomaniak.ch/jazzradio-high.aac?i=65443
+#EXTINF:-1,Jazz Radio Electro Swing
+https://jazz-wr04.ice.infomaniak.ch/jazz-wr04-64.aac?i=67090
+#EXTINF:-1,Lyon Demain
+https://listen.radioking.com/radio/93388/stream/131857
+#EXTINF:-1,	radio brume
+https://www.radioking.com/play/brume-campus-lyon/546695
+#EXTINF:-1,Radio Fuze
+https://stream-ssl.radios-arra.fr:8443/fuze
+#EXTINF:-1,RMC FR
+https://audio.bfmtv.com/rmcradio_128.mp3

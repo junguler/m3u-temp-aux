@@ -1,3 +1,9 @@
 #EXTM3U
 #EXTINF:-1,Radio Humleborg
 https://stream2.rcast.net/64145
+#EXTINF:-1,Crooner Radio
+https://direct.croonerradio.fr/croonerradio-midfi.mp3
+#EXTINF:-1,Classic Vinyl HD
+https://icecast.walmradio.com:8443/classic
+#EXTINF:-1,Classic Vinyl HD Opus
+https://icecast.walmradio.com:8443/classic_opus

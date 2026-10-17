@@ -93,3 +93,47 @@ https://rtva-live-radio.flumotion.com/rtva/csr.mp3
 https://rtva-live-radio.flumotion.com/rtva/csrgra.mp3
 #EXTINF:-1,Catalunya Informació (Catinfo)
 https://shoutcast.ccma.cat/ccma/catalunyainformacioHD.mp3
+#EXTINF:-1,Gente Radio
+https://pr1cen101.emisionlocal.com/proxy/genteradio?mp=/live
+#EXTINF:-1,Mozoilo Irratia
+https://a10.asurahosting.com:9060/radio.mp3
+#EXTINF:-1,Onca Cero Alzira
+https://atres-live.ondacero.es/live/delegaciones/oc/alzira/master.m3u8
+#EXTINF:-1,Onda Cero Malaga
+https://atres-live.ondacero.es/live/delegaciones/oc/malaga/master.m3u8
+#EXTINF:-1,Pontevedra Viva
+https://server8.emitironline.com:9402/radio
+#EXTINF:-1,Radio Laredo
+https://radio.radiolaredo.com/8002/strem
+#EXTINF:-1,Radio Laredo
+https://radio.radiolaredo.com/8002/stream
+#EXTINF:-1,Radio Vitoria
+https://multimedia.eitb.eus/live-content/radiovitoria-hls/bitrate_1.m3u8
+#EXTINF:-1,RNE - Radio 5 Huesca
+https://dispatcher.rndfnk.com/crtve/rne5/ter/mp3/high?idasset=6116428
+#EXTINF:-1,RNE - Radio 5 Teruel
+https://f111.rndfnk.com/star/crtve/rne1/ara/mp3/128/ct/stream.mp3?cid=01GENZWHP8NT4XFGV9EAFXK644&sid=38HMKLWsUY28J5FxQUoWC1YCAuZ&token=ul_zhGH_HgAoo2QPe2R-f9Jh5tZOAGHskNac0qVpCME&tvf=ONFUbVnhihhmMTExLnJuZGZuay5jb20
+#EXTINF:-1,RNE Radio 5 Valencia
+https://d131.rndfnk.com/star/crtve/rne5/vlc/aac/128/stream.aac?cid=01GEP70HQKHM3WJB5GHG662KX3&sid=2MHsjXUN7pFK03vBbXrL08rOPRJ&token=Gu5PoCVPt238lI_sOeSzHZPRNJrKj8eeS4mPRqXzSX4&tvf=AvB-hceGRxdkMTMxLnJuZGZuay5jb20
+#EXTINF:-1,RNE - Radio 5 Zaragoza
+https://dispatcher.rndfnk.com/crtve/rne5/zgz/mp3/high?idasset=3894741
+#EXTINF:-1,Ser Soria
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SORIA.mp3
+#EXTINF:-1,Kaguraadio
+https://locomanoco.vlevelscdn.net/radio/kaguraadio.stream/playlist.m3u8
+#EXTINF:-1,Antxeta irratia
+https://streaming.antxetamedia.eus:8443/antxeta1
+#EXTINF:-1,Echo FM
+https://radio5.pro-fhi.net/flux-ghergigw/stream
+#EXTINF:-1,Horizon la radio libre 100.9fm
+https://horizonlaradiolibre.ice.infomaniak.ch/horizonlaradiolibre-128.mp3
+#EXTINF:-1,Radio Grand Brive
+https://hosting.studioradiomedia.fr:1420/stream.mp3
+#EXTINF:-1,Airplay Radio
+https://stream.and-stuff.nl:8443/live-airplay_320
+#EXTINF:-1,Altitude FM
+https://centova.radio.com.pt/proxy/034?mp=/stream
+#EXTINF:-1,Centrum Radio
+https://stream.centrumradio.eu/centrumradio.aac
+#EXTINF:-1,Centrum Radio
+https://stream.centrumradio.eu/centrumradio.mp3

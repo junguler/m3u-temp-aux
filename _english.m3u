@@ -7,3 +7,11 @@ https://radio.omaneo.de/listen/kaffeewissen_en/radio.mp3
 https://radio.omaneo.de/listen/omaneo_radio_en/radio.mp3
 #EXTINF:-1,Agro Radio 103.0
 https://sonicpanel.streamsolutions.us/8038/stream
+#EXTINF:-1,Radio W&M
+https://stream.zeno.fm/qgeotx9vzpluv
+#EXTINF:-1,Altitude Sports 950 AM
+https://playerservices.streamtheworld.com/api/livestream-redirect/KKSEAMAAC.aac
+#EXTINF:-1,BBC News HD (720P)
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1,BBC RADIO 1XTRA: Amplifying black music & culture
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_1xtra.m3u8

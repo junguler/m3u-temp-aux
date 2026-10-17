@@ -177,3 +177,19 @@ https://icecast.multhielemedia.de/listen/kontrafunk/radio.mp3
 https://replaynewsde.ice.infomaniak.ch/replaynewsde-128.mp3
 #EXTINF:-1,WDR 5 [aac]
 https://wdrhf.akamaized.net/hls/live/2027996-b/wdr5/192/seglist.m3u8
+#EXTINF:-1,Hala Bedi 1
+https://stream.halabedi.eus/1B
+#EXTINF:-1,华夏之声China FM·西班牙马德里FM92.9
+https://radioserver12.profesionalhosting.com/proxy/pkg152387/stream
+#EXTINF:-1,Radio Estepona-Costa del Sol
+https://streaming2.elitecomunicacion.es:8602/stream
+#EXTINF:-1,Radio Serran�a
+https://stream-179.zeno.fm/suyydyfgwf9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzdXl5ZHlmZ3dmOXV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiaDJqN09GTE5RSXVXZzVvZDRUWWhDUSIsImlhdCI6MTc2ODQ1OTQyMywiZXhwIjoxNzY4NDU5NDgzfQ.VQGXKt0LSXNn5bTuBulvfM_Q_z-M_NPoAm-9gKUZ-4I
+#EXTINF:-1,REPLAY NEWS - Espa�ol          La radio de informaci�n cada 5 minutos
+https://replaynewses.ice.infomaniak.ch/replaynewses-128.mp3
+#EXTINF:-1,REPLAY NEWS - Suomi
+https://replaynewsfi.ice.infomaniak.ch/replaynewsfi-128.mp3
+#EXTINF:-1,Alta Frequenza
+https://altafrequenza.ice.infomaniak.ch/altafrequenza-128.mp3
+#EXTINF:-1,CNR-14 香港之聲
+https://satellitepull.cnr.cn/live/wxxgzs/playlist.m3u8?wsSession=5849bb6c90cf7fc1a7e3eae9-174908181231216&wsIPSercert=f7b6cfa8467acd0836b62cf14aa786d3

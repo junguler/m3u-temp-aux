@@ -21,3 +21,13 @@ https://streaming.radiosenlinea.com.ar/8096/stream/1/
 https://r90.letio.com/io/?gs=7000&type=master.m3u8
 #EXTINF:-1,W Radio FM (Bogotá)
 https://playerservices.streamtheworld.com/api/livestream-redirect/WRADIO_SC
+#EXTINF:-1,Onda Cero Cádiz
+https://atres-live.ondacero.es/live/delegaciones/oc/cadiz/master.m3u8
+#EXTINF:-1,Onda Cero Sevilla
+https://atres-live.ondacero.es/live/delegaciones/oc/sevilla/master.m3u8
+#EXTINF:-1,Onda Cero Valladolid
+https://atres-live.ondacero.es/live/delegaciones/oc/valladolid/master.m3u8
+#EXTINF:-1,RN1 - Valencia
+https://rnelivestream.rtve.es/rne1/val/128/seglist.m3u8
+#EXTINF:-1,SER - Henares 20241023
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_HENARES.mp3

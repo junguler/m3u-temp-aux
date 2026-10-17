@@ -21,3 +21,11 @@ https://stream.radio-nordseewelle.de/live/mp3-192/
 https://streams.rpr1.de/rpr-80er-128-aac?usid=0-0-H-M-D-01
 #EXTINF:-1,Canal Fiesta Radio
 https://rtva-live-radio.flumotion.com/rtva/cfr.mp3
+#EXTINF:-1,Radio Alsace
+https://radio.kasumay.fr/radioalsace.mp3
+#EXTINF:-1,Radio Grand Lieu
+https://listen.radioking.com/radio/377152/stream/427591
+#EXTINF:-1,BredaNu (192k MP3)
+https://icecast.bredanu.nl/bredanu.mp3
+#EXTINF:-1,BredaNu (96k AAC)
+https://icecast.bredanu.nl/bredanu.aac

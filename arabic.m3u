@@ -25,3 +25,9 @@ https://radio.xecod.com/station/albanna
 https://radio.xecod.com/station/alhussary
 #EXTINF:-1,OmniRadio - Sheikh Mohammed Siddiq Al-Minshawi (الشيخ محمد صديق المنشاوي)
 https://radio.xecod.com/station/alminshawi
+#EXTINF:-1,Hotmix Medina
+https://streaming.hotmixradio.com/hotmix-medina-en-mp3?provider=radiobrowser
+#EXTINF:-1,Abu Dhabi fm
+https://admn-radio-cdn-lb.starzplayarabia.com/out/v1/admn_radio_enc/abudhabi_fm/abudhabi_fm_hls_nd/index.m3u8
+#EXTINF:-1,Emarat fm
+https://admn-radio-cdn-lb.starzplayarabia.com/out/v1/admn_radio_enc/emarat_fm/emarat_fm_hls_nd/index.m3u8
