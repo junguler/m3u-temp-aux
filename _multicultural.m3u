@@ -1,21 +1,3 @@
 #EXTM3U
-#EXTINF:-1,98.5 CKWR Real Community Radio
-https://stream2.statsradio.com:8150/stream
-#EXTINF:-1,CHKF "FM 94.7" Calgary, AB (correction)
-https://5b2959fe11444.streamlock.net/radio/fm947.stream/playlist.m3u8
-#EXTINF:-1,CKER 101.7 "World FM" Edmonton, AB
-https://rogers-hls.leanstream.co/rogers/edm1017.stream/playlist.m3u8
-#EXTINF:-1,CKYE-FM 93.1 "Red FM" Vancouver, BC  
-https://ice24.securenetsystems.net/CKYE
-#EXTINF:-1,CKYR-FM 106.7 "Red FM" Calgary, AB
-https://ice10.securenetsystems.net/CKYR
-#EXTINF:-1,Radio Universidad de Chile
-https://sonic-us.arkeo.cl/8186/stream
-#EXTINF:-1,WDR COSMO -- (https)
-https://wdr-cosmo-live.icecastssl.wdr.de/wdr/cosmo/live/mp3/128/stream.mp3
-#EXTINF:-1,Radio Quito 760 AM
-https://streamingecuador.net:8332/radioquito?1679294453918
-#EXTINF:-1,Radio Dio
-https://live.aurafm.org/RadioDio
-#EXTINF:-1,Radio Fuori Campo
-https://listen.radioking.com/radio/397948/stream/449947
+#EXTINF:-1,CHLO 530
+https://buf-streamb1-ais-relay1.streamb.live/SB00225/playlist.m3u8
