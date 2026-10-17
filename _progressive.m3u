@@ -5,3 +5,9 @@ https://mediaserviceslive.akamaized.net/hls/live/2038347/triplejqld/masterhq.m3u
 https://www.radiocampus.be/stream/stream.aacplus
 #EXTINF:-1,Radio Campus BXL 92.1 [Ogg HQ]
 https://www.radiocampus.be/stream/stream_hi.ogg
+#EXTINF:-1,SerrebiRadio Low
+https://radio.serrebiradio.com/listen/serrebiradio/low
+#EXTINF:-1,laut.fm melodic
+https://melodic.stream.laut.fm/melodic?t302=2026-01-14_23-14-18&uuid=6e220b6b-5594-41ff-b48f-fa84dec366b3
+#EXTINF:-1,RauteMusik Progressive | AAC 48 kbps
+https://progressive-aacp.rautemusik.fm/

@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,RadioSEGA (MP3 LQ)
+https://icecast.radiosega.net/rs-mpeg.mp3
+#EXTINF:-1,RadioSEGA (Opus LQ)
+https://icecast.radiosega.net/rs-opus-low.ogg

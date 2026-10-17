@@ -55,3 +55,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/3RPHAAC.aac
 https://firstnationsmedia.stream:8048/stream
 #EXTINF:-1,Wild Horse FM
 https://s6.myradiostream.com:46712/;
+#EXTINF:-1,Rádio Metropolitana 101.9
+https://cloud.cdnseguro.com:2008/
+#EXTINF:-1,98.5 CKWR Real Community Radio
+https://stream2.statsradio.com:8150/stream
+#EXTINF:-1,dublab DE
+https://dublabde.out.airtime.pro/dublabde_a

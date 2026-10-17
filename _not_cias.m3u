@@ -3,3 +3,21 @@
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALVORADAAAC.aac
 #EXTINF:-1,BandNews BH
 https://cdn-web.tunein.com/assets/media/blank.mp3
+#EXTINF:-1,Brasil de Fato
+https://s09.hstbr.net:8238/live?1514038524061
+#EXTINF:-1,CBN - Belo Horizonte 
+https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_BHAAC.aac
+#EXTINF:-1,Estção FM 89.5
+https://play.radio.br:8089/estacaofm/estacaofm/icecast.audio
+#EXTINF:-1,Gaúcha
+https://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/playlist.m3u8
+#EXTINF:-1,Novabrasil FM Fortaleza, CE
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_FORAAC.aac
+#EXTINF:-1,Rádio PT
+https://s39.maxcast.com.br:8072/live
+#EXTINF:-1,Rádio Sete Colinas FM
+https://streaming.livespanel.com:20107/setecolinas
+#EXTINF:-1,Sete Colinas FM 101.7
+https://8300.brasilstream.com.br/stream
+#EXTINF:-1,Tupancy AM Pelotas
+https://casthttps.suaradionanet.net/10024/stream

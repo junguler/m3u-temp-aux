@@ -119,3 +119,467 @@ https://stream2.datacenter.by/zefirfm
 https://spanel.gcomstreaming.com/8004/stream
 #EXTINF:-1,BandNews BH
 https://cdn-web.tunein.com/assets/media/blank.mp3
+#EXTINF:-1,CBN Rio de Janeiro 92.5 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_RJ_ADP.m3u8
+#EXTINF:-1,Jovem Pan FM - Sorocaba 91.1
+https://cast2.hoost.com.br:8039/stream
+#EXTINF:-1,R�dio 95 FM 95.7 Alagoinhas
+https://stream.zenolive.com/t799cry0yv8uv
+#EXTINF:-1,R�dio Clock 94,1 FM
+https://azura4.cmaudioevideo.com:8040/radio.aac
+#EXTINF:-1,R�dio Cora��o 95.7 FM
+https://5a57bda70564a.streamlock.net/coracaohd/coracaohd.stream/chunklist_w23782252.m3u8
+#EXTINF:-1,R�dio Educadora FM
+https://5a57bda70564a.streamlock.net/educadoraonline/educadoraonline.stream/playlist.m3u8
+#EXTINF:-1,Radio Jauense
+https://s38.maxcast.com.br:8091/live
+#EXTINF:-1,R�dio Joinville Cultural FM
+https://cast.youngtech.radio.br/listen/fundacaoculturaljlle/radio
+#EXTINF:-1,R�dio Justi�a 104.7 FM
+https://server01.ouvir.radio.br:8036/stream
+#EXTINF:-1,R�dio Nacional Alto Solim�es
+https://radionacionalaltosolimoes-stream.ebc.com.br/ebc/radionacionalaltosolimoes/playlist.m3u8
+#EXTINF:-1,R�dio Nacional Amaz�nia
+https://radionacionalamazonia-stream.ebc.com.br/ebc/radionacionalamazonia/playlist.m3u8
+#EXTINF:-1,R�dio Nacional Bras�lia AM
+https://radionacionalbrasilia-stream.ebc.com.br/index.m3u8
+#EXTINF:-1,R�dio Nacional Rio de Janeiro
+https://radionacionalrio-stream.ebc.com.br/ebc/radionacionalriodejaneiro/playlist.m3u8
+#EXTINF:-1,R�dio Nacional S�o Lu�s
+https://radionacionalfmsl-stream.ebc.com.br/index.m3u8
+#EXTINF:-1,R�dio Nacional S�o Paulo
+https://radionacionalfmsp-stream.ebc.com.br/ebc/radionacionalfmsp/playlist.m3u8
+#EXTINF:-1,R�dio PT
+https://s39.maxcast.com.br:8072/live
+#EXTINF:-1,R�dio Record 1000 AM
+https://stm10.voxhd.com.br:9702/stream
+#EXTINF:-1,R�dio Senado (Bras�lia)
+https://www12.senado.leg.br/radiosenado/fmaac/chunklist_w490874864.m3u8
+#EXTINF:-1,SP RIO+
+https://s09.maxcast.com.br:8046/live
+#EXTINF:-1,TMC Belo Horizonte
+https://playerservices.streamtheworld.com/api/livestream-redirect/RT_BH.mp3
+#EXTINF:-1,Universal Health Radio (Portugu�s)
+https://radio.universalhealthradio.org/uhr-pt.mp3
+#EXTINF:-1,VOB 92.9 FM
+https://ice66.securenetsystems.net:80/VOB929
+#EXTINF:-1, #100 BEST IBIZA DEEP HOUSE
+https://stream.zeno.fm/lwv6zqgtv1dtv
+#EXTINF:-1,630 CHED
+https://corus.leanstream.co/CHEDAM-MP3
+#EXTINF:-1, # 70s 80s 90s RdMix Network
+https://cast1.torontocast.com:1830/stream
+#EXTINF:-1,CBC North - Iqaluit, NU
+https://27033.live.streamtheworld.com/CFFBAM_CBC_SC
+#EXTINF:-1,CBC Radio 1 Calgary (CBR - 1010 AM, 99.1 FM)
+https://cbcradiolive.akamaized.net/hls/live/2041039/ES_R1MCG/master.m3u8
+#EXTINF:-1,CBC Radio 1 Ottawa (CBO-FM)
+https://cbcradiolive.akamaized.net/hls/live/2041037/ES_R1ETT/adaptive_128/chunklist_ao.m3u8
+#EXTINF:-1,CBC Radio One - Barrie, ON
+https://26733.live.streamtheworld.com/CBCOFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Calgary, AB (MP3 stream)
+https://26373.live.streamtheworld.com/CBR1FM_CBC_SC
+#EXTINF:-1,CBC Radio One - Charlottetown, PE
+https://26283.live.streamtheworld.com/CBCTFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Corner Brook, NL (MP3 Stream)
+https://26733.live.streamtheworld.com/CBYAM_CBC_SC
+#EXTINF:-1,CBC Radio One Edmonton 
+https://26373.live.streamtheworld.com/CBXAM_CBC_SC
+#EXTINF:-1,CBC Radio One - Fredericton, NB (MP3 stream)
+https://26283.live.streamtheworld.com/CBZFFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Grand Falls-Windsor, NL (MP3 stream)
+https://26183.live.streamtheworld.com/CBGAM_CBC_SC
+#EXTINF:-1,CBC Radio One - Halifax, NS (MP3 stream)
+https://17813.live.streamtheworld.com/CBHA_CBC_SC
+#EXTINF:-1,CBC Radio One - Happy Valley-Goose Bay, NL (MP3 stream)
+https://26733.live.streamtheworld.com/CFGB_CBC_SC
+#EXTINF:-1,CBC Radio One - Inuvik, NT (MP3 stream)
+https://26373.live.streamtheworld.com/CHAK_CBC_SC
+#EXTINF:-1,CBC Radio One - Kamloops, BC (MP3 stream)
+https://27033.live.streamtheworld.com/CBYKFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Kelowna, BC (MP3 stream)
+https://27033.live.streamtheworld.com/CBTKFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Kingston, ON (MP3 stream)
+https://27243.live.streamtheworld.com/CBCKFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Kitchener-Waterloo, ON (MP3 stream)
+https://26733.live.streamtheworld.com/CBLAFM2_CBC_SC
+#EXTINF:-1,CBC Radio One - London, ON (MP3 stream)
+https://26733.live.streamtheworld.com/CBCLFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Moncton, NB (MP3 stream)
+https://14123.live.streamtheworld.com/CBAMFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Montreal, QC (MP3 stream)
+https://27033.live.streamtheworld.com/CBMEFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Nord Quebec (MP3 stream)
+https://cbcradiolive.akamaized.net/hls/live/2040992/ES_R1ECB/master.m3u8
+#EXTINF:-1,CBC Radio One - Ottawa, ON (MP3 stream)
+https://17813.live.streamtheworld.com/CBOFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Peterborough, ON (MP3 stream)
+https://26373.live.streamtheworld.com/CBCPFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Prince George, BC (MP3 stream)
+https://26373.live.streamtheworld.com/CBYGFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Quebec City, QC (MP3)
+https://27033.live.streamtheworld.com/CBVEFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Regina, SK (MP3 stream)
+https://27033.live.streamtheworld.com/CBKRFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Saint John, NB (MP3 stream)
+https://26733.live.streamtheworld.com/CBDFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Saskatoon, SK (MP3 stream)
+https://27033.live.streamtheworld.com/CBK1FM_CBC_SC
+#EXTINF:-1,CBC Radio One - St. John's, NL (MP3 stream)
+https://26733.live.streamtheworld.com/CBN1_CBC_SC
+#EXTINF:-1,CBC Radio One - Sudbury, ON (MP3 stream)
+https://26283.live.streamtheworld.com/CBCSFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Sydney, NS (MP3 stream)
+https://26283.live.streamtheworld.com/CBIS_CBC_SC
+#EXTINF:-1,CBC Radio One - Thunder Bay, ON (MP3 stream)
+https://26733.live.streamtheworld.com/CBQTFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Toronto, ON (MP3 stream)
+https://26733.live.streamtheworld.com/CBLAFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Vancouver, BC (MP3 stream)
+https://22983.live.streamtheworld.com/CBU2FM_CBC_SC
+#EXTINF:-1,CBC Radio One - Victoria, BC (MP3 stream)
+https://27033.live.streamtheworld.com/CBCVFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Windsor, ON (MP3 stream)
+https://26283.live.streamtheworld.com/CBEWFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Winnipeg, MB (MP3 stream)
+https://26373.live.streamtheworld.com/CBWAM_CBC_SC
+#EXTINF:-1,CBC Radio One - Yellowknife, NT (MP3)
+https://27033.live.streamtheworld.com/CFYKFM_CBC_SC
+#EXTINF:-1,CJNI "News 95.7" Halifax, NS
+https://rogers-hls.leanstream.co/rogers/hal957.stream/playlist.m3u8
+#EXTINF:-1,CKOF "FM 104.7 Outaouais" Gatineau, QC 
+https://26733.live.streamtheworld.com/CKOFFMAAC_SC
+#EXTINF:-1,ICI Radio-Canada Premi�re Edmonton - 90.1 FM (CHFA-FM)
+https://rcavliveaudio.akamaized.net/hls/live/2006949/P-2AEDM0_EDM/master.m3u8
+#EXTINF:-1,加拿大中文电台FM.96.1
+https://5b2959fe11444.streamlock.net/radio/fm961.stream/playlist.m3u8
+#EXTINF:-1,Мегаполис Торонто
+https://c25.radioboss.fm:8297/stream
+#EXTINF:-1,Zoomer Radio (CFZM AM 740 / 96.7 FM)
+https://prod-18-204-34-32.amperwave.net/mzmedia-cfzmammp3-ibc2?session-id=7f61a0b7aa7cfc6006b36a5a2f948303
+#EXTINF:-1,Canal3 deutsch
+https://radio.upstream-cloud.ch/canal3allemand-192.aac
+#EXTINF:-1,GIN Radio 24
+https://app.aloncast.com/api/stream/gin-radio-24-a7f910
+#EXTINF:-1,Kontrafunk (AAC 64)
+https://s5.radio.co/sca4082ebb/low
+#EXTINF:-1,Radio 32
+https://stream.streambase.ch/radio32/mp3-192/chmedia-today-web
+#EXTINF:-1,Radio Freundes-Dienst Schweiz
+https://stream.radiofd.ch/radiofd/mp3_128/radiobrowser
+#EXTINF:-1,Radio Grischa
+https://somedia-4.streaming.deliver.media/radiogrischa_mp3_128
+#EXTINF:-1,Radio SRF 1 (AAC 192)
+https://stream.srg-ssr.ch/srgssr/srf1/aac/192
+#EXTINF:-1,Radio SRF 4 News (AAC 192)
+https://stream.srg-ssr.ch/srgssr/srf4news/aac/192
+#EXTINF:-1,B�o-B�o Concepci�n 98.1
+https://unlimited3-cl.dps.live/biobioconcepcion/aac/icecast.audio
+#EXTINF:-1,B�o-B�o Los �ngeles 96.7
+https://unlimited11-cl.dps.live/biobiolosangeles/aac/icecast.audio
+#EXTINF:-1,Festival
+https://stream.festival.cl/1
+#EXTINF:-1,Guza FM
+https://radio.somosguza.cl/listen/estacion_guza/radio.mp3
+#EXTINF:-1,La Clave 92.9FM
+https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
+#EXTINF:-1,La Melinkana FM
+https://audio3.tustreaming.cl/7050/stream
+#EXTINF:-1,Radio Edelweiss
+https://encoder.stationlink.cl/listen/edelweiss/radio.mp3
+#EXTINF:-1,Radio Universidad de Chile
+https://sonic-us.arkeo.cl/8186/stream
+#EXTINF:-1,Raxies FM
+https://stream.zeno.fm/annpmyskb4jtv
+#EXTINF:-1,北京新闻广播
+https://lhttp.qtfm.cn/live/339/64k.mp3
+#EXTINF:-1,CGTN - English
+https://english-livetx.cgtn.com/hls/yypdyyctzb_sd.m3u8
+#EXTINF:-1,CRI环球资迅广播
+https://sk.cri.cn/905.m3u8
+#EXTINF:-1,大连长海之声FM91.7
+https://live.ximalaya.com/radio-first-page-app/live/2882/64.m3u8?transcode=ts
+#EXTINF:-1,大庆综合广播
+https://lhttp.qtfm.cn/live/20500060/64k.mp3
+#EXTINF:-1,登封综合广播
+https://lhttp.qtfm.cn/live/5022077/64k.mp3
+#EXTINF:-1,鼎城人民广播电台
+https://lhttp.qingting.fm/live/5021860/64k.mp3
+#EXTINF:-1,敦煌之声
+https://play.kankanlive.com/live/1698383289889932.m3u8
+#EXTINF:-1,恩平人民广播电台
+https://lhttp.qingting.fm/live/20701/64k.mp3
+#EXTINF:-1,繁昌新闻综合广播
+https://nfcplay.wuhunews.cn/fc/zhgb.m3u8
+#EXTINF:-1,广西综合广播 新闻910
+https://lhttp-hw.qtfm.cn/live/1753/64k.mp3
+#EXTINF:-1,桂林综合广播
+https://lhttp-hw.qtfm.cn/live/1759/64k.mp3
+#EXTINF:-1,国际新闻
+https://lhttp.qtfm.cn/live/20500172/64k.mp3
+#EXTINF:-1,海宁大潮之声🌊
+https://lhttp.qtfm.cn/live/5022556/64k.mp3
+#EXTINF:-1,贺州综合广播
+https://lhttp.qtfm.cn/live/5043/64k.mp3
+#EXTINF:-1,衡水综合广播
+https://lhttp.qtfm.cn/live/5022040/64k.mp3
+#EXTINF:-1,衡阳综合广播
+https://lhttp.qtfm.cn/live/15318386/64k.mp3
+#EXTINF:-1,红调频·九江综合广播
+https://lhttp.qingting.fm/live/5022729/64k.mp3
+#EXTINF:-1,花都人民广播电台
+https://lhttp.qingting.fm/live/1263/64k.mp3
+#EXTINF:-1,怀远人民广播电台 FM95.1
+https://lhttp-hw.qtfm.cn/live/5021993/64k.mp3
+#EXTINF:-1,吉林卫视伴音
+https://piccpndali.v.myalicdn.com/audio/jilin_2.m3u8
+#EXTINF:-1,吉林新闻综合广播
+https://live-jlr.jlntv.cn//live/am738.m3u8
+#EXTINF:-1,即墨人民广播电台
+https://lhttp.qingting.fm/live/20807/64k.mp3
+#EXTINF:-1,济南都市广播
+https://lhttp.qtfm.cn/live/5022333/64k.mp3
+#EXTINF:-1,江门综合广播
+https://lhttp-hw.qtfm.cn/live/1282/64k.mp3
+#EXTINF:-1,金乡综合广播
+https://lhttp.qtfm.cn/live/20500085/64k.mp3
+#EXTINF:-1,金州综合广播
+https://lhttp.qingting.fm/live/15318307/64k.mp3
+#EXTINF:-1,景德镇综合广播
+https://lhttp.qtfm.cn/live/5022025/64k.mp3
+#EXTINF:-1,旌阳区综合广播
+https://lhttp.qingting.fm/live/5021933/64k.mp3
+#EXTINF:-1,靖州综合广播
+https://lhttp.qtfm.cn/live/20500011/64k.mp3
+#EXTINF:-1,昆明老年广播
+https://lhttp-hw.qtfm.cn/live/1937/64k.mp3
+#EXTINF:-1,昆明综合广播
+https://lhttp.qtfm.cn/live/1934/64k.mp3
+#EXTINF:-1,乐山综合广播
+https://lhttp.qtfm.cn/live/1122/64k.mp3
+#EXTINF:-1,辽宁之声
+https://lhttp.qingting.fm/live/1103/64k.mp3?app_id=web
+#EXTINF:-1,辽宁资讯广播
+https://lhttp.qtfm.cn/live/5022018/64k.mp3
+#EXTINF:-1,临安综合广播
+https://lhttp.qtfm.cn/live/20005/64k.mp3
+#EXTINF:-1,临淄广播·公信971
+https://lhttp-hw.qtfm.cn/live/20212204/64k.mp3
+#EXTINF:-1,轮台之声
+https://lhttp-hw.qtfm.cn/live/20500099/64k.mp3
+#EXTINF:-1,绵阳综合广播
+https://lhttp.qtfm.cn/live/4024/64k.mp3
+#EXTINF:-1,南康广播电台
+https://lhttp.qtfm.cn/live/5021869/64k.mp3
+#EXTINF:-1,南通综合广播
+https://lhttp.qtfm.cn/live/21277/64k.mp3
+#EXTINF:-1,宁夏经济广播
+https://lhttp.qtfm.cn/live/1841/64k.mp3
+#EXTINF:-1,蓬莱广播电视台
+https://lhttp.qtfm.cn/live/20500112/64k.mp3
+#EXTINF:-1,綦江综合广播
+https://lhttp.qtfm.cn/live/20500201/64k.mp3
+#EXTINF:-1,涉县新闻综合广播
+https://lhttp.qtfm.cn/live/20211631/64k.mp3
+#EXTINF:-1,双流人民广播电台
+https://lhttp.qingting.fm/live/20211587/64k.mp3
+#EXTINF:-1,四川新闻广播
+https://lhttp.qtfm.cn/live/4906/64k.mp3
+#EXTINF:-1,台山五邑旅游频道
+https://lhttp.qingting.fm/live/5022062/64k.mp3
+#EXTINF:-1,天门综合广播
+https://lhttp.qtfm.cn/live/20500199/64k.mp3
+#EXTINF:-1,天台人民广播电台
+https://lhttp.qingting.fm/live/5022200/64k.mp3
+#EXTINF:-1,Universal Health Radio (中文)
+https://radio.universalhealthradio.org/uhr-zh.mp3
+#EXTINF:-1,吴江综合广播
+https://lhttp.qtfm.cn/live/5022050/64k.mp3
+#EXTINF:-1,五师人民广播电台双河之声
+https://lhttp.qtfm.cn/live/20207772/64k.mp3
+#EXTINF:-1,无锡新闻综合广播AM1161
+https://lhttp.qtfm.cn/live/2776/64k.mp3
+#EXTINF:-1,无锡新闻综合广播FM93.7
+https://lhttp.qtfm.cn/live/2777/64k.mp3
+#EXTINF:-1,新昌人民广播电台·天姥之声
+https://lhttp.qingting.fm/live/20212423/64k.mp3
+#EXTINF:-1,新疆汉语新闻广播
+https://lhttp-hw.qtfm.cn/live/1902/64k.mp3
+#EXTINF:-1,新余综合广播
+https://lhttp-hw.qtfm.cn/live/20178/64k.mp3
+#EXTINF:-1,许昌综合广播
+https://lhttp.qtfm.cn/live/5022092/64k.mp3
+#EXTINF:-1,宜章综合广播
+https://lhttp.qtfm.cn/live/15318691/64k.mp3
+#EXTINF:-1,英德综合广播
+https://lhttp.qtfm.cn/live/5022392/64k.mp3
+#EXTINF:-1,永川之声100.7
+https://lhttp.qtfm.cn/live/20210236/64k.mp3
+#EXTINF:-1,永康电台FM106.6
+https://lhttp.qtfm.cn/live/5022570/64k.mp3
+#EXTINF:-1,玉林综合广播
+https://lhttp.qingting.fm/live/1762/64k.mp3
+#EXTINF:-1,垣曲人民广播电台
+https://lhttp.qingting.fm/live/20500090/64k.mp3
+#EXTINF:-1,枣庄综合广播
+https://lhttp.qtfm.cn/live/1686/64k.mp3
+#EXTINF:-1,长沙新闻广播
+https://lhttp.qtfm.cn/live/4877/64k.mp3
+#EXTINF:-1,肇庆综合广播
+https://live.ximalaya.com/radio-first-page-app/live/2892/64.m3u8?transcode=ts
+#EXTINF:-1,周口综合广播
+https://lhttp.qtfm.cn/live/20212215/64k.mp3
+#EXTINF:-1,Radio Universidad Nacional
+https://radio.unal.edu.co/streaming/bogota/stream.mp3
+#EXTINF:-1,Radio Viva Fenix Ipiales (HJB29, 89.1 MHz FM)
+https://radiolatina.info/8170/stream
+#EXTINF:-1,Radio Viva Fenix Ipiales (HJNM, 1220 kHz AM)
+https://radiolatina.info/8172/stream
+#EXTINF:-1,Radio Viva Fenix Pasto (HJFV, 780 kHz AM)
+https://radiolatina.info/8166/stream
+#EXTINF:-1,Teletica Radio
+https://g2qd375ol7an-hls-live.5centscdn.com/Radio/eae835e83c0494a376229f254f7d3392.sdp/chunks.m3u8
+#EXTINF:-1,Plzeň TV
+https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8
+#EXTINF:-1,70's 80's 90's Riw Vintage Channel
+https://stream.laut.fm/70s-80s-90s-riw-vintage-channel
+#EXTINF:-1,Antenne Kaiserslautern
+https://radiogroup-stream09.radiohost.de/antenne-kaiserslautern_mp3-192
+#EXTINF:-1,bigFM Deutschland
+https://stream.bigfm.de/deutschland/mp3-128/radio-browser
+#EXTINF:-1,Cityradio St. Wendel
+https://radiogroup-stream32.radiohost.de/cityradio-stwendel_mp3-192
+#EXTINF:-1,#CLUB CHARTS -> TOP 100 || IMMER AKTUELL || DJ CHARTS || HOUSE, EDM, DEEP HOUSE - TECH HOUSE - TECHNO - MELODIC TECHNO - EDM - ELECTRONIC DANCE MUSIC - CLUB - DJ - DJ MIX - REMIX - FESTIVAL - FESTIVAL RADIO - IBIZA - IBIZA HOUSE - SUMMER HOUSE - BEACH CLU
+https://radio.breakz.fm/?ref=club2-71
+#EXTINF:-1,Deutschlandfunk | DLF | AAC 192k
+https://st01.sslstream.dlf.de/dlf/01/high/aac/stream.aac?aggregator=web
+#EXTINF:-1,Deutschlandfunk | DLF | AAC 48k
+https://st01.sslstream.dlf.de/dlf/01/low/aac/stream.aac?aggregator=web
+#EXTINF:-1,Deutschlandfunk | DLF | AAC 96k
+https://st01.sslstream.dlf.de/dlf/01/mid/aac/stream.aac?aggregator=web
+#EXTINF:-1,Deutschlandfunk | DLF | MP3 128k
+https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3?aggregator=web
+#EXTINF:-1,Deutschlandfunk | DLF | OPUS 24k
+https://st01.sslstream.dlf.de/dlf/01/low/opus/stream.opus?aggregator=web
+#EXTINF:-1,Deutschlandfunk | DLF | OPUS 64k
+https://st01.sslstream.dlf.de/dlf/01/high/opus/stream.opus?aggregator=web
+#EXTINF:-1,Deutschlandfunk Kultur | DLF | AAC 192k
+https://st02.sslstream.dlf.de/dlf/02/high/aac/stream.aac?aggregator=web
+#EXTINF:-1,Deutschlandfunk Kultur | DLF | AAC 96k
+https://st02.sslstream.dlf.de/dlf/02/mid/aac/stream.aac?aggregator=web
+#EXTINF:-1,Deutschlandfunk Kultur | DLF | MP3 128k
+https://st02.sslstream.dlf.de/dlf/02/128/mp3/stream.mp3?aggregator=web
+#EXTINF:-1,Deutschlandfunk Kultur | DLF | OPUS 24k
+https://st02.sslstream.dlf.de/dlf/02/low/opus/stream.opus?aggregator=web
+#EXTINF:-1,Deutschlandfunk Kultur | DLF | OPUS 64k
+https://st02.sslstream.dlf.de/dlf/02/high/opus/stream.opus?aggregator=web
+#EXTINF:-1,Deutschlandfunk Nova | DLF | AAC 192k
+https://st03.sslstream.dlf.de/dlf/03/high/aac/stream.aac?aggregator=web
+#EXTINF:-1,Deutschlandfunk Nova | DLF | AAC 48k
+https://st03.sslstream.dlf.de/dlf/03/low/aac/stream.aac?aggregator=web
+#EXTINF:-1,Deutschlandfunk Nova | DLF | AAC 96k
+https://st03.sslstream.dlf.de/dlf/03/mid/aac/stream.aac?aggregator=web
+#EXTINF:-1,Deutschlandfunk Nova | DLF | MP3 128k
+https://st03.sslstream.dlf.de/dlf/03/128/mp3/stream.mp3?aggregator=web
+#EXTINF:-1,Deutschlandfunk Nova | DLF | OPUS 24k
+https://st03.sslstream.dlf.de/dlf/03/low/opus/stream.opus?aggregator=web
+#EXTINF:-1,Deutschlandfunk Nova | DLF | OPUS 64k
+https://st03.sslstream.dlf.de/dlf/03/high/opus/stream.opus?aggregator=web
+#EXTINF:-1,DW English HD
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1,ET-Radio
+https://stream.regenbogen2.de/etradio/mp3-128/radiobrowser
+#EXTINF:-1,hr-iNFO (128k)
+https://dispatcher.rndfnk.com/hr/hrinfo/live/mp3/high
+#EXTINF:-1,Klar FM
+https://klarfm.stream.laut.fm/klarfm?t302=2026-09-30_19-21-23&uuid=2339dd6f-27f6-a85d-63ad-adceb9a8a0c9
+#EXTINF:-1,kontrafunk
+https://icecast.multhielemedia.de/listen/kontrafunk/radio.mp3
+#EXTINF:-1,NDR Info (Hamburg) ( MP3 HTTPS-deeplink)
+https://icecast.ndr.de/ndr/ndrinfo/hamburg/mp3/128/stream.mp3
+#EXTINF:-1,NiUS
+https://nius--di--nacs-ais-lgc--0a--cdn.cast.addradio.de/nius/live/mp3/high
+#EXTINF:-1,ntv Live Audio
+https://stream.rtlradio.de/ntvlive/mp3-192
+#EXTINF:-1,RadaR
+https://stream.radiodarmstadt.de/radar.mp3
+#EXTINF:-1,Radio Emscher Lippe Lokalradio
+https://stream.lokalradio.nrw/444zbzk
+#EXTINF:-1,Radio Hagen
+https://stream.lokalradio.nrw/444zcd3
+#EXTINF:-1,Radio Hellbach
+https://server3.streamserver-unlimited.de:8569/stream1
+#EXTINF:-1,RADIO SYLT
+https://stream.autozugradio-sylt.de/autozugradio-blau/mp3-192?ref=radio-browser
+#EXTINF:-1,RadioAktuell
+https://www.radioaktuell.de/aktuell/aktuell.mp3
+#EXTINF:-1,RBB 24 Inforadio
+https://f121.rndfnk.com/ard/rbb/inforadio/live/mp3/128/stream.mp3?cid=01FC1WYDPN76K6HSCD8QCR9D3S&sid=2QcLzffN32wHfW1lVCzlxHze7qi&token=pGWtFx8DdsdTygJQfppoygwrmQAJ9neXn-Oapylzh_E&tvf=RIPifb2zZBdmMTIxLnJuZGZuay5jb20
+#EXTINF:-1,REPLAY NEWS - Deutsch
+https://replaynewsde.ice.infomaniak.ch/replaynewsde-128.mp3
+#EXTINF:-1,RPR1. Kaiserslautern
+https://stream.rpr1.de/kaiserslautern/mp3-128/radiobrowser
+#EXTINF:-1,RPR1. Koblenz
+https://stream.rpr1.de/koblenz/mp3-128/radiobrowser
+#EXTINF:-1,RPR1. K�ln
+https://stream.rpr1.de/koeln/mp3-128/radiobrowser
+#EXTINF:-1,RPR1. Ludwigshafen
+https://stream.rpr1.de/ludwigshafen/mp3-128/radiobrowser
+#EXTINF:-1,RPR1. Mainz
+https://stream.rpr1.de/mainz/mp3-128/radiobrowser
+#EXTINF:-1,RPR1. Webradio
+https://stream.rpr1.de/webradio/mp3-128/radiobrowser
+#EXTINF:-1,SachsenEins
+https://sachsen-media.stream29.radiohost.de/sachsen-media-sachseneins_mp3-192
+#EXTINF:-1,SWR1 Baden W�rttemberg 
+https://liveradio.swr.de/sw890cl/swr1bw/
+#EXTINF:-1,TechLiveRadio
+https://stream.laut.fm/techliveradio
+#EXTINF:-1,WDR 5 Nachrichten
+https://www.wdr.de/realaudio/radio/nachrichten/nachrichten_wdr5.mp3
+#EXTINF:-1,WDR5
+https://wdr-radio.ard-mcdn.de/wdr/radio/wdr5/hls/master.m3u8
+#EXTINF:-1,WELT TV Live
+https://welt.personalstream.tv/v1/master.m3u8
+#EXTINF:-1,Kalaallit Nunaata Radioa
+https://knr.gl/radiolivestream
+#EXTINF:-1,Alg�rie Cha�ne 3 
+https://radiochaine3.ice.infomaniak.ch/chaine3.mp3
+#EXTINF:-1,HCJB La Voz de los Andes 89.3 FM
+https://streamingecuador.net:8287/hcjb
+#EXTINF:-1,Modelo 97.7 FM
+https://usa3.lhdserver.es:8197/stream
+#EXTINF:-1,Radio Elite 99.7 FM
+https://streamingecuador.net:8135/radioelite
+#EXTINF:-1,Radio Gaviota 105.1 FM
+https://streamingecuador.net:9000/radiogaviota
+#EXTINF:-1,Radio Onda Positiva 94.1 FM
+https://streamingecuador.net:8011/radioondapositiva
+#EXTINF:-1,Radio Platinum Fm
+https://streamingecuador.com:8160/radioplatinum
+#EXTINF:-1,RNC La Mundialista 103.3 FM (AAC)
+https://streamingecuador.net:7008/radiornc
+#EXTINF:-1,Eri-TV
+https://jmc-live.ercdn.net/eritreatv/eritreatv.m3u8
+#EXTINF:-1,Alzira r�dio 107.9 FM
+https://alziraradiomob.streaming-pro.com:6172/alziraradio.mp3
+#EXTINF:-1,Cadena SER Coru�a
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_CORUNA.mp3
+#EXTINF:-1,Cadena SER Granada
+https://20043.live.streamtheworld.com/SER_ASO_GRANADAAAC.aac
+#EXTINF:-1,Cadena Ser Guadix
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_GUADIXAAC_SC
+#EXTINF:-1,Cadena SER - Miranda de Ebro
+https://25483.live.streamtheworld.com/SER_ASO_MIRANDA_EBROAAC_SC
+#EXTINF:-1,Cadena SER - R�dio Barcelona
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_BARCELONA.mp3
+#EXTINF:-1,Cadena SER Radio Ferrol
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_FERROL.mp3
+#EXTINF:-1,Cadena SER Sevilla
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SEVILLA.mp3
+#EXTINF:-1,Canal Sur radio Granada
+https://rtva-live-radio.flumotion.com/rtva/csrgra.mp3
+#EXTINF:-1,Capital Radio Madrid
+https://mdstrm.com/audio/67d2a8685ae4234de49e40f6/live.m3u8?_=1748201428470&dnt=true&player=67bf8d9eb8fdbbe59cb3dc1e&uid=ZGjN46saKhxpR9l4R89Rah2jvFyKlii2&sid=Ylu5J6JhzLU9YYjHNlrKub2B78xqLdvG&pid=FM2735sWw0sy8ShSstpnBPcUEKzC3DWC&an=lightning-player&at=web-app&av=v1.0.19&sc=0&ds=67bf8b74ff9cc60dd3e575b4&ref=www.capitalradio.es&res=1600x900
+#EXTINF:-1,Catalunya Informaci� (Catinfo)
+https://shoutcast.ccma.cat/ccma/catalunyainformacioHD.mp3

@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,DW English HD
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1,MDR JUMP - Im Osten zu Hause und immer deine Lieblingshits!
+https://mdr-radio-hls.akamaized.net/hls/live/2112904/mdr-284320-0-hls/index.m3u8
+#EXTINF:-1,MDR SACHSEN-ANHALT – Das Radio wie wir
+https://mdr-radio-hls.akamaized.net/hls/live/2112894/mdr-284290-2-hls/index.m3u8
+#EXTINF:-1,MDR SACHSEN – Das Sachsenradio
+https://mdr-radio-hls.akamaized.net/hls/live/2112890/mdr-284280-3-hls/index.m3u8
+#EXTINF:-1,MDR SCHLAGERWELT Sachsen
+https://radio-hls.mdr.de/hls/live/2112912/mdr-990801-0-hls/index.m3u8
+#EXTINF:-1,MDR SCHLAGERWELT Sachsen-Anhalt
+https://radio-hls.mdr.de/hls/live/2112911/mdr-990701-0-hls/index.m3u8
+#EXTINF:-1,MDR SCHLAGERWELT Th�ringen
+https://radio-hls.mdr.de/hls/live/2112910/mdr-990601-0-hls/index.m3u8
+#EXTINF:-1,MDR THÜRINGEN – Das Radio
+https://mdr-radio-hls.akamaized.net/hls/live/2112899/mdr-284300-1-hls/index.m3u8
+#EXTINF:-1,SR Fernsehen HD
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8

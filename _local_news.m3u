@@ -33,3 +33,57 @@ https://radio7.pro-fhi.net:19073/stream.mp3
 https://onlineradiobox.com/search?cs=be.rand&q=radiorand&c=be
 #EXTINF:-1,Radio San Rafael 92.5 FM
 https://guri.tepuyserver.net:7098/stream
+#EXTINF:-1,CBN Rio de Janeiro 92.5 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_RJ_ADP.m3u8
+#EXTINF:-1,NBC FM - Rádio Comunitária de Nova Brasília - Imbituba/SC
+https://radio02.zas.media/proxy/nbcfm/stream
+#EXTINF:-1,Novabrasil FM Fortaleza, CE
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_FORAAC.aac
+#EXTINF:-1,Piatã FM
+https://streaming.livespanel.com:9430/stream
+#EXTINF:-1,Rádio 89.3 FM Imbituba
+https://live.paineldj.com.br/proxy/radiofm89f?mp=/stream
+#EXTINF:-1,Rádio Coração 95.7 FM
+https://5a57bda70564a.streamlock.net/coracaohd/coracaohd.stream/chunklist_w23782252.m3u8
+#EXTINF:-1,Rádio HT
+https://servidor39.brlogic.com:8624/live
+#EXTINF:-1,Udesc FM Joinville - FM 91,9 MHz
+https://icecast.loopert.com/81
+#EXTINF:-1,# 100 GREATEST CLASSICAL MUSIC
+https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3
+#EXTINF:-1, # 70s 80s 90s RdMix Network
+https://cast1.torontocast.com:1830/stream
+#EXTINF:-1,CJSF
+https://www.cjsf.ca/streaming
+#EXTINF:-1,CKXS 99.1 FM
+https://5amigos.streamb.live/SB00354
+#EXTINF:-1,Energy Basel (NRJ)
+https://energybasel.ice.infomaniak.ch/energybasel-high.mp3
+#EXTINF:-1,Radio Universidad de Chile
+https://sonic-us.arkeo.cl/8186/stream
+#EXTINF:-1,Raxies FM
+https://stream.zeno.fm/annpmyskb4jtv
+#EXTINF:-1,Blu Radio (Medellín) 97.9 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/BLU_MEDELLIN_ADP.aac
+#EXTINF:-1,Teletica Radio
+https://g2qd375ol7an-hls-live.5centscdn.com/Radio/eae835e83c0494a376229f254f7d3392.sdp/chunks.m3u8
+#EXTINF:-1,Antenne Kaiserslautern
+https://radiogroup-stream09.radiohost.de/antenne-kaiserslautern_mp3-192
+#EXTINF:-1,Hertz 87.9 - Campusradio für Bielefeld | MP3 HQ
+https://stream.radiohertz.de/hertz-hq.mp3
+#EXTINF:-1,NDR Info (Hamburg) ( MP3 HTTPS-deeplink)
+https://icecast.ndr.de/ndr/ndrinfo/hamburg/mp3/128/stream.mp3
+#EXTINF:-1,Radio Emscher Lippe Lokalradio
+https://stream.lokalradio.nrw/444zbzk
+#EXTINF:-1,Radio Hagen
+https://stream.lokalradio.nrw/444zcd3
+#EXTINF:-1,Radio Primavera
+https://live.stream.primavera24.de/primavera24-radioprimavera/stream/mp3
+#EXTINF:-1,RADIO SYLT
+https://stream.autozugradio-sylt.de/autozugradio-blau/mp3-192?ref=radio-browser
+#EXTINF:-1,Cadena SER Coruña
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_CORUNA.mp3
+#EXTINF:-1,Cadena SER Radio Ferrol
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_FERROL.mp3
+#EXTINF:-1,Capital Radio Madrid
+https://mdstrm.com/audio/67d2a8685ae4234de49e40f6/live.m3u8?_=1748201428470&dnt=true&player=67bf8d9eb8fdbbe59cb3dc1e&uid=ZGjN46saKhxpR9l4R89Rah2jvFyKlii2&sid=Ylu5J6JhzLU9YYjHNlrKub2B78xqLdvG&pid=FM2735sWw0sy8ShSstpnBPcUEKzC3DWC&an=lightning-player&at=web-app&av=v1.0.19&sc=0&ds=67bf8b74ff9cc60dd3e575b4&ref=www.capitalradio.es&res=1600x900

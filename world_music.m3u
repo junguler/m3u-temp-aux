@@ -1,3 +1,9 @@
 #EXTM3U
 #EXTINF:-1,Lider 104.3
 https://stream.arcast.tv:8443/lidersanjuan/lidersanjuan.stream/playlist.m3u8
+#EXTINF:-1,Musicbox4friends
+https://maggie.torontocast.com:8038/musicbox
+#EXTINF:-1,WDR COSMO - Neu in Cosmo
+https://wdr-cosmo-neuincosmo.icecastssl.wdr.de/wdr/cosmo/neuincosmo/mp3/128/stream.mp3
+#EXTINF:-1,WMR - World Music Radio
+https://stream.probroadcast.dk/wmr

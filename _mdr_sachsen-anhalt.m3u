@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,MDR SACHSEN-ANHALT Dessau
+https://radio-hls.mdr.de/hls/live/2112896/mdr-284290-1-hls/index.m3u8
+#EXTINF:-1,MDR SACHSEN-ANHALT Halle
+https://radio-hls.mdr.de/hls/live/2112894/mdr-284290-2-hls/index.m3u8
+#EXTINF:-1,MDR SACHSEN-ANHALT Magdeburg
+https://radio-hls.mdr.de/hls/live/2112893/mdr-284290-0-hls/index.m3u8
+#EXTINF:-1,MDR SACHSEN-ANHALT Stendal
+https://radio-hls.mdr.de/hls/live/2112895/mdr-284290-3-hls/index.m3u8

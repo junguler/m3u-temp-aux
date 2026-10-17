@@ -1,3 +1,9 @@
 #EXTM3U
 #EXTINF:-1,XRaydio 1 – Your Kaleidoscope Of Sounds
 https://xraydio.ddns.net/live
+#EXTINF:-1,FluxFM traumerei | 320k MP3
+https://fluxmusic.api.radiosphere.io/channels/traumerei/stream.mp3?quality=10
+#EXTINF:-1,FluxFM traumerei | 64k AAC
+https://fluxmusic.api.radiosphere.io/channels/traumerei/stream.aac?quality=1
+#EXTINF:-1,Laut.FM Shoegaze
+https://shoegaze.stream.laut.fm/shoegaze

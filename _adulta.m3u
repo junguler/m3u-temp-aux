@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,Eldorado FM - São Paulo
+https://eldoradolive01.akamaized.net/hls/live/2041487/eldorado/master.m3u8
+#EXTINF:-1,Fita Cassete
+https://server01.ouvir.radio.br:8018/stream
+#EXTINF:-1,Rádio Kboing 100.3 FM
+https://stream.knbcdn.com.br/kboing-fm/kbostream/playlist.m3u8

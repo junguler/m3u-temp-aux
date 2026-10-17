@@ -1,3 +1,9 @@
 #EXTM3U
 #EXTINF:-1,NRJ+ (Belgique)
 https://stream.rcs.revma.com/1a6hdnzbebuvv
+#EXTINF:-1,Jovem Pan FM - Florianópolis - SC
+https://live.paineldj.com.br/proxy/jfloripa?mp=/stream
+#EXTINF:-1,MPX Web Rádio 1
+https://streaming.mpxwebradio.com/listen/mpxhits/256k
+#EXTINF:-1,Z-top
+https://stream.zeno.fm/gzf0stmb2d0uv

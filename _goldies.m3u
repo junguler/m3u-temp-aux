@@ -3,3 +3,45 @@
 https://cast1.torontocast.com:3305/stream
 #EXTINF:-1,Zoe FM
 https://icecast.movemedia.be/zoe128
+#EXTINF:-1, # RdMix DJSET 70s 80s 90s
+https://cast1.torontocast.com:4560/stream
+#EXTINF:-1,0nlineradio 50s
+https://stream.0nlineradio.com/50s?ref=radiobrowser
+#EXTINF:-1,0nlineradio 70s
+https://stream.0nlineradio.com/70s?ref=radiobrowser
+#EXTINF:-1,0nlineradio 80s
+https://stream.0nlineradio.com/80s?ref=radiobrowser
+#EXTINF:-1,0nlineradio 90s
+https://stream.0nlineradio.com/90s?ref=radiobrowser
+#EXTINF:-1,0nlineradio GREATEST HITS
+https://stream.0nlineradio.com/greatest-hits?ref=radiobrowser
+#EXTINF:-1,0nlineradio SCHLAGER OLDIES
+https://stream.0nlineradio.com/schlager-oldies?ref=radiobrowser
+#EXTINF:-1,0R - 80s || 80s Pop, 80s Hits, Synthpop, New Wave, Dance, Disco, Pop Classics, Retro, Teen Pop, Funk, Pop Rock, Chart Hits, 80s Dance, Nostalgic, Hit Songs
+https://0nlineradio.radioho.st/0r-80s?ref=radio-browser26
+#EXTINF:-1,0R - EURO DANCE || Eurodance, 90s Dance, Pop, Dance, Club, Party, Trance, Techno, Electronic, Vocal, Hits, Energetic, Beat, Night, Dancefloor
+https://0nlineradio.radioho.st/technolovers-eurodance?ref=radio-browser26
+#EXTINF:-1,1000 GOLDIES
+https://stream.laut.fm/1000goldies
+#EXTINF:-1,1000 GOLDIES
+https://1000goldies.stream.laut.fm/1000goldies?t302=2026-01-15_05-47-39&uuid=3ab95a19-1c96-4c55-8e81-bef2637010de
+#EXTINF:-1,* 2000s || 2000er, Pop, Charts, Dance, Electro, RnB, Club Hits, Party, Radio Hits, Mainstream, Teen Pop, Eurodance, Feel Good, Throwback, Klassiker
+https://0nlineradio.radioho.st/0r-2000er?ref=rb26
+#EXTINF:-1,70's 80's 90's Riw Vintage Channel
+https://stream.laut.fm/70s-80s-90s-riw-vintage-channel
+#EXTINF:-1,* 70s || Oldies, 70er, Disco, Funk, Soul, Classic Pop, Retro, Kultsongs, Evergreens, Vinyl Vibes, Groovy, Feel Good, Nostalgie, Zeitlos, Charts
+https://0nlineradio.radioho.st/0r-70s?ref=rb26
+#EXTINF:-1,__80S__ by rautemusik (rm.fm)
+https://80s-high.rautemusik.fm/?ref=radiobrowser
+#EXTINF:-1,EPIC CLASSICAL - Classical Oldies
+https://stream.epic-classical.com/classical-oldies
+#EXTINF:-1,__GOLDIES__ by rautemusik (rm.fm)
+https://goldies-high.rautemusik.fm/?ref=radiobrowser
+#EXTINF:-1,OLDIE ANTENNE
+https://s1-webradio.oldie-antenne.de/oldie-antenne?aw_0_1st.playerid=OldieAntenneWebPlayer
+#EXTINF:-1,Radio FFN - 80er
+https://stream.ffn.de/ffn-80er/?ref=radio-browser
+#EXTINF:-1,Radio FFN - Gold
+https://stream.ffn.de/ffn-gold/mp3-192?ref=radio-browser
+#EXTINF:-1,__SCHLAGER OLDIES__ by rautemusik (rm.fm)
+https://schlager-oldies-high.rautemusik.fm/?ref=radiobrowser

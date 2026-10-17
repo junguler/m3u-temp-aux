@@ -1,3 +1,21 @@
 #EXTM3U
 #EXTINF:-1,Sinnfunk
 https://radio.sinnfunk.live/listen/sinnfunk/radio.mp3
+#EXTINF:-1,CFIQ 640 "Global News Radio" Toronto, ON
+https://corus.leanstream.co/CFIQAM-MP3
+#EXTINF:-1,La Melinkana FM
+https://audio3.tustreaming.cl/7050/stream
+#EXTINF:-1,La Voz del Cipres de las Guaitecas
+https://live.lavozdelcipres.cl/radiomelinka.ogv
+#EXTINF:-1,Radio Las Nieves
+https://audio2.tustreaming.cl:10987/stream
+#EXTINF:-1,FM97 舟山交通音乐广播
+https://lhttp.qingting.fm/live/1161/64k.mp3
+#EXTINF:-1,Caracol Radio (Bogot�) - 100.9 FM / 810 AM - HJGL / HJCY - PRISA Radio - Bogot�, Colombia
+https://playerservices.streamtheworld.com/api/livestream-redirect/CARACOL_RADIOAAC.aac
+#EXTINF:-1,akiwiwa.radio
+https://akiwiwa.out.airtime.pro/akiwiwa_a
+#EXTINF:-1,kontrafunk
+https://icecast.multhielemedia.de/listen/kontrafunk/radio.mp3
+#EXTINF:-1,Radio IIII
+https://netradio.radio4.dk/radio4

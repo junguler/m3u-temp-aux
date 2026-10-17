@@ -1,3 +1,41 @@
 #EXTM3U
 #EXTINF:-1,96 FM Maceió
 https://streaming.livespanel.com:20096/radio96fm
+#EXTINF:-1,Francês FM 106,1 Maceió
+https://26643.live.streamtheworld.com/FRANCESFM_MACAAC.aac?dist=RadiosNet
+#EXTINF:-1,mexfm
+https://stm22.xcast.com.br:12658/stream.mp3
+#EXTINF:-1,planeta fm 102,7 miraguai
+https://live.paineldj.com.br/proxy/planetafmhd?mp=/stream
+#EXTINF:-1,Play Radios
+https://stream-159.zeno.fm/33vspum02t9vv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzM3ZzcHVtMDJ0OXZ2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ijc0YjU2cGhtUkRDSnlZbVNES0J1NlEiLCJpYXQiOjE3NzE5MzUxMDEsImV4cCI6MTc3MTkzNTE2MX0.GKwXmd0dg93XdTj8Q2ceMuAVLVdDuKZmSWtg48Jhlos&1771935100853
+#EXTINF:-1,Rádio 98.1 FM
+https://9526.brasilstream.com.br/stream?1771933780794
+#EXTINF:-1,Rádio Betim Web
+https://s24.maxcast.com.br:8636/live?1771864141808
+#EXTINF:-1,Rádio Boa 94.1 Fm Alagoinhas
+https://cast.radiu.live:9304/stream
+#EXTINF:-1,Rádio Futebol FM
+https://stm14.xcast.com.br:9116/stream?1771935389390
+#EXTINF:-1,Rádio Gerais 97.9 FM
+https://live.paineldj.com.br/proxy/geraisfm?mp=/stream&1771933578586
+#EXTINF:-1,Rádio Itatiunga 102.9 FM
+https://str1.streamhostpg.com.br:8100/stream
+#EXTINF:-1,Rádio Marano FM
+https://streaming.livespanel.com:21023/maranofm
+#EXTINF:-1,Rádio Montense Flash Minas 102.9 FM
+https://str02.kfmidia.com.br:6704/stream?1771879911826
+#EXTINF:-1,Rádio Nordeste FM Brasília
+https://centova3.transmissaodigital.com:20018/stream?1771934399261
+#EXTINF:-1,Rádio Paraíso 89.7 FM
+https://str02.kfmidia.com.br:8084/stream?1771932832560
+#EXTINF:-1,Rádio Play Mix FM
+https://s1.tgastream.com.br:8245/stream
+#EXTINF:-1,Rádio Roquette Pinto
+https://radio.saopaulo01.com.br/8300/stream/
+#EXTINF:-1,Radio Som Sem Fronteiras
+https://stream.zeno.fm/tplr8yve9jptv
+#EXTINF:-1,Rádio Torre
+https://stm2.aovivodigital.com.br:10642/stream?1771933020259
+#EXTINF:-1,Rádio Web Infinito 8
+https://s37.maxcast.com.br:8042/live?1771880828083

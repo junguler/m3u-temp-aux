@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,CKCL-FM 107.1 "Classical 107" Winnipeg, MB
+https://fsn-ais-relay3.leanstream.co/goldenwest/CKCLFM.stream/playlist.m3u8
+#EXTINF:-1,Beethoven - Santiago FM 
+https://unlimited4-us.dps.live/beethovenfm/aac/icecast.audio
+#EXTINF:-1,hr2-kultur 128kb mp3
+https://dispatcher.rndfnk.com/hr/hr2/live/medium
+#EXTINF:-1,SWR 2  [AAC 96k]
+https://liveradio.swr.de/sw331ch/swr2/
+#EXTINF:-1,SWR4 BW [48 aac]
+https://liveradio.swr.de/sw890cl/swr4bw/
+#EXTINF:-1,Danmarks Radio P3
+https://live-icy.dr.dk/A/A27L.mp3
+#EXTINF:-1,Catalunya Música
+https://directes-radio-int.3catdirectes.cat/live-content/catalunya-musica-hls/bitrate_1.m3u8

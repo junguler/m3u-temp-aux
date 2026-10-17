@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,MDR SCHLAGERWELT Sachsen
+https://radio-hls.mdr.de/hls/live/2112912/mdr-990801-0-hls/index.m3u8
+#EXTINF:-1,MDR SCHLAGERWELT Sachsen-Anhalt
+https://radio-hls.mdr.de/hls/live/2112911/mdr-990701-0-hls/index.m3u8
+#EXTINF:-1,MDR SCHLAGERWELT Thüringen
+https://radio-hls.mdr.de/hls/live/2112910/mdr-990601-0-hls/index.m3u8

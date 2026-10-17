@@ -59,3 +59,319 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_BHA
 https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_SPAAC.m3u8
 #EXTINF:-1,BandNews Salvador
 https://server23.srvsh.com.br:7918/live.mp3
+#EXTINF:-1,CBN - Belo Horizonte 
+https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_BHAAC.aac
+#EXTINF:-1,CBN S�o Paulo
+https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_SPAAC_SC
+#EXTINF:-1,CBN Vale
+https://8018.brasilstream.com.br/stream
+#EXTINF:-1,Jovem Pan News
+https://stream.zeno.fm/vlcraijc6yiuv
+#EXTINF:-1,R�dio Banda B
+https://ice.fabricahost.com.br/bandabctb
+#EXTINF:-1,R�dio Bandeirantes 90.9 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/RadioBandeirantesAAC.m3u8?dist=radios.com.br
+#EXTINF:-1,R�dio BandNews SP 96.9 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_SPAAC
+#EXTINF:-1,R�dio Ga�cha 93.7 FM
+https://liverdgaupoa.rbsdirect.com.br/primary/gaucha_rbs.sdp/playlist.m3u8
+#EXTINF:-1,Radio Paiquer�
+https://ice.fabricahost.com.br/paiquere917
+#EXTINF:-1,CBC Radio 1 Vancouver
+https://cbcradiolive.akamaized.net/hls/live/2041050/ES_R1PVC/master.m3u8
+#EXTINF:-1,CFIQ 640 "Global News Radio" Toronto, ON
+https://corus.leanstream.co/CFIQAM-MP3
+#EXTINF:-1,CIWW CityNews Ottawa
+https://rogers-hls.leanstream.co/rogers/ott1011.stream/playlist.m3u8
+#EXTINF:-1,CKOB "FM 106.9 Mauricie" Trois-Rivieres, QC
+https://playerservices.streamtheworld.com/api/livestream-redirect/CKOBFMAAC.m3u8
+#EXTINF:-1,CKOY "107.7 FM Estrie"  Sherbrooke, QC
+https://18193.live.streamtheworld.com/CKOYFMAAC_SC
+#EXTINF:-1,ICI Radio-Canada Premi�re Montr�al
+https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/playlist.m3u8
+#EXTINF:-1,ICI Radio-Canada Premi�re Nouveau-Brinswick
+https://rcavliveaudio.akamaized.net/hls/live/2006952/P-2EMCT0_MCT/master.m3u8
+#EXTINF:-1,Kontrafunk (Mobil)
+https://icecast.multhielemedia.de/listen/kontrafunk/mobil
+#EXTINF:-1,Radio Top (Ostschweiz)
+https://radiotop.ice.infomaniak.ch/radiotop96.aac
+#EXTINF:-1,BioBio Chile
+https://unlimited3-cl.dps.live/biobiosantiago/aac/icecast.audio
+#EXTINF:-1,Radio Bio Bio Temuco
+https://unlimited3-cl.dps.live/biobiotemuco/aac/icecast.audio
+#EXTINF:-1,Radio El Carb�n
+https://unlimited11-cl.dps.live/elcarbon/aac/icecast.audio
+#EXTINF:-1,Sonar 105.3 FM
+https://mdstrm.com/audio/5c915724519bce27671c4d15/icecast.audio?property=radiobox
+#EXTINF:-1,安徽综合广播
+https://lhttp.qtfm.cn/live/4919/64k.mp3
+#EXTINF:-1,安庆综合广播
+https://lhttp.qingting.fm/live/1965/64k.mp3
+#EXTINF:-1,安阳综合新闻广播
+https://lhttp-hw.qtfm.cn/live/15318224/64k.mp3
+#EXTINF:-1,巴彦淖尔综合广播
+https://lhttp.qtfm.cn/live/1893/64k.mp3
+#EXTINF:-1,巴音郭楞汉语综合广播
+https://lhttp-hw.qtfm.cn/live/5022108/64k.mp3?
+#EXTINF:-1,巴中综合广播
+https://lhttp.qtfm.cn/live/20210239/64k.mp3
+#EXTINF:-1,白银新闻综合广播
+https://play.kankanlive.com/live/1720516773210367.m3u8
+#EXTINF:-1,保定新闻频道
+https://lhttp.qtfm.cn/live/5022440/64k.mp3
+#EXTINF:-1,宝鸡综合广播
+https://lhttp-hw.qtfm.cn/live/15318125/64k.mp3
+#EXTINF:-1,BRTV北京新闻广播
+https://brtv-radiolive.rbc.cn/alive/fm945.m3u8
+#EXTINF:-1,CCTV-4中文国际伴音
+https://piccpndali.v.myalicdn.com/audio/cctv4_2.m3u8
+#EXTINF:-1,CCTV-4中文国际美洲伴音
+https://piccpndali.v.myalicdn.com/audio/cctvamerica_2.m3u8
+#EXTINF:-1,CCTV-4中文国际欧洲伴音
+https://piccpndali.v.myalicdn.com/audio/cctveurope_2.m3u8
+#EXTINF:-1,常德综合广播
+https://lhttp.qingting.fm/live/15318208/64k.mp3
+#EXTINF:-1,郴州综合广播
+https://lhttp.qingting.fm/live/20489/64k.mp3
+#EXTINF:-1,承德综合广播
+https://lhttp.qtfm.cn/live/20500052/64k.mp3
+#EXTINF:-1,成都新闻广播
+https://lhttp-hw.qtfm.cn/live/4897/64k.mp3
+#EXTINF:-1,池州综合广播
+https://lhttp.qingting.fm/live/5022373/64k.mp3
+#EXTINF:-1,大丰人民广播电台
+https://lhttp.qingting.fm/live/20211708/64k.mp3
+#EXTINF:-1,大连新闻综合广播
+https://lhttp-hw.qtfm.cn/live/1089/64k.mp3
+#EXTINF:-1,达州综合广播
+https://lhttp.qtfm.cn/live/5022394/64k.mp3
+#EXTINF:-1,丹东综合广播
+https://lhttp.qtfm.cn/live/1090/64k.mp3
+#EXTINF:-1,德宏综合广播
+https://lhttp.qingting.fm/live/5021849/64k.mp3
+#EXTINF:-1,德阳综合广播
+https://lhttp-hw.qtfm.cn/live/4987/64k.mp3
+#EXTINF:-1,东阳综合广播
+https://lhttp.qtfm.cn/live/21181/64k.mp3
+#EXTINF:-1,鄂州综合广播
+https://lhttp.qingting.fm/live/21025/64k.mp3
+#EXTINF:-1,恩施综合广播
+https://lhttp.qingting.fm/live/5022718/64k.mp3
+#EXTINF:-1,FM998 舟山新闻综合广播
+https://lhttp.qingting.fm/live/1160/64k.mp3
+#EXTINF:-1,抚州新闻综合广播
+https://lhttp-hw.qtfm.cn/live/20500226/64k.mp3
+#EXTINF:-1,赣州综合广播（2）
+https://lhttp.qingting.fm/live/20266/64k.mp3
+#EXTINF:-1,广安综合广播
+https://live1.gatv.com.cn:90/live/xwgb.m3u8
+#EXTINF:-1,广东新闻广播
+https://lhttp.qtfm.cn/live/1254/64k.mp3
+#EXTINF:-1,广汉人民广播电台
+https://lhttp.qingting.fm/live/20212405/64k.mp3
+#EXTINF:-1,广西综合广播
+https://stream.bbrtv.com:10443/hls/sIoyCf1Gg/sIoyCf1Gg_live.m3u8
+#EXTINF:-1,广元综合广播
+https://m3u8.channel.dzsm.com/nmip-media/audiolive/audio101953/playlist.m3u8
+#EXTINF:-1,贵阳综合广播
+https://lhttp.qtfm.cn/live/1773/64k.mp3
+#EXTINF:-1,哈尔滨综合广播
+https://stream.hrbtv.net/xwpl/playlist.m3u8
+#EXTINF:-1,邯郸新闻综合广播
+https://lhttp.qingting.fm/live/5072/64k.mp3
+#EXTINF:-1,河北综合广播
+https://radio.pull.hebtv.com/live/hebzh.m3u8
+#EXTINF:-1,河南农村广播
+https://stream.hndt.com/live/nongcun/playlist.m3u8
+#EXTINF:-1,河南新闻广播
+https://stream.hndt.com/live/xinwen/playlist.m3u8
+#EXTINF:-1,黑龙江新闻广播
+https://lhttp.qtfm.cn/live/4974/64k.mp3
+#EXTINF:-1,湖北之声（调频版）（2）
+https://lhttp.qingting.fm/live/1303/64k.mp3
+#EXTINF:-1,呼和浩特综合广播
+https://lhttp.qingting.fm/live/5021543/64k.mp3
+#EXTINF:-1,湖州综合广播
+https://lhttp.qingting.fm/live/2810/64k.mp3
+#EXTINF:-1,淮安综合广播
+https://lhttp.qtfm.cn/live/4589/64k.mp3
+#EXTINF:-1,惠州综合广播
+https://lhttp.qtfm.cn/live/5016/64k.mp3
+#EXTINF:-1,济南新闻综合广播
+https://lhttp.qtfm.cn/live/1667/64k.mp3
+#EXTINF:-1,监利电台Jianli National Radio
+https://lhttp.qtfm.cn/live/15318507/64k.mp3
+#EXTINF:-1,江西综合新闻广播
+https://lhttp.qtfm.cn/live/1809/64k.mp3
+#EXTINF:-1,焦作新闻综合广播
+https://lhttp-hw.qtfm.cn/live/5022557/64k.mp3
+#EXTINF:-1,晋城综合广播
+https://lhttp.qtfm.cn/live/1188/64k.mp3
+#EXTINF:-1,金湖综合广播
+https://lhttp.qingting.fm/live/15318464/64k.mp3
+#EXTINF:-1,金山人民广播电台
+https://lhttp.qingting.fm/live/4022/64k.mp3
+#EXTINF:-1,廊坊综合广播
+https://lhttp.qingting.fm/live/3948/64k.mp3
+#EXTINF:-1,连云港综合广播
+https://livenew.lyg1.com/LYGZHGB/playlist.m3u8
+#EXTINF:-1,凉山州综合广播
+https://lhttp.qingting.fm/live/5022143/64k.mp3
+#EXTINF:-1,辽阳综合广播
+https://lhttp.qtfm.cn/live/5022447/64k.mp3
+#EXTINF:-1,临朐人民广播电台
+https://lhttp.qingting.fm/live/20500033/64k.mp3
+#EXTINF:-1,临沂综合广播
+https://lhttp.qtfm.cn/live/3992/64k.mp3
+#EXTINF:-1,六盘水综合广播
+https://lhttp.qingting.fm/live/20211616/64k.mp3
+#EXTINF:-1,漯河综合广播mp3
+https://lhttp-hw.qtfm.cn/live/5022660/64k.mp3
+#EXTINF:-1,梅河口人民广播电台
+https://lhttp.qtfm.cn/live/20500115/64k.mp3
+#EXTINF:-1,蒙阴广播
+https://lhttp.qtfm.cn/live/15318571/64k.mp3
+#EXTINF:-1,蒙自市广播电台
+https://lhttp.qtfm.cn/live/5021599/64k.mp3
+#EXTINF:-1,弥勒人民广播电台
+https://lhttp.qingting.fm/live/5022531/64k.mp3
+#EXTINF:-1,南部新闻综合·南部人民广播电台
+https://lhttp.qingting.fm/live/20525/64k.mp3
+#EXTINF:-1,南宁综合广播
+https://lhttp.qtfm.cn/live/20358/64k.mp3
+#EXTINF:-1,南阳综合广播
+https://lhttp.qingting.fm/live/1213/64k.mp3
+#EXTINF:-1,内江综合广播
+https://www.scnj.tv/hls_njtv/live/zhgb.m3u8
+#EXTINF:-1,内蒙古新闻广播
+https://lhttp-hw.qtfm.cn/live/1881/64k.mp3
+#EXTINF:-1,怒江综合广播
+https://lhttp.qtfm.cn/live/15318176/64k.mp3
+#EXTINF:-1,蕲春综合广播
+https://lhttp.qtfm.cn/live/5022252/64k.mp3
+#EXTINF:-1,齐齐哈尔综合广播
+https://lhttp.qtfm.cn/live/20500133/64k.mp3
+#EXTINF:-1,七星关人民广播电台
+https://lhttp.qingting.fm/live/5021866/64k.mp3
+#EXTINF:-1,青海新闻综合广播
+https://lhttp-hw.qtfm.cn/live/20063/64k.mp3
+#EXTINF:-1,泉州刺桐之声
+https://lhttp.qingting.fm/live/5022360/64k.mp3
+#EXTINF:-1,泉州新闻综合广播
+https://lhttp.qingting.fm/live/15318346/64k.mp3
+#EXTINF:-1,REPLAY NEWS - 中文 每5分钟播报一次新闻的电台
+https://replaynewszh.ice.infomaniak.ch/replaynewszh-128.mp3
+#EXTINF:-1,三明综合广播
+https://lhttp.qtfm.cn/live/5022100/64k.mp3
+#EXTINF:-1,陕西新闻广播
+https://lhttp.qtfm.cn/live/1600/64k.mp3
+#EXTINF:-1,商丘交通广播
+https://lhttp.qingting.fm/live/5021932/64k.mp3
+#EXTINF:-1,商丘综合广播
+https://lhttp-hw.qtfm.cn/live/5022443/64k.mp3
+#EXTINF:-1,台州交通广播
+https://lhttp.qingting.fm/live/1146/64k.mp3
+#EXTINF:-1,台州综合广播
+https://lhttp.qingting.fm/live/1145/64k.mp3
+#EXTINF:-1,唐山综合广播
+https://lhttp.qtfm.cn/live/1657/64k.mp3
+#EXTINF:-1,天水综合频道
+https://lhttp.qtfm.cn/live/20460/64k.mp3
+#EXTINF:-1,潍坊新闻广播
+https://lhttp.qtfm.cn/live/20320/64k.mp3
+#EXTINF:-1,温州综合广播
+https://lhttp.qtfm.cn/live/1155/64k.mp3
+#EXTINF:-1,乌鲁木齐维语广播
+https://lhttp.qtfm.cn/live/1923/64k.mp3
+#EXTINF:-1,乌鲁木齐新闻广播
+https://lhttp.qingting.fm/live/1918/64k.mp3
+#EXTINF:-1,辛集综合广播
+https://lhttp.qtfm.cn/live/5021959/64k.mp3
+#EXTINF:-1,新疆蒙语广播
+https://lhttp.qtfm.cn/live/1903/64k.mp3
+#EXTINF:-1,新闻联播
+https://rfienchinois64k.ice.infomaniak.ch//rfienchinois-64.mp3
+#EXTINF:-1,新乡综合广播
+https://lhttp.qtfm.cn/live/1228/64k.mp3
+#EXTINF:-1,宣城综合广播
+https://lhttp.qingting.fm/live/5022/64k.mp3
+#EXTINF:-1,延安综合广播
+https://srs.yanews.cn/audio/FM107-7/index.m3u8
+#EXTINF:-1,盐城综合广播
+https://lhttp.qtfm.cn/live/20330/64k.mp3
+#EXTINF:-1,烟台综合广播
+https://lhttp.qtfm.cn/live/1682/64k.mp3
+#EXTINF:-1,阳江综合广播
+https://lhttp.qtfm.cn/live/15318429/64k.mp3
+#EXTINF:-1,扬州交通广播
+https://lhttp.qingting.fm/live/2804/64k.mp3
+#EXTINF:-1,扬州新闻广播
+https://lhttp.qingting.fm/live/5000/64k.mp3
+#EXTINF:-1,宜昌新闻综合广播
+https://lhttp.qingting.fm/live/20565/64k.mp3
+#EXTINF:-1,宜春新闻综合广播 FM101.1
+https://liveds-yc.newsyc.com/fmmf/sd/live.m3u8
+#EXTINF:-1,伊犁哈语广播
+https://lhttp.qingting.fm/live/5022692/64k.mp3
+#EXTINF:-1,益阳综合广播
+https://lhttp.qingting.fm/live/20314/64k.mp3
+#EXTINF:-1,仪征人民广播电台
+https://lhttp.qingting.fm/live/15318182/64k.mp3
+#EXTINF:-1,鹰潭综合广播
+https://lhttp.qingting.fm/live/5022035/64k.mp3
+#EXTINF:-1,运城综合广播（官网直播）
+https://live.0359tv.com/lsdream/4TTDb6q/live.m3u8
+#EXTINF:-1,云南新闻广播
+https://gbw.ynradio.cn/radio/xwgb.stream/playlist.m3u8
+#EXTINF:-1,郑州新闻综合广播
+https://lhttp.qtfm.cn/live/1220/64k.mp3
+#EXTINF:-1,淄博综合广播（FM89）
+https://lhttp-hw.qtfm.cn/live/1678/64k.mp3
+#EXTINF:-1,自贡综合广播
+https://lhttp.qtfm.cn/live/20207784/64k.mp3
+#EXTINF:-1,CRC 89.1 RADIO
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_89_1AAC.aac
+#EXTINF:-1,Radio Revoluci�n
+https://stream.zeno.fm/ftcx2988uwzuv
+#EXTINF:-1,ČRo Plus
+https://rozhlas.stream/plus_mp3_128.mp3
+#EXTINF:-1,ČRO Radiožurnál Sport
+https://rozhlas.stream/radiozurnal_sport_high.aac
+#EXTINF:-1,Крым.Реалии
+https://rfe-ingest.akamaized.net/hls/live/2035288/axia19/playlist.m3u8
+#EXTINF:-1,Antenne Unna
+https://antenneunna--di--nacs-ais-lgc--07--cdn.cast.addradio.de/antenneunna/live/mp3/high
+#EXTINF:-1,BR24
+https://dispatcher.rndfnk.com/br/br24/live/mp3/mid
+#EXTINF:-1,BR24 (HLS 192)
+https://br-radio.ard-mcdn.de/br/radio/br24/hls/192/seglist.m3u8
+#EXTINF:-1,BR24 (HLS 96)
+https://br-radio.ard-mcdn.de/br/radio/br24/hls/96/seglist.m3u8
+#EXTINF:-1,BR24live
+https://dispatcher.rndfnk.com/br/br24live/live/mp3/mid
+#EXTINF:-1,NDR Info Hamburg
+https://icecast.ndr.de/ndr/ndrinfo/hamburg/mp3/128/stream.mp3?1728425407515&aggregator=web
+#EXTINF:-1,Radio L�beck
+https://s35.derstream.net/radioluebeck-192.mp3
+#EXTINF:-1,SWR Aktuell | 48k aac
+https://liveradio.swr.de/sw890cl/swraktuell/
+#EXTINF:-1,SWR3
+https://liveradio.swr.de/sw282p3/swr3/play.mp3
+#EXTINF:-1,WDR-2 Bewrgisch Land
+https://wdr-wdr2-bergischesland.icecastssl.wdr.de/wdr/wdr2/bergischesland/mp3/128/stream.mp3
+#EXTINF:-1,Radio Diablo (AAC)
+https://radio1.jfmtech.dk/diablo.aac
+#EXTINF:-1,Radio IIII
+https://netradio.radio4.dk/radio4
+#EXTINF:-1,Cadena 100 Barcelona
+https://cadena100bcn-cope.flumotion.com/playlist.m3u8
+#EXTINF:-1,Cadena SER Almer�a 88.2 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ALMERIA.mp3
+#EXTINF:-1,Cadena SER Canarias
+https://sonic.globalstreaming.net/8146/stream
+#EXTINF:-1,Cadena SER Pontevedra
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_PONTEVEDRA.mp3
+#EXTINF:-1,Canal Sur Noticias Andalucia
+https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
+#EXTINF:-1,copesal
+https://salamanca-copesedes-rrcast.flumotion.com/copesedes/salamanca-low.mp3

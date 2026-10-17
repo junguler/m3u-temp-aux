@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,R�dio Grenal
+https://grenal.audiostream.com.br:20000/aac
+#EXTINF:-1,BPM 91,9
+https://18103.live.streamtheworld.com/CKLXFMAAC.aac
+#EXTINF:-1,CJCL Sportsnet 590 The Fan
+https://rogers-hls.leanstream.co/rogers/tor590.stream/playlist.m3u8
+#EXTINF:-1,CJCL Sportsnet 590 The Fan (Alt Stream)
+https://rogers-hls.leanstream.co/rogers/tor590_alt.stream/48k/playlist.m3u8
+#EXTINF:-1,BRTV北京体育广播
+https://brtv-radiolive.rbc.cn/alive/fm1025.m3u8
+#EXTINF:-1,CCTV-5体育伴音
+https://piccpndali.v.myalicdn.com/audio/cctv5_2.m3u8
+#EXTINF:-1,DLR-3 大连体育广播
+https://lhttp.qingting.fm/live/1085/64k.mp3

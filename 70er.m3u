@@ -1,3 +1,29 @@
 #EXTM3U
 #EXTINF:-1,Arabella 70 r
 https://frontend.streams.arabella.at/arabella-70er?aggregator=arabella-playlistfile
+#EXTINF:-1,- 0 N - 70s on Radio
+https://0n-70s.radionetz.de/0n-70s.mp3
+#EXTINF:-1,- 0 N - 70s on Radio
+https://0n-70s.radionetz.de/0n-70s.aac
+#EXTINF:-1,- 0 N - Disco on Radio
+https://0n-disco.radionetz.de/0n-disco.aac
+#EXTINF:-1,- 0 N - Disco on Radio
+https://0n-disco.radionetz.de/0n-disco.mp3
+#EXTINF:-1,0nlineradio GREATEST HITS
+https://stream.0nlineradio.com/greatest-hits?ref=radiobrowser
+#EXTINF:-1,- 1 A - 70er von 1A Radio
+https://1a-70er.radionetz.de/1a-70er.aac
+#EXTINF:-1,- 1 A - 70er von 1A Radio
+https://1a-70er.radionetz.de/1a-70er.mp3
+#EXTINF:-1,1000 70er - laut.fm
+https://100070er.stream.laut.fm/100070er
+#EXTINF:-1,Arabella Bayern
+https://live.stream.radioarabella.de/radioarabella-bayern?aggregator=araby
+#EXTINF:-1,Deutscher Soldatensender von 1970
+https://deutschersoldatensendervon1970.stream.laut.fm/deutscher_soldatensender_von_1970?t302=2026-01-15_07-15-24&uuid=12738ea1-febe-467d-8212-2b73cbf6c5a0
+#EXTINF:-1,MDR SACHSEN – Das Sachsenradio
+https://mdr-radio-hls.akamaized.net/hls/live/2112890/mdr-284280-3-hls/index.m3u8
+#EXTINF:-1,MDR THÜRINGEN – Das Radio
+https://mdr-radio-hls.akamaized.net/hls/live/2112899/mdr-284300-1-hls/index.m3u8
+#EXTINF:-1,RPR1. 70er
+https://stream.rpr1.de/70er/mp3-128/radiobrowser

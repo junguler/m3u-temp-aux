@@ -1,3 +1,9 @@
 #EXTM3U
 #EXTINF:-1,Radio UBA 87.9
 https://radiostreaming.rec.uba.ar:8000/LiveRadioUBA
+#EXTINF:-1,Radio FM Universidad de Antofagasta 99.9
+https://sonicstream-puntual.grupozgh.cl/8040/radioua
+#EXTINF:-1,Radio UNAP 101.9
+https://sonic.portalfoxmix.club/8276/stream
+#EXTINF:-1,UFRO Radio
+https://mdstrm.com/audio/5e7d00bf57988307b310abff/live.m3u8

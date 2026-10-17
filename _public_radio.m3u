@@ -55,3 +55,181 @@ https://lb-hls.cdn.bg/2032/fls/Shumen.stream/playlist.m3u8
 https://lb-hls.cdn.bg/2032/fls/Kardzhali.stream/playlist.m3u8
 #EXTINF:-1,Radio Busovača
 https://ec2s.crolive.com.hr:1510/stream
+#EXTINF:-1,Educativa FM Macei�
+https://radio.saopaulo01.com.br/9370/stream
+#EXTINF:-1,FM Cultura 107,7
+https://streaming.procergs.com.br:8443/fmcultura/sfmcultura/chunklist_w644085663.m3u8
+#EXTINF:-1,R�dio MEC AM
+https://radiomec-stream.ebc.com.br/ebc/radiomec/playlist.m3u8
+#EXTINF:-1,R�dio Nacional Alto Solim�es
+https://radionacionalaltosolimoes-stream.ebc.com.br/ebc/radionacionalaltosolimoes/playlist.m3u8
+#EXTINF:-1,R�dio Nacional Amaz�nia
+https://radionacionalamazonia-stream.ebc.com.br/ebc/radionacionalamazonia/playlist.m3u8
+#EXTINF:-1,R�dio Nacional Bras�lia AM
+https://radionacionalbrasilia-stream.ebc.com.br/index.m3u8
+#EXTINF:-1,R�dio Nacional S�o Lu�s
+https://radionacionalfmsl-stream.ebc.com.br/index.m3u8
+#EXTINF:-1,R�dio Nacional S�o Paulo
+https://radionacionalfmsp-stream.ebc.com.br/ebc/radionacionalfmsp/playlist.m3u8
+#EXTINF:-1, #1 RdMix Love Songs
+https://maggie.torontocast.com:2020/stream/rdmixlovesongs
+#EXTINF:-1, #100 BEST IBIZA DEEP HOUSE
+https://stream.zeno.fm/lwv6zqgtv1dtv
+#EXTINF:-1,# 100 GREATEST CLASSICAL MUSIC
+https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3
+#EXTINF:-1,# 100 GREATEST HEAVY METAL
+https://cast1.torontocast.com:4660/stream
+#EXTINF:-1,# 100 GREATEST JAZZ LOUNGE BAR
+https://cast1.torontocast.com:4640/stream
+#EXTINF:-1, # 70s 80s 90s RdMix Network
+https://cast1.torontocast.com:1830/stream
+#EXTINF:-1,CBC North - Iqaluit, NU
+https://27033.live.streamtheworld.com/CFFBAM_CBC_SC
+#EXTINF:-1,CBC Radio 1 Calgary (CBR - 1010 AM, 99.1 FM)
+https://cbcradiolive.akamaized.net/hls/live/2041039/ES_R1MCG/master.m3u8
+#EXTINF:-1,CBC Radio 1 Vancouver
+https://cbcradiolive.akamaized.net/hls/live/2041050/ES_R1PVC/master.m3u8
+#EXTINF:-1,CBC Radio One - Barrie, ON
+https://26733.live.streamtheworld.com/CBCOFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Calgary, AB (MP3 stream)
+https://26373.live.streamtheworld.com/CBR1FM_CBC_SC
+#EXTINF:-1,CBC Radio One - Charlottetown, PE
+https://26283.live.streamtheworld.com/CBCTFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Corner Brook, NL (MP3 Stream)
+https://26733.live.streamtheworld.com/CBYAM_CBC_SC
+#EXTINF:-1,CBC Radio One Edmonton 
+https://26373.live.streamtheworld.com/CBXAM_CBC_SC
+#EXTINF:-1,CBC Radio One - Fredericton, NB (MP3 stream)
+https://26283.live.streamtheworld.com/CBZFFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Grand Falls-Windsor, NL (MP3 stream)
+https://26183.live.streamtheworld.com/CBGAM_CBC_SC
+#EXTINF:-1,CBC Radio One - Happy Valley-Goose Bay, NL (MP3 stream)
+https://26733.live.streamtheworld.com/CFGB_CBC_SC
+#EXTINF:-1,CBC Radio One - Inuvik, NT (MP3 stream)
+https://26373.live.streamtheworld.com/CHAK_CBC_SC
+#EXTINF:-1,CBC Radio One - Kamloops, BC (MP3 stream)
+https://27033.live.streamtheworld.com/CBYKFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Kelowna, BC (MP3 stream)
+https://27033.live.streamtheworld.com/CBTKFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Kingston, ON (MP3 stream)
+https://27243.live.streamtheworld.com/CBCKFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Kitchener-Waterloo, ON (MP3 stream)
+https://26733.live.streamtheworld.com/CBLAFM2_CBC_SC
+#EXTINF:-1,CBC Radio One - London, ON (MP3 stream)
+https://26733.live.streamtheworld.com/CBCLFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Moncton, NB (MP3 stream)
+https://14123.live.streamtheworld.com/CBAMFM_CBC_SC
+#EXTINF:-1,CBC Radio One Montr�al
+https://cbcradiolive.akamaized.net/hls/live/2041030/ES_R1EMT/master.m3u8
+#EXTINF:-1,CBC Radio One - Montreal, QC (MP3 stream)
+https://27033.live.streamtheworld.com/CBMEFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Nord Quebec (MP3 stream)
+https://cbcradiolive.akamaized.net/hls/live/2040992/ES_R1ECB/master.m3u8
+#EXTINF:-1,CBC Radio One - Ottawa, ON (MP3 stream)
+https://17813.live.streamtheworld.com/CBOFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Peterborough, ON (MP3 stream)
+https://26373.live.streamtheworld.com/CBCPFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Prince George, BC (MP3 stream)
+https://26373.live.streamtheworld.com/CBYGFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Quebec City, QC (MP3)
+https://27033.live.streamtheworld.com/CBVEFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Regina, SK (MP3 stream)
+https://27033.live.streamtheworld.com/CBKRFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Saint John, NB (MP3 stream)
+https://26733.live.streamtheworld.com/CBDFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Saskatoon, SK (MP3 stream)
+https://27033.live.streamtheworld.com/CBK1FM_CBC_SC
+#EXTINF:-1,CBC Radio One - St. John's, NL (MP3 stream)
+https://26733.live.streamtheworld.com/CBN1_CBC_SC
+#EXTINF:-1,CBC Radio One - Sudbury, ON (MP3 stream)
+https://26283.live.streamtheworld.com/CBCSFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Sydney, NS (MP3 stream)
+https://26283.live.streamtheworld.com/CBIS_CBC_SC
+#EXTINF:-1,CBC Radio One - Thunder Bay, ON (MP3 stream)
+https://26733.live.streamtheworld.com/CBQTFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Toronto, ON (MP3 stream)
+https://26733.live.streamtheworld.com/CBLAFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Vancouver, BC (MP3 stream)
+https://22983.live.streamtheworld.com/CBU2FM_CBC_SC
+#EXTINF:-1,CBC Radio One - Victoria, BC (MP3 stream)
+https://27033.live.streamtheworld.com/CBCVFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Windsor, ON (MP3 stream)
+https://26283.live.streamtheworld.com/CBEWFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Winnipeg, MB (MP3 stream)
+https://26373.live.streamtheworld.com/CBWAM_CBC_SC
+#EXTINF:-1,CBC Radio One - Yellowknife, NT (MP3)
+https://27033.live.streamtheworld.com/CFYKFM_CBC_SC
+#EXTINF:-1,ICI Radio-Canada Premi�re Edmonton - 90.1 FM (CHFA-FM)
+https://rcavliveaudio.akamaized.net/hls/live/2006949/P-2AEDM0_EDM/master.m3u8
+#EXTINF:-1, # RdMix Classic Rock 70s 80s 90s
+https://cast1.torontocast.com:4610/stream
+#EXTINF:-1, # RdMix DJSET 70s 80s 90s
+https://cast1.torontocast.com:4560/stream
+#EXTINF:-1, # RdMix Italo Disco 80s
+https://cast1.torontocast.com:2130/stream
+#EXTINF:-1,丹东综合广播
+https://lhttp.qtfm.cn/live/1090/64k.mp3
+#EXTINF:-1,贵阳综合广播
+https://lhttp.qtfm.cn/live/1773/64k.mp3
+#EXTINF:-1,衡阳综合广播
+https://lhttp.qtfm.cn/live/15318386/64k.mp3
+#EXTINF:-1,乐山综合广播
+https://lhttp.qtfm.cn/live/1122/64k.mp3
+#EXTINF:-1,凉山州综合广播
+https://lhttp.qingting.fm/live/5022143/64k.mp3
+#EXTINF:-1,辽宁资讯广播
+https://lhttp.qtfm.cn/live/5022018/64k.mp3
+#EXTINF:-1,梅河口人民广播电台
+https://lhttp.qtfm.cn/live/20500115/64k.mp3
+#EXTINF:-1,南通综合广播
+https://lhttp.qtfm.cn/live/21277/64k.mp3
+#EXTINF:-1,怒江综合广播
+https://lhttp.qtfm.cn/live/15318176/64k.mp3
+#EXTINF:-1,吴江综合广播
+https://lhttp.qtfm.cn/live/5022050/64k.mp3
+#EXTINF:-1,乌鲁木齐维语广播
+https://lhttp.qtfm.cn/live/1923/64k.mp3
+#EXTINF:-1,无锡新闻综合广播AM1161
+https://lhttp.qtfm.cn/live/2776/64k.mp3
+#EXTINF:-1,无锡新闻综合广播FM93.7
+https://lhttp.qtfm.cn/live/2777/64k.mp3
+#EXTINF:-1,祥符广播919
+https://lhttp.qtfm.cn/live/20500156/64k.mp3
+#EXTINF:-1,萧山综合广播
+https://l.cztvcloud.com/channels/lantian/SXxiaoshanaud1/128k.m3u8
+#EXTINF:-1,新疆蒙语广播
+https://lhttp.qtfm.cn/live/1903/64k.mp3
+#EXTINF:-1,义安电台
+https://lhttp.qingting.fm/live/5021979/64k.mp3
+#EXTINF:-1,永川之声100.7
+https://lhttp.qtfm.cn/live/20210236/64k.mp3
+#EXTINF:-1,永康电台FM106.6
+https://lhttp.qtfm.cn/live/5022570/64k.mp3
+#EXTINF:-1,ČRo Plus
+https://rozhlas.stream/plus_mp3_128.mp3
+#EXTINF:-1,ČRO Radiožurnál Sport
+https://rozhlas.stream/radiozurnal_sport_high.aac
+#EXTINF:-1,1LIVE
+https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3
+#EXTINF:-1,70's 80's 90's Riw Vintage Channel
+https://stream.laut.fm/70s-80s-90s-riw-vintage-channel
+#EXTINF:-1, Bremen Zwei NEU
+https://icecast.radiobremen.de/rb/bremenzwei/live/mp3/128/stream.mp3
+#EXTINF:-1,_DEEJAY REMIXE_ Your Radio for finest House, EDM, Electro, Dance, Mashup, Hypertechno, Techno, Bootleg, Charts, Top40, Chillout, Lounge, HipHop, Urban & Latin Party DJ Remixes!
+https://breakz-high.rautemusik.fm/?ref=radiobrowser-deejay-remixes-radio
+#EXTINF:-1,hr1 192k AAC
+https://hlshr1.akamaized.net/hls/live/2016533/hr1osthessen/192/seglist.m3u8
+#EXTINF:-1,RadioSelection
+https://live.radio-selection.de/onair
+#EXTINF:-1,SACHSEN eins
+https://stream.sachsen-media.de/sachsen-media-sachseneins/mp3-192?ref=radio-browser
+#EXTINF:-1,# TOP 100 - PartyBreakZ @ DJ Mixe, Partyremixe, Remix Radio, Remix Charts, DJ Remix, Mashup, Remix Hits, Deejay Remix Radio, Partymix, Dance Music, Techno & Hypertechno, Top40, Latin Charts, Reggaeton, Urban, HipHop, Club & Party Radio - & LIVE DJ SETS
+https://breakz-high.rautemusik.fm/?ref=radiobrowser-partybreakz
+#EXTINF:-1,WDR 4 M�nsterland
+https://icecast.wdr.de/wdr/wdr4/muensterland/mp3/128/stream.mp3
+#EXTINF:-1,WDR 4 Rhein und Ruhr
+https://icecast.wdr.de/wdr/wdr4/rheinruhr/mp3/128/stream.mp3
+#EXTINF:-1,WDR 4 Rheinland
+https://icecast.wdr.de/wdr/wdr4/rheinland/mp3/128/stream.mp3
+#EXTINF:-1,WDR 4 S�dwestfalen
+https://icecast.wdr.de/wdr/wdr4/suedwestfalen/mp3/128/stream.mp3

@@ -3,3 +3,13 @@
 https://mediaserviceslive.akamaized.net/hls/live/2038347/triplejqld/masterhq.m3u8
 #EXTINF:-1,SYN FM
 https://23163.live.streamtheworld.com/3SYNAAC_SC
+#EXTINF:-1,Rádio Mix 106.3 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC.aac
+#EXTINF:-1,1LIVE DIGGI
+https://wdr-radio.ard-mcdn.de/wdr/radio/1livediggi/hls/master.m3u8
+#EXTINF:-1,N-JOY HQ
+https://ndr-radio.ard-mcdn.de/ndr/radio/njoy/hls/192/seglist.m3u8
+#EXTINF:-1,Radio Fritz
+https://dispatcher.rndfnk.com/rbb/fritz/live/mp3/mid
+#EXTINF:-1,SWR dasding
+https://liveradio.swr.de/d9zadj3/dasding/

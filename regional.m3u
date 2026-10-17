@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,R�dio Cultura FM 100.9 Bras�lia DF
+https://ssl1.transmissaodigital.com:20028/live
+#EXTINF:-1,RTN
+https://rtn.ice.infomaniak.ch/rtn-high.mp3
+#EXTINF:-1,Český rozhlas České Budějovice
+https://rozhlas.stream/ceske_budejovice_high.aac
+#EXTINF:-1,Radio Bonn / Rhein-Sieg
+https://rbrs-live.cast.addradio.de/rbrs/live/mp3/high

@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,bigFM Baden-Württemberg
+https://stream.bigfm.de/bw/mp3-128/radio-browser
+#EXTINF:-1,bigFM Berlin
+https://stream.bigfm.de/berlin/mp3-128/radio-browser
+#EXTINF:-1,bigFM Deutschland
+https://stream.bigfm.de/deutschland/mp3-128/radio-browser
+#EXTINF:-1,bigFM Hamburg
+https://stream.bigfm.de/hamburg/mp3-128/radio-browser
+#EXTINF:-1,bigFM Rheinland-Pfalz
+https://stream.bigfm.de/rlp/mp3-128/radio-browser
+#EXTINF:-1,Radio Regenbogen Baden & die Pfalz
+https://stream.regenbogen.de/mannheim/mp3-128/radiobrowser
+#EXTINF:-1,Radio Regenbogen Baden-Württemberg
+https://stream.regenbogen.de/karlsruhe/mp3-128/radiobrowser
+#EXTINF:-1,Radio Regenbogen Südbaden
+https://stream.regenbogen.de/freiburg/mp3-128/radiobrowser

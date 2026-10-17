@@ -1,3 +1,11 @@
 #EXTM3U
 #EXTINF:-1,Radio Maria Joven
 https://01.solumedia.com.ar:8114/login/index.php
+#EXTINF:-1,Rádio Agnus Dei FM
+https://hts03.brascast.com:9144/live
+#EXTINF:-1,EWTN Canada
+https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
+#EXTINF:-1,Radio Maria Chinese
+https://onair7.xdevel.com/proxy/xautocloud_nwct_1310?mp=/;stream/
+#EXTINF:-1,EWTN Europe
+https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8

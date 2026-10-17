@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1,Ta Radio
+https://stream.taradio.ch/dab
+#EXTINF:-1,0nlineradio KARNEVAL
+https://stream.0nlineradio.com/karneval?ref=radiobrowser
+#EXTINF:-1,Ella Radio - Live Jazz
+https://stream.ella-radio.de/ella-live-jazz/mp3-192/?ref=radio-browser
+#EXTINF:-1,FESTIVAL RADIO
+https://stream.regenbogen2.de/festivalradio/mp3-128/radio-browser
+#EXTINF:-1,RADIO PSR LIVE Dresden
+https://regiocast.streamabc.net/regc-psrlivesnddn-mp3-192-9227639?sABC=6968363o%230%23q280o0r09ns9qpq3889p9qqn13p5753s%23fgernzf.enqvbcfe.qr&aw_0_1st.playerid=streams.radiopsr.de&amsparams=playerid:streams.radiopsr.de;skey:1768437307
+#EXTINF:-1,sunshine live - Classic & Vocal House
+https://stream.sunshine-live.de/vocalhouse/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,sunshine live - Vocal Trance
+https://sunsl.streamabc.net/sunsl-vocaltrance-mp3-192-5826863?sABC=696859p6%230%23q280o0r09ns9qpq3889p9qqn13p5753s%23fgernz.fhafuvar-yvir.qr&aw_0_1st.playerid=stream.sunshine-live.de&amsparams=playerid:stream.sunshine-live.de;skey:1768446406
+#EXTINF:-1,>> *TOP 100 CHARTS* <<  || Pop, Rock, Dance, House, Techno, Trance, Electro, Hip-Hop, Rap, RnB, Reggaeton, Latin, Jazz, Blues, Soul, Funk, Metal, Punk, Indie, Alternative, Chillout, Lounge, Ambient, Classical, Acoustic, Singer-Songwriter, Party, Top 40, H
+https://breakz-2012-high.rautemusik.fm/?ref=rb010326
+#EXTINF:-1,* TOP 100 CLUB CHARTS * | DJ TOP 100 | UP-TO-DATE | DJ CHARTS - CLUBBING HITS - - DEEP HOUSE - LOUNGE -  DANCE - TECHNO - RAVE - EDM - HOUSE - TECHHOUSE - REMIX - TRANCE - HARDSTYLE - MINIMAL - IBIZA - CHILLOUT - LOUNGE - URBAN - HIP HOP - RNB - SUMMER IB
+https://breakz-high.rautemusik.fm/?ref=rb26-t100clubcharts
+#EXTINF:-1,WELT TV Live
+https://welt.personalstream.tv/v1/master.m3u8
+#EXTINF:-1,Cadena SER - Radio Zamora
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_ZAMORA.mp3

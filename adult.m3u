@@ -1,3 +1,21 @@
 #EXTM3U
 #EXTINF:-1,Atos FM
 https://s.bul.tec.br:8020/128
+#EXTINF:-1,Fita Cassete
+https://server01.ouvir.radio.br:8018/stream
+#EXTINF:-1,Mais FM Uirauna
+https://streaming.livespanel.com:20101/maisfm1011
+#EXTINF:-1,Rádio Antena 1 94.7 FM
+https://antenaone.crossradio.com.br/stream/1;
+#EXTINF:-1,Rádio Band Vale 102.9 FM
+https://centova5.transmissaodigital.com:20061/;
+#EXTINF:-1,Rádio Clock 94,1 FM
+https://azura4.cmaudioevideo.com:8040/radio.aac
+#EXTINF:-1,Rádio Kboing 100.3 FM
+https://stream.knbcdn.com.br/kboing-fm/kbostream/playlist.m3u8
+#EXTINF:-1,Rádio Saudade FM 99.7
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAUDADE_FMAAC.aac
+#EXTINF:-1,Rádio Transamérica 100.1 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/RT_SPAAC.aac
+#EXTINF:-1,Rio Sul Radio
+https://stream.riosulradio.com/

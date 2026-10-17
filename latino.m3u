@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1,Altura FM
+https://club.asdmedios.cl/listen/alturafm/radio.mp3
+#EXTINF:-1,Contando Radio
+https://stream.integracionvirtual.com/proxy/contando?mp=/stream
+#EXTINF:-1,elbaulsalsero
+https://stream.zeno.fm/tpsecnamx4zuv
+#EXTINF:-1,Fiesta 106.2 FM
+https://server1.intermediacolombia.com:8006/stream
+#EXTINF:-1,La Discoteca Radio
+https://streamingmediaradio.live:8002/stream
+#EXTINF:-1,La Máxima 89.1 FM
+https://streamming.dobitsoluciones.com:7032/live
+#EXTINF:-1,Olímpica Stereo Pereira
+https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_PEREIRAAAC.aac?dist=oro_web
+#EXTINF:-1,Radio Tango
+https://stream.zeno.fm/uxxf2xaxdzzuv
+#EXTINF:-1,Salsa y mas Cali
+https://stream.zeno.fm/42w3pfn7pzzuv
+#EXTINF:-1,100 % SALSA
+https://stm01.streammaximum.com:8194/;

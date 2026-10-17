@@ -31,3 +31,13 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BAA
 https://emiteradio.com/proxy/monteroradio?mp=/stream
 #EXTINF:-1,Radio Estrella 93.1 FM
 https://cesarradio.realserver.es/listen/lne_93.1/radio.mp3
+#EXTINF:-1,LOS40 Chile
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CHILEAAC.aac
+#EXTINF:-1,RADIO 24-7 CHILE
+https://broadcast.radio247.net/radio/8000/;
+#EXTINF:-1,CROSSOVER ESTEREO
+https://stream.zeno.fm/9rxqd1fndkeuv
+#EXTINF:-1,Urbano 106 - 105.9 FM - San José, Costa Rica
+https://usa18.fastcast4u.com/proxy/rmoohhrw?mp=/1
+#EXTINF:-1,Flama Plus 104.5 FM
+https://streaming.viphosting.cl/8286/stream?ver=541539

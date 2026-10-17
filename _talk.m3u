@@ -89,3 +89,195 @@ https://lb-hls.cdn.bg/2032/fls/Kardzhali.stream/playlist.m3u8
 https://webtvstream.bhtelecom.ba/bh_radio1.m3u8
 #EXTINF:-1,BandNews FM Belo Horizonte
 https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_BHAAC.aac
+#EXTINF:-1,R�dio 95 FM 95.7 Alagoinhas
+https://stream.zenolive.com/t799cry0yv8uv
+#EXTINF:-1,R�dio Nacional Alto Solim�es
+https://radionacionalaltosolimoes-stream.ebc.com.br/ebc/radionacionalaltosolimoes/playlist.m3u8
+#EXTINF:-1,R�dio Nacional Amaz�nia
+https://radionacionalamazonia-stream.ebc.com.br/ebc/radionacionalamazonia/playlist.m3u8
+#EXTINF:-1,R�dio Nacional Bras�lia AM
+https://radionacionalbrasilia-stream.ebc.com.br/index.m3u8
+#EXTINF:-1,R�dio Nacional Rio de Janeiro
+https://radionacionalrio-stream.ebc.com.br/ebc/radionacionalriodejaneiro/playlist.m3u8
+#EXTINF:-1,R�dio Nacional S�o Lu�s
+https://radionacionalfmsl-stream.ebc.com.br/index.m3u8
+#EXTINF:-1,R�dio Nacional S�o Paulo
+https://radionacionalfmsp-stream.ebc.com.br/ebc/radionacionalfmsp/playlist.m3u8
+#EXTINF:-1,Udesc FM Joinville - FM 91,9 MHz
+https://icecast.loopert.com/81
+#EXTINF:-1,VOB 92.9 FM
+https://ice66.securenetsystems.net:80/VOB929
+#EXTINF:-1,630 CHED
+https://corus.leanstream.co/CHEDAM-MP3
+#EXTINF:-1, # 70s 80s 90s RdMix Network
+https://cast1.torontocast.com:1830/stream
+#EXTINF:-1,CBC Radio 1 Halifax
+https://cbcradiolive.akamaized.net/hls/live/2040987/ES_R1AHF/master.m3u8
+#EXTINF:-1,CBC Radio 1 Ottawa (CBO-FM)
+https://cbcradiolive.akamaized.net/hls/live/2041037/ES_R1ETT/adaptive_128/chunklist_ao.m3u8
+#EXTINF:-1,CBC Radio One Montr�al
+https://cbcradiolive.akamaized.net/hls/live/2041030/ES_R1EMT/master.m3u8
+#EXTINF:-1,CHVN-FM
+https://goldenwest.leanstream.co/goldenwest/CHVNFM.stream/playlist.m3u8
+#EXTINF:-1,CIOG-FM harvesters.fm 
+https://harvestersciog.radioca.st/CIOG
+#EXTINF:-1,CITA-FM Harvesters FM
+https://harvestersfm.radioca.st/NB
+#EXTINF:-1,CIWW CityNews Ottawa
+https://rogers-hls.leanstream.co/rogers/ott1011.stream/playlist.m3u8
+#EXTINF:-1,CJAD 800
+https://26113.live.streamtheworld.com/CJADAM_SC
+#EXTINF:-1,CJCA AM930 The Light
+https://shinefm.streamguys1.com/cjca
+#EXTINF:-1,CJCL Sportsnet 590 The Fan
+https://rogers-hls.leanstream.co/rogers/tor590.stream/playlist.m3u8
+#EXTINF:-1,CJCL Sportsnet 590 The Fan (Alt Stream)
+https://rogers-hls.leanstream.co/rogers/tor590_alt.stream/48k/playlist.m3u8
+#EXTINF:-1,CJLI am700 The Light 
+https://shinefm.streamguys1.com/cjli
+#EXTINF:-1,CJMD 96.9  Levis, QC 
+https://arcq.streamb.live/SB00213
+#EXTINF:-1,CJRP-FM - Alive FM Saint John Canada
+https://us9.streamingpulse.com/ssl/NewsongFM
+#EXTINF:-1,CJRY 105.9 Shinefm
+https://shinefm.streamguys1.com/cjry
+#EXTINF:-1,CKOB "FM 106.9 Mauricie" Trois-Rivieres, QC
+https://playerservices.streamtheworld.com/api/livestream-redirect/CKOBFMAAC.m3u8
+#EXTINF:-1,CKOY "107.7 FM Estrie"  Sherbrooke, QC
+https://18193.live.streamtheworld.com/CKOYFMAAC_SC
+#EXTINF:-1,Fontainblau
+https://listen.radioking.com/radio/866526/stream/936461
+#EXTINF:-1,ICI Radio-Canada Premi�re Edmonton - 90.1 FM (CHFA-FM)
+https://rcavliveaudio.akamaized.net/hls/live/2006949/P-2AEDM0_EDM/master.m3u8
+#EXTINF:-1,ICI Radio-Canada Premi�re Montr�al
+https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/playlist.m3u8
+#EXTINF:-1,ICI Radio-Canada Premi�re Nouveau-Brinswick
+https://rcavliveaudio.akamaized.net/hls/live/2006952/P-2EMCT0_MCT/master.m3u8
+#EXTINF:-1,加拿大中文电台FM.96.1
+https://5b2959fe11444.streamlock.net/radio/fm961.stream/playlist.m3u8
+#EXTINF:-1,Мегаполис Торонто
+https://c25.radioboss.fm:8297/stream
+#EXTINF:-1,Nuxalk Radio
+https://openbroadcaster.nuxalkradio.com/
+#EXTINF:-1,Radio VM
+https://s5.radio.co/sec326ff8a/listen
+#EXTINF:-1,Zoomer Radio (CFZM AM 740 / 96.7 FM)
+https://prod-18-204-34-32.amperwave.net/mzmedia-cfzmammp3-ibc2?session-id=7f61a0b7aa7cfc6006b36a5a2f948303
+#EXTINF:-1,Kontrafunk (AAC 64)
+https://s5.radio.co/sca4082ebb/low
+#EXTINF:-1,Kontrafunk (Mobil)
+https://icecast.multhielemedia.de/listen/kontrafunk/mobil
+#EXTINF:-1,B�o-B�o Concepci�n 98.1
+https://unlimited3-cl.dps.live/biobioconcepcion/aac/icecast.audio
+#EXTINF:-1,B�o-B�o Los �ngeles 96.7
+https://unlimited11-cl.dps.live/biobiolosangeles/aac/icecast.audio
+#EXTINF:-1,Radio Edelweiss
+https://encoder.stationlink.cl/listen/edelweiss/radio.mp3
+#EXTINF:-1,Raxies FM
+https://stream.zeno.fm/annpmyskb4jtv
+#EXTINF:-1,大庆综合广播
+https://lhttp.qtfm.cn/live/20500060/64k.mp3
+#EXTINF:-1,FM998 舟山新闻综合广播
+https://lhttp.qingting.fm/live/1160/64k.mp3
+#EXTINF:-1,广州市番禺区广播电台
+https://lhttp.qtfm.cn/live/20212427/64k.mp3
+#EXTINF:-1,贺州综合广播
+https://lhttp.qtfm.cn/live/5043/64k.mp3
+#EXTINF:-1,济南都市广播
+https://lhttp.qtfm.cn/live/5022333/64k.mp3
+#EXTINF:-1,济南故事广播
+https://lhttp.qtfm.cn/live/1672/64k.mp3
+#EXTINF:-1,济南经济广播
+https://lhttp.qtfm.cn/live/1668/64k.mp3
+#EXTINF:-1,昆明综合广播
+https://lhttp.qtfm.cn/live/1934/64k.mp3
+#EXTINF:-1,辽宁之声
+https://lhttp.qingting.fm/live/1103/64k.mp3?app_id=web
+#EXTINF:-1,临淄广播·公信971
+https://lhttp-hw.qtfm.cn/live/20212204/64k.mp3
+#EXTINF:-1,松原大众生活
+https://lhttp.qtfm.cn/live/5082/64k.mp3
+#EXTINF:-1,枣庄综合广播
+https://lhttp.qtfm.cn/live/1686/64k.mp3
+#EXTINF:-1,长沙新闻广播
+https://lhttp.qtfm.cn/live/4877/64k.mp3
+#EXTINF:-1,周口综合广播
+https://lhttp.qtfm.cn/live/20212215/64k.mp3
+#EXTINF:-1,Blu Radio Bogot� 89.9
+https://playerservices.streamtheworld.com/api/livestream-redirect/BLURADIO.mp3
+#EXTINF:-1,Blu Radio (Medell�n) 97.9 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/BLU_MEDELLIN_ADP.aac
+#EXTINF:-1,Caracol Radio (Bogot�) - 100.9 FM / 810 AM - HJGL / HJCY - PRISA Radio - Bogot�, Colombia
+https://playerservices.streamtheworld.com/api/livestream-redirect/CARACOL_RADIOAAC.aac
+#EXTINF:-1,La FM- Barranquilla
+https://cl-a3-p-e-av11-audio.cdn.mdstrm.com/live-audio-aw/632cbdb5202d6801a31785b0
+#EXTINF:-1,La Voz del Cinaruco 1050 AM
+https://radiolatina.info/7438/stream/
+#EXTINF:-1,RADIO INFORMATIVA DE COLOMBIA
+https://stream.zeno.fm/uhaugz8qk3rtv
+#EXTINF:-1,CRC 89.1 RADIO
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_89_1AAC.aac
+#EXTINF:-1,Comedy Club R@dio DIANA
+https://westradio.cz/radio/8010/radio.mp3
+#EXTINF:-1,ČRO Radiožurnál Sport
+https://rozhlas.stream/radiozurnal_sport_high.aac
+#EXTINF:-1,Крым.Реалии
+https://rfe-ingest.akamaized.net/hls/live/2035288/axia19/playlist.m3u8
+#EXTINF:-1,Deutschlandfunk Dokumente und Debatten | DLF | AAC 192k
+https://st04.sslstream.dlf.de/dlf/04/high/aac/stream.aac?aggregator=web
+#EXTINF:-1,Deutschlandfunk Dokumente und Debatten | DLF | AAC 48k
+https://st04.sslstream.dlf.de/dlf/04/low/aac/stream.aac?aggregator=web
+#EXTINF:-1,Deutschlandfunk Dokumente und Debatten | DLF | AAC 96k
+https://st04.sslstream.dlf.de/dlf/04/mid/aac/stream.aac?aggregator=web
+#EXTINF:-1,Deutschlandfunk Dokumente und Debatten | DLF | MP3 128k
+https://st04.sslstream.dlf.de/dlf/04/128/mp3/stream.mp3?aggregator=web
+#EXTINF:-1,NDR Info Hamburg
+https://icecast.ndr.de/ndr/ndrinfo/hamburg/mp3/128/stream.mp3?1728425407515&aggregator=web
+#EXTINF:-1,omaneo Kaffeewissen
+https://radio.omaneo.de/listen/kaffeewissen/radio.mp3
+#EXTINF:-1,omaneo Kaffeewissen (English)
+https://radio.omaneo.de/listen/kaffeewissen_en/radio.mp3
+#EXTINF:-1,omaneo Kaffeewissen (espa�ol)
+https://radio.omaneo.de/listen/kaffeewissen_es/radio.mp3
+#EXTINF:-1,omaneo Kaffeewissen (fran�ais)
+https://radio.omaneo.de/listen/kaffeewissen_fr/radio.mp3
+#EXTINF:-1,omaneo Podcast
+https://radio.omaneo.de/listen/omaneo_podcast/radio.mp3
+#EXTINF:-1,radio aktiv Hameln
+https://live.radio-aktiv.de/r-aktiv.mp3
+#EXTINF:-1,Radio Fritz
+https://dispatcher.rndfnk.com/rbb/fritz/live/mp3/mid
+#EXTINF:-1,Radio N�rburgring @RPR1.
+https://stream.rpr1.de/nbr/mp3-128/radiobrowser
+#EXTINF:-1,RTL NFL Radio
+https://stream.rtlradio.de/rtlnfl/mp3-128/website/
+#EXTINF:-1,Startup.Radio
+https://s2.radio.co/sb16d65602/listen
+#EXTINF:-1,WDR COSMO -- (https)
+https://wdr-cosmo-live.icecastssl.wdr.de/wdr/cosmo/live/mp3/128/stream.mp3
+#EXTINF:-1,WDR5
+https://wdr-radio.ard-mcdn.de/wdr/radio/wdr5/hls/master.m3u8
+#EXTINF:-1,Danmarks Radio P6
+https://live-icy.dr.dk/A/A29H.mp3
+#EXTINF:-1,Historyradio.org low bandwidth
+https://cast1.asurahosting.com/proxy/historyr/stream.mp3
+#EXTINF:-1,Kalaallit Nunaata Radioa
+https://knr.gl/radiolivestream
+#EXTINF:-1,Radio Humleborg
+https://stream2.rcast.net/64145
+#EXTINF:-1,Modelo 97.7 FM
+https://usa3.lhdserver.es:8197/stream
+#EXTINF:-1,7.7 RADIO LA PALMA (FM 88.3 - 99.8)
+https://radioserver11.profesionalhosting.com/proxy/suoqgqzc?mp=/stream
+#EXTINF:-1,99.9 Plaza Radio Valencia
+https://stream1.solstreaming.com:8112/stream
+#EXTINF:-1,Agro Radio 103.0
+https://sonicpanel.streamsolutions.us/8038/stream
+#EXTINF:-1,AIthropology Lab FM
+https://it.tail7acb88.ts.net/aithropology.mp3
+#EXTINF:-1,Canal Sur Radio Andaluc�a
+https://rtva-live-radio.flumotion.com/rtva/csr.mp3
+#EXTINF:-1,Capital Radio Madrid
+https://mdstrm.com/audio/67d2a8685ae4234de49e40f6/live.m3u8?_=1748201428470&dnt=true&player=67bf8d9eb8fdbbe59cb3dc1e&uid=ZGjN46saKhxpR9l4R89Rah2jvFyKlii2&sid=Ylu5J6JhzLU9YYjHNlrKub2B78xqLdvG&pid=FM2735sWw0sy8ShSstpnBPcUEKzC3DWC&an=lightning-player&at=web-app&av=v1.0.19&sc=0&ds=67bf8b74ff9cc60dd3e575b4&ref=www.capitalradio.es&res=1600x900
+#EXTINF:-1,Catalunya Informaci� (Catinfo)
+https://shoutcast.ccma.cat/ccma/catalunyainformacioHD.mp3

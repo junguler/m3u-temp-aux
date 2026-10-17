@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,FluxFM Yoga Sounds | 64k AAC
+https://fluxmusic.api.radiosphere.io/channels/yoga-sounds/stream.aac?quality=1
+#EXTINF:-1,FluxFM Yoga Sounds | 64k MP3
+https://fluxmusic.api.radiosphere.io/channels/yoga-sounds/stream.mp3?quality=1

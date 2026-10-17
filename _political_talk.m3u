@@ -1,3 +1,11 @@
 #EXTM3U
 #EXTINF:-1,Radio U 96.5
 https://fm.uncu.edu.ar/
+#EXTINF:-1,Radio Universidad de Chile
+https://sonic-us.arkeo.cl/8186/stream
+#EXTINF:-1,Caracol Radio (Bogotá) - 100.9 FM / 810 AM - HJGL / HJCY - PRISA Radio - Bogotá, Colombia
+https://playerservices.streamtheworld.com/api/livestream-redirect/CARACOL_RADIOAAC.aac
+#EXTINF:-1,WDR 5 [aac]
+https://wdrhf.akamaized.net/hls/live/2027996-b/wdr5/192/seglist.m3u8
+#EXTINF:-1,Radio IIII
+https://netradio.radio4.dk/radio4

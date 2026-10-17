@@ -1,3 +1,19 @@
 #EXTM3U
 #EXTINF:-1,La Cible
 https://quincy.torontocast.com:3195/stream
+#EXTINF:-1,Radio Bellissima Relax M3U
+https://listen.openstream.co/3607/audio
+#EXTINF:-1,0nlineradio CHILLOUT
+https://stream.0nlineradio.com/chillout?ref=radiobrowser
+#EXTINF:-1,0R - MUSIC FOR SLEEP || Sleep, Relax, Calm, Meditation, Nature, Ambient, Soft Music, Piano, Deep Sleep, Peaceful, Chill, Background, Slow, Gentle, Instrumental
+https://0nlineradio.radioho.st/classical-classical-music-for-sleep?ref=radio-browser26
+#EXTINF:-1,#1 Splash Love
+https://ais-sa2.cdnstream1.com/2210_128.mp3
+#EXTINF:-1,Metropol FM Koblenz
+https://streams.metropolfm.de/METROPOLFMKoblenz/stream.aac
+#EXTINF:-1,__TRAURIG__ by rautemusik (rm.fm)
+https://traurig-high.rautemusik.fm/?ref=radiobrowser
+#EXTINF:-1,1 Slow-Radio - laut.fm
+https://1slowradio.stream.laut.fm/1_slowradio
+#EXTINF:-1,#1 Splash Coffee
+https://ais-sa2.cdnstream1.com/2345_128.mp3

@@ -7,3 +7,7 @@ https://mediaserviceslive.akamaized.net/hls/live/2038331/locallongreach/masterhq
 https://mediaserviceslive.akamaized.net/hls/live/2038304/localbrisbane/masterhq.m3u8
 #EXTINF:-1,Life FM - Bathurst - 100.1 FM (MP3)
 https://stream2.cnmns.net/lifefmbathurst
+#EXTINF:-1,CJSF
+https://www.cjsf.ca/streaming
+#EXTINF:-1,Radio Universidad de Chile
+https://sonic-us.arkeo.cl/8186/stream

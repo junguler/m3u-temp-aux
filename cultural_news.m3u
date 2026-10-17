@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,Radio Prostor
+https://bcast.spmmedia.cz/prostor-mp3
+#EXTINF:-1,NDR Info (Hamburg) ( MP3 HTTPS-deeplink)
+https://icecast.ndr.de/ndr/ndrinfo/hamburg/mp3/128/stream.mp3

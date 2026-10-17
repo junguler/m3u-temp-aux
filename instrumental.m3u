@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,instrumentales
+https://protvradiostream.com:8350/live
+#EXTINF:-1,Rádio Máquina Instrumental
+https://servidor29-2.brlogic.com:8578/live
+#EXTINF:-1,Rádio MEC AM
+https://radiomec-stream.ebc.com.br/ebc/radiomec/playlist.m3u8
+#EXTINF:-1,Web Rádio NelSons
+https://stm4.srvstm.com:9716/stream
+#EXTINF:-1,Zeno 
+https://stream-169.zeno.fm/0anygxe1b1duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwYW55Z3hlMWIxZHV2IiwiaG9zdCI6InN0cmVhbS0xNjkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InZMNHZGcFJuU0YtWjFsSlV1WEtFdkEiLCJpYXQiOjE
+#EXTINF:-1,95.5 Jazz 
+https://streaming.radio.co/s36bd2a451/listen
+#EXTINF:-1,Mother Earth Instrumental
+https://stream.motherearthradio.de/listen/motherearth_instrumental/motherearth.instrumental.aac
+#EXTINF:-1,Piano Dreams
+https://stream.laut.fm/piano-dreams

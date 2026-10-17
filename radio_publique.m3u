@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1,Radio Canada Ici Première (Abitibi-Témiscamingue) Rouyn-Noranda, QC
+https://rcavliveaudio.akamaized.net/hls/live/2006955/P-2QROU0_ROU/master.m3u8
+#EXTINF:-1,Radio Canada Ici Première (Bas-Saint-Laurent) Rimouski, QC
+https://rcavliveaudio.akamaized.net/hls/live/2006651/P-2QRIM0_RIM/master.m3u8
+#EXTINF:-1,Radio Canada Ici Première (Colombie-Britannique-Yukon, Grand Nord) Vancouver, BC
+https://rcavliveaudio.akamaized.net/hls/live/2006975/P-2BVAN0_VAN/master.m3u8
+#EXTINF:-1,Radio Canada Ici Première (Côte-Nord) Sept-Iles, QC
+https://rcavliveaudio.akamaized.net/hls/live/2006970/P-2QSEP0_SEP/master.m3u8
+#EXTINF:-1,Radio Canada Ici Première (Estrie) Sherbrooke, QC
+https://rcavliveaudio.akamaized.net/hls/live/2006971/P-2QSHE0_SHE/master.m3u8
+#EXTINF:-1,Radio Canada Ici Première (Gaspésie-Îles-de-la-Madeleine) Matane, QC
+https://rcavliveaudio.akamaized.net/hls/live/2006951/P-2QMAT0_MAT/master.m3u8
+#EXTINF:-1,Radio Canada Ici Première (Île-du-Prince-Édouard) Charlottetown, PE
+https://rcavliveaudio.akamaized.net/hls/live/2006948/P-2EMCT3_CHR/master.m3u8
+#EXTINF:-1,Radio Canada Ici Première (Manitoba) Winnipeg, MB
+https://rcavliveaudio.akamaized.net/hls/live/2006977/P-2MWIN0_WIN/master.m3u8
+#EXTINF:-1,Radio Canada Ici Première (Mauricie-Centre-du-Québec) Trois-Rivieres, QC
+https://rcavliveaudio.akamaized.net/hls/live/2006974/P-2QTRV0_TRV/master.m3u8
+#EXTINF:-1,Radio Canada Ici Première - Montréal, QC
+https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/master.m3u8
+#EXTINF:-1,Radio Canada Ici Première (Nord de l'Ontario) Sudbury, ON
+https://rcavliveaudio.akamaized.net/hls/live/2006972/P-2OSUB0_SUB/master.m3u8
+#EXTINF:-1,Radio Canada Ici Première (Nouvelle-Écosse, Terre-Neuve-et-Labrador) Halifax, NS
+https://rcavliveaudio.akamaized.net/hls/live/2006950/P-2EMCT2_HAL/master.m3u8
+#EXTINF:-1,Radio Canada Ici Première (Ottawa-Gatineau) Ottawa, ON
+https://rcavliveaudio.akamaized.net/hls/live/2006652/P-2OOTT0_OTT/master.m3u8
+#EXTINF:-1,Radio Canada Ici Première Quebec City, QC
+https://rcavliveaudio.akamaized.net/hls/live/2006953/P-2QQUE0_QUE/master.m3u8
+#EXTINF:-1,Radio Canada Ici Première (Saguenay-Lac-Saint-Jean) Saguenay, QC
+https://rcavliveaudio.akamaized.net/hls/live/2006969/P-2QSAG0_SAG/master.m3u8
+#EXTINF:-1,Radio Canada Ici Première (Saskatchewan) Regina, SK
+https://rcavliveaudio.akamaized.net/hls/live/2006954/P-2SREG0_REG/master.m3u8
+#EXTINF:-1,Radio Canada Ici Première Toronto, ON
+https://rcavliveaudio.akamaized.net/hls/live/2006973/P-2OTOR0_TOR/master.m3u8
+#EXTINF:-1,Radio Canada Ici Première Windsor, ON
+https://rcavliveaudio.akamaized.net/hls/live/2006976/P-2OWDR0_WDR/master.m3u8

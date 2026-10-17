@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1,Q-music België
 https://streams.radio.dpgmedia.cloud/redirect/qmusic_be/aac
+#EXTINF:-1,Radio Argovia Hit Mix
+https://stream.streambase.ch/hitmix/mp3-192/direct/
+#EXTINF:-1,1LIVE Top Hits
+https://wdr-1live-tophits.icecast.wdr.de/wdr/1live/tophits/mp3/128/stream.mp3

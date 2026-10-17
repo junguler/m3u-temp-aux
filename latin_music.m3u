@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,Olimpica Stereo 101.5 Fm Sincelejo
+https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_SINCELEJOAAC.aac?1715700010
+#EXTINF:-1,Olimpica Stereo 90.5 Fm Monteria
+https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_MONTERIAAAC_SC?1715699972
+#EXTINF:-1,Radio Guatapuri
+https://sonic.paulatina.co/7106/stream?1715700597
+#EXTINF:-1,Maretimo Latin Radio
+https://s35.derstream.net/maretimo-latin.mp3?
+#EXTINF:-1,La Voz del Tomebamba 1070 AM
+https://streamingecuador.net:8074/lavozdeltomebamba
+#EXTINF:-1,Radio Onda Positiva 94.1 FM
+https://streamingecuador.net:8011/radioondapositiva
+#EXTINF:-1,Radio Quito 760 AM
+https://streamingecuador.net:8332/radioquito?1679294453918

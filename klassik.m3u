@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,Klassik Radio - 101.3 FM berlin
+https://stream.klassikradio.de/national/mp3-192/konsoleplayer
+#EXTINF:-1,wdr3 256
+https://wdr-wdr3-live.icecastssl.wdr.de/wdr/wdr3/live/mp3/256/stream.mp3

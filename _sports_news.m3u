@@ -5,3 +5,23 @@ https://streaming1.locucionar.com/proxy/lt9?mp=/stream?rand=718352759
 https://playerservices.streamtheworld.com/api/livestream-redirect/GPRDANCE.mp3
 #EXTINF:-1,Radio Zuidrand - Hove, be
 https://shoutcast2.wirelessbelgie.be/zuidrand/;audio.mp3
+#EXTINF:-1,CBN Rio de Janeiro 92.5 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_RJ_ADP.m3u8
+#EXTINF:-1,CFAC "Sportsnet 960" Calgary, AB
+https://rogers-hls.leanstream.co/rogers/cal960.stream/playlist.m3u8
+#EXTINF:-1,CKJR "Sports 1440" Wetaskiwin, AB (AAC Stream)
+https://newcap.leanstream.co/CKJRAM
+#EXTINF:-1,CKJR "Sports 1440" Wetaskiwin, AB (MP3 Stream)
+https://newcap.leanstream.co/CKJRAM-MP3
+#EXTINF:-1,Blu Radio (Medell�n) 97.9 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/BLU_MEDELLIN_ADP.aac
+#EXTINF:-1,Radio Viva Fenix Ipiales (HJB29, 89.1 MHz FM)
+https://radiolatina.info/8170/stream
+#EXTINF:-1,Radio Viva Fenix Ipiales (HJNM, 1220 kHz AM)
+https://radiolatina.info/8172/stream
+#EXTINF:-1,Radio Viva Fenix Pasto (HJFV, 780 kHz AM)
+https://radiolatina.info/8166/stream
+#EXTINF:-1,ČRO Radiožurnál sport AdHoc stream 2
+https://rozhlas.stream/radiozurnal_sport_adhoc_2_high.mp3
+#EXTINF:-1,Radio Prostor
+https://bcast.spmmedia.cz/prostor-mp3

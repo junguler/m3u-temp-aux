@@ -3,3 +3,21 @@
 https://cdn.instream.audio/:9051/stream
 #EXTINF:-1,ATB Radio
 https://streamingenbolivia.com/8006/stream
+#EXTINF:-1,Super Radiopatos FM
+https://10.stmip.net:8794/
+#EXTINF:-1,Alternativa FM
+https://radio.tvstream.cl/8056/stream
+#EXTINF:-1,Costa Radio Barranquilla En Vivo
+https://stream.zeno.fm/hcdc0qxgafmuv
+#EXTINF:-1,La FM
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio/6271a4d5d206c3172f3c9a9c/632c9b23d1dcd7027f32f7fe/chunks.m3u8
+#EXTINF:-1,La FM Noticias Medellín
+https://co-e1-p-e-aa1-audio.cdn.mdstrm.com/live-audio-aw/632c9d81bc02c60329991f25
+#EXTINF:-1,La Voz de Bogotá
+https://tupanel.info:2000/stream/lavozdebogota/stream/1/
+#EXTINF:-1,Madrigal Stereo (Barranquilla)
+https://streaming.radiosenlinea.com.ar/8096/stream/1/
+#EXTINF:-1,Melodía Stereo
+https://r90.letio.com/io/?gs=7000&type=master.m3u8
+#EXTINF:-1,W Radio FM (Bogotá)
+https://playerservices.streamtheworld.com/api/livestream-redirect/WRADIO_SC

@@ -13,3 +13,69 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWHATA
 https://icecast-qmusicbe-cdp.triple-it.nl/q-allstars.aac
 #EXTINF:-1,Smart Radio City
 https://live.smartradio.city/listen/city/radio.mp3
+#EXTINF:-1,GOLD WEB RADIO (224kbps/mp3)
+https://centova.svdns.com.br:19418/stream2
+#EXTINF:-1,GOLD WEB RADIO (32kbps/aacPlus)
+https://centova.svdns.com.br:19418/stream
+#EXTINF:-1,Rádio Studio Flashback
+https://stream-163.zeno.fm/6gv76f1xruquv?zs=SvdWy-tsTtCXPZ9IZC0ASA
+#EXTINF:-1,Torres FM 101,1
+https://cast4.audiostream.com.br:2661/mp3
+#EXTINF:-1, #1 RdMix Love Songs
+https://maggie.torontocast.com:2020/stream/rdmixlovesongs
+#EXTINF:-1,# 100 GREATEST HEAVY METAL
+https://cast1.torontocast.com:4660/stream
+#EXTINF:-1, # 70s 80s 90s RdMix Network
+https://cast1.torontocast.com:1830/stream
+#EXTINF:-1,CFDV "106.7 Rewind Radio" Red Deer, AB
+https://stream.jpbgdigital.com/CFDV.m3u8
+#EXTINF:-1,CHBW 94.5 "Rewind Radio" Rocky Mountain House, AB 
+https://stream.jpbgdigital.com/CHBW/HEAAC/48k/playlist.m3u8
+#EXTINF:-1,CKNG-FM "The Chuck 92.5" Edmonton, AB (AAC Stream)
+https://corus.leanstream.co/CKNGFM
+#EXTINF:-1,CKNG-FM "The Chuck 92.5" Edmonton, AB (MP3 Stream)
+https://corus.leanstream.co/CKNGFM-MP3
+#EXTINF:-1, # RdMix Classic Rock 70s 80s 90s
+https://cast1.torontocast.com:4610/stream
+#EXTINF:-1, # RdMix DJSET 70s 80s 90s
+https://cast1.torontocast.com:4560/stream
+#EXTINF:-1,RDMIX ITALIAN VINTAGE 70 80 90
+https://maggie.torontocast.com:2020/stream/rdmixitalianvintage
+#EXTINF:-1,Riverwood Radio
+https://a12.asurahosting.com/listen/riverwood_radio/mp3stream.mp3
+#EXTINF:-1,La FM Plus 96.9 - Medellín
+https://co-e1-p-e-aa1-audio.cdn.mdstrm.com/live-audio-aw/632cb5dd08346a0889655d9d
+#EXTINF:-1,BIKERS RADIO DOUPE
+https://icecast7.play.cz/bikersradiodoupe128.mp3
+#EXTINF:-1,0nlineradio 90s
+https://stream.0nlineradio.com/90s?ref=radiobrowser
+#EXTINF:-1,0R - 90s || 90s Pop, 90s Hits, Eurodance, Hip Hop, R&B, Grunge, Alternative, Techno, Trance, Dance, Chill, Boyband, Girlband, Pop Rock, Nostalgic
+https://0nlineradio.radioho.st/0r-90s?ref=radio-browser26
+#EXTINF:-1,70's 80's 90's Riw Vintage Channel
+https://stream.laut.fm/70s-80s-90s-riw-vintage-channel
+#EXTINF:-1,Antenne Brandenburg Frankfurt Oder (AAC)
+https://antbrb-frankfurt.akamaized.net/hls/live/2017000-b/rbb_antbrb-frankfurt/192/seglist.m3u8
+#EXTINF:-1,ffn 708090
+https://ffn-de-hz-fal-stream09-cluster01.radiohost.de/ffn-708090_mp3-192
+#EXTINF:-1,__GOLDIES__ by rautemusik (rm.fm)
+https://goldies-high.rautemusik.fm/?ref=radiobrowser
+#EXTINF:-1,Gute Laune Welle
+https://gute-laune-welle.stream.laut.fm/gute-laune-welle?;stream.mp3
+#EXTINF:-1,Radio Hellbach
+https://server3.streamserver-unlimited.de:8569/stream1
+#EXTINF:-1,Sven Braam
+https://s1.stream-world24.de:8502/player
+#EXTINF:-1,Technolovers EURODANCE
+https://stream.technolovers.fm/eurodance?ref=radiobrowser
+#EXTINF:-1,#TOP 200 DJ CHARTS - JUST MUSIC - DJ REMIX & CHARTS RADIO @ TikTok Charts, Electronic Music, EDM, House, Deep House, Dance Music, Techno & Hypertechno, Top40, Latin Charts, Reggaeton, Urban, HipHop, Club & Party Radio - & LIVE DJ SETS @ Festival Melodic H
+https://breakz-high.rautemusik.fm/stream.mp3?ref=DJCHARTSRB
+#EXTINF:-1,# TOP 40 DEEJAY CHARTS â€“  CLUB CHARTS NONSTOP - DANCE & DJ MIX RADIO - 24 HOURS NON-STOP MUSIC @ TikTok Hits, Ibiza House, Sunset Lounge, Melodic Music, EDM, Deep House, Dance Music, Techno, Techhouse & Hypertechno, Rave Charts, Top 40 Charts, Latin, Regg
+https://breakz-high.rautemusik.fm/?ref=26T40
+#EXTINF:-1,Radio Stinesen
+https://st1.stinesen.dk/StineM320
+#EXTINF:-1,Radio Victoria Esbjerg
+https://stream.probroadcast.dk/victoria
+#EXTINF:-1,#1 Splash 90s
+https://c4.auracast.net/radio/8050/radio.mp3
+#EXTINF:-1,#1 Splash 90s Dance
+https://c6.auracast.net/radio/8090/radio.mp3

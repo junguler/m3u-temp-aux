@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,auténtica radio 97.1 el copey cesar
+https://radio35.virtualtronics.com/proxy/autenticaradio?mp=/stream
+#EXTINF:-1,Melodía Stereo
+https://r90.letio.com/io/?gs=7000&type=master.m3u8
+#EXTINF:-1,Vibra FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/VIBRA_SC
+#EXTINF:-1,Viejitas pero Bonitas Radio
+https://stream.zeno.fm/fpzw6c6ootzvv

@@ -1,3 +1,21 @@
 #EXTM3U
 #EXTINF:-1,Ecos de mis Cerros
 https://masservidor.net:7163/;
+#EXTINF:-1,Bohemia RAVEL
+https://stream.zeno.fm/qypbs4hv9p2tv
+#EXTINF:-1,Radio 1040 (1040 AM)
+https://streamming.dobitsoluciones.com:7036/live
+#EXTINF:-1,Radio Recuerdos 1230 AM
+https://radio35.virtualtronics.com/proxy/radiorecuerdos?mp=/;
+#EXTINF:-1,- 0 N - Gold on Radio
+https://0n-gold.radionetz.de/0n-gold.aac
+#EXTINF:-1,- 0 N - Gold on Radio
+https://0n-gold.radionetz.de/0n-gold.mp3
+#EXTINF:-1,- 0 N - Schlager Gold on Radio
+https://0n-schlagergold.radionetz.de/0n-schlagergold.aac
+#EXTINF:-1,- 0 N - Schlager Gold on Radio
+https://0n-schlagergold.radionetz.de/0n-schlagergold.mp3
+#EXTINF:-1,- 1 A - Schlager Gold von 1A Radio
+https://1a-schlagergold.radionetz.de/1a-schlagergold.aac
+#EXTINF:-1,- 1 A - Schlager Gold von 1A Radio
+https://1a-schlagergold.radionetz.de/1a-schlagergold.mp3

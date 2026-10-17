@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,Duna
+https://hls-audio-cl-1-isp.dps.live/duna/gotardis/audio/now/livestream1.m3u8
+#EXTINF:-1,Blu Radio (Medellín) 97.9 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/BLU_MEDELLIN_ADP.aac

@@ -1,3 +1,65 @@
 #EXTM3U
 #EXTINF:-1,Antenne Vorarlberg 70er Hits
 https://web.radio.antennevorarlberg.at/av-70er
+#EXTINF:-1,# 100 GREATEST HEAVY METAL
+https://cast1.torontocast.com:4660/stream
+#EXTINF:-1, # RdMix Classic Rock 70s 80s 90s
+https://cast1.torontocast.com:4610/stream
+#EXTINF:-1, # RdMix DJSET 70s 80s 90s
+https://cast1.torontocast.com:4560/stream
+#EXTINF:-1,- 0 N - Evergreens on Radio
+https://0n-evergreens.radionetz.de/0n-evergreens.aac
+#EXTINF:-1,- 0 N - Evergreens on Radio
+https://0n-evergreens.radionetz.de/0n-evergreens.mp3
+#EXTINF:-1,- 0 N - Jukebox on Radio
+https://0n-jukebox.radionetz.de/0n-jukebox.mp3
+#EXTINF:-1,- 0 N - Jukebox on Radio
+https://0n-jukebox.radionetz.de/0n-jukebox.aac
+#EXTINF:-1,- 0 N - Oldies on Radio
+https://0n-oldies.radionetz.de/0n-oldies.aac
+#EXTINF:-1,- 0 N - Oldies on Radio
+https://0n-oldies.radionetz.de/0n-oldies.mp3
+#EXTINF:-1,- 1 A - Oldies von 1A Radio
+https://1a-oldies.radionetz.de/1a-oldies.mp3
+#EXTINF:-1,- 1 A - Oldies von 1A Radio
+https://1a-oldies.radionetz.de/1a-oldies.aac
+#EXTINF:-1,#1 Splash 70s
+https://c4.auracast.net/radio/8040/radio.mp3
+#EXTINF:-1,1000 Oldies - laut.fm
+https://1000oldies.stream.laut.fm/1000oldies
+#EXTINF:-1,70's 80's 90's Riw Vintage Channel
+https://stream.laut.fm/70s-80s-90s-riw-vintage-channel
+#EXTINF:-1,* 70s || Oldies, 70er, Disco, Funk, Soul, Classic Pop, Retro, Kultsongs, Evergreens, Vinyl Vibes, Groovy, Feel Good, Nostalgie, Zeitlos, Charts
+https://0nlineradio.radioho.st/0r-70s?ref=rb26
+#EXTINF:-1,Berliner Rundfunk 60er & 70er
+https://topradio-stream19.radiohost.de/brf-60er-70er_mp3-128
+#EXTINF:-1,__GOLDIES__ by rautemusik (rm.fm)
+https://goldies-high.rautemusik.fm/?ref=radiobrowser
+#EXTINF:-1,MDR SACHSEN-ANHALT – Das Radio wie wir
+https://mdr-radio-hls.akamaized.net/hls/live/2112894/mdr-284290-2-hls/index.m3u8
+#EXTINF:-1,MDR SACHSEN-ANHALT Dessau
+https://radio-hls.mdr.de/hls/live/2112896/mdr-284290-1-hls/index.m3u8
+#EXTINF:-1,MDR SACHSEN-ANHALT Halle
+https://radio-hls.mdr.de/hls/live/2112894/mdr-284290-2-hls/index.m3u8
+#EXTINF:-1,MDR SACHSEN-ANHALT Magdeburg
+https://radio-hls.mdr.de/hls/live/2112893/mdr-284290-0-hls/index.m3u8
+#EXTINF:-1,MDR SACHSEN-ANHALT Stendal
+https://radio-hls.mdr.de/hls/live/2112895/mdr-284290-3-hls/index.m3u8
+#EXTINF:-1,Oldiefans - Das Original
+https://server7.streamserver24.com:8080/proxy/stekonig?mp=/stream
+#EXTINF:-1,Plattenkiste - von Oldies aus den 50er'n bis zu Hits von morgen
+https://stream.laut.fm/plattenkiste
+#EXTINF:-1,Radio FFN - Gold
+https://stream.ffn.de/ffn-gold/mp3-192?ref=radio-browser
+#EXTINF:-1,Radio Regenbogen Oldies
+https://stream.regenbogen.de/oldies/mp3-128/radiobrowser
+#EXTINF:-1,RadioFunAndMore,RadioFunAndMore
+https://radiofunandmore.sp.radio.fm/stream
+#EXTINF:-1,REGENBOGEN 2 – BEATLES
+https://stream.regenbogen2.de/beatles/mp3-128/radiobrowser
+#EXTINF:-1,RPR1. Oldies
+https://stream.rpr1.de/oldies/mp3-128/radiobrowser
+#EXTINF:-1,SWR $ Balladen
+https://d131.rndfnk.com/ard/swr/swr/raka18/aac/96/stream.aac?aggregator=web&cid=01FCZB1DP17DM4KJNR60SSASFP&sid=3ElSIypHcedYtVNdVy8SscS8UrD&token=CfYS7zKDXLjaaHWlTRiTcnGSgCbsaf9QWNO3PLvjZZ8&tvf=0yL-QseTthhkMTMxLnJuZGZuay5jb20
+#EXTINF:-1,1 Slow-Radio - laut.fm
+https://1slowradio.stream.laut.fm/1_slowradio

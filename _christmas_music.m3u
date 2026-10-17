@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1, Radio Bellissima Christmas
+https://puma.streemlion.com:1340/stream
+#EXTINF:-1,Radio R Louange
+https://radiorlouange.ice.infomaniak.ch/radiorlouange-96.aac
+#EXTINF:-1,0nlineradio AMERICAN CHRISTMAS
+https://stream.0nlineradio.com/us-christmas?ref=radiobrowser
+#EXTINF:-1,0nlineradio CHRISTMAS
+https://stream.0nlineradio.com/christmas?ref=radiobrowser
+#EXTINF:-1,#1 Splash Christmas
+https://ais-sa2.cdnstream1.com/2553_128.mp3
+#EXTINF:-1,1000 Weihnachten
+https://stream.laut.fm/1000weihnachten
+#EXTINF:-1,__CHRISTMAS CHOR__ by rautemusik (rm.fm)
+https://christmas-chor-high.rautemusik.fm/?ref=radiobrowser
+#EXTINF:-1,__CHRISTMAS SCHLAGER__ by rautemusik (rm.fm)
+https://christmas-schlager-high.rautemusik.fm/?ref=radiobrowser
+#EXTINF:-1,Christmasradio24
+https://stream.laut.fm/christmasradio24
+#EXTINF:-1,Ella Radio - Christmas Jazz
+https://stream.ella-radio.de/ella-christmas-jazz/mp3-192?ref=radio-browser
+#EXTINF:-1,EPIC CLASSICAL - Classical Christmas
+https://stream.epic-classical.com/classical-christmas
+#EXTINF:-1,__KRASSE WEIHNACHTEN__ by rautemusik (rm.fm)
+https://weihnachten-high.rautemusik.fm/?ref=radiobrowser
+#EXTINF:-1,Nordpolradio
+https://stream.laut.fm/nordpolradio
+#EXTINF:-1,Radio Regenbogen Christmas Hits
+https://stream.regenbogen.de/christmas/mp3-128/radiobrowser
+#EXTINF:-1,radio SAW-Weihnachten
+https://stream.radiosaw.de/saw-weihnachten/mp3-192/radio-browser/
+#EXTINF:-1,REYFM - #xmas
+https://listen.reyfm.de/xmas_320kbps.mp3
+#EXTINF:-1,__THE CHRISTMAS CHANNEL__ by rautemusik (rm.fm)
+https://christmas-high.rautemusik.fm/?ref=radiobrowser
+#EXTINF:-1,weihnachtsmusik.fm choere
+https://streams.weihnachtsmusik.fm/choere/mp3-192/surfmusik

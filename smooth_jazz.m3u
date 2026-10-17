@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,CIWV-FM "Wave 98.3" Vancouver, BC
+https://stream2.statsradio.com:8152/stream
+#EXTINF:-1,Stingray Smoot Jazz
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1,Easylounge
+https://stream.laut.fm/livestream
+#EXTINF:-1,Laut.fm - Easylounge
+https://stream.laut.fm/easylounge
+#EXTINF:-1,NUCROOZE
+https://stream.nucrooze.com/listen/nucrooze/radio.mp3
+#EXTINF:-1,Radio Deluxe Easy
+https://audiostreams.deluxemusic.tv/easy/mp3-128/audiostreams.deluxemusic.tv/
+#EXTINF:-1,Costa Del Mar Smooth Jazz
+https://radio4.cdm-radio.com:18024/stream-mp3-Smooth

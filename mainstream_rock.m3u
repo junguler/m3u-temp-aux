@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,106.1 CHEZ
+https://rogers-hls.leanstream.co/rogers/ott1061.stream/playlist.m3u8
+#EXTINF:-1,CJRQ-FM "92.7 Rock" Sudbury, ON
+https://rogers-hls.leanstream.co/rogers/sud927.stream/playlist.m3u8
+#EXTINF:-1,CKLZ-FM 104.7 "The Lizard" Kelowna, BC 
+https://stream.jpbgdigital.com/CKLZ.m3u8
+#EXTINF:-1,CKSE 106.1 "Rock 106" Estevan, SK
+https://goldenwest.leanstream.co/CKSEFM

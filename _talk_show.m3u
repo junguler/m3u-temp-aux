@@ -5,3 +5,11 @@ https://eu1.reliastream.com/proxy/mdr?mp=/MDR
 https://eu1.reliastream.com/proxy/mhr?mp=/MHR
 #EXTINF:-1,Radio Busovača
 https://ec2s.crolive.com.hr:1510/stream
+#EXTINF:-1,Educadora FM Campinas 91.7
+https://stm22.xcast.com.br:11282/stream
+#EXTINF:-1,Radio Agricultura
+https://unlimited4-us.dps.live/agricultura/gotardis/audio/now/livestream1.m3u8
+#EXTINF:-1,枣庄经济生活广播
+https://lhttp.qtfm.cn/live/1687/64k.mp3
+#EXTINF:-1,Caracol Radio (Bogot�) - 100.9 FM / 810 AM - HJGL / HJCY - PRISA Radio - Bogot�, Colombia
+https://playerservices.streamtheworld.com/api/livestream-redirect/CARACOL_RADIOAAC.aac

@@ -1,3 +1,11 @@
 #EXTM3U
 #EXTINF:-1,ABC AFL
 https://mediaserviceslive.akamaized.net/hls/live/2038314/itinerantone/masterhq.m3u8
+#EXTINF:-1,CFAC "Sportsnet 960" Calgary, AB
+https://rogers-hls.leanstream.co/rogers/cal960.stream/playlist.m3u8
+#EXTINF:-1,CKJR "Sports 1440" Wetaskiwin, AB (AAC Stream)
+https://newcap.leanstream.co/CKJRAM
+#EXTINF:-1,CKJR "Sports 1440" Wetaskiwin, AB (MP3 Stream)
+https://newcap.leanstream.co/CKJRAM-MP3
+#EXTINF:-1,Radio Agricultura
+https://unlimited4-us.dps.live/agricultura/gotardis/audio/now/livestream1.m3u8

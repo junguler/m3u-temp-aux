@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1,ABC AFL
 https://mediaserviceslive.akamaized.net/hls/live/2038314/itinerantone/masterhq.m3u8
+#EXTINF:-1,CBN Rio de Janeiro 92.5 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_RJ_ADP.m3u8
+#EXTINF:-1,Sportschau live: 1.Bundesliga / Spiel 7
+https://wdr-sportschau-liga1spiel7.icecastssl.wdr.de/wdr/sportschau/liga1spiel7/mp3/high?file=.mp3

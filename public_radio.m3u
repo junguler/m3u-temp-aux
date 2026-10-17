@@ -1,3 +1,47 @@
 #EXTM3U
 #EXTINF:-1,RadioOne
 https://cp1.sednastream.com/proxy/radioone94?mp=/stream
+#EXTINF:-1,CBC Radio 1 Toronto
+https://cbcradiolive.akamaized.net/hls/live/2041036/ES_R1ETR/master.m3u8
+#EXTINF:-1,CBC Radio 1 Toronto 99.1 FM
+https://cbcradiolive.akamaized.net/hls/live/2041036/ES_R1ETR/adaptive_128/chunklist_ao.m3u8
+#EXTINF:-1,常州新闻综合广播
+https://lhttp.qtfm.cn/live/2798/64k.mp3
+#EXTINF:-1,德宏综合广播（民族语）
+https://lhttp.qingting.fm/live/5021850/64k.mp3
+#EXTINF:-1,第三师图木舒克市人民广播电台
+https://lhttp.qtfm.cn/live/20500135/64k.mp3
+#EXTINF:-1,鹤壁综合广播
+https://lhttp.qtfm.cn/live/5022055/64k.mp3
+#EXTINF:-1,河间综合广播
+https://lhttp.qtfm.cn/live/15318503/64k.mp3
+#EXTINF:-1,江西财经广播
+https://lhttp.qtfm.cn/live/5021665/64k.mp3
+#EXTINF:-1,界首之声
+https://lhttp.qtfm.cn/live/20207785/64k.mp3
+#EXTINF:-1,牡丹之声
+https://lhttp.qtfm.cn/live/15318316/64k.mp3
+#EXTINF:-1,全国党员干部现代远程教育
+https://12371wbndks.v.kcdnvip.com/12371wbnd/dangyuanwang_2/index.m3u8
+#EXTINF:-1,四川民族广播
+https://lhttp.qtfm.cn/live/1115/64k.mp3
+#EXTINF:-1,肃宁综合广播
+https://lhttp.qtfm.cn/live/20500183/64k.mp3
+#EXTINF:-1,渭南综合广播
+https://lhttp.qingting.fm/live/5022388/64k.mp3
+#EXTINF:-1,卧龙区台
+https://lhttp.qtfm.cn/live/20500113/64k.mp3
+#EXTINF:-1,新疆哈语广播
+https://lhttp.qtfm.cn/live/1908/64k.mp3
+#EXTINF:-1,张家港综合广播
+https://lhttp.qtfm.cn/live/5021877/64k.mp3
+#EXTINF:-1,章丘广播电视台
+https://lhttp.qtfm.cn/live/20212207/64k.mp3
+#EXTINF:-1,长治综合广播
+https://lhttp.qtfm.cn/live/5021874/64k.mp3
+#EXTINF:-1,Český rozhlas Hradec Králové
+https://rozhlas.stream/hradec_kralove.mp3
+#EXTINF:-1,Radio 8 - Megaher(t)z f�r Mittelfranken
+https://live.radio8.de/radio8.mp3
+#EXTINF:-1,Radio Tonkuhle
+https://stream.tonkuhle.de/tonkuhle.mp3

@@ -1,3 +1,15 @@
 #EXTM3U
 #EXTINF:-1,EILO Techno Radio
 https://eilo.org/streamer.php?ch=techno
+#EXTINF:-1,dj exxx
+https://laut.fm/djex-tc
+#EXTINF:-1,egoFM Sachsen
+https://cast.egofm.de/egofm.mp3
+#EXTINF:-1,Hirschmilch Radio Techno
+https://hirschmilch.de:7501/techno.mp3
+#EXTINF:-1,MABU Beatz Radio - Techno
+https://audio.mabu-beatz-radio.com:8003/techno
+#EXTINF:-1,techno bunker
+https://stream.laut.fm/technobunkerfm
+#EXTINF:-1,Technolovers.fm - Techno
+https://stream.technolovers.fm/techno

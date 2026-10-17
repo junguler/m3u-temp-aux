@@ -1,3 +1,11 @@
 #EXTM3U
 #EXTINF:-1,FM atlántica 98.5
 https://streaming1.locucionar.com/proxy/fmatlantica?
+#EXTINF:-1,Blu FM 94.9
+https://sonic.nnw.cl:7009/;
+#EXTINF:-1,WRadio Colombia
+https://27403.live.streamtheworld.com/WRADIOAAC.aac?csegid=2000&dist=wradio_co-web-playperm-live_str_play&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&gdpr=0&burst-time=15&sbmid=a073ee70-7fed-4b4c-80d2-7a4d57fe52f6
+#EXTINF:-1,Amor FM 93.9
+https://player.hostingtico.com/proxy/8094
+#EXTINF:-1,Atlántico Radio 88.3 FM
+https://streaming.atlanticoradio.es/atlanticoradio

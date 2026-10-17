@@ -7,3 +7,41 @@ https://stream03.level27.be/;stream.mp3https://stream03.level27.be/;stream.mp3
 https://s2.ssl-stream.com/radio/8070/live.mp3
 #EXTINF:-1,Radio Studio M
 https://stream.leftor.com/proxy/studiom2/stream
+#EXTINF:-1,Novos Horizontes FM
+https://paineldj5.com.br:20013/stream
+#EXTINF:-1, #1 RdMix Love Songs
+https://maggie.torontocast.com:2020/stream/rdmixlovesongs
+#EXTINF:-1,JČ1 - Televize jižní Čechy
+https://stream.jc1.cz/hls/jc1.m3u8
+#EXTINF:-1,Plzeň TV
+https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8
+#EXTINF:-1,MDR SACHSEN-ANHALT – Das Radio wie wir
+https://mdr-radio-hls.akamaized.net/hls/live/2112894/mdr-284290-2-hls/index.m3u8
+#EXTINF:-1,MDR SACHSEN – Das Sachsenradio
+https://mdr-radio-hls.akamaized.net/hls/live/2112890/mdr-284280-3-hls/index.m3u8
+#EXTINF:-1,MDR THÜRINGEN – Das Radio
+https://mdr-radio-hls.akamaized.net/hls/live/2112899/mdr-284300-1-hls/index.m3u8
+#EXTINF:-1,NDR Info (Hamburg) ( MP3 HTTPS-deeplink)
+https://icecast.ndr.de/ndr/ndrinfo/hamburg/mp3/128/stream.mp3
+#EXTINF:-1,OS-Radio
+https://live.osradio.de/os-radio.mp3
+#EXTINF:-1,Plattenkiste - von Oldies aus den 50er'n bis zu Hits von morgen
+https://stream.laut.fm/plattenkiste
+#EXTINF:-1,Radio Bamberg
+https://webstream.radio-bamberg.de/radio-bamberg.mp3
+#EXTINF:-1,Radio G�tersloh
+https://ams.stream43.radiohost.de/ams-radioguetersloh_mp3-192?addradio&upd-meta&upd-scheme=https&_art=dD0xNzY4NDQ5Njg5JmQ9ZDg4NDYwMWI2ZjhmNDUzYmI2YjI
+#EXTINF:-1,Radio L�beck
+https://s35.derstream.net/radioluebeck-192.mp3
+#EXTINF:-1,Studio Nahe
+https://webradio.studio-nahe.de/
+#EXTINF:-1,SWR 4 Heilbronn
+https://liveradio.swr.de/sw282p3/swr4hn/
+#EXTINF:-1,WDR 4 M�nsterland
+https://icecast.wdr.de/wdr/wdr4/muensterland/mp3/128/stream.mp3
+#EXTINF:-1,WDR 4 Rhein und Ruhr
+https://icecast.wdr.de/wdr/wdr4/rheinruhr/mp3/128/stream.mp3
+#EXTINF:-1,WDR 4 Rheinland
+https://icecast.wdr.de/wdr/wdr4/rheinland/mp3/128/stream.mp3
+#EXTINF:-1,WDR 4 S�dwestfalen
+https://icecast.wdr.de/wdr/wdr4/suedwestfalen/mp3/128/stream.mp3

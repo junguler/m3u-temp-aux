@@ -15,3 +15,53 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWHATA
 https://icecast-qmusicbe-cdp.triple-it.nl/q-allstars.aac
 #EXTINF:-1,Smart Radio City
 https://live.smartradio.city/listen/city/radio.mp3
+#EXTINF:-1,GOLD WEB RADIO (224kbps/mp3)
+https://centova.svdns.com.br:19418/stream2
+#EXTINF:-1,Rádio Studio Flashback
+https://stream-163.zeno.fm/6gv76f1xruquv?zs=SvdWy-tsTtCXPZ9IZC0ASA
+#EXTINF:-1, #1 RdMix Love Songs
+https://maggie.torontocast.com:2020/stream/rdmixlovesongs
+#EXTINF:-1,# 100 GREATEST HEAVY METAL
+https://cast1.torontocast.com:4660/stream
+#EXTINF:-1, # 70s 80s 90s RdMix Network
+https://cast1.torontocast.com:1830/stream
+#EXTINF:-1, # RdMix Classic Rock 70s 80s 90s
+https://cast1.torontocast.com:4610/stream
+#EXTINF:-1, # RdMix DJSET 70s 80s 90s
+https://cast1.torontocast.com:4560/stream
+#EXTINF:-1,RDMIX ITALIAN VINTAGE 70 80 90
+https://maggie.torontocast.com:2020/stream/rdmixitalianvintage
+#EXTINF:-1, # RdMix Italo Disco 80s
+https://cast1.torontocast.com:2130/stream
+#EXTINF:-1,Riverwood Radio
+https://a12.asurahosting.com/listen/riverwood_radio/mp3stream.mp3
+#EXTINF:-1,FLASHBACK FM
+https://flashback.streambase.ch/001
+#EXTINF:-1,70's 80's 90's Riw Vintage Channel
+https://stream.laut.fm/70s-80s-90s-riw-vintage-channel
+#EXTINF:-1,__80S__ by rautemusik (rm.fm)
+https://80s-high.rautemusik.fm/?ref=radiobrowser
+#EXTINF:-1,80s80s Techno
+https://regiocast.streamabc.net/regc-80s80stechno-mp3-192-6907852?sABC=69689s64%230%23q280o0r09ns9qpq3889p9qqn13p5753s%23fgernzf.80f80f.qr&aw_0_1st.playerid=streams.80s80s.de&amsparams=playerid:streams.80s80s.de;skey:1768464228
+#EXTINF:-1,AllgäuHIT - Dein Allgäu. Dein Radio - Ein Hitmix aus aktuellen Pop- und Rocktiteln, ergänzt um echte Klassiker aus den 80er und 90er Jahren + Austropop. 
+https://allgaeu.stream06.radiohost.de/allgaeuhit_mp3-192?ref=radio-browser&upd-meta&upd-scheme=https&_art=dD0xNzY4NDQ1NDU3JmQ9NDQ3ZDk4MmJkOTk3NzA2OTAzNzQ
+#EXTINF:-1,AllgäuHIT - Dein Allgäu. Dein Radio - Ein Hitmix aus aktuellen Pop- und Rocktiteln, ergänzt um echte Klassiker aus den 80er und 90er Jahren + Austropop. 
+https://stream.allgaeuhit.de/allgaeuhit/mp3-192?ref=radio-browser
+#EXTINF:-1,Antenne Brandenburg Frankfurt Oder (AAC)
+https://antbrb-frankfurt.akamaized.net/hls/live/2017000-b/rbb_antbrb-frankfurt/192/seglist.m3u8
+#EXTINF:-1,antenne WIESBADEN
+https://stream.antenne-wiesbaden.de/antennewiesbaden-live/mp3-192?ref=radio-browser
+#EXTINF:-1,ffn 607080
+https://ffn-de-hz-fal-stream03-cluster01.radiohost.de/ffn-607080radio_mp3-192
+#EXTINF:-1,ffn 708090
+https://ffn-de-hz-fal-stream09-cluster01.radiohost.de/ffn-708090_mp3-192
+#EXTINF:-1,__GOLDIES__ by rautemusik (rm.fm)
+https://goldies-high.rautemusik.fm/?ref=radiobrowser
+#EXTINF:-1,R.SA LIVE
+https://rsa.streamabc.net/regc-rsalive-mp3-192-5989815?sABC=696845q7%230%23q280o0r09ns9qpq3889p9qqn13p5753s%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1768441303
+#EXTINF:-1,Radio Hellbach
+https://server3.streamserver-unlimited.de:8569/stream1
+#EXTINF:-1,POP FM 80er
+https://live-bauerdk.sharp-stream.com//popfm80.mp3
+#EXTINF:-1,Radio Stinesen
+https://st1.stinesen.dk/StineM320

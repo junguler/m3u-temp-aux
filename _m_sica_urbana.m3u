@@ -1,3 +1,17 @@
 #EXTM3U
 #EXTINF:-1,FM Activa 91.5
 https://streaming5.locucionar.com/proxy/fmactivasegui?mp=/stream
+#EXTINF:-1,La Discoteca Radio
+https://streamingmediaradio.live:8002/stream
+#EXTINF:-1,La Mega (Pereira) 105.2 FM
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/632ce0bf9234f869e9a522af
+#EXTINF:-1,LOS40 Colombia
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_COLOMBIAAAC.aac
+#EXTINF:-1,103 (FM 103.1)
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_103_1AAC.aac
+#EXTINF:-1,Urbano 106 - 105.9 FM - San José, Costa Rica
+https://usa18.fastcast4u.com/proxy/rmoohhrw?mp=/1
+#EXTINF:-1,# TOP 100 DJ CHARTS - DJ REMIX & CHARTS RADIO @ TikTok Charts, Electronic Music, EDM, House, Deep House, Dance Music, Techno & Hypertechno, Top40, Latin Charts, Reggaeton, Urban, HipHop, Club & Party Radio - & LIVE DJ SETS 
+https://breakz-high.rautemusik.fm/?ref=radiobrowser-top100-djcharts
+#EXTINF:-1,24FM Axarquía 103.9
+https://axarquia.emisiononline.es:8030/radio.mp3

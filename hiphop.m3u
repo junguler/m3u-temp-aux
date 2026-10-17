@@ -1,3 +1,21 @@
 #EXTM3U
 #EXTINF:-1,RTBF Tarmac
 https://radios.rtbf.be/tarmac-128.mp3
+#EXTINF:-1,0nlineradio LATIN
+https://stream.0nlineradio.com/latin?ref=radiobrowser
+#EXTINF:-1,Epic Lounge - JAZZHOP
+https://stream.epic-lounge.com/jazzhop-lounge?ref=radiobrowser
+#EXTINF:-1,i love radio - US Only Rap&HipHop Radio
+https://ilm.stream35.radiohost.de/ilm_iloveusonlyrapradio_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzY4NDU1Mjg0JmQ9YjVlNGIxYTMwOGY3YTQxZjVlZGQ
+#EXTINF:-1,ILOVEGERMAN RAP 1ST | New German Rap & Hip Hop
+https://ilm.stream35.radiohost.de/ilm_ilovedeutschrapfirst_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzY4NDY0MTc4JmQ9ODk0YjlkMGU1M2JlOTk1ODFlYWM
+#EXTINF:-1,[laut.fm] lofi
+https://stream.laut.fm/lofi
+#EXTINF:-1,REYFM - #Hip-Hop
+https://listen.reyfm.de/reyfm-hip-hop/
+#EXTINF:-1,REYFM - #Hip-Hop Gold
+https://listen.reyfm.de/reyfm-hip-hop_gold/
+#EXTINF:-1,RPR1 Old School Hip Hop
+https://streams.rpr1.de/rpr-hiphop-128-mp3
+#EXTINF:-1,Simulator1
+https://laut.fm/simulator1

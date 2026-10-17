@@ -7,3 +7,37 @@ https://23163.live.streamtheworld.com/3SYNAAC_SC
 https://www.radiocampus.be/stream/stream.aacplus
 #EXTINF:-1,Radio Campus BXL 92.1 [Ogg HQ]
 https://www.radiocampus.be/stream/stream_hi.ogg
+#EXTINF:-1,SomBR
+https://airadio.duckdns.org/listen/radio_sombr/radio
+#EXTINF:-1,CBC Music Atlantic (Halifax) MP3 Stream
+https://26283.live.streamtheworld.com/CBH_CBC_SC
+#EXTINF:-1,CBC Music Central (Winnipeg) - AAC Stream
+https://cbcradiolive.akamaized.net/hls/live/2041056/ES_R2CWP/adaptive_192/chunklist_ao.m3u8
+#EXTINF:-1,CBC Music (Central) - Winnipeg, MB
+https://27033.live.streamtheworld.com/CBWFM_CBC_SC
+#EXTINF:-1,CBC Music Eastern (Toronto) MP3 Stream
+https://22983.live.streamtheworld.com/CBLFM_CBC_SC
+#EXTINF:-1,CBC Music Pacific (Vancouver) MP3 Stream
+https://17813.live.streamtheworld.com/CBUFM_CBC_SC
+#EXTINF:-1,JB Radio-2 (AAC)
+https://mediacp.jb-radio.net:8001/aac
+#EXTINF:-1,Moodhoney Radio
+https://moodhoney.com/listen/moodhoney_radio/radio.mp3
+#EXTINF:-1,Nitty-Gritty Music Radio
+https://cast1.torontocast.com:1490/stream
+#EXTINF:-1,Alti Radio
+https://transmiss.ion.ovh/listen/altiradio/radio.mp3
+#EXTINF:-1,GRRIF
+https://rjb.ice.infomaniak.ch/rjb-high.mp3
+#EXTINF:-1,radiorara
+https://sonicpanel.chileservidores.cl/8004/stream
+#EXTINF:-1,Nevermore Radio - Nevermore Network
+https://panel.nevermorenetwork.com/listen/nevermorenetwork.com/radio.mp3
+#EXTINF:-1,as.if.radio
+https://stream.as-if-records.com/listen/as.if.records/radio.mp3
+#EXTINF:-1,JOY - Funky Sounds 4 Central Europe
+https://joy.stream.laut.fm/joy?pl=m3u&t302=2026-01-15_02-26-08&uuid=f580dbd4-9802-4176-97ff-eb049173bf1c
+#EXTINF:-1,omaneo Genussreise
+https://radio.omaneo.de/listen/genussreise/radio.mp3
+#EXTINF:-1,Südstadt Radio
+https://listen.radioking.com/radio/253861/stream/298342

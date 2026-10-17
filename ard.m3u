@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1,1LIVE
+https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3
+#EXTINF:-1, Bremen Zwei NEU
+https://icecast.radiobremen.de/rb/bremenzwei/live/mp3/128/stream.mp3
+#EXTINF:-1,hr-fernsehen HD
+https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/index.m3u8
+#EXTINF:-1,MDR AKTUELL
+https://radio-hls.mdr.de/hls/live/2112901/mdr-284340-0-hls/index.m3u8
+#EXTINF:-1,MDR KLASSIK
+https://radio-hls.mdr.de/hls/live/2112906/mdr-284350-0-hls/index.m3u8
+#EXTINF:-1,MDR KULTUR
+https://radio-hls.mdr.de/hls/live/2112903/mdr-284310-0-hls/index.m3u8
+#EXTINF:-1,MDR SCHLAGERWELT
+https://mdr-radio-hls.akamaized.net/hls/live/2112911/mdr-990701-0-hls/index.m3u8
+#EXTINF:-1,MDR SPUTNIK - Einfach die beste Musik - Deine Lieblingsmusik
+https://mdr-radio-hls.akamaized.net/hls/live/2112905/mdr-284330-0-hls/index.m3u8
+#EXTINF:-1,NDR Fernsehen Hamburg
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
+#EXTINF:-1,NDR Fernsehen MV
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
+#EXTINF:-1,NDR Fernsehen Niedersachsen
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+#EXTINF:-1,NDR Fernsehen SH
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
+#EXTINF:-1,Russia Today Germany
+https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
+#EXTINF:-1,SWR dasding
+https://liveradio.swr.de/d9zadj3/dasding/
+#EXTINF:-1,tagesschau24
+https://icecast.tagesschau.de/ndr/tagesschau24/live/mp3/128/stream.mp3

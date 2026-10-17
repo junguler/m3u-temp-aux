@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,Jovem pan 103,1 FM Caruaru
+https://cast4.audiostream.com.br:20003/jp101
+#EXTINF:-1,Jovem pan 91,3 FM
+https://e-spo-101.fabricahost.com.br/jpsalvador?f=1781720454N01KVBD156X2QB7Q3HVYGECQMZ5&tid=01KVBD156XN96YD5591R27V2R9
+#EXTINF:-1,Jovem pan 95,9 FM
+https://cast4.audiostream.com.br:20004/jp95
+#EXTINF:-1,Jovem pan FM Curitiba 103,9
+https://e-spo-102.fabricahost.com.br/jpcuritiba?f=1781705068N01KVAYBM544A2EGMJKGEDZMDQP&tid=01KVAYBM54RGVTWKGWCDASFWKH
+#EXTINF:-1,Mix FM - Porto Alegre
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_POAAAC.aac
+#EXTINF:-1,Rádio Atlântida 93.3 FM
+https://liverdatlsc.rbsdirect.com.br/primary/atl_scr.sdp/playlist.m3u8
+#EXTINF:-1,Rádio Disney 91.3 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_BRA_SP.mp3

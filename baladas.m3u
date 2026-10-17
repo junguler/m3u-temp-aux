@@ -1,3 +1,21 @@
 #EXTM3U
 #EXTINF:-1,FM Emoción 98.1
 https://streaming.escuchanosonline.com:7229/;
+#EXTINF:-1,La Voz del Cipres de las Guaitecas
+https://live.lavozdelcipres.cl/radiomelinka.ogv
+#EXTINF:-1,Bésame (Medellín) 94.9 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_MEDELLINAAC.aac
+#EXTINF:-1,CROSSOVER ESTEREO
+https://stream.zeno.fm/9rxqd1fndkeuv
+#EXTINF:-1,Vibra FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/VIBRA_SC
+#EXTINF:-1,VILMAR STEREO 91.4 FM
+https://stream.zeno.fm/pfrwo2fzcbktv
+#EXTINF:-1,WRadio Colombia
+https://27403.live.streamtheworld.com/WRADIOAAC.aac?csegid=2000&dist=wradio_co-web-playperm-live_str_play&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&gdpr=0&burst-time=15&sbmid=a073ee70-7fed-4b4c-80d2-7a4d57fe52f6
+#EXTINF:-1,__KRASSE WEIHNACHTEN__ by rautemusik (rm.fm)
+https://weihnachten-high.rautemusik.fm/?ref=radiobrowser
+#EXTINF:-1,Música para ver llover
+https://stream-152.zeno.fm/8ekvqc5urfhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4ZWt2cWM1dXJmaHZ2IiwiaG9zdCI6InN0cmVhbS0xNTIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiT1pkTWNRZ05TYW1rYk42dExtcUpxdyIsImlhdCI6MTc2ODQ1ODc2NiwiZXhwIjoxNzY4NDU4ODI2fQ.sYlUwUMZL7UuxghtqNrBYoR3wTqxZQpukKZ1UB6-ma4
+#EXTINF:-1,Corazón FM 89.2
+https://stream2.emisorasmusicales.net/listen/corazon_fm/corazonfm.mp3

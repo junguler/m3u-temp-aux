@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,Rete Tre | 32k AAC+
+https://stream.srg-ssr.ch/m/retetre/aacp_32
+#EXTINF:-1,FluxFM Radio Alternative | 64k MP3
+https://fluxmusic.api.radiosphere.io/channels/alternative/stream.mp3?quality=1
+#EXTINF:-1,FluxFM Techno Underground | 64k MP3
+https://fluxmusic.api.radiosphere.io/channels/techno-underground/stream.mp3?quality=1

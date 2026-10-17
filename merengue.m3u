@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,La Rockola FM
+https://stream.zeno.fm/uz2idrgoqnduv
+#EXTINF:-1,Radio 1 FM (Barranquilla)
+https://mdstrm.com/audio/632cbb54ebfe48089b0c504d/live.m3u8
+#EXTINF:-1,Radio Olímpica
+https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_BOGOTA_SC
+#EXTINF:-1,Radio Olímpica (Barranquilla)
+https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_BARRANQUILLA_SC
+#EXTINF:-1,Radio Uno
+https://mdstrm.com/audio/632c9bbcaa9ace684913b81b/live.m3u8
+#EXTINF:-1,Tropicalida
+https://d2qzj7eqicisth.cloudfront.net/medialist_14854753276708185244_hls.m3u8

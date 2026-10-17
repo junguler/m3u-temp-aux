@@ -15,3 +15,49 @@ https://streaming.abc-cdn.net.au/audio/hls/localsydney.m3u8?source=web
 https://streaming.abc-cdn.net.au/audio/hls/localadelaide.m3u8?source=web
 #EXTINF:-1,bandnews fm sp
 https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_SPAAC.m3u8
+#EXTINF:-1,CBN Rio de Janeiro 92.5 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_RJ_ADP.m3u8
+#EXTINF:-1,R�dio Justi�a 104.7 FM
+https://server01.ouvir.radio.br:8036/stream
+#EXTINF:-1,Vibe Mundial FM
+https://servidor13.brlogic.com:7262/live
+#EXTINF:-1,CFQR 600
+https://centova.radioservers.biz/proxy/canadai1/stream
+#EXTINF:-1,CHQR 770 Global News Radio - Calgary, AB
+https://live.leanstream.co/CHQRAM-MP3
+#EXTINF:-1,CJAD 800
+https://26113.live.streamtheworld.com/CJADAM_SC
+#EXTINF:-1,EWTN Canada
+https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
+#EXTINF:-1,Мегаполис Торонто
+https://c25.radioboss.fm:8297/stream
+#EXTINF:-1,Radio Agricultura
+https://unlimited4-us.dps.live/agricultura/gotardis/audio/now/livestream1.m3u8
+#EXTINF:-1,Radio Universidad de Chile
+https://sonic-us.arkeo.cl/8186/stream
+#EXTINF:-1,Raxies FM
+https://stream.zeno.fm/annpmyskb4jtv
+#EXTINF:-1,繁昌新闻综合广播
+https://nfcplay.wuhunews.cn/fc/zhgb.m3u8
+#EXTINF:-1,Caracol Radio (Bogot�) - 100.9 FM / 810 AM - HJGL / HJCY - PRISA Radio - Bogot�, Colombia
+https://playerservices.streamtheworld.com/api/livestream-redirect/CARACOL_RADIOAAC.aac
+#EXTINF:-1,JČ1 - Televize jižní Čechy
+https://stream.jc1.cz/hls/jc1.m3u8
+#EXTINF:-1,Крым.Реалии
+https://rfe-ingest.akamaized.net/hls/live/2035288/axia19/playlist.m3u8
+#EXTINF:-1,Radio Prostor
+https://bcast.spmmedia.cz/prostor-mp3
+#EXTINF:-1,EWTN Europe
+https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
+#EXTINF:-1,kontrafunk
+https://icecast.multhielemedia.de/listen/kontrafunk/radio.mp3
+#EXTINF:-1,WDR 5 [aac]
+https://wdrhf.akamaized.net/hls/live/2027996-b/wdr5/192/seglist.m3u8
+#EXTINF:-1,Cadena SER - Radio Vigo
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_VIGO.mp3
+#EXTINF:-1,Cadena SER Sevilla
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SEVILLA.mp3
+#EXTINF:-1,Capital Radio Madrid
+https://mdstrm.com/audio/67d2a8685ae4234de49e40f6/live.m3u8?_=1748201428470&dnt=true&player=67bf8d9eb8fdbbe59cb3dc1e&uid=ZGjN46saKhxpR9l4R89Rah2jvFyKlii2&sid=Ylu5J6JhzLU9YYjHNlrKub2B78xqLdvG&pid=FM2735sWw0sy8ShSstpnBPcUEKzC3DWC&an=lightning-player&at=web-app&av=v1.0.19&sc=0&ds=67bf8b74ff9cc60dd3e575b4&ref=www.capitalradio.es&res=1600x900
+#EXTINF:-1,Catalunya Informaci� (Catinfo)
+https://shoutcast.ccma.cat/ccma/catalunyainformacioHD.mp3

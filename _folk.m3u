@@ -23,3 +23,51 @@ https://radio.comnet.bg:12301/radio-folk.mp3
 https://stream.rcast.net/70602
 #EXTINF:-1,Radio Sehara
 https://cast.name.ba:8000/;
+#EXTINF:-1,Conecta FM - Mar�lia
+https://paineldj.com.br:20184/stream
+#EXTINF:-1,Ancient FM
+https://mediaserv73.live-streams.nl:18058/stream
+#EXTINF:-1,CBC Music Atlantic (Halifax) MP3 Stream
+https://26283.live.streamtheworld.com/CBH_CBC_SC
+#EXTINF:-1,CBC Music Central (Winnipeg) - AAC Stream
+https://cbcradiolive.akamaized.net/hls/live/2041056/ES_R2CWP/adaptive_192/chunklist_ao.m3u8
+#EXTINF:-1,CBC Music Eastern (Toronto) MP3 Stream
+https://22983.live.streamtheworld.com/CBLFM_CBC_SC
+#EXTINF:-1,CBC Music Mountain (Calgary, CBR-FM, 102.1 FM, formerly CBC Radio 2)
+https://cbcradiolive.akamaized.net/hls/live/2041058/ES_R2MED/master.m3u8
+#EXTINF:-1,CBC Music Pacific (Vancouver) MP3 Stream
+https://17813.live.streamtheworld.com/CBUFM_CBC_SC
+#EXTINF:-1,CBC Radio 1 Calgary (CBR - 1010 AM, 99.1 FM)
+https://cbcradiolive.akamaized.net/hls/live/2041039/ES_R1MCG/master.m3u8
+#EXTINF:-1,CHOC 88.7
+https://stream2.statsradio.com:8110/stream
+#EXTINF:-1,ICI Musique Calgary - 89.7 FM, Edmonton - 101.1 FM (CBCX-FM)
+https://rcavliveaudio.akamaized.net/hls/live/2006999/M-7AEDM0_EDM/master.m3u8
+#EXTINF:-1,Radio Qu�bec International  -- RQI1: Yesterday and Today
+https://us10a.serverse.com/proxy/rqi1
+#EXTINF:-1,Rete Uno | 32k AAC+
+https://stream.srg-ssr.ch/m/reteuno/aacp_32
+#EXTINF:-1,radiorara
+https://sonicpanel.chileservidores.cl/8004/stream
+#EXTINF:-1,长沙音乐广播
+https://lhttp.qtfm.cn/live/20847/64k.mp3
+#EXTINF:-1,Balkan Beatz Radio
+https://stream.balkanbeatz.de/listen/balkan-beatz/radio.mp3
+#EXTINF:-1,	Blasmusikradio mit Bernd
+https://stream.laut.fm/blasmusikradio_mit_bernd
+#EXTINF:-1,delta radio UNPLUGGED [aac | 64 kbps]
+https://streams.deltaradio.de/delta-unplugged/aac-64/streams.deltaradio.de/
+#EXTINF:-1,delta radio UNPLUGGED [mp3 | 192 kbps]
+https://streams.deltaradio.de/delta-unplugged/mp3-192/streams.deltaradio.de/
+#EXTINF:-1,DREAMPOP-RADIO (https)
+https://dreampopradio.stream.laut.fm/dreampopradio
+#EXTINF:-1,kaleidoskop.rocks,AutoDJ
+https://kaleidoskop.sp.radio.fm/stream
+#EXTINF:-1,Radio Alpenmelodie
+https://radio.alpenmelodie.de/
+#EXTINF:-1,RADIO BOB - Chillout Unplugged Songs [aac | 64 kbps]
+https://streams.radiobob.de/bob-chillout/aac-64/streams.radiobob.de/
+#EXTINF:-1,RADIO BOB - Chillout Unplugged Songs [mp3 | 192 kbps]
+https://streams.radiobob.de/bob-chillout/mp3-192/streams.radiobob.de/
+#EXTINF:-1,Radio Fr�nkisch Spoken
+https://fraenkisch-spoken.stream.laut.fm/fraenkisch-spoken?t302=2026-01-15_02-52-07&uuid=c85f8f39-a411-48cf-9c1c-fbb11e26c345

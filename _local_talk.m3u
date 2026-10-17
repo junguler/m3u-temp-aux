@@ -11,3 +11,13 @@ https://streaming.abc-cdn.net.au/audio/hls/localcanberra.m3u8?source=web
 https://streaming.abc-cdn.net.au/audio/hls/localsydney.m3u8?source=web
 #EXTINF:-1,891 ABC Adelaide
 https://streaming.abc-cdn.net.au/audio/hls/localadelaide.m3u8?source=web
+#EXTINF:-1,Caracol Radio (Bogotá) - 100.9 FM / 810 AM - HJGL / HJCY - PRISA Radio - Bogotá, Colombia
+https://playerservices.streamtheworld.com/api/livestream-redirect/CARACOL_RADIOAAC.aac
+#EXTINF:-1,Radio Viva Fenix Ipiales (HJB29, 89.1 MHz FM)
+https://radiolatina.info/8170/stream
+#EXTINF:-1,Radio Viva Fenix Ipiales (HJNM, 1220 kHz AM)
+https://radiolatina.info/8172/stream
+#EXTINF:-1,Radio Viva Fenix Pasto (HJFV, 780 kHz AM)
+https://radiolatina.info/8166/stream
+#EXTINF:-1,Radio Hagen
+https://stream.lokalradio.nrw/444zcd3

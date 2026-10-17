@@ -7,3 +7,63 @@ https://mediaserviceslive.akamaized.net/hls/live/2038308/triplejnsw/master.m3u8
 https://home.radionrg.com/hls/bgrapradio/live.m3u8
 #EXTINF:-1,Radio NRG
 https://home.radionrg.com/hls/live/live.m3u8
+#EXTINF:-1,Phonkio Radio | OG Phonk in HQ 24/7
+https://stream.phonkioradio.com/listen/phonkio_radio/radio.mp3
+#EXTINF:-1,Mix97FM
+https://panel.radiocast.net/listen/mix97fm/radio.mp3
+#EXTINF:-1,All time Urban Gospel
+https://strm112.1.fm/gospel_mobile_mp3
+#EXTINF:-1,Azul Tricolrock
+https://cast.tricolrock.com/hls/azul_tricolrock/live.m3u8
+#EXTINF:-1,Universitaria Estéreo 88.2
+https://www.utp.edu.co/stream/
+#EXTINF:-1,1000 2000er - laut.fm
+https://10002000er.stream.laut.fm/10002000er
+#EXTINF:-1,__BASS__ by rautemusik (rm.fm)
+https://bass-high.rautemusik.fm/?ref=radiobrowser
+#EXTINF:-1,bigFM Apache 207
+https://stream.bigfm.de/apache207/mp3-128/radiobrowser
+#EXTINF:-1,bigFM Baden-Württemberg
+https://stream.bigfm.de/bw/mp3-128/radio-browser
+#EXTINF:-1,bigFM Deutschland
+https://stream.bigfm.de/deutschland/mp3-128/radio-browser
+#EXTINF:-1,bigFM Groove Night
+https://stream.bigfm.de/groovenight/mp3-128/radio-browser
+#EXTINF:-1,bigFM Hamburg
+https://stream.bigfm.de/hamburg/mp3-128/radio-browser
+#EXTINF:-1,bigFM LoFi Focus
+https://stream.bigfm.de/lofifocus/mp3-128/radiobrowser
+#EXTINF:-1,bigFM Rheinland-Pfalz
+https://stream.bigfm.de/rlp/mp3-128/radio-browser
+#EXTINF:-1,Callshop Radio
+https://icecast.callshopradio.com/callshopradio
+#EXTINF:-1,delta radio UNPLUGGED [aac | 64 kbps]
+https://streams.deltaradio.de/delta-unplugged/aac-64/streams.deltaradio.de/
+#EXTINF:-1,delta radio UNPLUGGED [mp3 | 192 kbps]
+https://streams.deltaradio.de/delta-unplugged/mp3-192/streams.deltaradio.de/
+#EXTINF:-1,__DEUTSCHRAP__ by rautemusik (rm.fm)
+https://deutschrap-high.rautemusik.fm/?ref=radiobrowser
+#EXTINF:-1,__DEUTSCHRAP CHARTS__ by rautemusik (rm.fm)
+https://deutschrap-charts-high.rautemusik.fm/?ref=radiobrowser
+#EXTINF:-1,__DEUTSCHRAP CLASSIC__ by rautemusik (rm.fm)
+https://deutschrap-classic-high.rautemusik.fm/?ref=radiobrowser
+#EXTINF:-1,Epic Lounge - GAMING LOUNGE
+https://stream.epic-lounge.com/gaming-lounge?ref=radiobrowser
+#EXTINF:-1,FINN Radio One
+https://stream.laut.fm/finnradioone
+#EXTINF:-1,ILOVE RADIO
+https://play.ilovemusic.de/ilm_iloveradio/
+#EXTINF:-1,Radio Regenbogen - Flashback
+https://stream.regenbogen.de/flashback/aac-128/radiobrowser
+#EXTINF:-1,Radio Thonah
+https://radiothonah.stream.laut.fm/radio_thonah?t302=2026-10-01_12-11-17&uuid=bc2b0a62-c4c0-d6c8-d74f-033719e467c3
+#EXTINF:-1,Shake!FM
+https://stream.regenbogen.de/shakefm/mp3-128/radio-browser
+#EXTINF:-1,Strul FM
+https://stream.streamaudio.de:8000/strul-fm
+#EXTINF:-1,# TOP 100 CLUB CHARTS - DANCE & DJ MIX RADIO - 24 HOURS NON-STOP MUSIC @ TikTok Hits, Ibiza House, Sunset Lounge, Melodic Music, EDM, Deep House, Dance Music, Techno & Hypertechno, Rave Charts, Top 40 Charts, Latin, Reggaeton Music, Moombahton, Urban Hits
+https://breakz-2012-high.rautemusik.fm/?ref=radiobrowser-top100-clubcharts
+#EXTINF:-1,__TRAP__ by rautemusik (rm.fm)
+https://trap-high.rautemusik.fm/?ref=radiobrowser
+#EXTINF:-1,wiphopbeatz
+https://stream.laut.fm/wiphopbeatz

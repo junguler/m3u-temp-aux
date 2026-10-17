@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1,- 0 N - 50s on Radio
+https://0n-50s.radionetz.de/0n-50s.aac
+#EXTINF:-1,- 0 N - 50s on Radio
+https://0n-50s.radionetz.de/0n-50s.mp3
+#EXTINF:-1,- 0 N - Gold on Radio
+https://0n-gold.radionetz.de/0n-gold.aac
+#EXTINF:-1,- 0 N - Gold on Radio
+https://0n-gold.radionetz.de/0n-gold.mp3
+#EXTINF:-1,- 0 N - Schlager Gold on Radio
+https://0n-schlagergold.radionetz.de/0n-schlagergold.aac
+#EXTINF:-1,- 0 N - Schlager Gold on Radio
+https://0n-schlagergold.radionetz.de/0n-schlagergold.mp3
+#EXTINF:-1,- 1 A - Schlager Gold von 1A Radio
+https://1a-schlagergold.radionetz.de/1a-schlagergold.aac
+#EXTINF:-1,- 1 A - Schlager Gold von 1A Radio
+https://1a-schlagergold.radionetz.de/1a-schlagergold.mp3
+#EXTINF:-1,#1 Splash 60s
+https://c4.auracast.net/radio/8020/radio.mp3
+#EXTINF:-1,__GOLDIES__ by rautemusik (rm.fm)
+https://goldies-high.rautemusik.fm/?ref=radiobrowser
+#EXTINF:-1,Oldie Antenne - 60er Hits
+https://stream.oldie-antenne.de/oldie-antenne-60er-hits/stream/mp3
+#EXTINF:-1,Oldiefans - Das Original
+https://server7.streamserver24.com:8080/proxy/stekonig?mp=/stream
+#EXTINF:-1,Plattenkiste - von Oldies aus den 50er'n bis zu Hits von morgen
+https://stream.laut.fm/plattenkiste
+#EXTINF:-1,Radio-Dream-Beach,willkommen im radio dream beach
+https://radio-dream-beach.spcast.eu/stream
+#EXTINF:-1,Radio Regenbogen Oldies
+https://stream.regenbogen.de/oldies/mp3-128/radiobrowser

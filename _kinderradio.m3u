@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,MDR TWEENS
+https://radio-hls.mdr.de/hls/live/2112913/mdr-991101-0-hls/index.m3u8
+#EXTINF:-1,Ohrka Radio - Gute Musik und Hörspiele von Ohrka.de
+https://ohrka.stream.laut.fm/ohrka?t302=2026-01-15_03-39-54&uuid=1b4d685c-7bdc-4eec-a744-dbf3bb2dadd5
+#EXTINF:-1,Radio Regenbogen Kinderlieder
+https://stream.regenbogen.de/kinderlieder/mp3-128/radiobrowser
+#EXTINF:-1,TOGGO Radio
+https://radio.toggo.de/live/mp3-192

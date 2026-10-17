@@ -3,3 +3,27 @@
 https://mediaserviceslive.akamaized.net/hls/live/2038355/localmtisa/masterhq.m3u8
 #EXTINF:-1,ABC 612kHz AM Brisbane QLD Queensland Local Radio 20220701
 https://mediaserviceslive.akamaized.net/hls/live/2038304/localbrisbane/masterhq.m3u8
+#EXTINF:-1,ČRo Wave
+https://rozhlas.stream/wave_mp3_256.mp3
+#EXTINF:-1,FluxFM Anima Radio | 64k AAC
+https://fluxmusic.api.radiosphere.io/channels/anima-radio/stream.aac?quality=1
+#EXTINF:-1,FluxFM Anima Radio | 64k MP3
+https://fluxmusic.api.radiosphere.io/channels/anima-radio/stream.mp3?quality=1
+#EXTINF:-1,FluxFM B-Funk | 64k MP3
+https://fluxmusic.api.radiosphere.io/channels/b-funk/stream.mp3?quality=1
+#EXTINF:-1,FluxFM Electronic Chillout | 320k MP3
+https://fluxmusic.api.radiosphere.io/channels/electronic-chillout/stream.mp3?quality=10
+#EXTINF:-1,FluxFM Electronic Chillout | 64k AAC
+https://fluxmusic.api.radiosphere.io/channels/electronic-chillout/stream.aac?quality=1
+#EXTINF:-1,FluxFM FluxFM Finest | 64k AAC
+https://fluxmusic.api.radiosphere.io/channels/fluxfm-finest/stream.aac?quality=1
+#EXTINF:-1,FluxFM FluxFM Finest | 64k MP3
+https://fluxmusic.api.radiosphere.io/channels/fluxfm-finest/stream.mp3?quality=1
+#EXTINF:-1,FluxFM Indie Disco | 320k AAC
+https://fluxmusic.api.radiosphere.io/channels/indiedisco/stream.aac?quality=10
+#EXTINF:-1,FluxFM Indie Disco | 64k MP3
+https://fluxmusic.api.radiosphere.io/channels/indiedisco/stream.mp3?quality=1
+#EXTINF:-1,FluxFM Listen To Berlin | 320k AAC
+https://fluxmusic.api.radiosphere.io/channels/listen-to-berlin/stream.aac?quality=10
+#EXTINF:-1,FluxFM Listen To Berlin | 64k MP3
+https://fluxmusic.api.radiosphere.io/channels/listen-to-berlin/stream.mp3?quality=1

@@ -1,3 +1,27 @@
 #EXTM3U
 #EXTINF:-1,OnAir IM
 https://sydney.onair.im/listen/im_radio_sydney/radio.mp3
+#EXTINF:-1,__ORIENTAL__ by rautemusik (rm.fm)
+https://oriental-high.rautemusik.fm/?ref=radiobrowser
+#EXTINF:-1,Abdel Halim Hafez عبدالحليم حافظ
+https://stream.zeno.fm/8a4eqkd0pnhvv
+#EXTINF:-1,OM Kalthom أم كلثوم
+https://stream.zeno.fm/zsgrfxg71s8uv
+#EXTINF:-1,OmniRadio - Islamic Audio Library (Uploads) (متنوع)
+https://radio.xecod.com/station/local-library
+#EXTINF:-1,OmniRadio - Quran & Islamic Radio (إذاعة القرآن الكريم)
+https://radio.xecod.com/station/quran-cairo
+#EXTINF:-1,OmniRadio - SHEIKH AdelRayan (الشيخ عادل ريان)
+https://radio.xecod.com/station/AdelRayan
+#EXTINF:-1,OmniRadio - Sheikh Ahmad Tamim Al-Maraghi (الشيخ أحمد تميم المراغي)
+https://radio.xecod.com/station/ahmad-tamim
+#EXTINF:-1,OmniRadio - Sheikh Ammar Al-Mulla (الشيخ عمار الملا)
+https://radio.xecod.com/station/ammar-almulla
+#EXTINF:-1,OmniRadio - Sheikh Bandar Balila (الشيخ بندر بليلة)
+https://radio.xecod.com/station/bandar-balila
+#EXTINF:-1,OmniRadio - Sheikh Mahmoud Ali Al-Banna (الشيخ محمود علي البنا)
+https://radio.xecod.com/station/albanna
+#EXTINF:-1,OmniRadio - Sheikh Mahmoud Khalil Al-Hussary (الشيخ محمود خليل الحصري)
+https://radio.xecod.com/station/alhussary
+#EXTINF:-1,OmniRadio - Sheikh Mohammed Siddiq Al-Minshawi (الشيخ محمد صديق المنشاوي)
+https://radio.xecod.com/station/alminshawi

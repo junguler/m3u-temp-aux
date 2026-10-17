@@ -1,3 +1,17 @@
 #EXTM3U
 #EXTINF:-1,El Fin del Silencio
 https://servidor24-1.brlogic.com:7302/live
+#EXTINF:-1,DJ Skyhunter Laut.fm
+https://laut.fm/djskyhunterradio
+#EXTINF:-1,Flatlines Radio Punk
+https://stream.laut.fm/punk
+#EXTINF:-1,__HAPPY HARDCORE__ by rautemusik (rm.fm)
+https://happyhardcore-high.rautemusik.fm/?ref=radiobrowser
+#EXTINF:-1,Laut.fm Hardcore
+https://hardcore.stream.laut.fm/hardcore
+#EXTINF:-1,laut.fm HARDCOREMUSIK
+https://stream.laut.fm/hardcoremusik
+#EXTINF:-1,Rock Antenne Punkrock
+https://s3-webradio.rockantenne.de/punkrock/stream/mp3
+#EXTINF:-1,__SHREDDED__ by RauteMusik (rm.fm)
+https://streams.rautemusik.fm/shredded/mp3-192/stream.mp3

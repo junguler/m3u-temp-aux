@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1,Zinc 96.1
 https://playerservices.streamtheworld.com/api/livestream-redirect/MAR_ZINC96AAC.m3u8
+#EXTINF:-1,CJRW 102.1 "Spud FM" Summerside, PE
+https://mbsradio.leanstream.co/CJRWFM-MP3

@@ -1,3 +1,21 @@
 #EXTM3U
 #EXTINF:-1,EDI RADIO
 https://radio.forensedigital.gt:8090/stream
+#EXTINF:-1,CITA-FM Harvesters FM
+https://harvestersfm.radioca.st/NB
+#EXTINF:-1,CCTV-10科教伴音
+https://piccpndali.v.myalicdn.com/audio/cctv10_2.m3u8
+#EXTINF:-1,河南少儿广播
+https://lhttp.qtfm.cn/live/20500038/64k.mp3
+#EXTINF:-1,吉林教育广播
+https://live-jlr.jlntv.cn/live/fm963.m3u8
+#EXTINF:-1,济南故事广播
+https://lhttp.qtfm.cn/live/1672/64k.mp3
+#EXTINF:-1,长沙县综合广播
+https://lhttp.qtfm.cn/live/4930/64k.mp3
+#EXTINF:-1,Frecuencia U 940 AM
+https://radiolatina.info/9988/stream
+#EXTINF:-1,Startup.Radio
+https://s2.radio.co/sb16d65602/listen
+#EXTINF:-1,Historyradio.org low bandwidth
+https://cast1.asurahosting.com/proxy/historyr/stream.mp3

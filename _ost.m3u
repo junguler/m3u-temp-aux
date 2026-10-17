@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1,Nostalgie Cinema
 https://stream.rcs.revma.com/urds0v43ehuvv
+#EXTINF:-1,Filmradio
+https://filmradio.stream.laut.fm/filmradio?t302=2018-03-10_04-44-05&uuid=59ca68e0-84a4-492d-9b0b-36c45690cd59
+#EXTINF:-1,furry radio by laut.fm
+https://stream.laut.fm/furryradio

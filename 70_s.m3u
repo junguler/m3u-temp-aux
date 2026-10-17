@@ -7,3 +7,11 @@ https://web.radio.antennevorarlberg.at/av-70er
 https://quincy.torontocast.com:3195/stream
 #EXTINF:-1,Nostalgie Vlaanderen
 https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWHATAFEELING.mp3?dist=radiobrowser
+#EXTINF:-1,RDMIX ITALIAN VINTAGE 70 80 90
+https://maggie.torontocast.com:2020/stream/rdmixitalianvintage
+#EXTINF:-1,Antenne Brandenburg Frankfurt Oder (AAC)
+https://antbrb-frankfurt.akamaized.net/hls/live/2017000-b/rbb_antbrb-frankfurt/192/seglist.m3u8
+#EXTINF:-1,ffn 708090
+https://ffn-de-hz-fal-stream09-cluster01.radiohost.de/ffn-708090_mp3-192
+#EXTINF:-1,ROCK ANTENNE 70er Rock (MP3)
+https://s2-webradio.rockantenne.de/70er-rock/stream/mp3

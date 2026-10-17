@@ -1,3 +1,9 @@
 #EXTM3U
 #EXTINF:-1,Bahia FM 88.7
 https://ice.fabricahost.com.br/radiobahiafm
+#EXTINF:-1,MPX Web Rádio 1
+https://streaming.mpxwebradio.com/listen/mpxhits/256k
+#EXTINF:-1,Novabrasil FM Fortaleza, CE
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_FORAAC.aac
+#EXTINF:-1,Rádio Arauto 95.7 FM
+https://stm10.virtualcast.com.br:8282/arautoveracruz

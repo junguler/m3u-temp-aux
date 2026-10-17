@@ -25,3 +25,67 @@ https://radios.rtbf.be/jam-128.mp3
 https://radio.muzaica.fm:9000/stream
 #EXTINF:-1,RadioSat FM - Bolivia
 https://mira.streamerr.co/listen/radiosatbolivia/radio.mp3
+#EXTINF:-1,Rádio Atlântida 94.3 FM - Porto Alegre
+https://playerservices.streamtheworld.com/api/livestream-redirect/RBS_RADIOSAAC.m3u8
+#EXTINF:-1,Bas-Saint-Laurent, Côte-Nord, Gaspésie-Îles-de-la-Madeleine (Rimouski, QC)
+https://rcavliveaudio.akamaized.net/hls/live/2006987/M-7QRIM0_RIM/master.m3u8
+#EXTINF:-1,Radio Canada Ici Musique (Colombie-Britannique-Yukon, Grand Nord) Vancouver, BC
+https://rcavliveaudio.akamaized.net/hls/live/2006996/M-7BVAN0_VAN/master.m3u8
+#EXTINF:-1,Radio Canada Ici Musique (Estrie) Sherbrooke, QC
+https://rcavliveaudio.akamaized.net/hls/live/2006989/M-7QSHE0_SHE/master.m3u8
+#EXTINF:-1,Radio Canada Ici Musique (Manitoba) Winnipeg, MB
+https://rcavliveaudio.akamaized.net/hls/live/2006998/M-7MWIN0_WIN/master.m3u8
+#EXTINF:-1,Radio Canada Ici Musique (Mauricie-Centre-du-Québec) Trois-Rivieres, QC
+https://rcavliveaudio.akamaized.net/hls/live/2006992/M-7QTRV0_TRV/master.m3u8
+#EXTINF:-1,Radio Canada Ici Musique - Montréal, QC
+https://rcavliveaudio.akamaized.net/hls/live/2006979/M-7QMTL0_MTL/master.m3u8
+#EXTINF:-1,Radio Canada Ici Musique (Nord de l'Ontario) Sudbury, ON
+https://rcavliveaudio.akamaized.net/hls/live/2006990/M-7OSUB0_SUB/master.m3u8
+#EXTINF:-1,Radio Canada Ici Musique (Nouveau-Brunswick) Moncton, NB
+https://rcavliveaudio.akamaized.net/hls/live/2006980/M-7EMCT0_MCT/master.m3u8
+#EXTINF:-1,Radio Canada Ici Musique - Ottawa, ON
+https://rcavliveaudio.akamaized.net/hls/live/2006986/M-7OOTT0_OTT/master.m3u8
+#EXTINF:-1,Radio Canada Ici Musique  - Québec City, QC
+https://rcavliveaudio.akamaized.net/hls/live/2006650/M-7QQUE0_QUE/master.m3u8
+#EXTINF:-1,Radio Canada Ici Musique (Saguenay-Lac-Saint-Jean) Saguenay, QC
+https://rcavliveaudio.akamaized.net/hls/live/2006988/M-7QSAG0_SAG/master.m3u8
+#EXTINF:-1,Radio Canada Ici Musique (Saskatchewan) Regina, SK
+https://rcavliveaudio.akamaized.net/hls/live/2022748/M-7SREG0_REG/master.m3u8
+#EXTINF:-1,hifreaksradio
+https://stream.laut.fm/hifreaksradio
+#EXTINF:-1,La Radio du bord de lâ€™eau
+https://listen.radioking.com/radio/181657/stream/223420
+#EXTINF:-1,Rete Due | 32k AAC+
+https://stream.srg-ssr.ch/m/retedue/aacp_32
+#EXTINF:-1,Emisora de Radio "ATodaMecha"
+https://stream.zeno.fm/gjexooyemj3uv
+#EXTINF:-1,- 0 N - K-Pop on Radio
+https://0n-kpop.radionetz.de/0n-kpop.aac
+#EXTINF:-1,- 0 N - K-Pop on Radio
+https://0n-kpop.radionetz.de/0n-kpop.mp3
+#EXTINF:-1,- 0 N - Schlager Gold on Radio
+https://0n-schlagergold.radionetz.de/0n-schlagergold.aac
+#EXTINF:-1,- 0 N - Schlager Gold on Radio
+https://0n-schlagergold.radionetz.de/0n-schlagergold.mp3
+#EXTINF:-1,- 0 N - Schlager Kult on Radio
+https://0n-schlagerkult.radionetz.de/0n-schlagerkult.mp3
+#EXTINF:-1,- 0 N - Schlager on Radio
+https://0n-schlager.radionetz.de/0n-schlager.aac
+#EXTINF:-1,- 0 N - Schlager on Radio
+https://0n-schlager.radionetz.de/0n-schlager.mp3
+#EXTINF:-1,- 1 A - Schlager Gold von 1A Radio
+https://1a-schlagergold.radionetz.de/1a-schlagergold.aac
+#EXTINF:-1,- 1 A - Schlager Gold von 1A Radio
+https://1a-schlagergold.radionetz.de/1a-schlagergold.mp3
+#EXTINF:-1,- 1 A - Schlager Kult von 1A Radio
+https://1a-schlagerkult.radionetz.de/1a-schlagerkult.mp3
+#EXTINF:-1,- 1 A - Schlager von 1A Radio
+https://1a-schlager.radionetz.de/1a-schlager.mp3
+#EXTINF:-1,- 1 A - Schlager von 1A Radio
+https://1a-schlager.radionetz.de/1a-schlager.aac
+#EXTINF:-1,ByteFM (192k)
+https://bytefm.cast.addradio.de/bytefm/main/high/stream
+#EXTINF:-1,WDR COSMO -- (https)
+https://wdr-cosmo-live.icecastssl.wdr.de/wdr/cosmo/live/mp3/128/stream.mp3
+#EXTINF:-1,Radio 11Q 104.9 FM
+https://streamingecuador.net:8012/radio11q

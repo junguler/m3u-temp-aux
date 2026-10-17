@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,CIDG-FM "Rebel Rock101.7" Ottawa, ON
+https://torres-media.streamb.live/SB00189
+#EXTINF:-1,CITI 92.1
+https://rogers-hls.leanstream.co/rogers/win921.stream/playlist.m3u8
+#EXTINF:-1,CJQQ "92.1 Rock" Timmins, ON
+https://rogers-hls.leanstream.co/rogers/tim921.stream/playlist.m3u8
+#EXTINF:-1,CJRX "106.7 Rock" Lethbridge, AB
+https://rogers-hls.leanstream.co/rogers/let1067.stream/playlist.m3u8
+#EXTINF:-1,CKFX-FM "101.9 Rock" North Bay, ON
+https://rogers-hls.leanstream.co/rogers/nor1019.stream/playlist.m3u8
+#EXTINF:-1,CKKQ 100.3 "The Q" (Victoria, BC)
+https://stream.jpbgdigital.com/CKKQ/HEAAC/48k/playlist.m3u8

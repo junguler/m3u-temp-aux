@@ -7,3 +7,45 @@ https://mediaserviceslive.akamaized.net/hls/live/2038331/locallongreach/masterhq
 https://mediaserviceslive.akamaized.net/hls/live/2038337/localcairns/masterhq.m3u8
 #EXTINF:-1,Star 106.3MHz FM Townsville QLD Todays Best Music 20220701
 https://playerservices.streamtheworld.com/api/livestream-redirect/TOW_STAR1063AAC.m3u8?
+#EXTINF:-1,CBC Music Mountain (Calgary, CBR-FM, 102.1 FM, formerly CBC Radio 2)
+https://cbcradiolive.akamaized.net/hls/live/2041058/ES_R2MED/master.m3u8
+#EXTINF:-1,CBC Radio 1 Calgary (CBR - 1010 AM, 99.1 FM)
+https://cbcradiolive.akamaized.net/hls/live/2041039/ES_R1MCG/master.m3u8
+#EXTINF:-1,CHVN-FM
+https://goldenwest.leanstream.co/goldenwest/CHVNFM.stream/playlist.m3u8
+#EXTINF:-1,ICI Musique Calgary - 89.7 FM, Edmonton - 101.1 FM (CBCX-FM)
+https://rcavliveaudio.akamaized.net/hls/live/2006999/M-7AEDM0_EDM/master.m3u8
+#EXTINF:-1,Radio SRF 1 Bern Freiburg Wallis | 96k AAC+
+https://stream.srg-ssr.ch/m/regi_be_fr_vs/aacp_96
+#EXTINF:-1,Radio SRF 1 Graubünden | 32k AAC+
+https://stream.srg-ssr.ch/m/regi_gr/aacp_32
+#EXTINF:-1,Radio SRF 1 Graubünden | 96k AAC+
+https://stream.srg-ssr.ch/m/regi_gr/aacp_96
+#EXTINF:-1,Radio SRF 1 Ostschweiz | 32k AAC+
+https://stream.srg-ssr.ch/m/regi_ost/aacp_32
+#EXTINF:-1,Radio SRF 1 Zentralschweiz | 32k AAC+
+https://stream.srg-ssr.ch/m/regi_zentr/aacp_32
+#EXTINF:-1,Rete Due | 32k AAC+
+https://stream.srg-ssr.ch/m/retedue/aacp_32
+#EXTINF:-1,Rete Tre | 32k AAC+
+https://stream.srg-ssr.ch/m/retetre/aacp_32
+#EXTINF:-1,Rete Uno | 32k AAC+
+https://stream.srg-ssr.ch/m/reteuno/aacp_32
+#EXTINF:-1,RTR | 32k AAC+
+https://stream.srg-ssr.ch/m/rr/aacp_32
+#EXTINF:-1,FluxFM Chillout Radio | 320k AAC
+https://fluxmusic.api.radiosphere.io/channels/chillout-radio/stream.aac?quality=10
+#EXTINF:-1,FluxFM Chillout Radio | 64k MP3
+https://fluxmusic.api.radiosphere.io/channels/chillout-radio/stream.mp3?quality=1
+#EXTINF:-1,FluxFM Radio Alternative | 64k MP3
+https://fluxmusic.api.radiosphere.io/channels/alternative/stream.mp3?quality=1
+#EXTINF:-1,FluxFM Techno Underground | 64k MP3
+https://fluxmusic.api.radiosphere.io/channels/techno-underground/stream.mp3?quality=1
+#EXTINF:-1,FluxFM traumerei | 320k MP3
+https://fluxmusic.api.radiosphere.io/channels/traumerei/stream.mp3?quality=10
+#EXTINF:-1,FluxFM traumerei | 64k AAC
+https://fluxmusic.api.radiosphere.io/channels/traumerei/stream.aac?quality=1
+#EXTINF:-1,FluxFM Yoga Sounds | 64k AAC
+https://fluxmusic.api.radiosphere.io/channels/yoga-sounds/stream.aac?quality=1
+#EXTINF:-1,FluxFM Yoga Sounds | 64k MP3
+https://fluxmusic.api.radiosphere.io/channels/yoga-sounds/stream.mp3?quality=1

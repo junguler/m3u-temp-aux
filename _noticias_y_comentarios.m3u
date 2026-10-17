@@ -7,3 +7,19 @@ https://radio10.stweb.tv/radio10/live/chunks.m3u8
 https://stream.zeno.fm/4r530f2a9f0uv
 #EXTINF:-1,Radio Horizontes 93.1
 https://ares.disfrutaenlared.com:9060/
+#EXTINF:-1,ADN Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/ADNAAC.aac
+#EXTINF:-1,Radio Cobremar - Chañaral FM 89.9
+https://audio.bitsur.cl/8066/stream
+#EXTINF:-1,Blu Radio Bogotá 89.9
+https://playerservices.streamtheworld.com/api/livestream-redirect/BLURADIO.mp3
+#EXTINF:-1,Blu Radio Cali 91.5 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/BLU_CALI_ADP_SC
+#EXTINF:-1,Colmundo Radio 1040 AM
+https://streaming.shoutcast.com/colmundo-radio-bogota
+#EXTINF:-1,La Voz del Cinaruco 1050 AM
+https://radiolatina.info/7438/stream/
+#EXTINF:-1,Ondas de Ibagué 1470 AM
+https://stream.zeno.fm/3cng9cx5eeruv
+#EXTINF:-1,Canal 4 Tenerife
+https://panel5.soydigital.fm/8024/live

@@ -1,3 +1,25 @@
 #EXTM3U
 #EXTINF:-1,dr_dick's dub shack
 https://streamer.radio.co/s0635c8b0d/listen
+#EXTINF:-1,Radio Transdutor - Underground Electronic Music
+https://server28.srvsh.com.br:9138/
+#EXTINF:-1,0nlineradio CHILLOUT
+https://stream.0nlineradio.com/chillout?ref=radiobrowser
+#EXTINF:-1,FluxFM Anima Radio | 64k AAC
+https://fluxmusic.api.radiosphere.io/channels/anima-radio/stream.aac?quality=1
+#EXTINF:-1,FluxFM Anima Radio | 64k MP3
+https://fluxmusic.api.radiosphere.io/channels/anima-radio/stream.mp3?quality=1
+#EXTINF:-1,FluxFM Chillout Radio | 320k AAC
+https://fluxmusic.api.radiosphere.io/channels/chillout-radio/stream.aac?quality=10
+#EXTINF:-1,FluxFM Chillout Radio | 64k MP3
+https://fluxmusic.api.radiosphere.io/channels/chillout-radio/stream.mp3?quality=1
+#EXTINF:-1,FluxFM Electronic Chillout | 320k MP3
+https://fluxmusic.api.radiosphere.io/channels/electronic-chillout/stream.mp3?quality=10
+#EXTINF:-1,FluxFM Electronic Chillout | 64k AAC
+https://fluxmusic.api.radiosphere.io/channels/electronic-chillout/stream.aac?quality=1
+#EXTINF:-1,Paradisehunter
+https://radio.paradisehunter.de/listen/chillout/radio.mp3
+#EXTINF:-1,#1 Splash Spa
+https://ais-sa2.cdnstream1.com/2347_128.mp3
+#EXTINF:-1,972'CostaBrava
+https://myradio24.org/972cosbra

@@ -5,3 +5,31 @@ https://radio02.ferozo.com/proxy/ra02001342?mp=/stream
 https://radios.solumedia.com:6140/stream
 #EXTINF:-1,Metro 95.1
 https://playerservices.streamtheworld.com/api/livestream-redirect/METRO.mp3
+#EXTINF:-1,Radio Favorita 89.9 y 102.3 FM
+https://zeus.miradio.pro/hls/favorita/live.m3u8
+#EXTINF:-1,Radio FM Latina 89.1
+https://jm8n.com/proxy/radiofmlatina/stream
+#EXTINF:-1,Brutal (Medellín) 91.9 Fm
+https://streamingmediaradio.live/8086/stream
+#EXTINF:-1,CLÁSICOS REGGAETON 24_7
+https://stream.zeno.fm/2g1qkn4cbpeuv
+#EXTINF:-1,Colombia Urbana
+https://play10.tikast.com/proxy/colurbana?mp=/stream
+#EXTINF:-1,La Discoteca Radio
+https://streamingmediaradio.live:8002/stream
+#EXTINF:-1,La Mega (Medellín) 92.9 FM
+https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/632cb48f613bac0856b931ab
+#EXTINF:-1,La Mega (Pereira) 105.2 FM
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/632ce0bf9234f869e9a522af
+#EXTINF:-1,Mix (Medellín) 89.9 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIX_MEDELLINAAC.aac
+#EXTINF:-1,Power Online
+https://stream.zeno.fm/s41r4my8uwzuv
+#EXTINF:-1,Urbano 106 - 105.9 FM - San José, Costa Rica
+https://usa18.fastcast4u.com/proxy/rmoohhrw?mp=/1
+#EXTINF:-1,Canal Metropol 102.6 FM
+https://radioserver11.profesionalhosting.com/proxy/pkg78607?mp=/stream
+#EXTINF:-1,Candela Radio 91.4 FM
+https://radio.streamenginelogin.com:8002/stream
+#EXTINF:-1,Castro Punto Radio 88.2 FM
+https://server8.emitironline.com:10891/;

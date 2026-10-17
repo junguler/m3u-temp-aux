@@ -35,3 +35,285 @@ https://radio.muzaica.fm:9000/stream
 https://sc.mpbnl.nl/radionostalgia.mp3
 #EXTINF:-1,Radio NRG
 https://home.radionrg.com/hls/live/live.m3u8
+#EXTINF:-1,Conecta FM - Marília
+https://paineldj.com.br:20184/stream
+#EXTINF:-1,Jovem Pan FM - Florianópolis - SC
+https://live.paineldj.com.br/proxy/jfloripa?mp=/stream
+#EXTINF:-1,Rádio Dance Music Anos 2000
+https://cloud1.cdnseguro.com:2190/;
+#EXTINF:-1,Radio Energia Dance
+https://s05.w3bserver.com:20025/;
+#EXTINF:-1,Rádio Furacão 2000
+https://servidor24-1.brlogic.com:7516/live?source=website
+#EXTINF:-1,Radio ZTOP
+https://stream.zeno.fm/bd0hmtmb2d0uv
+#EXTINF:-1,SomBR
+https://airadio.duckdns.org/listen/radio_sombr/radio
+#EXTINF:-1,Z-top
+https://stream.zeno.fm/gzf0stmb2d0uv
+#EXTINF:-1,The BEAT 104.1 FM
+https://ice66.securenetsystems.net/THEBEAT1041
+#EXTINF:-1, #100 BEST IBIZA DEEP HOUSE
+https://stream.zeno.fm/lwv6zqgtv1dtv
+#EXTINF:-1, # 70s 80s 90s RdMix Network
+https://cast1.torontocast.com:1830/stream
+#EXTINF:-1,Euro Nation
+https://azuracast.myautodj.com/listen/euro_nation/radio.mp3
+#EXTINF:-1,Radio Unicité
+https://listen.radioking.com/radio/521287/stream/579484
+#EXTINF:-1, # RdMix DJSET 70s 80s 90s
+https://cast1.torontocast.com:4560/stream
+#EXTINF:-1, # RdMix Italo Disco 80s
+https://cast1.torontocast.com:2130/stream
+#EXTINF:-1,SerrebiRadio HD
+https://radio.serrebiradio.com/listen/serrebiradio/SerrebiRadioHD
+#EXTINF:-1,Back2Noize Radio
+https://securestreams4.autopo.st:1558/Back2Noize
+#EXTINF:-1,Music Radio Latin
+https://radio.musicradio.ai/listen/music_radio_latin/radio.mp3
+#EXTINF:-1,Radio grenzenlos,Radio grenzenlos [SPCast]
+https://grenzenlos.sp.radio.fm/stream
+#EXTINF:-1,FM Plus
+https://conectapp.misradios.cl/radio/fmplus.mp3
+#EXTINF:-1,Guza FM
+https://radio.somosguza.cl/listen/estacion_guza/radio.mp3
+#EXTINF:-1,Radio Retro Online
+https://sonic.streamingchilenos.com/8138/stream
+#EXTINF:-1,CROSSOVER ESTEREO
+https://stream.zeno.fm/9rxqd1fndkeuv
+#EXTINF:-1,La FM Plus 96.9 - Medellín
+https://co-e1-p-e-aa1-audio.cdn.mdstrm.com/live-audio-aw/632cb5dd08346a0889655d9d
+#EXTINF:-1,Veracruz stereo
+https://radio.veracruzstereo.com:8000/live
+#EXTINF:-1,Walkman Radio
+https://colombiawebs.com.co/proxy/walkmanradio?mp=/stream
+#EXTINF:-1,BojlerRoom
+https://ice4.abradio.cz/bojler_room_128.aac
+#EXTINF:-1,Deecibel One Radio
+https://stream.deecibel.com/one
+#EXTINF:-1,Rádio Nostalgie
+https://icecast3.play.cz/radio-nostalgie128.mp3
+#EXTINF:-1,Sunrise Radio (Czechia)
+https://stream.laut.fm/radio-dance-eu
+#EXTINF:-1,- 0 N - 2000s on Radio
+https://0n-2000s.radionetz.de/0n-2000s.mp3
+#EXTINF:-1,- 0 N - 2000s on Radio
+https://0n-2000s.radionetz.de/0n-2000s.aac
+#EXTINF:-1,- 0 N - 2010s on Radio
+https://0n-2010s.radionetz.de/0n-2010s.aac
+#EXTINF:-1,- 0 N - 2010s on Radio
+https://0n-2010s.radionetz.de/0n-2010s.mp3
+#EXTINF:-1,- 0 N - 90s on Radio
+https://0n-90s.radionetz.de/0n-90s.aac
+#EXTINF:-1,- 0 N - 90s on Radio
+https://0n-90s.radionetz.de/0n-90s.mp3
+#EXTINF:-1,- 0 N - Greatest Hits on Radio
+https://0n-greatesthits.radionetz.de/0n-greatesthits.aac
+#EXTINF:-1,- 0 N - Greatest Hits on Radio
+https://0n-greatesthits.radionetz.de/0n-greatesthits.mp3
+#EXTINF:-1,- 0 N - Hits on Radio
+https://0n-hits.radionetz.de/0n-hits.aac
+#EXTINF:-1,- 0 N - Hits on Radio
+https://0n-hits.radionetz.de/0n-hits.mp3
+#EXTINF:-1,- 0 N - Pop on Radio
+https://0n-pop.radionetz.de/0n-pop.mp3
+#EXTINF:-1,- 0 N - Pop on Radio
+https://0n-pop.radionetz.de/0n-pop.aac
+#EXTINF:-1,0nlineradio GRAN PRIX
+https://stream.0nlineradio.com/grandprix?ref=radiobrowser
+#EXTINF:-1,0nlineradio PARTY
+https://stream.0nlineradio.com/party?ref=radiobrowser
+#EXTINF:-1,0nlineradio QUEER
+https://stream.0nlineradio.com/queer?ref=radiobrowser
+#EXTINF:-1,0nlineradio REMIX
+https://stream.0nlineradio.com/remix?ref=radiobrowser
+#EXTINF:-1,0nlineradio - TRENDING CHARTS
+https://stream.0nlineradio.com/trending-charts
+#EXTINF:-1,0R - 90s || 90s Pop, 90s Hits, Eurodance, Hip Hop, R&B, Grunge, Alternative, Techno, Trance, Dance, Chill, Boyband, Girlband, Pop Rock, Nostalgic
+https://0nlineradio.radioho.st/0r-90s?ref=radio-browser26
+#EXTINF:-1,0R - EURO DANCE || Eurodance, 90s Dance, Pop, Dance, Club, Party, Trance, Techno, Electronic, Vocal, Hits, Energetic, Beat, Night, Dancefloor
+https://0nlineradio.radioho.st/technolovers-eurodance?ref=radio-browser26
+#EXTINF:-1,0R - SOFT HOUSE || Chill, Lounge, Dance, Deep House, Smooth, Vocal, Party, Electronic, Club, Night, Beat, Melodic, Summer, Relax
+https://0nlineradio.radioho.st/lounge-soft-house-lounge?ref=radio-browser26
+#EXTINF:-1,- 1 A - 2000er von 1A Radio
+https://1a-2000er.radionetz.de/1a-2000er.mp3
+#EXTINF:-1,- 1 A - 2000er von 1A Radio
+https://1a-2000er.radionetz.de/1a-2000er.aac
+#EXTINF:-1,- 1 A - 90er von 1A Radio
+https://1a-90er.radionetz.de/1a-90er.aac
+#EXTINF:-1,- 1 A - Hits von 1A Radio
+https://1a-hits.radionetz.de/1a-hits.mp3
+#EXTINF:-1,- 1 A - Hits von 1A Radio
+https://1a-hits.radionetz.de/1a-hits.aac
+#EXTINF:-1,- 1 A - Pop von 1A Radio
+https://1a-pop.radionetz.de/1a-pop.mp3
+#EXTINF:-1,- 1 A - Pop von 1A Radio
+https://1a-pop.radionetz.de/1a-pop.aac
+#EXTINF:-1,1000 90er - laut.fm
+https://100090er.stream.laut.fm/100090er
+#EXTINF:-1,1000 Hamburg
+https://stream.laut.fm/1000hamburg
+#EXTINF:-1,70's 80's 90's Riw Vintage Channel
+https://stream.laut.fm/70s-80s-90s-riw-vintage-channel
+#EXTINF:-1,__90S__ by rautemusik (rm.fm)
+https://90s-high.rautemusik.fm/?ref=radiobrowser
+#EXTINF:-1,AC-PLUS
+https://stream.laut.fm/ac-plus
+#EXTINF:-1,* AFRO HOUSE || Afro Tech, Deep House, Organic House, Tribal House, Melodic House, Tropical House, Ethnic House, Latin House, Percussion House, Beach Vibes, Summer Vibes, Sunset Grooves, Ibiza Vibes, Warm Up Grooves
+https://0nlineradio.radioho.st/technolovers-afro-house?ref=radio-browser26
+#EXTINF:-1,# Aktuelle HITS - 24H NON-STOP MUSIC - DANCE & DJ MIX RADIO @ TikTok Hits, Ibiza House, Sunset Lounge, Melodic Music, EDM, Deep House, Dance Music, Techno & Hypertechno, Rave Charts, Top 40 Charts, Latin, Reggaeton Music, Moombahton, Urban Hits, HipHop, P
+https://breakz-2012-high.rautemusik.fm/?ref=radiobrowser-akthits
+#EXTINF:-1,antenne WIESBADEN
+https://stream.antenne-wiesbaden.de/antennewiesbaden-live/mp3-192?ref=radio-browser
+#EXTINF:-1,Bayern1 Mainfranken
+https://streams.br.de/bayern1main_2.m3u
+#EXTINF:-1,__BIGCITYBEATS.FM__ by rautemusik (rm.fm)
+https://stream.bigcitybeats.de/bcb-radio/mp3-192/radiobrowser
+#EXTINF:-1,bigFM 2000er
+https://stream.bigfm.de/2000er/aac-128/radiobrowser
+#EXTINF:-1,bigFM 2010er
+https://stream.bigfm.de/2010er/aac-128/radiobrowser
+#EXTINF:-1,bigFM Afrobeats
+https://stream.bigfm.de/dancehall/mp3-128/radio-browser
+#EXTINF:-1,bigFM Dance Radio
+https://stream.bigfm.de/dance/mp3-128/radio-browser
+#EXTINF:-1,bigFM Mashup
+https://stream.bigfm.de/mashup/mp3-128/radio-browser
+#EXTINF:-1,CastleFM
+https://stream.laut.fm/castlefm
+#EXTINF:-1,~~ CHARTHITS~~ ChartHits.FM ~~ House, Dance, Electro, Techno, Charts, Top40, Pop, EDM, Afro House, Deep House, Techhouse, Festival, Top Charts, Hits, DJ Live Set, Remix, Radio Charts
+https://charthits-2012-high.rautemusik.fm/?ref=rb26
+#EXTINF:-1,__CHARTHITS.FM__ by rautemusik (rm.fm)
+https://charthits-high.rautemusik.fm/?ref=radiobrowser
+#EXTINF:-1,- CHARTS <3 EINFACH....DEIN LIEBLINGSRADIO <3, BEST OF REMIXES, CLUB, DANCE, HANDSUP, MASHUP, REMIX, DJ / DEEJAY, LIVE, TANZMUSIK, GROOVE, EDM, HARD, RAVE, DEEP HOUSE, CHILLOUT, TOP 100, TOP 40, REMIX RADIO, MIX, LOUNGE, SUNSET, AFRO HOUSE, HARDSTYLE, EDM
+https://breakz-high.rautemusik.fm/?ref=radiobrowser-LOVE
+#EXTINF:-1,#CLUB CHARTS -> TOP 100 || IMMER AKTUELL || DJ CHARTS || HOUSE, EDM, DEEP HOUSE - TECH HOUSE - TECHNO - MELODIC TECHNO - EDM - ELECTRONIC DANCE MUSIC - CLUB - DJ - DJ MIX - REMIX - FESTIVAL - FESTIVAL RADIO - IBIZA - IBIZA HOUSE - SUMMER HOUSE - BEACH CLU
+https://radio.breakz.fm/?ref=club2-71
+#EXTINF:-1,*CLUB CHARTS TOP 100 || IMMER AKTUELL || DJ CHARTS || HOUSE, EDM, DEEP HOUSE - TECH HOUSE - TECHNO - MELODIC TECHNO - EDM - ELECTRONIC DANCE MUSIC - CLUB - DJ - DJ MIX - REMIX - FESTIVAL - FESTIVAL RADIO - IBIZA - IBIZA HOUSE - SUMMER HOUSE - BEACH CLUB -
+https://breakz-2012-high.rautemusik.fm/?ref=N1CLUBBING26
+#EXTINF:-1,#CLUB RADIO - DEIN DJ @ HOME - - DJ Remix & Charts, , Electronic Music, EDM, House, Deep House, Techno, Melodic House & Techno, Top40, Latin, Reggaeton, Urban, HipHop, Club & Party Radio
+https://breakz-2012-high.rautemusik.fm/?ref=rb-deindj
+#EXTINF:-1,Clubradio24
+https://stream.laut.fm/clubradio24
+#EXTINF:-1,Coco und Jambo
+https://stream.laut.fm/cocoundjambo
+#EXTINF:-1,_DEEJAY REMIXE_ Your Radio for finest House, EDM, Electro, Dance, Mashup, Hypertechno, Techno, Bootleg, Charts, Top40, Chillout, Lounge, HipHop, Urban & Latin Party DJ Remixes!
+https://breakz-high.rautemusik.fm/?ref=radiobrowser-deejay-remixes-radio
+#EXTINF:-1,delta radio UNPLUGGED [aac | 64 kbps]
+https://streams.deltaradio.de/delta-unplugged/aac-64/streams.deltaradio.de/
+#EXTINF:-1,delta radio UNPLUGGED [mp3 | 192 kbps]
+https://streams.deltaradio.de/delta-unplugged/mp3-192/streams.deltaradio.de/
+#EXTINF:-1,__DEUTSCHE HITS__ by rautemusik (rm.fm)
+https://deutsche-hits-high.rautemusik.fm/?ref=radiobrowser
+#EXTINF:-1,* EDM FESTIVAL || Festival EDM, Big Room, Mainstage, Electro House, Progressive House, Hard EDM, Drops, Anthems, Party, Energy, Club, Rave, Future EDM, Bass, Peak Time
+https://0nlineradio.radioho.st/0r-edm-festival?ref=rb26
+#EXTINF:-1,Feierfreund Autoscooter -om
+https://regiocast.streamabc.net/regc-feierfreundautoscooter4528474-mp3-192-8023058?sABC=65r84n18%231%23orn59s6sonr544p2o28ro0p547q6s693%23ubzrcntr&mode=preroll&aw_0_1st.skey=1709722136&cb=719606244&aw_0_req.userConsentV2=CP7DPQAP7DPQAAFADCDEAqEgAAAAAEPgAAYgAAAQ5gRAAKAAqABcADwAIAASAAyABwAEQAI4AUoAtgC4AGIAN4AfgBLADDAHcAP0AhABFgCxAF1AMUAbgA-wCLwEiALzAX0AwQBlgEAQIcgCBoAMAAQQ5EQAYAAghyKgAwABBDkZABgACCHI.YAAAAAAAAAAA&aw_0_1st.playerid=feierfreund_web&listenerid=bea59f6fbae544c2b28eb0c547d6f693&amsparams=playerid:homepage;skey:1709722136
+#EXTINF:-1,__GOLDIES__ by rautemusik (rm.fm)
+https://goldies-high.rautemusik.fm/?ref=radiobrowser
+#EXTINF:-1,Hitradio N1 Nürnberg
+https://edge11.streamonkey.net/fhn-hitradion1/stream/mp3?aggregator=webseite
+#EXTINF:-1,IBIZA CHILLOUT LOUNGE - Ambient, Deep House, Balearic, Smooth Jazz, Acoustic, Chill House, Lo-Fi, Chillwave, Dream Pop, Electro, Tropical House, Sunset Chill, Café del Mar, Soft Electronica, Slow House, Ambient, Relax, Easy Listening, Beach Vibes, Summer
+https://0nlineradio.radioho.st/lounge-ibiza-chillout-lounge?ref=rb26
+#EXTINF:-1,ILOVE RADIO
+https://play.ilovemusic.de/ilm_iloveradio/
+#EXTINF:-1,laut.fm Hamburg Digital
+https://stream.laut.fm/hamburg-digital
+#EXTINF:-1,Laut FM - Zone FM
+https://zonefm.stream.laut.fm/zonefm?OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO4
+#EXTINF:-1,M1.FM 90s
+https://tuner.m1.fm/90er.aac
+#EXTINF:-1,__MAIN__ by rautemusik (rm.fm)
+https://main-high.rautemusik.fm/?ref=radiobrowser
+#EXTINF:-1,# Mainstage Charts - Your FESTIVAL Radio @ EDM - TECHNO - DJ MIXTAPES - RAVE -  LATIN - REGGAETON - MOOMBAHTON - RnB - DJ Charts - HIPHOP - ELECTRO - DEEP HOUSE -  DANCE - LOUNGE - CHILLOUT - SUMMER - IBIZA HOUSE - WEDDING - BACH - SOULFUL - BEACH - CLUB 
+https://breakz-high.rautemusik.fm/?ref=radiobrowser-mainstage
+#EXTINF:-1,MAX.RETRO
+https://maxretro.stream.laut.fm/maxretro
+#EXTINF:-1,MUSIC FM
+https://music-fm.stream.laut.fm/music-fm-
+#EXTINF:-1,nice MIX
+https://mix-hd-radio.nice-radiotv.de/
+#EXTINF:-1,-- NICHT EINSCHALTEN -- !!! Nichts außer House - EDM - HipHop - RnB - Techno - TechHouse - Top 40 Charts - Latin - Afro - Sunset - Beach und Aktuelle Hits -  DJ Mixtape RADIO
+https://breakz-2012-high.rautemusik.fm/?ref=rbnichteinschalten
+#EXTINF:-1,NITRO.LAUT Radio
+https://stream.rtlradio.de/nitrolaut/mp3-192/
+#EXTINF:-1,Ole Land Radio
+https://oleland.stream.laut.fm/oleland?ref=web-app&start_time=1711363896112
+#EXTINF:-1,__PARTYHITS__ by rautemusik (rm.fm)
+https://partyhits-high.rautemusik.fm/?ref=radiobrowser
+#EXTINF:-1,RADIO BOB - Blues [aac | 64 kbps]
+https://streams.radiobob.de/blues/aac-64/streams.radiobob.de/
+#EXTINF:-1,RADIO BOB - Blues [mp3 | 192 kbps]
+https://streams.radiobob.de/blues/mp3-192/streams.radiobob.de/
+#EXTINF:-1,Radio Budowlaniec
+https://stream.radio-budowlaniec.de/listen/radio-budowlaniec/radio.mp3
+#EXTINF:-1,RADIO DANCE 90er
+https://radiodance.streamingmedia.it/de.aac
+#EXTINF:-1,Radio FLR1
+https://stream.hoerfunkbundstream.de:35102/stream
+#EXTINF:-1,Radio IMGDUMP
+https://stream.imgdump.lol/stream
+#EXTINF:-1,Radio PSR 90er
+https://streams.radiopsr.de/psr-90er/mp3-192/www.radio-browser.info/play.m3u8
+#EXTINF:-1,RADIO PSR 90er Dance
+https://regiocast.streamabc.net/regc-psr90erdance2408061-mp3-192-9728950?sABC=69688ns6%230%23q280o0r09ns9qpq3889p9qqn13p5753s%23fgernzf.enqvbcfe.qr&aw_0_1st.playerid=streams.radiopsr.de&amsparams=playerid:streams.radiopsr.de;skey:1768458998
+#EXTINF:-1,Radio PSR Chemnitz | AAC 64 kbps
+https://streams.radiopsr.de/psr-live-sn-chm/aac-64/streams.radiopsr.de
+#EXTINF:-1,Radio PSR Dresden | AAC 64 kbps
+https://streams.radiopsr.de/psr-live-sn-ddn/aac-64
+#EXTINF:-1,RADIO PSR Partymix
+https://regiocast.streamabc.net/regc-psrpartymix1801718-mp3-192-6173501?sABC=69689opp%230%23q280o0r09ns9qpq3889p9qqn13p5753s%23fgernzf.enqvbcfe.qr&aw_0_1st.playerid=streams.radiopsr.de&amsparams=playerid:streams.radiopsr.de;skey:1768463308
+#EXTINF:-1,Radio PSR Partymix | AAC 64 kbps
+https://streams.radiopsr.de/psr-partymix/aac-64/streams.radiopsr.de
+#EXTINF:-1,RADIO PSR Pop Dance
+https://regiocast.streamabc.net/regc-psrpopdance3474496-mp3-192-7478109?sABC=69687861%230%23q280o0r09ns9qpq3889p9qqn13p5753s%23fgernzf.enqvbcfe.qr&aw_0_1st.playerid=streams.radiopsr.de&amsparams=playerid:streams.radiopsr.de;skey:1768454241
+#EXTINF:-1,Radio PSR Sommerhits | AAC 64 kbps
+https://streams.radiopsr.de/sommerhits/aac-64/streams.radiopsr.de
+#EXTINF:-1,Radio Regenbogen 90er Dance
+https://stream.regenbogen.de/90erdance/mp3-128/radiobrowser
+#EXTINF:-1,RauteMusik Club | AAC 48 kbps
+https://club-aacp.rautemusik.fm/
+#EXTINF:-1,# REMIX & PARTYBREAKS - Your House - EDM - HipHop - RnB - Techno - TechHouse - Top 40 Charts - Latin - DJ Mixtape RADIO
+https://stream.breakz.fm/?ref=radiobrowser-remix-partybreaks-radio
+#EXTINF:-1,RPR1. Tanzbar
+https://stream.rpr1.de/tanzbar/mp3-128/radiobrowser
+#EXTINF:-1,SACHSEN eins
+https://stream.sachsen-media.de/sachsen-media-sachseneins/mp3-192?ref=radio-browser
+#EXTINF:-1,__SCHLAGERRADIO.FM__ by rautemusik (rm.fm)
+https://schlager-high.rautemusik.fm/?ref=radiobrowser
+#EXTINF:-1,scooter fan
+https://laut.fm/scooterfanradio
+#EXTINF:-1,Sunshine Live Charts AAC 64
+https://sunsl.streamabc.net/sunsl-charts-aacplus-64-4965210?sABC=6968691q%230%23q280o0r09ns9qpq3889p9qqn13p5753s%23fgernz.fhafuvar-yvir.qr&aw_0_1st.playerid=stream.sunshine-live.de&amsparams=playerid:stream.sunshine-live.de;skey:1768450333
+#EXTINF:-1,Technolovers EDM
+https://stream.technolovers.fm/edm?ref=radiobrowser
+#EXTINF:-1,Technolovers ELECTRO HOUSE
+https://stream.technolovers.fm/electro-house?ref=radiobrowser
+#EXTINF:-1,Technolovers EURODANCE
+https://stream.technolovers.fm/eurodance?ref=radiobrowser
+#EXTINF:-1,Technolovers MELBOURNE BOUNCE
+https://stream.technolovers.fm/melbourne-bounce?ref=radiobrowser
+#EXTINF:-1,>> *TOP 100 CHARTS* <<  || Pop, Rock, Dance, House, Techno, Trance, Electro, Hip-Hop, Rap, RnB, Reggaeton, Latin, Jazz, Blues, Soul, Funk, Metal, Punk, Indie, Alternative, Chillout, Lounge, Ambient, Classical, Acoustic, Singer-Songwriter, Party, Top 40, H
+https://breakz-2012-high.rautemusik.fm/?ref=rb010326
+#EXTINF:-1,- TOP 100 - DJ Charts - / - REMIX DEEJAY RADIO - CLUB RADIO - HOUSE - EDM - TECHHOUSE - TECHNO - DANCE - TOP100 - TOP40 - RNB - BLACKMUSIC - HIPHOP - URBAN - REGGEATON - MIXTAPE RADIO - RAVE MUSIC -  LIVE DEEJAY RADIO - LIVE EVENTS
+https://radio2.breakz.fm/?ref=rb-gpt-t100
+#EXTINF:-1,#TOP 200 DJ CHARTS - JUST MUSIC - DJ REMIX & CHARTS RADIO @ TikTok Charts, Electronic Music, EDM, House, Deep House, Dance Music, Techno & Hypertechno, Top40, Latin Charts, Reggaeton, Urban, HipHop, Club & Party Radio - & LIVE DJ SETS @ Festival Melodic H
+https://breakz-high.rautemusik.fm/stream.mp3?ref=DJCHARTSRB
+#EXTINF:-1,# TOP 40 DEEJAY CHARTS â€“  CLUB CHARTS NONSTOP - DANCE & DJ MIX RADIO - 24 HOURS NON-STOP MUSIC @ TikTok Hits, Ibiza House, Sunset Lounge, Melodic Music, EDM, Deep House, Dance Music, Techno, Techhouse & Hypertechno, Rave Charts, Top 40 Charts, Latin, Regg
+https://breakz-high.rautemusik.fm/?ref=26T40
+#EXTINF:-1,__TOP40__ by rautemusik (rm.fm)
+https://top40-high.rautemusik.fm/?ref=radiobrowser
+#EXTINF:-1,WORLD CLUB DOME Radio - Das offizielle Radio des WORLD CLUB DOME Festivals mit den besten DJ-Sets und dem Livestream vom größten Club der Welt - Dance, Electro, EDM, Techno, DJ Live Sets
+https://radio.worldclubdome.com/wcd-radio/mp3-192?ref=radiobrowser
+#EXTINF:-1,Zocker-FM
+https://zockerfm.stream.laut.fm/zockerfm?t302=2026-03-24_21-33-02&uuid=6eac6792-303d-4e5d-ad71-01368a022035
+#EXTINF:-1,#1 Splash 90s Dance
+https://c6.auracast.net/radio/8090/radio.mp3
+#EXTINF:-1,_80 EXITOS
+https://80sexitos.stream.laut.fm/80sexitos
+#EXTINF:-1,Almodóvar en La Onda 107.2 FM
+https://nrf1.newradio.it:9972/stream
+#EXTINF:-1,Aqua Radio
+https://quincy.torontocast.com:2260/;
+#EXTINF:-1,+Buena FM
+https://sonic.mediatelekom.net/8156/stream

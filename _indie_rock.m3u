@@ -7,3 +7,23 @@ https://streaming6.locucionar.com/stream/estacionprodan
 https://cdn.instream.audio/:9568/stream
 #EXTINF:-1,89 Goiânia
 https://ice.fabricahost.com.br/89aradiorockgo
+#EXTINF:-1,Mundo Livre FM Maringá 102.5
+https://playerservices.streamtheworld.com/api/livestream-redirect/MUNDOLIVRE_MGAAAC.aac
+#EXTINF:-1,Urbania Underground
+https://s11.w3bserver.com/listen/urbaniaunderground_a93984/radio.mp3
+#EXTINF:-1,Moodhoney Radio
+https://moodhoney.com/listen/moodhoney_radio/radio.mp3
+#EXTINF:-1,Stoke FM
+https://streams.radiomast.io/fa7ff97e-4b53-4cc8-939c-43aadc971a4c
+#EXTINF:-1,100Indie
+https://stream.laut.fm/100indie
+#EXTINF:-1,Best Of Rock.FM Alternative Rock
+https://bestofrockfm.stream.vip/altrock/mp3-256/bestofrock.fm/
+#EXTINF:-1,FluxFM Indie Disco | 320k AAC
+https://fluxmusic.api.radiosphere.io/channels/indiedisco/stream.aac?quality=10
+#EXTINF:-1,FluxFM Indie Disco | 64k MP3
+https://fluxmusic.api.radiosphere.io/channels/indiedisco/stream.mp3?quality=1
+#EXTINF:-1,FluxFM Radio Alternative | 64k MP3
+https://fluxmusic.api.radiosphere.io/channels/alternative/stream.mp3?quality=1
+#EXTINF:-1,Radio Home of Rock
+https://server24094.streamplus.de/stream.mp3

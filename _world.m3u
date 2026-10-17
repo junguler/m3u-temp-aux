@@ -1,3 +1,15 @@
 #EXTM3U
 #EXTINF:-1,Nesian FM
 https://s88.radiolize.com:8040/radio.mp3
+#EXTINF:-1,Rádio Eixo
+https://hts02.brascast.com:9758/live
+#EXTINF:-1,CBC Music Mountain (Calgary, CBR-FM, 102.1 FM, formerly CBC Radio 2)
+https://cbcradiolive.akamaized.net/hls/live/2041058/ES_R2MED/master.m3u8
+#EXTINF:-1,Soundstorm
+https://stream.soundstorm-radio.com/listen/soundstorm/radio.mp3
+#EXTINF:-1,SWISS GROOVE
+https://relay2.swissgroove.ch/;
+#EXTINF:-1,omaneo Genussreise
+https://radio.omaneo.de/listen/genussreise/radio.mp3
+#EXTINF:-1,Radio Alpenmelodie
+https://radio.alpenmelodie.de/

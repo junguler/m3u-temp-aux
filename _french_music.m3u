@@ -1,3 +1,9 @@
 #EXTM3U
 #EXTINF:-1,Radio Oost-West
 https://icecast.movemedia.be/oostwest
+#EXTINF:-1,ICI Musique Calgary - 89.7 FM, Edmonton - 101.1 FM (CBCX-FM)
+https://rcavliveaudio.akamaized.net/hls/live/2006999/M-7AEDM0_EDM/master.m3u8
+#EXTINF:-1,ICI Radio-Canada Première Edmonton - 90.1 FM (CHFA-FM)
+https://rcavliveaudio.akamaized.net/hls/live/2006949/P-2AEDM0_EDM/master.m3u8
+#EXTINF:-1,Epic Lounge - FRENCH CAFÉ LOUNGE
+https://0nlineradio.stream42.radiohost.de/lounge-french-cafe-lounge?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzY4NDQ1MTE3JmQ9ODA5N2Q3ZjM4NTY5ZGM3NzdlNTM

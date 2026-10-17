@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1,Triple M Brisbane
 https://sa47.scastream.com.au/live/4mmm_128.stream/playlist.m3u8?listeningSessionID=692f0d2f013be492_16910808_cXvVLSYa_NjYuODUuODkuMTcyOjgw_000000nmU6U&downloadSessionID=0
+#EXTINF:-1,Spoon Radio - Modern Rock
+https://spoonradiomodernrock.ice.infomaniak.ch/spoon-modernrock-hd.aac
+#EXTINF:-1,Danmarks Radio P3
+https://live-icy.dr.dk/A/A27L.mp3

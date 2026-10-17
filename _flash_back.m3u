@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1,Atos FM
 https://s.bul.tec.br:8020/128
+#EXTINF:-1,Rádio Chaveco 
+https://sv10.hdradios.net:6864/stream
+#EXTINF:-1,Rádio Studio Flashback
+https://stream-163.zeno.fm/6gv76f1xruquv?zs=SvdWy-tsTtCXPZ9IZC0ASA

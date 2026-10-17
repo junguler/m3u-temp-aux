@@ -1,3 +1,19 @@
 #EXTM3U
 #EXTINF:-1,BandNews FM Belo Horizonte
 https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_BHAAC.aac
+#EXTINF:-1,Rádio Bandeirantes 85.7 FM
+https://stm23.xcast.com.br:11284/stream
+#EXTINF:-1,Rádio Bandeirantes 90.9 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/RadioBandeirantesAAC.m3u8?dist=radios.com.br
+#EXTINF:-1,Rádio CBN Campinas 99.1 FM
+https://8214.brasilstream.com.br/stream
+#EXTINF:-1,Rádio Coringão
+https://s18.maxcast.com.br:8010/live
+#EXTINF:-1,Rádio Gaúcha 93.7 FM
+https://liverdgaupoa.rbsdirect.com.br/primary/gaucha_rbs.sdp/playlist.m3u8
+#EXTINF:-1,Rádio Transamérica 100.1 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/RT_SPAAC.aac
+#EXTINF:-1,RADIO HAFENSTRASSE
+https://listen.radioking.com/radio/212434/stream/255523
+#EXTINF:-1,RNC La Mundialista 103.3 FM (AAC)
+https://streamingecuador.net:7008/radiornc

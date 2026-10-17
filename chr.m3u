@@ -3,3 +3,9 @@
 https://stream2.datacenter.by/stream
 #EXTINF:-1,Lider FM
 https://icecast.lider-fm.by/liderfm
+#EXTINF:-1,Jovem Pan FM - Florianópolis - SC
+https://live.paineldj.com.br/proxy/jfloripa?mp=/stream
+#EXTINF:-1,Rádio Mix 106.3 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC.aac
+#EXTINF:-1,Z-top
+https://stream.zeno.fm/gzf0stmb2d0uv

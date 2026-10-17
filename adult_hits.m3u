@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1,CFBK 105.5 "Moose FM" Huntsville,  ON 
+https://vistaradio.streamb.live/SB00116
+#EXTINF:-1,CFLT "Jack 92.9" Dartmouth, NS
+https://rogers-hls.leanstream.co/rogers/hal929.stream/playlist.m3u8
+#EXTINF:-1,CHST-FM "Jack 102.3" London, ON 
+https://rogers-hls.leanstream.co/rogers/lon1023.stream/playlist.m3u8
+#EXTINF:-1,CHWY-FM 106.7 "Big 106" Weyburn, SK     
+https://hel-ais-relay1.leanstream.co/goldenwest/CHWYFM.stream/playlist.m3u8
+#EXTINF:-1,CIKT-FM "98.9 Rewind Radio" Grande Prairie, AB
+https://stream.jpbgdigital.com/CIKT/HEAAC/48k/playlist.m3u8
+#EXTINF:-1,CIUP-FM "Up 99.3" Edmonton, AB  
+https://stream.jpbgdigital.com/CIUP.m3u8
+#EXTINF:-1,CJIB-FM "Beach Radio 107.5" Vernon, BC 
+https://stream.jpbgdigital.com/CJIB.m3u8
+#EXTINF:-1,CJSU-FM 89.7 "Sun FM" Duncan, BC
+https://vistaradio.streamb.live/SB00080
+#EXTINF:-1,CKLP 103.3 "Moose FM" Parry Sound, ON 
+https://vistaradio.streamb.live/SB00114
+#EXTINF:-1,CKQQ-FM "Beach Radio 103.1" Kelowna, BC   
+https://stream.jpbgdigital.com/CKQQ.m3u8
+#EXTINF:-1,CKVV 97.5 "Juice FM" Kemptville, ON 
+https://vistaradio.streamb.live/SB00108
+#EXTINF:-1,__SEX__ by rautemusik (rm.fm)
+https://sex-high.rautemusik.fm/?ref=radiobrowser

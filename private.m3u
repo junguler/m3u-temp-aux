@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1,Radio Ednil Alexa
+https://radio.ednil.de/alexa.mp3
+#EXTINF:-1,Radio Ednil MP3
+https://radio.ednil.de/radio.mp3
+#EXTINF:-1,Radio Ednil OGG Test
+https://radio.ednil.de/test.ogg
+#EXTINF:-1,Radio Ednil Random Music
+https://radio.ednil.de/randommusic
+#EXTINF:-1,Radio Ednil TestStream
+https://radio.ednil.de/teststream

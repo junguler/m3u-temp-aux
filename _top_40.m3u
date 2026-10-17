@@ -35,3 +35,131 @@ https://kadushi.westream.cloud/listen/alfafm/xstream
 https://stream.rcast.net/70602
 #EXTINF:-1,Radio Unistar
 https://edge2.usp.unistar.by/hls/unistar_main/96k.m3u8
+#EXTINF:-1,Biz WebRadio
+https://icecast.bizwebradio.com/listen/biz/radio.aac
+#EXTINF:-1,Jovem pan 95,9 FM
+https://cast4.audiostream.com.br:20004/jp95
+#EXTINF:-1,Jovem Pan FM - Brasília - DF - 106.3
+https://shout25.crossradio.com.br:18022/1
+#EXTINF:-1,Jovem Pan FM - Florianópolis - SC
+https://live.paineldj.com.br/proxy/jfloripa?mp=/stream
+#EXTINF:-1,Jovem Pan FM - Manaus - AM - 104.1
+https://directradios.net/proxy/jpmaceio?mp=/stream
+#EXTINF:-1,Jovem Pan FM - Salvador - BA - 91.3
+https://shout25.crossradio.com.br:18022/1,%20https://shout25.crossradio.com.br:18022/1
+#EXTINF:-1,Radio ZTOP
+https://stream.zeno.fm/bd0hmtmb2d0uv
+#EXTINF:-1,Z-top
+https://stream.zeno.fm/gzf0stmb2d0uv
+#EXTINF:-1,CHBN-FM  "KISS 91.7" Edmonton, AB
+https://rogers-hls.leanstream.co/rogers/edm917.stream/playlist.m3u8
+#EXTINF:-1,CHJM "Mix 99.7" Saint-Georges, QC
+https://stream.statsradio.com:8054/stream
+#EXTINF:-1,CIBM-FM 107.1 "FM107" Riviere-du-Loup, QC (128 kbps MP3)
+https://stream.statsradio.com:8050/stream
+#EXTINF:-1,CKIS "KISS 92.5" Toronto, ON
+https://rogers-hls.leanstream.co/rogers/tor925.stream/playlist.m3u8
+#EXTINF:-1,CKKS 107.5 "KISS Radio" Chilliwack, BC (correction)
+https://rogers-hls.leanstream.co/rogers/van1049.stream/playlist.m3u8
+#EXTINF:-1,Hits 93 Toronto
+https://hits93toronto.com:2955/stream
+#EXTINF:-1,Radio 854
+https://jenny.torontocast.com:8034/stream
+#EXTINF:-1,The Mixtape
+https://eagle.streemlion.com/proxy/trevor1?mp=/stream
+#EXTINF:-1,One Dance Ticino
+https://ice15.fluidstream.net/onedancech.aac
+#EXTINF:-1,100.9 Play FM
+https://mdstrm.com/audio/5c8d6406f98fbf269f57c82c/icecast.audio
+#EXTINF:-1,Radio Vale FM CHILE
+https://sp1.streamingssl.com/8056/stream
+#EXTINF:-1,LOS40 Colombia
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_COLOMBIAAAC.aac
+#EXTINF:-1,- 0 N - Black on Radio
+https://0n-black.radionetz.de/0n-black.aac
+#EXTINF:-1,- 0 N - Black on Radio
+https://0n-black.radionetz.de/0n-black.mp3
+#EXTINF:-1,- 0 N - Radio on Radio
+https://0n-radio.radionetz.de/0n-radio.aac
+#EXTINF:-1,- 0 N - Radio on Radio
+https://0n-radio.radionetz.de/0n-radio.mp3
+#EXTINF:-1,0nline DEEJAY RADIO
+https://radio2.breakz.fm/?ref=radiobrowser26
+#EXTINF:-1,0nlineradio TOP40
+https://stream.0nlineradio.com/top40?ref=radiobrowser
+#EXTINF:-1,0nlineradio - TRENDING CHARTS
+https://stream.0nlineradio.com/trending-charts
+#EXTINF:-1,1000 Hamburg
+https://stream.laut.fm/1000hamburg
+#EXTINF:-1,89.0 RTL - Most Wanted
+https://fhhalle.streamabc.net/890rtl-mostwanted-mp3-128-41?sABC=5nn6320r%231%23s0115pq7r125o1o27s344rnqnqrnrors%23enqvbcynlreUC&listenerid=a953ab66ebd3a12b38f20e85fb7a7306&awparams=companionAds:true&amsparams=playerid:radioplayerHP;skey:1520841230
+#EXTINF:-1,# Aktuelle HITS - 24H NON-STOP MUSIC - DANCE & DJ MIX RADIO @ TikTok Hits, Ibiza House, Sunset Lounge, Melodic Music, EDM, Deep House, Dance Music, Techno & Hypertechno, Rave Charts, Top 40 Charts, Latin, Reggaeton Music, Moombahton, Urban Hits, HipHop, P
+https://breakz-2012-high.rautemusik.fm/?ref=radiobrowser-akthits
+#EXTINF:-1,bigFM Baden-Württemberg
+https://stream.bigfm.de/bw/mp3-128/radio-browser
+#EXTINF:-1,bigFM Hessen
+https://stream.bigfm.de/hessen/aac-128/radiobrowser
+#EXTINF:-1,bigGPT
+https://stream.bigfm.de/gpt/aac-128/stream.bigfm.de/
+#EXTINF:-1,~~ CHARTHITS~~ ChartHits.FM ~~ House, Dance, Electro, Techno, Charts, Top40, Pop, EDM, Afro House, Deep House, Techhouse, Festival, Top Charts, Hits, DJ Live Set, Remix, Radio Charts
+https://charthits-2012-high.rautemusik.fm/?ref=rb26
+#EXTINF:-1,#CLUB CHARTS -> TOP 100 || IMMER AKTUELL || DJ CHARTS || HOUSE, EDM, DEEP HOUSE - TECH HOUSE - TECHNO - MELODIC TECHNO - EDM - ELECTRONIC DANCE MUSIC - CLUB - DJ - DJ MIX - REMIX - FESTIVAL - FESTIVAL RADIO - IBIZA - IBIZA HOUSE - SUMMER HOUSE - BEACH CLU
+https://radio.breakz.fm/?ref=club2-71
+#EXTINF:-1,*CLUB CHARTS TOP 100 || IMMER AKTUELL || DJ CHARTS || HOUSE, EDM, DEEP HOUSE - TECH HOUSE - TECHNO - MELODIC TECHNO - EDM - ELECTRONIC DANCE MUSIC - CLUB - DJ - DJ MIX - REMIX - FESTIVAL - FESTIVAL RADIO - IBIZA - IBIZA HOUSE - SUMMER HOUSE - BEACH CLUB -
+https://breakz-2012-high.rautemusik.fm/?ref=N1CLUBBING26
+#EXTINF:-1,#CLUB RADIO - DEIN DJ @ HOME - - DJ Remix & Charts, , Electronic Music, EDM, House, Deep House, Techno, Melodic House & Techno, Top40, Latin, Reggaeton, Urban, HipHop, Club & Party Radio
+https://breakz-2012-high.rautemusik.fm/?ref=rb-deindj
+#EXTINF:-1,_DEEJAY REMIXE_ Your Radio for finest House, EDM, Electro, Dance, Mashup, Hypertechno, Techno, Bootleg, Charts, Top40, Chillout, Lounge, HipHop, Urban & Latin Party DJ Remixes!
+https://breakz-high.rautemusik.fm/?ref=radiobrowser-deejay-remixes-radio
+#EXTINF:-1, - DJ & CLUB CHARTS ---> Club Classics, Festival-Hits, Remixes, Single Charts, Mashups, DJ Sets, Club Edits, Dancefloor, Underground, Nightlife, Party Anthems, Ibiza, Miami, Clubbing, Festival, Remix, Mashup, DJ, EDM,  RAVE, Dance, Urban, Latin, Beachclub
+https://breakz-2012-high.rautemusik.fm/?ref=rb-djclubcharts
+#EXTINF:-1,Feierfreund Autoscooter -om
+https://regiocast.streamabc.net/regc-feierfreundautoscooter4528474-mp3-192-8023058?sABC=65r84n18%231%23orn59s6sonr544p2o28ro0p547q6s693%23ubzrcntr&mode=preroll&aw_0_1st.skey=1709722136&cb=719606244&aw_0_req.userConsentV2=CP7DPQAP7DPQAAFADCDEAqEgAAAAAEPgAAYgAAAQ5gRAAKAAqABcADwAIAASAAyABwAEQAI4AUoAtgC4AGIAN4AfgBLADDAHcAP0AhABFgCxAF1AMUAbgA-wCLwEiALzAX0AwQBlgEAQIcgCBoAMAAQQ5EQAYAAghyKgAwABBDkZABgACCHI.YAAAAAAAAAAA&aw_0_1st.playerid=feierfreund_web&listenerid=bea59f6fbae544c2b28eb0c547d6f693&amsparams=playerid:homepage;skey:1709722136
+#EXTINF:-1,FINN Radio One
+https://stream.laut.fm/finnradioone
+#EXTINF:-1,House vs. Hip-Hop, Rap, Deutschrap, R&B, Trap, Techno, House, EDM, Deep House, Hardstyle, Trance, Drum & Bass, Lo-Fi, Chillout, Festival, Club, Party, Afterhour, Beats, Underground, Hype, Techno, TechHouse - Top 40 Charts - DJ Mixtape RADIO
+https://breakz-office.rautemusik.fm/?ref=rb-festival
+#EXTINF:-1,# Mainstream Mornings & Party Nights - (Morning/Day: Mainstream, Top 40, Charts - Evening/Night: Party, House, Techno, DJ Mixes, Live DJs)
+https://breakz-high.rautemusik.fm/?ref=maindjatnightrb
+#EXTINF:-1,MEGARADIOmix
+https://play.megaradiomix.de/megaradiomix-berlin/mp3-192/
+#EXTINF:-1, - NEUERSCHEINUNGEN - Radio Charts - DJ Charts - Club Charts - Top 100 - Top 40 Club - Pop, Hip-Hop, Dance, EDM, House, Techno, R&B, Trap, Reggaeton, Afrobeat, Indie-Pop, Tropical House, Future Bass, Electro Swing, Synthwave, Deep House, Progressive House
+https://breakz-high.rautemusik.fm/?ref=rb-neuerscheinungen
+#EXTINF:-1,-- NICHT EINSCHALTEN -- !!! Nichts außer House - EDM - HipHop - RnB - Techno - TechHouse - Top 40 Charts - Latin - Afro - Sunset - Beach und Aktuelle Hits -  DJ Mixtape RADIO
+https://breakz-2012-high.rautemusik.fm/?ref=rbnichteinschalten
+#EXTINF:-1,Radio Erft
+https://radioerft--di--nacs-ais-lgc--04--cdn.cast.addradio.de/radioerft/live/mp3/high
+#EXTINF:-1,Radio FFN - Hits*
+https://stream.ffn.de/ffn-hits/mp3-192?ref=radio-browser
+#EXTINF:-1,Radio Gütersloh
+https://ams.stream43.radiohost.de/ams-radioguetersloh_mp3-192?addradio&upd-meta&upd-scheme=https&_art=dD0xNzY4NDQ5Njg5JmQ9ZDg4NDYwMWI2ZjhmNDUzYmI2YjI
+#EXTINF:-1,Radio Regenbogen Nur die Musik
+https://stream.regenbogen.de/musik/mp3-128/radiobrowser
+#EXTINF:-1,radio SAW-Neuheiten
+https://stream.radiosaw.de/saw-neuheiten/mp3-192/radio-browser/
+#EXTINF:-1,# REMIX & PARTYBREAKS - Your House - EDM - HipHop - RnB - Techno - TechHouse - Top 40 Charts - Latin - DJ Mixtape RADIO
+https://stream.breakz.fm/?ref=radiobrowser-remix-partybreaks-radio
+#EXTINF:-1,-- # TOP 100 CHARTS --- DJ MIXES -- Pop, Rock, Dance, House, Techno, Trance, Electro, Hip-Hop, Rap, RnB, Reggaeton, Latin, Jazz, Blues, Soul, Funk, Metal, Indie, Alternative, Chillout, Lounge, Ambient, Classical, Acoustic, Party, Hits, Charts, Oldies, 80s
+https://breakz-high.rautemusik.fm/?ref=rb-djclubcharts0326
+#EXTINF:-1,>> *TOP 100 CHARTS* <<  || Pop, Rock, Dance, House, Techno, Trance, Electro, Hip-Hop, Rap, RnB, Reggaeton, Latin, Jazz, Blues, Soul, Funk, Metal, Punk, Indie, Alternative, Chillout, Lounge, Ambient, Classical, Acoustic, Singer-Songwriter, Party, Top 40, H
+https://breakz-2012-high.rautemusik.fm/?ref=rb010326
+#EXTINF:-1,# TOP 100 CLUB CHARTS - DANCE & DJ MIX RADIO - 24 HOURS NON-STOP MUSIC @ TikTok Hits, Ibiza House, Sunset Lounge, Melodic Music, EDM, Deep House, Dance Music, Techno & Hypertechno, Rave Charts, Top 40 Charts, Latin, Reggaeton Music, Moombahton, Urban Hits
+https://breakz-2012-high.rautemusik.fm/?ref=radiobrowser-top100-clubcharts
+#EXTINF:-1,* TOP 100 CLUB CHARTS * | DJ TOP 100 | UP-TO-DATE | DJ CHARTS - CLUBBING HITS - - DEEP HOUSE - LOUNGE -  DANCE - TECHNO - RAVE - EDM - HOUSE - TECHHOUSE - REMIX - TRANCE - HARDSTYLE - MINIMAL - IBIZA - CHILLOUT - LOUNGE - URBAN - HIP HOP - RNB - SUMMER IB
+https://breakz-high.rautemusik.fm/?ref=rb26-t100clubcharts
+#EXTINF:-1,- TOP 100 - DJ Charts - / - REMIX DEEJAY RADIO - CLUB RADIO - HOUSE - EDM - TECHHOUSE - TECHNO - DANCE - TOP100 - TOP40 - RNB - BLACKMUSIC - HIPHOP - URBAN - REGGEATON - MIXTAPE RADIO - RAVE MUSIC -  LIVE DEEJAY RADIO - LIVE EVENTS
+https://radio2.breakz.fm/?ref=rb-gpt-t100
+#EXTINF:-1,#TOP 100 - DJ CHARTS & REMIX RADIO @ TikTok PROMO Charts, Electronic Music, EDM, House, Deep House, Dance Music, Techno & Hypertechno, Top40, Latin Charts, Reggaeton, Urban, Moombahton, Reggaeton, HipHop, Funk, Club & Party Radio - & SUMMER TUNES - 2024 /
+https://stream.breakz.fm/?ref=top100radiobrowser
+#EXTINF:-1,#TOP 100 - DJ CHARTS & REMIX RADIO @ TikTok PROMO Charts, Electronic Music, EDM, House, Deep House, Dance Music, Techno & Hypertechno, Top40, Latin Charts, Reggaeton, Urban, Moombahton, Reggaeton, HipHop, Funk, Club & Party Radio - & SUMMER TUNES - 2024 /
+https://stream.breakz.fm/?ref=top100radio-browser
+#EXTINF:-1,#TOP 200 DJ CHARTS - JUST MUSIC - DJ REMIX & CHARTS RADIO @ TikTok Charts, Electronic Music, EDM, House, Deep House, Dance Music, Techno & Hypertechno, Top40, Latin Charts, Reggaeton, Urban, HipHop, Club & Party Radio - & LIVE DJ SETS @ Festival Melodic H
+https://breakz-high.rautemusik.fm/stream.mp3?ref=DJCHARTSRB
+#EXTINF:-1,# TOP 40 DEEJAY CHARTS â€“  CLUB CHARTS NONSTOP - DANCE & DJ MIX RADIO - 24 HOURS NON-STOP MUSIC @ TikTok Hits, Ibiza House, Sunset Lounge, Melodic Music, EDM, Deep House, Dance Music, Techno, Techhouse & Hypertechno, Rave Charts, Top 40 Charts, Latin, Regg
+https://breakz-high.rautemusik.fm/?ref=26T40
+#EXTINF:-1,__TOP40__ by rautemusik (rm.fm)
+https://top40-high.rautemusik.fm/?ref=radiobrowser
+#EXTINF:-1,CADENA JOVEN RADIO 107.3 FM
+https://antares.dribbcast.com/proxy/cadenajovenradio?mp=/stream
+#EXTINF:-1,Canal Metropol 102.6 FM
+https://radioserver11.profesionalhosting.com/proxy/pkg78607?mp=/stream

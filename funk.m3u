@@ -3,3 +3,23 @@
 https://streaming01.shockmedia.com.ar:8452/stream
 #EXTINF:-1,Superfly webradio Easy
 https://edge81.stream.superfly.fm/superfly-easy
+#EXTINF:-1,BH FM 102,1 MHz ZYC690 (Belo Horizonte - MG)
+https://playerservices.streamtheworld.com/api/livestream-redirect/BHFMAAC.aac
+#EXTINF:-1,Radio Soul One
+https://stream.soulone.com.br/listen/soulone/externo
+#EXTINF:-1,RADIOWAVES
+https://quincy.torontocast.com/radiowaves
+#EXTINF:-1,WEFUNK
+https://s-17.wefunkradio.com:8443/wefunk64.mp3
+#EXTINF:-1,SWISS GROOVE
+https://relay2.swissgroove.ch/;
+#EXTINF:-1,FG Chic Germany
+https://stream.rcs.revma.com/7pww0pn0742vv
+#EXTINF:-1,MDR NOVA
+https://st03.sslstream.dlf.de/dlf/03/high/opus/stream.opus
+#EXTINF:-1,MyHitMusic! Mr. GROOVE SOUL – FUNK RADIO
+https://radio2.myhitmusic.de/Mr-Groove.mp3
+#EXTINF:-1,Shake!FM
+https://stream.regenbogen.de/shakefm/mp3-128/radio-browser
+#EXTINF:-1,SOULBROTHA Radio
+https://cast6.my-control-panel.com/proxy/soulbrotha_radio/stream

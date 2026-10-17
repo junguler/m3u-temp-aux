@@ -1,3 +1,23 @@
 #EXTM3U
 #EXTINF:-1,Radio U 96.5
 https://fm.uncu.edu.ar/
+#EXTINF:-1,Radio UENF
+https://stream-177.zeno.fm/pfsm8zen0lguv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwZnNtOHplbjBsZ3V2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoienpEWWFNLWlSeEt4bjVzM0pjS2g3USIsImlhdCI6MTc2ODQzOTE0MiwiZXhwIjoxNzY4NDM5MjAyfQ.601_I-BQXtiN3Rl_aSLangmMOthqV6DrEPBd6W5XsSA
+#EXTINF:-1,Armonías del Caquetá 970 AM
+https://broadcasting.enlacestic.com/radio/8020/radio.mp3
+#EXTINF:-1,Frecuencia U 940 AM
+https://radiolatina.info/9988/stream
+#EXTINF:-1,Fuego y Sabor Radio Online
+https://stream.zeno.fm/zjufeg9fhgptv
+#EXTINF:-1,HJUN - Radio UNAL Bogotá 98.5 FM
+https://radio.unal.edu.co/streaming/bogota/;stream.mp3
+#EXTINF:-1,Kalamary - Radio Cultural Online
+https://stream.zeno.fm/clxflencimitv
+#EXTINF:-1,UNIAUTÓNOMA 94.1 FM
+https://cast6.my-control-panel.com/proxy/unica/stream
+#EXTINF:-1,Unicórdoba Estéreo 90.0 FM
+https://unicordobaestereo.unicordoba.edu.co/unicor
+#EXTINF:-1,Universitaria Estéreo 88.2
+https://www.utp.edu.co/stream/
+#EXTINF:-1,DW TV
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8

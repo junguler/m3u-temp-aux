@@ -1,3 +1,19 @@
 #EXTM3U
 #EXTINF:-1,C91.3 FM - Macarthur's Radio Station
 https://ice9.securenetsystems.net/C913
+#EXTINF:-1,Rádio Cidade - Rio de Janeiro - 102.9 FM - ZYD462
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOCIDADEAAC.aac
+#EXTINF:-1,CFRM-FM 100.7 "Hits 100" Little Current, ON
+https://sboucher.radioca.st/stream
+#EXTINF:-1,CICW-FM 101.1 "The Grand 101" Centre Wellington, ON
+https://stream2.statsradio.com:8130/stream
+#EXTINF:-1,CILT-FM "Mix 96.7" Steinbach,MB
+https://goldenwest.leanstream.co/CILTFM
+#EXTINF:-1,CKCE-FM 101.5 "Today Radio" Calgary, AB  
+https://stream.jpbgdigital.com/CKCE.m3u8
+#EXTINF:-1,__SEX__ by rautemusik (rm.fm)
+https://sex-high.rautemusik.fm/?ref=radiobrowser
+#EXTINF:-1,- TOP 100 - DJ Charts - / - REMIX DEEJAY RADIO - CLUB RADIO - HOUSE - EDM - TECHHOUSE - TECHNO - DANCE - TOP100 - TOP40 - RNB - BLACKMUSIC - HIPHOP - URBAN - REGGEATON - MIXTAPE RADIO - RAVE MUSIC -  LIVE DEEJAY RADIO - LIVE EVENTS
+https://radio2.breakz.fm/?ref=rb-gpt-t100
+#EXTINF:-1,#TOP 200 DJ CHARTS - JUST MUSIC - DJ REMIX & CHARTS RADIO @ TikTok Charts, Electronic Music, EDM, House, Deep House, Dance Music, Techno & Hypertechno, Top40, Latin Charts, Reggaeton, Urban, HipHop, Club & Party Radio - & LIVE DJ SETS @ Festival Melodic H
+https://breakz-high.rautemusik.fm/stream.mp3?ref=DJCHARTSRB

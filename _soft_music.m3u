@@ -1,3 +1,11 @@
 #EXTM3U
 #EXTINF:-1,Soy un Clasico
 https://streaming1.locucionar.com/proxy/soyunclasico?mp=/stream
+#EXTINF:-1, #1 RdMix Love Songs
+https://maggie.torontocast.com:2020/stream/rdmixlovesongs
+#EXTINF:-1,SENSUAL LOUNGE RADIO
+https://kathy.torontocast.com:3590/;?type=http&nocache=1739707069
+#EXTINF:-1,0R - MUSIC FOR SLEEP || Sleep, Relax, Calm, Meditation, Nature, Ambient, Soft Music, Piano, Deep Sleep, Peaceful, Chill, Background, Slow, Gentle, Instrumental
+https://0nlineradio.radioho.st/classical-classical-music-for-sleep?ref=radio-browser26
+#EXTINF:-1,0R - RESTAURANT LOUNGE || Lounge, Jazz, Chill, Soft Music, Background, Acoustic, Easy Listening, Dinner, Relax, Romantic, Smooth, Cafe, Evening, Instrumental, Calm
+https://0nlineradio.radioho.st/lounge-restaurant-lounge?ref=radio-browser26

@@ -1,3 +1,19 @@
 #EXTM3U
 #EXTINF:-1,Lofty Community Media
 https://stream01.sigile.net/lofty-48-aac
+#EXTINF:-1,Rádio Coração 95.7 FM
+https://5a57bda70564a.streamlock.net/coracaohd/coracaohd.stream/chunklist_w23782252.m3u8
+#EXTINF:-1,Radio Maria Chinese
+https://onair7.xdevel.com/proxy/xautocloud_nwct_1310?mp=/;stream/
+#EXTINF:-1,0nlineradio AMERICAN CHRISTMAS
+https://stream.0nlineradio.com/us-christmas?ref=radiobrowser
+#EXTINF:-1,0nlineradio CHRISTMAS
+https://stream.0nlineradio.com/christmas?ref=radiobrowser
+#EXTINF:-1,Bibel TV Impuls
+https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8
+#EXTINF:-1,CastleFM
+https://stream.laut.fm/castlefm
+#EXTINF:-1,Radio Neue Hoffnung (AAC 96 kbps)
+https://stream.mnr.ch/rnh
+#EXTINF:-1,07.4 felovebible english
+https://felovebibleen-radiofelove.radioca.st/stream

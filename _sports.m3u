@@ -11,3 +11,57 @@ https://d2dgwrtikgx7lx.cloudfront.net/playlist.m3u8
 https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_SPAAC_SC
 #EXTINF:-1,BandNews FM Belo Horizonte
 https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_BHAAC.aac
+#EXTINF:-1,CBN - Belo Horizonte 
+https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_BHAAC.aac
+#EXTINF:-1,CBN Rio de Janeiro 92.5 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_RJ_ADP.m3u8
+#EXTINF:-1,CBN S�o Paulo
+https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_SPAAC_SC
+#EXTINF:-1,CBN Vale
+https://8018.brasilstream.com.br/stream
+#EXTINF:-1,Ilha do Mel FM
+https://str1.streamhostpg.com.br:8002/stream
+#EXTINF:-1,Jovem Pan News
+https://stream.zeno.fm/vlcraijc6yiuv
+#EXTINF:-1,R�dio 89.3 FM Imbituba
+https://live.paineldj.com.br/proxy/radiofm89f?mp=/stream
+#EXTINF:-1,R�dio BandNews SP 96.9 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_SPAAC
+#EXTINF:-1,R�dio Educadora FM
+https://5a57bda70564a.streamlock.net/educadoraonline/educadoraonline.stream/playlist.m3u8
+#EXTINF:-1,R�dio Joinville Cultural FM
+https://cast.youngtech.radio.br/listen/fundacaoculturaljlle/radio
+#EXTINF:-1,R�dio Nacional Rio de Janeiro
+https://radionacionalrio-stream.ebc.com.br/ebc/radionacionalriodejaneiro/playlist.m3u8
+#EXTINF:-1,TMC Belo Horizonte
+https://playerservices.streamtheworld.com/api/livestream-redirect/RT_BH.mp3
+#EXTINF:-1,630 CHED
+https://corus.leanstream.co/CHEDAM-MP3
+#EXTINF:-1,CFTX-FM 96.5 "BPM Sports" Gatineau, QC
+https://stream0.bpmsports.ca/cftx.aac
+#EXTINF:-1,CKLX-FM 91.9 "BPM Sports" Montreal, QC
+https://stream.bpmsports.ca/cklx.aac
+#EXTINF:-1,北京体育广播
+https://lhttp.qtfm.cn/live/335/64k.mp3
+#EXTINF:-1,CCTV-5+体育赛事伴音
+https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8
+#EXTINF:-1,广东文体广播
+https://lhttp.qtfm.cn/live/471/64k.mp3
+#EXTINF:-1,宁夏经济广播
+https://lhttp.qtfm.cn/live/1841/64k.mp3
+#EXTINF:-1,体坛速听
+https://lhttp.qtfm.cn/live/20500171/64k.mp3
+#EXTINF:-1,Blu Radio Bogot� 89.9
+https://playerservices.streamtheworld.com/api/livestream-redirect/BLURADIO.mp3
+#EXTINF:-1,La Voz del Cinaruco 1050 AM
+https://radiolatina.info/7438/stream/
+#EXTINF:-1,CRC 89.1 RADIO
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_89_1AAC.aac
+#EXTINF:-1,Super Sport FM 104.0
+https://r1.cloudskep.com/radio3/supersportfm/icecast.audio
+#EXTINF:-1,Radio Arminia | ASC-Livestream
+https://s4.radio.co/sef8b5c466/listen
+#EXTINF:-1,Radio N�rburgring @RPR1.
+https://stream.rpr1.de/nbr/mp3-128/radiobrowser
+#EXTINF:-1,Alzira r�dio 107.9 FM
+https://alziraradiomob.streaming-pro.com:6172/alziraradio.mp3

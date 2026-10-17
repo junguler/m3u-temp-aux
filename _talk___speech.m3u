@@ -3,3 +3,19 @@
 https://radios.solumedia.com:10815/stream
 #EXTINF:-1,la conquista del pan
 https://giss.tv:666/lcdpan.mp3
+#EXTINF:-1,Rádio UFMG Educativa
+https://www3.ufmg.br/streamingradioaovivo/aovivo.mp3
+#EXTINF:-1,00-Radio Canada Montreal
+https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/adaptive_192/master.m3u8
+#EXTINF:-1,CBC Radio 1 Halifax
+https://cbcradiolive.akamaized.net/hls/live/2040987/ES_R1AHF/master.m3u8
+#EXTINF:-1,Radio neue Hoffnung (RNH)
+https://s5.radio.co/seeece1f6b/listen
+#EXTINF:-1,Radio Agricultura
+https://unlimited4-us.dps.live/agricultura/gotardis/audio/now/livestream1.m3u8
+#EXTINF:-1,Radio Prostor
+https://bcast.spmmedia.cz/prostor-mp3
+#EXTINF:-1,Historyradio.org low bandwidth
+https://cast1.asurahosting.com/proxy/historyr/stream.mp3
+#EXTINF:-1,Radio IIII
+https://netradio.radio4.dk/radio4

@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,Radio Salsa Chile
+https://stream.zeno.fm/70sehzr9ssluv
+#EXTINF:-1,El Sol Cali
+https://mdstrm.com/audio/632c9b89aa9ace684913b815/live.m3u8
+#EXTINF:-1,El Sol (Medellín) 107.9 FM
+https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/632c9d30aa9ace684913b853
+#EXTINF:-1,Energia 102.5 FM 
+https://audio1.energia1025.com/radio/8000/stream.mp3
+#EXTINF:-1,Latina Stereo
+https://stream.latinastereo.com/proxy/latina/stream
+#EXTINF:-1,Olímpica Stereo (Medellín) 104.9-FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_MEDELLINAAC.aac
+#EXTINF:-1,Radio El Sol (Barranquilla)
+https://mdstrm.com/audio/632cbdb5202d6801a31785b0/live.m3u8
+#EXTINF:-1,Tropicana (Medellín) 98.9 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/TR_MEDELLINAAC.aac
+#EXTINF:-1,Radio Campesina Cubana
+https://radiocampesinacubana.stream.laut.fm/radiocampesinacubana?t302=2026-03-30_17-54-34&uuid=88a18688-fffa-480a-b5d6-ce0a3dc5d9b0

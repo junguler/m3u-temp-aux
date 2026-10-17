@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,CHAH "My Radio 580" Edmonton, AB
+https://ais-sa1.streamon.fm/7681_64k.mp3
+#EXTINF:-1,CHKF "FM 94.7" Calgary, AB (correction)
+https://5b2959fe11444.streamlock.net/radio/fm947.stream/playlist.m3u8
+#EXTINF:-1,CIRF-AM 1350 "Radio Humsafar" Brampton, ON
+https://ice66.securenetsystems.net/CIRF
+#EXTINF:-1,CJRK-FM 102.7 "East FM" Toronto, ON  
+https://centova.radioservers.biz/proxy/eastfmc1/stream
+#EXTINF:-1,CKER 101.7 "World FM" Edmonton, AB
+https://rogers-hls.leanstream.co/rogers/edm1017.stream/playlist.m3u8
+#EXTINF:-1,CKYE-FM 93.1 "Red FM" Vancouver, BC  
+https://ice24.securenetsystems.net/CKYE
+#EXTINF:-1,CKYR-FM 106.7 "Red FM" Calgary, AB
+https://ice10.securenetsystems.net/CKYR
