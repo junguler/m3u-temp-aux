@@ -10,8 +10,9 @@ jobs:
 
       - name: run commands
         run: |
-          while read url; do curl -s "https://radionations.com$url" > mep1 && title=$(./htmlq -t h1 < mep1) && country=$(./htmlq -t "#main > section.station-hero > div:nth-child(2) > p" < mep1 | tr '\n' ' ' | sed 's/^[[:space:]]*//;s/[[:space:]]*$//' | tr -cd '[:alnum:] \n' | sed 's/  */ /g') && genre=$(./htmlq -t "#main > section.station-hero > div:nth-child(2) > div.meta-row > span:nth-child(2)" < mep1 | tr '\n' ' ' | sed 's/^[[:space:]]*//;s/[[:space:]]*$//' | tr -cd '[:alnum:] \n' | sed 's/  */ /g') && stream=$(./htmlq "#main > section.station-hero > div:nth-child(2) > div.station-actions > button.btn-play-large" < mep1 | grep -oP 'data-stream="\K[^"]*') && [ -n "$stream" ] && echo -e "#EXTINF:-1,$title\n$stream" >> "${country// /_}.m3u" && echo -e "#EXTINF:-1,$title\n$stream" >> "${genre// /_}.m3u"; done < stations.txt
           #node ./m3u-checker.js test_input/ test_output/ --quiet
+          for i in $(cat stations.txt) ; do curl -s https://nradiobox.com/station/$i > mep1 ; u=$(perl -0777 -MJSON::PP -ne 'if (/\burl_resolved:\s*("(?:\\.|[^"\\])*")/) { print decode_json($1) }' mep1) ; t=$(perl -0777 -MJSON::PP -ne 'if (/\bname:\s*("(?:\\.|[^"\\])*")/) { print decode_json($1) }' mep1) ; g=$(perl -0777 -MJSON::PP -ne 'if (/\btags:\s*("(?:\\.|[^"\\])*")/) { print decode_json($1) }' mep1) ; c=$(perl -0777 -MJSON::PP -ne 'if (/\bcountry:\s*("(?:\\.|[^"\\])*")/) { print decode_json($1) }' mep1) ; [ -z "$u" ] && continue ; c=$(printf '%s' "$c" | sed 's/[[:space:]]\+/_/g ; s/[^[:alnum:]_-]/_/g') ; f="$c.m3u" ; [ -f "$f" ] || echo "#EXTM3U" > "$f" ; printf '#EXTINF:-1,%s\n%s\n' "$t" "$u" >> "$f" ; for tag in $(printf '%s' "$g" | sed 's/,/ /g ; s/[[:space:]]\+/_/g ; s/[^[:alnum:]_-]/_/g') ; do f="$tag.m3u" ; [ -f "$f" ] || echo "#EXTM3U" > "$f" ; printf '#EXTINF:-1,%s\n%s\n' "$t" "$u" >> "$f" ; echo $i ; done ; done
+          rm mep1
 
       - name: git stuff
         run: |
