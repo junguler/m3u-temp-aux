@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,2GB 873 Sydney
+https://28093.live.streamtheworld.com/2GBAAC_O/HLS/playlist.m3u8
+#EXTINF:-1,2SM SRN Sydney
+https://cast4.asurahosting.com/proxy/2sm1269/stream
+#EXTINF:-1,ABC 106.5MHz FM Mount Isa QLD Northwest Queensland Local Radio
+https://mediaserviceslive.akamaized.net/hls/live/2038355/localmtisa/masterhq.m3u8
+#EXTINF:-1,ABC 540kHz AM Longreach QLD Western Queensland Local Radio 20220701
+https://mediaserviceslive.akamaized.net/hls/live/2038331/locallongreach/masterhq.m3u8
+#EXTINF:-1,ABC 837kHz AM Rockhampton QLD Central Queensland Local Radio 20231009
+https://mediaserviceslive.akamaized.net/hls/live/2038251/localcapricornia/masterhq.m3u8
+#EXTINF:-1,ABC Local Radio 630 North Queensland 20230609
+https://mediaserviceslive.akamaized.net/hls/live/2038157-b/localnorthqld/masterhq.m3u8
+#EXTINF:-1,Lofty Community Media
+https://stream01.sigile.net/lofty-48-aac
+#EXTINF:-1,Power100 100.7MHz FM Townsville QLD First in Local News and Music 20220701
+https://playerservices.streamtheworld.com/api/livestream-redirect/TOW_POWER100AAC_SC
+#EXTINF:-1,Darik
+https://a12.asurahosting.com/listen/darik_radio/radio.mp3

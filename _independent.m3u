@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1,Elite FM 101.5
+https://radios.solumedia.com/6314/stream
+#EXTINF:-1,LT+A Radio
+https://lta-radio.ideasdevops.com/listen/lta/radio.mp3
+#EXTINF:-1,4zzz
+https://iheart.4zzz.org.au/4zzz
+#EXTINF:-1,PBS FM - Melbourne - 106.7 FM (48kHz, 192kbps AAC-LC)
+https://playerservices.streamtheworld.com/api/livestream-redirect/3PBS_FMAACHIGH.m3u8
+#EXTINF:-1,Triple R 102.7FM
+https://ondemand.rrr.org.au/getstream?id=wshq

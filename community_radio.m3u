@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1,EDI RADIO
+https://radio.forensedigital.gt:8090/stream
+#EXTINF:-1,Radio Comunitaria Cuyum
+https://radios.liberaturadio.org/Cuyum
+#EXTINF:-1,2EC
+https://playerservices.streamtheworld.com/api/livestream-redirect/BEG_2ECAAC.aac
+#EXTINF:-1,2MCE - Bathurst - 92.3 FM (MP3)
+https://stream.2mce.org/2MCE
+#EXTINF:-1,3CR
+https://playerservices.streamtheworld.com/api/livestream-redirect/3CR.mp3
+#EXTINF:-1,3WBC - Box Hill, Melbourne - 94.1 FM (AAC+)
+https://stream.tcom.net.au/3wbc
+#EXTINF:-1,4RFM - Moranbah - 96.9 FM (AAC+ 320k)
+https://stream.4rfm.com.au/1
+#EXTINF:-1,90.1 NBC FM - Narwee - 90.1 FM (AAC)
+https://studio.901nbcfm.com.au:8902/newstream
+#EXTINF:-1,Alpine FM - Kiewa Valley / Ovens Valley - Mount Beauty - 96.5 FM / 92.9 FM (MP3)
+https://stream.sigile.net/3vkv-128-mp3
+#EXTINF:-1,EMFM - Echuca Moama Community Radio - Echuca - 104.7 FM (AAC+)
+https://emfm-https.rezuru.com:9300/;
+#EXTINF:-1,Gin Gin's Own - Gin Gin - 104.9 FM (MP3)
+https://ginginsown1049.out.airtime.pro/ginginsown1049_a
+#EXTINF:-1,OCR FM - Colac - 98.3 FM (MP3)
+https://stream.mjm-webhosting.com.au:8310/stream
+#EXTINF:-1,Ten FM - Tenderfield - 89.7 FM (AAC+)
+https://stream.tcom.net.au/2ten
+#EXTINF:-1,Triple A FM - Wagga Wagga - 107.1 FM (HTTPS) (MP3)
+https://stream.tripleafm.com.au//
+#EXTINF:-1,Triple R 102.7FM
+https://ondemand.rrr.org.au/getstream?id=wshq
+#EXTINF:-1,WSFM 101.7 Sydney
+https://ais-arn.streamguys1.com/au_002/playlist.m3u8

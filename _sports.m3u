@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,221Radio (FM 103.1)
+https://radios.solumedia.com:10815/stream
+#EXTINF:-1,RADIO CENTRO
+https://sonicpanel.hostradios.com/8710/stream
+#EXTINF:-1,Radio Verdad (Villa Dolores)
+https://streaming1.locucionar.com/proxy/radioverdad?mp=/stream
+#EXTINF:-1,SENQ
+https://d2dgwrtikgx7lx.cloudfront.net/playlist.m3u8
+#EXTINF:-1,BandNews FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_SPAAC_SC
+#EXTINF:-1,BandNews FM Belo Horizonte
+https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_BHAAC.aac

@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1,EDI RADIO
+https://radio.forensedigital.gt:8090/stream
+#EXTINF:-1,Good Radio
+https://streaming2.locucionar.com/proxy/goodradio?mp=/stream
+#EXTINF:-1,Gachi Station #3
+https://stream.zeno.fm/cucqe20mixktv
+#EXTINF:-1,2MCR 100.3 - Sounds of Macarthur - Macarthur Community Radio
+https://cast4.my-control-panel.com/proxy/tim1/som
+#EXTINF:-1,5MBS 99.9FM (AAC 64)
+https://stream.sigile.net/5mbs-64-aac
+#EXTINF:-1,ArtSound FM
+https://stream.artsound.fm/mp3
+#EXTINF:-1,MIBL Radio
+https://www.miblradio.com.au/mibl
+#EXTINF:-1,MIBL Radio â€” Instrumental
+https://www.miblradio.com.au/mibl2
+#EXTINF:-1,ORF Ö1 Campus
+https://orf-live.ors-shoutcast.at/campus-q1a
+#EXTINF:-1,ORF Ö1 Campus | HQ
+https://orf-live.ors-shoutcast.at/campus-q2a
+#EXTINF:-1,RTBF Jam.
+https://radios.rtbf.be/jam-128.mp3
+#EXTINF:-1,Muzaica Radio
+https://radio.muzaica.fm:9000/stream
+#EXTINF:-1,RadioSat FM - Bolivia
+https://mira.streamerr.co/listen/radiosatbolivia/radio.mp3

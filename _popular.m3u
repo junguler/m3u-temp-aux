@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1,92.5 FM Radio 2000
+https://server6.hostradios.com/8390/stream
+#EXTINF:-1,Andina FM 92.9
+https://streaming01.shockmedia.com.ar:10801/stream?icy=http
+#EXTINF:-1,Cadena Rio FM 88.7
+https://radio02.ferozo.com/proxy/ra02001342?mp=/stream
+#EXTINF:-1,Concierto FM 94.7
+https://01.solumedia.com.ar:8112/stream
+#EXTINF:-1,DINAMICA FM 88.3
+https://stream.zeno.fm/2qfxz4z9hfhvv
+#EXTINF:-1,Emisora del Este 98.9 FM y 98.1 FM
+https://streaming.radiosenlinea.com.ar/8008/;
+#EXTINF:-1,FM ABRIL Radio 90.9
+https://server.laradio.online/proxy/abdel_ortega?mp=/stream
+#EXTINF:-1,FM América 99.7
+https://stream.zeno.fm/dsvp0vvm9k8uv
+#EXTINF:-1,FM Barrancas 98.7
+https://server.radiostreaming.com.ar/8152/stream
+#EXTINF:-1,FM CRISTAL 97.7
+https://streaming.radiosenlinea.com.ar/8520/stream
+#EXTINF:-1,FM del Bosque 104.1
+https://radio01.ferozo.com/proxy/ra01000983?mp=/stream
+#EXTINF:-1,FM DEL VALLE 99.9
+https://01.solumedia.com.ar:8764/stream
+#EXTINF:-1,FM ESPERANZA 107.1 MHZ
+https://streaming01.shockmedia.com.ar:10404/stream?icy=http
+#EXTINF:-1,FM Estación Popular 101.1
+https://streaming.escuchanosonline.com:7298/;
+#EXTINF:-1,LA POCHA FM 98.1
+https://streaming.radiosenlinea.com.ar:10635/;
+#EXTINF:-1,CK Bleu
+https://mixmyday.ice.infomaniak.ch/ckbleu.mp3
+#EXTINF:-1,96 FM Maceió
+https://streaming.livespanel.com:20096/radio96fm

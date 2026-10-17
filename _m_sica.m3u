@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1,La 100 - 99.9 FM - Grupo Clarín - Buenos Aires, Argentina
+https://playerservices.streamtheworld.com/api/livestream-redirect/FM999_56.mp3
+#EXTINF:-1,   Radio Disney 94.3 - Buenos Aires, Argentina
+https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_ADP.aac
+#EXTINF:-1,Radio Disney (Argentina) - 94.3 FM - LRL301 - Ciudad de Buenos Aires, Argentina
+https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BAAAC.aac
+#EXTINF:-1,esLatino Radio
+https://spanel.gcomstreaming.com/8030/stream
+#EXTINF:-1,Estelar Fm
+https://a3.asurahosting.com:6080/radio.mp3
+#EXTINF:-1,Radio Folklorica Uyuni
+https://emiteradio.com/proxy/uyuni?mp=/stream
+#EXTINF:-1,Radio GAM Viacha
+https://server1.fex.red/letanias/stream
+#EXTINF:-1,Radio Oldies - Red Uyuni
+https://emiteradio.com/proxy/clasicosingles?mp=/stream
+#EXTINF:-1,Radio Pop - Red Uyuni
+https://emiteradio.com/proxy/boliviapop?mp=/stream
+#EXTINF:-1,Radio San Gabriel AM 620 KHz
+https://spanel.gcomstreaming.com:7003/;
+#EXTINF:-1,Red Uyuni: Radio Recuerdos
+https://emiteradio.com/proxy/uyuni2?mp=/stream
+#EXTINF:-1,Stereo97
+https://stream.consultoradas.com/8340/stream

@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1,Acqua FM 100.1
+https://strcdn.klm99.com:10985/acquavillagesell
+#EXTINF:-1,Elevate 102.1 FM Rosario
+https://sonic.host-live.com/8120/stream
+#EXTINF:-1,ESPACIAL 105.1 FM
+https://chino.republicahosting.com:2282/live
+#EXTINF:-1,La 100 Cl�sicos - Disco Retro Cl�sicos
+https://27323.live.streamtheworld.com/FCLASICOS_56AAC.aac?
+#EXTINF:-1,RADIO CADENA VIDA 95.3 FM
+https://host.serviceinfinito.com.ar:7006/;
+#EXTINF:-1,Fresh 92.7
+https://live.fresh927.com.au/freshmp3
+#EXTINF:-1,iHeart dance Australia
+https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT7AAC.aac
+#EXTINF:-1,LiSTNR - Festival Bangers
+https://wz0liw.scahw.com.au/live/festivalbangers_128.stream/playlist.m3u8
+#EXTINF:-1,triple j (NSW)
+https://mediaserviceslive.akamaized.net/hls/live/2038308/triplejnsw/master.m3u8
+#EXTINF:-1,Antenne Vorarlberg Dance Radio
+https://web.radio.antennevorarlberg.at/av-dance
+#EXTINF:-1,ENERGY �STERREICH
+https://streaming.nrjaudio.fm/ouvfydoarp52
+#EXTINF:-1,Radio RGR Dance Rotselaar, Be
+https://stream2.rgrfm.be/
+#EXTINF:-1,Tomorrowland One World Radio - Anthems
+https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_ANTHEMS_ADP.aac
+#EXTINF:-1,Top 2
+https://playerservices.streamtheworld.com/api/livestream-redirect/TOP_ZILLION.mp3
+#EXTINF:-1,Hit FM Bulgaria
+https://play.hitfmbg.com/hitfm-high
+#EXTINF:-1,Maxx FM Bulgaria | HQ
+https://play.radiomaxxfm.com/maxx-high
+#EXTINF:-1,Радио Севтополис
+https://radio.jump.bg/proxy/radio123/
+#EXTINF:-1,Радио Зиг Заг - Най-яките парчета 
+https://radyo.yayin.com.tr:4474/stream
+#EXTINF:-1,Victoria Radio
+https://play.radiomaxxfm.com/victoriafm
+#EXTINF:-1,Alpha 93.1 FM Riscado
+https://kadushi.westream.cloud/listen/alfafm/xstream
+#EXTINF:-1,Новое радио - Fresh
+https://live.novoeradio.by:444/live/novoeradio_fresh_aac128/icecast.audio
+#EXTINF:-1,Новое радио - MegaMix
+https://live.novoeradio.by:444/live/novoeradio_megamix_aac128/icecast.audio
+#EXTINF:-1,Zefir FM
+https://stream2.datacenter.by/zefirfm

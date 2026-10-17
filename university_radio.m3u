@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,radio universidad de rosario
+https://cdn.instream.audio/:9202/stream
+#EXTINF:-1,Cassette Disco
+https://casseta-disco.ru:6275/stream

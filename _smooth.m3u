@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,RADIODJ
+https://pulsedeck.org/listen/radiodj/radio.mp3
+#EXTINF:-1,Island FM Whitsundays 88.0MHz Airlie Beach Central Queensland
+https://onlineradiobox.com/json/au/islandwhitsundays/play?platform=web
+#EXTINF:-1,Superfly webradio Easy
+https://edge81.stream.superfly.fm/superfly-easy
+#EXTINF:-1,La Cible
+https://quincy.torontocast.com:3195/stream

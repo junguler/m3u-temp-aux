@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1,Elite FM 101.5
+https://radios.solumedia.com/6314/stream
+#EXTINF:-1,3MDR Mountain District Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/3MDRAAC.aac
+#EXTINF:-1,Radio Campus BXL 92.1 [AAC+]
+https://www.radiocampus.be/stream/stream.aacplus
+#EXTINF:-1,Radio Campus BXL 92.1 [Ogg HQ]
+https://www.radiocampus.be/stream/stream_hi.ogg
+#EXTINF:-1,XRaydio 1 – Your Kaleidoscope Of Sounds
+https://xraydio.ddns.net/live

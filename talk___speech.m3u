@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,SBS 파워 FM
+https://radio.bsod.kr/stream/?stn=sbs&ch=powerfm
+#EXTINF:-1,Radio Gente 
+https://server1.fex.red:8366/stream

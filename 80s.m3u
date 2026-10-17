@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1,Blue 100.7 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/BLUE_FM_100_7AAC.aac
+#EXTINF:-1,FM Cielo 88.7
+https://server6.hostradios.com:7108/stream
+#EXTINF:-1,Jaus90
+https://stream.zeno.fm/e1th9vchbvxuv
+#EXTINF:-1,Vinilo Mix
+https://audiopanel.com.ar:8010/radio.aac
+#EXTINF:-1,80s 90s Super Pop Hits
+https://s4.myradiostream.com:7344/listen.mp3?
+#EXTINF:-1,Triple M Adelaide
+https://legacy.scahw.com.au/5mmm_32
+#EXTINF:-1,Life Radio 80er
+https://stream.liferadio.at/80er/mp3-192/stream.liferadio.at/
+#EXTINF:-1,Radio Victoria
+https://streamer1.radiovictoria.be/
+#EXTINF:-1,RTBF Classic 21 - 80's
+https://radios.rtbf.be/wr-c21-80-128.mp3
+#EXTINF:-1,Eres Radio 98.5 FM
+https://sp5.servidorrprivado.com/8789/stream
+#EXTINF:-1,Radio Ritmo 97.3 FM
+https://azura1.bitstreaming.net/listen/radio_ritmo/radio.aac

@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,Metro 95.1
+https://playerservices.streamtheworld.com/api/livestream-redirect/METRO.mp3
+#EXTINF:-1,Life FM - Bathurst - 100.1 FM (MP3)
+https://stream2.cnmns.net/lifefmbathurst
+#EXTINF:-1,WSFM 101.7 Sydney
+https://ais-arn.streamguys1.com/au_002/playlist.m3u8
+#EXTINF:-1,Quechua FM
+https://stream-174.zeno.fm/e78z1h3drd0uv?zs=ikWueaMmSDeduBx58DWGtQ
+#EXTINF:-1,Radio Estrella 93.1 FM
+https://cesarradio.realserver.es/listen/lne_93.1/radio.mp3
+#EXTINF:-1,Radio Ritmo 97.3 FM
+https://azura1.bitstreaming.net/listen/radio_ritmo/radio.aac

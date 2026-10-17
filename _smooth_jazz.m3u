@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1,ABC Jazz 20220701
+https://mediaserviceslive.akamaized.net/hls/live/2038319/abcjazz/masterhq.m3u8
+#EXTINF:-1,Lounge.FM - 100% Austria
+https://s35.derstream.net/100austria.mp3
+#EXTINF:-1,Lounge.FM Kanal 2 - Wien
+https://s35.derstream.net/ukwwien.mp3
+#EXTINF:-1,Vienna FM
+https://radio.ministry.fr/listen/vienna/radio.mp3
+#EXTINF:-1,Radio NET
+https://icecast.haskovo.net:9443/

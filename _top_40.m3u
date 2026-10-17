@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1,Cadena Rio FM 88.7
+https://radio02.ferozo.com/proxy/ra02001342?mp=/stream
+#EXTINF:-1,Contacto 95.3 FM
+https://sonicpanel.hostradios.com:7160/;
+#EXTINF:-1,Evolution FM 101.9
+https://radios.solumedia.com:6140/stream
+#EXTINF:-1,FM 97.9 VIDA
+https://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/60a2b23eaf8c7e00145e64e0_240p/index.m3u8
+#EXTINF:-1,LOS 40 SANTA FE 97.7
+https://radios.solumedia.com:6158/stream?icy=http
+#EXTINF:-1,RADIO CADENA VIDA 95.3 FM
+https://host.serviceinfinito.com.ar:7006/;
+#EXTINF:-1,   Radio Disney 94.3 - Buenos Aires, Argentina
+https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_ADP.aac
+#EXTINF:-1,Radio Disney (Argentina) - 94.3 FM - LRL301 - Ciudad de Buenos Aires, Argentina
+https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BAAAC.aac
+#EXTINF:-1,C91.3 FM - Macarthur's Radio Station
+https://ice9.securenetsystems.net/C913
+#EXTINF:-1,Pure Hits FRESH
+https://listen10.as.amplifystreaming.com/listen/pure_hits_fresh/fresh_128.aac
+#EXTINF:-1,ENERGY ÖSTERREICH
+https://streaming.nrjaudio.fm/ouvfydoarp52
+#EXTINF:-1,NRJ België
+https://playerservices.streamtheworld.com/api/livestream-redirect/NRJBELGIE.mp3?dist=radiobrowser
+#EXTINF:-1,PINK
+https://www.clubfmserver.be/pink.mp3
+#EXTINF:-1,Hit FM Bulgaria
+https://play.hitfmbg.com/hitfm-high
+#EXTINF:-1,Metro HITS Radio
+https://eu1.reliastream.com/proxy/mhr?mp=/MHR
+#EXTINF:-1,Alpha 93.1 FM Riscado
+https://kadushi.westream.cloud/listen/alfafm/xstream
+#EXTINF:-1,Radio Postaja Odzak
+https://stream.rcast.net/70602
+#EXTINF:-1,Radio Unistar
+https://edge2.usp.unistar.by/hls/unistar_main/96k.m3u8

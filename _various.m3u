@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1,Antena 1 radio
+https://streaming.escuchanosonline.com/8268/stream
+#EXTINF:-1,Aries FM 91.1
+https://streaming3.locucionar.com/proxy/ariesonline?mp=/stream
+#EXTINF:-1,FM 97.9 VIDA
+https://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/60a2b23eaf8c7e00145e64e0_240p/index.m3u8
+#EXTINF:-1,FM 98.1 Perez Millan
+https://server.radiostreaming.com.ar/8470/stream
+#EXTINF:-1,Fm Amanecer 92.5Mhz
+https://streaming2.locucionar.com/proxy/amanecer?mp=/stream
+#EXTINF:-1,FM América 99.7
+https://stream.zeno.fm/dsvp0vvm9k8uv
+#EXTINF:-1,FM ANGEL 94.3
+https://server.laradio.online/proxy/fmangel?mp=/stream&1726491295158
+#EXTINF:-1, FM BAND NEWS 89.5
+https://streaming01.shockmedia.com.ar:10486/
+#EXTINF:-1, FM CERES  98.7
+https://streaming.escuchanosonline.com/8410/stream
+#EXTINF:-1,FM del Sol 100.5
+https://streaming2.locucionar.com/proxy/solpehuajo?mp=/stream
+#EXTINF:-1,Radio 2 AM 1230
+https://streaming320tb.locucionar.com/proxy/radio2?mp=/stream
+#EXTINF:-1,Radio Claromecó FM 106.9
+https://irrati.radio105.ar/1069.opus
+#EXTINF:-1,ROLDÁN FM 92 92.3
+https://server.laradio.online/proxy/delcia_karamoschon?mp=/stream&1692351094586
+#EXTINF:-1,28Radio - Rock
+https://streaming.28radio.cc:8000/rock.mp3

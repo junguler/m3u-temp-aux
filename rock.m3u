@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1,Cosquín Rock 95.5
+https://playerservices.streamtheworld.com/api/livestream-redirect/cosquinrock.mp3
+#EXTINF:-1,Level Rock FM
+https://streaming2.locucionar.com/proxy/levelrock?mp=/stream
+#EXTINF:-1,Pontiac Rock
+https://radios.solumedia.com/6268/stream
+#EXTINF:-1,Rock ra
+https://stream.zeno.fm/mbketaeaqhguv
+#EXTINF:-1,XRADIO Bariloche
+https://radios.streamingdha.com.ar/8004/;
+#EXTINF:-1,LiSTNR - Rock 101
+https://wz0liw.scahw.com.au/live/rock-101.stream/playlist.m3u8
+#EXTINF:-1,Rebel FM - Alpha - 95.9 FM (AAC)
+https://s8.yesstreaming.net:17099/RblCNQ
+#EXTINF:-1,Rebel FM - Chinchilla - 97.1 FM (AAC)
+https://s8.yesstreaming.net:17099/RblDD
+#EXTINF:-1,Rebel FM - Gold Coast - 99.4 FM (AAC) [HQ]
+https://s8.yesstreaming.net:17145/RblGC_hq
+#EXTINF:-1,Rebel FM - Wide Bay - 106.7 FM (AAC)
+https://s8.yesstreaming.net:17099/RblWB
+#EXTINF:-1,Tradie Radio
+https://stream.dulcet.cloud/tradie
+#EXTINF:-1,Antenne Vorarlberg Rock Radio
+https://web.radio.antennevorarlberg.at/av-rock
+#EXTINF:-1,Arabella Rock
+https://frontend.streams.arabella.at/arabella-rock/stream/mp3?aggregator=arabella-playlistfile
+#EXTINF:-1,Rock Antenne Österreich
+https://s1-webradio.rockantenne.at/rockantenne-oesterreich/stream/mp3
+#EXTINF:-1,WILLY
+https://icecast-qmusicbe-cdp.triple-it.nl/willy-class-x.aac
+#EXTINF:-1,Willy
+https://streams.radio.dpgmedia.cloud/redirect/willy_be/aac
+#EXTINF:-1,Willy Class X
+https://streams.radio.dpgmedia.cloud/redirect/willy_be_class_x/aac
+#EXTINF:-1,Bad Rock Radio 1
+https://play-radio0.jump.bg:7028/live
+#EXTINF:-1,Metro Country Rock
+https://eu1.reliastream.com/proxy/feedb?mp=/CRR64
+#EXTINF:-1,Pakao Radio
+https://securestream.pakaoradio.net/live
+#EXTINF:-1,98 Rock
+https://8185.brasilstream.com.br/stream

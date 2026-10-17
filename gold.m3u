@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,Golden Days Radio
+https://a2.asurahosting.com:6350/radio.aac
+#EXTINF:-1,Arabella gold
+https://frontend.streams.arabella.at/arabella-gold/stream/mp3?aggregator=arabella-playlistfile

@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1,Diamante Fm 95.7 MHz
+https://proxy01.servidorenlinea.net/streaming1/8014/;
+#EXTINF:-1,Eco Medios 1220 AM
+https://stream.zeno.fm/uyd6h9w162quv
+#EXTINF:-1,Estación Urbana 104.7 FM
+https://streaming2.locucionar.com/proxy/estacionurbana?mp=/stream
+#EXTINF:-1, FM BAND NEWS 89.5
+https://streaming01.shockmedia.com.ar:10486/
+#EXTINF:-1, FM CERES  98.7
+https://streaming.escuchanosonline.com/8410/stream
+#EXTINF:-1,FM del Viento 104.9
+https://cdn.instream.audio/:9125/stream
+#EXTINF:-1,FM del Viento 97.7
+https://cdn.instream.audio:9125/stream
+#EXTINF:-1,Radio 10 710 AM
+https://radio10.stweb.tv/radio10/live/chunks.m3u8
+#EXTINF:-1,Radio 10 Mar del Plata FM 105.5 / Miramar 101.7 / Balcarce
+https://stream.zeno.fm/4r530f2a9f0uv
+#EXTINF:-1,Radio 2 AM 1230
+https://streaming320tb.locucionar.com/proxy/radio2?mp=/stream
+#EXTINF:-1,ABC Radio National HLS
+https://mediaserviceslive.akamaized.net/hls/live/2038318/rnnsw/index.m3u8
+#EXTINF:-1,ABC Radio National QLD HLS
+https://mediaserviceslive.akamaized.net/hls/live/2038353/rnqld/index.m3u8
+#EXTINF:-1,ABC Radio National SA HLS
+https://mediaserviceslive.akamaized.net/hls/live/2038333/rnsa/index.m3u8
+#EXTINF:-1,ABC Radio National WA HLS
+https://mediaserviceslive.akamaized.net/hls/live/2038354/rnwa/index.m3u8
+#EXTINF:-1,Gem FM 91.5MHz Bowen - Gem of the Coral Coast
+https://playerservices.streamtheworld.com/api/livestream-redirect/4GEMAAC.aac
+#EXTINF:-1,Triple A FM - Wagga Wagga - 107.1 FM (HTTPS) (MP3)
+https://stream.tripleafm.com.au//

@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,Triple M The Border
+https://sa47.scastream.com.au/live/2bdr_128.stream/playlist.m3u8
+#EXTINF:-1,Antenne Vorarlberg 70er Hits
+https://web.radio.antennevorarlberg.at/av-70er
+#EXTINF:-1,La Cible
+https://quincy.torontocast.com:3195/stream
+#EXTINF:-1,Nostalgie Vlaanderen
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWHATAFEELING.mp3?dist=radiobrowser

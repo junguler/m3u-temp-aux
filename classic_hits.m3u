@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1,FM del Sol 100.5
+https://streaming2.locucionar.com/proxy/solpehuajo?mp=/stream
+#EXTINF:-1,Rock & Pop 95.9 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOP.mp3
+#EXTINF:-1,VIP Radio Clásicos
+https://server6.hostradios.com:7232/;?1775392057693
+#EXTINF:-1,Cruise 1323
+https://ais-arn.streamguys1.com/au_008_icy
+#EXTINF:-1,Gold 104.3
+https://ais-arn.streamguys1.com/au_004_icy
+#EXTINF:-1,Island FM Whitsundays 88.0MHz Airlie Beach Central Queensland
+https://onlineradiobox.com/json/au/islandwhitsundays/play?platform=web
+#EXTINF:-1,Newy 87.8 FM - Newcastle - 87.8 FM (MP3)
+https://radio.newy.com.au:8888/radio
+#EXTINF:-1,The Breez 102.5 Wide Bay
+https://s8.yesstreaming.net:17099/BrzWB
+#EXTINF:-1,WSFM 101.7
+https://ais-arn.streamguys1.com/au_002_icy
+#EXTINF:-1,Xezer FM
+https://s40.myradiostream.com/:22546/listen.mp3?
+#EXTINF:-1,Boutersem On Air
+https://135.125.183.109/listen/boutersemonair/radio.mp3

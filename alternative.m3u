@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1,Antena Libre 89.1 FM
+https://cdn.instream.audio/:9140/stream
+#EXTINF:-1,Estación Urbana 104.7 FM
+https://streaming2.locucionar.com/proxy/estacionurbana?mp=/stream
+#EXTINF:-1,Expo Radio FM 94.3
+https://radios.tecnosoul.com.ar:8001/exporadio
+#EXTINF:-1,K2 RADIO 96.3 FM
+https://cdn.instream.audio/:9568/stream
+#EXTINF:-1,Meridiano FM 98.5
+https://streaming.escuchanosonline.com:7346/stream
+#EXTINF:-1,SYN FM
+https://23163.live.streamtheworld.com/3SYNAAC_SC
+#EXTINF:-1,BNL
+https://stream.bnlradio.be/stream.mp3
+#EXTINF:-1,Radio Campus BXL 92.1 [AAC+]
+https://www.radiocampus.be/stream/stream.aacplus
+#EXTINF:-1,Radio Campus BXL 92.1 [Ogg HQ]
+https://www.radiocampus.be/stream/stream_hi.ogg
+#EXTINF:-1,Radio Panik
+https://streaming.domainepublic.net/radiopanik.ogg
+#EXTINF:-1,RTBF Jam.
+https://radios.rtbf.be/jam-128.mp3
+#EXTINF:-1,Dark Wave Radomir
+https://dwrstream.eu/

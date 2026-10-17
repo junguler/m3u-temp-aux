@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,ABC Country HLS
+https://mediaserviceslive.akamaized.net/hls/live/2038322/abccountry/index.m3u8
+#EXTINF:-1,Biloela 4BRZ 89.7MHz FM The Breeze Central Queensland
+https://s8.yesstreaming.net:17065/BrzCNQ
+#EXTINF:-1,Lofty Community Media
+https://stream01.sigile.net/lofty-48-aac
+#EXTINF:-1,Sounds of the Mountains - THE LOCAL RADIO STATION FOR THE SNOWY VALLEYS & COOTAMUNDRA-GUNDAGAI REGIONAL COUNCIL AREAS
+https://stream.mjm-webhosting.com.au:8342/
+#EXTINF:-1,Sweet FM 97.1MHz Community Radio Burdekin Queensland
+https://onlineradiobox.com/json/au/971sweet/play?platform=web%22%20streamType=%22mp3
+#EXTINF:-1,Tamworth's 88.9 FM - Tamworth - 88.9 FM (AAC)
+https://stream.889fmtamworth.com.au/stream
+#EXTINF:-1,Tamworth's 88.9 FM - Tamworth (AAC)
+https://stream.889fmtamworth.com.au:8443/stream

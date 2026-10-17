@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF:-1,92.5 FM Radio 2000
+https://server6.hostradios.com/8390/stream
+#EXTINF:-1,Aries FM 91.1
+https://streaming3.locucionar.com/proxy/ariesonline?mp=/stream
+#EXTINF:-1,Blue 100.7 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/BLUE_FM_100_7AAC.aac
+#EXTINF:-1,Cadena Express 88.1 FM
+https://streamall.alsolnet.com/cadenaexpress
+#EXTINF:-1,Cadena Rio FM 88.7
+https://radio02.ferozo.com/proxy/ra02001342?mp=/stream
+#EXTINF:-1,Concepto FM 95.5
+https://radios.solumedia.com:6002/;
+#EXTINF:-1,Concierto FM 94.7
+https://01.solumedia.com.ar:8112/stream
+#EXTINF:-1,Digital FM 102.1
+https://turadioenvivo.com/proxy/fmdigital/stream
+#EXTINF:-1,DIGITAL FM 104.9
+https://stream.zeno.fm/pewavgmncv8uv
+#EXTINF:-1,DINAMICA FM 88.3
+https://stream.zeno.fm/2qfxz4z9hfhvv
+#EXTINF:-1,Eco Medios 1220 AM
+https://stream.zeno.fm/uyd6h9w162quv
+#EXTINF:-1,Emisora del Este 98.9 FM y 98.1 FM
+https://streaming.radiosenlinea.com.ar/8008/;
+#EXTINF:-1,Fm 106.1 Estacion 2
+https://emisora.zonasinergia.com/8068/stream
+#EXTINF:-1,FM 98.1 Perez Millan
+https://server.radiostreaming.com.ar/8470/stream
+#EXTINF:-1,FM Anta 96.1
+https://stream.radioinfo.ar/p/8092/stream
+#EXTINF:-1,FM Ayer 98.1
+https://icecast.unomedios.com.ar/ayer
+#EXTINF:-1,FM Barrancas 98.7
+https://server.radiostreaming.com.ar/8152/stream
+#EXTINF:-1, FM CERES  98.7
+https://streaming.escuchanosonline.com/8410/stream
+#EXTINF:-1,FM Cielo 93.1
+https://streaming1.locucionar.com/proxy/fmcielo931?mp=/stream
+#EXTINF:-1,FM de la Costa 90.5
+https://streaming1.locucionar.com/proxy/delacosta905?mp=/stream
+#EXTINF:-1,FM del Viento 97.7
+https://cdn.instream.audio:9125/stream
+#EXTINF:-1,FM Estación Popular 101.1
+https://streaming.escuchanosonline.com:7298/;
+#EXTINF:-1,La 100 - 99.9 FM - Grupo Clarín - Buenos Aires, Argentina
+https://playerservices.streamtheworld.com/api/livestream-redirect/FM999_56.mp3
+#EXTINF:-1,La 106.1 FM - Siempre Una Canción
+https://streamconex.com:2000/stream/La106
+#EXTINF:-1,LA POCHA FM 98.1
+https://streaming.radiosenlinea.com.ar:10635/;
+#EXTINF:-1,Meridiano FM 98.5
+https://streaming.escuchanosonline.com:7346/stream
+#EXTINF:-1,Radio 10 Mar del Plata FM 105.5 / Miramar 101.7 / Balcarce
+https://stream.zeno.fm/4r530f2a9f0uv
+#EXTINF:-1,Radio 2 AM 1230
+https://streaming320tb.locucionar.com/proxy/radio2?mp=/stream
+#EXTINF:-1,Radio 3 Andina AM 1200
+https://radio01.ferozo.com/proxy/ra01000982?mp=/stream
+#EXTINF:-1,RADIO ARIAS FM 91.1 JUJUY
+https://cdn.instream.audio/:9095/stream
+#EXTINF:-1,RADIO CADENA VIDA 95.3 FM
+https://host.serviceinfinito.com.ar:7006/;
+#EXTINF:-1,Radio De La Costa 101.9 FM
+https://streaming2.locucionar.com/proxy/porlavida102?mp=/stream
+#EXTINF:-1,   Radio Disney 94.3 - Buenos Aires, Argentina
+https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_ADP.aac
+#EXTINF:-1,Radio Disney (Argentina) - 94.3 FM - LRL301 - Ciudad de Buenos Aires, Argentina
+https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BAAAC.aac
+#EXTINF:-1,rock and pop 89.7 FM
+https://streamlky.alsolnet.com/rockandpop_128k
+#EXTINF:-1,Ciudad Radio 101.5 FM
+https://emiteradio.com/proxy/monteroradio?mp=/stream
+#EXTINF:-1,Melodía
+https://stream.consultoradas.com/8244/stream
+#EXTINF:-1,Quechua FM
+https://stream-174.zeno.fm/e78z1h3drd0uv?zs=ikWueaMmSDeduBx58DWGtQ
+#EXTINF:-1,Radio Estrella 93.1 FM
+https://cesarradio.realserver.es/listen/lne_93.1/radio.mp3
+#EXTINF:-1,Radio Ritmo 97.3 FM
+https://azura1.bitstreaming.net/listen/radio_ritmo/radio.aac

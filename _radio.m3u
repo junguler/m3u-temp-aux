@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,La 100 - 99.9 FM - Grupo Clarín - Buenos Aires, Argentina
+https://playerservices.streamtheworld.com/api/livestream-redirect/FM999_56.mp3
+#EXTINF:-1,Metro 95.1
+https://playerservices.streamtheworld.com/api/livestream-redirect/METRO.mp3
+#EXTINF:-1,   Radio Disney 94.3 - Buenos Aires, Argentina
+https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_ADP.aac
+#EXTINF:-1,Radio Disney (Argentina) - 94.3 FM - LRL301 - Ciudad de Buenos Aires, Argentina
+https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BAAAC.aac
+#EXTINF:-1,Caspian Business Radio BOSS
+https://myradio24.org/bosscomaz
+#EXTINF:-1,Balkan Radio
+https://samcloud.spacial.com/api/listen?sid=99064&m=sc&rid=175019&t=ssl
+#EXTINF:-1,BG Rap Radio
+https://home.radionrg.com/hls/bgrapradio/live.m3u8
+#EXTINF:-1,Deep House Radio
+https://home.radionrg.com/hls/deephouse/live.m3u8

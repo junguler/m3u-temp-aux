@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,FM La Patriada
+https://server.laradio.online/proxy/fm_la_patriada?mp=/stream
+#EXTINF:-1,Radio Provincia - AM1270
+https://streaming.provinciaradio.com.ar:7008/am
+#EXTINF:-1,Signos FM Allen
+https://radios.streamingdha.com.ar/8046/;/stream

@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,LU24 Radio Tres Arroyos
+https://streaming01.shockmedia.com.ar:10889/stream?icy=http
+#EXTINF:-1,2CC Talking Canberra
+https://playerservices.streamtheworld.com/api/livestream-redirect/2CCAAC.aac
+#EXTINF:-1,2SM SRN Sydney
+https://cast4.asurahosting.com/proxy/2sm1269/stream

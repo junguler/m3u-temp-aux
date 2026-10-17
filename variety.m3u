@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,Radio Bairro de Angola
+https://stm4.xradios.com.br:6794/stream
+#EXTINF:-1,Good Radio
+https://streaming2.locucionar.com/proxy/goodradio?mp=/stream
+#EXTINF:-1,ABC Perth
+https://mediaserviceslive.akamaized.net/hls/live/2038301/localperth/index.m3u8
+#EXTINF:-1,Radio Wfm 105.4 - Westerlo, be
+https://mcp-2.mm-stream.nl:8126/WFM

@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1,FM4 | ORF
+https://orf-live.ors-shoutcast.at/fm4-q1a
+#EXTINF:-1,FM4 | ORF | HQ
+https://orf-live.ors-shoutcast.at/fm4-q2a
+#EXTINF:-1,ORF Hitradio Ö3
+https://ors-sn03.ors-shoutcast.at/oe3-q1a
+#EXTINF:-1,ORF Hitradio Ö3 | HQ
+https://orf-live.ors-shoutcast.at/oe3-q2a
+#EXTINF:-1,ORF Ö1 Campus
+https://orf-live.ors-shoutcast.at/campus-q1a
+#EXTINF:-1,ORF Ö1 Campus | HQ
+https://orf-live.ors-shoutcast.at/campus-q2a
+#EXTINF:-1,ORF Radio Burgenland
+https://orf-live.ors-shoutcast.at/bgl-q1a
+#EXTINF:-1,ORF Radio Kärnten HQ
+https://orf-live.ors-shoutcast.at/ktn-q2a
+#EXTINF:-1,ORF Radio Niederösterreich
+https://orf-live.ors-shoutcast.at/noe-q1a
+#EXTINF:-1,ORF Radio Oberösterreich
+https://orf-live.ors-shoutcast.at/ooe-q1a
+#EXTINF:-1,ORF Radio Oberösterreich | HQ
+https://orf-live.ors-shoutcast.at/ooe-q2a
+#EXTINF:-1,ORF - Radio Salzburg
+https://orf-live.ors-shoutcast.at/sbg-q1a
+#EXTINF:-1,ORF Radio Salzburg HQ
+https://orf-live.ors-shoutcast.at/sbg-q2a
+#EXTINF:-1,Radio Vorarlberg
+https://orf-live.ors-shoutcast.at/vbg-q1a
+#EXTINF:-1,Radio Vorarlberg HQ
+https://orf-live.ors-shoutcast.at/vbg-q2a

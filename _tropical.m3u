@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,Cadena Alegría - Córdoba
+https://streaming.escuchanosonline.com:7101/stream
+#EXTINF:-1,FM 98.1 Perez Millan
+https://server.radiostreaming.com.ar/8470/stream
+#EXTINF:-1,FM Barrancas 98.7
+https://server.radiostreaming.com.ar/8152/stream
+#EXTINF:-1,FM CRISTAL 97.7
+https://streaming.radiosenlinea.com.ar/8520/stream
+#EXTINF:-1,FM Eclipse 90.5
+https://streaming2.locucionar.com/proxy/fmeclipse905?mp=/stream
+#EXTINF:-1,FM ESPERANZA 107.1 MHZ
+https://streaming01.shockmedia.com.ar:10404/stream?icy=http

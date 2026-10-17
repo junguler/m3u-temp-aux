@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1,Antena Uno 92.3FM Posadas
+https://radios.solumedia.com:10818/;
+#EXTINF:-1,Diamante Fm 95.7 MHz
+https://proxy01.servidorenlinea.net/streaming1/8014/;
+#EXTINF:-1,Ecos de mis Cerros
+https://masservidor.net:7163/;
+#EXTINF:-1,Emisora del Este 98.9 FM y 98.1 FM
+https://streaming.radiosenlinea.com.ar/8008/;
+#EXTINF:-1,Estacion 95 91.5 FM
+https://streaming2.locucionar.com/proxy/estacion95?mp=/stream
+#EXTINF:-1,Expo Radio FM 94.3
+https://radios.tecnosoul.com.ar:8001/exporadio
+#EXTINF:-1,FM CRISTAL 97.7
+https://streaming.radiosenlinea.com.ar/8520/stream
+#EXTINF:-1,FM de la Costa 99.9
+https://streaming5.locucionar.com/proxy/fmdelacosta?mp=/stream
+#EXTINF:-1,FM DEL VALLE 99.9
+https://01.solumedia.com.ar:8764/stream
+#EXTINF:-1,FM Dimension 100.3
+https://streaming2.locucionar.com/proxy/fmdimension1003?mp=/stream
+#EXTINF:-1,LT+A Radio
+https://lta-radio.ideasdevops.com/listen/lta/radio.mp3
+#EXTINF:-1,Radio De La Costa 101.9 FM
+https://streaming2.locucionar.com/proxy/porlavida102?mp=/stream
+#EXTINF:-1,2BRW Braidwood FM
+https://audio-edge-5bkfj.fra.h.radiomast.io/ba864be6-11d1-4e13-aa74-f8e8781f64f6
+#EXTINF:-1,Ten FM - Tenderfield - 89.7 FM (AAC+)
+https://stream.tcom.net.au/2ten
+#EXTINF:-1,Triple A FM - Wagga Wagga - 107.1 FM (HTTPS) (MP3)
+https://stream.tripleafm.com.au//
+#EXTINF:-1,Kiosk Radio
+https://kioskradiobxl.out.airtime.pro/kioskradiobxl_b
+#EXTINF:-1,Radio Bonheur (BE)
+https://france1.coollabel-productions.com/proxy/radiobonheur317/stream

@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1,De la Nueva Bahía 106.1 FM
+https://radios.solumedia.com/6136/stream
+#EXTINF:-1,Elevate 102.1 FM Rosario
+https://sonic.host-live.com/8120/stream
+#EXTINF:-1,ESPACIAL 105.1 FM
+https://chino.republicahosting.com:2282/live
+#EXTINF:-1,Expo Radio FM 94.3
+https://radios.tecnosoul.com.ar:8001/exporadio
+#EXTINF:-1,Factory Radio
+https://radiopanel.factory.com.ar/listen/factory_radio/radio.mp3
+#EXTINF:-1,Metro 95.1
+https://playerservices.streamtheworld.com/api/livestream-redirect/METRO.mp3
+#EXTINF:-1,Steady State Radio
+https://radio.steadystateradio.com/listen/steady_state/radio.mp3
+#EXTINF:-1,Fresh 92.7
+https://live.fresh927.com.au/freshmp3
+#EXTINF:-1,LiSTNR - Festival Bangers
+https://wz0liw.scahw.com.au/live/festivalbangers_128.stream/playlist.m3u8
+#EXTINF:-1,MIBL Radio
+https://www.miblradio.com.au/mibl
+#EXTINF:-1,MIBL Radio â€” Instrumental
+https://www.miblradio.com.au/mibl2
+#EXTINF:-1,QUIVR
+https://s2.radio.co/s7348c2995/listen
+#EXTINF:-1,Antenne Vorarlberg Partymix
+https://web.radio.antennevorarlberg.at/av-partymix
+#EXTINF:-1,Callshop Radio Wien
+https://icecast.callshopradio.com/callshopradio-wien
+#EXTINF:-1,FM4 | ORF
+https://orf-live.ors-shoutcast.at/fm4-q1a
+#EXTINF:-1,FM4 | ORF | HQ
+https://orf-live.ors-shoutcast.at/fm4-q2a
+#EXTINF:-1,Tomorrowland One World Radio - Anthems
+https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_ANTHEMS_ADP.aac
+#EXTINF:-1,Topradio TopRetroArena
+https://playerservices.streamtheworld.com/api/livestream-redirect/TOPRETROAAC.aac
+#EXTINF:-1,Maxx FM Bulgaria | HQ
+https://play.radiomaxxfm.com/maxx-high
+#EXTINF:-1,Muzaica Radio
+https://radio.muzaica.fm:9000/stream

@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,2MCR 100.3 - Sounds of Macarthur - Macarthur Community Radio
+https://cast4.my-control-panel.com/proxy/tim1/som
+#EXTINF:-1,Gem FM 91.5MHz Bowen - Gem of the Coral Coast
+https://playerservices.streamtheworld.com/api/livestream-redirect/4GEMAAC.aac
+#EXTINF:-1,Life FM - Bathurst - 100.1 FM (MP3)
+https://stream2.cnmns.net/lifefmbathurst
+#EXTINF:-1,PBS FM - Melbourne - 106.7 FM (48kHz, 192kbps AAC-LC)
+https://playerservices.streamtheworld.com/api/livestream-redirect/3PBS_FMAACHIGH.m3u8
+#EXTINF:-1,Sounds of the Mountains - THE LOCAL RADIO STATION FOR THE SNOWY VALLEYS & COOTAMUNDRA-GUNDAGAI REGIONAL COUNCIL AREAS
+https://stream.mjm-webhosting.com.au:8342/
+#EXTINF:-1,Sweet FM 97.1MHz Community Radio Burdekin Queensland
+https://onlineradiobox.com/json/au/971sweet/play?platform=web%22%20streamType=%22mp3
+#EXTINF:-1,SYN FM
+https://23163.live.streamtheworld.com/3SYNAAC_SC
+#EXTINF:-1,Tamworth's 88.9 FM - Tamworth - 88.9 FM (AAC)
+https://stream.889fmtamworth.com.au/stream
+#EXTINF:-1,Tamworth's 88.9 FM - Tamworth (AAC)
+https://stream.889fmtamworth.com.au:8443/stream

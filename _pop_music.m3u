@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1,LT9 Radio Brigadier López La Líder
+https://streaming1.locucionar.com/proxy/lt9?mp=/stream?rand=718352759
+#EXTINF:-1,MikiRadio
+https://app.aloncast.com/api/stream/mikiradio-052055
+#EXTINF:-1,   Radio Disney 94.3 - Buenos Aires, Argentina
+https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_ADP.aac
+#EXTINF:-1,Radio Disney (Argentina) - 94.3 FM - LRL301 - Ciudad de Buenos Aires, Argentina
+https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BAAAC.aac
+#EXTINF:-1,Radio Magic FM 100.9 Tigre
+https://radio01.ferozo.com/proxy/ra01000677/?mp=/stream
+#EXTINF:-1,RADIODJ
+https://pulsedeck.org/listen/radiodj/radio.mp3
+#EXTINF:-1,Armenian Radio
+https://cast.thiff.com/proxy/laarmeni?mp=/stream
+#EXTINF:-1,Gachi Station #1
+https://stream.zeno.fm/y513614qvzzuv
+#EXTINF:-1,Gachi Station #2
+https://stream.zeno.fm/p7ume1dmbd0uv
+#EXTINF:-1,Gachi Station #3
+https://stream.zeno.fm/cucqe20mixktv
+#EXTINF:-1,Gachi Station (Ukrainian playlist) #1
+https://stream.zeno.fm/bmb6ihzfbpdtv
+#EXTINF:-1,Island FM Whitsundays 88.0MHz Airlie Beach Central Queensland
+https://onlineradiobox.com/json/au/islandwhitsundays/play?platform=web
+#EXTINF:-1,Magic 93.1 Riverland
+https://playerservices.streamtheworld.com/api/livestream-redirect/BER_MAGIC931AAC.aac
+#EXTINF:-1,Caspian Business Radio BOSS
+https://myradio24.org/bosscomaz
+#EXTINF:-1,Radio Victoria
+https://streamer1.radiovictoria.be/
+#EXTINF:-1,Radio JKKNIU
+https://stream.zeno.fm/risgdzpf1cxtv
+#EXTINF:-1,Radio Nostalgia
+https://sc.mpbnl.nl/radionostalgia.mp3

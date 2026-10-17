@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1,Digital FM 102.1
+https://turadioenvivo.com/proxy/fmdigital/stream
+#EXTINF:-1,Elite FM 101.5
+https://radios.solumedia.com/6314/stream
+#EXTINF:-1,FM Amistad 93.5 Mhz
+https://server.laradio.online/proxy/raul_benitez?mp=/stream
+#EXTINF:-1,FM Anta 96.1
+https://stream.radioinfo.ar/p/8092/stream
+#EXTINF:-1,FM Ayer 98.1
+https://icecast.unomedios.com.ar/ayer
+#EXTINF:-1,FM Horizonte (historica 94.3)
+https://14223.live.streamtheworld.com/SAM06AAC243_SC
+#EXTINF:-1,FM Horizonte (revival 101.9)
+https://redirector.dps.live/hls-audio/4e252a65837b69e349d5d8c1033152b4/hztear/playlist/manifest/gotardisz/audio/now/livestream1.m3u8
+#EXTINF:-1,LA NACION 104.9
+https://stream.radio.co/s2ed3bec0a/listen
+#EXTINF:-1,Radio Splendid AM 900
+https://playerservices.streamtheworld.com/api/livestream-redirect/AM990.mp3
+#EXTINF:-1,Rio FM 96.9 Rosario
+https://streaming.redboing.com/radio/8070/radio.mp3
+#EXTINF:-1,XRADIO 99.1 
+https://radios.streamingdha.com.ar/9826/;
+#EXTINF:-1,104.1 Territory FM - Darwin - 104.1 FM (MP3)
+https://streaming.territoryfm.com:8443/TerritoryFM
+#EXTINF:-1,Curtin Radio - A lifetime of music
+https://usa7.fastcast4u.com/proxy/curtinfm?mp=%2F1
+#EXTINF:-1,Station X - XRN Australia
+https://us01.xrn.com.au/listen/stx/StxSd
+#EXTINF:-1,The Breeze - Canungra - 92.9 FM (AAC)
+https://s8.yesstreaming.net:17065/BrzGC
+#EXTINF:-1,The Breeze - Chinchilla - 95.5 FM (AAC)
+https://s8.yesstreaming.net:17065/BrzDD
+#EXTINF:-1,The Breeze - Gloucester - 97.7 FM (AAC)
+https://s8.yesstreaming.net:17065/BrzMNC
+#EXTINF:-1,The Breeze - Kooralbyn - 103.3 FM (AAC)
+https://s8.yesstreaming.net:17065/BrzLgn
+#EXTINF:-1,Zinc 96.1
+https://playerservices.streamtheworld.com/api/livestream-redirect/MAR_ZINC96AAC.m3u8
+#EXTINF:-1,XXXLutz Radio
+https://liferadio.streamabc.net/lfr_w97ylbvwcps_45m7-mp3-192-1637662?sABC=6n48o2p1%230%234s3p7qo16pq27op446q453s9s431o7q7%23jrofrvgr&1783149421175=&aw_0_1st.playerid=webseite&amsparams=playerid:webseite
+#EXTINF:-1,Ciudad Radio 101.5 FM
+https://emiteradio.com/proxy/monteroradio?mp=/stream
+#EXTINF:-1,Alpha FM 90.1 Curitiba p PR
+https://radio901.webnimbus.cloud/radioalpha/icecast.audio

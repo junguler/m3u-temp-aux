@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1,Radio Polignano Web
+https://sp3.server89.com:7018/
+#EXTINF:-1,Antena 1 radio
+https://streaming.escuchanosonline.com/8268/stream
+#EXTINF:-1,Frecuencia Arena 98.3
+https://stream.serviciowebdigital.com/8854/stream
+#EXTINF:-1,Fresh Radio FM 102.9FM
+https://streaming.escuchanosonline.com:7011/stream
+#EXTINF:-1,Planet Music Bah�a Blanca
+https://strcdn.klm99.com:10987/planetbahia
+#EXTINF:-1,Planet Music Mar del PLata 101.1
+https://strcdn.klm99.com:10991/planetmdp
+#EXTINF:-1,Planet Music Villa Gesell 91.9
+https://strcdn.klm99.com:10986/planetvillagesell
+#EXTINF:-1,Radio Magic FM 100.9 Tigre
+https://radio01.ferozo.com/proxy/ra01000677/?mp=/stream
+#EXTINF:-1,Radio Verdad (Villa Dolores)
+https://streaming1.locucionar.com/proxy/radioverdad?mp=/stream
+#EXTINF:-1,Signos FM Allen
+https://radios.streamingdha.com.ar/8046/;/stream
+#EXTINF:-1,Am  Listen radio 
+https://stream.zeno.fm/yf5p1bya1feuv
+#EXTINF:-1,Indian link radio
+https://indianlink1.radioca.st/
+#EXTINF:-1,QFM by Queye
+https://stream.zeno.fm/wnbq9apyv14tv?an-uid=1741603114512061909&mm-uid=98c2665f-f368-4900-93b0-d427fd9777ee&dot-uid=0a98220400a951786d9e8802&triton-uid=cookie%3Aae35d476-584e-465b-ac85-898cc5e036d9&amb-uid=9042076293310527344&dbm-uid=CAESEEUSELk1rmCmdnxbYmAsIc4&cto-uid=9a8cd501-adcf-4a08-a60c-38259241445a-665ff379-5553&bsw-uid=49b8ee44-922b-41f4-96f4-02120aa6b5cd&dyn-uid=6107108616908101367&ttd-uid=3ec03d28-b1e8-4c90-ae88-97e66a9a7a11
+#EXTINF:-1,NAZ RADIO
+https://s2.myradiostream.com/5286/listen.mp3
+#EXTINF:-1,VRT Radio 1
+https://f8e0a3fc90d142e68cd424a56b220f0d.mediatailor.us-east-1.amazonaws.com/v1/manifest/7c1b669ef36eb1e845184b6345b06cd264fc4eb7/5bzs1cW9_vrt-audio-only-v1/d65e4279-e3bc-4151-af02-02ffe699135d/0.m3u8
+#EXTINF:-1,ORTB Radio Parakou
+https://listen.radioking.com/radio/51919/stream/88927
+#EXTINF:-1,BH Radio 1
+https://webtvstream.bhtelecom.ba/bh_radio1.m3u8
+#EXTINF:-1,Компас FM
+https://radio.mil.by/live

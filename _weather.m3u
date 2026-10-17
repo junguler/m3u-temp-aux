@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1,ABC 106.5MHz FM Mount Isa QLD Northwest Queensland Local Radio
+https://mediaserviceslive.akamaized.net/hls/live/2038355/localmtisa/masterhq.m3u8
+#EXTINF:-1,ABC 540kHz AM Longreach QLD Western Queensland Local Radio 20220701
+https://mediaserviceslive.akamaized.net/hls/live/2038331/locallongreach/masterhq.m3u8
+#EXTINF:-1,ABC 612kHz AM Brisbane QLD Queensland Local Radio 20220701
+https://mediaserviceslive.akamaized.net/hls/live/2038304/localbrisbane/masterhq.m3u8
+#EXTINF:-1,ABC 801kHz AM Cairns QLD Far North Queensland Local Radio 20220701
+https://mediaserviceslive.akamaized.net/hls/live/2038337/localcairns/masterhq.m3u8
+#EXTINF:-1,ABC 837kHz AM Rockhampton QLD Central Queensland Local Radio 20231009
+https://mediaserviceslive.akamaized.net/hls/live/2038251/localcapricornia/masterhq.m3u8
+#EXTINF:-1,ABC Classic FM 20220701
+https://mediaserviceslive.akamaized.net/hls/live/2038316/classicfmnsw/masterhq.m3u8
+#EXTINF:-1,ABC Local Radio 630 North Queensland 20230609
+https://mediaserviceslive.akamaized.net/hls/live/2038157-b/localnorthqld/masterhq.m3u8
+#EXTINF:-1,Big Hits Radio QLD Townsville North Queensland 20220701
+https://onlineradiobox.com/json/au/bighits/play?platform=web
+#EXTINF:-1,Biloela 4BRZ 89.7MHz FM The Breeze Central Queensland
+https://s8.yesstreaming.net:17065/BrzCNQ
+#EXTINF:-1,Power100 100.7MHz FM Townsville QLD First in Local News and Music 20220701
+https://playerservices.streamtheworld.com/api/livestream-redirect/TOW_POWER100AAC_SC
+#EXTINF:-1,Star 106.3MHz FM Townsville QLD Todays Best Music 20220701
+https://playerservices.streamtheworld.com/api/livestream-redirect/TOW_STAR1063AAC.m3u8?

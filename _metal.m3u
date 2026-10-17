@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1,Radio UTN FRC FM 94.3
+https://01.solumedia.com.ar:8200/stream
+#EXTINF:-1,triple j (NSW)
+https://mediaserviceslive.akamaized.net/hls/live/2038308/triplejnsw/master.m3u8
+#EXTINF:-1,UP THE IRONS
+https://uptheirons.stream.laut.fm/up_the_irons?pl=m3u&t302=2026-01-15_07-23-30&uuid=eeb3ddd4-0adf-4a11-bf6f-eac3fb8206ff
+#EXTINF:-1,BadRock Hard & Heavy
+https://play-radio0.jump.bg:7049/live
+#EXTINF:-1,El Fin del Silencio
+https://servidor24-1.brlogic.com:7302/live

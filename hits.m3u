@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1,Comunidad Fan FM 105.1 Rosario
+https://radio02.ferozo.com/proxy/ra02001326?mp=/stream
+#EXTINF:-1,Contacto 95.3 FM
+https://sonicpanel.hostradios.com:7160/;
+#EXTINF:-1,FM 10 97.3
+https://streaming1.locucionar.com/proxy/fm10?mp=/stream
+#EXTINF:-1,FM ANGEL 94.3
+https://server.laradio.online/proxy/fmangel?mp=/stream&1726491295158
+#EXTINF:-1,FM Centro 100.7
+https://tolkien.republicahosting.net:2378/live
+#EXTINF:-1,Kiss FM 95.1 Rosario
+https://streaming.redboing.com/radio/8060/radio.mp3
+#EXTINF:-1,Radio Claromecó FM 106.9
+https://irrati.radio105.ar/1069.opus
+#EXTINF:-1,Radio Rio Cuarto
+https://server6.hostradios.com/8552/stream/;/;type=mp3
+#EXTINF:-1,hit Southwest
+https://legacy.scahw.com.au/6bun_32
+#EXTINF:-1,Nova 91.9
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_919_AAC48.aac
+#EXTINF:-1,Nova 96.9
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_969_AAC48.aac
+#EXTINF:-1,Pure Hits FRESH
+https://listen10.as.amplifystreaming.com/listen/pure_hits_fresh/fresh_128.aac
+#EXTINF:-1,Antenne Vorarlberg Coffee Hits
+https://web.radio.antennevorarlberg.at/av-coffee
+#EXTINF:-1,Life Radio Sommersongs
+https://stream.liferadio.at/sommer/mp3-192/stream.liferadio.at/
+#EXTINF:-1,NRJ België
+https://playerservices.streamtheworld.com/api/livestream-redirect/NRJBELGIE.mp3?dist=radiobrowser
+#EXTINF:-1,Radio BOO
+https://stream03.level27.be/;stream.mp3https://stream03.level27.be/;stream.mp3
+#EXTINF:-1,Radio LRL
+https://s2.ssl-stream.com/radio/8070/live.mp3
+#EXTINF:-1,Radio Ninove Non-Stop Hits
+https://nonstophits.streamer.radioninove.be/
+#EXTINF:-1,City Radio Bulgaria
+https://play.global.audio/city.opus
+#EXTINF:-1,Radio Unistar
+https://edge2.usp.unistar.by/hls/unistar_main/96k.m3u8
+#EXTINF:-1,RADIO 24 DE JULIO 97.1 FM VILLA MONTES - TRAIJA
+https://stream.zeno.fm/tu8weq69fwzuv
+#EXTINF:-1,94 Live (Divinópolis - MG)
+https://94fm64aac.jmvstream.com/stream

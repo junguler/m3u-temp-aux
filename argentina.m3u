@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1,Cadena Alegría - Córdoba
+https://streaming.escuchanosonline.com:7101/stream
+#EXTINF:-1,Delta 90.3
+https://cdn.instream.audio//:9069//stream
+#EXTINF:-1,FM Latidos 95.1 - General Pico
+https://streamconex.com:8150/stream
+#EXTINF:-1,InfoPico Radio 99.9 - General Pico
+https://streaming3.locucionar.com/proxy/infopico999?mp=%2Fstream
+#EXTINF:-1,LRA1 Radio Nacional Argentina
+https://sa.mp3.icecast.magma.edge-access.net/sc_rad1
+#EXTINF:-1,Patagonia Dinámica 105.5 - General Pico
+https://chino.republicahosting.com:2311/live
+#EXTINF:-1,planeta cuarteto, Villa Carlos Paz 100.3 FM
+https://streaming.radiosenlinea.com.ar:10763/live
+#EXTINF:-1,Radio 5 100.5 - General Pico
+https://streaming2.locucionar.com/proxy/radio5fm/stream
+#EXTINF:-1,Radio Centro 99.3 - General Pico
+https://https.nvradios.com/radio/9340/radio.mp3
+#EXTINF:-1,RADIO DEL PARANA RAMALLO 99.3
+https://streaming.radiosenlinea.com.ar:10934/
+#EXTINF:-1,Radio Libre 93.5 General Pico
+https://streaming1.locucionar.com/proxy/libre935?mp=/stream
+#EXTINF:-1,Radio Solaria
+https://stream.radiosolaria.com/solaria

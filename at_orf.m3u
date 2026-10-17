@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,ORF Hitradio Ö3 (128k HLS)
+https://orf-live-oe3.mdn.ors.at/out/u/oe3/q3a/manifest.m3u8
+#EXTINF:-1,ORF Hitradio Ö3 (290k HLS)
+https://orf-live-oe3.mdn.ors.at/out/u/oe3/q4a/manifest.m3u8
+#EXTINF:-1,ORF Ö1 (128k HLS)
+https://orf-live-oe1.mdn.ors.at/out/u/oe1/q3a/manifest.m3u8
+#EXTINF:-1,ORF Ö1 (290k HLS)
+https://orf-live-oe1.mdn.ors.at/out/u/oe1/q4a/manifest.m3u8
+#EXTINF:-1,ORF Radio Wien (128k HLS)
+https://orf-live-wie.mdn.ors.at/out/u/wie/q3a/manifest.m3u8
+#EXTINF:-1,ORF Radio Wien (290k HLS)
+https://orf-live-wie.mdn.ors.at/out/u/wie/q4a/manifest.m3u8

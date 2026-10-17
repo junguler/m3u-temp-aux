@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,FM Activa 91.5
+https://streaming5.locucionar.com/proxy/fmactivasegui?mp=/stream
+#EXTINF:-1,Radio Rio Cuarto
+https://server6.hostradios.com/8552/stream/;/;type=mp3
+#EXTINF:-1,Diana D 102.1 FM
+https://cesarradio.realserver.es/listen/diana_d_/radio.mp3

@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1,Emisora del Este 98.9 FM y 98.1 FM
+https://streaming.radiosenlinea.com.ar/8008/;
+#EXTINF:-1,FM América 99.7
+https://stream.zeno.fm/dsvp0vvm9k8uv
+#EXTINF:-1, FM BAND NEWS 89.5
+https://streaming01.shockmedia.com.ar:10486/
+#EXTINF:-1,FM CENTENARIO 99.3
+https://streaming.radiosenlinea.com.ar/9694/stream
+#EXTINF:-1,FM Ciudad 88.3
+https://genexservicios.com:2000/stream/ciudadtotoras
+#EXTINF:-1,FM DEL VALLE 99.9
+https://01.solumedia.com.ar:8764/stream
+#EXTINF:-1,FM Galaxia 88.7
+https://vps-2333016-x.dattaweb.com/listen/fm_galaxia_88.7_cadena_3_san_francisco/radio.mp3
+#EXTINF:-1,Radio Claromecó FM 106.9
+https://irrati.radio105.ar/1069.opus
+#EXTINF:-1,102.5 ABC Perth
+https://streaming.abc-cdn.net.au/audio/hls/localperth.m3u8?source=web
+#EXTINF:-1,105.7 ABC Darwin
+https://streaming.abc-cdn.net.au/audio/hls/localdarwin.m3u8?source=web
+#EXTINF:-1,612 ABC Brisbane
+https://streaming.abc-cdn.net.au/audio/hls/localbrisbane.m3u8?source=web
+#EXTINF:-1,666 ABC Canberra
+https://streaming.abc-cdn.net.au/audio/hls/localcanberra.m3u8?source=web
+#EXTINF:-1,702 ABC Sydney
+https://streaming.abc-cdn.net.au/audio/hls/localsydney.m3u8?source=web
+#EXTINF:-1,891 ABC Adelaide
+https://streaming.abc-cdn.net.au/audio/hls/localadelaide.m3u8?source=web
+#EXTINF:-1,ABC 106.5MHz FM Mount Isa QLD Northwest Queensland Local Radio
+https://mediaserviceslive.akamaized.net/hls/live/2038355/localmtisa/masterhq.m3u8
+#EXTINF:-1,ABC 540kHz AM Longreach QLD Western Queensland Local Radio 20220701
+https://mediaserviceslive.akamaized.net/hls/live/2038331/locallongreach/masterhq.m3u8
+#EXTINF:-1,ABC 612kHz AM Brisbane QLD Queensland Local Radio 20220701
+https://mediaserviceslive.akamaized.net/hls/live/2038304/localbrisbane/masterhq.m3u8
+#EXTINF:-1,ABC 801kHz AM Cairns QLD Far North Queensland Local Radio 20220701
+https://mediaserviceslive.akamaized.net/hls/live/2038337/localcairns/masterhq.m3u8
+#EXTINF:-1,ABC 837kHz AM Rockhampton QLD Central Queensland Local Radio 20231009
+https://mediaserviceslive.akamaized.net/hls/live/2038251/localcapricornia/masterhq.m3u8
+#EXTINF:-1,Big Hits Radio QLD Townsville North Queensland 20220701
+https://onlineradiobox.com/json/au/bighits/play?platform=web
+#EXTINF:-1,C91.3 FM - Macarthur's Radio Station
+https://ice9.securenetsystems.net/C913
+#EXTINF:-1,Magic 93.1 Riverland
+https://playerservices.streamtheworld.com/api/livestream-redirect/BER_MAGIC931AAC.aac
+#EXTINF:-1,Power100 100.7MHz FM Townsville QLD First in Local News and Music 20220701
+https://playerservices.streamtheworld.com/api/livestream-redirect/TOW_POWER100AAC_SC
+#EXTINF:-1,Sounds of the Mountains - THE LOCAL RADIO STATION FOR THE SNOWY VALLEYS & COOTAMUNDRA-GUNDAGAI REGIONAL COUNCIL AREAS
+https://stream.mjm-webhosting.com.au:8342/
+#EXTINF:-1,Radio 4910
+https://radio7.pro-fhi.net:19073/stream.mp3
+#EXTINF:-1,Radio Bonheur (BE)
+https://france1.coollabel-productions.com/proxy/radiobonheur317/stream
+#EXTINF:-1,Radio Oost-West
+https://icecast.movemedia.be/oostwest

@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,Rádio Ondas de Portugal
+https://ssl.ndvendas.eu:9538/stream.mp3/;
+#EXTINF:-1,Radio Polignano Web
+https://sp3.server89.com:7018/

@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,FM 10 Bolívar 106.1
+https://ssl.radiosnethosting.com/index.php?port=8004
+#EXTINF:-1, FM CERES  98.7
+https://streaming.escuchanosonline.com/8410/stream
+#EXTINF:-1,Radio 3 Andina AM 1200
+https://radio01.ferozo.com/proxy/ra01000982?mp=/stream
+#EXTINF:-1,Radio Splendid AM 900
+https://playerservices.streamtheworld.com/api/livestream-redirect/AM990.mp3

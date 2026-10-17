@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1,Gachi Station #3
+https://stream.zeno.fm/cucqe20mixktv
+#EXTINF:-1,2FBI "FBi Radio" 94.5 FM Sydney, NSW
+https://streamer.fbiradio.com/stream
+#EXTINF:-1,5THE FM Millicent 
+https://s6.myradiostream.com:48146/listen.mp3
+#EXTINF:-1,89.7FM Perth
+https://ice8.securenetsystems.net/897FM
+#EXTINF:-1,93.7 Edge FM Bega
+https://playerservices.streamtheworld.com/api/livestream-redirect/2BARAAC.aac
+#EXTINF:-1,98.9 TYGA FM New Norfolk
+https://radio12.shoutcast.net.au:2020/stream/8012
+#EXTINF:-1,ABC 540kHz AM Longreach QLD Western Queensland Local Radio 20220701
+https://mediaserviceslive.akamaized.net/hls/live/2038331/locallongreach/masterhq.m3u8
+#EXTINF:-1,ABC 801kHz AM Cairns QLD Far North Queensland Local Radio 20220701
+https://mediaserviceslive.akamaized.net/hls/live/2038337/localcairns/masterhq.m3u8
+#EXTINF:-1,ABC 837kHz AM Rockhampton QLD Central Queensland Local Radio 20231009
+https://mediaserviceslive.akamaized.net/hls/live/2038251/localcapricornia/masterhq.m3u8
+#EXTINF:-1,Alex FM - Radio Goolwa
+https://s41.myradiostream.com/27270/;
+#EXTINF:-1,BBBfm 89.1 Barossa
+https://playerservices.streamtheworld.com/api/livestream-redirect/5BBBAAC.aac
+#EXTINF:-1,Cairns FM 89.1
+https://radio12.shoutcast.net.au:2020/stream/8008
+#EXTINF:-1,CherbOURg Radio
+https://s8.yesstreaming.net:17114/stream?1723719859375
+#EXTINF:-1,Fleurieu FM Victor Harbour
+https://stream04.sigile.net/fleurieufm-128-mp3
+#EXTINF:-1,Fraser Coast FM 107.5 Hervey Bay
+https://playerservices.streamtheworld.com/api/livestream-redirect/4FCRAAC.aac
+#EXTINF:-1,Hobart FM
+https://radio12.shoutcast.net.au:8032/;
+#EXTINF:-1,Katherine FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/8KTRAAC.aac
+#EXTINF:-1,Life FM 101.9 Wagga Wagga
+https://stream2.cnmns.net/lifefm1019-mp3
+#EXTINF:-1,One FM 98.5 Shepparton
+https://s2.radio.co/sae3372059/listen
+#EXTINF:-1,PARADISE FM101.9 Ballina
+https://stream2.cnmns.net/paradisefm-mp3
+#EXTINF:-1,PAW Media Yuendumu
+https://firstnationsmedia.stream/8016/stream
+#EXTINF:-1,Rim FM 100.1
+https://streaming.rimfm.org/rimfmlive.mp3
+#EXTINF:-1,Rocket Range Radio 
+https://s48.myradiostream.com/9344/listen.mp3
+#EXTINF:-1,Trax FM Port Pirie
+https://stream01.sigile.net/traxfm-64-aac
+#EXTINF:-1,Tribe FM Willunga
+https://stream04.sigile.net/tribefm-128-mp3
+#EXTINF:-1,Vision Australia Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/3RPHAAC.aac
+#EXTINF:-1,Waringarri Media
+https://firstnationsmedia.stream:8048/stream
+#EXTINF:-1,Wild Horse FM
+https://s6.myradiostream.com:46712/;

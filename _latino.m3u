@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1,Antena 1 91.5 FM
+https://s3.netradiofm.com/p/9008/stream
+#EXTINF:-1,Antena Nueve 94.3 FM
+https://radios.solumedia.com:10918/;
+#EXTINF:-1,Contacto 95.3 FM
+https://sonicpanel.hostradios.com:7160/;
+#EXTINF:-1,DINAMICA FM 88.3
+https://stream.zeno.fm/2qfxz4z9hfhvv
+#EXTINF:-1,FM ABRIL Radio 90.9
+https://server.laradio.online/proxy/abdel_ortega?mp=/stream
+#EXTINF:-1,FM ANGEL 94.3
+https://server.laradio.online/proxy/fmangel?mp=/stream&1726491295158
+#EXTINF:-1,FM CENTENARIO 99.3
+https://streaming.radiosenlinea.com.ar/9694/stream
+#EXTINF:-1,FM El Portal 89.1
+https://streaming2.locucionar.com/proxy/fmelportal965?mp=/stream
+#EXTINF:-1,Frecuencia Digital 99.1 FM
+https://radios.streamingdha.com.ar/8022/;
+#EXTINF:-1,LOS 40 SANTA FE 97.7
+https://radios.solumedia.com:6158/stream?icy=http
+#EXTINF:-1,MikiRadio
+https://app.aloncast.com/api/stream/mikiradio-052055
+#EXTINF:-1,RADIO 24 DE JULIO 97.1 FM VILLA MONTES - TRAIJA
+https://stream.zeno.fm/tu8weq69fwzuv
+#EXTINF:-1,Radio Pop - Red Uyuni
+https://emiteradio.com/proxy/boliviapop?mp=/stream

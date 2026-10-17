@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1,Aura Radio
+https://cp9.serverse.com/proxy/auraradio/stream
+#EXTINF:-1,Blue 100.7 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/BLUE_FM_100_7AAC.aac
+#EXTINF:-1,De la Nueva Bahía 106.1 FM
+https://radios.solumedia.com/6136/stream
+#EXTINF:-1,FM Alas 106.9
+https://stream.zeno.fm/7bs1rw5zw8quv
+#EXTINF:-1,FM Armonía 105.1
+https://radiosar.com:9346/stream
+#EXTINF:-1,FM Ayer 98.1
+https://icecast.unomedios.com.ar/ayer
+#EXTINF:-1,FM Cielo 88.7
+https://server6.hostradios.com:7108/stream
+#EXTINF:-1,FM Club Patagonia 88.9
+https://radio01.ferozo.com/proxy/ra01000872?mp=/stream
+#EXTINF:-1,FM de la Costa 90.5
+https://streaming1.locucionar.com/proxy/delacosta905?mp=/stream
+#EXTINF:-1,FM DEL ESTE 99.3
+https://radio01.ferozo.com/proxy/ra01000956?mp=/stream
+#EXTINF:-1,FM del Lago 92.1
+https://playerservices.streamtheworld.com/api/livestream-redirect/FM921_56.mp3
+#EXTINF:-1,La 106.1 FM - Siempre Una Canción
+https://streamconex.com:2000/stream/La106
+#EXTINF:-1,Rio FM 96.9 Rosario
+https://streaming.redboing.com/radio/8070/radio.mp3
+#EXTINF:-1,Antenne Vorarlberg 70er Hits
+https://web.radio.antennevorarlberg.at/av-70er
+#EXTINF:-1,Antenne Vorarlberg Oldies but Goldies
+https://web.radio.antennevorarlberg.at/av-oldies
+#EXTINF:-1,Nostalgie Belgique
+https://stream.rcs.revma.com/5gd04cwptg0uv
+#EXTINF:-1,Nostalgie + (Belgique)
+https://stream.rcs.revma.com/s9mkgtsqtg0uv
+#EXTINF:-1,Radio Continu - the original
+https://streams.dutchmediacenter.nl/listen/radiocontinu/live
+#EXTINF:-1,RadioRand
+https://onlineradiobox.com/search?cs=be.rand&q=radiorand&c=be
+#EXTINF:-1,Ciudad Radio 101.5 FM
+https://emiteradio.com/proxy/monteroradio?mp=/stream
+#EXTINF:-1,Diana D 102.1 FM
+https://cesarradio.realserver.es/listen/diana_d_/radio.mp3
+#EXTINF:-1,Eres Radio 98.5 FM
+https://sp5.servidorrprivado.com/8789/stream
+#EXTINF:-1,Radio Estrella 93.1 FM
+https://cesarradio.realserver.es/listen/lne_93.1/radio.mp3
+#EXTINF:-1,Radio Ritmo 97.3 FM
+https://azura1.bitstreaming.net/listen/radio_ritmo/radio.aac

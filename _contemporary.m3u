@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,2MBS Fine Music Sydney AAC 256
+https://radio12.shoutcast.net.au:2020/stream/2MBS-ICE
+#EXTINF:-1,ABC 540kHz AM Longreach QLD Western Queensland Local Radio 20220701
+https://mediaserviceslive.akamaized.net/hls/live/2038331/locallongreach/masterhq.m3u8
+#EXTINF:-1,ABC 801kHz AM Cairns QLD Far North Queensland Local Radio 20220701
+https://mediaserviceslive.akamaized.net/hls/live/2038337/localcairns/masterhq.m3u8
+#EXTINF:-1,Star 106.3MHz FM Townsville QLD Todays Best Music 20220701
+https://playerservices.streamtheworld.com/api/livestream-redirect/TOW_STAR1063AAC.m3u8?

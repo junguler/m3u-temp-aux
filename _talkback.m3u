@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1,2GB 873 Sydney
+https://28093.live.streamtheworld.com/2GBAAC_O/HLS/playlist.m3u8
+#EXTINF:-1,2MCR 100.3 - Sounds of Macarthur - Macarthur Community Radio
+https://cast4.my-control-panel.com/proxy/tim1/som
+#EXTINF:-1,2SM SRN Sydney
+https://cast4.asurahosting.com/proxy/2sm1269/stream
+#EXTINF:-1,ABC Radio Adelaide
+https://mediaserviceslive.akamaized.net/hls/live/2038298/localadelaide/index.m3u8
+#EXTINF:-1,Vision Christian Radio (MP3)
+https://streams2.vision.org.au/vision128.mp3

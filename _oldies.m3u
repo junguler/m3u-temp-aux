@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1,CIUDAD 88.5 FM
+https://streaming.escuchanosonline.com:7049/live
+#EXTINF:-1,Digital FM 102.1
+https://turadioenvivo.com/proxy/fmdigital/stream
+#EXTINF:-1,FM Ayer 98.1
+https://icecast.unomedios.com.ar/ayer
+#EXTINF:-1,FM Centro 100.7
+https://tolkien.republicahosting.net:2378/live
+#EXTINF:-1,FM Cielo 88.7
+https://server6.hostradios.com:7108/stream
+#EXTINF:-1,FM Horizonte (historica 94.3)
+https://14223.live.streamtheworld.com/SAM06AAC243_SC
+#EXTINF:-1,FM Horizonte (revival 101.9)
+https://redirector.dps.live/hls-audio/4e252a65837b69e349d5d8c1033152b4/hztear/playlist/manifest/gotardisz/audio/now/livestream1.m3u8
+#EXTINF:-1,Radio Digital San Luis 101.1 FM
+https://streamconex.com:8062/;
+#EXTINF:-1,Radio Solaria
+https://stream.radiosolaria.com/solaria
+#EXTINF:-1,RADIODJ
+https://pulsedeck.org/listen/radiodj/radio.mp3
+#EXTINF:-1,Vinilo Mix
+https://audiopanel.com.ar:8010/radio.aac
+#EXTINF:-1,2MCR 100.3 - Sounds of Macarthur - Macarthur Community Radio
+https://cast4.my-control-panel.com/proxy/tim1/som
+#EXTINF:-1,5MU
+https://playerservices.streamtheworld.com/api/livestream-redirect/MUR_5MUAAC
+#EXTINF:-1,Station X - XRN Australia
+https://us01.xrn.com.au/listen/stx/StxSd
+#EXTINF:-1,The Breez 102.5 Wide Bay
+https://s8.yesstreaming.net:17099/BrzWB
+#EXTINF:-1,Antenne Vorarlberg Oldies but Goldies
+https://web.radio.antennevorarlberg.at/av-oldies
+#EXTINF:-1,Popwelle Wörthersee,AutoDJ
+https://popwellezwei.sp.radio.fm/stream
+#EXTINF:-1,RTV Unirea International
+https://s1.bcmsol.ro/8002/stream
+#EXTINF:-1,Technikum Gold
+https://stream.radiotechnikum.at/TECHGOLD
+#EXTINF:-1,La Cible
+https://quincy.torontocast.com:3195/stream
+#EXTINF:-1,Nostalgie Vlaanderen
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWHATAFEELING.mp3?dist=radiobrowser
+#EXTINF:-1,Radio LRL
+https://s2.ssl-stream.com/radio/8070/live.mp3
+#EXTINF:-1,Vienna FM
+https://radio.ministry.fr/listen/vienna/radio.mp3
+#EXTINF:-1,Vlaamse Wonderjaren
+https://cast1.torontocast.com:3305/stream
+#EXTINF:-1,Zoe FM
+https://icecast.movemedia.be/zoe128
+#EXTINF:-1,XRaydio 2 â€“ Your Vintage Jukebox
+https://xraydio.ddns.net/jukebox
+#EXTINF:-1,Radio Oldies - Red Uyuni
+https://emiteradio.com/proxy/clasicosingles?mp=/stream

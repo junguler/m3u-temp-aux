@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,FM 10 Bolívar 106.1
+https://ssl.radiosnethosting.com/index.php?port=8004
+#EXTINF:-1,FM CENTENARIO 99.3
+https://streaming.radiosenlinea.com.ar/9694/stream
+#EXTINF:-1,FM Ciudad 88.3
+https://genexservicios.com:2000/stream/ciudadtotoras
+#EXTINF:-1,FM de la Costa 99.9
+https://streaming5.locucionar.com/proxy/fmdelacosta?mp=/stream

@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1,Aries FM 91.1
+https://streaming3.locucionar.com/proxy/ariesonline?mp=/stream
+#EXTINF:-1,Concierto FM 94.7
+https://01.solumedia.com.ar:8112/stream
+#EXTINF:-1,DINAMICA FM 88.3
+https://stream.zeno.fm/2qfxz4z9hfhvv
+#EXTINF:-1,Emisora del Este 98.9 FM y 98.1 FM
+https://streaming.radiosenlinea.com.ar/8008/;
+#EXTINF:-1,Evolution FM 101.9
+https://radios.solumedia.com:6140/stream
+#EXTINF:-1,Fahrenheit FM 88.7 Rosario
+https://streaming.redboing.com/radio/8010/radio.aac
+#EXTINF:-1,FM 90.9 Rosario
+https://streaming2.locucionar.com/proxy/radiobt?mp=/stream
+#EXTINF:-1,FM 98.1 Perez Millan
+https://server.radiostreaming.com.ar/8470/stream
+#EXTINF:-1,FM ABRIL Radio 90.9
+https://server.laradio.online/proxy/abdel_ortega?mp=/stream
+#EXTINF:-1,FM CRISTAL 97.7
+https://streaming.radiosenlinea.com.ar/8520/stream
+#EXTINF:-1,Fm Cumbiambera
+https://streaming1.locucionar.com/proxy/fmcumbiambera?mp=/stream
+#EXTINF:-1,FM Eclipse 90.5
+https://streaming2.locucionar.com/proxy/fmeclipse905?mp=/stream
+#EXTINF:-1,LA POCHA FM 98.1
+https://streaming.radiosenlinea.com.ar:10635/;
+#EXTINF:-1,RADIO ARIAS FM 91.1 JUJUY
+https://cdn.instream.audio/:9095/stream
+#EXTINF:-1,Radio "Cumbia 90s"
+https://emiteradio.com/proxy/cumbia90s?mp=/stream

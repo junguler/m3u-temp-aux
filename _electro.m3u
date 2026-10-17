@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,Callshop Radio Wien
+https://icecast.callshopradio.com/callshopradio-wien
+#EXTINF:-1,Kiosk Radio
+https://kioskradiobxl.out.airtime.pro/kioskradiobxl_b
+#EXTINF:-1,Radio Campus BXL 92.1 [AAC+]
+https://www.radiocampus.be/stream/stream.aacplus
+#EXTINF:-1,Radio Campus BXL 92.1 [Ogg HQ]
+https://www.radiocampus.be/stream/stream_hi.ogg
+#EXTINF:-1,RTBF Jam.
+https://radios.rtbf.be/jam-128.mp3
+#EXTINF:-1,Deep Lounge
+https://radio.jump.bg/proxy/georgi18/stream
+#EXTINF:-1,XRaydio 1 – Your Kaleidoscope Of Sounds
+https://xraydio.ddns.net/live
+#EXTINF:-1,Esoterica Radio S3
+https://esoterica.servemp3.com:444/listen/darkclubbing_darkelectro/radio.mp3

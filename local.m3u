@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,102.5 ABC Perth
+https://streaming.abc-cdn.net.au/audio/hls/localperth.m3u8?source=web
+#EXTINF:-1,105.7 ABC Darwin
+https://streaming.abc-cdn.net.au/audio/hls/localdarwin.m3u8?source=web
+#EXTINF:-1,612 ABC Brisbane
+https://streaming.abc-cdn.net.au/audio/hls/localbrisbane.m3u8?source=web
+#EXTINF:-1,666 ABC Canberra
+https://streaming.abc-cdn.net.au/audio/hls/localcanberra.m3u8?source=web
+#EXTINF:-1,702 ABC Sydney
+https://streaming.abc-cdn.net.au/audio/hls/localsydney.m3u8?source=web
+#EXTINF:-1,891 ABC Adelaide
+https://streaming.abc-cdn.net.au/audio/hls/localadelaide.m3u8?source=web
+#EXTINF:-1,ABC Local Radio 630 North Queensland 20230609
+https://mediaserviceslive.akamaized.net/hls/live/2038157-b/localnorthqld/masterhq.m3u8

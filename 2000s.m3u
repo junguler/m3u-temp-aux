@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1,Aura Radio
+https://cp9.serverse.com/proxy/auraradio/stream
+#EXTINF:-1,Cadena Express 88.1 FM
+https://streamall.alsolnet.com/cadenaexpress
+#EXTINF:-1,Concepto FM 95.5
+https://radios.solumedia.com:6002/;
+#EXTINF:-1,CRISTAL FM Noetinger
+https://radio02.ferozo.com/proxy/ra02001324?mp=/stream
+#EXTINF:-1,De la Nueva Bahía 106.1 FM
+https://radios.solumedia.com/6136/stream
+#EXTINF:-1,DIGITAL FM 104.9
+https://stream.zeno.fm/pewavgmncv8uv
+#EXTINF:-1,Eco Medios 1220 AM
+https://stream.zeno.fm/uyd6h9w162quv
+#EXTINF:-1,FM Alas 106.9
+https://stream.zeno.fm/7bs1rw5zw8quv
+#EXTINF:-1,FM Armonía 105.1
+https://radiosar.com:9346/stream
+#EXTINF:-1,FM atlántica 98.5
+https://streaming1.locucionar.com/proxy/fmatlantica?
+#EXTINF:-1,FM Club Patagonia 88.9
+https://radio01.ferozo.com/proxy/ra01000872?mp=/stream
+#EXTINF:-1,FM de la Costa 90.5
+https://streaming1.locucionar.com/proxy/delacosta905?mp=/stream
+#EXTINF:-1,FM Del Buen Ayre 105.3
+https://streaming.radiosenlinea.com.ar/8738/stream
+#EXTINF:-1,FM del Lago 92.1
+https://playerservices.streamtheworld.com/api/livestream-redirect/FM921_56.mp3
+#EXTINF:-1,La 106.1 FM - Siempre Una Canción
+https://streamconex.com:2000/stream/La106
+#EXTINF:-1,Radio Infinity Classic
+https://sonic.host-live.com/8192/stream
+#EXTINF:-1,rock and pop 89.7 FM
+https://streamlky.alsolnet.com/rockandpop_128k
+#EXTINF:-1,Diana D 102.1 FM
+https://cesarradio.realserver.es/listen/diana_d_/radio.mp3
+#EXTINF:-1,Radio Estrella 93.1 FM
+https://cesarradio.realserver.es/listen/lne_93.1/radio.mp3

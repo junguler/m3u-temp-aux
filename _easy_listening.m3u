@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1,2MCR 100.3 - Sounds of Macarthur - Macarthur Community Radio
+https://cast4.my-control-panel.com/proxy/tim1/som
+#EXTINF:-1,89.9 TheLight
+https://stream.thelight.com.au:8130/stream/
+#EXTINF:-1,Gem FM 91.5MHz Bowen - Gem of the Coral Coast
+https://playerservices.streamtheworld.com/api/livestream-redirect/4GEMAAC.aac
+#EXTINF:-1,Ten FM - Tenderfield - 89.7 FM (AAC+)
+https://stream.tcom.net.au/2ten
+#EXTINF:-1,The Breeze - Canungra - 92.9 FM (AAC)
+https://s8.yesstreaming.net:17065/BrzGC
+#EXTINF:-1,The Breeze - Chinchilla - 95.5 FM (AAC)
+https://s8.yesstreaming.net:17065/BrzDD
+#EXTINF:-1,The Breeze - Gloucester - 97.7 FM (AAC)
+https://s8.yesstreaming.net:17065/BrzMNC
+#EXTINF:-1,The Breeze - Kooralbyn - 103.3 FM (AAC)
+https://s8.yesstreaming.net:17065/BrzLgn
+#EXTINF:-1,TheLight Mix
+https://stream.thelight.com.au:8140/stream/
+#EXTINF:-1,Lounge.FM - 100% Austria
+https://s35.derstream.net/100austria.mp3
+#EXTINF:-1,Lounge.FM Kanal 2 - Wien
+https://s35.derstream.net/ukwwien.mp3
+#EXTINF:-1,Technikum City
+https://stream.radiotechnikum.at/TECHCITY
+#EXTINF:-1,Caspian Business Radio BOSS
+https://myradio24.org/bosscomaz
+#EXTINF:-1,Instrumentals Forever [AAC 64 kbit]
+https://quincy.torontocast.com:1925/stream
+#EXTINF:-1,Nostalgie Extra (What a Feeling)
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAFEXTRA.mp3

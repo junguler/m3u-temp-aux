@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1,Classique: Una radio de cl�sicos
+https://01.solumedia.com.ar:8562/stream
+#EXTINF:-1,Radio Planet Olavarria
+https://argentina.shockmedia.com.ar:8014/stream?icy=http
+#EXTINF:-1,4K1G 107.1FM TATSICM Indigenous Community Radio Townsville
+https://usa4.fastcast4u.com/proxy/4k1g?mp=/stream
+#EXTINF:-1,5MU
+https://playerservices.streamtheworld.com/api/livestream-redirect/MUR_5MUAAC
+#EXTINF:-1,Gem FM 91.5MHz Bowen - Gem of the Coral Coast
+https://playerservices.streamtheworld.com/api/livestream-redirect/4GEMAAC.aac
+#EXTINF:-1,Power100 100.7MHz FM Townsville QLD First in Local News and Music 20220701
+https://playerservices.streamtheworld.com/api/livestream-redirect/TOW_POWER100AAC_SC
+#EXTINF:-1,Star 106.3MHz FM Townsville QLD Todays Best Music 20220701
+https://playerservices.streamtheworld.com/api/livestream-redirect/TOW_STAR1063AAC.m3u8?
+#EXTINF:-1,Sweet FM 97.1MHz Community Radio Burdekin Queensland
+https://onlineradiobox.com/json/au/971sweet/play?platform=web%22%20streamType=%22mp3
+#EXTINF:-1,Triple M Brisbane
+https://sa47.scastream.com.au/live/4mmm_128.stream/playlist.m3u8?listeningSessionID=692f0d2f013be492_16910808_cXvVLSYa_NjYuODUuODkuMTcyOjgw_000000nmU6U&downloadSessionID=0
+#EXTINF:-1,Worksite Radio
+https://listen10.as.amplifystreaming.com/listen/pure_hits_worksite_radio/worksite_128.aac
+#EXTINF:-1,Life Radio Classic Rock 
+https://stream11.liferadio.at/
+#EXTINF:-1,Life Radio ClassicRock
+https://stream.liferadio.at/clrock/mp3-192/stream.liferadio.at/
+#EXTINF:-1,Revisited
+https://revisited.stream.laut.fm/revisited
+#EXTINF:-1,CK Bleu
+https://mixmyday.ice.infomaniak.ch/ckbleu.mp3
+#EXTINF:-1,Badrock Golden Era
+https://streams.badrockradio.net/golden-era
+#EXTINF:-1,Badrock National
+https://streams.badrockradio.net/national
+#EXTINF:-1,Radio 1 Rock (AAC 128)
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_1_ROCKAAC_H.aac
+#EXTINF:-1,radio1rock
+https://149.13.0.81/radio1rock128
+#EXTINF:-1,Radio Postaja Odzak
+https://stream.rcast.net/70602
+#EXTINF:-1,Авторадио Минск
+https://live.humorfm.by:8443/avtoradio

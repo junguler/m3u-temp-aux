@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,ABC Country 20220701
+https://mediaserviceslive.akamaized.net/hls/live/2038322/abccountry/masterhq.m3u8
+#EXTINF:-1,iHeart Country Australia
+https://ais-arn.streamguys1.com/au_027/playlist.m3u8
+#EXTINF:-1,Triple M Country
+https://sa47.scastream.com.au/live/2country_128.stream/playlist.m3u8
+#EXTINF:-1,Equinoxe, La Radio Découverte
+https://stream.equinoxenamur.be/Equinoxe.mp3
+#EXTINF:-1,RTBF Classic 21 - Route 66
+https://radios.rtbf.be/wr-c21-route66-128.mp3
+#EXTINF:-1,Metro Country Rock HD
+https://radio.jump.bg/proxy/feed104?mp=/MSRR

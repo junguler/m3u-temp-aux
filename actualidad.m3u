@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,El Destape Radio
+https://ipanel.instream.audio/8004/stream
+#EXTINF:-1,FM Bariloche
+https://streaming1.locucionar.com/proxy/colgados?mp=/stream
+#EXTINF:-1,FM La Patriada
+https://server.laradio.online/proxy/fm_la_patriada?mp=/stream
+#EXTINF:-1,ON Radio
+https://streaming.radiosenlinea.com.ar/9020/stream
+#EXTINF:-1,Radio NOW 97.9
+https://ipanel.instream.audio:7002/stream?_=18fea7232d5
+#EXTINF:-1,Melodía
+https://stream.consultoradas.com/8244/stream

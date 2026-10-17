@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1,ESPACIAL 105.1 FM
+https://chino.republicahosting.com:2282/live
+#EXTINF:-1,Factory Radio
+https://radiopanel.factory.com.ar/listen/factory_radio/radio.mp3
+#EXTINF:-1,Jaus90
+https://stream.zeno.fm/e1th9vchbvxuv
+#EXTINF:-1,RADIODJ
+https://pulsedeck.org/listen/radiodj/radio.mp3
+#EXTINF:-1,QUIVR
+https://s2.radio.co/s7348c2995/listen
+#EXTINF:-1,Callshop Radio Wien
+https://icecast.callshopradio.com/callshopradio-wien
+#EXTINF:-1,Dmusic
+https://stream.dmusic.be/listen/dmusic/radio.mp3
+#EXTINF:-1,Topradio TopRetroArena
+https://playerservices.streamtheworld.com/api/livestream-redirect/TOPRETROAAC.aac
+#EXTINF:-1,Deep House Radio
+https://home.radionrg.com/hls/deephouse/live.m3u8
+#EXTINF:-1,Deep Lounge
+https://radio.jump.bg/proxy/georgi18/stream
+#EXTINF:-1,Esoterica Radio S2
+https://esoterica.servemp3.com:444/listen/darkbasshouse_cyberpunk_hybridtrap/radio.mp3
+#EXTINF:-1,Esoterica Radio S3
+https://esoterica.servemp3.com:444/listen/darkclubbing_darkelectro/radio.mp3
