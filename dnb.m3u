@@ -1,3 +1,19 @@
 #EXTM3U
 #EXTINF:-1,Sky Plus D'N'B
 https://edge01.cdn.bitflip.ee:8888/NRJdnb
+#EXTINF:-1,ГУСЬ.Драм
+https://stream3.radiogoose.ru/listen/dnb/play
+#EXTINF:-1,Konflict Radio
+https://uk3.internet-radio.com/proxy/konflictradio?mp=/stream
+#EXTINF:-1,Liquid DnB
+https://antares.dribbcast.com/proxy/dave1/stream/
+#EXTINF:-1,NR1 Drum and Bass Radio
+https://radio.listen-nr1dnb.com/listen/nr1_dnb_radio/radio.mp3
+#EXTINF:-1,Oldskool UK
+https://usa10.fastcast4u.com:8880/
+#EXTINF:-1,Original Kool Archives
+https://radio.originalkoolarchives.com/listen/original_kool_archives/radio.mp3
+#EXTINF:-1,Playback UK
+https://chilledstreaming.com:8650/mobile.mp3
+#EXTINF:-1,Raiders Radio
+https://s2.citrus3.com:8464/stream

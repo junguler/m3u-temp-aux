@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,Nasional FM
+https://28103.live.streamtheworld.com/NASIONAL_FMAAC.aac
+#EXTINF:-1,Perak FM
+https://22243.live.streamtheworld.com/PERAK_FMAAC.aac
+#EXTINF:-1,Radio Klasik
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIK.mp3

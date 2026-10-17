@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1,93.1 KMKT - KATY COUNTRY
 https://live.amperwave.net/direct/alphacorporate-kmktfmmp3-ibc4
+#EXTINF:-1,Exclusively Taylor Swift
+https://streaming.exclusive.radio/er/taylorswift/icecast.audio
+#EXTINF:-1,iHeart Countdown
+https://stream.revma.ihrhls.com/zc6455/hls.m3u8

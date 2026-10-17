@@ -27,3 +27,9 @@ https://rtvelivestream.rtve.es/rtvesec/rne/rne_r3_main.m3u8
 https://stream.885fm.org/2
 #EXTINF:-1,EarGlow Radio
 https://cast1.asurahosting.com/proxy/earglowr/stream
+#EXTINF:-1,iHeart Indie Radio
+https://stream.revma.ihrhls.com/zc7189/hls.m3u8
+#EXTINF:-1,IndieHQ Radio
+https://davidgmedia.us:8020/radio.mp3
+#EXTINF:-1,KINK 128k aac
+https://22553.live.streamtheworld.com/KINKAAC_SC

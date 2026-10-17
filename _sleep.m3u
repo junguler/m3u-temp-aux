@@ -15,3 +15,9 @@ https://stream.epic-lounge.com/sleep-meditation?ref=radiobrowser
 https://fluxmusic.api.radiosphere.io/channels/traumerei/stream.mp3?quality=10
 #EXTINF:-1,FluxFM traumerei | 64k AAC
 https://fluxmusic.api.radiosphere.io/channels/traumerei/stream.aac?quality=1
+#EXTINF:-1,Positively Sleep Classical -om
+https://nl4.mystreaming.net/pr/sleepclassical/icecast.audio
+#EXTINF:-1,Positively Sleep Kids -om
+https://streaming.positivity.radio/pr/sleepkids/icecast.audio
+#EXTINF:-1,Positively Sleep Max Richter -om
+https://streaming.positivity.radio/pr/maxrichter/icecast.audio

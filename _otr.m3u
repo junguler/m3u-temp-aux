@@ -15,3 +15,7 @@ https://icecast.walmradio.com:8443/christmas_opus
 https://icecast.walmradio.com:8443/classic
 #EXTINF:-1,Classic Vinyl HD Opus
 https://icecast.walmradio.com:8443/classic_opus
+#EXTINF:-1,Radio Mystery Theater USA
+https://ais-sa3.cdnstream1.com/2800_128.mp3
+#EXTINF:-1,Radio OnceMore
+https://ice66.securenetsystems.net/ROM

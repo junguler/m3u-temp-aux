@@ -27,3 +27,7 @@ https://schlager-oldies-high.rautemusik.fm/?ref=radiobrowser
 https://streaming.hotmixradio.com/hotmix-platinium-en-mp3?provider=radiobrowser
 #EXTINF:-1,80s Drive
 https://samcloud.spacial.com/api/listen?sid=111415&m=sc&rid=293634&t=ssl?&80sradio128mp3stereo44
+#EXTINF:-1,Forest Gold
+https://c2.prostream365.com:8000/live
+#EXTINF:-1,piratenteam
+https://stream.hostinggold.nl:8012/

@@ -3,3 +3,5 @@
 https://bcast.spmmedia.cz/prostor-mp3
 #EXTINF:-1,NDR Info (Hamburg) ( MP3 HTTPS-deeplink)
 https://icecast.ndr.de/ndr/ndrinfo/hamburg/mp3/128/stream.mp3
+#EXTINF:-1,KQED 128 AAC
+https://hls.kqed.org/hls/kqed_app/playlist.m3u8

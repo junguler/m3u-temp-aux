@@ -299,3 +299,67 @@ https://streaming.exclusive.radio/er/alicecooper/icecast.audio
 https://streaming.exclusive.radio/er/alicecooperhits/icecast.audio
 #EXTINF:-1,Exclusively  Elton John 
 https://2.mystreaming.net/er/eltonjohn/icecast.audio
+#EXTINF:-1,Exclusively Pink Floyd
+https://streaming.exclusive.radio/er/pinkfloyd/icecast.audio
+#EXTINF:-1,Exclusively Scorpions
+https://2.mystreaming.net/er-app/scorpions/icecast.audio
+#EXTINF:-1,GotRadio - Soft Rock Café
+https://pureplay.cdnstream1.com/6010_64.aac/playlist.m3u8
+#EXTINF:-1,Hair Bands IHR
+https://n41b-e2.revma.ihrhls.com/zc4858/65_rmxqqd2ht97y02/playlist.m3u8?device-language=en-US&site-url=https%3A%2F%2Fwww.iheart.com&clientType=web&devicename=web-desktop&dist=iheart&dnt=0&host=listen.web.us&locale=en-US&modTime=1782677904.579&profileid=12675356168&terminalid=431&ua=Mozilla%2F5.0%20%28X11%3B%20Linux%20x86_64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F149.0.0.0%20Safari%2F537.36&us_privacy=1-Y-&sessionid=UYFTs52pzLWa8ufbVa3ek6&triton-uid=cookie%3A7123b265-2fc6-4880-b07f-6a68ba505e35&partnertok=eyJraWQiOiJpaGVhcnQiLCJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsc2lkIjoiY29va2llOjcxMjNiMjY1LTJmYzYtNDg4MC1iMDdmLTZhNjhiYTUwNWUzNSIsImF1ZCI6InRkIiwiY29wcGEiOjAsInByb2ZpbGVpZCI6IjEyNjc1MzU2MTY4IiwiaXNzIjoiaWhlYXJ0IiwidXNfcHJpdmFjeSI6IjFZWU4iLCJkaXN0IjoiaWhlYXJ0IiwiZXhwIjoxNzgyNzY0Mjk0LCJpYXQiOjE3ODI2Nzc4OTQsIm9taWQiOjB9.1FjqhL_lO9BgmyaVP5yjLCgRaWje2u9SgKhA3CtV0vg&callLetters=ISWW-FL&streamid=4858&subscription_type=free&ord=22898005573347813542
+#EXTINF:-1,HearMe - Classic Rock
+https://radio.hearme.fm:8270/stream
+#EXTINF:-1,ISKC Old Men's Rock
+https://443-1.autopo.st/79/OldMenRock
+#EXTINF:-1,KAOS Sound  - Pink Floyd Radio
+https://s3.myradiostream.com/:59506/stream/1/
+#EXTINF:-1,kfxj 104.5
+https://stream.rcs.revma.com/enawn1zw57uvv
+#EXTINF:-1,KLAQ HD2 95.5
+https://live.amperwave.net/manifest/townsquare-klaqhd2fmaac-hlsc3.m3u8
+#EXTINF:-1,KMGX The X 100.7 FM Bend, OR
+https://18433.live.streamtheworld.com/KMGXFM_SC
+#EXTINF:-1,KMNO Mana'o Radio 91.7 FM MAUI
+https://kmno.streamguys1.com/live
+#EXTINF:-1,KMSW Classic Rock 92.7 FM
+https://us9.maindigitalstream.com/ssl/KMSW
+#EXTINF:-1,KQRS 92.1
+https://playerservices.streamtheworld.com/api/livestream-redirect/KQRSFM_SC
+#EXTINF:-1,KRPR
+https://ice23.securenetsystems.net/KRPR
+#EXTINF:-1,KSRW Eastern Sierra Wave
+https://streaming.live365.com/a20270
+#EXTINF:-1,KUTC
+https://ice42.securenetsystems.net/KUTC
+#EXTINF:-1,KZAP - 96.7 FM - Chico, CA
+https://ice24.securenetsystems.net/KZAP
+#EXTINF:-1,Laser 101.7
+https://n08b-e2.revma.ihrhls.com/zc4463/hls.m3u8?rj-ttl=5&rj-tok=AAABoAxy-JgA-hSyk0bZIzTTJA
+#EXTINF:-1,Marshal Rock Radio
+https://listen.radioking.com/radio/650563/stream/714007
+#EXTINF:-1,Megarock Radio 320k
+https://stream3.megarockradio.net:80/
+#EXTINF:-1,metal rock radio
+https://kathy.torontocast.com:2800/;
+#EXTINF:-1,Muskegon Channel Radio
+https://muskegonchannelradio.radioca.st/stream
+#EXTINF:-1,original 106 gold
+https://listen-original.sharp-stream.com/originalgold.mp3
+#EXTINF:-1,Paradise Tunes
+https://s2.free-shoutcast.com/stream/18102
+#EXTINF:-1,ProgRock247
+https://streaming.live365.com/a89712
+#EXTINF:-1,Q104.3 New York's Classic Rock
+https://stream.revma.ihrhls.com/zc1465
+#EXTINF:-1,Radio Brent
+https://patmos.cdnstream.com/proxy/radiobre/?mp=/stream
+#EXTINF:-1,Radio Caroline 259 AAC 96
+https://happy.radiocaroline.nl/listen/classic_rock/radio96.acc
+#EXTINF:-1,Radio Caroline 259 MP3 320
+https://happy.radiocaroline.nl/listen/classic_rock/radio320.mp3
+#EXTINF:-1,Radio Paradise Rock
+https://stream.radioparadise.com/rock-128
+#EXTINF:-1,Radio ROKS (Moldova) - Classic Rock
+https://radio5.dixi.md/listen/classic_rock/roks_classic_rock128.aac
+#EXTINF:-1,Radio X Classic Rock
+https://media-ice.musicradio.com/RadioXClassicRockMP3

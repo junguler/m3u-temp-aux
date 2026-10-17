@@ -17,3 +17,41 @@ https://qxjr001.digiplay.nl/stream/9160/stream
 https://server-67.stream-server.nl:8794/
 #EXTINF:-1,Donderschoer Radio (2nd server)
 https://server-28.stream-server.nl:8806/stream
+#EXTINF:-1,F Test
+https://server-67.stream-server.nl:8768/stream
+#EXTINF:-1,Hollands Op Zijn Best
+https://mediaserv33.live-streams.nl:8009/stream
+#EXTINF:-1,Hoppa Music Holland
+https://server-28.stream-server.nl:8822/stream
+#EXTINF:-1,Lokale Omroep Dronten (107.4 FM)
+https://icecast.lokaleomroepzeewolde.nl:8443/drontenhigh
+#EXTINF:-1,Lokale Omroep Zeewolde (LOZ 106.4FM)
+https://icecast.lokaleomroepzeewolde.nl:8443/high
+#EXTINF:-1,MixStream Radio - Country
+https://radio.mixstream.nl/country.mp3
+#EXTINF:-1,MixStream Radio - Disco
+https://radio.mixstream.nl/disco.mp3
+#EXTINF:-1,MixStream Radio - Hardstyle
+https://radio.mixstream.nl/hardstyle.mp3
+#EXTINF:-1,MixStream Radio - Hip-Hop
+https://radio.mixstream.nl/hiphop.mp3
+#EXTINF:-1,MixStream Radio - Nederlandstalig
+https://radio.mixstream.nl/nl.mp3
+#EXTINF:-1,MixStream Radio - R&B
+https://radio.mixstream.nl/rnb.mp3
+#EXTINF:-1,MixStream Radio - Soul
+https://radio.mixstream.nl/soul.mp3
+#EXTINF:-1,Moonlight-Radio
+https://server-67.stream-server.nl:8780/stream
+#EXTINF:-1,Orryy Live
+https://radio.orryy.com/live
+#EXTINF:-1,Radio 182
+https://player.streamforce.nl/listen/radio182/stream
+#EXTINF:-1,Radio de Branding
+https://server-28.stream-server.nl:8814/stream
+#EXTINF:-1,Radio De Stemmingmaker
+https://server-28.stream-server.nl:8894/stream
+#EXTINF:-1,Radio Trammelant
+https://server-67.stream-server.nl:8762/stream
+#EXTINF:-1,radioGAGA - AI Generated Radio
+https://www.radiogaga.ai/stream

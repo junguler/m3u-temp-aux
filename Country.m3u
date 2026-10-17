@@ -39,3 +39,7 @@ https://stream.statsradio.com:8148/stream?_=384185
 https://vin-live2-ais-relay1.leanstream.co/goldenwest/CKVXFM.stream/playlist.m3u8
 #EXTINF:-1,CKXC 93.5
 https://rogers-hls.leanstream.co/rogers/kin935.stream/48k/playlist.m3u8
+#EXTINF:-1,KIX Country
+https://playerservices.streamtheworld.com/api/livestream-redirect/KIXCOUNTRYAAC.m3u8
+#EXTINF:-1,Radio Ostschweiz
+https://stream.tramp-cast.ch:8022/;

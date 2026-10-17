@@ -77,3 +77,17 @@ https://stream-166.zeno.fm/sf0qn4ddftktv
 https://la2.indexcom.com/hls/big8radio/1/64k/program.m3u8
 #EXTINF:-1,Deventer Radio
 https://stream.deventerrtv.nl:8443/mp3
+#EXTINF:-1,Exclusively Status Quo
+https://nl4.mystreaming.net/er/statusquo/icecast.audio
+#EXTINF:-1,Gen X Radio
+https://s2.radio.co/sf25229e16/listen
+#EXTINF:-1,HD Radio - Rock & Roll
+https://hdrockandroll-rfritschka.radioca.st/;
+#EXTINF:-1,Light Favorites Easy 108
+https://ais-sa2.cdnstream1.com/1299_128
+#EXTINF:-1,Midnite Radio - The Original!
+https://a7.asurahosting.com:7510/radio.mp3
+#EXTINF:-1,Omroep Land van Cuijk
+https://nlpo.stream.vip/cuijkrad/mp3-192/nlpo/
+#EXTINF:-1,Radio Caroline 259 Gold 64kbps
+https://happy.radiocaroline.nl/listen/classic_rock/radio64.mp3

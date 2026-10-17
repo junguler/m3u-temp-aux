@@ -31,3 +31,9 @@ https://atres-live.ondacero.es/live/delegaciones/oc/valladolid/master.m3u8
 https://rnelivestream.rtve.es/rne1/val/128/seglist.m3u8
 #EXTINF:-1,SER - Henares 20241023
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_HENARES.mp3
+#EXTINF:-1,MVS Noticias 102.5 XHMVS
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMVSFMAAC_SC
+#EXTINF:-1,Proyecto Puente
+https://s5.mexside.net:8200/stream
+#EXTINF:-1,Radio UJAT 107.3 XHUJAT
+https://streamingcwsradio30.com/8212/listen.pls

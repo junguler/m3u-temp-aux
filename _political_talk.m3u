@@ -11,3 +11,9 @@ https://wdrhf.akamaized.net/hls/live/2027996-b/wdr5/192/seglist.m3u8
 https://netradio.radio4.dk/radio4
 #EXTINF:-1,INFORMA RADIO
 https://24x7.red:42045/informa
+#EXTINF:-1,GPB
+https://gpb.streamguys1.com/im/gpb-atlanta-aac-website?listenerid=a9950016fb7242a718c44f930c917795&awparams=playerid%3ASGplayer%3BcompanionAds%3Atrue&amsparams=playerid%3ASGplayer%3Bskey%3A1646483232842%3B
+#EXTINF:-1,NetTalk America
+https://stream.zeno.fm/st9bhqvgvceuv
+#EXTINF:-1,Radio America 1
+https://s6.yesstreaming.net:18003/ra1

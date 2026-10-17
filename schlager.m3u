@@ -41,3 +41,5 @@ https://souvenir.spcast.eu:443/stream?time=1768465529
 https://souvenir2.spcast.eu:443/stream?time=1768459221
 #EXTINF:-1,Volksmusik 
 https://weissblauerstammtisch.stream.laut.fm/weissblauerstammtisch?t302=2026-01-15_06-06-11&uuid=24628a67-3741-4ee3-a806-6e0926549abc
+#EXTINF:-1,NDR 1 Welle Nord Region Heide
+https://icecast.ndr.de/ndr/ndr1wellenord/heide/mp3/128/stream.mp3?aggregator=surfmusik-de

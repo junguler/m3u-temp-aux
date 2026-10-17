@@ -3,3 +3,7 @@
 https://as-hls-ww-live.akamaized.net/pool_64162474/live/ww/bbc_radio_berkshire/bbc_radio_berkshire.isml/dash/bbc_radio_berkshire-audio%3d96000.norewind.m3u8
 #EXTINF:-1,BBC Radio Bristol
 https://as-hls-ww-live.akamaized.net/pool_41858929/live/ww/bbc_radio_bristol/bbc_radio_bristol.isml/dash/bbc_radio_bristol-audio%3d96000.norewind.m3u8
+#EXTINF:-1,KALW
+https://kalw-live.streamguys1.com/kalw
+#EXTINF:-1,KUER 90.1 HD2 BBC World Service
+https://kuer.streamguys1.com/kuer2low_icy

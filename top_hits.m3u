@@ -5,3 +5,9 @@ https://streams.radio.dpgmedia.cloud/redirect/qmusic_be/aac
 https://stream.streambase.ch/hitmix/mp3-192/direct/
 #EXTINF:-1,1LIVE Top Hits
 https://wdr-1live-tophits.icecast.wdr.de/wdr/1live/tophits/mp3/128/stream.mp3
+#EXTINF:-1,Kiss FM Moldova
+https://live.kissfm.md/kissfm.chisinau
+#EXTINF:-1,Positively Gold -om
+https://nl4.mystreaming.net/pr/posigold/icecast.audio
+#EXTINF:-1,Radio 10 non-stop
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR15.mp3

@@ -3,3 +3,5 @@
 https://icecast.radiosega.net/rs-mpeg.mp3
 #EXTINF:-1,RadioSEGA (Opus LQ)
 https://icecast.radiosega.net/rs-opus-low.ogg
+#EXTINF:-1,RadioSEGA (HE-AAC v2)
+https://icecast.radiosega.net/live

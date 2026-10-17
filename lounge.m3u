@@ -15,3 +15,9 @@ https://stream.rpr1.de/musikbar/mp3-128/radio-browser
 https://allzic21.ice.infomaniak.ch/allzic21.mp3
 #EXTINF:-1,IAradio Lounge
 https://iaradiolounge.ice.infomaniak.ch/iaradiolounge-128.mp3
+#EXTINF:-1,Klassik Radio - Lounge
+https://stream.klassikradio.de/lounge/mp3-192/surfmusik
+#EXTINF:-1,Mexico Beat 100.9 XHSON
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHSONFM_SC
+#EXTINF:-1,Radio Art Vocal Lounge
+https://live.radioart.com/fVocal_lounge.mp3

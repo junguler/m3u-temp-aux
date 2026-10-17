@@ -59,3 +59,15 @@ https://buf-live1-ais-relay1.leanstream.co/goldenwest/CKSWAM.stream/playlist.m3u
 https://vistaradio.streamb.live/SB00403
 #EXTINF:-1,Drachenherz
 https://drachenherz.stream.laut.fm/drachenherz
+#EXTINF:-1,Nova 100.3
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_100_AAC48.aac?src=redirect
+#EXTINF:-1,Radio Bern1 Rock
+https://chmedia.streamabc.net/79-virginrockch-mp3-192-2872456
+#EXTINF:-1,Radio Crans-Montana
+https://listen.radioking.com/radio/605899/stream/667333
+#EXTINF:-1,Radio Mix24 94.6
+https://live7.avf.ch/ipmusicaacplus96
+#EXTINF:-1,Radio Pop Lusa
+https://stream-162.zeno.fm/c6cpwp17n0quv
+#EXTINF:-1,Radio Vintage
+https://vintage.ice.infomaniak.ch/vintage.mp3

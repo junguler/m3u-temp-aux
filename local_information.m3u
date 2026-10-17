@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1,Ràdio Palafrugell
 https://radio.martiproduccions.com/radiopalafrugell
+#EXTINF:-1,Radio Hoeksche Waard
+https://cloud-faro.beheerstream.com/proxy/omroephw?mp=/live
+#EXTINF:-1,Radio Northwich
+https://stream.radio.co/s98163f694/listen

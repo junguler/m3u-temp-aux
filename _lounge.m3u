@@ -239,3 +239,25 @@ https://usa14.fastcast4u.com/proxy/chillmode?mp=/1
 https://icecast.walmradio.com:8443/classic
 #EXTINF:-1,Classic Vinyl HD Opus
 https://icecast.walmradio.com:8443/classic_opus
+#EXTINF:-1,Exotica Radio
+https://www.exotica.radio/stream/radio-browser
+#EXTINF:-1,Food and Lounge
+https://stream.laut.fm/food-and-lounge
+#EXTINF:-1,Groove Salad 2 (256k MP3)
+https://ice5.somafm.com/groovesalad2-256-mp3
+#EXTINF:-1,ГУСЬ.Дипхаус
+https://stream2.radiogoose.ru/listen/deep/play
+#EXTINF:-1,Just Music Radio
+https://radiostream.neotel.mk/justmusicradio
+#EXTINF:-1,Lounge Motion FM
+https://vm.motionfm.com/motionthree_aacp
+#EXTINF:-1,Monte Carlo
+https://hls-01-montecarlo.hostingradio.ru/montecarlo/playlist.m3u8
+#EXTINF:-1,PerfectMoods 24/7 Quality Lounge
+https://listen.radioking.com/radio/64968/stream/104227
+#EXTINF:-1,PerfectMoods – 24/7 Quality Lounge
+https://www.radioking.com/play/perfectmoods/104227
+#EXTINF:-1,Radio Modular
+https://streamer.radio.co/s70f9a6a5f/listen
+#EXTINF:-1,Radio ZUM4
+https://streams.radiozum.md/listen/zum4/ZUM4

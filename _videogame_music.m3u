@@ -5,3 +5,7 @@ https://vgradio.sytes.net/listen/vg_radio/radio
 https://lead-server.de:1551/stream/2/
 #EXTINF:-1,GBR - Gamebytesradio
 https://broadcast.shoutcheap.com/proxy/gbrgameb/stream
+#EXTINF:-1,Gamepad Music
+https://centova.listenon.in/proxy/gamepad/stream
+#EXTINF:-1, Radio Gameplay 
+https://c22.radioboss.fm:8144/GamePlay

@@ -19,3 +19,5 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_GUADIX
 https://rtvelivestream.rtve.es/rtvesec/rne/rne_r1_main.m3u8
 #EXTINF:-1,CDN Radio
 https://play.cdnradio.com.do/cdnlive
+#EXTINF:-1,ktnq 1020 am
+https://lmn.streamguys1.com/ktnqam/playlist.m3u8?key=a1e751202157c8d037a4f453698087f605c937356359a6774ea3fcd2e53d04e4

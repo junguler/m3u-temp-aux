@@ -1,3 +1,9 @@
 #EXTM3U
 #EXTINF:-1,City Radio Pattaya 90.25 FM
 https://media.onair.one:8200/stream/1/
+#EXTINF:-1,Looktung Eingdoi
+https://radio.garden/api/ara/content/listen/8n_MZrpC/channel.mp3
+#EXTINF:-1,Looktung Network 98.5 FM
+https://cdn-th2.livestreaming.in.th/shoutcast/8200
+#EXTINF:-1,Mommaem Radio: Musichitz Looktung
+https://radio.garden/api/ara/content/listen/JQQSk8M9/channel.mp3

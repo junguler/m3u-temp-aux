@@ -1,3 +1,13 @@
 #EXTM3U
 #EXTINF:-1,Retro FM Estonia
 https://edge02.cdn.bitflip.ee:8888/RETRO?_i=258f436b
+#EXTINF:-1,KCRW Vintage24
+https://streams.kcrw.com/bent24_aac/playlist.m3u8
+#EXTINF:-1,нафталин fm
+https://radiorecord.hostingradio.ru/naft96.aacp
+#EXTINF:-1,радио хиты 90х
+https://stream02.pcradio.biz/i_love_90_pcradio-hi
+#EXTINF:-1,Радио Лихие Девяностые
+https://rr-90.hostingradio.ru/rr9096.aacp
+#EXTINF:-1,Радио Родные Песни
+https://rodpesni.amgradio.ru/rp

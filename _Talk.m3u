@@ -27,3 +27,23 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_RJAAC.aac?
 https://26413.live.streamtheworld.com/CFRAAM_ADP/HLS/playlist.m3u8
 #EXTINF:-1,CKOF 104.7
 https://fsn-ais-relay2.leanstream.co/cogecomedia/CKOFFM.stream/playlist.m3u8
+#EXTINF:-1,Itapema 93.7
+https://1192747t.ha.azioncdn.net/primary/ita_poa.sdp/chunklist_f67b569e-6c38-4dee-9982-46782ad96ca4.m3u8
+#EXTINF:-1,K3 Radio Prnjavor
+https://s1.mojstream.eu:9164/stream?icy=http
+#EXTINF:-1,Maxxima
+https://maxxima.mine.nu/maxxima.aac
+#EXTINF:-1,Radio 3 780
+https://radio01.ferozo.com/proxy/ra01000981?mp=/stream
+#EXTINF:-1,Radio Jajce 92.0
+https://s8.iqstreaming.com:8034/stream
+#EXTINF:-1,Radio Noticias
+https://stream-154.zeno.fm/znecohtmr5tuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6bmVjb2h0bXI1dHV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjFVYTVqbklEUmVpSnU3VGJnSHVmNHciLCJpYXQiOjE3MzQ4NzEzMjgsImV4cCI6MTczNDg3MTM4OH0.9xmFsvWd_TSfUwvyn9APUq3IVVYJhitQMCeQtm0KUG0
+#EXTINF:-1,Radio Panorama 100.1
+https://stream.arcast.com.ar/radio/sgodelestero.stream/chunklist_w552289122.m3u8
+#EXTINF:-1,Radio Srbac 93.2
+https://stream1.srvnetplus.com:18000/;?1750274814162
+#EXTINF:-1,Radio TNT Sarajevo 101.2
+https://server1.tnt.ba/proxy/tntsa?mp=/stream1
+#EXTINF:-1,Radio Visegrad 104.0
+https://usa7.fastcast4u.com/proxy/radiovgd?mp=/1

@@ -21,3 +21,53 @@ https://wgbh-live.streamguys1.com/classical-hi
 https://wgbh-live.streamguys1.com/wcrb-itunes-256k
 #EXTINF:-1,CRB Classical 99.5 HLS
 https://wgbh-hls.streamguys1.com/wcrb_hls/playlist.m3u8
+#EXTINF:-1,GBH 89.7
+https://wgbh-live.streamguys1.com/wgbh-noads
+#EXTINF:-1,GBH 89.7 AAC
+https://wgbh-live.streamguys1.com/wgbh-aac
+#EXTINF:-1,GBH 89.7 AAC 256
+https://wgbh-live.streamguys1.com/wgbh-256aac
+#EXTINF:-1,GBH 89.7 HLS
+https://wgbh-hls.streamguys1.com/wgbh_hls/playlist.m3u8
+#EXTINF:-1,KALW
+https://kalw-live.streamguys1.com/kalw
+#EXTINF:-1,KAMU-Classical
+https://kamu.streamguys1.com/hd2-192
+#EXTINF:-1,KANW-2
+https://playerservices.streamtheworld.com/api/livestream-redirect/KANWHD2.mp3
+#EXTINF:-1,KBACH 89.5 FM AAC 64
+https://kbaq.streamguys1.com/kbaq_aac_64
+#EXTINF:-1,KBBI 890 Homer, AK
+https://kbbi.streamguys1.com/xstream
+#EXTINF:-1,KBIA 91.3 FM
+https://das-sa43.cdnstream1.com/6062_256k.aac
+#EXTINF:-1,KBIA HD2 (Classical 90.5, KMUC)
+https://das-sa43.cdnstream1.com/6063_256k.aac
+#EXTINF:-1,KBIA HD3
+https://das-sa43.cdnstream1.com/6064_256k.aac
+#EXTINF:-1,KCAW 104.7 "Raven Radio" Sitka, AK
+https://tektite.streamguys1.com:5195/live
+#EXTINF:-1,KCRW 88.9 FM - Live
+https://streams.kcrw.com/kcrw_mp3?aw_0_1st.playerid=radio-browser.info
+#EXTINF:-1,KCRW Live 89.9 FM (AAC)
+https://streams.kcrw.com/kcrw_aac
+#EXTINF:-1,KEDT-FM 90.3 "KEDT Public Radio" Corpus Christi, TX
+https://kedt.streamguys1.com/live-aac
+#EXTINF:-1,KNKX
+https://knkx-live-a.edge.audiocdn.com/6284_128k
+#EXTINF:-1,KPUB NPR Arizona
+https://knau.streamguys1.com/kpub-mp3
+#EXTINF:-1,KSKO-FM 89.5 McGrath, AK (AAC Stream)
+https://ksko.streamguys1.com/live-aac
+#EXTINF:-1,KSKO-FM 89.5 McGrath, AK  (MP3 Stream) 
+https://ksko.streamguys1.com/live
+#EXTINF:-1,KUAF 91.3 Fayetteville, AR
+https://war.streamguys1.com:7031/kuaf1
+#EXTINF:-1,KUER 90.1 FM/HD1 NPR Utah
+https://kuer.streamguys1.com/low_icy
+#EXTINF:-1,KVPR 89.3 Valley Public Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/KVPRFM_SC
+#EXTINF:-1,KYUK-AM 640 Bethel, AK 
+https://23023.live.streamtheworld.com/KYUKAM_SC
+#EXTINF:-1,News 88.9 KNPR Nevada
+https://27283.live.streamtheworld.com/KNPRFM_SC

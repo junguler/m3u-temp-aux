@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1,Радио Свобода
 https://rfe-ingest.akamaized.net/hls/live/2035254/axia04/playlist.m3u8
+#EXTINF:-1,Несуществующая Радиостанция
+https://admin.87bpm.com:8000/radio320.mp3

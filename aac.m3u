@@ -11,3 +11,11 @@ https://icecast.radiofrance.fr/fippop-hifi.aac
 https://icecast.radiofrance.fr/franceinter-hifi.aac
 #EXTINF:-1,Sud Radio
 https://ice.creacast.com/sudradio_aac
+#EXTINF:-1,GooGeRaDiO
+https://stream.googeradio.com/listen
+#EXTINF:-1,KALX 90.7FM Berkeley
+https://stream.kalx.berkeley.edu:8443/kalx-320.aac
+#EXTINF:-1,NPO Klassiek
+https://icecast.omroep.nl/radio4-bb-aac
+#EXTINF:-1,Орфей Фолк-музыка
+https://channels.fonotron.ru:8000/Chan_63_128.aac

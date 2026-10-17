@@ -9,3 +9,7 @@ https://fluxmusic.api.radiosphere.io/channels/fluxfm-finest/stream.mp3?quality=1
 https://fluxmusic.api.radiosphere.io/channels/indiedisco/stream.aac?quality=10
 #EXTINF:-1,FluxFM Indie Disco | 64k MP3
 https://fluxmusic.api.radiosphere.io/channels/indiedisco/stream.mp3?quality=1
+#EXTINF:-1,GirlPower Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/GIRLPOWER.mp3
+#EXTINF:-1,HappyHardcore.com
+https://www.happyhardcore.com/livestreams/p/u9/

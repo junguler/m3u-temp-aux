@@ -115,3 +115,31 @@ https://www.radioking.com/play/radio-rbs-1
 https://stream4.vestaradio.com/RadioUnivers
 #EXTINF:-1,Ethno Radio
 https://stream.drugradio.ru:8010/stream128
+#EXTINF:-1,Gugak FM
+https://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/playlist.m3u8
+#EXTINF:-1,GugakFM
+https://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/chunklist_w1653570079.m3u8
+#EXTINF:-1,Hopsain Radio
+https://stream.radio.co/sb4fa1aec1/listen
+#EXTINF:-1,HyeVibes
+https://stream.hyevibes.com/listen/hyevibes/radio.mp3
+#EXTINF:-1,Intamixx 80s 90s Radio UK
+https://radio.intamixx.uk:8443/radio2
+#EXTINF:-1,Lotus FM Macau HD - 97.4 FM
+https://lhttp.qtfm.cn/live/20533/64k.mp3
+#EXTINF:-1,Lotus Macau Radio - 1062 AM
+https://lhttp.qtfm.cn/live/20133/64k.mp3
+#EXTINF:-1,o0o0.online
+https://o0o0.online/stream/_
+#EXTINF:-1,Persian Vibe Radio
+https://radio.aydayazdani.com/stream
+#EXTINF:-1,Power Ace Radio
+https://music-station.live/radio/8030/radio.mp3
+#EXTINF:-1,Radio Paradise World/etc FLAC+meta
+https://stream.radioparadise.com/world-etc-flacm
+#EXTINF:-1,Radio Paradise World/Etc Mix 320k AAC
+https://stream.radioparadise.com/world-etc-320
+#EXTINF:-1,Radio Paradise World/Etc Mix 64k AAC
+https://stream.radioparadise.com/world-etc-64
+#EXTINF:-1,Radio Paradise World/Etc Mix FLAC
+https://stream.radioparadise.com/world-etc-flac

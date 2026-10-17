@@ -17,3 +17,15 @@ https://wdr-radio.ard-mcdn.de/wdr/radio/wdr2rhld/hls/master.m3u8
 https://wdr-radio.ard-mcdn.de/wdr/radio/wdr2swf/hls/master.m3u8
 #EXTINF:-1,ComedyUK
 https://stream.rcs.revma.com/cp7w38a8hxnwv
+#EXTINF:-1,FunHouse Radio
+https://ais-edge105-live365-dal02.cdnstream.com/a02627?filetype=.mp3&_=1
+#EXTINF:-1,Hospital Radio Norwich
+https://hospita1.radioca.st/;
+#EXTINF:-1,I Hate Free Speech Radio
+https://s22.myradiostream.com/15152/listen.mp3
+#EXTINF:-1,No Agenda Show Stream (pls)
+https://listen.noagendastream.com/noagenda
+#EXTINF:-1,Pete :: Signal City Live
+https://signalcity.tv/radio/pete.mp3
+#EXTINF:-1,Radio England - Pumpkin FM
+https://cast2.asurahosting.com/proxy/radioengland/stream

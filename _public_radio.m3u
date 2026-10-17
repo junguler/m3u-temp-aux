@@ -287,3 +287,97 @@ https://wgbh-live.streamguys1.com/classical-hi
 https://wgbh-live.streamguys1.com/wcrb-itunes-256k
 #EXTINF:-1,CRB Classical 99.5 HLS
 https://wgbh-hls.streamguys1.com/wcrb_hls/playlist.m3u8
+#EXTINF:-1,GBH 89.7
+https://wgbh-live.streamguys1.com/wgbh-noads
+#EXTINF:-1,GBH 89.7 AAC
+https://wgbh-live.streamguys1.com/wgbh-aac
+#EXTINF:-1,GBH 89.7 AAC 256
+https://wgbh-live.streamguys1.com/wgbh-256aac
+#EXTINF:-1,GBH 89.7 HLS
+https://wgbh-hls.streamguys1.com/wgbh_hls/playlist.m3u8
+#EXTINF:-1,GPB
+https://gpb.streamguys1.com/im/gpb-atlanta-aac-website?listenerid=a9950016fb7242a718c44f930c917795&awparams=playerid%3ASGplayer%3BcompanionAds%3Atrue&amsparams=playerid%3ASGplayer%3Bskey%3A1646483232842%3B
+#EXTINF:-1,Heart 70s
+https://media-ssl.musicradio.com/Heart70sMP3
+#EXTINF:-1,Heart 90s
+https://media-ssl.musicradio.com/Heart90sMP3
+#EXTINF:-1,Heart Dance
+https://media-ssl.musicradio.com/HeartDanceMP3
+#EXTINF:-1,Heart South Wales
+https://media-ssl.musicradio.com/HeartSouthWalesMP3
+#EXTINF:-1,KABF
+https://cast.acornradio.org/kabf
+#EXTINF:-1,KANW-2
+https://playerservices.streamtheworld.com/api/livestream-redirect/KANWHD2.mp3
+#EXTINF:-1,KBACH 89.5 FM AAC 64
+https://kbaq.streamguys1.com/kbaq_aac_64
+#EXTINF:-1,KBBI 890 Homer, AK
+https://kbbi.streamguys1.com/xstream
+#EXTINF:-1,KBIA 91.3 FM
+https://das-sa43.cdnstream1.com/6062_256k.aac
+#EXTINF:-1,KBIA HD2 (Classical 90.5, KMUC)
+https://das-sa43.cdnstream1.com/6063_256k.aac
+#EXTINF:-1,KBIA HD3
+https://das-sa43.cdnstream1.com/6064_256k.aac
+#EXTINF:-1,KCAW 104.7 "Raven Radio" Sitka, AK
+https://tektite.streamguys1.com:5195/live
+#EXTINF:-1,KCBX San Luis Obispo, CA
+https://kcbx-ice.streamguys1.com/kcbx-hi
+#EXTINF:-1,KCRW 88.9 FM - Live
+https://streams.kcrw.com/kcrw_mp3?aw_0_1st.playerid=radio-browser.info
+#EXTINF:-1,KEDT-FM 90.3 "KEDT Public Radio" Corpus Christi, TX
+https://kedt.streamguys1.com/live-aac
+#EXTINF:-1,KGOU
+https://playerservices.streamtheworld.com/api/livestream-redirect/KGOUFM_64.mp3
+#EXTINF:-1,KHFM Classical Public Radio
+https://live.amperwave.net/direct/agmedia28-khfmfmaac-ibc3
+#EXTINF:-1,KMFA Classical 89.5 Austin TX
+https://kmfa.streamguys1.com/live
+#EXTINF:-1,KMXT-FM 100.1  Kodiak, AK
+https://14623.live.streamtheworld.com/KMXTFMAAC_SC
+#EXTINF:-1,KPBS Classical San Diego AAC 256
+https://kpbs-classical.streamguys1.com/kpbs-classical-itunes-256k.aac
+#EXTINF:-1,KRCC CPR for Southern Colorado Colorado Public Radio 
+https://streams.krcc.org/krcc_mp3
+#EXTINF:-1,KRCU Public Radio for Southeast Missouri
+https://krculive.semo.edu:8443/128k
+#EXTINF:-1,KSFR-FM 101.1 "Santa Fe Public Radio" Santa Fe, NM
+https://14983.live.streamtheworld.com/KSFRFM_ICE_SC
+#EXTINF:-1,KSKO-FM 89.5 McGrath, AK (AAC Stream)
+https://ksko.streamguys1.com/live-aac
+#EXTINF:-1,KSKO-FM 89.5 McGrath, AK  (MP3 Stream) 
+https://ksko.streamguys1.com/live
+#EXTINF:-1,KTNA-FM 88.9 Talkeetna, AK 
+https://ktna.broadcasttool.stream/play
+#EXTINF:-1,KUAF 91.3 Fayetteville, AR
+https://war.streamguys1.com:7031/kuaf1
+#EXTINF:-1,KUAF-HD2 Classical Stream - Fayetteville, AR
+https://war.streamguys1.com:7031/kuaf2
+#EXTINF:-1,KUAF-HD3 Jazz Stream - Fayetteville, AR
+https://war.streamguys1.com:7031/kuaf3
+#EXTINF:-1,KUNR 88.7 "Reno Public Radio", NV
+https://kunrstream.com:8443/live
+#EXTINF:-1,KUSC 91.5 Los Angeles, CA (96kbps AAC)
+https://16603.live.streamtheworld.com/KUSCAAC96_SC
+#EXTINF:-1,KYUK-AM 640 Bethel, AK 
+https://23023.live.streamtheworld.com/KYUKAM_SC
+#EXTINF:-1,Lider FM 107,4
+https://liderfm.ipradio.mk/
+#EXTINF:-1,NCPR - North Country Public Radio
+https://ncpr-ice.streamguys1.com/ncpr-96k.mp3
+#EXTINF:-1,Needs Radio 全球華語廣播網
+https://cdn280.ccdntech.com/live-http/_definst_/vod280_Live/needs/chunklist.m3u8
+#EXTINF:-1,NPO BLEND
+https://icecast.omroep.nl/npoblend-bb-mp3
+#EXTINF:-1,NPO Radio 4
+https://icecast.omroep.nl:80/radio4-bb-mp3
+#EXTINF:-1,Ocean State media
+https://18423.live.streamtheworld.com/WPVDFM.mp3
+#EXTINF:-1,Public Radio 90
+https://wnmu.streamguys1.com/wnmu-fm
+#EXTINF:-1,Purple Current
+https://purplecurrent.stream.publicradio.org/purplecurrent.mp3
+#EXTINF:-1,Radio Gelderland
+https://d2od87akyl46nm.cloudfront.net/icecast/omroepgelderland/radiogelderland
+#EXTINF:-1,Radio Hamrah رادیو همراه
+https://stream.zenolive.com/gxdq0awu30duv.aac

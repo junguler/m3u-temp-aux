@@ -195,3 +195,29 @@ https://f131.rndfnk.com/ard/dlf/01/opus/64/stream.opus?aggregator=web&sid=22ZAaN
 https://f121.rndfnk.com/ard/dlf/02/mp3/128/stream.mp3?sid=22bPDHEjgmLJf5sGA6CA0iRJlBx&token=dYSC4CslKTKSstZfnWO06F5-22aDVmPGhcH-oFm_Dh0&tvf=TAls3M7kwhZmMTIxLnJuZGZuay5jb20
 #EXTINF:-1,DLR-6 Dalian Metropolis Broadcasting 99.1
 https://lhttp.qingting.fm/live/1086/64k.mp3
+#EXTINF:-1,Fred Film Radio
+https://s10.webradio-hosting.com/proxy/fredradioen/stream
+#EXTINF:-1,Fred Film Radio-28 Education
+https://s10.webradio-hosting.com/proxy/fredradioedu/stream
+#EXTINF:-1,Fred Film Radio Entertainment
+https://s10.webradio-hosting.com/proxy/fredenter/stream
+#EXTINF:-1,Fred Film Radio Extra
+https://s10.webradio-hosting.com/proxy/fredradioec/stream
+#EXTINF:-1,Fred Film Radio(한국어)
+https://s10.webradio-hosting.com/proxy/fredradiokr/stream
+#EXTINF:-1,Huangchuan Radio Station 103.1
+https://live.xmcdn.com/live/2765/64.m3u8
+#EXTINF:-1,講客廣播電台
+https://n08.rcs.revma.com/akqrbx94gbkvv
+#EXTINF:-1,KCRW 88.9 FM - Live
+https://streams.kcrw.com/kcrw_mp3?aw_0_1st.playerid=radio-browser.info
+#EXTINF:-1,KCRW Live 89.9 FM (AAC)
+https://streams.kcrw.com/kcrw_aac
+#EXTINF:-1,Monocle Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/MONOCLE_24.mp3
+#EXTINF:-1,Radio Chișinău
+https://radiochisinau.md/hls/RChisinau.m3u8
+#EXTINF:-1,Radio Nowy Swiat
+https://n13a-eu.rcs.revma.com/5ws0kfn1x1zuv?rj-ttl=5&rj-tok=AAABfd185bAAzm0ydyIW9ILpQA
+#EXTINF:-1,راديو الناس
+https://cdna.streamgates.net/RadioNas/Live-Audio/icecast.audio

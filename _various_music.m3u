@@ -11,3 +11,23 @@ https://stream.centrumradio.eu/centrumradio.mp3
 https://server-67.stream-server.nl:8794/
 #EXTINF:-1,Donderschoer Radio (2nd server)
 https://server-28.stream-server.nl:8806/stream
+#EXTINF:-1,Hoppa Music Holland
+https://server-28.stream-server.nl:8822/stream
+#EXTINF:-1,Intercity Radio
+https://server-28.stream-server.nl:8804/stream
+#EXTINF:-1,Lokale Omroep Ameland
+https://loa.beheerstream.nl:8040/stream
+#EXTINF:-1,Lokale Omroep Dronten (107.4 FM)
+https://icecast.lokaleomroepzeewolde.nl:8443/drontenhigh
+#EXTINF:-1,Lokale Omroep Zeewolde (LOZ 106.4FM)
+https://icecast.lokaleomroepzeewolde.nl:8443/high
+#EXTINF:-1,ME-RADIO.COM
+https://centova.rockhost.com/proxy/medjsmer?mp=/live
+#EXTINF:-1,Moonlight-Radio
+https://server-67.stream-server.nl:8780/stream
+#EXTINF:-1,Music from earth
+https://server-28.stream-server.nl:8922/stream
+#EXTINF:-1,Radio 182
+https://player.streamforce.nl/listen/radio182/stream
+#EXTINF:-1,Radio de Branding
+https://server-28.stream-server.nl:8814/stream

@@ -99,3 +99,13 @@ https://as-hls-ww.live.cf.md.bbci.co.uk/pool_11351741/live/ww/bbc_radio_one_anth
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_1xtra.m3u8
 #EXTINF:-1,CAPITAL - The UK's No.1 Hit Music Station
 https://media-ssl.musicradio.com/CapitalUK
+#EXTINF:-1, KISS - The Best Vibes & Energy
+https://live-bauerkiss.sharp-stream.com/kissnational.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&=&&___cb=60456375243858
+#EXTINF:-1, KISS XTRA: Black Music & Culture
+https://live-bauerkiss.sharp-stream.com/kissfresh.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&=&&___cb=60456375243858
+#EXTINF:-1,Phoenix Radio Wales
+https://listen.radioking.com/radio/432101/stream/485900
+#EXTINF:-1,Polskie Radio 1030 Chicago WNVR
+https://s1.reliastream.com/proxy/polskieradio?mp=/stream
+#EXTINF:-1,Radio America 1
+https://s6.yesstreaming.net:18003/ra1

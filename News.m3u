@@ -19,3 +19,25 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_RJAAC.aac?
 https://26413.live.streamtheworld.com/CFRAAM_ADP/HLS/playlist.m3u8
 #EXTINF:-1,CHPD 107.7
 https://radio.mcson.org/stream?type=.mp3
+#EXTINF:-1,Holy Cow! Radio
+https://listen.radioking.com/radio/400807/stream/452959
+#EXTINF:-1,Itapema 93.7
+https://1192747t.ha.azioncdn.net/primary/ita_poa.sdp/chunklist_f67b569e-6c38-4dee-9982-46782ad96ca4.m3u8
+#EXTINF:-1,K3 Radio Prnjavor
+https://s1.mojstream.eu:9164/stream?icy=http
+#EXTINF:-1,La Boca 90.1
+https://s24.myradiostream.com/14984/listen.mp3
+#EXTINF:-1,Radio 3 780
+https://radio01.ferozo.com/proxy/ra01000981?mp=/stream
+#EXTINF:-1,Radio Jajce 92.0
+https://s8.iqstreaming.com:8034/stream
+#EXTINF:-1,Radio Noticias
+https://stream-154.zeno.fm/znecohtmr5tuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6bmVjb2h0bXI1dHV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjFVYTVqbklEUmVpSnU3VGJnSHVmNHciLCJpYXQiOjE3MzQ4NzEzMjgsImV4cCI6MTczNDg3MTM4OH0.9xmFsvWd_TSfUwvyn9APUq3IVVYJhitQMCeQtm0KUG0
+#EXTINF:-1,Radio Srbac 93.2
+https://stream1.srvnetplus.com:18000/;?1750274814162
+#EXTINF:-1,Radio SRF 1 La 1ere - La Presse
+https://rts-aod-dd.akamaized.net/ww/80799e08-d794-324b-8955-7584d2e189e2/aae702ee-84c5-3b97-96b3-15aea8f93aa3.mp3
+#EXTINF:-1,Radio TNT Sarajevo 101.2
+https://server1.tnt.ba/proxy/tntsa?mp=/stream1
+#EXTINF:-1,Radio Visegrad 104.0
+https://usa7.fastcast4u.com/proxy/radiovgd?mp=/1

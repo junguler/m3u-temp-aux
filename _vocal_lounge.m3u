@@ -5,3 +5,5 @@ https://cast1.torontocast.com:4640/stream
 https://kathy.torontocast.com:3590/;?type=http&nocache=1739707069
 #EXTINF:-1,#1 Splash Lounge
 https://ais-sa2.cdnstream1.com/2209_128.mp3
+#EXTINF:-1,Radio Art Vocal Lounge
+https://live.radioart.com/fVocal_lounge.mp3

@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1,broradio
 https://streaming.broadcastradio.com:8422/brorad?=&&___cb=380218828489260
+#EXTINF:-1,Radio Camarthenshire
+https://listen-nation.sharp-stream.com/tccarmarthenshire.mp3

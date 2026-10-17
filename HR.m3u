@@ -3,3 +3,41 @@
 https://s3.radio.co/se83499ee0/listen
 #EXTINF:-1,Cro International DJ Radio
 https://stream.zeno.fm/t47dykadrchvv
+#EXTINF:-1,HRT HR 1
+https://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM1_SC
+#EXTINF:-1,HRT Radio 1
+https://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM1AAC_SC
+#EXTINF:-1,HRT Radio 2
+https://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM2AAC_SC
+#EXTINF:-1,HRT Radio 3
+https://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM3AAC_SC
+#EXTINF:-1,HRT Radio Sljeme 88.1
+https://playerservices.streamtheworld.com/api/livestream-redirect/SLJEMEAAC_SC
+#EXTINF:-1,Hrvatski Radio Glas Hrvatske
+https://playerservices.streamtheworld.com/api/livestream-redirect/VOICEOFCROATIA.mp3
+#EXTINF:-1,Hrvatski Radio Knin
+https://playerservices.streamtheworld.com/api/livestream-redirect/KNIN.mp3
+#EXTINF:-1,Hrvatski Radio Prvi
+https://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM1.mp3
+#EXTINF:-1,Hrvatski Radio Split
+https://playerservices.streamtheworld.com/api/livestream-redirect/SPLIT.mp3
+#EXTINF:-1,Hrvatski Radio Treci
+https://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM3.mp3
+#EXTINF:-1,Just Rock Radio
+https://stream.zeno.fm/pdkt234k698uv.mp3
+#EXTINF:-1,KLFM
+https://klfmorgborg.radioca.st/stream
+#EXTINF:-1,Radio BNM
+https://onlineradiobox.com/json/hr/bnm/play
+#EXTINF:-1,Radio Centar Poreč
+https://radiocentar.hr:8282/stream.aac
+#EXTINF:-1,Radio Dubrovnik
+https://playerservices.streamtheworld.com/api/livestream-redirect/DUBROVNIK.mp3
+#EXTINF:-1,Radio Imotski 107.4 FM
+https://radioimotski.radioca.st/stream
+#EXTINF:-1,Radio Maestral
+https://ec2s.crolive.com.hr:1630/stream
+#EXTINF:-1,Radio NU - Thompson 24/7
+https://slusaj.hr:10446/stream
+#EXTINF:-1,Radio Roža
+https://stream.radio-roza.org/live.mp3

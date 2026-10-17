@@ -63,3 +63,33 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WRKFFM.mp3
 https://live.amperwave.net/manifest/publictv19-ktbgfmaac-hlsc1.m3u8
 #EXTINF:-1,91.5 WBEZ-FM
 https://stream.wbez.org/wbez64-web.aac
+#EXTINF:-1,Indie 102.3
+https://stream1.cprnetwork.org/cpr3_lo
+#EXTINF:-1,IPR Studio One
+https://studioone-stream.iowapublicradio.org/StudioOne.mp3
+#EXTINF:-1,Jefferson Public Radio Rhythm and News
+https://jpr-ice.streamguys1.com/jpr-rhythm
+#EXTINF:-1,KAZU
+https://kazu.streamguys1.com/kazu.mp3
+#EXTINF:-1,KBRW  680 AM
+https://tektite.streamguys1.com:5345/live
+#EXTINF:-1,KCIE 90.5 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/KANWFM_SC
+#EXTINF:-1,KPBS
+https://kpbs.streamguys1.com/kpbs-mp3
+#EXTINF:-1,KSFR
+https://playerservices.streamtheworld.com/api/livestream-redirect/KSFRFM_ICE.aac
+#EXTINF:-1,KSTX 89.1 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/KSTXFMAAC.aac
+#EXTINF:-1,KUOW
+https://playerservices.streamtheworld.com/api/livestream-redirect/KUOWFM_HIGH_MP3.mp3
+#EXTINF:-1,La 1ere Saint Pierre et Miquelon (975)
+https://saint-pierreetmiquelon.ice.infomaniak.ch/saint-pierreetmiquelon-128.mp3
+#EXTINF:-1,Mississippi Publuc Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/WMPNHD3_56.mp3
+#EXTINF:-1,NPR Illinois
+https://war.streamguys1.com:7785/wuis.mp3
+#EXTINF:-1,Radio Kansas
+https://audio-edge-w4d68.yul.o.radiomast.io/5567306a-66f6-4d8f-a399-520e2936e3a0
+#EXTINF:-1,Radio West
+https://liveradio.omroepwest.nl/

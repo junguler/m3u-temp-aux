@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,Henk's Streaming Audio.
+https://home.henksplace.nl:8443/HSA
+#EXTINF:-1,NPO Radio 5
+https://icecast.omroep.nl/radio5-sb-aac

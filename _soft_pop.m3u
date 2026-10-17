@@ -27,3 +27,7 @@ https://radioukwplus.eu:8444/stream
 https://stream.rpr1.de/acoustic/mp3-128/radiobrowser
 #EXTINF:-1,RPR1. Chillout
 https://stream.rpr1.de/chillout/mp3-128/radiobrowser
+#EXTINF:-1,Exclusively Simon And Garfunkel
+https://streaming.exclusive.radio/er/simongarfunkle/icecast.audio
+#EXTINF:-1,Quality FM
+https://icecast.lokaleomroepzeewolde.nl:8443/QualityFMHigh

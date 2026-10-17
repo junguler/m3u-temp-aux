@@ -193,3 +193,9 @@ https://wdr-radio.ard-mcdn.de/wdr/radio/wdr4swf/hls/master.m3u8
 https://1slowradio.stream.laut.fm/1_slowradio
 #EXTINF:-1,Radio Primavera GC 107.3 FM
 https://stream.radio-pv.com/
+#EXTINF:-1,HITZZZ!!
+https://stream.hitzzz.nl/hitzzz
+#EXTINF:-1,HR 4
+https://hlshr4.akamaized.net/hls/live/2016537/hr4rheinmain/192/seg.m3u8
+#EXTINF:-1,Radioachterhoek.nl
+https://stream.radioachterhoek.nl/index.html?sid=1

@@ -5,3 +5,13 @@ https://stream.zeno.fm/p7ume1dmbd0uv
 https://radio.jump.bg/proxy/feed104?mp=/MSRR
 #EXTINF:-1,Дождь ТВ (Звук)
 https://wl.tvrain.tv/transcode/ses_audio_only/playlist.m3u8
+#EXTINF:-1,Говорит Москва - Govorit Moskva
+https://media.govoritmoskva.ru/radio/rufm.mp3
+#EXTINF:-1,Известия ТВ (звук)
+https://hls-igi.cdnvideo.ru/igi/radio1/tracks-a1/mono.m3u8
+#EXTINF:-1,Радио МИР
+https://icecast-mirtv.cdnvideo.ru/radio_mir_256
+#EXTINF:-1,Радио Мир (Барнаул)
+https://icecast-mirtv.cdnvideo.ru/radio_mir4_256
+#EXTINF:-1,Радио Мир (Барнаул)
+https://icecast-mirtv.cdnvideo.ru/radio_mir4_256

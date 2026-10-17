@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1,CHRB 1140
 https://buf-live1-ais-relay1.leanstream.co/goldenwest/CHRBAM.stream/playlist.m3u8
+#EXTINF:-1,Rádio Relogio 580
+https://stm12.xcast.com.br:11416//;?1735885796456

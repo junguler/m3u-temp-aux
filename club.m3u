@@ -41,3 +41,7 @@ https://hls-01-dfm.hostingradio.ru/dfm/playlist.m3u8
 https://dfm-dfmclub.hostingradio.ru/dfmclub96.aacp
 #EXTINF:-1,edm1.fm Club House
 https://radio.edm1.fm/proxy/15_clubhouse?mp=/stream
+#EXTINF:-1,House Radio Net
+https://server.houseradio.net:8000/stream
+#EXTINF:-1,Metropolis Radio Network
+https://eu4.fastcast4u.com/proxy/metradio?mp=/1

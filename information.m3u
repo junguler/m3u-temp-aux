@@ -193,3 +193,15 @@ https://replaynewsfi.ice.infomaniak.ch/replaynewsfi-128.mp3
 https://altafrequenza.ice.infomaniak.ch/altafrequenza-128.mp3
 #EXTINF:-1,CNR-14 香港之聲
 https://satellitepull.cnr.cn/live/wxxgzs/playlist.m3u8?wsSession=5849bb6c90cf7fc1a7e3eae9-174908181231216&wsIPSercert=f7b6cfa8467acd0836b62cf14aa786d3
+#EXTINF:-1,조선의 소리 방송 Voice of Korea
+https://stream.intchoson.com/vok/main_stream.m3u8
+#EXTINF:-1,KCBS 조선중앙방송
+https://stream.intchoson.com/kcbs/main_stream.m3u8
+#EXTINF:-1,KNDN 960 AM
+https://ice9.securenetsystems.net/KNDN
+#EXTINF:-1,KVTO AM1400 FM93.7 旧金山湾区中文电台
+https://us2.maindigitalstream.com/ssl/KVTO
+#EXTINF:-1,美国之音
+https://stream.zeno.fm/hy8okpwdybntv
+#EXTINF:-1,News Radio UK
+https://stream.aiir.com/clcb6m0k9shvv

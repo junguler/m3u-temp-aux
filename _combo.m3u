@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1,Caracol Radio (Bogotá) - 100.9 FM / 810 AM - HJGL / HJCY - PRISA Radio - Bogotá, Colombia
 https://playerservices.streamtheworld.com/api/livestream-redirect/CARACOL_RADIOAAC.aac
+#EXTINF:-1,La Mejor Orlando - 96.1 FM / 1340 AM - WWFL - OMR Group - Orlando, Florida
+https://cast3.asurahosting.com/proxy/omrgroup/stream

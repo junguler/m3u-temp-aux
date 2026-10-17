@@ -101,3 +101,11 @@ https://streaming.exclusive.radio/er/fleetwoodmac/icecast.audio
 https://2.mystreaming.net/er/onj/icecast.audio
 #EXTINF:-1,Exclusively Paul McCartney
 https://streaming.exclusive.radio/er/paulmccartney/icecast.audio
+#EXTINF:-1,Exclusively Steely Dan
+https://nl4.mystreaming.net/er/steelydan/icecast.audio
+#EXTINF:-1,GotRadio - Soft Rock Café
+https://pureplay.cdnstream1.com/6010_64.aac/playlist.m3u8
+#EXTINF:-1,LITT Live - Yacht Rock Radio
+https://das-sa39.cdnstream1.com/5605_128
+#EXTINF:-1,Offshore Radio
+https://live.offshoreradio.net/listen/offshore_radio/radio.mp3

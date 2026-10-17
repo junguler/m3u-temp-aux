@@ -3,3 +3,23 @@
 https://stream.bbfm.sk/bbfm128.mp3
 #EXTINF:-1,Duflo Radio
 https://stream.zeno.fm/kxwhyvz2fm0uv
+#EXTINF:-1,Fun rádio
+https://stream.funradio.sk:8000/fun128.mp3
+#EXTINF:-1,Fun rádio: 80-90 roky
+https://stream.funradio.sk:8000/80-90-128.mp3
+#EXTINF:-1,Fun rádio: CZ-SK
+https://stream.funradio.sk:8000/cs128.mp3
+#EXTINF:-1,Fun rádio: Dance
+https://stream.funradio.sk:8000/dance128.mp3
+#EXTINF:-1,Fun rádio: Mileniálky
+https://stream.funradio.sk:8000/milenialky128.mp3
+#EXTINF:-1,Radio Expres 107.6
+https://stream.expres.sk/128.mp3
+#EXTINF:-1,Rádio Regina Stred
+https://icecast.stv.livebox.sk/regina-bb_128.mp3
+#EXTINF:-1,Rádio Repete
+https://stream.rusyn.fm/rusyny-low.mp3
+#EXTINF:-1,Radio TLIS
+https://stream.tlis.sk/tlis.mp3
+#EXTINF:-1,Rádio Vlna: Classic Rock
+https://stream.radiovlna.sk:8000/rock-hi.mp3

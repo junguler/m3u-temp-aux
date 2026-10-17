@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,MOTORADIO.ONLINE, 320 kbps
+https://stream.motoradio.online/std-mp3
+#EXTINF:-1,MOTORADIO.ONLINE, Just music, no programs
+https://stream.motoradio.online/lite-mp3

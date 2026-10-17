@@ -23,3 +23,7 @@ https://stream.radiofrance.fr/francemusique/francemusique.m3u8?id=radiofrance
 https://ec3.yesstreaming.net:3625/stream
 #EXTINF:-1,Classical Radio - Malcolm Sargent
 https://nl4.mystreaming.net/uber/crmalcolmsargent/icecast.audio
+#EXTINF:-1,KHFM Classical Public Radio
+https://live.amperwave.net/direct/agmedia28-khfmfmaac-ibc3
+#EXTINF:-1,Magic Classical
+https://stream-mz.hellorayo.co.uk/scala.aac

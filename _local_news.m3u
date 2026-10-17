@@ -137,3 +137,63 @@ https://stream4.hippynet.co.uk/stream/brooklandsradio
 https://streaming.broadcastradio.com:8422/brorad?=&&___cb=380218828489260
 #EXTINF:-1,Donderschoer Radio (2nd server)
 https://server-28.stream-server.nl:8806/stream
+#EXTINF:-1,Fosse 107
+https://icecast.maxxwave.co.uk/fossehinckleyhq
+#EXTINF:-1,Gen X Radio
+https://s2.radio.co/sf25229e16/listen
+#EXTINF:-1,HoornRadio
+https://server-23.stream-server.nl:18382/;
+#EXTINF:-1,KBRN Boerne Radio 103.9 FM
+https://ice42.securenetsystems.net/KBRN
+#EXTINF:-1,KDVS Davis
+https://archives.kdvs.org/stream
+#EXTINF:-1,KNKX
+https://knkx-live-a.edge.audiocdn.com/6284_128k
+#EXTINF:-1,KQED 128 AAC
+https://hls.kqed.org/hls/kqed_app/playlist.m3u8
+#EXTINF:-1,KSQD Community Radio
+https://ksqd.info:8100/stream
+#EXTINF:-1,KUNC
+https://ais-sa1.streamon.fm/7891_96k.mp3
+#EXTINF:-1,KVGC - HomeTown Radio for Amador & Calaveras Counties
+https://ais-sa1.streamon.fm/7004_24k.aac
+#EXTINF:-1,KWMT True Country AM 540
+https://live.amperwave.net/direct/alphamidwest-kwmtammp3-ibc2
+#EXTINF:-1,L.O.V.E. (Lokale Omroep Volendam Edam)
+https://nlpo.stream.vip/rtvlove/mp3-192/nlpo.stream.vip/
+#EXTINF:-1,L.O.V.E. (Lokale Omroep Volendam Edam) DAB
+https://webstream.rtvlove.nl/DAB-RTVLOVE
+#EXTINF:-1,Lokale Omroep Dronten (107.4 FM)
+https://icecast.lokaleomroepzeewolde.nl:8443/drontenhigh
+#EXTINF:-1,Lokale Omroep Zeewolde (LOZ 106.4FM)
+https://icecast.lokaleomroepzeewolde.nl:8443/high
+#EXTINF:-1,MyFM 101.3
+https://ice64.securenetsystems.net/WMRC
+#EXTINF:-1,NBC Radio SVG
+https://us1.carihost.com:2020/stream/NBCSVG/
+#EXTINF:-1, NOTICIAS Y DEPORTES 1330 (Los �ngeles) - 1330 AM - KWKW - Lotus Communications - Los �ngeles, California, EUA
+https://playerservices.streamtheworld.com/api/livestream-redirect/KWKWAMAAC.aac
+#EXTINF:-1,Omroep Zeeland Radio
+https://d3isaxd2t6q8zm.cloudfront.net/icecast/omroepzeeland/omroepzeeland_radio
+#EXTINF:-1,Radio 570 WNAX
+https://live.amperwave.net/manifest/saga-wnaxamaac-hlsc1.m3u8
+#EXTINF:-1,Radio Apeldoorn
+https://streamingradio.rtv-apeldoorn.nl/listen/radio_apeldoorn/rtvapeldoornmid.mp3
+#EXTINF:-1,Radio Apeldoorn (high bandwidth)
+https://streamingradio.rtv-apeldoorn.nl/listen/radio_apeldoorn/rtvapeldoornhigh.mp3
+#EXTINF:-1,Radio Hoeksche Waard
+https://cloud-faro.beheerstream.com/proxy/omroephw?mp=/live
+#EXTINF:-1,Radio Northwich
+https://stream.radio.co/s98163f694/listen
+#EXTINF:-1,Radio Omroep Venlo
+https://nlpo.stream.vip/venlo/mp3-192/nlpo
+#EXTINF:-1,Радио России Брянск 91.6 FM
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/bryansk/radio_russia/index.m3u8
+#EXTINF:-1,Радио России Иваново 89.1 FM
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ivanovo/radio_russia/index.m3u8
+#EXTINF:-1,Радио России Выборг 104.6 FM
+https://radio.rtr.spb.ru/live1
+#EXTINF:-1,Radio Texel
+https://cast6.asurahosting.com/proxy/radiotex/stream
+#EXTINF:-1,Radio ZO-NWS
+https://nlpo.stream.vip/zonws/mp3-192/nlpo/

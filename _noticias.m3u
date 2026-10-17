@@ -349,3 +349,19 @@ https://ss1.audiorama.com.mx:6676/
 https://playerservices.streamtheworld.com/api/livestream-redirect/KKMOAMAAC.aac
 #EXTINF:-1,Etoile TV
 https://estrellanews-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1,Fama 98.1 FM
+https://server6.globalhostla.com:9356/stream
+#EXTINF:-1,Imaginacion 96.1 FM
+https://stream.zeno.fm/a6wkbc2x91zuv
+#EXTINF:-1,ktnq 1020 am
+https://lmn.streamguys1.com/ktnqam/playlist.m3u8?key=a1e751202157c8d037a4f453698087f605c937356359a6774ea3fcd2e53d04e4
+#EXTINF:-1,La Primera 88.9 XHAJ
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEAJAMAAC.aac
+#EXTINF:-1,La Z101 Fm
+https://streaming.z101digital.com/z101?cb=1779372229211
+#EXTINF:-1, NOTICIAS Y DEPORTES 1330 (Los Ángeles) - 1330 AM - KWKW - Lotus Communications - Los Ángeles, California, EUA
+https://playerservices.streamtheworld.com/api/livestream-redirect/KWKWAMAAC.aac
+#EXTINF:-1,Radio Dial 670 AM (RD)
+https://node-08.zeno.fm/8wgv914262quv
+#EXTINF:-1,Radio Miraflores 95.9 FM
+https://stream.zeno.fm/prcs4h7d9k8uv

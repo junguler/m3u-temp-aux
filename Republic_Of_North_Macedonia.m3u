@@ -3,3 +3,35 @@
 https://fms.off.net.mk:8000/antenna5.stream
 #EXTINF:-1,Club Radio - Skopje, Mcedonia
 https://radiomk-portal.com/listen/club_radio_macedonia/radio.mp3
+#EXTINF:-1,Hits Sky Radio 102.5 FM Macedonia (MP3 128 kbps)
+https://s1.skyradio.com.mk/hits.mp3
+#EXTINF:-1,Jazz FM
+https://radio.jazzfm.mk/listen/jazzfm/live
+#EXTINF:-1,Just Music Radio
+https://radiostream.neotel.mk/justmusicradio
+#EXTINF:-1,Канал 77 Радио Мрежа 
+https://radiocnd.mms.mk/proxy/player/stream
+#EXTINF:-1,Lider FM 107,4
+https://liderfm.ipradio.mk/
+#EXTINF:-1,Makedonsko Radio 1 - Radio Skopje
+https://vod-c57.interspace.com/channel_abr/47/playlist.m3u8
+#EXTINF:-1,Metropolis Radio Network
+https://eu4.fastcast4u.com/proxy/metradio?mp=/1
+#EXTINF:-1,Radio 105 Bombarder
+https://radio105bombarder.com:21010/
+#EXTINF:-1,radio 22
+https://radio.server14.kariha.net:8008/
+#EXTINF:-1,Radio Bubamara 105.2 Skopje, Macedonia
+https://stream.bubamara.com.mk/live
+#EXTINF:-1,Radio Fortuna 96.8 FM
+https://radiofortuna.ipradio.mk/;*.mp3
+#EXTINF:-1,Radio Fortuna 96.8 Skopje, Macedonia
+https://radiofortuna.ipradio.mk/;*.mp3%22
+#EXTINF:-1,Radio Kanal 77 Skopje, Macedonia
+https://radiocnd.mms.mk/proxy/offnet/stream
+#EXTINF:-1,Radio Meff
+https://s32.myradiostream.com:16040/;?type=http&nocache=1688299470?0.591044522318551
+#EXTINF:-1,RadioBar
+https://visual.shoutca.st:8122/stream
+#EXTINF:-1,RADIOBAR
+https://cp1.sednastream.com/proxy/radiobar?mp=/stream

@@ -5,3 +5,9 @@ https://streams.dutchmediacenter.nl/listen/radiocontinu/live
 https://icecast.bredanu.nl/bredanu.mp3
 #EXTINF:-1,BredaNu (96k AAC)
 https://icecast.bredanu.nl/bredanu.aac
+#EXTINF:-1,Glow FM
+https://nlpo.stream.vip/glowfm/mp3-192/nlpo.stream.vip/
+#EXTINF:-1,Radio Rijnmond
+https://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-mp3
+#EXTINF:-1,Radio Rijnmond (AAC+)
+https://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-aacp

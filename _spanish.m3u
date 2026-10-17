@@ -19,3 +19,15 @@ https://radios.lamaster.es:8000/guadalhorce
 https://stream.serviciospararadios.es/radio/8310/litoralfm.mp3
 #EXTINF:-1,Ràdio Litoral Oro
 https://stream.serviciospararadios.es/listen/litoral_oro/litoral-oro.mp3
+#EXTINF:-1,Fiesta Hoy
+https://streams.cbnradio.com/fiesta-hoy-128K?
+#EXTINF:-1,Fuego 98.9
+https://playerservices.streamtheworld.com/api/livestream-redirect/KCVRFM.mp3
+#EXTINF:-1,Fuzion
+https://emg.streamguys1.com/fuzion-website
+#EXTINF:-1,Latino Mix 97.5
+https://radioserver11.profesionalhosting.com/proxy/pkg131317?mp=/stream
+#EXTINF:-1,LatinX 94.3 FM
+https://usa17.fastcast4u.com/proxy/fiestafm?mp=/1
+#EXTINF:-1,Radio Galega 96.2
+https://crtvg-radiogalega-hls.flumotion.cloud/playlist_dvr.m3u8

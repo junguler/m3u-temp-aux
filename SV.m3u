@@ -1,3 +1,13 @@
 #EXTM3U
 #EXTINF:-1,Cool FM 89.3
 https://media.dominiocreativo.com:8006/coolfm
+#EXTINF:-1,La Jefa Radio
+https://stream.zeno.fm/b264csn0sy8uv
+#EXTINF:-1,Plus 101.3 FM
+https://media.dominiocreativo.com:9006/;
+#EXTINF:-1,Radio Cadena YSKL 104.1 FM
+https://media.dominiocreativo.com:8000/radioyskl
+#EXTINF:-1,Radio Soda 105.3 FM
+https://streaming.rcs.com.sv/proxy/soda/stream
+#EXTINF:-1,Radio Super Estrella 94.1 FM
+https://streaming.rcs.com.sv/proxy/super/stream

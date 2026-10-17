@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1,Classic Soul 1075
 https://hello.citrus3.com:2020/8134/stream
+#EXTINF:-1,in2Beats
+https://in2radio.co.uk/IN2MP3
+#EXTINF:-1,KVMA Magic 102.9
+https://playerservices.streamtheworld.com/api/livestream-redirect/KVMAFMAAC_SC

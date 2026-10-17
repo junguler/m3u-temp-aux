@@ -43,3 +43,23 @@ https://ice64.securenetsystems.net/WXRK
 https://2.mystreaming.net/er/genesis/icecast.audio
 #EXTINF:-1,Exclusively Moody Blues
 https://nl4.mystreaming.net/er/moodyblues/icecast.audio
+#EXTINF:-1,Exclusively Peter Gabriel
+https://nl4.mystreaming.net/er/petergabriel/icecast.audio
+#EXTINF:-1,ISKC Rock Radio RPO (Recent Prog Only)
+https://443-1.autopo.st/79/RockRadio2
+#EXTINF:-1,KLAQ HD2 95.5
+https://live.amperwave.net/manifest/townsquare-klaqhd2fmaac-hlsc3.m3u8
+#EXTINF:-1,KNCE 93.5 True Taos Radio
+https://shoutcast.brownrice.com:8002/stream
+#EXTINF:-1,Prog Rock and Metal
+https://centova.radioservers.biz/proxy/progrock/stream
+#EXTINF:-1,ProgRadio The Dragon's Tower
+https://s4.radio.co/s141f9a810/listen
+#EXTINF:-1,Progressive Rock AZUSA
+https://streaming.live365.com/a38225
+#EXTINF:-1,ProgRock247
+https://streaming.live365.com/a89712
+#EXTINF:-1,Proteus Radio
+https://proteusradio.ddns.net:9900/proteus.mp3
+#EXTINF:-1,Radio Santana Breda
+https://server7.radio-streams.net/proxy/santana/stream

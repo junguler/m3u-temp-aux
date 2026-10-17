@@ -1,3 +1,9 @@
 #EXTM3U
 #EXTINF:-1,Eres Radio 98.5 FM
 https://sp5.servidorrprivado.com/8789/stream
+#EXTINF:-1,Radio Rijnmond
+https://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-mp3
+#EXTINF:-1,Radio Rijnmond (AAC+)
+https://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-aacp
+#EXTINF:-1,Radio WORM
+https://origin.streamnerd.nl/worm/worm/icecast.audio

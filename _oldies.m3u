@@ -541,3 +541,93 @@ https://icecast.walmradio.com:8443/classic
 https://icecast.walmradio.com:8443/classic_opus
 #EXTINF:-1,Edge 2
 https://stream-15.aiir.com/vps1vob4wpfvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2cHMxdm9iNHdwZnZ2IiwiaG9zdCI6InN0cmVhbS0xNS5haWlyLmNvbSIsInJ0dGwiOjUsImp0aSI6Ik5LRkFIcTBfU2Nhbnp5UUlRcExBSEEiLCJpYXQiOjE3ODgxMjcxOTMsImV4cCI6MTc4ODEyNzI1M30.3_7Boe4fGbfqvhzukkZWOmWu_8veccmqUOmfKe-hGIc
+#EXTINF:-1,Fama 98.1 FM
+https://server6.globalhostla.com:9356/stream
+#EXTINF:-1,飛揚調頻FM89.5
+https://n13.rcs.revma.com/e0tdah74hv8uv
+#EXTINF:-1,Forest Gold
+https://c2.prostream365.com:8000/live
+#EXTINF:-1,_Funky Corner Radio (USA)
+https://ais-sa2.cdnstream1.com/2447_192.mp3
+#EXTINF:-1,FUNKY RADIO - Only Funk Music (60's & 70's)
+https://funkyradio.streamingmedia.it/audio.aac
+#EXTINF:-1,FUNKY RADIO - Only Funk Music (60's 70's)
+https://funkyradio.streamingmedia.it/play.mp3
+#EXTINF:-1,Gen X Radio
+https://s2.radio.co/sf25229e16/listen
+#EXTINF:-1,Groovy Radio - 60's and 70's Oldies
+https://r1.comcities.com/proxy/emogddug/stream
+#EXTINF:-1,Haarlem Shuffle
+https://stream.tbmp.nl:8000/haarlemshufflehigh.mp3
+#EXTINF:-1,Highway Radio Hits
+https://streaming.live365.com/a61976
+#EXTINF:-1,Hospital Radio Norwich
+https://hospita1.radioca.st/;
+#EXTINF:-1,ISKC Old Men's Rock
+https://443-1.autopo.st/79/OldMenRock
+#EXTINF:-1,KISN Good Guys
+https://ice6.securenetsystems.net/KISNLP
+#EXTINF:-1,KOBM 97.3 FM
+https://us2.maindigitalstream.com/ssl/KOBMA
+#EXTINF:-1,KRXO HD3 Exitos 96.5
+https://playerservices.streamtheworld.com/api/livestream-redirect/KRXOHD3AAC_SC
+#EXTINF:-1,KVKVI - Classic Hits
+https://dc1.serverse.com/proxy/gjlrjfhp/stream
+#EXTINF:-1,KVMA Magic 102.9
+https://playerservices.streamtheworld.com/api/livestream-redirect/KVMAFMAAC_SC
+#EXTINF:-1,KWHK 95.9 FM - Hutchinson, KS
+https://us2.maindigitalstream.com/ssl/ADOLDIES
+#EXTINF:-1,La Dorada 107.5 XHKG
+https://streaming.servicioswebmx.com/8190/stream
+#EXTINF:-1,LA OCHENTERA 91.9 FM
+https://tupanel.info:8018/stream
+#EXTINF:-1,Laishui County Zhengchun 99.9
+https://live.xmcdn.com/live/2628/64.m3u8
+#EXTINF:-1,LOVERADIO247
+https://a5.asurahosting.com/listen/loveradio247/radio.mp3
+#EXTINF:-1,LV18 Radio Mi Amigo
+https://n0c.radiojar.com/0e16w6ha74uvv?rj-ttl=5&rj-tok=AAABkUcb0WkA7LgvZIzrVWH30g
+#EXTINF:-1,Majestic Jukebox Radio
+https://uk3.internet-radio.com/proxy/majesticjukebox/live
+#EXTINF:-1,Mega Ask FM
+https://fps4.listen2myradio.com:2199/listen.php?ip=109.169.23.123&port=8350&type=s1
+#EXTINF:-1,MixStream Radio - Boogie Woogie
+https://radio.mixstream.nl/boogie.mp3
+#EXTINF:-1,Nation Classic Hits
+https://listen-nation.sharp-stream.com/nationparty.mp3
+#EXTINF:-1,Non-Stop Oldies
+https://ais-sa2.cdnstream1.com/2383_128.mp3
+#EXTINF:-1,Odyssey Radio
+https://c15.radioboss.fm:8180/stream
+#EXTINF:-1,Oldies Radio 1650 - Dallas, Texas
+https://s2.reliastream.com/proxy/oldiesradio?mp=/stream
+#EXTINF:-1,Phoenix Radio Wales
+https://listen.radioking.com/radio/432101/stream/485900
+#EXTINF:-1,Quest Radio
+https://ams-pioneer02.dedicateware.com:1735/stream
+#EXTINF:-1,Radio 252
+https://streaming.live365.com/a19931
+#EXTINF:-1,Radio Heart 80s
+https://ice-sov.musicradio.com/Heart80sMP3
+#EXTINF:-1,Radio Hermax
+https://stream.radiohermax.nl/listen/hermax/hermax
+#EXTINF:-1,RADIO MONIQUE 918
+https://radiomonique918.radioca.st/stream
+#EXTINF:-1,Radio Monique 963 AAC 96
+https://happy.radiomonique.nl/listen/happy_oldies/radio96.acc
+#EXTINF:-1,Radio Monique 963 Gold
+https://happy.radiomonique.nl/listen/happy_oldies/radio192.mp3
+#EXTINF:-1,Radio OldHit
+https://oldhit.ru:8000/
+#EXTINF:-1,Radio OldHit
+https://oldhit.org:8000/
+#EXTINF:-1,Radio Recital
+https://stream20.usastreams.com/8116/stream
+#EXTINF:-1,Radio Rekord Naftalin FM
+https://hls-01-radiorecord.hostingradio.ru/record-naft/playlist.m3u8
+#EXTINF:-1,Radio Rekord Russian Gold
+https://hls-01-radiorecord.hostingradio.ru/record-russiangold/playlist.m3u8
+#EXTINF:-1,Radio Retro
+https://stream.zeno.fm/07brb24epkhvv
+#EXTINF:-1,RADIO UNIQUE FM /mobile
+https://hilversumdrie.beheerstream.nl/8038/mobile

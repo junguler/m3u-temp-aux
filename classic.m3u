@@ -53,3 +53,17 @@ https://media-ssl.musicradio.com/ClassicFM-M-Pets
 https://stream.classic.nl/classicnl.mp3
 #EXTINF:-1,Coolradio Classic Rock
 https://coolradio.stream.laut.fm/coolradio?t302=2021-12-21_20-01-01&uuid=4d36e628-e391-4b16-b19d-36d04183642c
+#EXTINF:-1,Hot 110.1 Fm Plus
+https://stream.zeno.fm/miw8qckesxnvv
+#EXTINF:-1,KBS Classic FM
+https://radio.bsod.kr/stream/?stn=kbs&ch=1fm
+#EXTINF:-1,NPO Radio 4
+https://icecast.omroep.nl:80/radio4-bb-mp3
+#EXTINF:-1,Paradise FM Nonstop
+https://stream.paradisefm.cw/ParadiseNonstop
+#EXTINF:-1,Passport Radio WCPA 900AM 98.5-101.7FM
+https://ice23.securenetsystems.net/WCPA
+#EXTINF:-1,Positively Classical -om
+https://streaming.positivity.radio/pr/posiclassical/icecast.audio
+#EXTINF:-1,Radio 252
+https://streaming.live365.com/a19931

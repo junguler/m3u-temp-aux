@@ -19,3 +19,19 @@ https://s2.radio.co/sb23429e9f/listen
 https://playerservices.streamtheworld.com/api/livestream-redirect/22WESTRADIOONLINEAAC.aac
 #EXTINF:-1,88.7 WNHU
 https://wnhu-stream1.newhaven.edu:8051/wnhu
+#EXTINF:-1,KBYS College Radio
+https://stream.kbys.fm/listen/college/radio.mp3
+#EXTINF:-1,KMHD2 Adaptive AAC
+https://live.amperwave.net/manifest/mhcc-kmhchd2aac-hlsc1.m3u8
+#EXTINF:-1,KNDS Radio - North Dakota State University (MP3)
+https://p.scdn.co/mp3-preview/632457e56dfcfd2537daf7031449c28aa2c25a90
+#EXTINF:-1,KRNU-FM 90.3 (192k MP3)
+https://s8.yesstreaming.net:17004/krnu
+#EXTINF:-1,KWCR Wildcat Radio
+https://kwcrstream.weber.edu:8443/kwcr
+#EXTINF:-1,Minnesota Music Channel - KMSU HD2
+https://stream.aiir.com/vtrrdk83knmuv
+#EXTINF:-1,Owl Radio
+https://streamer.radio.co/s4cd5c0b5f/listen
+#EXTINF:-1,Radio K - Real College Radio (KUOM)
+https://radiok.broadcasttool.stream/play_256

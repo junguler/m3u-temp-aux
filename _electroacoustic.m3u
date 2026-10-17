@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1,CAMP Radio
 https://listen.camp/campradio.ogg
+#EXTINF:-1,Noise Radio
+https://a2.asurahosting.com:7890/radio.mp3?refresh=1769858154192
+#EXTINF:-1,Radio Paradise Serenity - FLAC
+https://audio-fb.radioparadise.com/chan/42/x/4254/4/b/4254-0.flac?ngsw-bypass=true

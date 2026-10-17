@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1,Exclusively Deep Purple
 https://nl4.mystreaming.net/er/deeppurple/icecast.audio
+#EXTINF:-1,Exclusively Simple Minds
+https://nl4.mystreaming.net/er/simpleminds/icecast.audio

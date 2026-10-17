@@ -13,3 +13,5 @@ https://wdr-wdr2-ruhrgebiet.icecastssl.wdr.de/wdr/wdr2/ruhrgebiet/mp3/128/stream
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_SEVILLA.mp3
 #EXTINF:-1,ClearAir.fm
 https://a12.asurahosting.com/listen/clearair/radio.mp3
+#EXTINF:-1,Galactic Hearts Radio
+https://ca.azura.linkodev.ch/listen/galactic_hearts_radio/jttcgalactichearts

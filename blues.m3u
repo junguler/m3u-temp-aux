@@ -109,3 +109,45 @@ https://nl4.mystreaming.net/er/bbking/icecast.audio
 https://streaming.exclusive.radio/er/johnleehooker/icecast.audio
 #EXTINF:-1,Exclusively Muddy Waters
 https://2.mystreaming.net/er/muddywaters/icecast.audio
+#EXTINF:-1,Exclusively  Rod Stewart Hits
+https://nl4.mystreaming.net/er/rodstewarthits/icecast.audio
+#EXTINF:-1,Exclusively Tom Waits
+https://nl4.mystreaming.net/er/tomwaits/icecast.audio
+#EXTINF:-1,Exclusively ZZ Top
+https://2.mystreaming.net/er-app/zztop/icecast.audio
+#EXTINF:-1,Just Music Radio
+https://radiostream.neotel.mk/justmusicradio
+#EXTINF:-1,KABF
+https://cast.acornradio.org/kabf
+#EXTINF:-1,KBRH AM 1260
+https://wbrh.streamguys1.com/kbrh-mp3
+#EXTINF:-1,KMHD 192k mp3
+https://api.spreaker.com/v2/episodes/57033473/play.mp3
+#EXTINF:-1,KMHD Adaptive AAC
+https://ais-sa3.cdnstream1.com/2442_128.aac/playlist.m3u8
+#EXTINF:-1,KMRC Radio
+https://us2.maindigitalstream.com/ssl/KMRC
+#EXTINF:-1,KNKX
+https://knkx-live-a.edge.audiocdn.com/6284_128k
+#EXTINF:-1,KRVS
+https://playerservices.streamtheworld.com/api/livestream-redirect/KRVSFMAAC.aac
+#EXTINF:-1,KSLO 105.3 The Home Of Zydeco
+https://ice6.securenetsystems.net/KSLO
+#EXTINF:-1,MOTORADIO.ONLINE, 320 kbps
+https://stream.motoradio.online/std-mp3
+#EXTINF:-1,MOTORADIO.ONLINE, Just music, no programs
+https://stream.motoradio.online/lite-mp3
+#EXTINF:-1,Mountain Town FM
+https://streaming.live365.com/a74617
+#EXTINF:-1,Music Hollow Radio
+https://eu8.fastcast4u.com/proxy/standingrights/stream
+#EXTINF:-1,Nude Radio
+https://streaming.live365.com/a07325
+#EXTINF:-1,Phoenix Radio Wales
+https://listen.radioking.com/radio/432101/stream/485900
+#EXTINF:-1,Pinguin Blues
+https://samcloud.spacial.com/api/listen?sid=93462&m=sc&rid=168006
+#EXTINF:-1,Радио Монте Карло - Wonderful Blues
+https://mc-blues.hostingradio.ru/blues96.aacp
+#EXTINF:-1,Radio Relax - Jazz & Blues
+https://radio2.dixi.md/listen/relax_jazz__blues/relaxjazzblues128.aac

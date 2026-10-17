@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1,Météo Terrasse Fab
 https://fqboy.com/labo/weather/rss/audio/meteo.mp3
+#EXTINF:-1,NOAA Weather Radio - Dallas, Texas (KEC56)
+https://wxradio.org/TX-Dallas-KEC56
+#EXTINF:-1,NOAA Weather Radio KEC49, Monterey, California
+https://wxradio.org/CA-Monterey-KEC49

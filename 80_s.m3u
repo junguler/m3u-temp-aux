@@ -83,3 +83,17 @@ https://stream.revma.ihrhls.com/zc5323/hls.m3u8
 https://dancestream.danceradiouk.com/
 #EXTINF:-1,Диско-радио SOVA
 https://evcast.mediacp.eu:1965/stream
+#EXTINF:-1,Magic City Radio WATA-DB
+https://cast6.my-control-panel.com/proxy/magiccityradio/stream
+#EXTINF:-1,NOW Radio 80s
+https://stream.zeno.fm/ihij6rdighvtv
+#EXTINF:-1,Only 80's Radio
+https://server-28.stream-server.nl:8850/stream
+#EXTINF:-1,Radio 078
+https://cc6.beheerstream.com/proxy/radio078?mp=/stream
+#EXTINF:-1,Radio Atlantis Rotterdam
+https://mpc1.mediacp.eu:8740/;.mp3
+#EXTINF:-1,Radio Rijnmond
+https://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-mp3
+#EXTINF:-1,Radio Rijnmond (AAC+)
+https://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-aacp

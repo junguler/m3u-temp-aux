@@ -65,3 +65,21 @@ https://dublabde.out.airtime.pro/dublabde_a
 https://onbouge.eu/flux/onbouge-fr.mp3
 #EXTINF:-1,Bolton FM
 https://radio.canstream.co.uk:8083/live.mp3
+#EXTINF:-1,Fenland Youth Radio
+https://streaming.broadcastradio.com:10445/youngtech
+#EXTINF:-1,Furry Broadcasting Network
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/551f7d446def4d069e2bb054160fd46c/index.m3u8
+#EXTINF:-1,KFAI
+https://kfai.broadcasttool.stream/kfai-1
+#EXTINF:-1,KRIM
+https://ice9.securenetsystems.net/KRIM?playSessionID=B6FD8D53-978D-56F3-FF7B37F109AE3545
+#EXTINF:-1,KTNN The Voice of The Navajo Nation
+https://ice9.securenetsystems.net/KTNN
+#EXTINF:-1,North Manchester FM
+https://radio.canstream.co.uk:8061/live.mp3
+#EXTINF:-1,Park Radio
+https://s32.myradiostream.com/18756/listen.mp3
+#EXTINF:-1,Polskie Radio 1030 Chicago WNVR
+https://s1.reliastream.com/proxy/polskieradio?mp=/stream
+#EXTINF:-1,Radio Mattoli
+https://fps5.listen2myradio.com:2199/listen.php?ip=78.129.139.48&port=8432&type=s1

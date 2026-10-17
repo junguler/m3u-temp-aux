@@ -13,3 +13,25 @@ https://radio-holding.ru:9433/50
 https://srv12.gpmradio.ru:8443/stream/pro/aac/64/160?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXkiOiJlYmU3NTQ1OGQyNWMyZDg5ZDIxZTQ0NmMxOGViODk1MCIsIklQIjoiOTQuMTQwLjE0MC41NCIsIlVBIjoiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDEzOyBNMjEwMUs2RyBCdWlsZC9US1ExLjIyMTAxMy4wMDIpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pICBDaHJvbWUvMTMyLjAuNjgzNC4xNjMgTW9iaWxlIFNhZmFyaS81MzcuMzYiLCJSZWYiOiJodHRwczovL20uYXZ0b3JhZGlvLnJ1LyIsInVpZF9jaGFubmVsIjoiMTYwIiwidHlwZV9jaGFubmVsIjoiY2hhbm5lbCIsInR5cGVEZXZpY2UiOiJwaG9uZSIsIkRldmljZSI6Ik0yMTAxSzZHIEJ1aWxkIiwiQnJvd3NlciI6IkNocm9tZSIsIlN5c3RlbSI6IkFuZHJvaWQiLCJleHAiOjE3MzkwNzQzNjJ9.JJxFVvZt7IPHILEVXfEPIo4JhPKsN2NKWjZUNYQRVPI
 #EXTINF:-1,Барсук ФМ
 https://listen1.myradio24.com/barsukfm
+#EXTINF:-1,Кальян Рэп (DFM) 
+https://dfm-kalianrap.hostingradio.ru/kalianrap96.aacp
+#EXTINF:-1,Kamchatka Rock
+https://radio.kamchatkalive.ru:8103/rock
+#EXTINF:-1,КомпромиС ФМ
+https://listen5.myradio24.com/kfm
+#EXTINF:-1,Legend Fm
+https://legendfm.in/player/relaying.php
+#EXTINF:-1,Маятник Фуко (Record) 
+https://radiorecord.hostingradio.ru/mf96.aacp
+#EXTINF:-1,美国之音
+https://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
+#EXTINF:-1,Неслабое
+https://listen6.myradio24.com/neslaboe
+#EXTINF:-1,Nevermind
+https://listen7.myradio24.com/nevermind
+#EXTINF:-1,NStation
+https://icecast.nstation.ru:8443/nstation_192_mp3
+#EXTINF:-1,Polygon FM
+https://eu6.fastcast4u.com/proxy/polygonf?mp=/stream
+#EXTINF:-1,Радио Старого Полковника
+https://notthatoldcolonel.ru:1050/stream

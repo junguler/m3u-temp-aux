@@ -1,3 +1,11 @@
 #EXTM3U
 #EXTINF:-1,Radio Acer
 https://live.turadiotv.com/8004/stream
+#EXTINF:-1,La Patrona 104.9 XHPMOC
+https://streamingcwsradio30.com:7069/listen.pls
+#EXTINF:-1,La Patrona 95.1 XHBOC
+https://streamingcwsradio30.com:7064/listen.pls
+#EXTINF:-1,La Primera 105.9 XEBX
+https://streamingcwsradio30.com:7112/listen.pls
+#EXTINF:-1,La Primera 88.9 XHAJ
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEAJAMAAC.aac

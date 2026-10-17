@@ -29,3 +29,7 @@ https://radio.stream.smcdn.pl/timeradio-p/1150-1.aac/playlist.m3u8
 https://radio.stream.smcdn.pl/timeradio-p/1170-1.aac/playlist.m3u8
 #EXTINF:-1,ESKA 2 Trzebnica
 https://radio.stream.smcdn.pl/timeradio-p/1510-1.aac/playlist.m3u8
+#EXTINF:-1,Garavelas Radio
+https://n10.radiojar.com/garavelas-radio-gr?rj-ttl=5&rj-tok=AAABfd4Yko4A5Vjy-BEMn8Nx5w
+#EXTINF:-1,Quality FM
+https://icecast.lokaleomroepzeewolde.nl:8443/QualityFMHigh

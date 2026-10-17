@@ -7,3 +7,7 @@ https://fluxmusic.api.radiosphere.io/channels/traumerei/stream.mp3?quality=10
 https://fluxmusic.api.radiosphere.io/channels/traumerei/stream.aac?quality=1
 #EXTINF:-1,Hotmix Focus
 https://streaming.hotmixradio.com/hotmix-focus-en-mp3?provider=radiobrowser
+#EXTINF:-1,Fun Radio For Kids - Bedtime Stories
+https://nl4.mystreaming.net/uber/forkidzbedtimestories/icecast.audio
+#EXTINF:-1,KPBS Radio Reading Service
+https://kpbs-rrs.streamguys1.com/kpbs-rrs

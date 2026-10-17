@@ -1,3 +1,9 @@
 #EXTM3U
 #EXTINF:-1,OUI FM ROCK INDÉ
 https://ouifm5.ice.infomaniak.ch/ouifm5.mp3
+#EXTINF:-1,KUTX 98.9 (2024 Stream, 192 kbps mp3)
+https://streams.kut.org/4428_192.mp3
+#EXTINF:-1,Radio ROKS (Moldova) - Indie Rock
+https://radio6.dixi.md/listen/indie_rock/indie_rock.aac
+#EXTINF:-1,Radio Wigwam
+https://streaming.broadcast.radio/radio-wigwam

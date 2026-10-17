@@ -11,3 +11,11 @@ https://listen.radioking.com/radio/353374/stream/413698
 https://stream.40upradio.nl/kbc-high
 #EXTINF:-1,BBC Radio Leeds
 https://as-hls-ww-live.akamaized.net/pool_50115440/live/ww/bbc_radio_leeds/bbc_radio_leeds.isml/bbc_radio_leeds-audio%3d96000.norewind.m3u8
+#EXTINF:-1,ME-RADIO.COM
+https://centova.rockhost.com/proxy/medjsmer?mp=/live
+#EXTINF:-1,ML5 Radio
+https://mediacp.audiostreamen.nl:2000/stream/8182
+#EXTINF:-1,o0o0.online
+https://o0o0.online/stream/_
+#EXTINF:-1,Radio 0511
+https://443-1.autopo.st/191/stream

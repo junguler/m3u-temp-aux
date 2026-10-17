@@ -23,3 +23,9 @@ https://streaming.live365.com/a62613
 https://us1.amfmph.com/ssl/christmasradio?mp=/stream&1641738050672
 #EXTINF:-1,大嶼山廣播電台 RADIO LANTAU
 https://radio.dripfeed.net/listen/radiolantau/radio.mp3
+#EXTINF:-1,https://www.openstageradio.eu/
+https://server-28.stream-server.nl:8834/stream
+#EXTINF:-1,Radio Terranova
+https://server-28.stream-server.nl:8914/stream
+#EXTINF:-1,Radio UA Chicago
+https://eu8.fastcast4u.com/proxy/radiouachicago

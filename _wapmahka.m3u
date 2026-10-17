@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1,Big Room
 https://pub0302.101.ru:8443/stream/trust/mp3/128/220
+#EXTINF:-1,Радио МИР
+https://icecast-mirtv.cdnvideo.ru/radio_mir_256
+#EXTINF:-1,Радио Мир (Барнаул)
+https://icecast-mirtv.cdnvideo.ru/radio_mir4_256

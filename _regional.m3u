@@ -67,3 +67,7 @@ https://cdn.treraadio.ee/ringfm
 https://radio.diks.fi/karjalainensyke
 #EXTINF:-1,Radio Vaasa
 https://stream.protonbroadcast.com:8443/radiovaasa.mp3
+#EXTINF:-1,Omroep Zeeland Radio
+https://d3isaxd2t6q8zm.cloudfront.net/icecast/omroepzeeland/omroepzeeland_radio
+#EXTINF:-1,Radio Nordseewelle Ostfriesland
+https://nsw.streamabc.net/nsw-radionswlive-mp3-192-5305115?sABC=61p1s1ns%230%23480403531qsn3q883o6q243r435924np%23&amsparams=playerid:;skey:1640100271

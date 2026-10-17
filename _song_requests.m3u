@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1,Radio Animu [MP3 320Kbps]
 https://stream.animu.moe/320
+#EXTINF:-1,Hoppa Music Holland
+https://server-28.stream-server.nl:8822/stream
+#EXTINF:-1,Radio Trammelant
+https://server-67.stream-server.nl:8762/stream

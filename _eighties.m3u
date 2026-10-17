@@ -7,3 +7,5 @@ https://stream10.xdevel.com/audio12s976748-1798/stream/icecast.audio
 https://samcloud.spacial.com/api/listen?sid=111415&m=sc&rid=293634&t=ssl?&80sradio128mp3stereo44
 #EXTINF:-1,80s Zoom
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM03AAC226_SC.mp3
+#EXTINF:-1,Hospital Radio Norwich
+https://hospita1.radioca.st/;

@@ -1,3 +1,17 @@
 #EXTM3U
 #EXTINF:-1,Radio Oost-West
 https://icecast.movemedia.be/oostwest
+#EXTINF:-1,Gigant FM
+https://stream.gigantfm.nl/gigantfm
+#EXTINF:-1,Kromhout Radio
+https://server-67.stream-server.nl:8784/stream
+#EXTINF:-1,Music from earth
+https://server-28.stream-server.nl:8922/stream
+#EXTINF:-1,Oude Piraten Hits
+https://server-67.stream-server.nl:8910/stream
+#EXTINF:-1,Polder radio
+https://server-67.stream-server.nl:8734/
+#EXTINF:-1,Quest Radio
+https://ams-pioneer02.dedicateware.com:1735/stream
+#EXTINF:-1,Radio Noordzee
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR17.mp3

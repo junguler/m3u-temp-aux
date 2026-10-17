@@ -13,3 +13,5 @@ https://fluxmusic.api.radiosphere.io/channels/chillout-radio/stream.mp3?quality=
 https://streaming.hotmixradio.com/hotmix-focus-en-mp3?provider=radiobrowser
 #EXTINF:-1,b3cks-radio
 https://radio.b3ck.com/listen/b3cks-radio/radio.mp3
+#EXTINF:-1,MUGEN Radio
+https://mugenradio.com/hls/live.m3u8

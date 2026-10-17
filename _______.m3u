@@ -31,3 +31,21 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1,Chicago
 https://listen6.myradio24.com/92398
+#EXTINF:-1,FOX NEWS
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1,ГопФМ
+https://radiorecord.hostingradio.ru/gop96.aacp
+#EXTINF:-1,Иланск 
+https://fpsnew2.listen2myradio.com:2199/listen.php?ip=212.84.160.3&port=8949&type=s1
+#EXTINF:-1,КомпромиС ФМ
+https://listen5.myradio24.com/kfm
+#EXTINF:-1,Maximum 90 е
+https://maximum90.hostingradio.ru/maximum9096.aacp
+#EXTINF:-1,MyTime Movie Network
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1,Нормальное
+https://listen8.myradio24.com/71400
+#EXTINF:-1,Overdrive Live Station
+https://stream.overdrivelive.net:8000/alternative_128.mp3
+#EXTINF:-1,Радио Сева (Radio Seva Novgorodsev)
+https://seva.ru/radio/stream

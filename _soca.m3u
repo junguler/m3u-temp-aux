@@ -3,3 +3,9 @@
 https://ice66.securenetsystems.net:80/VOB929
 #EXTINF:-1,BBC RADIO 1XTRA: Amplifying black music & culture
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_1xtra.m3u8
+#EXTINF:-1,Hot 97.1 FM SVG
+https://usa7.fastcast4u.com/proxy/hot97svg?mp=/1
+#EXTINF:-1,NBC Radio SVG
+https://us1.carihost.com:2020/stream/NBCSVG/
+#EXTINF:-1,One Love Radio Orlando
+https://c4.radioboss.fm:8613/stream

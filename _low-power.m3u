@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1,CHIRP Radio (WCXP-LP)
 https://peridot.streamguys1.com:5185/live
+#EXTINF:-1,KTQA-LP
+https://stream.ktqa.org/ktqa.opus

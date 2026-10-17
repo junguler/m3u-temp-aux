@@ -9,3 +9,9 @@ https://country-high.rautemusik.fm/?ref=radiobrowser
 https://streaming.hotmixradio.com/hotmix-country-hits-en-mp3?provider=radiobrowser
 #EXTINF:-1,Crazy Raccoon
 https://server7.radio-streams.net/proxy/crazyraccoon/stream
+#EXTINF:-1,KRMD Country 101.1
+https://playerservices.streamtheworld.com/api/livestream-redirect/KRMDFMAAC_SC
+#EXTINF:-1,RADIO UNIQUE FM /HI-RES
+https://hilversumdrie.beheerstream.nl/8038/stream
+#EXTINF:-1,RADIO UNIQUE FM /mobile
+https://hilversumdrie.beheerstream.nl/8038/mobile

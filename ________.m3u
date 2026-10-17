@@ -1,3 +1,15 @@
 #EXTM3U
 #EXTINF:-1,Атаман ФМ
 https://listen5.myradio24.com/ataman
+#EXTINF:-1,Fomenko Fake Radio
+https://pub0102.101.ru:8443/stream/personal/aacp/64/933259?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXkiOiIxZmZkYjcxYjRkMTk3MDc2YzVjMmM0NjdkYTc5OWVmNiIsIklQIjoiMTc4LjE3OC4yMDUuNCIsIlVBIjoiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDEzOyBNMjEwMUs2RyBCdWlsZC9US1ExLjIyMTAxMy4wMDIpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pICBDaHJvbWUvMTI2LjAuNjQ3OC4xMzQgTW9iaWxlIFNhZmFyaS81MzcuMzYiLCJSZWYiOiJodHRwOi8vZm9tZW5rb2ZtLnJ1LyIsInVpZF9jaGFubmVsIjoiOTMzMjU5IiwidHlwZV9jaGFubmVsIjoicGVyc29uYWwiLCJ0eXBlRGV2aWNlIjoicGhvbmUiLCJEZXZpY2UiOiJNMjEwMUs2RyBCdWlsZCIsIkJyb3dzZXIiOiJDaHJvbWUiLCJTeXN0ZW0iOiJBbmRyb2lkIiwiZXhwIjoxNzIxOTc2NTg0fQ.BpaTvtj1rLtR-SaTIZGK0hHwL08alJXskW0bPhHlgtc
+#EXTINF:-1,Фоменко Фейк
+https://stream.pcradio.ru/fomenko_fake-med
+#EXTINF:-1,FUNK
+https://funk.amgradio.ru/Funk
+#EXTINF:-1,Кофемания ФМ
+https://coffeemania.fm:8055/radio
+#EXTINF:-1,МУЗКОМ
+https://geshou.s02.radio-tochka.com:5005/stream
+#EXTINF:-1,Музыка Востока 101.ru
+https://pub0302.101.ru:8000/stream/pro/aac/64/67

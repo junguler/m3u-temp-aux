@@ -5,3 +5,9 @@ https://xraydio.ddns.net/live
 https://evcast.mediacp.eu:1165/stream
 #EXTINF:-1,BAGeL Radio
 https://ais-sa3.cdnstream1.com/2606_64.aac
+#EXTINF:-1,Exclusively Simple Minds
+https://nl4.mystreaming.net/er/simpleminds/icecast.audio
+#EXTINF:-1,Exclusively Talking Heads
+https://nl4.mystreaming.net/er/talkingheads/icecast.audio
+#EXTINF:-1,HighFi Dream
+https://cdn06-us-east.radio.cloud/80ba63862a97bd69c593cc7a2ccaab1c_hq

@@ -105,3 +105,23 @@ https://radio.dripfeed.net/listen/radiolantau/radio.mp3
 https://ample.revma.ihrhls.com/zc2525/29_am5zeo6y6qzj02/playlist.m3u8?streamid=2525
 #EXTINF:-1,Exclusively Crowded House
 https://2.mystreaming.net/er/crowdedhouse/icecast.audio
+#EXTINF:-1,Exclusively Texas
+https://nl4.mystreaming.net/er/texas/icecast.audio
+#EXTINF:-1,KMHD2 Adaptive AAC
+https://live.amperwave.net/manifest/mhcc-kmhchd2aac-hlsc1.m3u8
+#EXTINF:-1,KNCE 93.5 True Taos Radio
+https://shoutcast.brownrice.com:8002/stream
+#EXTINF:-1,KWCR Wildcat Radio
+https://kwcrstream.weber.edu:8443/kwcr
+#EXTINF:-1,Neuro 21 Station
+https://radio.twinskaraoke.com/listen/neuro_21/radio.mp3
+#EXTINF:-1,Now Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1,Offshore Radio
+https://live.offshoreradio.net/listen/offshore_radio/radio.mp3
+#EXTINF:-1,Q 103.3 - Rockin' the Temecula Valley!
+https://stream.revma.ihrhls.com/zc5130/hls.m3u8
+#EXTINF:-1,RADIO CAFE LEPA ( EEUU.)  fono +16787704169  DJ MONKEY
+https://maxradio.azuracast.com.es:8000/CAFELEPA.mp3
+#EXTINF:-1,Radio ROKS (Moldova) - New Rock
+https://radio6.dixi.md/listen/new_rock/new_rock128.aac

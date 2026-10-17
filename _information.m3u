@@ -211,3 +211,23 @@ https://rfiafrique64k.ice.infomaniak.ch/rfimonde-64.mp3
 https://mediaserviceslive.akamaized.net/hls/live/2038332/rnnt/index.m3u8
 #EXTINF:-1,Ai Radio TAIWAN 台灣AI電台
 https://n10.rcs.revma.com/h4ta80hbqwuvv
+#EXTINF:-1,GBH 89.7
+https://wgbh-live.streamguys1.com/wgbh-noads
+#EXTINF:-1,GBH 89.7 AAC
+https://wgbh-live.streamguys1.com/wgbh-aac
+#EXTINF:-1,GBH 89.7 AAC 256
+https://wgbh-live.streamguys1.com/wgbh-256aac
+#EXTINF:-1,GBH 89.7 HLS
+https://wgbh-hls.streamguys1.com/wgbh_hls/playlist.m3u8
+#EXTINF:-1,Havenstad Radio
+https://mediaserv33.live-streams.nl:8056/stream
+#EXTINF:-1,Imaginacion 96.1 FM
+https://stream.zeno.fm/a6wkbc2x91zuv
+#EXTINF:-1,Коммерсантъ FM 93.6
+https://kommersant77.hostingradio.ru:8085/kommersant128.mp3
+#EXTINF:-1,La FM 98.5 Buenisima La FM 98.5 Buenisima
+https://stream.zeno.fm/5t866rywrzzuv
+#EXTINF:-1,La Pantera 103.9 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/WNTS_AMAAC.aac
+#EXTINF:-1,Radio Miraflores 95.9 FM
+https://stream.zeno.fm/prcs4h7d9k8uv

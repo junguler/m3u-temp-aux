@@ -11,3 +11,29 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WRCAAMAAC.aac
 https://ec1.yesstreaming.net:4350/;
 #EXTINF:-1,DLF Nova
 https://f131.rndfnk.com/ard/dlf/03/mp3/128/stream.mp3?sid=22Zl0uTfrNEVZveawODB8m589Fy&token=UPZ7syzzukxaGkc1UL0mqp0s2BPJqqCo8Mz7iTwa0EI&tvf=NJ9_afO2whZmMTMxLnJuZGZuay5jb20
+#EXTINF:-1,Freedom 95
+https://ice24.securenetsystems.net/WFDM
+#EXTINF:-1,Kodai 100.5
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio051/playlist.m3u8
+#EXTINF:-1,KPRC AM 950
+https://stream.revma.ihrhls.com/zc2277
+#EXTINF:-1,KTLR Community Talk AM 890
+https://crystalout.surfernetwork.com:8001/KTLR_MP3
+#EXTINF:-1,Kunshan People's Broadcasting Station 88.9
+https://live.xmcdn.com/live/749/64.m3u8
+#EXTINF:-1,KVOI
+https://ice41.securenetsystems.net/KVOI?playSessionID=7C071F4B-DD5C-487D-B0EC5573E4A85642
+#EXTINF:-1,民本電台-1
+https://streamak0134.akamaized.net/live0134lh-5gst/_definst_/am1296/chunklist.m3u8
+#EXTINF:-1,民本電台-2
+https://streamak0134.akamaized.net/live0134lh-5gst/_definst_/am855/chunklist.m3u8
+#EXTINF:-1,Minhou Comprehensive Broadcasting
+https://live.xmcdn.com/live/2772/64.m3u8
+#EXTINF:-1,New Reality Radio
+https://streaming.radio.co/sa23d1baa2/listen
+#EXTINF:-1,Radio Biafra 97.6
+https://stream.zeno.fm/cnet8vdudceuv?rj-ttl=5&rj-tok=AAABfdrxJuAAhQ0WS8mXaEwgKg
+#EXTINF:-1,Radio Remix
+https://streams.loudspeaker.org/listen/remix/talk
+#EXTINF:-1,Radyo Sada El Furat 101.3
+https://wowza1.radyotvonline.com/idilpr/sadaelfurat.stream/playlist.m3u8

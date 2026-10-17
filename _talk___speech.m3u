@@ -29,3 +29,15 @@ https://radio.goldenstreams.net:8050/radio.mp3
 https://jenny.torontocast.com:2000/stream/Delmarva
 #EXTINF:-1,detour TALK
 https://ec1.yesstreaming.net:4350/;
+#EXTINF:-1,Говорит Москва
+https://media.govoritmoskva.ru/radio/ru64.mp3
+#EXTINF:-1,KNOX News Radio
+https://18193.live.streamtheworld.com/KNOXAMAAC.aac
+#EXTINF:-1,OCABS Radio
+https://ec1.yesstreaming.net:2765/stream
+#EXTINF:-1,Радио Образ / Radio Obraz - FM 98.0
+https://radioobraz.ru/radio/
+#EXTINF:-1,Radio Remix
+https://streams.loudspeaker.org/listen/remix/talk
+#EXTINF:-1,RadioYar
+https://shoutcast.glwiz.com/RadioYAR.mp3

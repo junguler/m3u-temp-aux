@@ -21,3 +21,19 @@ https://rtvelivestream.rtve.es/rtvesec/rne/rne_r3_main.m3u8
 https://orbit.citrus3.com:8256/stream
 #EXTINF:-1,113.FM - Indie Nation
 https://113fm-atunwadigital.streamguys1.com/1047
+#EXTINF:-1,GLACER FM
+https://streaming.radio.co/scddbbeecf/listen
+#EXTINF:-1,HEADY
+https://c22.radioboss.fm:18364/stream
+#EXTINF:-1,IndieHQ Radio
+https://davidgmedia.us:8020/radio.mp3
+#EXTINF:-1,KSVG - Savage Radio
+https://ksvg.streamguys1.com:80/live
+#EXTINF:-1,Love Radio - Indie Romance
+https://drive.uber.radio/uber/lrindieromance/icecast.audio
+#EXTINF:-1,Радио Фирн
+https://a1.radioheart.ru:9003/RH85053
+#EXTINF:-1,Radio Pepito
+https://usa2.fastcast4u.com/proxy/radiopepito?mp=/1
+#EXTINF:-1,Radio Whatever
+https://usa10.fastcast4u.com:8770/;?type=http&nocache=1700019220

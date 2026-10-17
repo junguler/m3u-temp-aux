@@ -3,3 +3,15 @@
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_HENARES.mp3
 #EXTINF:-1,Chono Radio
 https://server2.sit-mexico.com:2199/proxy/chonoradio?mp=/listen.pls
+#EXTINF:-1,Mexiquense Radio 104.5 XHVAL
+https://streamingcwsradio30.com:7048/listen.pls
+#EXTINF:-1,Mexiquense Radio 1080 XETUL
+https://streamingcwsradio30.com:7050/listen.pls
+#EXTINF:-1,Mexiquense Radio 1600 XEGEM
+https://streamingcwsradio30.com:7046/listen.pls
+#EXTINF:-1,Mexiquense Radio 88.5 XHZUM
+https://streamingcwsradio30.com:7049/listen.pls
+#EXTINF:-1,Mexiquense Radio 91.7 XHGEM
+https://streamingcwsradio30.com:7019/listen.pls
+#EXTINF:-1,Mexiquense Radio 91.7 XHMEC
+https://streamingcwsradio30.com:7047/listen.pls

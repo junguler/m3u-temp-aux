@@ -119,3 +119,23 @@ https://radio.streemlion.com:1875/stream
 https://streaming.exclusive.radio/er/moby/icecast.audio
 #EXTINF:-1,Exclusively Moby
 https://nl4.mystreaming.net/er/moby/icecast.audio
+#EXTINF:-1,Frisky
+https://stream.frisky.friskyradio.com/frisky_mp3_high
+#EXTINF:-1,Frisky Classics
+https://stream.classics.friskyradio.com/classics_mp3_high
+#EXTINF:-1,Intense Radio - We love Dance 256K
+https://secure.live-streams.nl/main
+#EXTINF:-1,Mexico Beat 100.9 XHSON
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHSONFM_SC
+#EXTINF:-1,NixxFM
+https://mediacp.shoutcastradio.nl:8002/NixxFM.m3u
+#EXTINF:-1,Orryy Live
+https://radio.orryy.com/live
+#EXTINF:-1,Плазма
+https://stream02.pcradio.ru/plazma-med
+#EXTINF:-1,PrideNation Radio
+https://streaming.live365.com/a80041
+#EXTINF:-1,Radio AnimKLATU
+https://animklatu.stream.laut.fm/animklatu?t302=2026-01-15_03-06-18&uuid=83763dab-adb7-4922-8071-74e8c595673b
+#EXTINF:-1,Raiders Radio
+https://s2.citrus3.com:8464/stream

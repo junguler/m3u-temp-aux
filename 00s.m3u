@@ -69,3 +69,37 @@ https://stream.deventerrtv.nl:8443/mp3
 https://dfm-dancegold00.hostingradio.ru/dancegold0096.aacp
 #EXTINF:-1,DFM POP GOLD 2000s
 https://dfm-popgold00.hostingradio.ru/popgold0096.aacp
+#EXTINF:-1,Exclusively Prince
+https://streaming.exclusive.radio/er/prince/icecast.audio
+#EXTINF:-1,Exclusively Status Quo
+https://nl4.mystreaming.net/er/statusquo/icecast.audio
+#EXTINF:-1,Flashback Radio
+https://live.flashbackcentral.co.uk/radio/8000/apple
+#EXTINF:-1,FoutFM
+https://caster.hosting078.nl/foutfm
+#EXTINF:-1,Gen X Radio
+https://s2.radio.co/sf25229e16/listen
+#EXTINF:-1,K-LOVE 2000s
+https://emf-seg001291.cdnstream1.com/seg001291-h128/playlist.m3u8?platform=web&country=canada&geo_api=gis_db&latitude=44.3136&longitude=-78.24&opawg_result=false&segment=001291&session_id=1744844212607&visitor_id=019640d1ca0b00128eb1b0bb675a05050001e00d00b78&t=1&k=uP5X4bLcnyOMEMIKInXzUuvJPhALNriUz53Os0NxBAqixTNz_FUTdXe5aRLqbhmokRzChlH5Z2xAG730Fly_QBnu6yxSIu_K-oygT8-r_uEp0i12CYq-84qyzqcQYtflvxU
+#EXTINF:-1,Light Favorites Easy 108
+https://ais-sa2.cdnstream1.com/1299_128
+#EXTINF:-1,Like Anthems
+https://likeradiostream.com/likeanthemsaac
+#EXTINF:-1,Magic Radio UK
+https://stream-mz.hellorayo.co.uk/magicnational.mp3?direct=true&aw_0_1st.playerid=BMUK_TuneIn&aw_0_1st.skey=7374499933&stationCode=mag
+#EXTINF:-1,NixxFM
+https://mediacp.shoutcastradio.nl:8002/NixxFM.m3u
+#EXTINF:-1,NOW 90s00s
+https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
+#EXTINF:-1,Omroep Land van Cuijk
+https://nlpo.stream.vip/cuijkrad/mp3-192/nlpo/
+#EXTINF:-1,Paradise FM 00's & 10's
+https://stream.paradisefm.cw/00s10s
+#EXTINF:-1,Qmusic 90's & 00's (64k aac)
+https://stream.qmusic.nl/90s-00s/aaclow
+#EXTINF:-1,Radio Caroline 259 Gold 64kbps
+https://happy.radiocaroline.nl/listen/classic_rock/radio64.mp3
+#EXTINF:-1,Radio Vintage
+https://live.radiovintage.md/vintage_main
+#EXTINF:-1,Radio ZUM 2
+https://streams.radiozum.md/listen/zum2/ZUM2

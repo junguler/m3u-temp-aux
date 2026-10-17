@@ -317,3 +317,71 @@ https://streaming.exclusive.radio/er/hendrix/icecast.audio
 https://streaming.exclusive.radio/er/joebonamassa/icecast.audio
 #EXTINF:-1,Exclusively Joe Satriani
 https://streaming.exclusive.radio/er/joesatriani/icecast.audio
+#EXTINF:-1,Exclusively U2
+https://nl4.mystreaming.net/er/u2/icecast.audio
+#EXTINF:-1,Exclusively Van Halen
+https://nl4.mystreaming.net/er/vanhalen/icecast.audio
+#EXTINF:-1,HRT Radio Sljeme 88.1
+https://playerservices.streamtheworld.com/api/livestream-redirect/SLJEMEAAC_SC
+#EXTINF:-1,Hrvatski Radio Treci
+https://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM3.mp3
+#EXTINF:-1,  ICE RADIO
+https://stream.iceradio.nl/iceradiohq?ver=30283
+#EXTINF:-1,Jack FM 101.9
+https://playerservices.streamtheworld.com/api/livestream-redirect/KRWKFMAAC.aac
+#EXTINF:-1,Kaos Sound
+https://s3.myradiostream.com:59506/stream
+#EXTINF:-1,KBEAR 101 - Idaho's Only Rock Station (KCVI)
+https://ice9.securenetsystems.net/KCVI
+#EXTINF:-1,KCSN
+https://stream.885fm.org/1
+#EXTINF:-1,KINK Distortion
+https://22723.live.streamtheworld.com/KINK_DISTORTION_SC
+#EXTINF:-1,klassikr-rockclassi
+https://klassikr.streamabc.net/klassikr-rockclassic-mp3-192-9679992?sABC=665p472q%230%23647o295r56o050s608s8p58671sr21p4%23gharva&aw_0_1st.playerid=tunein&amsparams=playerid:tunein;skey:1717323565
+#EXTINF:-1,KQEO The Arrow 107.1
+https://ice8.securenetsystems.net/KQEO?playSessionID=D3B27950-8D68-4067-975534C9CCBE1B2F
+#EXTINF:-1,KRXF 92/9
+https://14623.live.streamtheworld.com/KRXFFM_SC
+#EXTINF:-1,Kunming City Management Broadcasting 95.4
+https://live.xmcdn.com/live/906/64.m3u8
+#EXTINF:-1,KXLR XRock 95.9 FM
+https://ice5.securenetsystems.net/KXLR
+#EXTINF:-1,Luoyang Music Broadcasting 106.5
+https://live.xmcdn.com/live/493/64.m3u8
+#EXTINF:-1,Mianyang Science and Technology Life Broadcast 91.2
+https://live.xmcdn.com/live/1243/64.m3u8
+#EXTINF:-1,Mittendrin ALT!NEU Radio der deutschen Minderheit
+https://n15a-eu.rcs.revma.com/1nnezw8qz7zuv?rj-ttl=5&rj-tok=AAABfd5qZwwADPuKsTSpWU2-LQ
+#EXTINF:-1,More FM 98.9
+https://radio.cadenanoticias.com/proxy/morefm989?mp=/morefm989
+#EXTINF:-1,Muse - Радио MAXIMUM
+https://maximum.hostingradio.ru/maxmuse96.aacp
+#EXTINF:-1,Наше радио
+https://nashe1.hostingradio.ru:80/nashe-128.mp3
+#EXTINF:-1,Наше Радио 2.0
+https://nashe1.hostingradio.ru:18000/nashe20-128.mp3
+#EXTINF:-1,Наше Радио СПБ
+https://nashe1.hostingradio.ru:80/nashespb128.mp3
+#EXTINF:-1,Plus Radio Rock
+https://samcloud.spacial.com/api/listen?sid=137873&rid=292677&f=aac,any&br=64000
+#EXTINF:-1,Q105.1 Rocks
+https://ice3.securenetsystems.net/KQWB
+#EXTINF:-1,Radio Crimson
+https://n09.radiojar.com/44pkchxr8mruv?rj-ttl=5&rj-tok=AAABfdwk1-AAGRsISk0whS_RHA
+#EXTINF:-1,Radio ESKA Rock
+https://radio.stream.smcdn.pl/timeradio-noad-p/5980-1.aac/playlist.m3u8
+#EXTINF:-1,Radio Free Fargo
+https://mtl9.hnux.com/144.217.233.87:8166/
+#EXTINF:-1,Радио Maximum
+https://maximum.hostingradio.ru/maximum128.mp3
+#EXTINF:-1,Radio ROKS (Moldova) - Rock Tricolor
+https://radio5.dixi.md/listen/roks_tricolor/roks_tricolor128.aac
+#EXTINF:-1,Radio ROKS (Moldova) - Workout
+https://radio6.dixi.md/listen/workout_rock/workout.aac
+#EXTINF:-1,Radio Starogard 89.8
+https://n07a-eu.rcs.revma.com/5wegfyrra2zuv?rj-ttl=5&rj-tok=AAABfdsNBwQA3IABapQquVkh6w
+#EXTINF:-1,Radio Ultra
+https://nashe1.hostingradio.ru/ultra-256
+#EXTINF:-1,Радио Ultra
+https://nashe2.hostingradio.ru/ultra-128.mp3

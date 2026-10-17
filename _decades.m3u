@@ -11,3 +11,7 @@ https://samcloud.spacial.com/api/listen?sid=111415&m=sc&rid=293634&t=ssl?&80srad
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM03AAC226_SC?80sradio
 #EXTINF:-1,80s Zoom
 https://playerservices.streamtheworld.com/api/livestream-redirect/SAM03AAC226_SC.mp3
+#EXTINF:-1,FunHouse Radio
+https://ais-edge105-live365-dal02.cdnstream.com/a02627?filetype=.mp3&_=1
+#EXTINF:-1,Non-Stop Oldies
+https://ais-sa2.cdnstream1.com/2383_128.mp3
