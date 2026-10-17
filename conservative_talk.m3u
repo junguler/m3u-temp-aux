@@ -21,3 +21,17 @@ https://c23.radioboss.fm/stream/204
 https://kccs-streaming.com:7004/;stream.mp3
 #EXTINF:-1,Radio America 1
 https://s6.yesstreaming.net:18003/ra1
+#EXTINF:-1,Red State Talk Radio
+https://s2.radio.co/s572ad25f7/listen
+#EXTINF:-1,Red State Talk Radio Encore
+https://s2.radio.co/sf03a6a4b2/listen
+#EXTINF:-1,Rense Radio .asx
+https://cdn.voscast.com/resources/?key=ac09707276d304c1d6d71994d1823ba6&c=wmp
+#EXTINF:-1,Rense Radio .pls
+https://cdn.voscast.com/resources/?key=ac09707276d304c1d6d71994d1823ba6&c=winamp
+#EXTINF:-1,Rense Radio .ram
+https://cdn.voscast.com/resources/?key=ac09707276d304c1d6d71994d1823ba6&c=realplayer
+#EXTINF:-1,Salem News Channel Audio Stream
+https://tc1.bahamatel.net:7928/;?type=http&nocache=6029555
+#EXTINF:-1,WLIRfm New York NY
+https://playerservices.streamtheworld.com/api/livestream-redirect/WLIRFM.mp3

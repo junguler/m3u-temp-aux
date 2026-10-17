@@ -79,3 +79,15 @@ https://live.xmcdn.com/live/1580/64.m3u8
 https://a7.asurahosting.com:7510/radio.mp3
 #EXTINF:-1,Positively Sleep Classical -om
 https://nl4.mystreaming.net/pr/sleepclassical/icecast.audio
+#EXTINF:-1,RauteMusik EDM HIPHOP & HOUSE
+https://rautemusik-de-hz-fal-stream14.radiohost.de/breakz_mp3-192?listenerrmid=31363430303938313438-323030313a313966303a363830313a313964373a353430303a3266663a666537313a62646237-3539353636-53747265616d436865636b426f742f302e312e30
+#EXTINF:-1,RauteMusik ROCK
+https://rautemusik-de-hz-fal-stream13.radiohost.de/rock?ref=radiobrowser&listenerrmid=31363430303539313331-323030313a313966303a353030313a333261343a353430303a3266663a666533373a37356332-3433363230-53747265616d436865636b426f742f302e312e30
+#EXTINF:-1,RauteMusik WACKENRADIO
+https://rautemusik-de-hz-fal-stream11.radiohost.de/wackenradio?ref=radiobrowser&listenerrmid=31363430313037393933-323030313a313966303a353030313a333261343a353430303a3266663a666533373a37356332-3337313836-53747265616d436865636b426f742f302e312e30
+#EXTINF:-1,WALM - Old Time Radio
+https://icecast.walmradio.com:8443/otr
+#EXTINF:-1,WALM - Old Time Radio Opus
+https://icecast.walmradio.com:8443/otr_opus
+#EXTINF:-1,Deja Vu Radio
+https://carina.streamerr.co:8178/dejavuradio?type=http&nocache=297

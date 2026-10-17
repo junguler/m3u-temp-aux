@@ -227,3 +227,49 @@ https://stream.radiorizzonti.com/orizzonti
 https://radiotreclassica-live.akamaized.net/hls/live/2032595/radiotreclassica/radiotreclassica/playlist.m3u8?auth=daEdhdwbUa7czaNdRcObUbSard1b9c6afbs-bHWH_x-c0-HmtvxEw&aifp=V001
 #EXTINF:-1,Rai Radio Trst A
 https://streamcdnc1-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/friuliaudio1/hls/friuliaudio_320/chunklist.m3u8
+#EXTINF:-1,RAM Power
+https://icstream.rds.radio/RAM256
+#EXTINF:-1,RCS Melody
+https://ice09.fluidstream.net/fluid9120.aac
+#EXTINF:-1,RDS
+https://icstream.rds.radio/rds64k
+#EXTINF:-1,RDS Radio Dimensione Suono
+https://icstream.rds.radio/rds
+#EXTINF:-1,Rocket Radio
+https://n05.radiojar.com/nvvyes7gud5tv
+#EXTINF:-1,Rocket Radio 1
+https://n05.radiojar.com/nvvyes7gud5tv?rj-ttl=5&rj-tok=AAABfdnsHgMAEuee39pOibBQlA
+#EXTINF:-1,RTR 99
+https://rtr99.fluidstream.eu/rtr99.mp3
+#EXTINF:-1,RTT La Radio
+https://ice04.fluidstream.net/fluid7108.aac
+#EXTINF:-1,SilverMusic Radio
+https://nr9.newradio.it:9304/stream
+#EXTINF:-1,Solo Canzoni Napoletane
+https://my.streamingmedia.it/radio/8170/canzoninapoletane.mp3
+#EXTINF:-1,TeleRadio 1
+https://teleradio1.stream.laut.fm/teleradio1
+#EXTINF:-1,The Coast FM
+https://s1.viastreaming.net:9235/stat
+#EXTINF:-1,United Music - Movies Pop
+https://icy.unitedradio.it/um030.mp3
+#EXTINF:-1,Virgin Radio - Hard Rock
+https://icy.unitedradio.it/VirginHardRock.mp3
+#EXTINF:-1,Virgin Radio Music Star Ligabue
+https://icy.unitedradio.it/Ligabue.mp3
+#EXTINF:-1,Virgin Radio Music Star Pink Floyd
+https://icy.unitedradio.it/VirginRogerWaters.mp3
+#EXTINF:-1,Virgin Radio Music Star Queen
+https://icecast.unitedradio.it/Virgin_05.mp3
+#EXTINF:-1,Virgin Radio - Rock 2K
+https://icy.unitedradio.it/Virgin_02.mp3
+#EXTINF:-1,Virgin Radio - Rock Alternative
+https://icy.unitedradio.it/VirginRockAlternative.mp3
+#EXTINF:-1,Virgin Radio - Rock Party
+https://icy.unitedradio.it/VirginRockParty.mp3
+#EXTINF:-1,Virgin Radio - Rockstar: Aerosmith
+https://icy.unitedradio.it/um1028.mp3
+#EXTINF:-1,Virgin Radio - Rockstar: Guns N' Roses
+https://icy.unitedradio.it/um1029.mp3
+#EXTINF:-1,Virgin Radio - Rockstar: Oasis
+https://icy.unitedradio.it/um1030.mp3

@@ -39,3 +39,11 @@ https://nl4.mystreaming.net/er/enriqueiglesias/icecast.audio
 https://streaming.exclusive.radio/er/shakira/icecast.audio
 #EXTINF:-1,La Primera 104.1 fm & 1190 am
 https://stream20.usastreams.com/8112/stream
+#EXTINF:-1,Rumba 100.1 Barquisimeto FM
+https://cast10.plugstreaming.com:2020/stream/r1001/;
+#EXTINF:-1,Rumba 104.9 Anzoategui FM
+https://cast10.plugstreaming.com:2020/stream/r1049/;
+#EXTINF:-1,Rumba iHeart
+https://stream.revma.ihrhls.com/zc4451/hls.m3u8
+#EXTINF:-1,Deejay Gasolina
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaygasolina/playlist.m3u8

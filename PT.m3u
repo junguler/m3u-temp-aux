@@ -33,3 +33,11 @@ https://radios2.justweb.pt:8068/stream
 https://nl.digitalrm.pt:8072/stream
 #EXTINF:-1,Radio Voz da Planicie 104.5
 https://centova.radio.com.pt/proxy/441?mp=/stream
+#EXTINF:-1,RDP África
+https://radiocast.rtp.pt/rdpafrica80a.mp3
+#EXTINF:-1,RTP Antena 2 Opera
+https://streaming-live.rtp.pt/liveradio/antena2opera80a/chunklist_DVR.m3u8
+#EXTINF:-1,Smooth FM
+https://stream-hls.bauermedia.pt/smooth.aac/playlist.m3u8
+#EXTINF:-1,TSF Rádio Notícias 89.5 FM
+https://tsfdirecto.tsf.pt/tsfdirecto.mp3

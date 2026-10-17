@@ -31,3 +31,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KILOFMAAC.aac?
 https://live.amperwave.net/manifest/townsquare-wwbnfmaac-hlsc3.m3u8
 #EXTINF:-1,FM 105.9 Qwikrock (WQWK)
 https://ice25.securenetsystems.net/WQWK
+#EXTINF:-1,WBSX 97.9 X
+https://playerservices.streamtheworld.com/api/livestream-redirect/WBSXFMAAC_SC
+#EXTINF:-1,WFTK Cincinnati 96.5 Rock
+https://playerservices.streamtheworld.com/api/livestream-redirect/WFTKFM_SC

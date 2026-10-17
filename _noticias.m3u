@@ -365,3 +365,25 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KWKWAMAAC.aac
 https://node-08.zeno.fm/8wgv914262quv
 #EXTINF:-1,Radio Miraflores 95.9 FM
 https://stream.zeno.fm/prcs4h7d9k8uv
+#EXTINF:-1,RT Español
+https://rt-esp.rttv.com/dvr/rtesp/playlist_64Kb.m3u8
+#EXTINF:-1,Studio 102.7 FM
+https://stream.zeno.fm/um833nab8tzuv
+#EXTINF:-1,TeleSur
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1,W Radio 100.1 XHPM
+https://playradio.mx/proxy/wfm?mp=/stream
+#EXTINF:-1,W Radio 99.7 FM
+https://stream.zeno.fm/19esq1mgzhhvv
+#EXTINF:-1,Emisoras Unidas 91.1 FM
+https://stream.zeno.fm/3tfg0vng9ueuv
+#EXTINF:-1,La Red 106.1 Guatemala
+https://playerservices.streamtheworld.com/api/livestream-redirect/LA_REDAAC.aac
+#EXTINF:-1,Cadena Radial del Centro 89.7 FM
+https://sonic.portalfoxmix.cl/8442/stream
+#EXTINF:-1,Radio Globo 88.5 HN
+https://stream.radiosmundiales.com:8016/GLOBO885
+#EXTINF:-1,RADIO GLOBO 88.5 MHZ
+https://api.condoristream.com/stream/radioglobo
+#EXTINF:-1,Radio Progreso HN
+https://streamingcwsradio30.com:7045/stream

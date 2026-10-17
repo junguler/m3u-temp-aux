@@ -23,3 +23,7 @@ https://listen.openstream.co/7421/audio
 https://listen.openstream.co/4287/audio
 #EXTINF:-1,DPARK Radio - Channel 4
 https://listen.openstream.co/4661/audio
+#EXTINF:-1,Subsonic Radio - SR Once
+https://www.subsonicradio.com:8443/requests.mp3
+#EXTINF:-1,Radios 100FM - 100% Disney
+https://gb25.streamgates.net/radios-audio/100Disney/icecast.audio

@@ -41,3 +41,9 @@ https://rts-aod-dd.akamaized.net/ww/80799e08-d794-324b-8955-7584d2e189e2/aae702e
 https://server1.tnt.ba/proxy/tntsa?mp=/stream1
 #EXTINF:-1,Radio Visegrad 104.0
 https://usa7.fastcast4u.com/proxy/radiovgd?mp=/1
+#EXTINF:-1,SBS Radio 2 93.3
+https://sbs-hls.streamguys1.com/hls/sbs2/playlist.m3u8
+#EXTINF:-1,SBS Radio 3
+https://sbs-hls.streamguys1.com/hls/sbs3/playlist.m3u8
+#EXTINF:-1,Vila Real 98.3
+https://5a57bda70564a.streamlock.net/vilarealfmhd/vilarealfmhd.stream/chunklist_w979491068.m3u8

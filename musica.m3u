@@ -9,3 +9,9 @@ https://ssl.zoeweb.net/proxy/serradourada?mp=/stream
 https://stm24.xcast.com.br:11928/stream
 #EXTINF:-1,Canal Sur Radio Musica
 https://rtva-live-radio.flumotion.com/rtva/csm.mp3
+#EXTINF:-1,TIGRE 94.7 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect//KRYEFMAAC.aac
+#EXTINF:-1,Radio Boursiquot's FM 101.7
+https://stream.zeno.fm/yoz610evcpltv
+#EXTINF:-1,Radio San Luchino
+https://ssl.audio1.meway.tv/proxy/sanluchino?mp=/stream

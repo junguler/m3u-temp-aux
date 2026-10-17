@@ -71,3 +71,23 @@ https://stream.protonbroadcast.com:8443/radiovaasa.mp3
 https://d3isaxd2t6q8zm.cloudfront.net/icecast/omroepzeeland/omroepzeeland_radio
 #EXTINF:-1,Radio Nordseewelle Ostfriesland
 https://nsw.streamabc.net/nsw-radionswlive-mp3-192-5305115?sABC=61p1s1ns%230%23480403531qsn3q883o6q243r435924np%23&amsparams=playerid:;skey:1640100271
+#EXTINF:-1,RTV Drenthe
+https://cdn.rtvdrenthe.nl/icecast/rtvdrenthe/rtvradio
+#EXTINF:-1,Soleil Radio
+https://stream.rcs.revma.com/sa3ccwa9yy8uv
+#EXTINF:-1,Radio Kaj
+https://s8.iqstreaming.com:2020/stream/radio-kaj2/stream
+#EXTINF:-1,Radio Ritam Šibenik
+https://ec2s.crolive.com.hr:8455/stream
+#EXTINF:-1,Zagorski radio
+https://s8.iqstreaming.com:2020/stream/zagorski/stream
+#EXTINF:-1,FM Italia
+https://stream5.xdevel.com/audio1s975817-360/stream/icecast.audio
+#EXTINF:-1,Radio Castell'Umberto
+https://eu1.fastcast4u.com/proxy/discorin?mp=/
+#EXTINF:-1,Radio Cuore Palermo
+https://stream-287.surfernetwork.com/bpsrkyx86p8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJicHNya3l4ODZwOHV2IiwiaG9zdCI6InN0cmVhbS0yODcuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJsMHRydUhmX1JZT1ZMeTQxczRRSnBBIiwiaWF0IjoxNzgyMjA3OTIwLCJleHAiOjE3ODIyMDc5ODB9.NFiyY9vBRiZ--kPT4KdkfYYJRLkG5p6hKcEhaM0TTXE
+#EXTINF:-1,Radio In 102
+https://stream3.xdevel.com/audio0s975604-233/stream/icecast.audio
+#EXTINF:-1,Radio Marsala Centrale RMC
+https://stream3.xdevel.com/audio1s975454-173/stream/icecast.audio

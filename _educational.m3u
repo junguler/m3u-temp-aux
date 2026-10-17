@@ -29,3 +29,21 @@ https://stream.morseops.com/20wpm.mp3
 https://stream.morseops.com/25wpm.mp3
 #EXTINF:-1,morseops.com Radio � Channel 4 � 30 WPM
 https://stream.morseops.com/30wpm.mp3
+#EXTINF:-1,RTHK Radio 5
+https://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/index_56_a-p.m3u8
+#EXTINF:-1,RTHK Radio 5
+https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/master.m3u8
+#EXTINF:-1,世新廣播電台-1
+https://stream.ginnet.cloud/live0115lo-89xv/_definst_/fm881/playlist.m3u8
+#EXTINF:-1,The Indie Beat Radio - Spoken Word Channel
+https://azura.theindiebeat.fm/listen/the_indie_beat_radio_-_spoken/radio.mp3
+#EXTINF:-1,Computer Forensic Radio
+https://radio.forensedigital.gt:8020/stream
+#EXTINF:-1,Est�reo Gerardi 107.9 FM
+https://aler.org:8445/gerardi.mp3
+#EXTINF:-1,Hacker por Cristo Network
+https://radio.forensedigital.gt:8010/stream
+#EXTINF:-1,Observatorio OGDI Guatemala
+https://radio.forensedigital.gt:8000/stream
+#EXTINF:-1,RRI Pro 1 - Kupang
+https://stream-node2.rri.co.id/streaming/13/9213/rrikupangpro1.mp3

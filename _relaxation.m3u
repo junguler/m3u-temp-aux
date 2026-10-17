@@ -45,3 +45,5 @@ https://ec6.yesstreaming.net:1505/stream
 https://icecast.walmradio.com:8443/classic
 #EXTINF:-1,Classic Vinyl HD Opus
 https://icecast.walmradio.com:8443/classic_opus
+#EXTINF:-1,NATURE RADIO SLEEP
+https://az1.mediacp.eu/listen/natureradiosleep/radio.mp3

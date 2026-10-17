@@ -71,3 +71,13 @@ https://live7.avf.ch/ipmusicaacplus96
 https://stream-162.zeno.fm/c6cpwp17n0quv
 #EXTINF:-1,Radio Vintage
 https://vintage.ice.infomaniak.ch/vintage.mp3
+#EXTINF:-1,RFT
+https://streaming.smartradio.ch:8501/stream
+#EXTINF:-1,Rouge Best Hits
+https://rouge-besthits.ice.infomaniak.ch/rouge-besthits-128.mp3
+#EXTINF:-1,SBS South Asian
+https://sbs-hls.streamguys1.com/hls/popdesi/playlist.m3u8
+#EXTINF:-1,Totally Radio 00's
+https://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_00S_S01AAC_SC
+#EXTINF:-1,Totally Radio 90's
+https://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_90S_S01AAC.aac?dist=triton-widget&tdsdk=js-2.9&pname=tdwidgets&pversion=2.9&banners=none&sbmid=c8b3b9f3-1ddf-44ea-944a-75516a135952

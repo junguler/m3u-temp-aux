@@ -7,3 +7,9 @@ https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/s
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_1xtra.m3u8
 #EXTINF:-1,Big Tunes Radio Bass
 https://bigtunesradio.com:8000/bass.mp3
+#EXTINF:-1,Record D'n'B Hits
+https://radiorecord.hostingradio.ru/drumhits96.aacp
+#EXTINF:-1,Record Neurofunk
+https://radiorecord.hostingradio.ru/neurofunk96.aacp
+#EXTINF:-1,Record Piratestation
+https://radiorecord.hostingradio.ru/ps96.aacp

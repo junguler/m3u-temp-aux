@@ -31,3 +31,15 @@ https://icecast-mirtv.cdnvideo.ru/radio_mir4_256
 https://icecast.correctiv.net/sacharow
 #EXTINF:-1,Радио Сева (Radio Seva Novgorodsev)
 https://seva.ru/radio/stream
+#EXTINF:-1,Советская Волна
+https://station.waveradio.org/soviet.mp3?pltsukioahxdexkqsjgf
+#EXTINF:-1,СПРАВЕДЛИВАЯ РОССИЯ
+https://spravedlivo.hostingradio.ru:8022/spravedlivo128.mp3
+#EXTINF:-1,Станция Кассиопея
+https://stream.cassiopeia-station.ru:1075/stream
+#EXTINF:-1,ТАНЦЫ
+https://listen9.myradio24.com/36043
+#EXTINF:-1,Вышка
+https://stream.vyshka24.ru/256
+#EXTINF:-1,Звезда
+https://icecast-zvezda.mediacdn.ru/radio/zvezda/zvezda_128

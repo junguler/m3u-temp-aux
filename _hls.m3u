@@ -7,3 +7,5 @@ https://stream.radiofrance.fr/franceculture/franceculture_hifi.m3u8
 https://stream.radiofrance.fr/francemusique/francemusique.m3u8
 #EXTINF:-1,France Musique (no pub)
 https://stream.radiofrance.fr/francemusique/francemusique.m3u8?id=radiofrance
+#EXTINF:-1,Soma FM Groove Salad 320K AAC HLS
+https://hls.somafm.com/hls/groovesalad/320k/program.m3u8

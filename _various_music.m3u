@@ -31,3 +31,11 @@ https://server-28.stream-server.nl:8922/stream
 https://player.streamforce.nl/listen/radio182/stream
 #EXTINF:-1,Radio de Branding
 https://server-28.stream-server.nl:8814/stream
+#EXTINF:-1,Rivierenland Radio (2nd server,320k)
+https://server-28.stream-server.nl:8802/stream
+#EXTINF:-1,RTV Hollands Midden
+https://securestream2.digipal.nl:1805/stream
+#EXTINF:-1,Zender Groenveld
+https://server-28.stream-server.nl:8912/stream
+#EXTINF:-1,FluxWave Radio
+https://www.live.fluxwaveradio.com/main-mp3

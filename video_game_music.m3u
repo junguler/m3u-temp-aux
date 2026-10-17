@@ -5,3 +5,7 @@ https://icecast.radiosega.net/rs-mpeg.mp3
 https://icecast.radiosega.net/rs-opus-low.ogg
 #EXTINF:-1,RadioSEGA (HE-AAC v2)
 https://icecast.radiosega.net/live
+#EXTINF:-1,Rainwave Game
+https://relay.rainwave.cc/game.ogg
+#EXTINF:-1,Sonic Radio
+https://play.soundtest.fm/sonic

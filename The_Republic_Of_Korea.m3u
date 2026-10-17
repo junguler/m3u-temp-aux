@@ -57,3 +57,17 @@ https://minimw.imbc.com/dmfm/_definst_/mfm.stream/playlist.m3u8?_lsu_sa_=66E14E1
 https://minicw.imbc.com/dchm/_definst_/chm.stream/playlist.m3u8?_lsu_sa_=6BA1BF1C43CA3AD4B34AE55733A1B34BD59E3BF5660D42383A305Ca1B64A3BB626a7C31A31626E48004F31213FbDE16E1FE07C0E02F99F3586FF5028CB67EEA297232BF95EFF8A4CEBDCA16B55B224C9FB94E9543819434CD5D800B06BD806BE052B301C7C26CA9A9269DC0D30E89EAD
 #EXTINF:-1,OBS 라디오
 https://vod3.obs.co.kr:444/live/obsstream1/radio.stream/playlist.m3u8
+#EXTINF:-1,REPLAY NEWS - 한국어   5분마다 뉴스 라디오
+https://replaynewskr.ice.infomaniak.ch/replaynewskr-128.mp3
+#EXTINF:-1,SBS Love FM
+https://radiolive.sbs.co.kr/lovepc/lovefm.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTA5MTI0MTQsInBhdGgiOiIvbG92ZWZtLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiZmUxZDkxZjUtODlkNC00OWY1LTkwNmUtMDM4NTY5MjdhMGMwIiwiaWF0IjoxNzkwODY5MjE0fQ.j5kh5mk7nxhlwWjvCoA2eF6zym5w11odWOfoC0YpOLA
+#EXTINF:-1,SBS Power FM
+https://radiolive.sbs.co.kr/powerpc/powerfm.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTA4Nzc2MDksInBhdGgiOiIvcG93ZXJmbS5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6ImI5NmQzMTY4LTkzNGQtNDA3Ni1hMWQwLWZiZmU2NWQ4YzI1NCIsImlhdCI6MTc5MDgzNDQwOX0.BcacPCOW3gcR58ZAmdEkySqLwkYy06jjpygiC7lo97k
+#EXTINF:-1,Soshi-Subs
+https://092007.xyz/radio/soshisubs
+#EXTINF:-1,TBS eFM 101.3
+https://cdnefm.tbs.seoul.kr/tbs/_definst_/tbs_efm_web_360.smil/chunklist.m3u8
+#EXTINF:-1,TBS FM 95.1
+https://cdnfm.tbs.seoul.kr/tbs/_definst_/tbs_fm_web_360.smil/chunklist.m3u8
+#EXTINF:-1,YTN 라디오
+https://radiolive.ytn.co.kr/radio/_definst_/20211118_fmlive/playlist.m3u8

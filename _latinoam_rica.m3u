@@ -27,3 +27,13 @@ https://streaming.hotmixradio.com/hotmix-latino-en-mp3?provider=radiobrowser
 https://n32a-eu.rcs.revma.com/1x41712gy7uvv
 #EXTINF:-1,Fuego 98.9
 https://playerservices.streamtheworld.com/api/livestream-redirect/KCVRFM.mp3
+#EXTINF:-1,Clásica 102.5 Guatemala
+https://playerservices.streamtheworld.com/api/livestream-redirect/CLASICA_1065AAC.aac
+#EXTINF:-1,Globo 98.9 Guatemala
+https://playerservices.streamtheworld.com/api/livestream-redirect/GLOBO_989AAC.aac
+#EXTINF:-1,La Red 106.1 Guatemala
+https://playerservices.streamtheworld.com/api/livestream-redirect/LA_REDAAC.aac
+#EXTINF:-1,Mía 93.7 Guatemala
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIAAAC.aac
+#EXTINF:-1,Vox FM Honduras
+https://ice42.securenetsystems.net/VOXFM

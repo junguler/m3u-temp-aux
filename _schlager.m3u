@@ -199,3 +199,21 @@ https://stream.hitzzz.nl/hitzzz
 https://hlshr4.akamaized.net/hls/live/2016537/hr4rheinmain/192/seg.m3u8
 #EXTINF:-1,Radioachterhoek.nl
 https://stream.radioachterhoek.nl/index.html?sid=1
+#EXTINF:-1,RauteMusik BEST OF SCHLAGER
+https://rautemusik-de-hz-fal-stream15.radiohost.de/rm-best-of-schlager_mp3-192?ref=radiobrowser&listenerrmid=31363430303939383030-326130333a343030303a33373a34323a633466653a346366663a666561373a38393431-3436323234-53747265616d436865636b426f742f302e312e30
+#EXTINF:-1,RauteMusik CHRISTMAS SCHLAGER
+https://rautemusik-de-hz-fal-stream11.radiohost.de/rm-christmas-schlager_mp3-192?ref=radiobrowser&listenerrmid=31363430313035383737-323030313a313966303a363830313a313964373a353430303a3266663a666537313a62646237-3535373732-53747265616d436865636b426f742f302e312e30
+#EXTINF:-1,Schwany Souvenir 1
+https://bone.streampanel.cloud:443/9-souvenir1
+#EXTINF:-1,SWR4 BW Karlsruhe
+https://f121.rndfnk.com/ard/swr/swr4/ka/mp3/128/stream.mp3?aggregator=web&sid=22ZkDCTGmKYwwkLSXKaggb1IQXZ&token=-0OIUPET0nYjUaa0DYhTXzKFrVQS4NOuxG1Q5v8sZQE&tvf=lOBaA5e2whZmMTIxLnJuZGZuay5jb20
+#EXTINF:-1,SWR4 BW Stuttgart
+https://f121.rndfnk.com/ard/swr/swr4/bw/mp3/128/stream.mp3?aggregator=web&sid=22ZlkicNsYdeh0W57zKa66DQdRx&token=xeK83hGyyMGOlmDCJ0aN0O0lhYTXw8xSfU1Sbui0Ja4&tvf=1VBHDEi3whZmMTIxLnJuZGZuay5jb20
+#EXTINF:-1,SWR4 RP Mainz
+https://d121.rndfnk.com/ard/swr/swr4/rp/mp3/128/stream.mp3?aggregator=web&sid=22ZqGlPtjlmaJkBCY8r8KP5CgZS&token=dU06jLf6ZcUKGwCYXAm1KsUV-oOSX9X5Y3DR2I9oQEE&tvf=wi6TF0-5whZkMTIxLnJuZGZuay5jb20
+#EXTINF:-1,TIPfm
+https://s5.radio.co/sf0581b682/listen
+#EXTINF:-1,Vera Radio
+https://mscp3.live-streams.nl:8082/live
+#EXTINF:-1,Radio 2000
+https://stream.radio2000.it/

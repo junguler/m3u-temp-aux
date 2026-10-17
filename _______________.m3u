@@ -15,3 +15,11 @@ https://icecast-mirtv.cdnvideo.ru/radio_mir_256
 https://icecast-mirtv.cdnvideo.ru/radio_mir4_256
 #EXTINF:-1,Радио Мир (Барнаул)
 https://icecast-mirtv.cdnvideo.ru/radio_mir4_256
+#EXTINF:-1,SOHO FM
+https://listen4.myradio24.com/sohofm
+#EXTINF:-1,СПРАВЕДЛИВАЯ РОССИЯ
+https://spravedlivo.hostingradio.ru:8022/spravedlivo128.mp3
+#EXTINF:-1,Звезда
+https://icecast-zvezda.mediacdn.ru/radio/zvezda/zvezda_128
+#EXTINF:-1,Звезда
+https://icecast-zvezda.mediacdn.ru/radio/zvezda/zvezda_128

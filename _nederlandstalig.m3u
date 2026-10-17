@@ -23,3 +23,7 @@ https://server-28.stream-server.nl:18828/stream
 https://server-27.stream-server.nl:18312/;listen.m3u
 #EXTINF:-1,RADIO UNIQUE FM /HI-RES
 https://hilversumdrie.beheerstream.nl/8038/stream
+#EXTINF:-1,Rondiamusic
+https://mars.streamerr.co:7094/stream
+#EXTINF:-1,Vera Radio
+https://mscp3.live-streams.nl:8082/live

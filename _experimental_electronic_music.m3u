@@ -9,3 +9,9 @@ https://streams.kcrw.com/10466_256.aac/playlist.m3u8
 https://a2.asurahosting.com:7890/radio.mp3?refresh=1769858154192
 #EXTINF:-1,provodach
 https://station.waveradio.org/provodach
+#EXTINF:-1,SomaFM n5MD (128k AAC)
+https://ice6.somafm.com/n5md-128-aac
+#EXTINF:-1,SomaFM n5MD (32k AAC)
+https://ice2.somafm.com/n5md-32-aac
+#EXTINF:-1,Soundart Radio
+https://radio.canstream.co.uk:8134/live.mp3

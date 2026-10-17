@@ -31,3 +31,11 @@ https://stream.rpr1.de/chillout/mp3-128/radiobrowser
 https://streaming.exclusive.radio/er/simongarfunkle/icecast.audio
 #EXTINF:-1,Quality FM
 https://icecast.lokaleomroepzeewolde.nl:8443/QualityFMHigh
+#EXTINF:-1,WLIT 93.9 FM - Chicago, IL
+https://stream.revma.ihrhls.com/zc853
+#EXTINF:-1,WSJY 107.3 FM - Fort Atkinson, WI
+https://live.amperwave.net/direct/magnumbroadcasting-wsjyfmmp3-ibc1
+#EXTINF:-1,Dimensione Suono Soft
+https://stream.dimensionesuonosoft.radio/audio/dssc.stream_aac64/playlist.m3u8
+#EXTINF:-1,Radio Capital Soft
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/capitalsoft/playlist.m3u8

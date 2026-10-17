@@ -563,3 +563,175 @@ https://stream.zeno.fm/9svfnobkrxrvv
 https://yayin.radyodem.com:8000/
 #EXTINF:-1,Rai Radio Classica
 https://radiotreclassica-live.akamaized.net/hls/live/2032595/radiotreclassica/radiotreclassica/playlist.m3u8?auth=daEdhdwbUa7czaNdRcObUbSard1b9c6afbs-bHWH_x-c0-HmtvxEw&aifp=V001
+#EXTINF:-1,RBB Radio 3
+https://d131.rndfnk.com/ard/rbb/rbbkultur/live/mp3/256/stream.mp3?cid=01FC1WQSDQZNQA4Y6DYGBH7A64&sid=2rsYGtofHBqoiJ0yAf48snlhMwN&token=FlpPdO1o_lLeltmZCsEGtfYgcJWBPA7eolwrDPBzxuo&tvf=WhtccX9hHBhkMTMxLnJuZGZuay5jb20
+#EXTINF:-1,Record Chill-Out
+https://radiorecord.hostingradio.ru/chil96.aacp
+#EXTINF:-1,RMN DWNX Naga
+https://stream.zeno.fm/1ytydzphq7zuv
+#EXTINF:-1,RTP Antena 2 Opera
+https://streaming-live.rtp.pt/liveradio/antena2opera80a/chunklist_DVR.m3u8
+#EXTINF:-1,RTV794
+https://nlpo.stream.vip/radio794fm/mp3-192/nlpo/
+#EXTINF:-1,Shanghai Classical Music Radio 94.7
+https://live.xmcdn.com/live/54/64.m3u8
+#EXTINF:-1,Sheet Music | NTS
+https://stream-mixtape-geo.ntslive.net/mixtape35
+#EXTINF:-1,SWR Kultur
+https://f141.rndfnk.com/ard/swr/swr2/live/mp3/256/stream.mp3?aggregator=web&cid=01FC1X4J91VJW1CVH6588MZEE3&sid=2rsZOFkhxZXlE8Ot9LqG1tBYy4f&token=Ir-7ZHl7NLYUj8iERE8jCFxVR-EVEsQiBqKh5v43omw&tvf=Qb2LHgBiHBhmMTQxLnJuZGZuay5jb20
+#EXTINF:-1,SWR4 BW Karlsruhe
+https://f121.rndfnk.com/ard/swr/swr4/ka/mp3/128/stream.mp3?aggregator=web&sid=22ZkDCTGmKYwwkLSXKaggb1IQXZ&token=-0OIUPET0nYjUaa0DYhTXzKFrVQS4NOuxG1Q5v8sZQE&tvf=lOBaA5e2whZmMTIxLnJuZGZuay5jb20
+#EXTINF:-1,SWR4 BW Stuttgart
+https://f121.rndfnk.com/ard/swr/swr4/bw/mp3/128/stream.mp3?aggregator=web&sid=22ZlkicNsYdeh0W57zKa66DQdRx&token=xeK83hGyyMGOlmDCJ0aN0O0lhYTXw8xSfU1Sbui0Ja4&tvf=1VBHDEi3whZmMTIxLnJuZGZuay5jb20
+#EXTINF:-1,SWR4 RP Mainz
+https://d121.rndfnk.com/ard/swr/swr4/rp/mp3/128/stream.mp3?aggregator=web&sid=22ZqGlPtjlmaJkBCY8r8KP5CgZS&token=dU06jLf6ZcUKGwCYXAm1KsUV-oOSX9X5Y3DR2I9oQEE&tvf=wi6TF0-5whZkMTIxLnJuZGZuay5jb20
+#EXTINF:-1,TRT Radyo 3
+https://radio-trtradyo3.live.trt.com.tr/master.m3u8
+#EXTINF:-1,TRT Turku 98.6
+https://radio-trtturku.live.trt.com.tr/master.m3u8
+#EXTINF:-1,Vanessa Mae - Classical Radio
+https://drive.uber.radio/uber/crvanessamae/icecast.audio
+#EXTINF:-1,VPR(Vermont Public Radio) Classical
+https://vprclassical.streamguys1.com/vprclassical64.aac
+#EXTINF:-1,WBAA Classical 101.3 HD-2 West Lafayette, IN
+https://wfyi-live.streamguys1.com/wbaa-classical-aac
+#EXTINF:-1,WCLV Ideastream Public Media
+https://live.ideastream.org/wclv.aac
+#EXTINF:-1,WETA Classical
+https://weta.streamguys1.com/wetaclassical-icy
+#EXTINF:-1,WETA Virtuoso
+https://weta.streamguys1.com/wetavirtuoso-icy
+#EXTINF:-1,WETA VivaLaVoce
+https://weta.streamguys1.com/wetavivalavoce-icy
+#EXTINF:-1,WFCL "Classical 91.1"  Nashville Public Radio, TN
+https://wpln.streamguys1.com/wfclfm.mp3
+#EXTINF:-1,WFMT 98.7
+https://wowza.wfmt.com/live/smil:wfmt.smil/playlist.m3u8
+#EXTINF:-1,WHIL 91.3 - Alabama Public Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/WUAL_HD1.mp3
+#EXTINF:-1,WHIL HD2 - APR Classical
+https://playerservices.streamtheworld.com/api/livestream-redirect/WUAL_HD2.mp3
+#EXTINF:-1,Whisperings Solo Piano Radio
+https://pianosolo.streamguys1.com/live
+#EXTINF:-1,Whisperings: Solo Piano Radio (AAC 48)
+https://pianosolo.streamguys1.com/pianosolo48.aac
+#EXTINF:-1,WKMS Classical
+https://wkms.streamguys1.com/WKMSHD2.mp3?uuid=1iziv1ao
+#EXTINF:-1,WKSU-HD3 All Classical AAC 64
+https://live.ideastream.org/wksu3-64.aac
+#EXTINF:-1,WLRN Classical
+https://wlrn.streamguys1.com/wlrn-classical-web-icy
+#EXTINF:-1,WMEA Maine Public Broadcasting Classical Stream
+https://playerservices.streamtheworld.com/api/livestream-redirect/WMEA_CLASSICAL_SC
+#EXTINF:-1,WMPB HD2 - MPB Music Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/WMPNHD2.mp3
+#EXTINF:-1,WNIN Tri-State Public Media Inc.
+https://wnin.streamguys1.com/live
+#EXTINF:-1,WOSU Classical 101 AAC 256
+https://wosu.streamguys1.com/Classical_256
+#EXTINF:-1,WQED Pittsburgh Concert Channel
+https://ice-1.streamhoster.com/lv_wqed--concert
+#EXTINF:-1,WQXR
+https://stream.wqxr.org/wqxr-web?nyprBrowserId=32c67956bf1d5600
+#EXTINF:-1,WRR Classical 101.1 FM
+https://kera.streamguys1.com/wrrlive-aac
+#EXTINF:-1,WSCL 89.5 FM Classical Delmarva
+https://26443.live.streamtheworld.com/WESMFM.mp3
+#EXTINF:-1,WUKY-HD2
+https://wuky.streamguys1.com/HD2
+#EXTINF:-1,WUWF Classical
+https://wuwf.streamguys1.com/WUWFHD2.mp3
+#EXTINF:-1,WVIK
+https://wvik.streamguys1.com//live.mp3
+#EXTINF:-1,WVTF Music
+https://wvtf.streamguys1.com/wvtf-edge/wvtfmusic-aac-128/icecast.audio
+#EXTINF:-1,WWFM The Classical Network
+https://wwfm.streamguys1.com/live
+#EXTINF:-1,WXXI Classical 91.5
+https://playerservices.streamtheworld.com/api/livestream-redirect/WXXIFM.mp3
+#EXTINF:-1,WYSU 88.5 All Classical
+https://live.streamguys1.com:3181/hd2
+#EXTINF:-1,Your Classical - Favorites
+https://favorites.stream.publicradio.org/favorites.mp3
+#EXTINF:-1,Your Classical - Pixel & Plot
+https://pixelplot.stream.publicradio.org/pixelplot.mp3
+#EXTINF:-1,Your Classical - Radio
+https://ycradio.stream.publicradio.org/ycradio.mp3
+#EXTINF:-1,YourClassical Concert Band
+https://concertband.stream.publicradio.org/concertband.mp3
+#EXTINF:-1,YourClassical Guitar Stream
+https://guitar.stream.publicradio.org/guitar.mp3
+#EXTINF:-1,YourClassical Women's History
+https://womenshistory.stream.publicradio.org/womenshistory.mp3
+#EXTINF:-1,YourClassical Women's History
+https://womenshistory.stream.publicradio.org/womenshistory.aac
+#EXTINF:-1,1st Greek Classical FLAC Radio AAC+ 320k
+https://stream.newageradio.gr/listen/classical/radio.aac
+#EXTINF:-1,1st Greek Classical FLAC Radio  Lossless
+https://stream.newageradio.gr/listen/classical/radio.flac
+#EXTINF:-1,ΕΡΤ Τρίτο Πρόγραμμα
+https://radiostreaming.ert.gr/ert-trito
+#EXTINF:-1,Radio Art - Classical Crossover
+https://live.radioart.com/fClassical_crossover.mp3
+#EXTINF:-1,Radio Art - Ludovico Einaudi
+https://live.radioart.com/fLudovico_einaudi.mp3
+#EXTINF:-1,Radio Art - Maria Callas
+https://live.radioart.com/fMaria_callas.mp3
+#EXTINF:-1,Radio Art - Music for Moms
+https://live.radioart.com/fMusic_for_moms.mp3
+#EXTINF:-1,Radio Art - Overtures
+https://live.radioart.com/fOvertures.mp3
+#EXTINF:-1,Radio Art - Paris
+https://live.radioart.com/fParis.mp3
+#EXTINF:-1,Radio Art - Philip Glass
+https://live.radioart.com/fPhilip_glass.mp3
+#EXTINF:-1,Radio Art - Rome
+https://live.radioart.com/fRome.mp3
+#EXTINF:-1,Radio Art - Today’s Sopranos
+https://live.radioart.com/fTodays_Sopranos.mp3
+#EXTINF:-1,Radio Art - Tokyo
+https://live.radioart.com/fTokyo.mp3
+#EXTINF:-1,Real Classic
+https://netradio.live24.gr/realclassic
+#EXTINF:-1,103.9 rock
+https://icast.connectmedia.hu/5301/live.mp3
+#EXTINF:-1,MegaLive
+https://mega-live.net:2053/live.mp3
+#EXTINF:-1,oxigen
+https://oxygenmusic.hu:8443/oxygenmusic
+#EXTINF:-1,Oxygen Classics
+https://oxygenmusic.hu:8443/Classic_128
+#EXTINF:-1,Ozonefm
+https://oxygenmusic.hu:8443/ozonefm_320
+#EXTINF:-1,Radio Rodja 756 AM
+https://radioislamindonesia.com/rodja.mp3?_=2
+#EXTINF:-1,Air Coimbatore
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio016/playlist.m3u8
+#EXTINF:-1,Air Tamil
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio025/playlist.m3u8
+#EXTINF:-1,Air Warangal
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio154/chunklist.m3u8
+#EXTINF:-1,Fm Kottarakkara
+https://stream.zeno.fm/gqdb1rev5s8uv
+#EXTINF:-1,FM Rainbow Krishna Vani Vijayawada
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio175/playlist.m3u8
+#EXTINF:-1,FM Rainbow Vijaywada Telugu
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio174/playlist.m3u8
+#EXTINF:-1,Kathiravan Fm 
+https://kathiravanfm-prabak78.radioca.st/stream
+#EXTINF:-1,London Telugu Radio
+https://c8.radioboss.fm/stream/33
+#EXTINF:-1,Shahimsha Online radio
+https://radio.shahimsha.com/listen/shahimsha/radio.mp3
+#EXTINF:-1,Vivid Bharti 
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8
+#EXTINF:-1,Onic Classical
+https://live.onic.ie/stream-classical?_=954716
+#EXTINF:-1,KAN Kol HaMusica כאן קול המוזיקה
+https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_KOL_HAMUSICA.mp3
+#EXTINF:-1,dee Jay full time radio
+https://djft.radioca.st/
+#EXTINF:-1,Easy Network Classic
+https://sphera.fluidstream.eu/easy_classica.mp3
+#EXTINF:-1,Radio Classica
+https://stream10.xdevel.com/audio0s978096-2470/stream/icecast.audio

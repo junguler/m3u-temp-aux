@@ -93,3 +93,31 @@ https://streaming.positivity.radio/pr/running/icecast.audio
 https://edge.mixlr.com/channel/xssdg
 #EXTINF:-1,Radio Red 1110 XERED
 https://playerservices.streamtheworld.com/api/livestream-redirect/XERED_AMAAC_SC
+#EXTINF:-1,RMC
+https://audio.bfmtv.com/rmcradio_128.mp3?aw_0_1st.aggregator=unknow_from_dvmr
+#EXTINF:-1,Somali Super Sport
+https://stream.zeno.fm/7ytz1pedps8uv
+#EXTINF:-1,MAXXI Guadeloupe
+https://maxxi.studio/listen/maxxigp/radio.mp3
+#EXTINF:-1,Iraklis Radio
+https://centova.gr-net.gr/proxy/iraklisradio/stream
+#EXTINF:-1,Radio Boursiquot's FM 101.7
+https://stream.zeno.fm/yoz610evcpltv
+#EXTINF:-1,Nemzeti Sport Radio 
+https://icast.connectmedia.hu/4656/mr11.aac
+#EXTINF:-1,Radio Bola
+https://live.radiobola.co.id/listen/radiobola/stream
+#EXTINF:-1,Off The Ball
+https://stream.audioxi.com/OTB?aw_0_1st.playerId=BMIE_GoLoudWeb&aw_0_1st.playerId=BMIE_GoLoudWeb&aw_0_1st.premium=false
+#EXTINF:-1,RTÉ Radio 1
+https://liveaudio.rte.ie/hls-radio/radio1/chunklist.m3u8
+#EXTINF:-1,GRS - Gruppo Radio Sperone
+https://onair7.xdevel.com/proxy/xautocloud_luge_1982?mp=/;1/
+#EXTINF:-1,Radio Bussola 24 (RadioBussola, RadioBussola24)
+https://radiobussola24.radioca.st/stream
+#EXTINF:-1,Radio CRC
+https://stream9.xdevel.com/audio2s975936-745/stream/icecast.audio
+#EXTINF:-1,Radio Nerazzurra
+https://api.spreaker.com/v2/episodes/18631166/stream
+#EXTINF:-1,Radio Romanista
+https://romanista.newradio.it/stream

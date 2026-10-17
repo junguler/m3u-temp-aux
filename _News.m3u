@@ -17,3 +17,5 @@ https://mediaserviceslive.akamaized.net/hls/live/2038160/localriverland/index.m3
 https://25483.live.streamtheworld.com/AVTORADIOAAC_L.aac
 #EXTINF:-1,ORF Ö1
 https://orf-live.ors-shoutcast.at/oe1-q2a
+#EXTINF:-1,VRT Radio 1 94.2
+https://radio.vrtcdn.be/vrt/radio1/live.m3u8?ola=true&contentType=LIVESTREAM&filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29

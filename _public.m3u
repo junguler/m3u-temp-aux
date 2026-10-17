@@ -29,3 +29,29 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KVPRFM_SC
 https://live.xmcdn.com/live/2656/64.m3u8
 #EXTINF:-1,Rai Radio Classica
 https://radiotreclassica-live.akamaized.net/hls/live/2032595/radiotreclassica/radiotreclassica/playlist.m3u8?auth=daEdhdwbUa7czaNdRcObUbSard1b9c6afbs-bHWH_x-c0-HmtvxEw&aifp=V001
+#EXTINF:-1,RIPR - The Public's Radio - WNPN 89.3 FM
+https://amber.streamguys1.com:5595/riprdeskweb
+#EXTINF:-1,Tri States Public Radio | TSPR | WIUM
+https://playerservices.streamtheworld.com/api/livestream-redirect/WIUMFM.mp3
+#EXTINF:-1,WAMC 90.3 Northeast Public Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/WAMCFMAAC_SC
+#EXTINF:-1,WAMU American University Radio
+https://wamu.cdnstream1.com/wamu.mp3
+#EXTINF:-1,WMEA 90.1 Maine Public Public Broadcasting
+https://playerservices.streamtheworld.com/api/livestream-redirect/WMEAFM_SC
+#EXTINF:-1,WMEA Maine Public Broadcasting Classical Stream
+https://playerservices.streamtheworld.com/api/livestream-redirect/WMEA_CLASSICAL_SC
+#EXTINF:-1,WRJA 88.1 South Carolina Public Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/WRJAFMAAC_SC
+#EXTINF:-1,WRVO 89.9
+https://playerservices.streamtheworld.com/api/livestream-redirect/WRVOFM_SC
+#EXTINF:-1,WSDL 90.7 Delmarva Public Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/WSDLFM_SC
+#EXTINF:-1,WUKY - NPR Rocks 
+https://wuky.streamguys1.com/wuky
+#EXTINF:-1,WUTC 88.1
+https://playerservices.streamtheworld.com/api/livestream-redirect/WUTCFM_SC
+#EXTINF:-1,WXXI Classical 91.5
+https://playerservices.streamtheworld.com/api/livestream-redirect/WXXIFM.mp3
+#EXTINF:-1,RRI Pro 4 Ambon
+https://stream-node2.rri.co.id/streaming/15/9315/rriambonpro4.mp3

@@ -7,3 +7,13 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_999AAC.aac
 https://radio.fiestamallorca.com/fiesta?1724972882139
 #EXTINF:-1,Planeta 105.3 Caracas FM
 https://cast10.plugstreaming.com:2020/stream/planetafm/;
+#EXTINF:-1,Rumba 100.1 Barquisimeto FM
+https://cast10.plugstreaming.com:2020/stream/r1001/;
+#EXTINF:-1,Rumba 104.9 Anzoategui FM
+https://cast10.plugstreaming.com:2020/stream/r1049/;
+#EXTINF:-1,Rumba 98.1 FM
+https://cast20.plugstreaming.com:2020/stream/r981/;
+#EXTINF:-1,Dinámica 89.9 FM
+https://cloudstream2032.conectarhosting.com/8312/stream
+#EXTINF:-1,Free FM Bombay
+https://rocafmadrid.radioca.st/

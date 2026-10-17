@@ -13,3 +13,7 @@ https://hits1latina-audiomediaradio.radioca.st/latina
 https://live.amperwave.net/manifest/rcomm-kqurfmaac-hlsc4.m3u8?source=v7player&user-id=ecee90d54151a
 #EXTINF:-1,Miss 104 FM
 https://radio.dominiserver.com/proxy/miss104fm?mp=/stream
+#EXTINF:-1,Rumba 98.1 FM
+https://cast20.plugstreaming.com:2020/stream/r981/;
+#EXTINF:-1,Deejay Gasolina
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaygasolina/playlist.m3u8

@@ -3,3 +3,5 @@
 https://c4.auracast.net/radio/8020/radio.mp3
 #EXTINF:-1,NPO Radio 5
 https://icecast.omroep.nl/radio5-sb-aac
+#EXTINF:-1,TraxxRadio
+https://server-28.stream-server.nl:8896/stream

@@ -67,3 +67,33 @@ https://radiomol.ice.infomaniak.ch/radiomol-192.mp3
 https://radiosalamandre.ice.infomaniak.ch/radiosalamandre.aac
 #EXTINF:-1,Radio Sunshine
 https://stream.radio-sunshine.info/live
+#EXTINF:-1,RGR FM
+https://uplink.intronic.nl/rgrfm
+#EXTINF:-1,RTBF Tipik
+https://radio.rtbf.be/tipik/aac-128/rp-web?rp_source=1&=&&___cb=408645811929035
+#EXTINF:-1,Studio Brussel Bruut
+https://icecast.vrtcdn.be/stubru_bruut-high.mp3
+#EXTINF:-1,Studio Brussel - De Tijdloze
+https://icecast.vrtcdn.be/stubru_tijdloze-high.mp3
+#EXTINF:-1,Studio Brussel Vuurland
+https://icecast.vrtcdn.be/stubru_tgs.aac
+#EXTINF:-1,Sud Radio Belgique
+https://sudradio.ice.infomaniak.ch/sudradio-96.aac
+#EXTINF:-1,Tipik à l'ancienne
+https://radio.rtbf.be/tipik-al/mp3-128/rb
+#EXTINF:-1,TOPradio
+https://str.topradio.be/topradio.mp3
+#EXTINF:-1,VivaCité Bruxelles
+https://redbeemedia.streamabc.net/redbm-vivabxl-aac-128-1428473
+#EXTINF:-1,VRT NWS
+https://progressive-audio.vrtcdn.be/content/fixed/11_11niws-snip_hi.mp3
+#EXTINF:-1,VRT Radio 1 94.2
+https://radio.vrtcdn.be/vrt/radio1/live.m3u8?ola=true&contentType=LIVESTREAM&filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+#EXTINF:-1,VRT Radio 2 Antwerpen
+https://icecast.vrtcdn.be/ra2ant.aac
+#EXTINF:-1,VRT Radio 2 Vlaams-Brabant
+https://icecast.vrtcdn.be/ra2vlb.aac
+#EXTINF:-1,YouFM
+https://youfm.ice.infomaniak.ch/youfm-96
+#EXTINF:-1,Zen FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/TOPZEN.mp3

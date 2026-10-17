@@ -9,3 +9,7 @@ https://cast1.torontocast.com:1830/stream
 https://cast1.torontocast.com:4610/stream
 #EXTINF:-1, # RdMix DJSET 70s 80s 90s
 https://cast1.torontocast.com:4560/stream
+#EXTINF:-1, # 100 NU-DISCO CENTRAL RADIO
+https://stream.zeno.fm/jqhhzffjynbuv
+#EXTINF:-1,70 80 Hits HQ
+https://nr8.newradio.it:19574/stream

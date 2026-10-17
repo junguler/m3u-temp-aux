@@ -1,3 +1,17 @@
 #EXTM3U
 #EXTINF:-1,Urbano 106 - 105.9 FM - San José, Costa Rica
 https://usa18.fastcast4u.com/proxy/rmoohhrw?mp=/1
+#EXTINF:-1,Clásica 102.5 Guatemala
+https://playerservices.streamtheworld.com/api/livestream-redirect/CLASICA_1065AAC.aac
+#EXTINF:-1,Exa FM Guatemala
+https://stream.zeno.fm/czdkk32qduhvv
+#EXTINF:-1,Globo 98.9 Guatemala
+https://playerservices.streamtheworld.com/api/livestream-redirect/GLOBO_989AAC.aac
+#EXTINF:-1,La Red 106.1 Guatemala
+https://playerservices.streamtheworld.com/api/livestream-redirect/LA_REDAAC.aac
+#EXTINF:-1,Mía 93.7 Guatemala
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIAAAC.aac
+#EXTINF:-1, La Top 102.9 FM - San Pedro Sula, Honduras
+https://us9.maindigitalstream.com/ssl/latop102
+#EXTINF:-1,Vox FM Honduras
+https://ice42.securenetsystems.net/VOXFM

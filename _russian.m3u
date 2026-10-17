@@ -35,3 +35,9 @@ https://channels.fonotron.ru:8000/Chan_64_256.mp3
 https://radiorecord.hostingradio.ru/russiangold96.aacp
 #EXTINF:-1,Radio Record - Russian Hits
 https://radiorecord.hostingradio.ru/russianhits96.aacp
+#EXTINF:-1,Севастополь FM
+https://sevfm.ru:9006/stream
+#EXTINF:-1,Звезда
+https://icecast-zvezda.mediacdn.ru/radio/zvezda/zvezda_128
+#EXTINF:-1,כאן רקע Kan Reka
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_reka/live.livx/playlist.m3u8?renditions

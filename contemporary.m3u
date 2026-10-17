@@ -39,3 +39,13 @@ https://streams.radiomast.io/063fcf6f-4083-4c4e-85a8-31b0a709f40d
 https://stream.revma.ihrhls.com/zc1037/hls.m3u8
 #EXTINF:-1,Radio7 104.7
 https://hls-01-radio7.emgsound.ru/13/128/playlist.m3u8
+#EXTINF:-1,RDS Radio Dimensione Suono
+https://icstream.rds.radio/rds
+#EXTINF:-1,RTÉ 2fm
+https://www.rte.ie/manifests/2fm.m3u8
+#EXTINF:-1,Team FM Friesland
+https://audiostreamen.nl/friesland
+#EXTINF:-1,Team FM Overijssel en Noordoostpolder
+https://audiostreamen.nl/overijssel
+#EXTINF:-1,Radio Art - Contemporary Vocal
+https://live.radioart.com/fContemporary_vocal.mp3

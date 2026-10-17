@@ -97,3 +97,21 @@ https://mpc1.mediacp.eu:8740/;.mp3
 https://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-mp3
 #EXTINF:-1,Radio Rijnmond (AAC+)
 https://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-aacp
+#EXTINF:-1,Relax FM Online
+https://caster04.streampakket.com/proxy/8009/stream
+#EXTINF:-1,The Big 80's Station
+https://ssl.nexuscast.com:9044/
+#EXTINF:-1,Total Soul (UK) 192kb mp3
+https://onair7.xdevel.com/proxy/xautocloud_atvn_1069?mp=/;1/
+#EXTINF:-1,World Music Radio Classic
+https://server-67.stream-server.nl:8792/stream
+#EXTINF:-1,Blue Space 107,2 FM Athens
+https://sp1.19cloudsnetwork.gr/8008/stream?1701442520261
+#EXTINF:-1,Oxygen The 80s Hits
+https://oxygenmusic.hu:8443/oxygenthe80shits
+#EXTINF:-1,Classic Hits 80s
+https://edge7.audioxi.com/CH80S
+#EXTINF:-1,R101 80
+https://icy.unitedradio.it/R10180.aac
+#EXTINF:-1,Radio Monte Carlo 80
+https://icy.unitedradio.it/rmcweb008

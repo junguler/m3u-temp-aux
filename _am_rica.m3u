@@ -15,3 +15,13 @@ https://cast3.asurahosting.com/proxy/omrgroup/stream
 https://vsstreaming.com/8026/stream
 #EXTINF:-1, NOTICIAS Y DEPORTES 1330 (Los Ángeles) - 1330 AM - KWKW - Lotus Communications - Los Ángeles, California, EUA
 https://playerservices.streamtheworld.com/api/livestream-redirect/KWKWAMAAC.aac
+#EXTINF:-1,Clásica 102.5 Guatemala
+https://playerservices.streamtheworld.com/api/livestream-redirect/CLASICA_1065AAC.aac
+#EXTINF:-1,Globo 98.9 Guatemala
+https://playerservices.streamtheworld.com/api/livestream-redirect/GLOBO_989AAC.aac
+#EXTINF:-1,La Red 106.1 Guatemala
+https://playerservices.streamtheworld.com/api/livestream-redirect/LA_REDAAC.aac
+#EXTINF:-1,Mía 93.7 Guatemala
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIAAAC.aac
+#EXTINF:-1, La Top 102.9 FM - San Pedro Sula, Honduras
+https://us9.maindigitalstream.com/ssl/latop102

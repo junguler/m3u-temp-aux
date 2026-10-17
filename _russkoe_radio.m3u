@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1,Русское радио Минск 98.9 FM
 https://stream.rusradio.by:8443/live128
+#EXTINF:-1,Русское радио Нижний Новгород 102.9 FM
+https://online2.gkvr.ru:8000/rusradio_nno_64.aac

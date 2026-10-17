@@ -3,3 +3,5 @@
 https://mediaserviceslive.akamaized.net/hls/live/2038318/rnnsw/masterhq.m3u8
 #EXTINF:-1,ABC Triple J Queensland 20220701
 https://mediaserviceslive.akamaized.net/hls/live/2038347/triplejqld/masterhq.m3u8
+#EXTINF:-1,WCSP 90.1 C-SPAN Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/CSPANRADIO_SC

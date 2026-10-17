@@ -107,3 +107,117 @@ https://live.amperwave.net/direct/alphamidwest-kwmtammp3-ibc2
 https://stream.zeno.fm/st9bhqvgvceuv
 #EXTINF:-1,Northwest Public Broadcasting - Classical and News
 https://nwpb.streamguys1.com/nwprclassical-aac-128-icy
+#EXTINF:-1,TalkRadio.nl
+https://talkradio.streaming.deliver.media/talkradio_mp3_192
+#EXTINF:-1,WABC 770 AM - NewYork, NY
+https://playerservices.streamtheworld.com/api/livestream-redirect/WABCAM.mp3
+#EXTINF:-1,WBHM 90.3 Birmingham, AL
+https://audio.wbhm.org/live.mp3
+#EXTINF:-1,WRSC
+https://ice23.securenetsystems.net/WRSC
+#EXTINF:-1,WTAM 1100 - Cleveland, Ohio
+https://stream.revma.ihrhls.com/zc1749
+#EXTINF:-1,香港新城电台知讯台
+https://1603884249.rsc.cdn77.org/1603884249/index.m3u8
+#EXTINF:-1,A Patras 94.4
+https://netradio.live24.gr/alpha944patra
+#EXTINF:-1,Action 24
+https://push-int.siliconweb.com/actionlive/actiontv/icecast.audio
+#EXTINF:-1,Αλήθεια 95.7
+https://radio.webhosting4u.gr/stream/alithia
+#EXTINF:-1,Antenna Star 103.5
+https://cast5.asurahosting.com/proxy/antenna/stream
+#EXTINF:-1,Αρμονία 103.2
+https://sh.onweb.gr/8500/;
+#EXTINF:-1,Αθήνα 984
+https://athina984.live24.gr/athina984
+#EXTINF:-1,Cafe 102.4
+https://s6.onweb.gr/8046/;
+#EXTINF:-1,Δημοτική Ραδιοφωνία Λάρισας 93.6
+https://sh.onweb.gr/8464/;
+#EXTINF:-1,Δημοτική Ραδιοφωνία Λευκάδας 96.7
+https://cast.magicstreams.gr:9164/stream?type=http&nocache=20
+#EXTINF:-1,Δημοτική Ραδιοφωνία Τρίπολης 91.5
+https://eco.onestreaming.com/proxy/drtice/stream
+#EXTINF:-1,Δημοτικό Ραδιόφωνο Ιωαννίνων 98.7
+https://tls-chrome.live24.gr/365?http://37.157.242.105:31127/stream
+#EXTINF:-1,Δυτικά 92.8
+https://cast5.asurahosting.com/proxy/sinidisi/stream
+#EXTINF:-1,Έκφραση 97
+https://s13.myradiostream.com/:40902/listen.mp3?nocache=1783888159
+#EXTINF:-1,Εν Πλω 89.2
+https://icecast.empneusi.net/enplofm
+#EXTINF:-1,Ermis 91.8
+https://streams.upg.gr/ermis
+#EXTINF:-1,Flash 99.4
+https://netradio.live24.gr/flash994thes
+#EXTINF:-1,FM 100 Δημοτικό Ραδιόφωνο Θεσσαλονίκης
+https://panel.gwebstream.com/stream/fm100skg/stream
+#EXTINF:-1,Focus 99.6
+https://cast.magicstreams.gr:9056/stream
+#EXTINF:-1,FORMedia 99.8
+https://streaming-01.cloudbox.gr/listen/formedia/stream.mp3
+#EXTINF:-1,Iraklis Radio
+https://centova.gr-net.gr/proxy/iraklisradio/stream
+#EXTINF:-1,Κόσμος 93.8
+https://netradio.live24.gr/kosmos938rodos
+#EXTINF:-1,Lamia Polis 87.7
+https://s6.e-resellers.gr/8038/stream
+#EXTINF:-1,Life News 102.9
+https://sh.onweb.gr/8836/stream/
+#EXTINF:-1,Lobby 101.8
+https://neos.win:59480/stream
+#EXTINF:-1,Μάχη 99.8
+https://maxhfm.streams.gr/ic/maxhfm/stream
+#EXTINF:-1,Marconi 96.1
+https://tls-chrome.live24.gr/1901?http://webradio.e-volos.gr:8000/;?type=http&nocache=32
+#EXTINF:-1,Mega News 104.6
+https://nmcdn-ea00263bf2fa4959b1207c5b169d1517.msvdn.net/icecastRelay/S92303783/lih0S0uubyJi/icecast
+#EXTINF:-1,Νεάπολις 90.8
+https://streaming.radioneapolis.gr/listen/radio_neapolis/live
+#EXTINF:-1,Παραπολιτικά Ρεθύμνου 102.4
+https://sc2.streamwithq.com:8026/stream
+#EXTINF:-1,Peloponnisos 104.1
+https://i.streams.ovh/sc/peloponnisosfm/stream
+#EXTINF:-1,Πρίσμα 90.2
+https://sonic.streams.ovh/8014/stream%20?ver=661677
+#EXTINF:-1,Radio Evros
+https://live.radioevros.gr/
+#EXTINF:-1,Ράδιο Γρεβενά 101.5
+https://a8.asurahosting.com:6770/radio.mp3
+#EXTINF:-1,Radio Kos 98 FM
+https://play.streams.gr:22082/stream
+#EXTINF:-1,Ράδιο Σάμος 102
+https://everest.streams.ovh:1855/stream
+#EXTINF:-1,Ρούμελη News 98
+https://radio.webhosting4u.gr/stream/radioroumelinews
+#EXTINF:-1,Samothraki Web Radio
+https://eco.onestreaming.com/proxy/samothraki/stream
+#EXTINF:-1,Sirios 95.8
+https://sp1.19cloudsnetwork.gr/8006/stream
+#EXTINF:-1,Sky Rodos
+https://s6.myradiostream.com:45076/;listen.mp3;audio.mp3?hash=1528711740048
+#EXTINF:-1,Star 93.5
+https://casty.youmix.gr/listen/starfm935/radio
+#EXTINF:-1,Status 107.7
+https://loki.mental-media.gr/proxy/statusf1?mp=/stream:8000/;stream/1
+#EXTINF:-1,Super 104.1
+https://tls-chrome.live24.gr/3310?http://sp.19clouds.net:8068
+#EXTINF:-1,Θήβα 97.5
+https://streaming.sbzsystems.com/proxy/radiothiva/stream/
+#EXTINF:-1,Θέμα 98.7
+https://radio.themapatras.gr/radio
+#EXTINF:-1,Thess 94.5
+https://eu7.fastcast4u.com/proxy/nmarog02?mp=/1
+#EXTINF:-1,TRT 95.1 Larisa
+https://stream.iplayradio.net/proxy/radiotrt/stream
+#EXTINF:-1,Radio AR Bali
+https://live.radioarbali.com:8450/radioar
+#EXTINF:-1,AIR Sasaram
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio075/playlist.m3u8
+#EXTINF:-1,Circle Of White Light Radio
+https://eu4.fastcast4u.com/proxy/cowlradio?mp=/1
+#EXTINF:-1,Clonmellon Community Radio
+https://eu8.fastcast4u.com/proxy/ccr?mp=/1
+#EXTINF:-1,Radio Sahar
+https://live.ecast.co.il/stream/sahar/stream

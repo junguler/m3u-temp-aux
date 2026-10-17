@@ -93,3 +93,23 @@ https://war.streamguys1.com:7785/wuis.mp3
 https://audio-edge-w4d68.yul.o.radiomast.io/5567306a-66f6-4d8f-a399-520e2936e3a0
 #EXTINF:-1,Radio West
 https://liveradio.omroepwest.nl/
+#EXTINF:-1,RTHK Radio 6 央廣香港之聲
+https://rthkradiocnrhk-live.akamaized.net/hls/live/2046111/radiocnrhk/master.m3u8
+#EXTINF:-1,臺北電台AM
+https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/am/playlist.m3u8
+#EXTINF:-1,WABE Classics
+https://playerservices.streamtheworld.com/api/livestream-redirect/WABE_HD2_CLASSICAL.mp3
+#EXTINF:-1,WBSP-FM 90.1 - Maine Public Radio
+https://18183.live.streamtheworld.com/WMEAFM_SC
+#EXTINF:-1,WHQR
+https://whqr.streamguys1.com/whqr_hd1
+#EXTINF:-1,WOSU 89.7 NPR News
+https://wosu.streamguys1.com/NPR_128
+#EXTINF:-1,WRVO 1
+https://playerservices.streamtheworld.com/api/livestream-redirect/WRVOFM.mp3
+#EXTINF:-1,All India Radio Neighbourhood Service 1
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio233/hlspbaudio233_Auto.m3u8
+#EXTINF:-1,VB Telugu Hyderabad
+https://radio.wavespb.com/live/89969ad91f106dde/89969ad91f106dde.m3u8
+#EXTINF:-1,Vividh Bharati Telugu Vijayawada
+https://radio.wavespb.com/live/0beac8e921bbfdbb/0beac8e921bbfdbb.m3u8

@@ -63,3 +63,17 @@ https://streaming.live365.com/a89712
 https://proteusradio.ddns.net:9900/proteus.mp3
 #EXTINF:-1,Radio Santana Breda
 https://server7.radio-streams.net/proxy/santana/stream
+#EXTINF:-1,SomaFM Metal Detector (128k AAC)
+https://ice4.somafm.com/metal-128-aac
+#EXTINF:-1,SomaFM Metal Detector (128k MP3)
+https://ice5.somafm.com/metal-128-mp3
+#EXTINF:-1,SomaFM Metal Detector (32k AAC)
+https://ice4.somafm.com/metal-32-aac
+#EXTINF:-1,SomaFM Metal Detector (64k AAC)
+https://ice2.somafm.com/metal-64-aac
+#EXTINF:-1,Stumble In The Dark Radio
+https://a2.asurahosting.com:6920/radio.mp3
+#EXTINF:-1,Rock and Blues Athens
+https://tls-chrome.live24.gr/3253?http://78.129.132.7:35663/
+#EXTINF:-1,Rock FM 96.9
+https://az10.yesstreaming.net:8060/radio.mp3

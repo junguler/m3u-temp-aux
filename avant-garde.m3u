@@ -7,3 +7,15 @@ https://n10.radiojar.com/vt992kyru72vv
 https://icecast.walmradio.com:8443/jazz
 #EXTINF:-1,Adroit Jazz Underground HD Opus
 https://icecast.walmradio.com:8443/jazz_opus
+#EXTINF:-1,SomaFM Sonic Universe (128k AAC)
+https://ice2.somafm.com/sonicuniverse-128-aac
+#EXTINF:-1,SomaFM Sonic Universe (128k MP3)
+https://ice5.somafm.com/sonicuniverse-128-mp3
+#EXTINF:-1,SomaFM Sonic Universe (32k AAC)
+https://ice2.somafm.com/sonicuniverse-32-aac
+#EXTINF:-1,SomaFM Sonic Universe (64K AAC)
+https://ice6.somafm.com/sonicuniverse-64-aac
+#EXTINF:-1,SomaFM The In-Sound
+https://ice5.somafm.com/insound-128-aac
+#EXTINF:-1,The Tube | NTS
+https://stream-mixtape-geo.ntslive.net/mixtape26

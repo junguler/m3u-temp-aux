@@ -155,3 +155,37 @@ https://streamer.radio.co/sd6131729c/listen
 https://22343.live.streamtheworld.com/RADIO_VASTELAOVEND.aac
 #EXTINF:-1,Radyo Dem
 https://yayin.radyodem.com:8000/
+#EXTINF:-1,rock.irk.ru :: main-mix
+https://live.rock.irk.ru/hls/main-mix/live.m3u8
+#EXTINF:-1,SomaFM ThistleRadio
+https://ice2.somafm.com/thistle-64-aac
+#EXTINF:-1,SomaFM ThistleRadio (128k AAC)
+https://ice6.somafm.com/thistle-128-aac
+#EXTINF:-1,SomaFM ThistleRadio (128k MP3)
+https://ice5.somafm.com/thistle-128-mp3
+#EXTINF:-1,SomaFM ThistleRadio (32k AAC)
+https://ice6.somafm.com/thistle-32-aac
+#EXTINF:-1,SomaFM ThistleRadio (64k AAC)
+https://ice5.somafm.com/thistle-64-aac
+#EXTINF:-1,The Point 91 Fm
+https://securestreams2.autopo.st:1069/WCYT.mp3
+#EXTINF:-1,TRT Turku 98.6
+https://radio-trtturku.live.trt.com.tr/master.m3u8
+#EXTINF:-1,WFMT 98.7
+https://wowza.wfmt.com/live/smil:wfmt.smil/playlist.m3u8
+#EXTINF:-1,WSDL 90.7 Rhythm & News
+https://26153.live.streamtheworld.com/WSDLFM.mp3
+#EXTINF:-1,WXPN 88.5 Philadelphia, PA
+https://wxpnhi.xpn.org/xpnhi
+#EXTINF:-1,WXPN HD2 XPoNential Radio
+https://xpn2hi.xpn.org/xpn2hi
+#EXTINF:-1,XerosRadio
+https://az.streamxerosradio.duckdns.org/radio/8000/xerosradio
+#EXTINF:-1,XPoNential Radio
+https://wxpn.xpn.org/xpomp3hi
+#EXTINF:-1,Sampotaz
+https://eu10.fastcast4u.com/sampotaz
+#EXTINF:-1,Radio Waton Muni
+https://stream.zeno.fm/z2y9glm5bi7uv
+#EXTINF:-1,Radio Armisa
+https://onair.armisa.it/listen/armisa/radio.mp3

@@ -345,3 +345,21 @@ https://n06.rcs.revma.com/srn5f9kmwxhvv
 https://radio.intchoson.com/kcbs/index.m3u8
 #EXTINF:-1,領袖廣播
 https://n14.rcs.revma.com/hpeqh9mkc6hvv
+#EXTINF:-1,神州之聲
+https://satellitepull.cnr.cn/live/wxszzs/playlist.m3u8?wsSession=d966c1f28016a758d88ba0c2-174761731342853&wsIPSercert=270c8446fe14303f2433a2f164ccd9e5
+#EXTINF:-1,台海之聲
+https://satellitepull.cnr.cn/live/wxzhzs/playlist.m3u8?wsSession=c650605f64c6488d38b66982-174761774475052&wsIPSercert=270c8446fe14303f2433a2f164ccd9e5
+#EXTINF:-1,TBS eFM 101.3
+https://cdnefm.tbs.seoul.kr/tbs/_definst_/tbs_efm_web_360.smil/chunklist.m3u8
+#EXTINF:-1,TBS FM 95.1
+https://cdnfm.tbs.seoul.kr/tbs/_definst_/tbs_fm_web_360.smil/chunklist.m3u8
+#EXTINF:-1,WKDM 纽约华语广播国语台
+https://video1.getstreamhosting.com:8292/stream?.mp3
+#EXTINF:-1,WZRC 纽约华语广播粤语台
+https://video1.getstreamhosting.com:8288/stream?.mp3
+#EXTINF:-1,香港電台第八台
+https://rthkradiocmgrgb-live.akamaized.net/hls/live/2046112/radiocmgrgb/index_64_a.m3u8
+#EXTINF:-1,香港電台第六台
+https://rthkradiocnrhk-live.akamaized.net/hls/live/2046111/radiocnrhk/index_64_a.m3u8
+#EXTINF:-1,香港電台第七台 普通话台
+https://rthkradiopth-live.akamaized.net/hls/live/2040082/radiopth/index_64_a.m3u8

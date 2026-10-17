@@ -125,3 +125,53 @@ https://stream.revma.ihrhls.com/zc5130/hls.m3u8
 https://maxradio.azuracast.com.es:8000/CAFELEPA.mp3
 #EXTINF:-1,Radio ROKS (Moldova) - New Rock
 https://radio6.dixi.md/listen/new_rock/new_rock128.aac
+#EXTINF:-1,Rock Nation
+https://stream.revma.ihrhls.com/zc4443/hls.m3u8
+#EXTINF:-1,Rockin' the Suburbs Radio
+https://streaming.radio.co/sca22d43b1/listen
+#EXTINF:-1,SomaFM Digitalis (128k AAC)
+https://ice6.somafm.com/digitalis-128-aac
+#EXTINF:-1,SomaFM Digitalis (128k MP3)
+https://ice5.somafm.com/digitalis-128-mp3
+#EXTINF:-1,SomaFM Digitalis (256k MP3)
+https://ice2.somafm.com/digitalis-256-mp3
+#EXTINF:-1,U2 - ZOO Station Radio
+https://eu2.fastcast4u.com/proxy/exitinte?mp=/;
+#EXTINF:-1,WBER 90.5 FM
+https://radio.monroe.edu/wber.mp3
+#EXTINF:-1,WKNH Keene
+https://streams.radio.co/sa460c8a9d/listen
+#EXTINF:-1,WMSC 90.3 Montclair University - Upper Montclair, NJ
+https://peridot.streamguys1.com:5485/live-mp3
+#EXTINF:-1,WRRV
+https://prod-3-89-124-117.amperwave.net/townsquare-wrrvfmaac-hlsc3.m3u8/?source=v7player&user-id=40d7e6c1624508c6f53a06a607a33cc6&gpp=DBABLA%7EBVQqAAAACWA.QA&t_partner_ids=eyJ0cml0b24tdWlkIjoiY29va2llOjlmNWM5YjdiLTllYWEtNDAzNy1iMWYyLWZlZmRlYjZiZTI3MCJ9&z=afec368d0251468595d2c6915408b6da&p=1
+#EXTINF:-1,Zaycev.FM NewRock
+https://abs.zaycev.fm/rock128k
+#EXTINF:-1,Athens Noise Rocks
+https://radio.athensnoise.rocks/listen/athensnoise.rocks/radio.mp3
+#EXTINF:-1,Legend FM 88.6
+https://stream.radiojar.com/gphtvb4env5tv
+#EXTINF:-1,Nitro Radio
+https://politisradios.live24.gr/streameenitro
+#EXTINF:-1,Oxygen Web Radio
+https://i8.streams.ovh:18039/stream
+#EXTINF:-1,Rock FM 96.9
+https://az10.yesstreaming.net:8060/radio.mp3
+#EXTINF:-1,Zeppelin 106.7
+https://radiostreaming.ert.gr/ert-zeppelin
+#EXTINF:-1,Droid Radio
+https://s41.radiolize.com/radio/8140/radio.mp3
+#EXTINF:-1,Radio Sahar
+https://live.ecast.co.il/stream/sahar/stream
+#EXTINF:-1,Deejay Tropical Pizza
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaytropicalpizza/playlist.m3u8
+#EXTINF:-1,Media Radio Castellana
+https://mrc.00gate.com/
+#EXTINF:-1,Milano XR
+https://milanoxr.gatesweb.info:8443/live
+#EXTINF:-1,Radio Antenna Uno Rock Station
+https://sr11.inmystream.it/proxy/associa9?mp=/stream
+#EXTINF:-1,Radio Capital Classic Rock
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/capitalclassicrock/playlist.m3u8
+#EXTINF:-1,Radio Easy Rock
+https://sphera.fluidstream.eu/easyrock.aac

@@ -63,3 +63,7 @@ https://streaming.positivity.radio/pr/spa/icecast.audio
 https://streaming.positivity.radio/pr/uplifting/icecast.audio
 #EXTINF:-1,Positively Vibe -om
 https://nl4.mystreaming.net/pr/posivibe/icecast.audio
+#EXTINF:-1,Ianos Radio
+https://radio.streamings.gr/proxy/feelmusic2021?mp=/stream
+#EXTINF:-1,Melodies Web Radio
+https://i.streams.ovh/sc/melodies/stream

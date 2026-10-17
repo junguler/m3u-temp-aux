@@ -25,3 +25,9 @@ https://edge-audio-01-cr.sharp-stream.com/ssvcbfbs5.mp3
 https://streaming.nrjaudio.fm/ou2n2epw5hs7
 #EXTINF:-1,NRJ Hits
 https://streaming.nrjaudio.fm/oufdfatx4thg
+#EXTINF:-1,RTL -  Deutschlands Hit-Radio
+https://stream.rtlradio.de/rtl-de-national/mp3-128/surfmusikDE/
+#EXTINF:-1,SR 1
+https://liveradio.sr.de/sr/sr1/mp3/128/stream.mp3?aggregator=surfmusik-de
+#EXTINF:-1,WDR 2 Muensterland
+https://wdr-wdr2-muensterland.icecast.wdr.de/wdr/wdr2/muensterland/mp3/128/stream.mp3?aggregator=surfmusik-de

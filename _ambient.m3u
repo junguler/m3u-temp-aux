@@ -55,3 +55,15 @@ https://mugenradio.com/hls/live.m3u8
 https://stream.radiaura.net/station-12a6e82e-a8f1-4cc6-8c37-80d73b0582e2
 #EXTINF:-1,Radio Relativa
 https://streamer.radio.co/sd6131729c/listen
+#EXTINF:-1,Seyra Lounge — Signal City
+https://signalcity.tv/radio/seyra.mp3
+#EXTINF:-1,Signal City — Seyra Lounge
+https://signalcity.tv/seyra.mp3
+#EXTINF:-1,Smooth FM
+https://stream-hls.bauermedia.pt/smooth.aac/playlist.m3u8
+#EXTINF:-1,Untidy Radio
+https://das-edge17-live365-dal02.cdnstream.com/a14325
+#EXTINF:-1,OFFradio (320)
+https://s7.yesstreaming.net/stream/8000
+#EXTINF:-1,NEU RADIO
+https://nr9.newradio.it/proxy/ebaruffa?mp=/stream

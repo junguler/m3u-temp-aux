@@ -207,3 +207,15 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KWKWAMAAC.aac
 https://cast10.plugstreaming.com:2020/stream/planetafm/;
 #EXTINF:-1,Radio Dinámica 1490 AM
 https://guri.tepuyserver.net/8040/stream
+#EXTINF:-1,Rumba 100.1 Barquisimeto FM
+https://cast10.plugstreaming.com:2020/stream/r1001/;
+#EXTINF:-1,Rumba 104.9 Anzoategui FM
+https://cast10.plugstreaming.com:2020/stream/r1049/;
+#EXTINF:-1,Rumba 98.1 FM
+https://cast20.plugstreaming.com:2020/stream/r981/;
+#EXTINF:-1,Studio 102.7 FM
+https://stream.zeno.fm/um833nab8tzuv
+#EXTINF:-1,Emisoras Unidas 91.1 FM
+https://stream.zeno.fm/3tfg0vng9ueuv
+#EXTINF:-1,La Red 106.1 Guatemala
+https://playerservices.streamtheworld.com/api/livestream-redirect/LA_REDAAC.aac

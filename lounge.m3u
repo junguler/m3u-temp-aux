@@ -21,3 +21,11 @@ https://stream.klassikradio.de/lounge/mp3-192/surfmusik
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHSONFM_SC
 #EXTINF:-1,Radio Art Vocal Lounge
 https://live.radioart.com/fVocal_lounge.mp3
+#EXTINF:-1,SomaFM Secret Agent (128 AAC)
+https://ice5.somafm.com/secretagent-128-aac
+#EXTINF:-1,Citizen 
+https://sp3.streams.ovh/8082/;
+#EXTINF:-1,Radio Art - Aloha
+https://live.radioart.com/fAloha.mp3
+#EXTINF:-1,lifegate
+https://stream2.xdevel.com/audio0s975809-423/stream/icecast.audio

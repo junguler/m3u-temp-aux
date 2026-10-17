@@ -9,3 +9,7 @@ https://mp3.rtvslo.si/rsi
 https://evcast.mediacp.eu:1480/stream
 #EXTINF:-1,Radio Veseljak: Petkova Pumpa
 https://live.radio.si/VeseljakPumpa
+#EXTINF:-1,RTVSLO Muravidéki Magyar Rádió (MMR)
+https://mp3.rtvslo.si/mmr
+#EXTINF:-1,Val 202 (Radio Slovenija 2)
+https://mp3.rtvslo.si/val202

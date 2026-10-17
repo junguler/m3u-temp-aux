@@ -31,3 +31,5 @@ https://stream.revma.ihrhls.com/zc3201/hls.m3u8
 https://stream.revma.ihrhls.com/zc7959/hls.m3u8
 #EXTINF:-1, NOTICIAS Y DEPORTES 1330 (Los Ángeles) - 1330 AM - KWKW - Lotus Communications - Los Ángeles, California, EUA
 https://playerservices.streamtheworld.com/api/livestream-redirect/KWKWAMAAC.aac
+#EXTINF:-1,La Red 106.1 Guatemala
+https://playerservices.streamtheworld.com/api/livestream-redirect/LA_REDAAC.aac

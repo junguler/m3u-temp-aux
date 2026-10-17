@@ -15,3 +15,5 @@ https://server-67.stream-server.nl:8734/
 https://ams-pioneer02.dedicateware.com:1735/stream
 #EXTINF:-1,Radio Noordzee
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR17.mp3
+#EXTINF:-1,RTV Hollands Midden
+https://securestream2.digipal.nl:1805/stream

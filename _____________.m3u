@@ -43,3 +43,15 @@ https://icecast-mirtv.cdnvideo.ru/radio_mir4_256
 https://seva.ru/radio/stream
 #EXTINF:-1,RadioGora Groove Cafe
 https://listen.radiogora.ru:8443/groovecafe320
+#EXTINF:-1,СПРАВЕДЛИВАЯ РОССИЯ
+https://spravedlivo.hostingradio.ru:8022/spravedlivo128.mp3
+#EXTINF:-1,СПРАВЕДЛИВАЯ РОССИЯ
+https://spravedlivo.hostingradio.ru:8022/spravedlivo128.mp3
+#EXTINF:-1,UCTV - University of California
+https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
+#EXTINF:-1,За!Радио (Мелитополь)
+https://listen9.myradio24.com/86040
+#EXTINF:-1,Звезда
+https://icecast-zvezda.mediacdn.ru/radio/zvezda/zvezda_128
+#EXTINF:-1,Al-bilad Radio/Yaqoubi
+https://streamer.radio.co/sb38bf6e66/listen

@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1,Fed's Trap Radio
 https://backend.fedstrapradio.com:8000/radio.mp3
+#EXTINF:-1,RauteMusik BASS
+https://rautemusik-de-hz-fal-stream15.radiohost.de/rm-bass_mp3-192?ref=radiobrowser&listenerrmid=31363430313039323336-323030313a313966303a363830313a313964373a353430303a3266663a666537313a62646237-3532363132-53747265616d436865636b426f742f302e312e30
+#EXTINF:-1,TRAP RADIO TRAP.radio
+https://trapradio.streamingmedia.it/play

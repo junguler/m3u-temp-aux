@@ -7,3 +7,13 @@ https://stream.radiofrance.fr/franceculture/franceculture.m3u8?id=radiofranceBos
 https://streaming.live365.com/a68303
 #EXTINF:-1,Radio England - Pumpkin FM
 https://cast2.asurahosting.com/proxy/radioengland/stream
+#EXTINF:-1,ROKit Radio : Classic Old Time Radio Shows
+https://streaming04.liveboxstream.uk/proxy/roksta18/stream
+#EXTINF:-1,ROKit Radio Science Fiction
+https://streaming05.liveboxstream.uk/proxy/roksta12/stream
+#EXTINF:-1,Signal City — Narratus Mythic
+https://signalcity.tv/mythic.mp3
+#EXTINF:-1,WALM - Old Time Radio
+https://icecast.walmradio.com:8443/otr
+#EXTINF:-1,WALM - Old Time Radio Opus
+https://icecast.walmradio.com:8443/otr_opus

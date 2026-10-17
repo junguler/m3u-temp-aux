@@ -21,3 +21,21 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/GNR.mp3
 https://klvv-praise.streamguys1.com/Praise128kAAC
 #EXTINF:-1,KCOZ
 https://ice23.securenetsystems.net/KCOZ
+#EXTINF:-1,Revival FM
+https://stream.wildfm.nl/RevivalFM
+#EXTINF:-1,WALM 2 HD
+https://icecast.walmradio.com:8443/walm2
+#EXTINF:-1,WALM 2 HD Opus
+https://icecast.walmradio.com:8443/walm2_opus
+#EXTINF:-1,WALM HD
+https://icecast.walmradio.com:8443/walm
+#EXTINF:-1,WALM HD Opus
+https://icecast.walmradio.com:8443/walm_opus
+#EXTINF:-1,WBNH 88.5 FM Good News Radio
+https://20603.live.streamtheworld.com/WBNHFM.mp3
+#EXTINF:-1,WLRD 96.9 FM Today's Southern Gospel Music
+https://ice8.securenetsystems.net/WLRD
+#EXTINF:-1,WVYN 90.9/105.5 The Vine Mt. Vernoin IL
+https://ais-sa1.streamon.fm/7804_96k.aac/playlist.m3u8
+#EXTINF:-1,Actitud 100.9
+https://ss.redradios.net:8002/stream?type=.mp3

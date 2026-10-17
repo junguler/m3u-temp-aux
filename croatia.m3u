@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,Banovina Light
+https://audio.radio-banovina.hr:7008/stream
+#EXTINF:-1,dvb.digital
+https://radio.dvb.digital/listen/dvb.digital/hq.mp3
+#EXTINF:-1,Narodni Radio Goga
+https://cmr-hosting.com:7013/;
+#EXTINF:-1,Otvoreni LIVE
+https://stream.otvoreni.hr/stream48
+#EXTINF:-1,Radio Baranja
+https://s8.iqstreaming.com:2020/stream/radio_baranja/stream
+#EXTINF:-1,Radio Max
+https://azuracast.novi-net.net/radio/8010/radiomax.aac
+#EXTINF:-1,Zagorski radio
+https://s8.iqstreaming.com:2020/stream/zagorski/stream

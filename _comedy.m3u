@@ -29,3 +29,9 @@ https://listen.noagendastream.com/noagenda
 https://signalcity.tv/radio/pete.mp3
 #EXTINF:-1,Radio England - Pumpkin FM
 https://cast2.asurahosting.com/proxy/radioengland/stream
+#EXTINF:-1,SexFM
+https://api.potat.bot/api/hls/live.m3u8
+#EXTINF:-1,WALM - Old Time Radio
+https://icecast.walmradio.com:8443/otr
+#EXTINF:-1,WALM - Old Time Radio Opus
+https://icecast.walmradio.com:8443/otr_opus

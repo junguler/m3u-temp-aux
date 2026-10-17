@@ -7,3 +7,7 @@ https://as-hls-ww-live.akamaized.net/pool_41858929/live/ww/bbc_radio_bristol/bbc
 https://kalw-live.streamguys1.com/kalw
 #EXTINF:-1,KUER 90.1 HD2 BBC World Service
 https://kuer.streamguys1.com/kuer2low_icy
+#EXTINF:-1,WPLN AM 1430 Nashville Public Radio, TN
+https://wpln.streamguys1.com/wplnam.mp3
+#EXTINF:-1,WRVO-3 BBC World Service Stream
+https://playerservices.streamtheworld.com/api/livestream-redirect/WRVOHD3_SC

@@ -87,3 +87,29 @@ https://eu6.fastcast4u.com/proxy/pnd?mp=/stream
 https://mtl9.hnux.com/144.217.233.87:8166
 #EXTINF:-1,Radio Rekord Gop FM
 https://hls-01-radiorecord.hostingradio.ru/record-gop/playlist.m3u8
+#EXTINF:-1,Scream Radio
+https://stream.zeno.fm/c3z135w8zxhvv.mp3
+#EXTINF:-1,Scream Radio
+https://stream.zeno.fm/us9zu5w8zxhvv
+#EXTINF:-1,Selecta Radio UK
+https://streaming.live365.com/a40232
+#EXTINF:-1,Slack Radio
+https://s4.radio.co/s62c60f538/listen
+#EXTINF:-1,SomaFM Metal Detector
+https://ice2.somafm.com/metal-32-aac
+#EXTINF:-1,Substrate Radio
+https://cast4.asurahosting.com/proxy/jason126/stream
+#EXTINF:-1,T and J's Radio (HQ MP3)
+https://radio.tandj-homelab.dev/listen/t_and_js_radio/HQradio.mp3
+#EXTINF:-1,Teenage Kicks Radio
+https://onlineradiobox.com/json/fr/teenagekicks/play
+#EXTINF:-1,WAWL @ Chattanooga State
+https://s32.myradiostream.com/9204/listen.mp3
+#EXTINF:-1,105FM
+https://105fm.espiv.net/listen/105fm/stream.mp3
+#EXTINF:-1,1431AM
+https://www.1431am.org:8001/1431high
+#EXTINF:-1,Iraklis Radio
+https://centova.gr-net.gr/proxy/iraklisradio/stream
+#EXTINF:-1,Ze Rock Radio
+https://icecast.live/proxy/zerock/zerock

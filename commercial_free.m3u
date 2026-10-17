@@ -9,3 +9,9 @@ https://stream.srg-ssr.ch/m/regi_gr/aacp_96
 https://stream.srg-ssr.ch/m/regi_ost/aacp_32
 #EXTINF:-1,Radio SRF 1 Zentralschweiz | 32k AAC+
 https://stream.srg-ssr.ch/m/regi_zentr/aacp_32
+#EXTINF:-1,Simulator Radio
+https://simulatorradio.stream/stream.mp3
+#EXTINF:-1,Takoma Radio WOWD-LP 94.3 FM
+https://wowd.broadcasttool.stream/stream
+#EXTINF:-1,WOUB-FM Jazz Stream
+https://playerservices.streamtheworld.com/api/livestream-redirect/ALLTHISJAZZ.mp3

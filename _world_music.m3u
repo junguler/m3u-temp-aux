@@ -143,3 +143,35 @@ https://stream.radioparadise.com/world-etc-320
 https://stream.radioparadise.com/world-etc-64
 #EXTINF:-1,Radio Paradise World/Etc Mix FLAC
 https://stream.radioparadise.com/world-etc-flac
+#EXTINF:-1,SomaFM Black Rock FM (32k)
+https://ice5.somafm.com/brfm-32-aac
+#EXTINF:-1,SomaFM Black Rock FM (64k)
+https://ice5.somafm.com/brfm-64-aac
+#EXTINF:-1,SZR 城市 FM 97.1 Macau - HD2
+https://stream-hls.bauermedia.pt/cidade.aac/playlist.m3u8
+#EXTINF:-1,TROY.FM
+https://s2.free-shoutcast.com/stream/18014
+#EXTINF:-1,WKCR 89.9 Columbia New York NY
+https://wkcr.streamguys1.com/live
+#EXTINF:-1,World Music Radio - Italy
+https://nl4.mystreaming.net/er/italy/icecast.audio
+#EXTINF:-1,World Music Radio - J-Pop
+https://streaming.exclusive.radio/er/jpop/icecast.audio
+#EXTINF:-1,World Music Radio - K-Pop
+https://streaming.exclusive.radio/er/kpop/icecast.audio
+#EXTINF:-1,Worldwide FM
+https://worldwide-fm.radiocult.fm/stream
+#EXTINF:-1,WVTF Music
+https://wvtf.streamguys1.com/wvtf-edge/wvtfmusic-aac-128/icecast.audio
+#EXTINF:-1,OFFradio (320)
+https://s7.yesstreaming.net/stream/8000
+#EXTINF:-1,RadioActive
+https://streamyourdream.org:8050/radioactive
+#EXTINF:-1,Radio Korzo
+https://c2.hostingcentar.com/streams/radiokorzo/stream
+#EXTINF:-1,Tranzistor
+https://ec2s.crolive.com.hr/tranzistor
+#EXTINF:-1,Globus Radio Station
+https://ns3156088.ip-51-89-96.eu:2000/stream/GlobusRadioStation/stream
+#EXTINF:-1,Radio Omega Sound
+https://nr9.newradio.it/proxy/radioome?mp=/stream

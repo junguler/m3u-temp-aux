@@ -31,3 +31,7 @@ https://streaming.hotmixradio.com/hotmix-medina-en-mp3?provider=radiobrowser
 https://admn-radio-cdn-lb.starzplayarabia.com/out/v1/admn_radio_enc/abudhabi_fm/abudhabi_fm_hls_nd/index.m3u8
 #EXTINF:-1,Emarat fm
 https://admn-radio-cdn-lb.starzplayarabia.com/out/v1/admn_radio_enc/emarat_fm/emarat_fm_hls_nd/index.m3u8
+#EXTINF:-1,Al rasheed fm
+https://streaming.shoutcast.com/alrasheed-fm?1719771692024
+#EXTINF:-1,Al rasheed fm )Kirkuk)
+https://streaming.shoutcast.com/alrasheed-kirkuk

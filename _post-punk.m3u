@@ -21,3 +21,21 @@ https://stream3.radiogoose.ru/listen/rock/play
 https://stream1.radiogoose.ru/listen/rus/play
 #EXTINF:-1,Radio 94.4 - The Temecula Valley's Only Alternative
 https://stream.revma.ihrhls.com/zc333/hls.m3u8
+#EXTINF:-1,SomaFM BAGeL
+https://ais-sa3.cdnstream1.com/2606_128.mp3
+#EXTINF:-1,SomaFM Metal Detector (128k AAC)
+https://ice4.somafm.com/metal-128-aac
+#EXTINF:-1,SomaFM Metal Detector (128k MP3)
+https://ice5.somafm.com/metal-128-mp3
+#EXTINF:-1,SomaFM Metal Detector (32k AAC)
+https://ice4.somafm.com/metal-32-aac
+#EXTINF:-1,SomaFM Metal Detector (64k AAC)
+https://ice2.somafm.com/metal-64-aac
+#EXTINF:-1,The Tube | NTS
+https://stream-mixtape-geo.ntslive.net/mixtape26
+#EXTINF:-1,105FM
+https://105fm.espiv.net/listen/105fm/stream.mp3
+#EXTINF:-1,1431AM
+https://www.1431am.org:8001/1431high
+#EXTINF:-1,NEU RADIO
+https://nr9.newradio.it/proxy/ebaruffa?mp=/stream

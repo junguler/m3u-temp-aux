@@ -21,3 +21,17 @@ https://nl4.mystreaming.net/pr/sleepclassical/icecast.audio
 https://streaming.positivity.radio/pr/sleepkids/icecast.audio
 #EXTINF:-1,Positively Sleep Max Richter -om
 https://streaming.positivity.radio/pr/maxrichter/icecast.audio
+#EXTINF:-1,SomaFM Groove Salad (128k MP3)
+https://ice5.somafm.com/groovesalad-128-mp3
+#EXTINF:-1,SomaFM Groove Salad (16k AAC)
+https://ice1.somafm.com/groovesalad-16-aac
+#EXTINF:-1,SomaFM Groove Salad (64k AAC)
+https://ice2.somafm.com/groovesalad-64-aac
+#EXTINF:-1,SomaFM Groove Salad (HLS FLAC)
+https://hls.somafm.com/hls/groovesalad/FLAC/program.m3u8
+#EXTINF:-1,Radio Art - Baby Sleep
+https://air.radioart.online/fBaby_sleep.mp3
+#EXTINF:-1,Radio Art - Guitar for Sleep
+https://air.radioart.online/fGuitar_for_sleep.mp3
+#EXTINF:-1,NATURE RADIO SLEEP
+https://az1.mediacp.eu/listen/natureradiosleep/radio.mp3

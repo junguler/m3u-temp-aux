@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1,Radio GLAGOL - Радио Глагол
 https://radio.glagol-radio.ru:8443/radio
+#EXTINF:-1,Русское радио Волоколамск 88.0 FM
+https://control1.craftradio.ru:8000/163_67f34ca9

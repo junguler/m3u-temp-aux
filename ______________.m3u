@@ -3,3 +3,13 @@
 https://rfe-ingest.akamaized.net/hls/live/2035254/axia04/playlist.m3u8
 #EXTINF:-1,Несуществующая Радиостанция
 https://admin.87bpm.com:8000/radio320.mp3
+#EXTINF:-1,Relax FM Музыка для малышей
+https://pub0201.101.ru:8443/stream/trust/mp3/128/462?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXkiOiIzMzYyNmZhNzg3YjczNjRkNmU1ZDczOWRlNDA5NjUxYiIsIklQIjoiMTc4LjE3OC4yMDQuMjUxIiwiVUEiOiJNb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgMTM7IE0yMTAxSzZHIEJ1aWxkL1RLUTEuMjIxMDEzLjAwMikgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgIENocm9tZS8xMjcuMC42NTMzLjEwMyBNb2JpbGUgU2FmYXJpLzUzNy4zNiIsIlJlZiI6Imh0dHBzOi8vcmVsYXgtZm0ucnUvIiwidWlkX2NoYW5uZWwiOiI0NjIiLCJ0eXBlX2NoYW5uZWwiOiJjaGFubmVsIiwidHlwZURldmljZSI6InBob25lIiwiRGV2aWNlIjoiTTIxMDFLNkcgQnVpbGQiLCJCcm93c2VyIjoiQ2hyb21lIiwiU3lzdGVtIjoiQW5kcm9pZCIsImV4cCI6MTcyNTQyODczMH0.EURFBIhL630q3Re49_21sANAIzh46l9iAbyAxGncq7o
+#EXTINF:-1,REVOLUTION Radio
+https://revolutionradio.ru:8443/live.mp3
+#EXTINF:-1,Соня
+https://rr-sonya.hostingradio.ru/sonya96.aacp
+#EXTINF:-1,Wow Русское
+https://stream.vyshka24.ru/wowrusskoe
+#EXTINF:-1,Ορθοδοξία Άγιος Παϊσιος
+https://rasp35.ddnsfree.com:3535/pss

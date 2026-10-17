@@ -5,3 +5,11 @@ https://streaming1.locucionar.com/proxy/radiochubut?mp=/stream
 https://servidor13.brlogic.com:7262/live
 #EXTINF:-1,Cadena SER - Radio Vigo
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_VIGO.mp3
+#EXTINF:-1,WABC 770 AM - NewYork, NY
+https://playerservices.streamtheworld.com/api/livestream-redirect/WABCAM.mp3
+#EXTINF:-1,WJOB 1230 AM - 104.7 FM Hammond, IN
+https://streaming.live365.com/a48145
+#EXTINF:-1,Fm Rainbow Delhi
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio00464kbps.m3u8
+#EXTINF:-1,Circle Of White Light Radio
+https://eu4.fastcast4u.com/proxy/cowlradio?mp=/1

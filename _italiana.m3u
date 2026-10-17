@@ -1,3 +1,9 @@
 #EXTM3U
 #EXTINF:-1,Italiana FM
 https://online.radioplayer.ua/RadioItaliana
+#EXTINF:-1,Radio Armisa
+https://onair.armisa.it/listen/armisa/radio.mp3
+#EXTINF:-1,Radio Gemini Iternational
+https://radio.rsi-tv.eu/listen/radio_gemini_international/radio.mp3
+#EXTINF:-1,Radio Italysongs International
+https://radio.rsi-tv.eu/listen/radio_italysongs_international/radio.mp3

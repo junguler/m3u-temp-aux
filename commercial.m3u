@@ -13,3 +13,7 @@ https://streaming.soniic.co.uk:8020/stream_hi?rp_source=1&=&&___cb=1826055943096
 https://ice23.securenetsystems.net/KAYL
 #EXTINF:-1,KMEZ Old School 106.7
 https://playerservices.streamtheworld.com/api/livestream-redirect/KMEZFMAAC_SC
+#EXTINF:-1,Klubrádió
+https://hu-stream03.klubradio.hu:8443/bpstream
+#EXTINF:-1,Radio M2O
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/master_ma.m3u8

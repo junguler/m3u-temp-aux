@@ -11,3 +11,11 @@ https://icecast.walmradio.com:8443/jazz_opus
 https://nl4.mystreaming.net/er/santana/icecast.audio
 #EXTINF:-1,Just Music Radio
 https://radiostream.neotel.mk/justmusicradio
+#EXTINF:-1,The Source:Smooth Jazz Radio - KJAC.DB
+https://icy.cloudrad.io/e0c20233
+#EXTINF:-1,1st Greek Jazz FLAC Radio
+https://stream.newageradio.gr/listen/jazz/radio.mp3
+#EXTINF:-1,1st Greek Jazz FLAC Radio AAC+
+https://stream.newageradio.gr/listen/jazz/radio.aac
+#EXTINF:-1,1st Greek Jazz FLAC Radio Lossless
+https://stream.newageradio.gr/listen/jazz/radio.flac

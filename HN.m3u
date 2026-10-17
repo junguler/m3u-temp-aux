@@ -7,3 +7,11 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/AMERICA_SC
 https://playerservices.streamtheworld.com/api/livestream-redirect/MODERNAAAC_SC
 #EXTINF:-1,Radio XY 90.5 FM
 https://ice42.securenetsystems.net/XY905
+#EXTINF:-1,Stereo Ceiba 99.9 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_CEIBAAAC_SC
+#EXTINF:-1,Stereo Éxitos 88.1 FM
+https://ice42.securenetsystems.net/EXITOS
+#EXTINF:-1,Suave 102.5 FM
+https://ice42.securenetsystems.net/SUAVE
+#EXTINF:-1,Super 100 100.1 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER100_SC

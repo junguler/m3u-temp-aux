@@ -9,3 +9,15 @@ https://laradio.souslacerise.fr/radio.m3u8
 https://streaming.live365.com/a78246
 #EXTINF:-1,RadioNL kids
 https://stream.radionlkids.nl/rnlkids
+#EXTINF:-1,Arion Kids
+https://ice2.onestreaming.com/arionkids
+#EXTINF:-1,Polis 91.1 HeyKids Παιδικά
+https://s2.e-resellers.gr/proxy/poliskids/stream/;
+#EXTINF:-1,Oxygen Kids
+https://oxygenmusic.hu:8443/oxygenkids
+#EXTINF:-1,Onic Kids
+https://live.onic.ie/stream-kids?_=661229
+#EXTINF:-1,Radios 100FM - 100% Kids
+https://gb25.streamgates.net/radios-audio/100Kids/icecast.audio
+#EXTINF:-1,Radios 100FM - 100% Stars (ערוץ הכוכבים)
+https://gb25.streamgates.net/radios-audio/100Stars/icecast.audio

@@ -47,3 +47,7 @@ https://stream1.srvnetplus.com:18000/;?1750274814162
 https://server1.tnt.ba/proxy/tntsa?mp=/stream1
 #EXTINF:-1,Radio Visegrad 104.0
 https://usa7.fastcast4u.com/proxy/radiovgd?mp=/1
+#EXTINF:-1,SBS Radio 2 93.3
+https://sbs-hls.streamguys1.com/hls/sbs2/playlist.m3u8
+#EXTINF:-1,SBS Radio 3
+https://sbs-hls.streamguys1.com/hls/sbs3/playlist.m3u8

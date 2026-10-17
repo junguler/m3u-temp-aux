@@ -23,3 +23,13 @@ https://stream.montezpress.com/icecast/reading-and-poetry-the-sounded-word
 https://cdn280.ccdntech.com/live-http/_definst_/vod280_Live/needs/chunklist.m3u8
 #EXTINF:-1,Radio LEAR
 https://icecast.maxxwave.co.uk/lear
+#EXTINF:-1,Recent | Montez Press Radio
+https://stream.montezpress.com/icecast/recent
+#EXTINF:-1,Riverside Radio
+https://streaming04.liveboxstream.uk/proxy/mtunstil?mp=/stream
+#EXTINF:-1,WYXR
+https://crosstown.streamguys1.com:80/live
+#EXTINF:-1,WZBC 
+https://stream.wzbc.org/wzbc
+#EXTINF:-1,Radio Art - Broadway
+https://air.radioart.online/fBroadway.mp3

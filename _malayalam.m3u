@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1,Radio Mattoli
 https://fps5.listen2myradio.com:2199/listen.php?ip=78.129.139.48&port=8432&type=s1
+#EXTINF:-1,Kancheeravam Radio
+https://radiosavre.com:8020/radio.mp3
+#EXTINF:-1,Radio Digital Malayali
+https://radio.digitalmalayali.in/listen/stream/radio.mp3

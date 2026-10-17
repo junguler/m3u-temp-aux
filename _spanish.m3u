@@ -31,3 +31,7 @@ https://radioserver11.profesionalhosting.com/proxy/pkg131317?mp=/stream
 https://usa17.fastcast4u.com/proxy/fiestafm?mp=/1
 #EXTINF:-1,Radio Galega 96.2
 https://crtvg-radiogalega-hls.flumotion.cloud/playlist_dvr.m3u8
+#EXTINF:-1,SuperTrova
+https://radio.supertrova.com/listen/supertrova/radio.mp3
+#EXTINF:-1,כאן רקע Kan Reka
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_reka/live.livx/playlist.m3u8?renditions

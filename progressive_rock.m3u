@@ -13,3 +13,5 @@ https://streaming.exclusive.radio/er-app/pinkfloydhits/icecast.audio
 https://2.mystreaming.net/er-app/rush/icecast.audio
 #EXTINF:-1,Progzilla_Radio
 https://radio.progzilla.com/main
+#EXTINF:-1,rockfm.ru progressive
+https://jfm1.hostingradio.ru:14536/prog.mp3

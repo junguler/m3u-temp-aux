@@ -25,3 +25,9 @@ https://stream.zeno.fm/1qhuwrman5zuv?rj-ttl=5&rj-tok=AAABfdsrhisAe-IrMGxKqkeFMQ
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEJP_AMAAC.aac
 #EXTINF:-1,Radio FM-103 - 103.5
 https://radio.radiord.net/8008/;
+#EXTINF:-1,RauteMusik KRASSE WEIHNACHTEN
+https://rautemusik-de-hz-fal-stream15.radiohost.de/weihnachten?ref=radiobrowser&listenerrmid=31363430313132333035-323030313a313966303a353030313a333261343a353430303a3266663a666533373a37356332-3337343730-53747265616d436865636b426f742f302e312e30
+#EXTINF:-1,RauteMusik THE CHRISTMAS CHANNEL
+https://rautemusik-de-hz-fal-stream14.radiohost.de/christmas?ref=radiobrowser&listenerrmid=31363430303536303333-323030313a313966303a353030313a333261343a353430303a3266663a666533373a37356332-3535303632-53747265616d436865636b426f742f302e312e30
+#EXTINF:-1,Top Balada Radio
+https://radio.dominiserver.com/proxy/topbaladaradio?mp=/stream

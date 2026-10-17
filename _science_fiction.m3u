@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,RetroStrange Radio1
+https://icecast.retrostrange.com:8443/retrostrange-radio1-mp3
+#EXTINF:-1,ROKit Radio : Saturn-X Radio Shows
+https://streaming05.liveboxstream.uk/proxy/jondre03/stream
+#EXTINF:-1,ROKit Radio Science Fiction
+https://streaming05.liveboxstream.uk/proxy/roksta12/stream
+#EXTINF:-1,SomaFM SF in SF
+https://ice5.somafm.com/sfinsf-128-mp3
+#EXTINF:-1,Strange Radio - Pumpkin FM
+https://cast2.asurahosting.com/proxy/strangeradio/stream
+#EXTINF:-1,The Indie Beat Radio - Spoken Word Channel
+https://azura.theindiebeat.fm/listen/the_indie_beat_radio_-_spoken/radio.mp3

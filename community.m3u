@@ -83,3 +83,11 @@ https://s32.myradiostream.com/18756/listen.mp3
 https://s1.reliastream.com/proxy/polskieradio?mp=/stream
 #EXTINF:-1,Radio Mattoli
 https://fps5.listen2myradio.com:2199/listen.php?ip=78.129.139.48&port=8432&type=s1
+#EXTINF:-1,Sunny G Community Radio
+https://streaming06.liveboxstream.uk/proxy/gary1?mp=/stream
+#EXTINF:-1,WRIR-LP 97.3 Richmond Independent Radio
+https://live.wrir.org/
+#EXTINF:-1,WRLT 100.1 Lightning 100
+https://playerservices.streamtheworld.com/api/livestream-redirect/WRLTFM_SC
+#EXTINF:-1,XK 107.9 FM
+https://23543.live.streamtheworld.com/XKFMAAC_SC

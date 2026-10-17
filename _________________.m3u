@@ -9,3 +9,9 @@ https://qurango.net/radio/tarateel
 https://wl.tvrain.tv/transcode/ses_audio_only/playlist.m3u8
 #EXTINF:-1,Радио Сахаров
 https://icecast.correctiv.net/sacharow
+#EXTINF:-1,Звезда
+https://icecast-zvezda.mediacdn.ru/radio/zvezda/zvezda_128
+#EXTINF:-1,Звезда ТВ🌟(ТСЧ)
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
+#EXTINF:-1,Звезда ТВ🌟(ТВЧ)📺
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8

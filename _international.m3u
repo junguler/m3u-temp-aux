@@ -15,3 +15,9 @@ https://stream.intchoson.com/vok/main_stream.m3u8
 https://das-edge62-live365-dal03.cdnstream.com/a08442
 #EXTINF:-1,Radio is a Foreign Country
 https://s5.radio.co/s20251311a/listen
+#EXTINF:-1,Station509
+https://streaming.live365.com/a37517
+#EXTINF:-1,כאן רקע Kan Reka
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_reka/live.livx/playlist.m3u8?renditions
+#EXTINF:-1,yStream
+https://ystream.live/ystream-mp3

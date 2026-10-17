@@ -247,3 +247,49 @@ https://channels.fonotron.ru:8000/Chan_76_256.mp3
 https://channels.fonotron.ru:8000/Chan_64_256.mp3
 #EXTINF:-1,Радио Орфей - Зарубежная хоровая 256kbps
 https://channels.fonotron.ru:8000/Chan_60_256.mp3
+#EXTINF:-1,RT� Lyric FM
+https://www.rte.ie/manifests/lyric.m3u8
+#EXTINF:-1,RTHK Radio 4
+https://rthkradio4-live.akamaized.net/hls/live/2040080/radio4/master.m3u8
+#EXTINF:-1,thegreatiamb Kids
+https://stream.zeno.fm/fwcpjdir9o1uv
+#EXTINF:-1,thegreatiamb Radio
+https://stream.zeno.fm/0ntnamyl4q7uv
+#EXTINF:-1,WBHM 90.3 Birmingham, AL
+https://audio.wbhm.org/live.mp3
+#EXTINF:-1,WDAV 89.9 Classical Public Radio
+https://wdav-ice.streamguys1.com/live
+#EXTINF:-1,WDAV 89.9 "Classical Public Radio" Charlotte, NC
+https://audio-mp3.ibiblio.org/wdav-112k
+#EXTINF:-1,WFMT Classical AAC 128
+https://wfmt.streamguys1.com/main128.aac
+#EXTINF:-1,WFMT Classical AAC 256
+https://wfmt.streamguys1.com/main-source
+#EXTINF:-1,WFMT Classical AAC 64
+https://wfmt.streamguys1.com/main64.aac
+#EXTINF:-1,WKCR 89.9 Columbia New York NY
+https://wkcr.streamguys1.com/live
+#EXTINF:-1,WKNC 88.1 HD1
+https://streaming.live365.com/a45877
+#EXTINF:-1,WKSU HD4 News & More
+https://live.ideastream.org/wksu4.128.mp3
+#EXTINF:-1,WKU Classical 97.5
+https://dal-wku-stream-2.neighborhoodca.com/xstream
+#EXTINF:-1,WOSU 101 Classical
+https://wosu.streamguys1.com/Classical_128
+#EXTINF:-1,Your Classical Chamber Music
+https://chambermusic.stream.publicradio.org/chambermusic.mp3
+#EXTINF:-1,Your Classical - Holiday
+https://holiday.stream.publicradio.org/holiday_yc.mp3?cb=8282040137
+#EXTINF:-1,YourClassical Black History
+https://blackhistory.stream.publicradio.org/blackhistory.mp3
+#EXTINF:-1,YourClassical Black History Month
+https://blackhistory.stream.publicradio.org/blackhistory.aac
+#EXTINF:-1,YourClassical Children
+https://classicalkids.stream.publicradio.org/classicalkids.aac
+#EXTINF:-1,YourClassical Choral
+https://choral.stream.publicradio.org/choral.aac
+#EXTINF:-1,Βeton7Art
+https://uk1.streamingpulse.com/ssl/b7artradio
+#EXTINF:-1,Radio Art - Traditional
+https://air.radioart.online/fTraditional.mp3

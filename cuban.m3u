@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1,Cubania Radio
 https://streamingv2.shoutcast.com/cubania?type=.mp3
+#EXTINF:-1,Radio Art - Cuban
+https://live.radioart.com/fCuban_lounge.mp3

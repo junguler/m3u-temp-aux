@@ -101,3 +101,7 @@ https://usa7.fastcast4u.com/proxy/radiovgd?mp=/1
 https://uzivo.zenit.ba/stream/
 #EXTINF:-1,RadiYo Active
 https://activezenica.radiokitstream.org/activezenica.mp3
+#EXTINF:-1,Trend Radio
+https://trendradio-codus.radioca.st/;
+#EXTINF:-1,ZOS Radio
+https://zosradio.radioca.st/;

@@ -3,3 +3,7 @@
 https://stream.40upradio.nl/bp-transmit
 #EXTINF:-1,Clos FM
 https://server-28.stream-server.nl:8864/stream
+#EXTINF:-1,Zeeuws FM
+https://server-28.stream-server.nl:8838/stream
+#EXTINF:-1,Velvet 96.8 FM
+https://securestream2.digipal.nl:1919/stream

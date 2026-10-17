@@ -29,3 +29,5 @@ https://stream.revma.ihrhls.com/zc7304/hls.m3u8
 https://totaal-streaming.de:8030/radio2
 #EXTINF:-1,Radio Rekord 80's Dance
 https://hls-01-radiorecord.hostingradio.ru/record-1980/playlist.m3u8
+#EXTINF:-1,Kiss 98
+https://s6.onweb.gr:7029/stream.mp3

@@ -61,3 +61,15 @@ https://stream1.srvnetplus.com:18000/;?1750274814162
 https://server1.tnt.ba/proxy/tntsa?mp=/stream1
 #EXTINF:-1,Radio Visegrad 104.0
 https://usa7.fastcast4u.com/proxy/radiovgd?mp=/1
+#EXTINF:-1,Rouge Disco Funk
+https://rouge-disco.ice.infomaniak.ch/rouge-disco-128.mp3
+#EXTINF:-1,RTR
+https://stxt-audiostreaming.akamaized.net/hls/live/2117380/rr/master.m3u8
+#EXTINF:-1,Sant'Ana FM 89.7
+https://sc4s.cdn.upx.com:10369/stream;?1755023423544
+#EXTINF:-1,Secret Rooftop Sessions
+https://secretrooftopsessions.ice.infomaniak.ch/secretrooftopsessions-192.aac
+#EXTINF:-1,Verein Radio S
+https://stream.radio-s.ch:8443/pssend
+#EXTINF:-1,Voice of the Avon 101.3
+https://23193.live.streamtheworld.com/6YCRAAC_SC

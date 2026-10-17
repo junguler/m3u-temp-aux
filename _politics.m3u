@@ -59,3 +59,27 @@ https://streams1.infowars.com/stream/4/
 https://kpradio.hostingradio.ru:8000/vologda.radiokp128.mp3
 #EXTINF:-1,Радио России Иваново 89.1 FM
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ivanovo/radio_russia/index.m3u8
+#EXTINF:-1,Соловьёв FM
+https://solovievfm.hostingradio.ru/solovievfm32.aacp
+#EXTINF:-1,The Patriot 104.3 FM
+https://streaming.live365.com/a55548
+#EXTINF:-1,Вести ФМ Липецк 90.3 FM
+https://icecast-vgtrk.cdnvideo.ru/vesti_lipetsk
+#EXTINF:-1,WCSP 90.1 C-SPAN Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/CSPANRADIO_SC
+#EXTINF:-1,WZBC 
+https://stream.wzbc.org/wzbc
+#EXTINF:-1,105FM
+https://105fm.espiv.net/listen/105fm/stream.mp3
+#EXTINF:-1,1431AM
+https://www.1431am.org:8001/1431high
+#EXTINF:-1,Koinoniko Radiofono Xaniwn
+https://c32.radioboss.fm/stream/563
+#EXTINF:-1,Klubr�di�
+https://hu-stream03.klubradio.hu:8443/bpstream
+#EXTINF:-1,MR5 - Parlamenti Ad�sok
+https://mr-stream.connectmedia.hu/4746/mr5.mp3
+#EXTINF:-1,Dublin Digital Radio
+https://dublin-digital-radio.radiocult.fm/stream
+#EXTINF:-1,כאן רקע Kan Reka
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_reka/live.livx/playlist.m3u8?renditions

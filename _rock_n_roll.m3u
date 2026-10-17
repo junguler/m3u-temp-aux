@@ -35,3 +35,7 @@ https://streaming.exclusive.radio/er/thekinks/icecast.audio
 https://nl4.mystreaming.net/er-app/whohits/icecast.audio
 #EXTINF:-1,Exclusively Tom Petty
 https://nl4.mystreaming.net/er/tompetty/icecast.audio
+#EXTINF:-1, VIRGIN RADIO UK: Rock‘n’Roll Radio From The Top Of The Tower
+https://virgin.live.stream.broadcasting.news/stream
+#EXTINF:-1,WZXR
+https://playerservices.streamtheworld.com/api/livestream-redirect/WZXRFMAAC.aac

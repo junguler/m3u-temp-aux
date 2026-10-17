@@ -11,3 +11,7 @@ https://rbrs-live.cast.addradio.de/rbrs/live/mp3/high
 https://control.streaming-pro.com:8014/stream
 #EXTINF:-1,Omroep Venray Radio
 https://nlpo.stream.vip/venray/mp3-192/nlpo.stream.vip/
+#EXTINF:-1,Venlo Radio
+https://nlpo.stream.vip/venlo/mp3-192/nlpo.stream.vip/
+#EXTINF:-1,Vughtse Omroep Radio
+https://nlpo.stream.vip/vughtseomroep/mp3-192/nlpo.stream.vip/

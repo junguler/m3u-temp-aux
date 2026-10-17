@@ -107,3 +107,27 @@ https://28503.live.streamtheworld.com/VERONICAAAC.aac
 https://28573.live.streamtheworld.com/DAB01_AAC.aac
 #EXTINF:-1,Radio Veronica Top 3000
 https://22333.live.streamtheworld.com/WEB06_AAC.aac
+#EXTINF:-1,RTV Utrecht
+https://media.rtvutrecht.nl/radiomutrecht-bb-mp3
+#EXTINF:-1,Sky Radio 80s Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR04.mp3
+#EXTINF:-1,Sky Radio 90s Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR05.mp3
+#EXTINF:-1,SLAM! Dance Classics
+https://playerservices.streamtheworld.com/api/livestream-redirect/WEB15_MP3_SC
+#EXTINF:-1,SLAM! Mixmarathon
+https://playerservices.streamtheworld.com/api/livestream-redirect/WEB13_MP3_SC
+#EXTINF:-1,SLAM! The Boom Room
+https://playerservices.streamtheworld.com/api/livestream-redirect/WEB12_AAC_SC
+#EXTINF:-1,Team FM
+https://audiostreamen.nl/drenthe
+#EXTINF:-1,Team FM Friesland
+https://audiostreamen.nl/friesland
+#EXTINF:-1,Team FM Overijssel en Noordoostpolder
+https://audiostreamen.nl/overijssel
+#EXTINF:-1,TWR
+https://twrnl.out.airtime.pro:8000/twrnl_a
+#EXTINF:-1,Varia FM
+https://server1.streamgigant.nl:9031/varia192
+#EXTINF:-1,WestRadio
+https://streaming.westradio.nl/WestRadio-aac-96

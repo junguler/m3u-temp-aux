@@ -15,3 +15,9 @@ https://streamingcwsradio30.com:7049/listen.pls
 https://streamingcwsradio30.com:7019/listen.pls
 #EXTINF:-1,Mexiquense Radio 91.7 XHMEC
 https://streamingcwsradio30.com:7047/listen.pls
+#EXTINF:-1,SER+
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASERAAC.aac?csegid=10000&gdpr=1&gdpr_consent=CPPTC1xPPTC1xAHABBENBzCsAP_AAAAAAAAAIUNf_X__b3_j-_59__t0eY1f9_7_v-0zjhfdt-8N2f_X_L8X_2M7vF36pq4KuR4Eu3LBIQdlHOHcTUmw6okVrzPsbk2cr7NKJ7PEmnMbe2dYGH9_n93T-ZKY7______7__-_______f__-_____5_X-_-_f_V_997Lv9_____9_N___9v__8AAABJKADAAEEKQ0AGAAIIUioAMAAQQpKQAYAAghSOgAwABBCkhABgACCFISADAAEEKREAGAAIIUjIAMAAQQp.f_gAAAAAAAAA&dist=cser-web-playperm-live_str_play&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=951d9e29-0baf-4e14-ef5d-9e259bb36688
+#EXTINF:-1,SER Segovia
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_SEGOVIAAAC.aac?csegid=10000&gdpr=1&gdpr_consent=CPQcg5LPQcg5LAHABBENB3CsAP_AAAAAAAAAIZNf_X__b3_j-_59__t0eY1f9_7_v-0zjhfdt-8N2f_X_L8X_2M7vF36pq4KuR4Eu3LBIQdlHOHcTUmw6okVrzPsbk2cr7NKJ7PEmnMbe2dYGH9_n93T-ZKY7______7__-_______f__-_____5_X-_-_f_V_997Lv9_____9_P___9v__9_wAAAEkoAMAAQQyDQAYAAghkKgAwABBDIpABgACCGQ6ADAAEEMiEAGAAIIZBIAMAAQQyEQAYAAghkMgAwABBDIAA.f_gAAAAAAAAA&dist=cadenaser-web-tod-permanente&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=4617d7f4-5a28-40ef-cb45-f21a65c75198
+#EXTINF:-1,Switch 88.9 XHFIL
+https://tv.radiohosting.online:8112/stream

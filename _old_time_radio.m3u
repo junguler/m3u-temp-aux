@@ -23,3 +23,29 @@ https://cast2.asurahosting.com/proxy/crimeinc/stream
 https://stream1.radiogoose.ru/listen/oldschool/play
 #EXTINF:-1,Radio Mystery Theater USA
 https://ais-sa3.cdnstream1.com/2800_128.mp3
+#EXTINF:-1,RetroStrange Radio2
+https://icecast.retrostrange.com:8443/retrostrange-radio2-mp3
+#EXTINF:-1,ROKit Radio : Adventure Stories
+https://streaming06.liveboxstream.uk/proxy/rokstar7/stream
+#EXTINF:-1,ROKit Radio : British Comedy 1
+https://streaming04.liveboxstream.uk/proxy/roksta14/stream
+#EXTINF:-1,ROKit Radio : British Comedy 2
+https://streaming05.liveboxstream.uk/proxy/jondreas/stream
+#EXTINF:-1,ROKit Radio : Classic Old Time Radio Shows
+https://streaming04.liveboxstream.uk/proxy/roksta18/stream
+#EXTINF:-1,ROKit Radio : Comedy Gold
+https://streaming06.liveboxstream.uk/proxy/rokstar8/stream
+#EXTINF:-1,ROKit Radio : Saturn-X Radio Shows
+https://streaming05.liveboxstream.uk/proxy/jondre03/stream
+#EXTINF:-1,ROKit Radio Science Fiction
+https://streaming05.liveboxstream.uk/proxy/roksta12/stream
+#EXTINF:-1,WALM - Old Time Radio
+https://icecast.walmradio.com:8443/otr
+#EXTINF:-1,WALM - Old Time Radio Opus
+https://icecast.walmradio.com:8443/otr_opus
+#EXTINF:-1,WRCW Crime Story
+https://das-edge13-live365-dal02.cdnstream.com/a60381
+#EXTINF:-1,WRCW RADIO - HOME OF GUNSMOKE
+https://streaming.live365.com/a64449
+#EXTINF:-1,Yesterday USA Red Network
+https://broadcast.classicairwaves.com/listen/classic_radio_network/live.mp3

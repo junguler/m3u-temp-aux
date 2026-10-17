@@ -175,3 +175,43 @@ https://nlpo.stream.vip/lelystad/mp3-192/nlpo.stream.vip/
 https://d18rwjdhpr8dcw.cloudfront.net/icecast/rtvutrecht/radiomutrecht-bb-mp3
 #EXTINF:-1,Radio Son en Breugel
 https://nlpo.stream.vip/breugel/mp3-192/nlpo.stream.vip/
+#EXTINF:-1,Rivierenland Radio (2nd server,320k)
+https://server-28.stream-server.nl:8802/stream
+#EXTINF:-1,RTV Connect Radio
+https://nlpo.stream.vip/connectfm/mp3-192/nlpo.stream.vip/
+#EXTINF:-1,SAMEN 1
+https://server-67.stream-server.nl:8754/stream
+#EXTINF:-1,Samen1 radio
+https://server-67.stream-server.nl:8752/stream
+#EXTINF:-1,SWR1 BW neu
+https://d111.rndfnk.com/ard/swr/swr1/bw/mp3/128/stream.mp3?aggregator=web&sid=22aBvvuweZ2rG48bSiNY9ruEwJ0&token=6-qKJrPI6XVtCLK_KjhAesSwdewAfDNVcB3AyN-EjHw&tvf=D-kwhgfDwhZkMTExLnJuZGZuay5jb20
+#EXTINF:-1,WETS 89.5 Johnson City, TN
+https://wets-fm.streamguys1.com/live-1
+#EXTINF:-1,WMAN AM 1400 FM 98.3
+https://stream.revma.ihrhls.com/zc4121/hls.m3u8
+#EXTINF:-1,WMBD 1470 AM 100.3 FM Peoria News and Talk
+https://15313.live.streamtheworld.com/WMBDAMAAC.aac
+#EXTINF:-1,WOCO 107.1
+https://streaming.proradiosolutions.com/stream/woco
+#EXTINF:-1,WRAL News+
+https://ais-sa8.cdnstream1.com/2745_64.aac?listenerId=a1a239a4c8b9ea9da8e079414ae50037&NoPreroll=true&starttime=1&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1689391886
+#EXTINF:-1,WRSC
+https://ice23.securenetsystems.net/WRSC
+#EXTINF:-1,WTAM 1100 - Cleveland, Ohio
+https://stream.revma.ihrhls.com/zc1749
+#EXTINF:-1,За!Радио (Мелитополь)
+https://listen9.myradio24.com/86040
+#EXTINF:-1,Radio Evros
+https://live.radioevros.gr/
+#EXTINF:-1,Best FM - Ny�regyh�za
+https://icast.connectmedia.hu/5115/live.mp3
+#EXTINF:-1,H�r FM - Eger / Gy�ngy�s
+https://n23-eu.rcs.revma.com/3zbwnap8b2uvv
+#EXTINF:-1,RRI Pro 1 Bandung
+https://stream-node0.rri.co.id/streaming/15/9015/rribandungpro1.mp3
+#EXTINF:-1,Primocanale TV
+https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/chunklist_w1626804143.m3u8
+#EXTINF:-1,Radio Cortina
+https://streaming1.radiodatanet.it:8050/stream
+#EXTINF:-1,Radio CRC
+https://stream9.xdevel.com/audio2s975936-745/stream/icecast.audio

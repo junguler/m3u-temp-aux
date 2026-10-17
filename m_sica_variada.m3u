@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1,PaseitoRadio
 https://stream.zeno.fm/pdtq1ksbcnruv
+#EXTINF:-1,Cortes FM 
+https://cortesfm-zikoxweb.radioca.st/stream/1/
+#EXTINF:-1,Otoro Radio
+https://stream.playerlive.info:8089/live.aac

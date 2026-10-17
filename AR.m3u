@@ -143,3 +143,11 @@ https://sonic-us.arkeo.cl/8574/stream
 https://cdn.instream.audio/:9061/stream
 #EXTINF:-1,Radioactiva 100.7
 https://sh4.radioonlinehd.com:8533/stream
+#EXTINF:-1,RBD Radio
+https://streaming.radiosenlinea.com.ar:10637/live
+#EXTINF:-1,Sensation Radio 107.5
+https://fps2.listen2myradio.com:2199/listen.php?ip=109.169.23.17&port=8203&type=ice&mount=stream
+#EXTINF:-1,Tango Radio CAFF
+https://streams.radio.co/s6b80bc417/listen
+#EXTINF:-1,Un Dinamo
+https://cdn.instream.audio/:9339/stream

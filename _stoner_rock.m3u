@@ -11,3 +11,11 @@ https://radionarcan.stream.laut.fm/radionarcan
 https://wastewatermusic.stream.laut.fm/wastewatermusic?pl=m3u&t302=2026-01-17_11-17-31&uuid=375c958d-7d82-4712-a917-fa6517cce6d6
 #EXTINF:-1,bringthenoise
 https://radio.bringthenoi.se/listen/dj_nocide/default
+#EXTINF:-1,SomaFM Metal Detector (128k AAC)
+https://ice4.somafm.com/metal-128-aac
+#EXTINF:-1,SomaFM Metal Detector (128k MP3)
+https://ice5.somafm.com/metal-128-mp3
+#EXTINF:-1,SomaFM Metal Detector (32k AAC)
+https://ice4.somafm.com/metal-32-aac
+#EXTINF:-1,SomaFM Metal Detector (64k AAC)
+https://ice2.somafm.com/metal-64-aac

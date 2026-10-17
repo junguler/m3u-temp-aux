@@ -1,3 +1,9 @@
 #EXTM3U
 #EXTINF:-1,__CHRISTMAS CHOR__ by rautemusik (rm.fm)
 https://christmas-chor-high.rautemusik.fm/?ref=radiobrowser
+#EXTINF:-1,RauteMusik CHRISTMAS CHOR
+https://rautemusik-de-hz-fal-stream12.radiohost.de/rm-christmas-chor_mp3-192?ref=radiobrowser&listenerrmid=31363430303535353036-326130333a343030303a33373a34323a633466653a346366663a666561373a38393431-3539343934-53747265616d436865636b426f742f302e312e30
+#EXTINF:-1,WALM 2 HD
+https://icecast.walmradio.com:8443/walm2
+#EXTINF:-1,WALM 2 HD Opus
+https://icecast.walmradio.com:8443/walm2_opus

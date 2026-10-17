@@ -35,3 +35,17 @@ https://icecast.nstation.ru:8443/nstation_192_mp3
 https://eu6.fastcast4u.com/proxy/polygonf?mp=/stream
 #EXTINF:-1,Радио Старого Полковника
 https://notthatoldcolonel.ru:1050/stream
+#EXTINF:-1,РНР Радио Начинающих Рэперов
+https://listen6.myradio24.com/rnm
+#EXTINF:-1,Rock n Roll FM
+https://a6.radioheart.ru:9046/RH1972
+#EXTINF:-1,Rock Space Station
+https://stream.cassiopeia-station.ru:1225/stream
+#EXTINF:-1,Рок-Атака
+https://listen7.myradio24.com/rockataka
+#EXTINF:-1,Русский Рок
+https://rr-russkijrok.hostingradio.ru/russkijrok96.aacp
+#EXTINF:-1,Верста
+https://panel.radioversta.ru:1045/stream?x=1739036106476
+#EXTINF:-1,VTC
+https://vtcradio.com:8005/stream

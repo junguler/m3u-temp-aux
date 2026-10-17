@@ -79,3 +79,29 @@ https://stream.radyoodtu.com.tr/rock
 https://icecast.netmedya.net/radyos
 #EXTINF:-1,Radyo Sada El Furat 101.3
 https://wowza1.radyotvonline.com/idilpr/sadaelfurat.stream/playlist.m3u8
+#EXTINF:-1,Retro Türk
+https://playerservices.streamtheworld.com/api/livestream-redirect/RETROTURK_SC
+#EXTINF:-1,Seyr FM
+https://sslyayin.netyayin.net/8024/stream
+#EXTINF:-1,SlowTürk
+https://radyo.duhnet.tv/slowturk
+#EXTINF:-1,TRT Cukurova 105.1
+https://radio-trtcukurova.medya.trt.com.tr/master_128.m3u8
+#EXTINF:-1,TRT GAP Diyarbakir
+https://radio-trtgap.medya.trt.com.tr/master_128.m3u8
+#EXTINF:-1,TRT Nagme 102.8
+https://radio-trtnagme.live.trt.com.tr/master.m3u8
+#EXTINF:-1,TRT Radyo 3
+https://radio-trtradyo3.live.trt.com.tr/master.m3u8
+#EXTINF:-1,TRT Radyo Kurdi
+https://radio-trtradyo6.medya.trt.com.tr/master_128.m3u8
+#EXTINF:-1,TRT Trabzon 97.0
+https://radio-trttrabzon.medya.trt.com.tr/master_128.m3u8
+#EXTINF:-1,TRT Turku 98.6
+https://radio-trtturku.live.trt.com.tr/master.m3u8
+#EXTINF:-1,TRT VOT West
+https://radio-trtvotwest.medya.trt.com.tr/master_128.m3u8
+#EXTINF:-1,X Radio 103.8
+https://yayin.radyomadyo.com:8770/
+#EXTINF:-1,Yurt FM 97.8
+https://wowza1.radyotvonline.com/idilpr/yurtfm.stream/playlist.m3u8

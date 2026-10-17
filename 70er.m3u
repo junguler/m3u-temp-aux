@@ -27,3 +27,5 @@ https://mdr-radio-hls.akamaized.net/hls/live/2112890/mdr-284280-3-hls/index.m3u8
 https://mdr-radio-hls.akamaized.net/hls/live/2112899/mdr-284300-1-hls/index.m3u8
 #EXTINF:-1,RPR1. 70er
 https://stream.rpr1.de/70er/mp3-128/radiobrowser
+#EXTINF:-1,889 FMberlin
+https://889fmberlin.stream.laut.fm/889fmberlin

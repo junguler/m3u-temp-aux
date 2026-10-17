@@ -39,3 +39,13 @@ https://c32.radioboss.fm/stream/498
 https://schlagertime.stream.laut.fm/schlagertime
 #EXTINF:-1,Radio Smash
 https://listen.radioking.com/radio/782786/stream/850441
+#EXTINF:-1,Sensation Radio 107.5
+https://fps2.listen2myradio.com:2199/listen.php?ip=109.169.23.17&port=8203&type=ice&mount=stream
+#EXTINF:-1,Spitalradio Luz
+https://s10.streamingcloud.online:13552/radioluz320.mp3
+#EXTINF:-1,Totally Radio 00's
+https://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_00S_S01AAC_SC
+#EXTINF:-1,Totally Radio 90's
+https://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_90S_S01AAC.aac?dist=triton-widget&tdsdk=js-2.9&pname=tdwidgets&pversion=2.9&banners=none&sbmid=c8b3b9f3-1ddf-44ea-944a-75516a135952
+#EXTINF:-1,Vila Real 98.3
+https://5a57bda70564a.streamlock.net/vilarealfmhd/vilarealfmhd.stream/chunklist_w979491068.m3u8

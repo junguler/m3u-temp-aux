@@ -1,3 +1,51 @@
 #EXTM3U
 #EXTINF:-1,Balkan Radio
 https://samcloud.spacial.com/api/listen?sid=99064&m=sc&rid=175019&t=ssl
+#EXTINF:-1,90s Heaven
+https://sp3.streams.ovh/8070/stream
+#EXTINF:-1,Apps 96.6
+https://stream.myip.gr/proxy/app966?mp=/stream
+#EXTINF:-1,Art 103.1
+https://i2.streams.ovh:2200/ssl/artfm?mp=/stream
+#EXTINF:-1,Bravo 89.6
+https://sp3.streams.ovh/8046/stream
+#EXTINF:-1,City 103.8
+https://server.el1.info:37027/stream
+#EXTINF:-1,Διαίρεση
+https://i4.streams.ovh:8234/live
+#EXTINF:-1,Ekrixi
+https://ice.greekstream.net/ekrixifm
+#EXTINF:-1,ΕΡΩ ΡΑΔΙΟΣΥΧΝΟΤΗΤΑ
+https://listen.radioking.com/radio/702743/stream/768074
+#EXTINF:-1,Iraklis Radio
+https://centova.gr-net.gr/proxy/iraklisradio/stream
+#EXTINF:-1,Καλάβρυτα
+https://rdst.win:48030/live
+#EXTINF:-1,Korinthos Radio
+https://sonic.streams.ovh/9926/stream
+#EXTINF:-1,Korinthos Web
+https://rdst.win:59550/live
+#EXTINF:-1,Lampsi GR
+https://i6.streams.ovh/sc/radiolampsi/stream
+#EXTINF:-1,Melody 96.7
+https://eu4.fastcast4u.com/proxy/jlwmwogj?mp=/1
+#EXTINF:-1,Mple 99 fm
+https://n10.radiojar.com/f4pqr7wu48hvv?rand=604321&rj-tok=AAABhwia68IAEMa7tAHWaQFpDg&rj-ttl=5
+#EXTINF:-1,Νοσταλγία
+https://tls-chrome.live24.gr/1648?http://radionostalgiagr.dyndns.org:2314/
+#EXTINF:-1,Notes
+https://neos.win:48720/stream
+#EXTINF:-1,Radio Martino
+https://eu1.fastcast4u.com/proxy/radiomartino?mp=/1
+#EXTINF:-1,Retro 937
+https://sp.streams.ovh/8056/stream
+#EXTINF:-1,Sky Radio 
+https://media.skyradio.gr:9920/stream
+#EXTINF:-1,Skylos 69
+https://i6.streams.ovh/ic/skylos69/stream
+#EXTINF:-1,Τάκης
+https://i9.streams.ovh/sc/radiotak/stream
+#EXTINF:-1,Toxotis FM
+https://eco.onestreaming.com/proxy/toxotis/stream
+#EXTINF:-1,Ζημιά 96.5
+https://www.gointernet.gr:9012/streams

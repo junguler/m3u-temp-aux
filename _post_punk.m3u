@@ -11,3 +11,5 @@ https://nl4.mystreaming.net/er/simpleminds/icecast.audio
 https://nl4.mystreaming.net/er/talkingheads/icecast.audio
 #EXTINF:-1,HighFi Dream
 https://cdn06-us-east.radio.cloud/80ba63862a97bd69c593cc7a2ccaab1c_hq
+#EXTINF:-1,Ze Rock Radio
+https://icecast.live/proxy/zerock/zerock

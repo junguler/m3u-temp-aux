@@ -11,3 +11,5 @@ https://live.kissfm.md/kissfm.chisinau
 https://nl4.mystreaming.net/pr/posigold/icecast.audio
 #EXTINF:-1,Radio 10 non-stop
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR15.mp3
+#EXTINF:-1,OZONE FM
+https://oxygenmusic.hu:8000/ozonefm_128

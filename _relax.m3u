@@ -167,3 +167,31 @@ https://eu6.fastcast4u.com/proxy/qrm?mp=/stream
 https://hls-01-gpm.hostingradio.ru/relaxfm812/128/playlist.m3u8
 #EXTINF:-1,Radio ZUM4
 https://streams.radiozum.md/listen/zum4/ZUM4
+#EXTINF:-1,Smooth FM
+https://stream-hls.bauermedia.pt/smooth.aac/playlist.m3u8
+#EXTINF:-1,Спокойное радио
+https://listen9.myradio24.com/6262
+#EXTINF:-1,Zaycev.FM Relax
+https://abs.zaycev.fm/relax128k
+#EXTINF:-1,1st Greek New Age FLAC Radio (FLAC stream)
+https://stream.newageradio.gr/listen/hq/radio.flac
+#EXTINF:-1,Radio Art - Baby Sleep
+https://air.radioart.online/fBaby_sleep.mp3
+#EXTINF:-1,Radio Art - Cello for Sleep
+https://air.radioart.online/fCello_for_sleep.mp3
+#EXTINF:-1,Radio Art - Guitar for Sleep
+https://air.radioart.online/fGuitar_for_sleep.mp3
+#EXTINF:-1,Radio Art - Music for Moms
+https://live.radioart.com/fMusic_for_moms.mp3
+#EXTINF:-1,Smooth Radio Thessaloniki
+https://solid9.streamupsolutions.com/proxy/lrazisyb?mp=/live
+#EXTINF:-1,COOLFM Chill
+https://mediagw.e-tiger.net/stream/zc24
+#EXTINF:-1,Il Camillofono
+https://radio.celodex.com/stream/camillofono.mp3
+#EXTINF:-1,NATURE RADIO SLEEP
+https://az1.mediacp.eu/listen/natureradiosleep/radio.mp3
+#EXTINF:-1,RADIO DIMENSIONE RELAX
+https://az1.mediacp.eu/listen/radiodimensionerelax/radio.mp3
+#EXTINF:-1,RADIO RELAX Italia
+https://radiorelax.streamingmedia.it/play

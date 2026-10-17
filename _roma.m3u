@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,Dimensione Suono Roma
+https://stream.dimensionesuonoroma.radio/audio/dsr.stream_aac64/playlist.m3u8
+#EXTINF:-1,Globo Vintage
+https://m100.newradio.it/m100-64
+#EXTINF:-1,Q8 Radio
+https://nr15.newradio.it:9132/stream
+#EXTINF:-1,Radio Core de Roma
+https://sr14.inmystream.it:8210/stream
+#EXTINF:-1,Radio Globo | Solo le migliori
+https://globo.newradio.it/globorm64
+#EXTINF:-1,Radio Mambo
+https://mambo.newradio.it/stream

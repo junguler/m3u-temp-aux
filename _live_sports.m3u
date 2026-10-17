@@ -51,3 +51,11 @@ https://wdr-sportschau-liga2spiel2.icecastssl.wdr.de/wdr/sportschau/liga2spiel2/
 https://stream.regenbogen.de/adler/mp3-128/radiobrowser
 #EXTINF:-1,RAC1 +1
 https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_MES_1.mp3
+#EXTINF:-1,San Jose Sharks Audio Network
+https://sjsharks.streamguys1.com/sharks-player
+#EXTINF:-1,WHBE ESPN Louisville
+https://prod-54-158-170-239.amperwave.net/unionbroadcasting-whbeammp3-ibc2?session-id=beea136dde39f45c107c9774baa03e3e
+#EXTINF:-1,WMVP 1000 AM - ESPN Chicago, IL
+https://live.amperwave.net/direct/goodkarma-wmvpammp3-ibc1
+#EXTINF:-1,Iraklis Radio
+https://centova.gr-net.gr/proxy/iraklisradio/stream

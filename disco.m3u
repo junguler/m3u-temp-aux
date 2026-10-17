@@ -75,3 +75,21 @@ https://broadcast.miami/proxy/warnerbros?mp=/stream/;
 https://broadcast.miami/proxy/westend?mp=/stream/;
 #EXTINF:-1,РадиоКанск
 https://azura-cast.radiokansk.ru/listen/radiokansk/live
+#EXTINF:-1,Ретро FM — Вечеринка
+https://hls-01-retro-vecherinka.emgsound.ru/20/playlist.m3u8
+#EXTINF:-1,Retro Soul Radio
+https://streaming.galaxywebsolutions.com/stream/retrosoul
+#EXTINF:-1,Simply Disco
+https://s6.autopo.st/proxy/simply7?mp=/stream
+#EXTINF:-1,Skate.fm
+https://listen.skate.fm:8443/live
+#EXTINF:-1,The Disco Palace
+https://broadcast.miami/proxy/thediscopalace?mp=/stream/;
+#EXTINF:-1,The Disco Planet
+https://broadcast.miami/proxy/thediscoplanet?mp=/stream/;
+#EXTINF:-1,Crystal
+https://n06.radiojar.com/htczr9epmchvv?rj-ttl=5&rj-tok=AAABhNhBqBYAE69MZAiHyDMI2Q
+#EXTINF:-1,Figaro Discotheque
+https://s2.free-shoutcast.com/stream/18148
+#EXTINF:-1,Radio 80 Afro
+https://sphera.fluidstream.eu/r80_afro.mp3

@@ -11,3 +11,9 @@ https://stream.0nlineradio.com/gospel?ref=radiobrowser
 https://servidor26.brlogic.com:7088/live
 #EXTINF:-1,BBC RADIO 1XTRA: Amplifying black music & culture
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_1xtra.m3u8
+#EXTINF:-1,tampa 24/7 gospel -- your inspiration station
+https://stream.tampa247gospel.com/radio/8000/radio.mp3?1552483113
+#EXTINF:-1,The Bluegrass Jamboree
+https://the-bluegrass-jamboree.radiocult.fm/stream
+#EXTINF:-1,Hacker por Cristo Network
+https://radio.forensedigital.gt:8010/stream

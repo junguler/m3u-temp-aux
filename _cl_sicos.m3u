@@ -3,3 +3,5 @@
 https://server1.intermediacolombia.com:8010/stream
 #EXTINF:-1,Veracruz stereo
 https://radio.veracruzstereo.com:8000/live
+#EXTINF:-1,Clásica 102.5 Guatemala
+https://playerservices.streamtheworld.com/api/livestream-redirect/CLASICA_1065AAC.aac

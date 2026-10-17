@@ -3,3 +3,9 @@
 https://server02.ouvir.radio.br:8050/stream?1609720768800
 #EXTINF:-1,Nostalgia
 https://stream-redirect.bauermedia.fi/nostalgia/nostalgia_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
+#EXTINF:-1,Yesterday USA Red Network
+https://broadcast.classicairwaves.com/listen/classic_radio_network/live.mp3
+#EXTINF:-1,radio pensiunan
+https://pu.klikhost.com/proxy/radiopensiunan/stream
+#EXTINF:-1,Radios 100FM - 100% Nostalgia
+https://gb25.streamgates.net/radios-audio/100Nostalgia/playlist.m3u8

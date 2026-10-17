@@ -15,3 +15,11 @@ https://stream.bigfm.de/latin/mp3-128/radio-browser
 https://stream.regenbogen.de/sommerhits/mp3-128/radiobrowser
 #EXTINF:-1,La Clave Stereo 93.6
 https://stream.integracionvirtual.com/proxy/laclavestereo?mp=/stream
+#EXTINF:-1,SomaFM Secret Agent (128 AAC)
+https://ice5.somafm.com/secretagent-128-aac
+#EXTINF:-1,SomaFM Secret Agent (128k MP3)
+https://ice6.somafm.com/secretagent-128-mp3
+#EXTINF:-1,SomaFM Secret Agent (32k AAC)
+https://ice6.somafm.com/secretagent-32-aac
+#EXTINF:-1,SomaFM Secret Agent (64k AAC)
+https://ice2.somafm.com/secretagent-64-aac

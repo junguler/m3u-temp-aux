@@ -743,3 +743,241 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XERED_AMAAC_SC
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/sochi/radio_russia/index.m3u8
 #EXTINF:-1,Radyo Bandera Sweet FM
 https://us1.amfmph.com/ssl/sweetfmbacolod?mp=%2Fstream
+#EXTINF:-1,Raya FM
+https://rstream.hadara.ps/proxy/raya/stream
+#EXTINF:-1,Real Talk 910
+https://stream.revma.ihrhls.com/zc297
+#EXTINF:-1,Red River Radio - HD 3 News/Talk
+https://playerservices.streamtheworld.com/api/livestream-redirect/KDAQHD3.mp3?uuid=1rkt6177s
+#EXTINF:-1,REPLAY NEWS - 한국어   5분마다 뉴스 라디오
+https://replaynewskr.ice.infomaniak.ch/replaynewskr-128.mp3
+#EXTINF:-1,REPLAY NEWS - Nederlands
+https://replaynewsnl.ice.infomaniak.ch/replaynewsnl-128.mp3
+#EXTINF:-1,REPLAY NEWS - Русский
+https://replaynewsru.ice.infomaniak.ch/replaynewsru-128.mp3
+#EXTINF:-1,RIPR - The Public's Radio - WNPN 89.3 FM
+https://amber.streamguys1.com:5595/riprdeskweb
+#EXTINF:-1,RMC
+https://audio.bfmtv.com/rmcradio_128.mp3?aw_0_1st.aggregator=unknow_from_dvmr
+#EXTINF:-1,RMN DYRI Iloilo
+https://us1.amfmph.com/ssl/rmniloilo?mp=/stream
+#EXTINF:-1,RNE Radio 4
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r4_main.m3u8
+#EXTINF:-1,RTHK radio 3
+https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/index_56_a-p.m3u8
+#EXTINF:-1,Shenyang News Broadcast
+https://live.xmcdn.com/live/328/64.m3u8
+#EXTINF:-1,Solapur Akashwani 103.4
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio093/playlist.m3u8
+#EXTINF:-1,Соловьёв FM
+https://solovievfm.hostingradio.ru/solovievfm32.aacp
+#EXTINF:-1,Спутник
+https://icecast-rian.cdnvideo.ru/voicerus
+#EXTINF:-1,Спутник 91.2 fm
+https://stream03.pcradio.ru/sputnik_ria_ru-med
+#EXTINF:-1,臺北電台
+https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8
+#EXTINF:-1,Talk 99.5
+https://playerservices.streamtheworld.com/api/livestream-redirect/WZRRFMAAC.aac
+#EXTINF:-1,Talk Radio 102.3
+https://playerservices.streamtheworld.com/api/livestream-redirect/WGOWFMAAC.aac
+#EXTINF:-1,Talkradio 970 KSYL
+https://ice5.securenetsystems.net/KSYL
+#EXTINF:-1,TalkRadio.nl
+https://talkradio.streaming.deliver.media/talkradio_mp3_192
+#EXTINF:-1,TeleSur
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1,The Big 550 KTRS
+https://ice6.securenetsystems.net/KTRS
+#EXTINF:-1,The Mighty 990
+https://ice24.securenetsystems.net/KWAM
+#EXTINF:-1,The Patriot 104.3 FM
+https://streaming.live365.com/a55548
+#EXTINF:-1,The Patriot AM 1150
+https://stream.revma.ihrhls.com/zc197
+#EXTINF:-1,Tianshui Comprehensive Broadcasting
+https://live.xmcdn.com/live/2048/64.m3u8
+#EXTINF:-1,Tianshui Traffic Broadcasting 91.9
+https://live.xmcdn.com/live/2720/64.m3u8
+#EXTINF:-1,Times Radio
+https://timesradio.wireless.radio/stream
+#EXTINF:-1,TRT Cukurova 105.1
+https://radio-trtcukurova.medya.trt.com.tr/master_128.m3u8
+#EXTINF:-1,TRT GAP Diyarbakir
+https://radio-trtgap.medya.trt.com.tr/master_128.m3u8
+#EXTINF:-1,TRT Trabzon 97.0
+https://radio-trttrabzon.medya.trt.com.tr/master_128.m3u8
+#EXTINF:-1,TRT VOT West
+https://radio-trtvotwest.medya.trt.com.tr/master_128.m3u8
+#EXTINF:-1,Twin Cities News Talk
+https://stream.revma.ihrhls.com/zc1213
+#EXTINF:-1,Вести FM (AAC)
+https://icecast-vgtrk.cdnvideo.ru/vestifm_aac_64kbps
+#EXTINF:-1,Вести FM (AAC)
+https://icecast-vgtrk.cdnvideo.ru/vestifm_aac_32kbps
+#EXTINF:-1,Voice of Beijing Tianjin and Hebei 100.6
+https://live.xmcdn.com/live/1994/64.m3u8
+#EXTINF:-1,Voice of The Corps 88.2
+https://live.xmcdn.com/live/1838/64.m3u8
+#EXTINF:-1,VPR(Vermont Public Radio) relay BBC
+https://vprbbc.streamguys1.com/vprbbc24.mp3
+#EXTINF:-1,W Radio 100.1 XHPM
+https://playradio.mx/proxy/wfm?mp=/stream
+#EXTINF:-1,WAMU American University Radio
+https://wamu.cdnstream1.com/wamu.mp3
+#EXTINF:-1,Wave
+https://stream.wavefm.nl/listen/wavefm/radio.mp3
+#EXTINF:-1,WBFO 88.7
+https://playerservices.streamtheworld.com/api/livestream-redirect/WBFOFMAAC.aac?dist=triton-widget&tdsdk=js-2.9&pname=tdwidgets&pversion=2.9&banners=728x90&sbmid=e85f7f9d-51af-45f1-afcf-e6b71df34223
+#EXTINF:-1,WBUR
+https://fm909.wbur.org/wbur_www
+#EXTINF:-1,WCBM 680
+https://playerservices.streamtheworld.com/api/livestream-redirect/WCBMAM.mp3
+#EXTINF:-1,WCVEFM
+https://26233.live.streamtheworld.com/WCVEFM.mp3
+#EXTINF:-1,WDAY 970 AM
+https://ice2.securenetsystems.net/WDAY
+#EXTINF:-1,WDR 2 Bewrgisch Land
+https://f131.rndfnk.com/ard/wdr/wdr2/bergischesland/mp3/128/stream.mp3?sid=22bgA3MbHH45pEvsdhfAEiSQfOd&token=bDiwAIMDkI_2bMYAIvqJ-H_IqyLfEmGnqZGg8HkAuds&tvf=lMdSs2nswhZmMTMxLnJuZGZuay5jb20
+#EXTINF:-1,WDXY
+https://cb.streamguys1.com/wdxy.aac
+#EXTINF:-1,Wendeng People's Broadcasting Station 106.8
+https://jsyaudiolive302.iqilu.com/live/wendeng_audio/index.m3u8
+#EXTINF:-1,WFLA 970 AM Tampa Bay, FL
+https://stream.revma.ihrhls.com/zc2823
+#EXTINF:-1,WHIR Newstalk Sports 1230
+https://us2.maindigitalstream.com/ssl/WHIR
+#EXTINF:-1,WHP 580
+https://stream.revma.ihrhls.com/zc4027
+#EXTINF:-1,WIBX 950 AM Utica, NY
+https://live.amperwave.net/manifest/townsquare-wibxamaac-ibc3
+#EXTINF:-1,WJBO Newsradio 1150 AM & 97.7 FM
+https://stream.revma.ihrhls.com/zc1009
+#EXTINF:-1,WLNI 105.9 FM
+https://ice66.securenetsystems.net/WLNI
+#EXTINF:-1,WLW - 700 AM - Cincinnati, OH
+https://stream.revma.ihrhls.com/zc1713/hls.m3u8
+#EXTINF:-1,WNYC FM
+https://fm939.wnyc.org/wnycfm-web
+#EXTINF:-1,WOC 1420
+https://stream.revma.ihrhls.com/zc2889
+#EXTINF:-1,WOOD News
+https://stream.revma.ihrhls.com/zc1165
+#EXTINF:-1,WRHI
+https://ice7.securenetsystems.net/WRHI
+#EXTINF:-1,WRKO-AM 680
+https://stream.revma.ihrhls.com/zc7750
+#EXTINF:-1,WRMN 1410
+https://ice24.securenetsystems.net/WRMN
+#EXTINF:-1,WRVO-2 PRX Remix
+https://playerservices.streamtheworld.com/api/livestream-redirect/WRVOHD2_SC
+#EXTINF:-1,WRVO 89.9
+https://playerservices.streamtheworld.com/api/livestream-redirect/WRVOFM_SC
+#EXTINF:-1,WSBB 95.5
+https://ad-oom-cmg.streamguys1.com/atl750/atl750-sgplayer-aac
+#EXTINF:-1,WSDL 90.7 Delmarva Public Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/WSDLFM_SC
+#EXTINF:-1,WTOP
+https://playerservices.streamtheworld.com/api/livestream-redirect/WTOPFM.mp3?nocache=1552197927&dist=hubbard&ttag=web
+#EXTINF:-1,WTOP 103.5 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/WTOPFM.mp3
+#EXTINF:-1,WUFT News
+https://ais-sa1.streamon.fm/7647_48k.aac/playlist.m3u8?listenerId=d022961cd3f2d326b3099ffd4020559b&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1583551216
+#EXTINF:-1,WUWF 88.1 FM
+https://wuwf.streamguys1.com/WUWFFM.mp3
+#EXTINF:-1,WUWF HD3 - 24/7 News
+https://wuwf.streamguys1.com/WUWFHD3.mp3
+#EXTINF:-1,WUWM 89.7 Milwaukee's NPR
+https://www.tundracast.stream:3040/mount1?uuid=y48h2oci9
+#EXTINF:-1,WVMT Newstalk 620
+https://live.amperwave.net/manifest/vox-wvmtamaac-hlsc.m3u8
+#EXTINF:-1,WVNN
+https://playerservices.streamtheworld.com/api/livestream-redirect/WVNNAMAAC.aac
+#EXTINF:-1,WVOC
+https://stream.revma.ihrhls.com/zc2085
+#EXTINF:-1,WWBA 820 AM
+https://ice41.securenetsystems.net/WWBA
+#EXTINF:-1,WXJB-FM
+https://ice3.securenetsystems.net/WXJB
+#EXTINF:-1,Zhenjiang Comprehensive Broadcasting 104.0
+https://live.xmcdn.com/live/589/64.m3u8
+#EXTINF:-1,中廣新聞網
+https://n03.rcs.revma.com/78fm9wyy2tzuv
+#EXTINF:-1,Zhoushan Comprehensive Broadcasting 99.8
+https://live.xmcdn.com/live/683/64.m3u8
+#EXTINF:-1,Звезда
+https://icecast-zvezda.mediacdn.ru/radio/zvezda/zvezda_128
+#EXTINF:-1,Action 24
+https://push-int.siliconweb.com/actionlive/actiontv/icecast.audio
+#EXTINF:-1,Cafe 102.4
+https://s6.onweb.gr/8046/;
+#EXTINF:-1,ΕΡΤ Open 106.7
+https://netradio.live24.gr/erasport
+#EXTINF:-1,Flash 99.4
+https://netradio.live24.gr/flash994thes
+#EXTINF:-1,Kavala News
+https://sp3.streams.ovh/8052/stream
+#EXTINF:-1,Mega News 104.6
+https://nmcdn-ea00263bf2fa4959b1207c5b169d1517.msvdn.net/icecastRelay/S92303783/lih0S0uubyJi/icecast
+#EXTINF:-1,Πορτοκαλί
+https://n07.radiojar.com/un4tp96kb.mp3?rj-ttl=5&rj-tok=AAABeROITdYAtrTuiqqUuR0D8Q
+#EXTINF:-1,realfm97.8
+https://realfm.live24.gr/realfm
+#EXTINF:-1,SKAI 100.3 FM
+https://netradio.live24.gr/skai1003
+#EXTINF:-1,Sky Rodos
+https://s6.myradiostream.com:45076/;listen.mp3;audio.mp3?hash=1528711740048
+#EXTINF:-1,Thess 94.5
+https://eu7.fastcast4u.com/proxy/nmarog02?mp=/1
+#EXTINF:-1,Emisoras Unidas 89.7
+https://stream.zenolive.com/z96sq8tndseuv
+#EXTINF:-1,KUSG
+https://ice10.securenetsystems.net/KUSG
+#EXTINF:-1,Radio Baranja
+https://s8.iqstreaming.com:2020/stream/radio_baranja/stream
+#EXTINF:-1,Radio Megaton
+https://chopin.bizmusic.net/radio/8030/radio.mp3
+#EXTINF:-1,Radio Orahovica
+https://ec2s.crolive.com.hr:2595/stream
+#EXTINF:-1,REPLAY NEWS - Hrvatski         Radio informacija svakih 5 minuta
+https://replaynewshr.ice.infomaniak.ch/replaynewshr-128.mp3
+#EXTINF:-1,RFI
+https://rfimonde-96k.ice.infomaniak.ch/rfimonde-96k.mp3
+#EXTINF:-1,Klubr�di� 95,3
+https://a7.asurahosting.com:8160/radio.mp3
+#EXTINF:-1,Kossuth
+https://icast.connectmedia.hu/4736/mr1.mp3
+#EXTINF:-1,MR1 - Kossuth R�di�
+https://mr-stream.connectmedia.hu/4736/mr1.mp3
+#EXTINF:-1,MR8 - Duna World R�di�
+https://mr-stream.connectmedia.hu/4761/dwr.mp3
+#EXTINF:-1,CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv/chunklist.m3u8
+#EXTINF:-1,Elshinta FM Jakarta
+https://stream-ssl.arenastreaming.com:8000/jakarta
+#EXTINF:-1,REPLAY NEWS - Bahasa Indonesia
+https://replaynewsin.ice.infomaniak.ch/replaynewsin-128.mp3
+#EXTINF:-1,RRI Pro 2 Makassar 
+https://stream-node0.rri.co.id/streaming/22/9022/rrimakasarpro2.mp3
+#EXTINF:-1,AIR Tuticorin
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio025/masterlist.m3u8
+#EXTINF:-1,REPLAY NEWS - हिन्दी 【हर 5 मिनट पर खबरों वाला रेडियो】
+https://replaynewshi.ice.infomaniak.ch/replaynewshi-128.mp3
+#EXTINF:-1,印度德里广播电台
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio231/hlspbaudio23132kbps.m3u8
+#EXTINF:-1,RT� Radio 1
+https://liveaudio.rte.ie/hls-radio/radio1/chunklist.m3u8
+#EXTINF:-1,Kurdistan 24
+https://audio-edge-3mayu.fra.h.radiomast.io/04b1ce4c-24f2-4172-b756-065832ef78bf
+#EXTINF:-1,גלי ישראל Galey Yisrael
+https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio
+#EXTINF:-1,Kan Bet 
+https://28563.live.streamtheworld.com/KAN_BET.mp3
+#EXTINF:-1,FM Italia
+https://stream5.xdevel.com/audio1s975817-360/stream/icecast.audio
+#EXTINF:-1,Giornale Radio Ultima Ora
+https://gr.fluidstream.eu/gr2.mp3
+#EXTINF:-1,RADIO PROPOSTA AOSTA
+https://ssl1.mediastreaming.it:9068/
+#EXTINF:-1,Radio Roma mobilit�
+https://nr9.newradio.it:19021/stream?ext=.mp3

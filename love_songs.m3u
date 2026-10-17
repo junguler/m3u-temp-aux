@@ -9,3 +9,9 @@ https://radio.hearme.fm:8140/stream
 https://nl4.mystreaming.net/pr/posilove/icecast.audio
 #EXTINF:-1,Radio Love Live New York
 https://streaming.radiostreamlive.com/radiolovelive_devices
+#EXTINF:-1,Sky LoveSongs
+https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR03.mp3
+#EXTINF:-1,Otvoreni Radio - Love
+https://stream.otvoreni.hr/love
+#EXTINF:-1,Radio Linea Love
+https://rblive.it:8120//radio.mp3

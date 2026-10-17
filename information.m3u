@@ -205,3 +205,29 @@ https://us2.maindigitalstream.com/ssl/KVTO
 https://stream.zeno.fm/hy8okpwdybntv
 #EXTINF:-1,News Radio UK
 https://stream.aiir.com/clcb6m0k9shvv
+#EXTINF:-1,Red FM Cork
+https://edge.audioxi.com/RED
+#EXTINF:-1,REPLAY NEWS - English           News radio every 5 minutes
+https://replaynewsen.ice.infomaniak.ch/replaynewsen-128.mp3
+#EXTINF:-1,RTHK Radio 1
+https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/index_56_a-p.m3u8
+#EXTINF:-1,SER+
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASERAAC.aac?csegid=10000&gdpr=1&gdpr_consent=CPPTC1xPPTC1xAHABBENBzCsAP_AAAAAAAAAIUNf_X__b3_j-_59__t0eY1f9_7_v-0zjhfdt-8N2f_X_L8X_2M7vF36pq4KuR4Eu3LBIQdlHOHcTUmw6okVrzPsbk2cr7NKJ7PEmnMbe2dYGH9_n93T-ZKY7______7__-_______f__-_____5_X-_-_f_V_997Lv9_____9_N___9v__8AAABJKADAAEEKQ0AGAAIIUioAMAAQQpKQAYAAghSOgAwABBCkhABgACCFISADAAEEKREAGAAIIUjIAMAAQQp.f_gAAAAAAAAA&dist=cser-web-playperm-live_str_play&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=951d9e29-0baf-4e14-ef5d-9e259bb36688
+#EXTINF:-1,WNYC-FM 93.9 New York Public Radio
+https://fm939.wnyc.org/wnycfm
+#EXTINF:-1,香港電台第一台
+https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/index_64_a.m3u8
+#EXTINF:-1,香港普通话台
+https://rthkradiopth-live.akamaized.net/hls/live/2040082/radiopth/master.m3u8
+#EXTINF:-1,香港普通话台
+https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8
+#EXTINF:-1,中國華藝廣播公司 AM873
+https://lhttp-hw.qtfm.cn/live/20500139/64k.mp3
+#EXTINF:-1,自由亚洲
+https://stream-160.zeno.fm/ub3pfplpqbktv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1YjNwZnBscHFia3R2IiwiaG9zdCI6InN0cmVhbS0xNjAuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiWEYybFJHNTNUYS1hLWp1VWdiY3pBZyIsImlhdCI6MTc2ODQ0MjYxMSwiZXhwIjoxNzY4NDQyNjcxfQ.06_HWbLfxMfXVTmCHzGzYQ6e74o-ifU8nWoLPrgZwDE
+#EXTINF:-1,REPLAY NEWS - Ελληνικά
+https://replaynewsgr.ice.infomaniak.ch/replaynewsgr-128.mp3
+#EXTINF:-1,Radio HRN La Voz de Honduras
+https://ice42.securenetsystems.net/HRN
+#EXTINF:-1,华夏之声China FM·意大利罗马FM89.5
+https://radioserver12.profesionalhosting.com/proxy/pkg152492/stream
