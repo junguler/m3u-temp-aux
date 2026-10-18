@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1,1000 Rap
-https://rap.stream.laut.fm/rap
-#EXTINF:-1,KVMA Magic 102.9
-https://playerservices.streamtheworld.com/api/livestream-redirect/KVMAFMAAC_SC
-#EXTINF:-1,Radio Klan 92.9
-https://klanradio.tvklan.al/live/klanmusicradio1/playlist.m3u8
-#EXTINF:-1,Rouge Urban
-https://rouge-urban.ice.infomaniak.ch/rouge-urban-128.mp3
