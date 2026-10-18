@@ -10,9 +10,7 @@ jobs:
 
       - name: run commands
         run: |
-          #node ./m3u-checker.js test_input/ test_output/ --quiet
-          for i in A-*.txt ; do printf '#EXTM3U\n' > A$i ; for j in $(cat $i) ; do curl -s https://nradiobox.com/station/$j > mep1 ; t=$(./htmlq -t h1 < mep1 | sed 's/^[[:space:]]*//') ; u=$(perl -0777 -MJSON::PP -ne 'if (/\burl_resolved:\s*("(?:\\.|[^"\\])*")/) { print JSON::PP::decode_json($1), "\n" }' mep1) ; [ -z "$u" ] && continue; printf '#EXTINF:-1,%s\n%s\n' "$t" "$u" >> A$i ; echo "$i - $j" ; done ; done
-          rm mep1
+          node ./m3u-checker.js test_input/ test_output/ --quiet
 
       - name: git stuff
         run: |
