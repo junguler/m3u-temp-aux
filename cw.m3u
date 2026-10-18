@@ -1,9 +1,13 @@
 #EXTM3U
-#EXTINF:-1,morseops.com Radio · Channel 1 · 15 WPM
-https://stream.morseops.com/15wpm.mp3
-#EXTINF:-1,morseops.com Radio · Channel 2 · 20 WPM
-https://stream.morseops.com/20wpm.mp3
-#EXTINF:-1,morseops.com Radio · Channel 3 · 25 WPM
-https://stream.morseops.com/25wpm.mp3
-#EXTINF:-1,morseops.com Radio · Channel 4 · 30 WPM
-https://stream.morseops.com/30wpm.mp3
+#EXTINF:-1,Dolfijn Classic
+https://radiostreamfm.com:8120/radio.mp3
+#EXTINF:-1,Dolfijn FM
+https://radiostreamfm.com:8130/radio.mp3
+#EXTINF:-1,Go Radio 88.9
+https://stream.zeno.fm/tbrwtd58f18uv
+#EXTINF:-1,HITradio 915
+https://stream.paradisefm.cw/HITradio915
+#EXTINF:-1,Joce Production FM
+https://stream.zeno.fm/hp4bpr101ehvv
+#EXTINF:-1,Radio Direct
+https://edge1.direct107.com/;

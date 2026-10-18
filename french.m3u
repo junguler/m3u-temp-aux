@@ -1,7 +1,17 @@
 #EXTM3U
-#EXTINF:-1,FunVibe
-https://radio.funvibe.fr/listen/funvibe/radio.mp3
-#EXTINF:-1,Antithèse
-https://listen.radioking.com/radio/11549/stream/22940
-#EXTINF:-1,radio.proxlab.fr
-https://radio.proxlab.fr/radio/8000/radio.mp3
+#EXTINF:-1,1.FM Scene Francaise
+https://webradio0002.ice.infomaniak.ch/webradio0005-128.mp3
+#EXTINF:-1,CFOI 104.1
+https://cfoi.sermon.net/20591220/controller/link/action/playhls/type/live/id/100500/.m3u8
+#EXTINF:-1,CHPR 102.1
+https://19473.live.streamtheworld.com/CJLAFMAAC.aac
+#EXTINF:-1,CHYK 104.1
+https://stream.statsradio.com:8140/stream
+#EXTINF:-1,CKAC 730
+https://18193.live.streamtheworld.com/CKACAMAAC.aac?mp_date=1736253699382
+#EXTINF:-1,CKOF 104.7
+https://fsn-ais-relay2.leanstream.co/cogecomedia/CKOFFM.stream/playlist.m3u8
+#EXTINF:-1,Radio Chablais Francophone
+https://stream.radiochablais.ch/chablais-100francais.mp3
+#EXTINF:-1,Rouge France
+https://rouge-madeinfrance.ice.infomaniak.ch/rouge-madeinfrance-128.mp3
