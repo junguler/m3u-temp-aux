@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,CFAC "Sportsnet 960" Calgary, AB
+https://rogers-hls.leanstream.co/rogers/cal960.stream/playlist.m3u8
+#EXTINF:-1,CFFR "660 News" Calgary, AB
+https://rogers-hls.leanstream.co/rogers/cal660.stream/playlist.m3u8
+#EXTINF:-1,CHKF "FM 94.7" Calgary, AB (correction)
+https://5b2959fe11444.streamlock.net/radio/fm947.stream/playlist.m3u8
+#EXTINF:-1,CHQR 770 Global News Radio - Calgary, AB
+https://live.leanstream.co/CHQRAM-MP3

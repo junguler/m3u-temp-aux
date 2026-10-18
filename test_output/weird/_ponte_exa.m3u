@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1,101.1 Exa FM (Monclova) - 101.1 FM - XHWGR-FM - NRT M�xico - Monclova, Coahuila
+https://radio.nrt-environment.com/hls/exa101/exa.m3u8
+#EXTINF:-1,102.1 Exa FM (San Luis Potos�) - 102.1 FM - XHESL-FM - MG Radio - San Luis Potos�, San Luis Potos�
+https://17803.live.streamtheworld.com/XHESLAAC.aac
+#EXTINF:-1,91.7 Exa FM (Tijuana) - 91.7 FM - XHGLX-FM - MVS Radio - Tijuana, Baja California
+https://27063.live.streamtheworld.com/XHGLXAAC.aac
+#EXTINF:-1,Exa FM
+https://18213.live.streamtheworld.com/XHEXA_SC
+#EXTINF:-1,EXA FM 102.9 (Tehuac�n) - 102.9 FM - XHWJ-FM - Radio TH Comunicaci�n - Tehuac�n, Puebla
+https://14133.live.streamtheworld.com/XHWJ_EXAAAC.aac
+#EXTINF:-1,EXA FM 91.3 (C�rdoba) - 91.3 FM - XHPT-FM - Radio Comunicaciones de las Altas Monta�as - C�rdoba, Veracruz
+https://26353.live.streamtheworld.com/XHPTAAC.aac
+#EXTINF:-1,EXA FM 91.5 (Mexicali) - 91.5 FM - XHJC-FM - MVS Radio - Mexicali, Baja California
+https://17573.live.streamtheworld.com/XHJCFMAAC.aac
+#EXTINF:-1,EXA FM 93.5 (Irapuato) - 93.5 FM - XHNY-FM - Irapuato, Guanajuato
+https://26313.live.streamtheworld.com/XHNYAAC.aac
+#EXTINF:-1,EXA FM 95.5 (Quer�taro) - 95.5 FM - XHOE-FM - Multimundo Radio - Quer�taro, Quer�taro
+https://20603.live.streamtheworld.com/XHOEAAC.aac
+#EXTINF:-1,EXA FM 99.3 (M�rida) - 99.3 FM - XHMRA-FM - MVS Radio - M�rida, Yucat�n
+https://15723.live.streamtheworld.com/XHMRAAAC.aac
+#EXTINF:-1,Exa FM Ciudad del Carmen - 99.7 FM / 1070 AM - XHIT-FM / XEIT-AM - Radiorama - Ciudad del Carmen, Campeche
+https://ss1.audiorama.com.mx:6674/stream

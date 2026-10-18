@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,hr-fernsehen HD
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+#EXTINF:-1,NDR Fernsehen Hamburg
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/master.m3u8
+#EXTINF:-1,NDR Fernsehen MV
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/master.m3u8
+#EXTINF:-1,NDR Fernsehen Niedersachsen
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/master.m3u8
+#EXTINF:-1,NDR Fernsehen SH
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/master.m3u8
+#EXTINF:-1,SR Fernsehen HD
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8

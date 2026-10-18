@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,ABC AFL
+https://streaming.abc-cdn.net.au/audio/hls/itinerantone.m3u8
+#EXTINF:-1,Sportschau live: 1.Bundesliga / Spiel 7
+https://d131.rndfnk.com/ard/wdr/sportschau/liga1spiel7/mp3/128/stream.mp3?cid=01FE1CZB5BY8HAH6Q1CBFAK34N&sid=3Ksr0AqKYDb5Ui7RO4ngfwXsahP&token=VO82Imxhq_ifKDg0nWHpsA6_6Q_mY5RN-md4DbncA4I&tvf=gTITor3O3xhkMTMxLnJuZGZuay5jb20
+#EXTINF:-1,Radio MARCA Asturias
+https://streaming.enacast.com/radiomarcaasturiasHD.mp3
+#EXTINF:-1,Radio MARCA Huelva
+https://sonic.mediatelekom.net/8524/stream
+#EXTINF:-1,95.5 WSB UGA
+https://ad-oom-cmg.streamguys1.com/atl750/atl750-sgplayer-aac?amsparams=playerid%3ASGplayer%3Bskey%3A1731423897754%3B&awparams=playerid%3ASGplayer%3B
+#EXTINF:-1,Fox Sports 1280
+https://stream.revma.ihrhls.com/zc1509/hls.m3u8

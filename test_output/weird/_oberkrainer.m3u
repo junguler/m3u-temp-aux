@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,Radi Frajer
+https://stream2.nextmedia.si/hls/frj/128k/frj-128.m3u8
+#EXTINF:-1,Radio Frajer
+https://stream2.nextmedia.si/hls/frj/live.m3u8

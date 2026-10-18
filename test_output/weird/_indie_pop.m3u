@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1,Moodhoney Radio
+https://moodhoney.com/listen/moodhoney_radio/radio.mp3
+#EXTINF:-1,80s Forever - We Keep The 80s Alive
+https://premium.shoutcastsolutions.com/radio/8050/256.mp3
+#EXTINF:-1,100Indie
+https://100indie.stream.laut.fm/100indie?t302=2026-10-18_22-19-03&uuid=da55d481-5242-4292-5a5e-2ede17d13a3b
+#EXTINF:-1,DREAMPOP-RADIO (https)
+https://dreampopradio.stream.laut.fm/dreampopradio
+#EXTINF:-1,egoFM Snow [LQ]
+https://cast.egofm.de/egosnow.aac?ar-distributor=ffa0&aw_0_req.gdpr=true
+#EXTINF:-1,FluxFM FluxFM Finest | 64k AAC
+https://51-83-105-37-28ffe3.sfn.edge-ovh-gra5.streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/a777b93d-e60c-47f9-be28-1233e6c9802d/stream.aac?source=fluxmusic.api.radiosphere.io&quality=1
+#EXTINF:-1,FluxFM FluxFM Finest | 64k MP3
+https://51-83-105-37-28ffe3.sfn.edge-ovh-gra5.streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/a777b93d-e60c-47f9-be28-1233e6c9802d/stream.mp3?source=fluxmusic.api.radiosphere.io&quality=1
+#EXTINF:-1,FluxFM Listen To Berlin | 320k AAC
+https://51-210-189-143-c12fb8.sfn.edge-ovh-gra5.streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/48b61669-0d2c-4620-b224-cf745c910ea1/stream.aac?source=fluxmusic.api.radiosphere.io&quality=10
+#EXTINF:-1,FluxFM Listen To Berlin | 64k MP3
+https://51-210-189-143-c12fb8.sfn.edge-ovh-gra5.streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/48b61669-0d2c-4620-b224-cf745c910ea1/stream.mp3?source=fluxmusic.api.radiosphere.io&quality=1
+#EXTINF:-1,La Indie
+https://stream.emisorasmusicales.net/listen/la_indie/laindie.mp3
+#EXTINF:-1,RNE Radio 3
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r3_main.m3u8
+#EXTINF:-1,iHeart Indie Radio
+https://stream.revma.ihrhls.com/zc7189/hls.m3u8
+#EXTINF:-1,IndieHQ Radio
+https://davidgmedia.us:8020/radio.mp3
+#EXTINF:-1,KINK 128k aac
+https://22553.live.streamtheworld.com/KINKAAC_SC
+#EXTINF:-1,SomaFM Indie Pop Rocks!
+https://ice4.somafm.com/indiepop-32-aac
+#EXTINF:-1,SomaFM Indie Pop Rocks! (128k AAC)
+https://ice6.somafm.com/indiepop-128-aac
+#EXTINF:-1,SomaFM Indie Pop Rocks! (32k AAC)
+https://ice5.somafm.com/indiepop-32-aac
+#EXTINF:-1,SomaFM Indie Pop Rocks! (64k AAC)
+https://ice6.somafm.com/indiepop-64-aac
+#EXTINF:-1,TMM 1
+https://listen-msmn.sharp-stream.com/nme1.mp3
+#EXTINF:-1,TMM 1 (HQ)
+https://listen-msmn.sharp-stream.com/nme1high.mp3
+#EXTINF:-1,NEU RADIO
+https://nr9.newradio.it/proxy/ebaruffa?mp=/stream
+#EXTINF:-1,Doble Nueve - Live
+https://conectperu.com:7000/stream?icy=http

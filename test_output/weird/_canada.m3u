@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,100% ACID JAZZ
+https://mpc1.mediacp.eu:8356/stream
+#EXTINF:-1,100 % COVERS LOUNGE
+https://az1.mediacp.eu/listen/100coverslounge/radio.mp3
+#EXTINF:-1,A MISSISSIPPI BLUES
+https://cast1.torontocast.com:4450/;?type=http&nocache=1745625391
+#EXTINF:-1,CBC Music - CBH-FM - CBN-FM - Atlantic - Halifax - NS - St. John's - NL - 102.7FM - 106.9 FM
+https://cbcradiolive.akamaized.net/hls/live/2041055/ES_R2AHF/master.m3u8
+#EXTINF:-1,Ottawa Live 885 (CLIVFM)
+https://newcap.leanstream.co/CILVFM-MP3?args=web_03
+#EXTINF:-1,SENSUAL LOUNGE RADIO
+https://kathy.torontocast.com:3590/;?type=http&nocache=1739707069
+#EXTINF:-1,SMOOTH JAZZ DELUXE
+https://cast1.torontocast.com:4490/;?type=http&nocache=1745925758
+#EXTINF:-1,Stoke FM
+https://audio-edge-vqwx4.yyz.g.radiomast.io/fa7ff97e-4b53-4cc8-939c-43aadc971a4c
+#EXTINF:-1,Canada Radio Land
+https://sonic-ca.instainternet.com/8184/stream

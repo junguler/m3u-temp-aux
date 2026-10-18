@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:-1,CBC North - Iqaluit, NU
+https://27033.live.streamtheworld.com/CFFBAM_CBC_SC
+#EXTINF:-1,CBC Radio One - Barrie, ON
+https://26733.live.streamtheworld.com/CBCOFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Calgary, AB (MP3 stream)
+https://26373.live.streamtheworld.com/CBR1FM_CBC_SC
+#EXTINF:-1,CBC Radio One - Corner Brook, NL (MP3 Stream)
+https://26733.live.streamtheworld.com/CBYAM_CBC_SC
+#EXTINF:-1,CBC Radio One - Grand Falls-Windsor, NL (MP3 stream)
+https://26183.live.streamtheworld.com/CBGAM_CBC_SC
+#EXTINF:-1,CBC Radio One - Halifax, NS (MP3 stream)
+https://17813.live.streamtheworld.com/CBHA_CBC_SC
+#EXTINF:-1,CBC Radio One - Happy Valley-Goose Bay, NL (MP3 stream)
+https://26733.live.streamtheworld.com/CFGB_CBC_SC
+#EXTINF:-1,CBC Radio One - Inuvik, NT (MP3 stream)
+https://26373.live.streamtheworld.com/CHAK_CBC_SC
+#EXTINF:-1,CBC Radio One - Kamloops, BC (MP3 stream)
+https://27033.live.streamtheworld.com/CBYKFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Kelowna, BC (MP3 stream)
+https://27033.live.streamtheworld.com/CBTKFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Kitchener-Waterloo, ON (MP3 stream)
+https://26733.live.streamtheworld.com/CBLAFM2_CBC_SC
+#EXTINF:-1,CBC Radio One - London, ON (MP3 stream)
+https://26733.live.streamtheworld.com/CBCLFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Moncton, NB (MP3 stream)
+https://14123.live.streamtheworld.com/CBAMFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Montreal, QC (MP3 stream)
+https://27033.live.streamtheworld.com/CBMEFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Nord Quebec (MP3 stream)
+https://cbcradiolive.akamaized.net/hls/live/2040992/ES_R1ECB/master.m3u8
+#EXTINF:-1,CBC Radio One - Ottawa, ON (MP3 stream)
+https://17813.live.streamtheworld.com/CBOFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Peterborough, ON (MP3 stream)
+https://26373.live.streamtheworld.com/CBCPFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Prince George, BC (MP3 stream)
+https://26373.live.streamtheworld.com/CBYGFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Quebec City, QC (MP3)
+https://27033.live.streamtheworld.com/CBVEFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Regina, SK (MP3 stream)
+https://27033.live.streamtheworld.com/CBKRFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Saint John, NB (MP3 stream)
+https://26733.live.streamtheworld.com/CBDFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Saskatoon, SK (MP3 stream)
+https://27033.live.streamtheworld.com/CBK1FM_CBC_SC
+#EXTINF:-1,CBC Radio One - St. John's, NL (MP3 stream)
+https://26733.live.streamtheworld.com/CBN1_CBC_SC
+#EXTINF:-1,CBC Radio One - Thunder Bay, ON (MP3 stream)
+https://26733.live.streamtheworld.com/CBQTFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Toronto, ON (MP3 stream)
+https://26733.live.streamtheworld.com/CBLAFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Vancouver, BC (MP3 stream)
+https://22983.live.streamtheworld.com/CBU2FM_CBC_SC
+#EXTINF:-1,CBC Radio One - Victoria, BC (MP3 stream)
+https://27033.live.streamtheworld.com/CBCVFM_CBC_SC
+#EXTINF:-1,CBC Radio One - Winnipeg, MB (MP3 stream)
+https://26373.live.streamtheworld.com/CBWAM_CBC_SC
+#EXTINF:-1,CBC Radio One - Yellowknife, NT (MP3)
+https://27033.live.streamtheworld.com/CFYKFM_CBC_SC

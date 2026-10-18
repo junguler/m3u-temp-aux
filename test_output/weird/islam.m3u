@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1,Quran Radio From Sharjah
+https://l3.itworkscdn.net/smcquranlive/quranradiolive/icecast.audio
+#EXTINF:-1,Pendopo Nusantara FM
+https://stream-286.surfernetwork.com/n5tergcf4v8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuNXRlcmdjZjR2OHV2IiwiaG9zdCI6InN0cmVhbS0yODYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlZGalY4SGl6VEgtNnB6SzhQZmVFeVEiLCJpYXQiOjE3OTIzNTY4MTAsImV4cCI6MTc5MjM1Njg3MH0.MbIQomzy9l0mjuLOtes93wzqKHKaNaCCwxygMUCRIiU
+#EXTINF:-1,Quran Radio راديو القرآن - Muhammad Al-Minshawi محمد صديق المنشاوي
+https://radio.mp3islam.com/listen/minshawi/radio.mp3
+#EXTINF:-1,Erkam Radyo
+https://api-tv5.yayin.com.tr:8002/mp3
+#EXTINF:-1,Konya İsra FM
+https://yayin2.canliyayin.org:8210/;stream

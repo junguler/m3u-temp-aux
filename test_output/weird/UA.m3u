@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1,Emmanuel Svitle Radio 67.28
+https://online.svitle.org/hls/svitle/aac_hifi.m3u8
+#EXTINF:-1,Fresh Rock
+https://stream.freshrock.net/320.mp3
+#EXTINF:-1,Інформатор FM
+https://main.inf.fm:8101/;
+#EXTINF:-1,Kharkiv Surf Rock
+https://stream-178.surfernetwork.com/td4yedynbwzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0ZDR5ZWR5bmJ3enV2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InBBZFU5RjcwVC0yZjBNRFBjQl9BTUEiLCJpYXQiOjE3OTIzNTc0MDEsImV4cCI6MTc5MjM1NzQ2MX0.iWeuNvC40wZqTWHfe5PG6QJA6naficRJdkZ_B6SXwjE
+#EXTINF:-1,Люкс FM (Lux FM)
+https://lux.radio.tvstitch.com/kyiv/lux_adv_sd
+#EXTINF:-1,Радіо Канал Благодаті
+https://noasrv.caster.fm:10001/live
+#EXTINF:-1,Радіо MAXIMUM
+https://lux.radio.tvstitch.com/kyiv/max_adv_sd
+#EXTINF:-1,Радіо Nostalgie
+https://lux.radio.tvstitch.com/kyiv/nst_adv_sd
+#EXTINF:-1,Radio Syaivo
+https://stream.ntktv.ua/syaivo.aac
+#EXTINF:-1,Севастополь FM (Sevastopol FM)
+https://mega.amgradio.ru/mega
+#EXTINF:-1,Silhouette Phonk FM
+https://stream-288.surfernetwork.com/71ntub27u18uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3MW50dWIyN3UxOHV2IiwiaG9zdCI6InN0cmVhbS0yODguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjJ2T2YxVGo2VE42NVFFSUE3and6QnciLCJpYXQiOjE3OTIzNTc0MDQsImV4cCI6MTc5MjM1NzQ2NH0.e10D4g2WQx-pr4imejLiVUOk3Bo7VgbDFDMwHzLx5Kw
+#EXTINF:-1,Sun FM - Rock
+https://ec5.yesstreaming.net:3650/stream
+#EXTINF:-1,Trance Is Star Radio
+https://listen7.myradio24.com/tisradio

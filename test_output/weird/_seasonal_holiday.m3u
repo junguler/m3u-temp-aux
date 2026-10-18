@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,Christmasradio24
+https://christmasradio24.stream.laut.fm/christmasradio24?t302=2026-10-18_22-32-24&uuid=24cdf2c9-7d6d-43b6-e918-6d532bc27e5f
+#EXTINF:-1,Sinterklaas Radio
+https://stream.tbmp.nl:8000/sinterklaasradiohigh.mp3
+#EXTINF:-1,Xmas Radio
+https://stream.tbmp.nl:8000/xmasradiohigh.mp3
+#EXTINF:-1,YourClassical Holiday
+https://holiday.stream.publicradio.org/holiday_yc.aac

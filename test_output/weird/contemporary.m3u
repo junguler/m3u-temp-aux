@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1,ABC 106.5MHz FM Mount Isa QLD Northwest Queensland Local Radio
+https://streaming.abc-cdn.net.au/audio/hls/localnorthwest.m3u8
+#EXTINF:-1,ABC 612kHz AM Brisbane QLD Queensland Local Radio 20220701
+https://streaming.abc-cdn.net.au/audio/hls/localbrisbane.m3u8
+#EXTINF:-1,ČRo Wave
+https://rozhlas.stream/wave_mp3_256.mp3
+#EXTINF:-1,FluxFM Anima Radio | 64k AAC
+https://51-210-189-143-c12fb8.sfn.edge-ovh-gra5.streams.radiosphere.io/80d18cd0-3f21-4fcf-99c0-bfc0a9a75e1d/channels/95484471-8386-4858-8e2f-0ad0eb4c8f36/stream.aac?source=fluxmusic.api.radiosphere.io&quality=1
+#EXTINF:-1,FluxFM Anima Radio | 64k MP3
+https://51-210-189-143-c12fb8.sfn.edge-ovh-gra5.streams.radiosphere.io/80d18cd0-3f21-4fcf-99c0-bfc0a9a75e1d/channels/95484471-8386-4858-8e2f-0ad0eb4c8f36/stream.mp3?source=fluxmusic.api.radiosphere.io&quality=1
+#EXTINF:-1,FluxFM B-Funk | 64k MP3
+https://51-210-189-143-c12fb8.sfn.edge-ovh-gra5.streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/85f323a6-e066-49ab-9a3d-fb74030adfae/stream.mp3?source=fluxmusic.api.radiosphere.io&quality=1
+#EXTINF:-1,FluxFM Electronic Chillout | 320k MP3
+https://51-75-13-109-fd35d7.sfn.edge-ovh-gra5.streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/aa1a53ce-7743-444d-a0b9-115ba01c7321/stream.mp3?source=fluxmusic.api.radiosphere.io&quality=10
+#EXTINF:-1,FluxFM Electronic Chillout | 64k AAC
+https://51-75-13-109-fd35d7.sfn.edge-ovh-gra5.streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/aa1a53ce-7743-444d-a0b9-115ba01c7321/stream.aac?source=fluxmusic.api.radiosphere.io&quality=1
+#EXTINF:-1,FluxFM FluxFM Finest | 64k AAC
+https://51-210-189-143-c12fb8.sfn.edge-ovh-gra5.streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/a777b93d-e60c-47f9-be28-1233e6c9802d/stream.aac?source=fluxmusic.api.radiosphere.io&quality=1
+#EXTINF:-1,FluxFM FluxFM Finest | 64k MP3
+https://51-75-13-109-fd35d7.sfn.edge-ovh-gra5.streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/a777b93d-e60c-47f9-be28-1233e6c9802d/stream.mp3?source=fluxmusic.api.radiosphere.io&quality=1
+#EXTINF:-1,FluxFM Indie Disco | 320k AAC
+https://51-210-189-143-c12fb8.sfn.edge-ovh-gra5.streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/cbc089f5-b834-40ca-9438-0b2f4bfb915f/stream.aac?source=fluxmusic.api.radiosphere.io&quality=10
+#EXTINF:-1,FluxFM Indie Disco | 64k MP3
+https://51-210-189-143-c12fb8.sfn.edge-ovh-gra5.streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/cbc089f5-b834-40ca-9438-0b2f4bfb915f/stream.mp3?source=fluxmusic.api.radiosphere.io&quality=1
+#EXTINF:-1,FluxFM Listen To Berlin | 320k AAC
+https://51-210-189-143-c12fb8.sfn.edge-ovh-gra5.streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/48b61669-0d2c-4620-b224-cf745c910ea1/stream.aac?source=fluxmusic.api.radiosphere.io&quality=10
+#EXTINF:-1,FluxFM Listen To Berlin | 64k MP3
+https://51-210-189-143-c12fb8.sfn.edge-ovh-gra5.streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/48b61669-0d2c-4620-b224-cf745c910ea1/stream.mp3?source=fluxmusic.api.radiosphere.io&quality=1
+#EXTINF:-1,Allzic French Mix
+https://allzic65frenchmix.ice.infomaniak.ch/allzic65.aac
+#EXTINF:-1,Nation Radio Wales
+https://edge-ads-05-gos2.sharp-stream.com/tcnationi.aac
+#EXTINF:-1,Omroep Eemsdelta
+https://audio-edge-vqwx4.yyz.g.radiomast.io/063fcf6f-4083-4c4e-85a8-31b0a709f40d
+#EXTINF:-1,Q93.3
+https://stream.revma.ihrhls.com/zc1037/hls.m3u8
+#EXTINF:-1,RT� 2fm
+https://29339.live.streamtheworld.com/RTE_2FM_INTAACLC/HLS/playlist.m3u8?tdsdk=rte
+#EXTINF:-1,Team FM Friesland
+https://22723.live.streamtheworld.com/TEAMFMFRIESLAND.mp3
+#EXTINF:-1,Team FM Overijssel en Noordoostpolder
+https://22723.live.streamtheworld.com/TEAMFMOVERIJSSEL.mp3
+#EXTINF:-1,RadioReload.it
+https://stream3.xdevel.com/audio0s975522-197/stream/icecast.audio
+#EXTINF:-1,R�dio Comercial
+https://stream-hls.bauermedia.pt/comercial.aac/playlist.m3u8
+#EXTINF:-1,SBC Paradise FM - Seychelles Best Mix
+https://streaming.fabrik.fm/paradise-fm/echocast/audio/index.m3u8

@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1,Andina FM 92.9
+https://streaming01.shockmedia.com.ar:10801/stream?icy=http
+#EXTINF:-1,FM Am�rica 99.7
+https://stream-176.surfernetwork.com/dsvp0vvm9k8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkc3ZwMHZ2bTlrOHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImpUd0MtZVZ6UkthQ21VSFhkOWxUcUEiLCJpYXQiOjE3OTIzNTY2MTYsImV4cCI6MTc5MjM1NjY3Nn0.hceADy1YHvIliYyiRymXEWSUOV0JfAT4Evu886UPxkQ
+#EXTINF:-1,FM DEL VALLE 99.9
+https://01.solumedia.com.ar:8764/stream
+#EXTINF:-1,Radio Putupur
+https://audio0.tustreaming.cl/7540/stream
+#EXTINF:-1,Playa Blanca Est�reo 97.7 FM
+https://stream-289.surfernetwork.com/txrl9mo5gkbuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0eHJsOW1vNWdrYnV2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Iktzejh1Rnk2VEdhVkE0Nm1YaUJYcmciLCJpYXQiOjE3OTIzNTY2MTcsImV4cCI6MTc5MjM1NjY3N30.x6781jKgEoSu43mxpk7qy72SRKp6-74pGNxCZkjz-ZQ
+#EXTINF:-1,Criollisima GT
+https://radio.forensedigital.gt:8060/stream
+#EXTINF:-1,Radio Per� Cochabamba
+https://live.radioperu.pe/radioperu
+#EXTINF:-1,RADIO TRINIDAD 1070 AM
+https://maximacenterdata.com/8056/stream
+#EXTINF:-1,Exclusiva FM 103.7 FM
+https://sesion.desdeparaguay.net/hls/playlist.m3u8
+#EXTINF:-1,Fabulosa FM 104.5
+https://radio.host.com.py:7034/;

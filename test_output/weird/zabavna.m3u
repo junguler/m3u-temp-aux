@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,Radio S1 Crna Gora
+https://stream.radios.rs:9008/;
+#EXTINF:-1,Radio S3 Crna Gora
+https://stream.radios.rs:9018/
+#EXTINF:-1,Radio S1
+https://stream.radios.rs:9000/;

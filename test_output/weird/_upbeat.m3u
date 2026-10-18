@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,FluxFM FluxFM Finest | 64k AAC
+https://51-210-189-143-c12fb8.sfn.edge-ovh-gra5.streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/a777b93d-e60c-47f9-be28-1233e6c9802d/stream.aac?source=fluxmusic.api.radiosphere.io&quality=1
+#EXTINF:-1,FluxFM FluxFM Finest | 64k MP3
+https://51-75-13-109-fd35d7.sfn.edge-ovh-gra5.streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/a777b93d-e60c-47f9-be28-1233e6c9802d/stream.mp3?source=fluxmusic.api.radiosphere.io&quality=1
+#EXTINF:-1,FluxFM Indie Disco | 320k AAC
+https://51-210-189-143-c12fb8.sfn.edge-ovh-gra5.streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/cbc089f5-b834-40ca-9438-0b2f4bfb915f/stream.aac?source=fluxmusic.api.radiosphere.io&quality=10
+#EXTINF:-1,FluxFM Indie Disco | 64k MP3
+https://51-210-189-143-c12fb8.sfn.edge-ovh-gra5.streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/cbc089f5-b834-40ca-9438-0b2f4bfb915f/stream.mp3?source=fluxmusic.api.radiosphere.io&quality=1
+#EXTINF:-1,GirlPower Radio
+https://25653.live.streamtheworld.com/GIRLPOWER.mp3
+#EXTINF:-1,HappyHardcore.com
+https://audio-edge-vqwx4.yyz.g.radiomast.io/73055724-1141-41e2-a69b-24a6ca96c8e7
+#EXTINF:-1,Radio Sunbeat
+https://stream.rcs.revma.com/5tbxc6f39yuvv
+#EXTINF:-1,Radio S Gym
+https://stream.radios.rs:9068/stream
+#EXTINF:-1,Radio S Sport
+https://stream.radios.rs:9078/stream

@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1,24/7 London Radio - Royalty Free Music
+https://ec3.yesstreaming.net:3645/stream
+#EXTINF:-1,BBC News HD (720P)
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1,BBC RADIO 1 ANTHEMS: All-day anthems from the 00s to now
+https://as-hls-ww.live.cf.md.bbci.co.uk/pool_11351741/live/ww/bbc_radio_one_anthems/bbc_radio_one_anthems.isml/bbc_radio_one_anthems-audio%3d96000.norewind.m3u8
+#EXTINF:-1,BBC RADIO 1XTRA: Amplifying black music & culture
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_1xtra.m3u8
+#EXTINF:-1,CAPITAL - The UK's No.1 Hit Music Station
+https://media-ssl.musicradio.com/CapitalUK
+#EXTINF:-1, KISS - The Best Vibes & Energy
+https://live-bauerkiss.sharp-stream.com/kissnational.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&=&&___cb=60456375243858
+#EXTINF:-1, KISS XTRA: Black Music & Culture
+https://live-bauerkiss.sharp-stream.com/kissfresh.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&=&&___cb=60456375243858
+#EXTINF:-1, KISSTORY: Non-Stop Old Skool & Anthems
+https://live-bauerkiss.sharp-stream.com/kisstory.aac?direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992
+#EXTINF:-1, KISSTORY R&B: The Hottest R&B tracks from KISSTORY
+https://live-bauerkiss.sharp-stream.com/kisstoryrb.aac?direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992
+#EXTINF:-1,LOVERADIO247
+https://a5.asurahosting.com/listen/loveradio247/radio.mp3
+#EXTINF:-1,Magic Radio UK
+https://stream-mz.hellorayo.co.uk/magicnational.mp3?direct=true&aw_0_1st.playerid=BMUK_TuneIn&aw_0_1st.skey=7374499933&stationCode=mag
+#EXTINF:-1, PLANET ROCK: Where Rock Lives
+https://stream-mz.hellorayo.co.uk/planetrock.aac?direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992
+#EXTINF:-1, VIRGIN RADIO UK: Rock‘n’Roll Radio From The Top Of The Tower
+https://assets.wireless.radio/audio/georestriction-barkers/virgin-stations.mp3
+#EXTINF:-1, CAPITAL ANTHEMS UK: The Songs Capital Made Famous - Londres, Inglaterra
+https://media-ssl.musicradio.com/CapitalAnthemsMP3
+#EXTINF:-1, CAPITAL DANCE: The UK's Official Dance Station - Londres, Inglaterra
+https://media-ssl.musicradio.com/CapitalDance
+#EXTINF:-1, KISS DANCE UK: The biggest dance anthems 24/7 - Londres, Inglaterra
+https://stream-kiss.hellorayo.co.uk/kissdance.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&=&&___cb=60456375243858

@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,FIP
+https://stream.radiofrance.fr/fip/fip.m3u8
+#EXTINF:-1,France Info
+https://stream.radiofrance.fr/franceinfo/franceinfo_hifi.m3u8

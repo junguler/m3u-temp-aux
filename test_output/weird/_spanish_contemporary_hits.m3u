@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1,Radio Pamela FM 107.3
+https://sonic-us.arkeo.cl/8562/stream.mp3?ts=1769817329142
+#EXTINF:-1,WLTJ-92.9 HD2 Radio Las Palmas
+https://ssl.voxservidor.com:7168/;
+#EXTINF:-1,101.1 Exa FM (Monclova) - 101.1 FM - XHWGR-FM - NRT M�xico - Monclova, Coahuila
+https://radio.nrt-environment.com/hls/exa101/exa.m3u8
+#EXTINF:-1,102.1 Exa FM (San Luis Potos�) - 102.1 FM - XHESL-FM - MG Radio - San Luis Potos�, San Luis Potos�
+https://26413.live.streamtheworld.com/XHESLAAC.aac
+#EXTINF:-1,91.7 Exa FM (Tijuana) - 91.7 FM - XHGLX-FM - MVS Radio - Tijuana, Baja California
+https://29306.live.streamtheworld.com/XHGLXAAC.aac
+#EXTINF:-1,  ARROBA FM: Te Conecta
+https://stream-281.surfernetwork.com/6vtcayf9d78uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2dnRjYXlmOWQ3OHV2IiwiaG9zdCI6InN0cmVhbS0yODEuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkxRNy02MksyUnJPaUZBLW5ENDhwSVEiLCJpYXQiOjE3OTIzNTU2MDMsImV4cCI6MTc5MjM1NTY2M30.gdI_O2T4TBUt2Gh0KebVxZio3Ig2mL_tU5BgbSWrzV8
+#EXTINF:-1,EST�REO SOL 101.1 (Ensenada) - 101.1 FM - XHAT-FM - Radio Cadena Enciso (RCE) - Ensenada, Baja California
+https://edge.mixlr.com/channel/gdjut
+#EXTINF:-1,EXA FM 91.5 (Mexicali) - 91.5 FM - XHJC-FM - MVS Radio - Mexicali, Baja California
+https://29318.live.streamtheworld.com/XHJCFMAAC.aac
+#EXTINF:-1,EXA FM 95.5 (Quer�taro) - 95.5 FM - XHOE-FM - Multimundo Radio - Quer�taro, Quer�taro
+https://20603.live.streamtheworld.com/XHOEAAC.aac
+#EXTINF:-1,La 103 Los Mochis 103.9 FM
+https://streaming.soyradioinc.com/la103/stream

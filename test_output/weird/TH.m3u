@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,City Radio Pattaya 90.25 FM
+https://media.onair.one:8200/stream/1/
+#EXTINF:-1,Looktung Eingdoi
+https://inter.lannaradio.com/radio/8000/radio.mp3
+#EXTINF:-1,Looktung Network 98.5 FM
+https://cdn-th2.livestreaming.in.th/shoutcast/8200
+#EXTINF:-1,Thai PBS
+https://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8

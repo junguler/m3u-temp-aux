@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,Radio Atlantis Rotterdam
+https://mpc1.mediacp.eu:8740/;.mp3
+#EXTINF:-1,Tiri 2
+https://servidor34-4.brlogic.com:7138/live?source=website

@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,CIBM-FM 107.1 "FM107" Riviere-du-Loup, QC (128 kbps MP3)
+https://stream.statsradio.com:8050/stream
+#EXTINF:-1,MegastarFM (stereo_aac)
+https://megastar-cope.flumotion.com/chunks.m3u8
+#EXTINF:-1,Eight无限 FM
+https://stream.rcs.revma.com/qp0xrd9mtd3vv

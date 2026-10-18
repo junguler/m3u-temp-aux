@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,Radio 10 Mar del Plata FM 105.5 / Miramar 101.7 / Balcarce
+https://stream-176.surfernetwork.com/4r530f2a9f0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0cjUzMGYyYTlmMHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InA0dm9wcmhnUmptZWE4YnRXYndqRFEiLCJpYXQiOjE3OTIzNTY0NjksImV4cCI6MTc5MjM1NjUyOX0.nvn3-ixRXnAZh66J-OXJddSHrEGjKeO81ZNnj-ZqR3E
+#EXTINF:-1,Blu Radio Cali 91.5 FM
+https://27383.live.streamtheworld.com/BLU_CALI_ADP_SC
+#EXTINF:-1,Deutschlandfunk Dokumente und Debatten | DLF | AAC 192k
+https://d111.rndfnk.com/ard/dlf/04/aac/192/stream.aac?aggregator=web&cid=01FBPXVCY686AW39DC850P5PHM&sid=3Ksq9OVGdQXce4FrHabvruw4rlG&token=4frTyTS41AwVkYugbrwmV_A_Mun7vE_noX-VYJvhqSM&tvf=2SA8uVvO3xhkMTExLnJuZGZuay5jb20
+#EXTINF:-1,Deutschlandfunk Dokumente und Debatten | DLF | AAC 48k
+https://d111.rndfnk.com/ard/dlf/04/aac/48/stream.aac?aggregator=web&cid=01FBPXVCY686AW39DC850P5PHM&sid=3Ksq9M9LwRvUWfKBlliK6wlQLNG&token=1oSw4O94KsUtVXupT9tteKxV1s-P4Emlz3Lpmh5GSLg&tvf=EcBJuVvO3xhkMTExLnJuZGZuay5jb20
+#EXTINF:-1,Deutschlandfunk Dokumente und Debatten | DLF | AAC 96k
+https://d141.rndfnk.com/ard/dlf/04/aac/96/stream.aac?aggregator=web&cid=01FBPXVCY686AW39DC850P5PHM&sid=3Ksq9MSMAIuTBvA6wJ6sb9TEySR&token=wgay5yHQePw1Uu_Webo9iUKFhj6sWVoSSkMzqAvTFF0&tvf=xxhSuVvO3xhkMTQxLnJuZGZuay5jb20
+#EXTINF:-1,Deutschlandfunk Dokumente und Debatten | DLF | MP3 128k
+https://f141.rndfnk.com/ard/dlf/04/mp3/128/stream.mp3?aggregator=web&cid=01FBPXVCY686AW39DC850P5PHM&sid=3Ksq9OSrrjJxZ8MndaIn0mtrXnD&token=4CuYdqR3XDmpb5Nba0F2o_gxSQd4-qJQbpdiM5D-4WY&tvf=yhPkwVvO3xhmMTQxLnJuZGZuay5jb20
+#EXTINF:-1,Matar� R�dio
+https://relay.stream.enacast-cloud.com:30049/mataroradioHD.mp3

@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,Fresh FM
+https://edge.iono.fm/xice/192_medium.aac
+#EXTINF:-1,Izwi LoMzansi
+https://streaming.fabrik.fm/izwi/echocast/audio/index.m3u8
+#EXTINF:-1,Southside Stereo
+https://radio.southsidestereo.co.za/listen/southsidestereo/radio.mp3
+#EXTINF:-1,UbuntuFM
+https://streaming.coollective.nl:8443/UbuntuFM

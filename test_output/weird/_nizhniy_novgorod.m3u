@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,Хит ФМ Нижний Новгород 101.4 FM
+https://online2.gkvr.ru:8000/hitfm_nno_64.aac
+#EXTINF:-1,Радио 7 Нижний Новгород 100.0 FM
+https://online2.gkvr.ru:8000/radio7_nno_64.aac
+#EXTINF:-1,Ретро ФМ Нижний Новгород 106.4 FM
+https://emgregion.hostingradio.ru:8064/nnovgorod.retrofm.mp3
+#EXTINF:-1,Русское радио Нижний Новгород 102.9 FM
+https://online2.gkvr.ru:8000/rusradio_nno_64.aac

@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,Alpha FM 101.7 MHz (S�o Paulo - SP)
+https://24233.live.streamtheworld.com/RADIO_ALPHAFM_ADP.aac
+#EXTINF:-1,Minas FM 104,1 MHz (Divin�polis - MG)
+https://minasfmaac.jmvstream.com/stream
+#EXTINF:-1, # 70s 80s 90s RdMix Network
+https://cast1.torontocast.com:1830/stream
+#EXTINF:-1,Radio Colombina
+https://cast.radioservicios.cl:8314/radio
+#EXTINF:-1,Radio Breidenbach,AutoDJ
+https://radiobreidenbach.spcast.eu/stream?time=1792355034
+#EXTINF:-1,Double Tap Live
+https://s2.radio.co/s1eb3875b8/listen
+#EXTINF:-1,Radio Dzwiek
+https://streamhls.radiodzwiek.slask.pl/dzwiek-mp3
+#EXTINF:-1,BANANRADION
+https://lyssna.bananradion.se/listen/bananradion/128aac

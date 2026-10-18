@@ -1,0 +1,281 @@
+#EXTM3U
+#EXTINF:-1,5MBS 99.9FM (AAC 64)
+https://stream04.sigile.net/5mbs-64-aac
+#EXTINF:-1,ABC Classic 2 HLS
+https://streaming.abc-cdn.net.au/audio/hls/classic2.m3u8
+#EXTINF:-1,ABC Classic HLS
+https://streaming.abc-cdn.net.au/audio/hls/classicnsw.m3u8
+#EXTINF:-1,ABC Classic NT HLS
+https://streaming.abc-cdn.net.au/audio/hls/classicnt.m3u8
+#EXTINF:-1,ABC Classic QLD HLS
+https://streaming.abc-cdn.net.au/audio/hls/classicqld.m3u8
+#EXTINF:-1,ABC Classic SA HLS
+https://streaming.abc-cdn.net.au/audio/hls/classicsa.m3u8
+#EXTINF:-1,ABC Classic WA HLS
+https://streaming.abc-cdn.net.au/audio/hls/classicwa.m3u8
+#EXTINF:-1,ArtSound FM
+https://stream.artsound.fm/mp3
+#EXTINF:-1,R�dio MEC FM
+https://radiomecfm-stream.ebc.com.br/ebc/radiomecfm/MEC_FM-mp4a_277200_eng=20000.m3u8
+#EXTINF:-1,Bas-Saint-Laurent, C�te-Nord, Gasp�sie-�les-de-la-Madeleine (Rimouski, QC)
+https://rcavliveaudio.akamaized.net/hls/live/2006987/M-7QRIM0_RIM/master.m3u8
+#EXTINF:-1,CBC Music - CBH-FM - CBN-FM - Atlantic - Halifax - NS - St. John's - NL - 102.7FM - 106.9 FM
+https://cbcradiolive.akamaized.net/hls/live/2041055/ES_R2AHF/master.m3u8
+#EXTINF:-1,CBC Music Central (Winnipeg) - AAC Stream
+https://cbcradiolive.akamaized.net/hls/live/2041056/ES_R2CWP/adaptive_192/chunklist_ao.m3u8
+#EXTINF:-1,CBC Music Eastern (Toronto) MP3 Stream
+https://22983.live.streamtheworld.com/CBLFM_CBC_SC
+#EXTINF:-1,CBC Music Mountain (Calgary, CBR-FM, 102.1 FM, formerly CBC Radio 2)
+https://cbcradiolive.akamaized.net/hls/live/2041058/ES_R2MED/master.m3u8
+#EXTINF:-1,CBC Music Pacific (Vancouver) MP3 Stream
+https://17813.live.streamtheworld.com/CBUFM_CBC_SC
+#EXTINF:-1,CBC Radio 1 Calgary (CBR - 1010 AM, 99.1 FM)
+https://cbcradiolive.akamaized.net/hls/live/2041039/ES_R1MCG/master.m3u8
+#EXTINF:-1,CFMZ 96.3 "The New Classical FM"
+https://prod-18-204-34-32.amperwave.net/mzmedia-cfmzfmmp3-ibc2?session-id=e0a9f1d8188d105166ff9bf7eb36297e
+#EXTINF:-1,ICI Musique Calgary - 89.7 FM, Edmonton - 101.1 FM (CBCX-FM)
+https://rcavliveaudio.akamaized.net/hls/live/2006999/M-7AEDM0_EDM/master.m3u8
+#EXTINF:-1,Radio Canada Ici Musique (Colombie-Britannique-Yukon, Grand Nord) Vancouver, BC
+https://rcavliveaudio.akamaized.net/hls/live/2006996/M-7BVAN0_VAN/master.m3u8
+#EXTINF:-1,Radio Canada Ici Musique (Estrie) Sherbrooke, QC
+https://rcavliveaudio.akamaized.net/hls/live/2006989/M-7QSHE0_SHE/master.m3u8
+#EXTINF:-1,Radio Canada Ici Musique (Manitoba) Winnipeg, MB
+https://rcavliveaudio.akamaized.net/hls/live/2006998/M-7MWIN0_WIN/master.m3u8
+#EXTINF:-1,Radio Canada Ici Musique (Mauricie-Centre-du-Qu�bec) Trois-Rivieres, QC
+https://rcavliveaudio.akamaized.net/hls/live/2006992/M-7QTRV0_TRV/master.m3u8
+#EXTINF:-1,Radio Canada Ici Musique - Montr�al, QC
+https://rcavliveaudio.akamaized.net/hls/live/2006979/M-7QMTL0_MTL/master.m3u8
+#EXTINF:-1,Radio Canada Ici Musique (Nord de l'Ontario) Sudbury, ON
+https://rcavliveaudio.akamaized.net/hls/live/2006990/M-7OSUB0_SUB/master.m3u8
+#EXTINF:-1,Radio Canada Ici Musique (Nouveau-Brunswick) Moncton, NB
+https://rcavliveaudio.akamaized.net/hls/live/2006980/M-7EMCT0_MCT/master.m3u8
+#EXTINF:-1,Radio Canada Ici Musique - Ottawa, ON
+https://rcavliveaudio.akamaized.net/hls/live/2006986/M-7OOTT0_OTT/master.m3u8
+#EXTINF:-1,Radio Canada Ici Musique  - Qu�bec City, QC
+https://rcavliveaudio.akamaized.net/hls/live/2006650/M-7QQUE0_QUE/master.m3u8
+#EXTINF:-1,Radio Canada Ici Musique (Saguenay-Lac-Saint-Jean) Saguenay, QC
+https://rcavliveaudio.akamaized.net/hls/live/2006988/M-7QSAG0_SAG/master.m3u8
+#EXTINF:-1,Radio Canada Ici Musique (Saskatchewan) Regina, SK
+https://rcavliveaudio.akamaized.net/hls/live/2022748/M-7SREG0_REG/master.m3u8
+#EXTINF:-1,Rete Uno | 32k AAC+
+http://livestreaming-node-2.srg-ssr.ch/srgssr/reteuno/aac/96
+#EXTINF:-1,Symphoniya Wave — Symphoniya.com
+https://symphoniyawave.ice.infomaniak.ch/symphoniyawave-128.mp3
+#EXTINF:-1,0nlineradio BACH
+https://0nlineradio.stream42.radiohost.de/0r-bach?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU0NjI3JmQ9MDU3YzFjOTQ1MzJmNTIxMTdjNWI
+#EXTINF:-1,0nlineradio BEETHOVEN
+https://0nlineradio.stream42.radiohost.de/0r-beethoven?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU0NjI3JmQ9YmM4NmZlOTRlZDA2YWU0NzhjZWU
+#EXTINF:-1,0nlineradio CLASSIC ROCK
+https://0nlineradio.stream42.radiohost.de/0r-classic-rock?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU0NjI3JmQ9YzdhMmEzZWE1NjU1YzkxOWFhZGM
+#EXTINF:-1,0nlineradio H�NDEL
+https://0nlineradio.stream13.radiohost.de/0r-haendel?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU0NjI3JmQ9ODQ0ZGE5NDJiMWE2MzcxMDZlYTA
+#EXTINF:-1,0nlineradio SCHUBERT
+https://0nlineradio.stream39.radiohost.de/0r-schubert?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU0NjI3JmQ9MWI2NjNiYmM3MDZhMTg0OWU4N2M
+#EXTINF:-1,0nlineradio SCHUMANN
+https://0nlineradio.stream42.radiohost.de/0r-schumann?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU0NjI3JmQ9NGEzYzdkNDk0MmZmNjUwNWVhMjA
+#EXTINF:-1,0nlineradio VIVALDI
+https://0nlineradio.stream13.radiohost.de/0r-vivaldi?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU0NjI3JmQ9Yjg2OTVhZTQxYTliMjJhMzFlOGM
+#EXTINF:-1,0R - BACH - CLASSICAL || Classical, Baroque, Orchestra, Piano, Strings, Chamber Music, Solo Instrument, Sacred, Symphonies, Concertos, Melodic, Calm, Relaxing, Instrumental, Elegant
+https://0nlineradio.stream42.radiohost.de/0r-bach?ref=radio-browser26&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU0NjI3JmQ9MDU3YzFjOTQ1MzJmNTIxMTdjNWI
+#EXTINF:-1,0R - BEETHOVEN - CLASSICAL || Classical, Orchestra, Symphony, Piano, Strings, Chamber Music, Concertos, Solo Instrument, Elegant, Relaxing, Timeless, Melodic, Instrumental, Calm, Meditative
+https://0nlineradio.stream42.radiohost.de/0r-beethoven?ref=radio-browser26&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU0NjI3JmQ9YmM4NmZlOTRlZDA2YWU0NzhjZWU
+#EXTINF:-1,0R - CLASSICAL HOTEL LOUNGE - CLASSICAL || Classical, Lounge, Piano, Strings, Elegant, Relax, Instrumental, Calm, Soft, Background, Timeless, Melodic, Sophisticated, Evening, Smooth
+https://0nlineradio.stream39.radiohost.de/classical-classical-hotel-lounge?ref=radio-browser26&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU0NjI3JmQ9ZjA4MDUwOTdmNmFkMTc5NjI1ZDk
+#EXTINF:-1,0R - MOZART - CLASSICAL || Orchestra, Piano, Strings, Chamber, Symphony, Solo Instrument, Elegant, Melodic, Calm, Relaxing, Timeless, Instrumental, Soft, Meditative
+https://0nlineradio.stream39.radiohost.de/0r-mozart?ref=radio-browser26&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU0NjI3JmQ9MGE3MzEyY2NhYzdmOGNmY2ZkNzM
+#EXTINF:-1,0R - MUSIC FOR SLEEP || Sleep, Relax, Calm, Meditation, Nature, Ambient, Soft Music, Piano, Deep Sleep, Peaceful, Chill, Background, Slow, Gentle, Instrumental
+https://0nlineradio.stream13.radiohost.de/classical-classical-music-for-sleep?ref=radio-browser26&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU0NjI3JmQ9YTQ0OWZjNGFlMzAxMzY1ZjQzNTc
+#EXTINF:-1,Antenne Bayern - Bayerische Weihnacht
+https://s6-webradio.antenne.de/bayerische-weihnacht/stream/mp3
+#EXTINF:-1,CHILLOUT PIANO by Epic Piano
+https://0nlineradio.stream13.radiohost.de/piano-chillout-piano?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU3ODIzJmQ9ZTA2NjA2NWI0ZDIyMjI1MWQzMDM
+#EXTINF:-1,CHOPIN by Epic Piano
+https://0nlineradio.stream13.radiohost.de/piano-chopin?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU3ODIzJmQ9ODg0NTRkMzg1MDQwN2IxNDk0NDM
+#EXTINF:-1,CHRISTMAS PIANO by Epic Piano
+https://0nlineradio.stream13.radiohost.de/piano-christmas-piano?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU3ODIzJmQ9NDJkMjJmYTBkN2M2YjQ3YWM0NmY
+#EXTINF:-1,*CLUB CHARTS TOP 100 || IMMER AKTUELL || DJ CHARTS || HOUSE, EDM, DEEP HOUSE - TECH HOUSE - TECHNO - MELODIC TECHNO - EDM - ELECTRONIC DANCE MUSIC - CLUB - DJ - DJ MIX - REMIX - FESTIVAL - FESTIVAL RADIO - IBIZA - IBIZA HOUSE - SUMMER HOUSE - BEACH CLUB -
+https://rautemusik.stream25.radiohost.de/breakz?ref=N1CLUBBING26&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU3ODIzJmQ9NTc3ZjVhNTM4NDVhZGI3ZjEwNDQ
+#EXTINF:-1,EPIC CLASSICAL - Classical Background Music
+https://0nlineradio.stream42.radiohost.de/classical-classical-background-music?upd-meta&upd-scheme=https&_art=dD0xNzkyMzU3ODIzJmQ9MmQzZjYxMjc0MWNhNjg4ZjFkZDY
+#EXTINF:-1,EPIC CLASSICAL - Classical Chillout
+https://0nlineradio.stream13.radiohost.de/classical-classical-chillout?ref=liveradio&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU3ODIzJmQ9YjZiMTU5NTA5MDhmZjc4ZDMyOGM
+#EXTINF:-1,EPIC CLASSICAL - Classical Christmas
+https://0nlineradio.stream42.radiohost.de/classical-classical-christmas?upd-meta&upd-scheme=https&_art=dD0xNzkyMzU3ODIzJmQ9N2U0ZTdkZDBhYjUzZGQxZjhmODA
+#EXTINF:-1,EPIC CLASSICAL - Classical Coffee Bar
+https://0nlineradio.stream13.radiohost.de/classical-classical-coffee-bar?upd-meta&upd-scheme=https&_art=dD0xNzkyMzU3ODIzJmQ9ZmMxMjM0Y2NjNTEyODc5NDk4YjE
+#EXTINF:-1,EPIC CLASSICAL - Classical Dinner
+https://0nlineradio.stream13.radiohost.de/classical-classical-dinner?upd-meta&upd-scheme=https&_art=dD0xNzkyMzU3ODIzJmQ9Nzc3OTJkOTFmNTY4YTgzYzk2OTY
+#EXTINF:-1,EPIC CLASSICAL - Classical Fairy Tales
+https://0nlineradio.stream42.radiohost.de/classical-classical-fairy-tales?upd-meta&upd-scheme=https&_art=dD0xNzkyMzU3ODIzJmQ9MmJkZmUxNDliNDEwZjQ5ZmU3MzQ
+#EXTINF:-1,EPIC CLASSICAL - Classical Guitar
+https://0nlineradio.stream42.radiohost.de/classical-classical-guitar?upd-meta&upd-scheme=https&_art=dD0xNzkyMzU3ODIzJmQ9N2VlOWNhYWIwZmM2YjQzMzEwNjk
+#EXTINF:-1,EPIC CLASSICAL - Classical Hotel Lounge
+https://0nlineradio.stream13.radiohost.de/classical-classical-hotel-lounge?upd-meta&upd-scheme=https&_art=dD0xNzkyMzU3ODIzJmQ9MzcwMDk2MjZkOWU5NWQyZGZlOTY
+#EXTINF:-1,EPIC CLASSICAL - Classical Lounge
+https://0nlineradio.stream13.radiohost.de/classical-classical-lounge?upd-meta&upd-scheme=https&_art=dD0xNzkyMzU3ODIzJmQ9MDQ0NWI3MTVhMDVjN2EzM2ZmMzY
+#EXTINF:-1,EPIC CLASSICAL - Classical Love Music
+https://0nlineradio.stream42.radiohost.de/classical-classical-love-music?upd-meta&upd-scheme=https&_art=dD0xNzkyMzU3ODIzJmQ9ZTFmOTk2NjRjNzVkMWM2Y2IwMmE
+#EXTINF:-1,EPIC CLASSICAL - Classical Meditation
+https://0nlineradio.stream13.radiohost.de/classical-classical-meditation?upd-meta&upd-scheme=https&_art=dD0xNzkyMzU3ODIzJmQ9YzhlMzE5MDFjZTRhMWNhYjY4YzU
+#EXTINF:-1,EPIC CLASSICAL - Classical Music For Sleep
+https://0nlineradio.stream13.radiohost.de/classical-classical-music-for-sleep?upd-meta&upd-scheme=https&_art=dD0xNzkyMzU3ODIzJmQ9MzI5OTMyZDI2MTBkYTA3MWE5MzM
+#EXTINF:-1,EPIC CLASSICAL - Classical Nighttime
+https://0nlineradio.stream42.radiohost.de/classical-classical-nighttime?upd-meta&upd-scheme=https&_art=dD0xNzkyMzU3ODIzJmQ9NTNjMTI4MTMxNmZlMzlkYmNiYTk
+#EXTINF:-1,EPIC CLASSICAL - Classical Orchestral
+https://0nlineradio.stream13.radiohost.de/classical-classical-orchestral?ref=liveradio&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU3ODIzJmQ9MGYyYjU2OTE4N2Y0MDdiNWZhZTA
+#EXTINF:-1,EPIC CLASSICAL - Classical Pan Flute
+https://0nlineradio.stream13.radiohost.de/classical-classical-pan-flute?ref=liveradio&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU3ODIzJmQ9Mjg1OTAwNzI4NGJkYzZkODMwOWY
+#EXTINF:-1,EPIC CLASSICAL - Classical Piano
+https://0nlineradio.stream13.radiohost.de/classical-classical-piano?upd-meta&upd-scheme=https&_art=dD0xNzkyMzU3ODIzJmQ9Nzc4ZDBkYmZiN2NjNDEyZDk1YjE
+#EXTINF:-1,EPIC CLASSICAL - Classical Pop
+https://0nlineradio.stream13.radiohost.de/classical-classical-pop?upd-meta&upd-scheme=https&_art=dD0xNzkyMzU3ODIzJmQ9YjhiNWNhZTg2NTkxYjJkOWVjZjc
+#EXTINF:-1,EPIC CLASSICAL - Classical Relax
+https://0nlineradio.stream13.radiohost.de/classical-classical-relax?upd-meta&upd-scheme=https&_art=dD0xNzkyMzU3ODIzJmQ9M2U4OWQ3NDE3MDE1MjhkNDliMmU
+#EXTINF:-1,EPIC CLASSICAL - Classical Restaurant Music
+https://0nlineradio.stream13.radiohost.de/classical-classical-restaurant-music?upd-meta&upd-scheme=https&_art=dD0xNzkyMzU3ODIzJmQ9Yjg4ZjMyMzFiYzFmN2E5YTg3NTA
+#EXTINF:-1,EPIC CLASSICAL - Classical Romance
+https://0nlineradio.stream42.radiohost.de/classical-classical-romance?upd-meta&upd-scheme=https&_art=dD0xNzkyMzU3ODIzJmQ9Yjc4NTEzZjRhNWQ5Mzk4ZTUxODU
+#EXTINF:-1,EPIC CLASSICAL - Classical Study
+https://0nlineradio.stream42.radiohost.de/classical-classical-study?upd-meta&upd-scheme=https&_art=dD0xNzkyMzU3ODIzJmQ9NTI1M2QxOTlhMjQwM2NmMzFmZWM
+#EXTINF:-1,EPIC CLASSICAL - Classical Sunrise
+https://0nlineradio.stream42.radiohost.de/classical-classical-sunrise?upd-meta&upd-scheme=https&_art=dD0xNzkyMzU3ODIzJmQ9YjhlYzVkNTZmODYwZTFkNzg0NGU
+#EXTINF:-1,EPIC CLASSICAL - Classical Violin
+https://0nlineradio.stream42.radiohost.de/classical-classical-violin?upd-meta&upd-scheme=https&_art=dD0xNzkyMzU3ODIzJmQ9NTVkZGI2NGQ5YmNhNWNlMTZiMTA
+#EXTINF:-1,FMRausch: FM Rausch Radio
+https://fmrausch.stream.laut.fm/fmrausch
+#EXTINF:-1,GREAT PIANO CONCERTS by Epic Piano
+https://0nlineradio.stream13.radiohost.de/piano-great-piano-concerts?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU3ODIzJmQ9Njc4NDEwNGU5YjE1ZmUyMjk5YmU
+#EXTINF:-1,GRIEG by Epic Piano
+https://0nlineradio.stream13.radiohost.de/piano-grieg?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU3ODIzJmQ9N2QxMzA1ODg0ZmU1ZjQ5MjRjNTI
+#EXTINF:-1,__KLASSIK__ by rautemusik (rm.fm)
+https://rautemusik.stream25.radiohost.de/klassik?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU3ODIzJmQ9N2YyMDJlMzdjYTYzMDNkNzY2NGQ
+#EXTINF:-1,Klassik Radio - Christmas
+https://klassikr.streamabc.net/klassikr-christmas-aac-128-2059642?sABC=67588s30%230%23orq240r0103qo0337onr6o922140oq34%23&zrgnvq=s625qppp-7p99-475q-nq51-or7sn3889q24&ezfvq=fryrpg-jro&aw_0_1st.playerid=%26metaid%3Df625dccc-7c99-475d-ad51-be7fa3889d24%26rmsid%3Dselect-web&amsparams=playerid:%26metaid%3Df625dccc-7c99-475d-ad51-be7fa3889d24%26rmsid%3Dselect-web;skey:1733857072
+#EXTINF:-1,Klassik Radio - Klassische Weihnachten
+https://klassikr.streamabc.net/klr_iy6mpimjwei_n5e7-aac-128-5331326?sABC=6758900q%230%23orq240r0103qo0337onr6o922140oq34%23&zrgnvq=13161515-30nq-42r4-no2p-42n979n7n853&ezfvq=fryrpg-jro&aw_0_1st.playerid=%26metaid%3D13161515-30ad-42e4-ab2c-42a979a7a853%26rmsid%3Dselect-web&amsparams=playerid:%26metaid%3D13161515-30ad-42e4-ab2c-42a979a7a853%26rmsid%3Dselect-web;skey:1733857293
+#EXTINF:-1,Klassikradio - Pure Bach [AAC 64 kbit/s]
+https://klassikr.streamabc.net/klr-purebach-aacplus-64-7413950?sABC=6nq53493%230%2314902s8338511o2s154s4734r3rrs129%23fgernz.xynffvxenqvb.qr&aggregator=hoererdirekt&aw_0_1st.playerid=stream.klassikradio.de&amsparams=playerid:stream.klassikradio.de;skey:1792357523
+#EXTINF:-1,LISZT by Epic Piano
+https://0nlineradio.stream13.radiohost.de/piano-liszt?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU3ODI0JmQ9OWFiOWFkZmJiNDdiMGRmYmM3MDU
+#EXTINF:-1,ROMANTIC PIANO by Epic Piano
+https://0nlineradio.stream42.radiohost.de/piano-romantic-piano?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU3ODIzJmQ9OTY4YTZkYjM4Nzg5ZDYzMWM0NGY
+#EXTINF:-1,SOLO PIANO by Epic Piano
+https://0nlineradio.stream13.radiohost.de/piano-solo-piano?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU3ODIzJmQ9OTNmOTAzYTcxNmVkYzkyMDhhYTQ
+#EXTINF:-1,Radio W&M
+https://stream-286.surfernetwork.com/qgeotx9vzpluv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxZ2VvdHg5dnpwbHV2IiwiaG9zdCI6InN0cmVhbS0yODYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ii12cFpwYjd3UXhteEpPU0lxT1VpcUEiLCJpYXQiOjE3OTIzNTc1MjMsImV4cCI6MTc5MjM1NzU4M30.2Rvxfd4sNqhnplMU_C7iZCOn52pvdXnOLCheNte-Qd8
+#EXTINF:-1,CINEMUSIC Radio
+https://listen.radioking.com/radio/422/stream/62785
+#EXTINF:-1,Soft Radio
+https://stream10.xdevel.com/audio14s976748-2279/stream/icecast.audio
+#EXTINF:-1,BSPR Music (Classical, KBSU)
+https://boisestate.streamguys1.com/Music1-aac-128k-icy
+#EXTINF:-1,CC - Christmas
+https://19273.live.streamtheworld.com/CC2_S01AAC_96.aac
+#EXTINF:-1,CC - Classical Americana
+https://18193.live.streamtheworld.com/CC5_S01AAC_96.aac
+#EXTINF:-1,classic nl mind radio
+https://stream.classic.nl/classicnl-mindradio.mp3
+#EXTINF:-1,Classic nl original
+https://stream.classic.nl/classicnl.mp3
+#EXTINF:-1,Classical Catholic Radio
+https://das-edge63-live365-dal03.cdnstream.com/a64105
+#EXTINF:-1,CRB - Boston Early Music
+https://wgbh-live.streamguys1.com/BostonEarlyMusic-8112-aac
+#EXTINF:-1,CRB - BSO Channel
+https://wgbh-live.streamguys1.com/BSOConcert-8106-aac
+#EXTINF:-1,CRB Classical 99.5
+https://wgbh-live.streamguys1.com/classical-hi
+#EXTINF:-1,CRB Classical 99.5 AAC 256
+https://wgbh-live.streamguys1.com/wcrb-itunes-256k
+#EXTINF:-1,CRB Classical 99.5 HLS
+https://wgbh-hls.streamguys1.com/wcrb_hls/playlist.m3u8
+#EXTINF:-1,CRB - Holiday Classical Mix
+https://wgbh-live.streamguys1.com/holiday2.aac
+#EXTINF:-1,CRB - Holiday Classics
+https://wgbh-live.streamguys1.com/holiday3.aac
+#EXTINF:-1,CRB - Holiday Party Soundtrack
+https://wgbh-live.streamguys1.com/holiday1.aac
+#EXTINF:-1,Gentle Praise from Family Life
+https://das-edge13-live365-dal02.cdnstream.com/a59845_2
+#EXTINF:-1,Hopsain Radio
+https://stream.radio.co/sb4fa1aec1/listen
+#EXTINF:-1,Houston Public Media Classical
+https://stream.houstonpublicmedia.org/classical-aac
+#EXTINF:-1,佳音經典音樂網
+https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/classic/playlist.m3u8
+#EXTINF:-1,KCHE Classic Hits 92.1
+https://ice3.securenetsystems.net/KCHEFM
+#EXTINF:-1,KDFC Arcade
+https://19273.live.streamtheworld.com/CC8_S01AAC_96_SC
+#EXTINF:-1,KDFC Classical Christmas
+https://16643.live.streamtheworld.com/CC2_S01AAC_96_SC
+#EXTINF:-1,KDFC Glissando
+https://16643.live.streamtheworld.com/CC9_S01AAC_96_SC
+#EXTINF:-1,KMFA Classical 89.5 Austin TX
+https://kmfa.streamguys1.com/live
+#EXTINF:-1,Культура (AAC+)
+https://icecast-vgtrk.cdnvideo.ru/kulturafm_aac_64kbps
+#EXTINF:-1,NPO Radio 4
+https://icecast.omroep.nl/radio4-sb-aac
+#EXTINF:-1,Organ Magic
+http://listen1.outpostradio.com/omagic
+#EXTINF:-1,PAC 98.7
+https://ice42.securenetsystems.net/WPAC
+#EXTINF:-1,Peaceful Christmas from Family Life
+https://das-edge13-live365-dal02.cdnstream.com/a51517_2
+#EXTINF:-1,Радио Орфей - Бельканто 256kbps
+https://channels.fonotron.ru:8000/Chan_75_256.mp3
+#EXTINF:-1,Радио Орфей - Хоры из опер 256kbps
+https://channels.fonotron.ru:8000/Chan_62_256.mp3
+#EXTINF:-1,Радио Орфей - Камерата 256kbps
+https://channels.fonotron.ru:8000/Chan_76_256.mp3
+#EXTINF:-1,Радио Орфей - Русская хоровая 256kbps
+https://channels.fonotron.ru:8000/Chan_64_256.mp3
+#EXTINF:-1,Радио Орфей - Зарубежная хоровая 256kbps
+https://channels.fonotron.ru:8000/Chan_60_256.mp3
+#EXTINF:-1,RT� Lyric FM
+https://22183.live.streamtheworld.com/RTE_LYRIC_FMAACLC/HLS/playlist.m3u8?tdsdk=rte
+#EXTINF:-1,RTHK Radio 4
+https://rthkradio4-live.akamaized.net/hls/live/2040080/radio4/master.m3u8
+#EXTINF:-1,thegreatiamb Kids
+https://stream-176.surfernetwork.com/fwcpjdir9o1uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJmd2NwamRpcjlvMXV2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImRGbkZvVVl6UmsteUxHazFhNUJZRXciLCJpYXQiOjE3OTIzNTgyODksImV4cCI6MTc5MjM1ODM0OX0.asbjRX09li22F9ONVXiEJehiETZcleKdA1cFouxx3bA
+#EXTINF:-1,thegreatiamb Radio
+https://stream-177.surfernetwork.com/0ntnamyl4q7uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwbnRuYW15bDRxN3V2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjVOU3JtRmVSUlVlMTdCMHZDQXI2bkEiLCJpYXQiOjE3OTIzNTgyODksImV4cCI6MTc5MjM1ODM0OX0.ct-t4fq7gIBKR8y9tAhaxhqcJ5eivLmTyUK4bhII454
+#EXTINF:-1,WDAV 89.9 Classical Public Radio
+https://wdav-ice.streamguys1.com/live
+#EXTINF:-1,WFMT Classical AAC 128
+https://wfmt.streamguys1.com/main128.aac
+#EXTINF:-1,WFMT Classical AAC 256
+https://wfmt.streamguys1.com/main-source
+#EXTINF:-1,WFMT Classical AAC 64
+https://wfmt.streamguys1.com/main64.aac
+#EXTINF:-1,WKCR 89.9 Columbia New York NY
+https://wkcr.streamguys1.com/live
+#EXTINF:-1,WKNC 88.1 HD1
+https://das-edge14-live365-dal02.cdnstream.com/a45877
+#EXTINF:-1,Your Classical Chamber Music
+https://chambermusic.stream.publicradio.org/chambermusic.mp3
+#EXTINF:-1,Your Classical - Holiday
+https://holiday.stream.publicradio.org/holiday_yc.mp3?cb=8282040137
+#EXTINF:-1,YourClassical Black History
+https://blackhistory.stream.publicradio.org/blackhistory.mp3
+#EXTINF:-1,YourClassical Black History Month
+https://blackhistory.stream.publicradio.org/blackhistory.aac
+#EXTINF:-1,YourClassical Children
+https://classicalkids.stream.publicradio.org/classicalkids.aac
+#EXTINF:-1,YourClassical Choral
+https://choral.stream.publicradio.org/choral.aac
+#EXTINF:-1,羊飼いラジオ Hitsujikai Radio
+https://streaming.radio.co/se4a8e6a93/listen
+#EXTINF:-1,FCE-CONTINUO Webradio
+https://listen.radioking.com/radio/551009/stream/610262
+#EXTINF:-1,Magic FM Ckassic Music
+https://dc.digi.live.kissfm.ro/magic-classic
+#EXTINF:-1,Radio Beograd 2
+https://rtsradio-live.morescreens.com/RTS_2_002/playlist.m3u8
+#EXTINF:-1,Radio S Classic
+https://stream.radios.rs:9074/stream
+#EXTINF:-1,Ivory Echoes
+https://mml1.prostream.se/listen/ivory_echoes/radio.mp3
+#EXTINF:-1,RadioTEDU Classic FLAC
+https://stream.radiotedu.com/classic-flac

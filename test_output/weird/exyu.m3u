@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1,Sky Radio 102.5 Skopje, Macedonia
+https://s1.skyradio.com.mk/;*.mp3
+#EXTINF:-1,Star Radio (Boemi) Skopje, Macedonia
+https://radiostar.pro/stream/boemi.php
+#EXTINF:-1,Star Radio (Ex-YU Retro) Skopje, Macedonia
+https://radiostar.pro/stream/exyuretro.php
+#EXTINF:-1,Star Radio (Live) Skopje, Macedonia
+https://radiostar.pro/stream/starlive.php
+#EXTINF:-1,Zrenjanin 103.6
+https://radio.dukahosting.com:7031/stream

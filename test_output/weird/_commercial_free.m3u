@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,Rete Tre | 32k AAC+
+http://livestreaming-node-2.srg-ssr.ch/srgssr/retetre/aac/96
+#EXTINF:-1,Rete Uno | 32k AAC+
+http://livestreaming-node-2.srg-ssr.ch/srgssr/reteuno/aac/96
+#EXTINF:-1,RTR | 32k AAC+
+http://livestreaming-node-1.srg-ssr.ch/srgssr/rr/aac/96
+#EXTINF:-1,Galactic Hearts Radio
+https://ca.azura.linkodev.ch/listen/galactic_hearts_radio/jttcgalactichearts
+#EXTINF:-1,Paradise Tunes
+https://s2.free-shoutcast.com/stream/18102
+#EXTINF:-1,Radio Xtra Dance
+https://c30.radioboss.fm:8613/stream

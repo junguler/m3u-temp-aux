@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,LT+A Radio
+https://lta-radio.ideasdevops.com/listen/lta/radio.mp3
+#EXTINF:-1,CCTV-9纪录伴音
+https://piccpndali.v.myalicdn.com/audio/cctv9_2.m3u8
+#EXTINF:-1,WDR 5 [aac]
+https://wdrhf.akamaized.net/hls/live/2027996-b/wdr5/192/seglist.m3u8
+#EXTINF:-1,Defend Intelligence
+https://anisayari.com/api/public/defend/audio/radio/live.mp3
+#EXTINF:-1,France Culture (sans pub)
+https://stream.radiofrance.fr/franceculture/franceculture.m3u8?id=radiofranceBose
+#EXTINF:-1,Ai Radio TAIWAN 台灣AI電台
+https://n10.rcs.revma.com/h4ta80hbqwuvv
+#EXTINF:-1,Wired FM - FM 99.9 - Limerick, Ireland
+https://s2.radio.co/sf0986595a/listen
+#EXTINF:-1,Radio Strefa Muzy
+https://radiosm.pl:8000/radio.mp3

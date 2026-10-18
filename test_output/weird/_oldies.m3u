@@ -1,0 +1,646 @@
+#EXTM3U
+#EXTINF:-1,CIUDAD 88.5 FM
+https://streaming.escuchanosonline.com:7049/live
+#EXTINF:-1,FM Cielo 88.7
+https://server6.hostradios.com:7108/stream
+#EXTINF:-1,FM Horizonte (historica 94.3)
+https://14223.live.streamtheworld.com/SAM06AAC243_SC
+#EXTINF:-1,FM Horizonte (revival 101.9)
+https://jireh-1-hls-audio-us-isp.dps.live/hls-audio/4e252a65837b69e349d5d8c1033152b4/hztear/playlist/manifest/gotardisz/audio/now/livestream1.m3u8?dpssid=b210396580996ad52b86d5607&sid=ba5t1l1xb213679447996ad52b86d5606&ndvc=1
+#EXTINF:-1,Radio Digital San Luis 101.1 FM
+https://streamconex.com:8062/;
+#EXTINF:-1,Radio Solaria
+https://stream.radiosolaria.com/solaria
+#EXTINF:-1,RADIODJ
+https://pulsedeck.org/listen/radiodj/radio.mp3
+#EXTINF:-1,Vinilo Mix
+https://audiopanel.com.ar:8010/radio.aac
+#EXTINF:-1,5MU
+https://16643.live.streamtheworld.com/MUR_5MUAAC
+#EXTINF:-1,Station X - XRN Australia
+https://us01.xrn.com.au/listen/stx/StxSd
+#EXTINF:-1,The Breez 102.5 Wide Bay
+https://s8.yesstreaming.net:17099/BrzWB
+#EXTINF:-1,Antenne Vorarlberg Oldies but Goldies
+https://edge21.radio.antennevorarlberg.at/av-oldies
+#EXTINF:-1,Popwelle W�rthersee,AutoDJ
+https://popwellezwei.spcast.eu/stream?time=1792355207
+#EXTINF:-1,RTV Unirea International
+https://s1.bcmsol.ro/8002/stream
+#EXTINF:-1,Technikum Gold
+https://stream.radiotechnikum.at/TECHGOLD
+#EXTINF:-1,La Cible
+https://quincy.torontocast.com:3195/stream
+#EXTINF:-1,Nostalgie Vlaanderen
+https://28553.live.streamtheworld.com/NOSTALGIEWHATAFEELING.mp3?dist=radiobrowser
+#EXTINF:-1,Radio LRL
+https://s2.ssl-stream.com/radio/8070/live.mp3
+#EXTINF:-1,Vienna FM
+https://radio.ministry.fr/listen/vienna/radio.mp3
+#EXTINF:-1,Vlaamse Wonderjaren
+https://cast1.torontocast.com:3305/stream
+#EXTINF:-1,BR - The Classic Rock
+https://stream-283.surfernetwork.com/nbq1aq62gd0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuYnExYXE2MmdkMHV2IiwiaG9zdCI6InN0cmVhbS0yODMuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjV6NUQ2b3VIVHAtMzdFeDVKcDdoa1EiLCJpYXQiOjE3OTIzNTUyMDgsImV4cCI6MTc5MjM1NTI2OH0.hj1Rw3olKBx5jdLoFPz5aNqfold6z-uEXRJ4qclNBU0
+#EXTINF:-1,R�dio Studio Flashback
+https://stream-283.surfernetwork.com/6gv76f1xruquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2Z3Y3NmYxeHJ1cXV2IiwiaG9zdCI6InN0cmVhbS0yODMuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlVCYXBVbnluUTZpbDE1Tm9wRHloTGciLCJpYXQiOjE3OTIzNTUyMDgsImV4cCI6MTc5MjM1NTI2OH0.K8of8S2Z4iF9mDh8uOaI67H8Q6aOw_dXXeSt-Db1nEE
+#EXTINF:-1, #1 RdMix Love Songs
+https://maggie.torontocast.com:2020/stream/rdmixlovesongs
+#EXTINF:-1,# 100 GREATEST HEAVY METAL
+https://cast1.torontocast.com:4660/stream
+#EXTINF:-1,# 100 GREATEST JAZZ LOUNGE BAR
+https://cast1.torontocast.com:4640/stream
+#EXTINF:-1, # 70s 80s 90s RdMix Network
+https://cast1.torontocast.com:1830/stream
+#EXTINF:-1,CFZN-FM "93.5 Moose FM" Haliburton, ON
+https://vistaradio.streamb.live/SB00113
+#EXTINF:-1,CHAB 800 Moose Jaw, SK
+https://goldenwest.leanstream.co/CHABAM
+#EXTINF:-1,CJRB 1220 Boissevain, MB
+https://goldenwest.leanstream.co/CJRBAM
+#EXTINF:-1,CJUV-FM 94.1 "Sunny 94" Lacombe, AB   (AAC Stream)
+https://goldenwest.leanstream.co/CJUVFM
+#EXTINF:-1,CJUV-FM 94.1 "Sunny 94" Lacombe, AB (MP3 Stream)
+https://goldenwest.leanstream.co/CJUVFM-MP3
+#EXTINF:-1,CKLK-FM "88.5 The Lake"  Grimsby, ON
+https://26733.live.streamtheworld.com/CKLKFMAAC_SC
+#EXTINF:-1,Nitty-Gritty Music Radio
+https://cast1.torontocast.com:1490/stream
+#EXTINF:-1,RADIOWAVES
+https://quincy.torontocast.com/radiowaves
+#EXTINF:-1, # RdMix Classic Rock 70s 80s 90s
+https://cast1.torontocast.com:4610/stream
+#EXTINF:-1, # RdMix DJSET 70s 80s 90s
+https://cast1.torontocast.com:4560/stream
+#EXTINF:-1, # RdMix Italo Disco 80s
+https://cast1.torontocast.com:2130/stream
+#EXTINF:-1,RetroSouvenirs
+https://listen.radioking.com/radio/108/stream/61183
+#EXTINF:-1,Zoomer Radio (CFZM AM 740 / 96.7 FM)
+https://prod-18-204-34-32.amperwave.net/mzmedia-cfzmammp3-ibc2?session-id=7f61a0b7aa7cfc6006b36a5a2f948303
+#EXTINF:-1,Radio grenzenlos,Radio grenzenlos [SPCast]
+https://grenzenlos.spcast.eu/stream?time=1792357702
+#EXTINF:-1,CLG Radio 93.5 FM
+https://sonic.portalfoxmix.club/8012/streamstream
+#EXTINF:-1,Bridge Radio - 华语 HITS
+https://das-edge11-live365-dal03.cdnstream.com/a57743_2
+#EXTINF:-1,Bridge Radio - 华语 HITS （2）
+https://das-edge14-live365-dal02.cdnstream.com/a57743_2
+#EXTINF:-1,河北旅游文化广播
+https://radio.pull.hebtv.com/live/hebly.m3u8
+#EXTINF:-1,河北音乐广播
+https://radio.pull.hebtv.com/live/hebyy.m3u8
+#EXTINF:-1,河南影视广播
+https://stream.hndt.com/live/yingshi/playlist.m3u8
+#EXTINF:-1,6.90 RADIO ROMANTICAS
+https://stream-178.surfernetwork.com/wdg5vb9hwy8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3ZGc1dmI5aHd5OHV2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjNtM3JhdlhYUlBHbnE4RjJZQ0lnckEiLCJpYXQiOjE3OTIzNTc3MDQsImV4cCI6MTc5MjM1Nzc2NH0.vihErNP5j4-T7lO-IDM9agGzgShlSYZ1YZjTaz-vPCM
+#EXTINF:-1,La Voz del Rio Grande 910 AM
+https://tupanel.info:8410/stream
+#EXTINF:-1,Musical Stereo
+https://sonic.paulatina.co/8156/stream/;
+#EXTINF:-1,Viejitas Pero Bonitas Radio
+https://stream-285.surfernetwork.com/t4pj1qaktrwtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0NHBqMXFha3Ryd3R2IiwiaG9zdCI6InN0cmVhbS0yODUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InRkS0wzWVJ3U3VlTVZzY1ZIYnoyV1EiLCJpYXQiOjE3OTIzNTc3MDUsImV4cCI6MTc5MjM1Nzc2NX0.GuV6ogIPWhrIPJAYtEEi5YFPUcPNz_fXQaHt0NqktDc
+#EXTINF:-1,Radio Sinfonola
+https://live.turadio.stream:7006/
+#EXTINF:-1,0nlineradio 50s
+https://0nlineradio.stream42.radiohost.de/0r-50s?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU4NzIwJmQ9MDNlYjM2MzE0MDk1NTJhZTY0OWQ
+#EXTINF:-1,0nlineradio 70s
+https://0nlineradio.stream42.radiohost.de/0r-70s?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU4NzIwJmQ9ZTg3NzQ3ZmMzNDNlMmMyYWM1OWM
+#EXTINF:-1,0nlineradio 80s
+https://0nlineradio.stream42.radiohost.de/0r-80s?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU4NzIwJmQ9ZmI5YmI1ODRjY2RjMzY5NTE1ODY
+#EXTINF:-1,0nlineradio 90s
+https://0nlineradio.stream13.radiohost.de/0r-90s?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU4NzIwJmQ9MWY0YzAxMWYyYWY0YWEwNzYwOWQ
+#EXTINF:-1,0nlineradio SCHLAGER EVERGREENS
+https://0nlineradio.stream42.radiohost.de/0r-schlager-evergreens?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU4NzIwJmQ9NDNmNWY4YzdhMjQ3OTliYTM2NzM
+#EXTINF:-1,0nlineradio SCHLAGER OLDIES
+https://0nlineradio.stream13.radiohost.de/0r-schlager-oldies?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU4NzIwJmQ9MDMxNWVmYzI0YWQ2NWUzZGIyMmI
+#EXTINF:-1,0R - 80s || 80s Pop, 80s Hits, Synthpop, New Wave, Dance, Disco, Pop Classics, Retro, Teen Pop, Funk, Pop Rock, Chart Hits, 80s Dance, Nostalgic, Hit Songs
+https://0nlineradio.stream42.radiohost.de/0r-80s?ref=radio-browser26&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU4NzIwJmQ9ZmI5YmI1ODRjY2RjMzY5NTE1ODY
+#EXTINF:-1,0R - 80s ROCK || Classic Rock, Hard Rock, Pop Rock, Rock Hits, Guitar, Ballads, Hair Metal, Rock Anthems, Retro, Vintage, Arena Rock, Party Rock, Rock Classics, Melodic Rock
+https://0nlineradio.stream42.radiohost.de/0r-80s-rock?ref=radio-browser26&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU4NzIwJmQ9OTllOTBiNTA1Y2Q2YWYxODE2OWE
+#EXTINF:-1,0R - 90s || 90s Pop, 90s Hits, Eurodance, Hip Hop, R&B, Grunge, Alternative, Techno, Trance, Dance, Chill, Boyband, Girlband, Pop Rock, Nostalgic
+https://0nlineradio.stream13.radiohost.de/0r-90s?ref=radio-browser26&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU4NzIwJmQ9MWY0YzAxMWYyYWY0YWEwNzYwOWQ
+#EXTINF:-1,0R - EURO DANCE || Eurodance, 90s Dance, Pop, Dance, Club, Party, Trance, Techno, Electronic, Vocal, Hits, Energetic, Beat, Night, Dancefloor
+https://0nlineradio.stream13.radiohost.de/technolovers-eurodance?ref=radio-browser26&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU4NzIwJmQ9OGE1NTNkNzczZDZiZmY0ZWZmYzg
+#EXTINF:-1,#1 Splash 60s
+https://c4.auracast.net/radio/8020/radio.mp3
+#EXTINF:-1,1000 70er - laut.fm
+https://100070er.stream.laut.fm/100070er
+#EXTINF:-1,1000 GOLDIES
+https://1000goldies.stream.laut.fm/1000goldies?t302=2026-10-18_23-28-49&uuid=59c6f790-0ae7-f396-2f09-b912974f2595
+#EXTINF:-1,1000 GOLDIES
+https://1000goldies.stream.laut.fm/1000goldies?t302=2026-01-15_05-47-39&uuid=3ab95a19-1c96-4c55-8e81-bef2637010de
+#EXTINF:-1,1000 Oldies - laut.fm
+https://1000oldies.stream.laut.fm/1000oldies
+#EXTINF:-1,* 2000s || 2000er, Pop, Charts, Dance, Electro, RnB, Club Hits, Party, Radio Hits, Mainstream, Teen Pop, Eurodance, Feel Good, Throwback, Klassiker
+https://0nlineradio.stream13.radiohost.de/0r-2000er?ref=rb26&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU5MjMwJmQ9ZmQzOTI0MTYyNjY3Y2I2N2Y3N2I
+#EXTINF:-1,70's 80's 90's Riw Vintage Channel
+https://70s-80s-90s-riw-vintage-channel.stream.laut.fm/70s-80s-90s-riw-vintage-channel?t302=2026-10-18_23-28-50&uuid=502e52ee-329e-a074-4591-d7add28798ec
+#EXTINF:-1,* 70s || Oldies, 70er, Disco, Funk, Soul, Classic Pop, Retro, Kultsongs, Evergreens, Vinyl Vibes, Groovy, Feel Good, Nostalgie, Zeitlos, Charts
+https://0nlineradio.stream39.radiohost.de/0r-70s?ref=rb26&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU5MjMwJmQ9YmU3MjM3YmFmM2I3MWUzZjZlZGY
+#EXTINF:-1,80er-Revival
+https://80er-revival.stream.laut.fm/80er-revival?t302=2026-10-18_23-28-50&uuid=ec78c766-44da-20c6-6887-c06be7e49157
+#EXTINF:-1,__80S__ by rautemusik (rm.fm)
+https://rautemusik.stream25.radiohost.de/rm-80s_mp3-192?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU5MjMwJmQ9MmFlMjJhMTc5ZmY4YzgxMjY3Zjc
+#EXTINF:-1,__90S__ by rautemusik (rm.fm)
+https://rautemusik.stream25.radiohost.de/90s?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU5MjMwJmQ9NWViODU0ZWU3ODY0Y2ZhNTlmYjc
+#EXTINF:-1,Absolut 80ER
+https://edge59.live-sm.absolutradio.de/absolut-80ER/stream/mp3
+#EXTINF:-1,Antenne Sachsen
+https://edge70.radio.antennesachsen.de/antsa-dresden?aggregator=redirect
+#EXTINF:-1,ANTENNE SACHSEN Leipzig
+https://edge60.radio.antennesachsen.de/antsa-leipzig/stream/mp3
+#EXTINF:-1,## CLUB CHARTS - TOP 100 CLUB CHARTS - DJ CHARTS - CLUBBING HITS - DANCE - TECHNO - RAVE - EDM - HOUSE - TECHHOUSE - REMIX - TRANCE - HARDSTYLE - MINIMAL - IBIZA - CHILLOUT - URBAN - HIP HOP - RNB - LATIN RADIO
+https://rautemusik.stream43.radiohost.de/breakz?ref=rb-clubcharts26&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU5MjMxJmQ9NTMzMTMwZDk2OTZmMjU2ZjAxNTk
+#EXTINF:-1,Deutscher Soldatensender von 1970
+https://deutschersoldatensendervon1970.stream.laut.fm/deutscher_soldatensender_von_1970?t302=2026-01-15_07-15-24&uuid=12738ea1-febe-467d-8212-2b73cbf6c5a0
+#EXTINF:-1,EPIC CLASSICAL - Classical Oldies
+https://0nlineradio.stream42.radiohost.de/classical-classical-oldies?upd-meta&upd-scheme=https&_art=dD0xNzkyMzU5MjMxJmQ9MTNkNDk5M2ZhOTY1MTk5ZDYzZmU
+#EXTINF:-1,ffn 607080
+https://ffn.stream47.radiohost.de/ffn-607080radio_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzkyMzU5MjMxJmQ9YjM4YmZjY2FiMTEyM2U3NDI5NzE
+#EXTINF:-1,ffn 708090
+https://ffn.stream47.radiohost.de/ffn-708090_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzkyMzU5MjMxJmQ9Y2I3NWY1YmI2MTlhZTFlNzJkZjU
+#EXTINF:-1,Fl�mingradio
+https://flaemingradio.stream.laut.fm/flaemingradio?t302=2026-10-02_02-24-06&uuid=c30e5732-7b66-2970-44b3-902a3d2f76c4
+#EXTINF:-1,__GOLDIES__ by rautemusik (rm.fm)
+https://rautemusik.stream25.radiohost.de/goldies?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU5MjMxJmQ9MmMyODNjZTY2M2ZiOWVkMzYxN2M
+#EXTINF:-1,Hamburg Zwei
+https://rhh.streamabc.net/rhh-hh2live-aacplus-64-3592440?aggregator=linkhamburgzweide&listenerid=d3935f8d624744bc35a0b13d93e05079
+#EXTINF:-1,harmony +70er
+https://mp3.harmonyfm.de/hrmplus/hq70er.aac?context=fHA6LTE=&amsparams=playerid:harmonyPopup;skey:1631618108&rtffh=ef12279c-76fc-410a-9bd8-4e7cafc7308f&listenerid=ef12279c-76fc-410a-9bd8-4e7cafc7308f
+#EXTINF:-1,Hitradio Mathildenhof
+https://hitradio-mathildenhof.stream.laut.fm/hitradio-mathildenhof
+#EXTINF:-1,kaleidoskop.rocks,AutoDJ
+https://kaleidoskop.spcast.eu/stream?time=1792358932
+#EXTINF:-1,knixx.fm - Dein Webradio
+https://s1.knixx.fm/dein_webradio_64.aac
+#EXTINF:-1,Lueneburger Radio,AutoDJ
+https://luneburgerradio.spcast.eu/stream.mp3?time=1792358932
+#EXTINF:-1,MDR SACHSEN-ANHALT – Das Radio wie wir
+https://mdr-radio-hls.akamaized.net/hls/live/2112894/mdr-284290-2-hls/index.m3u8
+#EXTINF:-1,MDR SACHSEN-ANHALT Dessau
+https://radio-hls.mdr.de/hls/live/2112896/mdr-284290-1-hls/index.m3u8
+#EXTINF:-1,MDR SACHSEN-ANHALT Halle
+https://radio-hls.mdr.de/hls/live/2112894/mdr-284290-2-hls/index.m3u8
+#EXTINF:-1,MDR SACHSEN-ANHALT Magdeburg
+https://radio-hls.mdr.de/hls/live/2112893/mdr-284290-0-hls/index.m3u8
+#EXTINF:-1,MDR SACHSEN-ANHALT Stendal
+https://radio-hls.mdr.de/hls/live/2112895/mdr-284290-3-hls/index.m3u8
+#EXTINF:-1,MDR SACHSEN – Das Sachsenradio
+https://mdr-radio-hls.akamaized.net/hls/live/2112890/mdr-284280-3-hls/index.m3u8
+#EXTINF:-1,MDR SCHLAGERWELT
+https://mdr-radio-hls.akamaized.net/hls/live/2112911/mdr-990701-0-hls/index.m3u8
+#EXTINF:-1,MDR SCHLAGERWELT Sachsen
+https://radio-hls.mdr.de/hls/live/2112912/mdr-990801-0-hls/index.m3u8
+#EXTINF:-1,MDR SCHLAGERWELT Sachsen-Anhalt
+https://radio-hls.mdr.de/hls/live/2112911/mdr-990701-0-hls/index.m3u8
+#EXTINF:-1,MDR SCHLAGERWELT Th�ringen
+https://radio-hls.mdr.de/hls/live/2112910/mdr-990601-0-hls/index.m3u8
+#EXTINF:-1,MDR THÜRINGEN – Das Radio
+https://mdr-radio-hls.akamaized.net/hls/live/2112899/mdr-284300-1-hls/index.m3u8
+#EXTINF:-1,MDR TH�RINGEN Mittel- und Westth�ringen
+https://radio-hls.mdr.de/hls/live/2112898/mdr-284300-0-hls/index.m3u8
+#EXTINF:-1,MDR TH�RINGEN Nordth�ringen
+https://radio-hls.mdr.de/hls/live/2112900/mdr-284300-2-hls/index.m3u8
+#EXTINF:-1,MDR TH�RINGEN Ostth�ringen
+https://radio-hls.mdr.de/hls/live/2112899/mdr-284300-1-hls/index.m3u8
+#EXTINF:-1,MDR TH�RINGEN S�dth�ringen
+https://radio-hls.mdr.de/hls/live/2112902/mdr-284300-3-hls/index.m3u8
+#EXTINF:-1,NDR 1 Niedersachsen (OL)
+https://f131.rndfnk.com/ard/ndr/ndr1niedersachsen/oldenburg/mp3/128/stream.mp3?cid=01FBQ21Y1N8XSK51H70YF5QHEH&sid=3Ksv9Jaag0mSWF2jC5KeGTgqRoy&token=DQ7C71gNb2ky4UNjdPtK1ccSvTJVzMlNxfy1nVKZnW0&tvf=S0U0PJrQ3xhmMTMxLnJuZGZuay5jb20
+#EXTINF:-1,NDR 1 Radio MV
+https://f121.rndfnk.com/ard/ndr/ndr1radiomv/schwerin/mp3/128/stream.mp3?aggregator=web&cid=01FBQ257S6EFPR7ANEZ7PWPK3H&sid=3Ksv9L5vGjuk5ysovojESkMeeCz&token=X7pVLM6jZJM4vucYp8w9lAdOr3N6cDQ5IJ8h8sLzyfQ&tvf=SFstPJrQ3xhmMTIxLnJuZGZuay5jb20
+#EXTINF:-1,Offener Kanal Saarland
+https://offenerkanalsaarland.stream.laut.fm/offenerkanalsaarland?t302=2026-01-15_01-39-59&uuid=68c90ea6-cd30-48e7-a662-d0646a487707
+#EXTINF:-1,OLDIE ANTENNE
+https://s1-webradio.oldie-antenne.de/oldie-antenne?aw_0_1st.playerid=OldieAntenneWebPlayer
+#EXTINF:-1,Oldie Antenne - 60er Hits
+https://s3-webradio.oldie-antenne.de/oldie-antenne-60er-hits/stream/mp3
+#EXTINF:-1,Oldie Antenne - 80er Hits
+https://s7-webradio.oldie-antenne.de/oldie-antenne-80er-hits/stream/mp3?aw_0_1st.playerid=OldieAntenneWebPlayer&aw_0_1st.skey=1706378427399&aw_0_req.userConsentV2=CP5CssAP5CssAAFADBDEAlEgAAAAAAAAAAYgAAAAAAEhIAMAAQL2DQAYAAgXsIgAwABAvYVABgACBewyADAAEC9h0AGAAIF7EIAMAAQL2JQAYAAgXsUgAwABAvYA.YAAAAAAAAAAA&companionAds=false&companion_zone_alias=41%2C42%2C40%2C731%2C752%2C756%2C768
+#EXTINF:-1,oldie-welle-Ingolstadt
+https://funkhaus-ingolstadt.stream24.net/oldie-welle-ingolstadt.mp3
+#EXTINF:-1,OldieStar (AM)
+https://b2.stream19.radiohost.de/b2-oldiestar_mp3-32?ref=radio-browser&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU5NTQ0JmQ9ZDFmYmJhOTc1OWU4ZDU5YmVmZDg
+#EXTINF:-1,OldieStar (FM)
+https://b2.stream19.radiohost.de/b2-oldiestar_mp3-192?ref=radio-browser&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU5NTQ0JmQ9MGNiZjlkZWE3ODYxOTMzMDZiNTU
+#EXTINF:-1,Radio Back in Itime
+https://backintime.stream.laut.fm/back_in_time?uuid=4da6d66a-9793-b1ec-4e62-58c8f4eeda8b&ref=radiode&t302=2026-10-18_23-34-04
+#EXTINF:-1,Radio Brocken Halle-Leipzig
+https://fhhalle.streamabc.net/fhhal-rbhall-mp3-256-2800835?sABC=6nq53o4r%230%2314902s8338511o2s154s4734r3rrs129%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1792359246
+#EXTINF:-1,Radio F - Made in Germany
+https://edge06.streamonkey.net/fhn-radiofmadeingermany/stream/mp3
+#EXTINF:-1,Radio FFN - 80er
+https://ffn.stream22.radiohost.de/ffn-80er_mp3-192?ref=radio-browser&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU5NTQ3JmQ9ZTZlMmZkMGVjYTUzYTc4ZDMxMTM
+#EXTINF:-1,Radio FFN - Gold
+https://ffn.stream24.radiohost.de/ffn-gold_mp3-192?ref=radio-browser&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU5NTQ3JmQ9ZWZkZWE1NDY3Y2Y4NTE5ZDY3ZWM
+#EXTINF:-1,Radio Regenbogen Oldies
+https://audiotainment-sw.streamabc.net/atsw-oldies-mp3-128-2804077?sABC=6nq53o4s%230%2314902s8338511o2s154s4734r3rrs129%23enqvboebjfre&aw_0_1st.playerid=radiobrowser&amsparams=playerid:radiobrowser;skey:1792359247
+#EXTINF:-1,Radio Souvenir 1 - Schlager 1950 bis 1989
+https://souvenir.spcast.eu:443/stream?time=1768456926
+#EXTINF:-1,Radio Souvenir 2 - Schlager von 1930 bis 1949
+https://souvenir2.spcast.eu:443/stream?time=1768456980
+#EXTINF:-1,Radio WNK
+https://radio-wnk.stream.laut.fm/radio-wnk?t302=2026-10-18_23-34-07&uuid=f80a3ba5-8831-66cd-fe60-66b80d97e01b
+#EXTINF:-1,RadioFunAndMore,RadioFunAndMore
+https://radiofunandmore.spcast.eu/stream?time=1792359248
+#EXTINF:-1,Retrowelle 2 - Das Melodienradio (neu)
+https://retrowelle2.stream.laut.fm/retrowelle2?t302=2026-10-18_23-34-08&uuid=b16fa100-21ad-d193-ec95-dbe266cb8980
+#EXTINF:-1,RPR1. Oldies
+https://audiotainment-sw.streamabc.net/atsw-oldies-mp3-128-3736515?sABC=6nq53o50%230%2314902s8338511o2s154s4734r3rrs129%23enqvboebjfre&aw_0_1st.playerid=radiobrowser&amsparams=playerid:radiobrowser;skey:1792359248
+#EXTINF:-1,__SCHLAGER OLDIES__ by rautemusik (rm.fm)
+https://rautemusik.stream37.radiohost.de/rm-schlager-oldies_mp3-192?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU5NTQ4JmQ9ZDFhY2E2ZmZmMGY5MjcxOTE2ZDM
+#EXTINF:-1,SWR1 Die 80er
+https://d121.rndfnk.com/ard/swr/swr/raka16/aac/96/stream.aac?aggregator=web&cid=01FCZAZ2K8SF1QJ7BNCNNGRXJJ&sid=2JDHAZvGoxO64wmxiXn4rAmZmqH&token=g5ndVaCdxQRbT8tS0Xb2n2rXMu3QrDWyRkyg-2rFK58&tvf=Voz6vhLQMhdkMTIxLnJuZGZuay5jb20
+#EXTINF:-1,# TOP 40 DEEJAY CHARTS –  CLUB CHARTS NONSTOP - DANCE & DJ MIX RADIO - 24 HOURS NON-STOP MUSIC @ TikTok Hits, Ibiza House, Sunset Lounge, Melodic Music, EDM, Deep House, Dance Music, Techno, Techhouse & Hypertechno, Rave Charts, Top 40 Charts, Latin, Regg
+https://rautemusik.stream48.radiohost.de/breakz?ref=26T40&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU5NTQ4JmQ9NjljODYyMzFhNTQxODAzNDgyMmM
+#EXTINF:-1,WRAITH VISION
+https://wraith-vision.stream.laut.fm/wraith-vision?t302=2026-10-18_23-34-09&uuid=deeddeb0-c28c-46a8-1443-0c3525cb923f
+#EXTINF:-1,Always ELVIS Radio
+https://radioserver.dk/alwayselvisradio
+#EXTINF:-1,1 Slow-Radio - laut.fm
+https://1slowradio.stream.laut.fm/1_slowradio
+#EXTINF:-1,80s Super Dancefloor
+https://s41.myradiostream.com:33604/;
+#EXTINF:-1,Energ�a Vintage
+https://axarquia.emisiononline.es/radio/8000/radio.mp3
+#EXTINF:-1,_Funky Corner Radio (Spain)
+https://ais-sa2.cdnstream1.com/2447_96.aac
+#EXTINF:-1,La Mega FM Asturias
+https://lamegafmasturias.com
+La Mega FM Asturias
+#EXTINF:-1,R�dio Litoral Oro
+https://stream.serviciospararadios.es/listen/litoral_oro/litoral-oro.mp3
+#EXTINF:-1,Duo Gold (Estonia)
+https://le03.euddn.net/4df6a80de9754b0e96ad4f84e1c81111811f7aba47d2379509ac3cbf474a04b02b5cc342cbe85748a652849ef6b557dda027a1725d936e8d1f25fd0e841b894709b70f0f525144b33433c8b11a853594c38c2f95f06d924d1909db25332562e9198fa4958617b73f0901c7b4bdee50e54299aed5b34df299926ffc79562e4040987dd1987c98e6f11b4b79430ce2294e9d29e186016d517792d06519c9185df1/kuld.aac
+#EXTINF:-1,Retro Love
+https://edge05.cdn.bitflip.ee:8888/RetroJ6ulud
+#EXTINF:-1,Ethio Oldies
+https://www.ethioldies.com/listen/ethioldies/radio.mp3
+#EXTINF:-1,1000 Hits 90s
+https://c4.auracast.net:8050/;
+#EXTINF:-1,CINEMUSIC Radio
+https://listen.radioking.com/radio/422/stream/62785
+#EXTINF:-1,N�ric Collection
+https://radio.neric-collection.fr/listen/neric_collection/radio.mp3
+#EXTINF:-1,Nostalgie Funk
+https://streaming.nrjaudio.fm/ou3khmuizv6i
+#EXTINF:-1,Radio La Belle Aventure
+https://flux.radiolabelleaventure.com/listen/radio_la_belle_aventure/radio.mp3
+#EXTINF:-1,Retro Souvenirs Radio
+https://listen.radioking.com/radio/108/stream/890
+#EXTINF:-1,RTL 100% 80
+https://hls.rtl.fr/OTZmMmRmZWVjNDhlYmQ5MGU2Yzk4ZTQ0NzU1MTE3MGUuMTc5MjQ0NDQ4Nw~~/radio/webOU6MESMYnoHzvZJe8ie5Mi/webradio/rtl-100-80/short/index.m3u8
+#EXTINF:-1,Vertige Radio Gold
+https://stream.vestaradio.com/VertigeRadioGold
+#EXTINF:-1,011.FM - Cruise Control - Road Trip Radio
+https://listen.011fm.com/stream30
+#EXTINF:-1,102,3 The Groove
+https://stream-01.surfernetwork.com/wkn8bqjbgazuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3a244YnFqYmdhenV2IiwiaG9zdCI6InN0cmVhbS0wMS5zdXJmZXJuZXR3b3JrLmNvbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiaXNjN2NmZVFROENpZDMyMlV5UnlvUSIsImlhdCI6MTc5MjM1OTU0MCwiZXhwIjoxNzkyMzU5NjAwfQ.A_3E6PVlAbJTHLE1SfgFjWTLaSS3Q7bNncMAChvCCeo
+#EXTINF:-1,4U Rock Live
+https://str4uice.streamakaci.com/4urocklive.mp3
+#EXTINF:-1,80s Zoom
+https://29327.live.streamtheworld.com/SAM03AAC226_SC
+#EXTINF:-1,95.9 WOXI-LP Oxford, Alabama
+https://ice42.securenetsystems.net:80/CC911FM
+#EXTINF:-1,ABBAradio.com
+https://stream.radio.co/s0489f8245/listen
+#EXTINF:-1,Actual Radio
+https://securestreams.autopo.st:1174/;
+#EXTINF:-1,America's OTR - Gunsmoke
+https://das-edge93-live365-dal05.cdnstream.com/a68303
+#EXTINF:-1,amorsaal
+https://amorsaal.stream.laut.fm/amorsaal?t302=2021-12-21_02-01-37&uuid=f16d1735-9b5e-4734-be53-caadaa9036e3
+#EXTINF:-1,Big 8 Radio
+https://la2.indexcom.com/hls/big8radio/1/64k/program.m3u8
+#EXTINF:-1,Big Beat Brighton
+https://s4.citrus3.com:8366/stream
+#EXTINF:-1,Boomerang 2000s
+https://nl4.mystreaming.net/uber/boomerang2000s/icecast.audio
+#EXTINF:-1,Bridge FM (Wales)
+https://listen-nation.sharp-stream.com/tcbridge.mp3
+#EXTINF:-1,Canada Radio Land
+https://sonic-ca.instainternet.com/8184/stream
+#EXTINF:-1,Classic 1260 KYA
+https://pavo.prostreaming.net:8038/stream
+#EXTINF:-1,Classic Country Legends Radio
+https://stream-178.surfernetwork.com/wf3w5y2rjdhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3ZjN3NXkycmpkaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Inh3eEU1ZEZkU0dTZUluTG9lQVpFSmciLCJpYXQiOjE3OTIzNTk1MzksImV4cCI6MTc5MjM1OTU5OX0.0Dn3PZbbwYpRGBVwjv3e9QNCM1hI5kYRWJKtUH1FQao
+#EXTINF:-1,Edge 2
+https://stream-01.aiir.com/vps1vob4wpfvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2cHMxdm9iNHdwZnZ2IiwiaG9zdCI6InN0cmVhbS0wMS5haWlyLmNvbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiNXpOd3JwR1RUWXVHNFY0dFczM2VtQSIsImlhdCI6MTc5MjM1OTU0NSwiZXhwIjoxNzkyMzU5NjA1fQ.eaZznR7OHF0lkBK88zaY51pg0MOwYmve8ch_N0sIIXw
+#EXTINF:-1,Fama 98.1 FM
+https://server6.globalhostla.com:9356/stream
+#EXTINF:-1,飛揚調頻FM89.5
+https://n13.rcs.revma.com/e0tdah74hv8uv
+#EXTINF:-1,Forest Gold
+https://c2.prostream365.com:8000/live
+#EXTINF:-1,_Funky Corner Radio (USA)
+https://ais-sa2.cdnstream1.com/2447_192.mp3
+#EXTINF:-1,FUNKY RADIO - Only Funk Music (60's & 70's)
+https://funkyradio.streamingmedia.it/audio.aac
+#EXTINF:-1,FUNKY RADIO - Only Funk Music (60's 70's)
+https://funkyradio.streamingmedia.it/play.mp3
+#EXTINF:-1,Gen X Radio
+https://s2.radio.co/sf25229e16/listen
+#EXTINF:-1,Haarlem Shuffle
+https://stream.tbmp.nl:8000/haarlemshufflehigh.mp3
+#EXTINF:-1,Highway Radio Hits
+https://das-edge63-live365-dal03.cdnstream.com/a61976
+#EXTINF:-1,Hospital Radio Norwich
+https://hospita1.radioca.st/;
+#EXTINF:-1,ISKC Old Men's Rock
+https://443-1.autopo.st/79/OldMenRock
+#EXTINF:-1,KISN Good Guys
+https://ice6.securenetsystems.net/KISNLP
+#EXTINF:-1,KVMA Magic 102.9
+https://14093.live.streamtheworld.com/KVMAFMAAC_SC
+#EXTINF:-1,La Dorada 107.5 XHKG
+https://streaming.servicioswebmx.com/8190/stream
+#EXTINF:-1,LA OCHENTERA 91.9 FM
+https://tupanel.info:8018/stream
+#EXTINF:-1,Laishui County Zhengchun 99.9
+https://live.xmcdn.com/live/2628/64.m3u8
+#EXTINF:-1,LOVERADIO247
+https://a5.asurahosting.com/listen/loveradio247/radio.mp3
+#EXTINF:-1,Mega Ask FM
+https://fps4.listen2myradio.com:2199/listen.php?ip=109.169.23.123&port=8350&type=s1
+#EXTINF:-1,Phoenix Radio Wales
+https://listen.radioking.com/radio/432101/stream/485900
+#EXTINF:-1,Quest Radio
+https://ams-pioneer02.dedicateware.com:1735/stream
+#EXTINF:-1,Radio 252
+https://das-edge63-live365-dal03.cdnstream.com/a19931
+#EXTINF:-1,Radio Heart 80s
+https://ice-sov.musicradio.com/Heart80sMP3
+#EXTINF:-1,Radio Hermax
+https://stream.radiohermax.nl/listen/hermax/hermax
+#EXTINF:-1,RADIO MONIQUE 918
+https://radiomonique918.radioca.st/stream
+#EXTINF:-1,Radio Monique 963 AAC 96
+https://happy.radiomonique.nl/listen/happy_oldies/radio96.acc
+#EXTINF:-1,Radio Monique 963 Gold
+https://happy.radiomonique.nl/listen/happy_oldies/radio192.mp3
+#EXTINF:-1,Radio Recital
+https://stream20.usastreams.com/8116/stream
+#EXTINF:-1,Radio Retro
+https://stream-287.surfernetwork.com/07brb24epkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwN2JyYjI0ZXBraHZ2IiwiaG9zdCI6InN0cmVhbS0yODcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlVfMF9iMFpyUnQ2XzIyaEVyQWpRMGciLCJpYXQiOjE3OTIzNTk3NzYsImV4cCI6MTc5MjM1OTgzNn0.O_BenVUbl1iodmxaVIY79ljsK1eYy4yJY5rFVg-idhE
+#EXTINF:-1,RADIO UNIQUE FM /mobile
+https://hilversumdrie.beheerstream.nl/8038/mobile
+#EXTINF:-1,RauteMusik 80S
+https://rautemusik.stream48.radiohost.de/rm-80s_mp3-192?ref=radiobrowser&listenerrmid=31363430313038373438-323030313a313966303a363830313a313964373a353430303a3266663a666537313a62646237-3438343730-53747265616d436865636b426f742f302e312e30&upd-meta&upd-scheme=https&_art=dD0xNzkyMzYwMDc3JmQ9MWQ2YjA2OTQ0YmIwZDMxMDYzZDE
+#EXTINF:-1,Rewind from Family Life
+https://das-edge63-live365-dal03.cdnstream.com/a21060_2
+#EXTINF:-1,Smooth Radio (Suffolk)
+https://media-ssl.musicradio.com/SmoothSuffolk
+#EXTINF:-1,Soleil Radio
+https://stream.rcs.revma.com/sa3ccwa9yy8uv
+#EXTINF:-1,SOUL RADIO Only Classic Soul
+https://listen.soulradio.uk/uk
+#EXTINF:-1,Sound Sugar Radio
+https://c5.radioboss.fm:8220/stream
+#EXTINF:-1,Sunny Radio
+https://stream.revma.ihrhls.com/zc5014
+#EXTINF:-1,The Memories Station
+https://bms.x1023.fm/BMS
+#EXTINF:-1,The Peach | WKLF 95.5
+https://das-edge93-live365-dal05.cdnstream.com/a73583
+#EXTINF:-1,theBIG1510
+https://das-edge93-live365-dal05.cdnstream.com/a23482
+#EXTINF:-1,Throwback 103 (Z103 [KFTZ] Web Radio)
+https://ice26.securenetsystems.net/KFTZ2?playSessionID=CB1B7298-D80B-E801-181EA80344ED131A
+#EXTINF:-1,Tukker FM
+https://stream.tukkerfm.nl/tukkerfm
+#EXTINF:-1,Vibe25 Radio
+https://streamer.radio.co/s7afcaa07d/listen
+#EXTINF:-1,WABC Oldies Time Machine airchecks
+https://sonic-ca.instainternet.com/8144/stream
+#EXTINF:-1,Web Radio Classics WRC
+https://das-edge12-live365-dal02.cdnstream.com/a89361
+#EXTINF:-1,WGHQ 920 Magic 92.5 FM
+https://ais-sa1.streamon.fm/7815_128k.aac
+#EXTINF:-1,WHAV
+https://whav.streamguys1.com:80/live
+#EXTINF:-1,WION AM STEREO 1430
+https://das-edge11-live365-dal03.cdnstream.com/a83993
+#EXTINF:-1,WLS 94.7
+https://29313.live.streamtheworld.com/WLSFM_SC
+#EXTINF:-1,WNAV
+https://stream-01.surfernetwork.com/riq56bfllbcvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyaXE1NmJmbGxiY3Z2IiwiaG9zdCI6InN0cmVhbS0wMS5zdXJmZXJuZXR3b3JrLmNvbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiM29va0RuQjBSQ2lPdlNrTGh1aW41USIsImlhdCI6MTc5MjM1OTc4NSwiZXhwIjoxNzkyMzU5ODQ1fQ.G5zxbM6MOkzGOMGbABwxWlX-5xhjD4a-mtiVbV-nl2w
+#EXTINF:-1,WREN-LP 97.9 The WREN
+https://ice64.securenetsystems.net/WREN
+#EXTINF:-1,WTRY 98.3 M Troy
+https://stream.revma.ihrhls.com/zc1437/hls.m3u8?streamid=1437
+#EXTINF:-1,WVLI 92.7 The Valley
+https://18063.live.streamtheworld.com/WVLIFMAAC_SC
+#EXTINF:-1,WVNR Viva Nostalgia Radio.com - Lewiston, NY
+https://das-edge93-live365-dal05.cdnstream.com/a81785
+#EXTINF:-1,zwaluwradio
+https://zwaluwradio.duckdns.org/live
+#EXTINF:-1,Amvrakia 91.9
+https://ice.streams.ovh:1195/stream
+#EXTINF:-1,D.R.S. FM
+https://drs953.live24.gr/drs953
+#EXTINF:-1,Disco Cafe
+https://azuracast.streams.ovh:8260/radio.mp3
+#EXTINF:-1,Πειρατικός 99.5
+https://shoutcast.k-planet.eu/9800/stream;
+#EXTINF:-1,Retro 937
+https://sp.streams.ovh/8056/stream
+#EXTINF:-1,Cl�sica 102.5 Guatemala
+https://14543.live.streamtheworld.com/CLASICA_1065AAC.aac
+#EXTINF:-1,Estereo Clase 92.9 FM
+https://stream-286.surfernetwork.com/k6grbcx0zceuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrNmdyYmN4MHpjZXV2IiwiaG9zdCI6InN0cmVhbS0yODYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlhBWVZXekhDVENXeHRMeHRkaV9IUlEiLCJpYXQiOjE3OTIzNTk5ODAsImV4cCI6MTc5MjM2MDA0MH0.TutBunzbL-qSlp6A7qefe0rsBLtOJGUFqpB-iIr1CqQ
+#EXTINF:-1,Estereo Cl�sica
+https://streaming.radio.co/s0c06b7076/listen
+#EXTINF:-1,FM FAMA 97.7
+https://s9.myradiostream.com/:46498/stream
+#EXTINF:-1,Prolaznik Evergreen Lepoglava
+https://s8.ssl-stream.com/prolaznik
+#EXTINF:-1,MR7 - Dank� R�di�
+https://mr-stream.connectmedia.hu/4748/mr7.mp3
+#EXTINF:-1,Oxygen Oldies
+https://oxygenmusic.hu:8443/oxygenoldies
+#EXTINF:-1,889 FMberlin
+https://889fmberlin.stream.laut.fm/889fmberlin
+#EXTINF:-1,Tick Tock Radio - 1992
+https://nl4.mystreaming.net/tt/1992/icecast.audio
+#EXTINF:-1,Tick Tock Radio - 1994
+https://nl4.mystreaming.net/tt/1994/icecast.audio
+#EXTINF:-1,Rewind
+https://christmasfm.cdnstream1.com/2551_128.mp3
+#EXTINF:-1,Radio 100% 90s
+https://gb25.streamgates.net/radios-audio/10090s/icecast.audio
+#EXTINF:-1, 50s 60s RETRO HITS
+https://stream-289.surfernetwork.com/pxzwykxbluitv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJweHp3eWt4Ymx1aXR2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ilo4NHowT3otVE8yOS1WajIyeWZPbGciLCJpYXQiOjE3OTIzNTk5ODIsImV4cCI6MTc5MjM2MDA0Mn0.jplxaGAHI1UPiP39v8Ln7ADoNG2K5wRLvmZ2S-rCvHw
+#EXTINF:-1,Radio 70 80 90 Dance Marche
+https://rblive.it:8060/radio.mp3
+#EXTINF:-1,Radio Armisa
+https://onair.armisa.it/listen/armisa/radio.mp3
+#EXTINF:-1,Radio Bella Vita
+https://ice09.fluidstream.net/bellavita.mp3
+#EXTINF:-1,Radio Capital TiV�
+https://streamcdng12-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
+#EXTINF:-1,Radio Delta (83)
+https://radiodelta.stream.laut.fm/radiodelta?t302=2026-10-18_23-46-22&uuid=8af24d35-fb8a-60e4-70c3-9c9d95770d61
+#EXTINF:-1,Radio Digitalia - Ricordi
+https://radiodigitalia-ricordi.stream.laut.fm/radiodigitalia-ricordi?t302=2021-06-10_16-57-30&uuid=8aef2612-2637-4877-8c1b-d3d775186258
+#EXTINF:-1,Radio Energy Italia Web
+https://s9.myradiostream.com/:5824/listen.mp3
+#EXTINF:-1,Radio Freccia
+https://streamcdng11-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_audio.m3u8
+#EXTINF:-1,Radio Italia Cina TV 意大利中国电台电视频道
+https://585b674743bbb.streamlock.net/9054/9054/playlist.m3u8
+#EXTINF:-1,Radio Lattemiele Cagliari
+https://ice09.fluidstream.net/lm_cagliari.mp3?FLID=8
+#EXTINF:-1,Radio Meano
+https://meteomeano.stream.laut.fm/meteomeano?.mp3
+#EXTINF:-1,RADIO PRECISA I pi� trasmessi dal 1975 ad oggi
+https://rprecisa.radioca.st/radioprecisa
+#EXTINF:-1,Sound Italia
+https://stream10.xdevel.com/audio3s975559-2094/stream/icecast.audio
+#EXTINF:-1,Te Ador Radio
+https://sonicpanel.namehost.ro:1260/stream
+#EXTINF:-1,J-Pop Sakura (asia DREAM radio)
+https://quincy.torontocast.com:2070/stream.mp3
+#EXTINF:-1,راديو عالبال
+https://albal-lbnet2.radioca.st/stream.mp3
+#EXTINF:-1,106.9 Classic (MTY) - 106.9 FM - XHPJ-FM - Multimedios Radio - Monterrey, Nuevo Le�n
+https://liveaudio.lamusica.com/MX_XHPJ_icy
+#EXTINF:-1,90s Dance by Mix (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de M�xico
+https://19273.live.streamtheworld.com/ACIR11_S01AAC.aac
+#EXTINF:-1,92.3 Blu FM (Le�n) - 92.3 FM - XHOI-FM - Promomedios - Le�n, Guanajuato
+https://stream-204.surfernetwork.com/0w7y1mu0ra0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwdzd5MW11MHJhMHV2IiwiaG9zdCI6InN0cmVhbS0yMDQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkNLZnB3czVMU0xPNC1sNnpLbmtmZnciLCJpYXQiOjE3OTIzNTk5ODQsImV4cCI6MTc5MjM2MDA0NH0.cKJ-ri3XNmpgYnmSDPMxpTMZ_Qzd6SeFpaBQc6c6sio
+#EXTINF:-1,Azul 89 (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de M�xico
+https://15233.live.streamtheworld.com/ACIR24_S01AAC.aac
+#EXTINF:-1, CLASSIC 106.9 (MTY) - 106.9 FM - XHPJ-FM - Multimedios Radio - Monterrey, Nuevo Le�n
+https://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/673788019b826f0dc1842750?aid=579bd29dc99290cf08362c3b&pid=Jp4vb3CCNIAmEEkVjOG0A1IB0OWLHiKb&sid=yIKHv8CDh9jCqNGJmpVngYsDPb4aBpUP&uid=iemIC2GDKKNFENbQZvhRwu8BSwl04yvE&es=us-b4-p-e-ml19-audio.cdn.mdstrm.com&ote=1792446384694&ot=erjOMAEv4qoQ9tAFyxcy9A&proto=https&pz=us&cP=128000&awCollectionId=579bd29dc99290cf08362c3b&aw_0_1st.playerId=multimedios-radio-app-web&liveId=673788019b826f0dc1842750&propertyName=multimedios-radio-app-web&listenerId=iemIC2GDKKNFENbQZvhRwu8BSwl04yvE
+#EXTINF:-1,CLASSIC 93.9 (Torre�n) - 93.9 FM - XHWN-FM - Multimedios Radio - Torre�n, Coahuila
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/67378091f22f160aaf4c34b1?aid=579bd29dc99290cf08362c3b&pid=ELH9OSRQHQBKJ9RRJrYTUFMe839oYU5v&sid=CwOYTLQ7vM3vlvJ1IAFunq9lJVfhVwXi&uid=tSyY3hzrVUkNe1WlPVfXQJWtlSTTGAhW&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1792446384697&ot=LpzklvByZinVcRlMyL9u1w&proto=https&pz=us&cP=128000&awCollectionId=579bd29dc99290cf08362c3b&aw_0_1st.playerId=multimedios-radio-app-web&liveId=67378091f22f160aaf4c34b1&propertyName=multimedios-radio-app-web&listenerId=tSyY3hzrVUkNe1WlPVfXQJWtlSTTGAhW
+#EXTINF:-1,CLASSIC 96.1 (Tampico) - 96.1 FM - XHON-FM - Multimedios Radio - Tampico, Tamaulipas
+https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/673784f2f22f160aaf4c8e8c?aid=579bd29dc99290cf08362c3b&pid=IUF3wHf6MMqWIUtZBrXpALzL1F1DtiP7&sid=klOuyyU7EuopJ20OTXgW68riNS5jvWWu&uid=MbIYkjmTA6VsNSFbc2Ot6eLsUlpRpQe6&es=us-b4-p-e-jn18-audio.cdn.mdstrm.com&ote=1792446384762&ot=2IlAn6bdRHwO0ULV3eS9nA&proto=https&pz=us&cP=128000&awCollectionId=579bd29dc99290cf08362c3b&aw_0_1st.playerId=multimedios-radio-app-web&liveId=673784f2f22f160aaf4c8e8c&propertyName=multimedios-radio-app-web&listenerId=MbIYkjmTA6VsNSFbc2Ot6eLsUlpRpQe6
+#EXTINF:-1,EL FON�GRAFO, M�sica las 24 horas (CDMX) - Online - Grupo Radio Centro - Ciudad de M�xico
+https://26233.live.streamtheworld.com:443/XEJP_AMAAC.aac
+#EXTINF:-1, �XTASIS DIGITAL 580 (Chihuahua) - 580 AM - XEFI-AM - Radiorama Chihuahua - Chihuahua, Chihuahua
+https://stream-284.surfernetwork.com/n5bw2cz5dkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuNWJ3MmN6NWRraHZ2IiwiaG9zdCI6InN0cmVhbS0yODQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjJ2UFNJcXZfU3plc3k3ZEd5cG9FQUEiLCJpYXQiOjE3OTIzNjAxNzEsImV4cCI6MTc5MjM2MDIzMX0.rKUtj-G3YaV5NQB7iH_BfUsiPwq0vPgfldiVpGUYdx0
+#EXTINF:-1,La Zeta (Hermosillo) - 93.9 FM - XHMV-FM - Uniradio - Hermosillo, Sonora
+https://streamingcwsradio30.com:7027/stream?type=http&nocache=1
+#EXTINF:-1, MIX 101.7 (Morelia) - 101.7 FM - XHEMM-FM - Grupo ACIR - Morelia, Michoac�n
+https://14093.live.streamtheworld.com/XHEMMAAC.aac
+#EXTINF:-1,  MIX: 80's, 90's y M�s
+https://18443.live.streamtheworld.com:443/XHDFMFMAAC.aac
+#EXTINF:-1,MIX (Puebla) - 91.7 FM - XHRC-FM - Grupo ACIR - Puebla, Puebla
+https://16603.live.streamtheworld.com/XHRCFMAAC.aac
+#EXTINF:-1,MVS Noticias - 102.5 FM - XHMVS-FM - MVS Radio - Ciudad de M�xico
+https://26413.live.streamtheworld.com/XHMVSFM_SC
+#EXTINF:-1,Oldies Internet Radio - Online - www.oldiesinternetradio.com - Grupo Digital Retroland - Monterrey, Nuevo Le�n
+https://panel.retrolandigital.com/listen/oldies_internet_radio/listen
+#EXTINF:-1,Radio Felicidad - 1180 AM - XEFR-AM - Grupo ACIR - Ciudad de M�xico
+https://14013.live.streamtheworld.com/XEFRAMAAC.aac
+#EXTINF:-1, RETRO 103.1 (M�rida) - 103.1 FM - XHPYM-FM - Cadena RASA - M�rida, Yucat�n
+https://stream-282.surfernetwork.com/yxnr8zs7v68uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5eG5yOHpzN3Y2OHV2IiwiaG9zdCI6InN0cmVhbS0yODIuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkV3ODJzV1RtU0VpcWk4dFdsT2lzVUEiLCJpYXQiOjE3OTIzNjAxNzMsImV4cCI6MTc5MjM2MDIzM30.72ycUcQ2tjKqDcPBRuLewLimxFA15Payo8fQwPwb2Cg
+#EXTINF:-1,RETRO 98.5 (San Luis Potos�) - 98.5 FM - XHQK-FM - Cadena RASA - San Luis Potos�, San Luis Potos�
+https://stream-291.surfernetwork.com/yms1lgfubmotv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5bXMxbGdmdWJtb3R2IiwiaG9zdCI6InN0cmVhbS0yOTEuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ik9jNE5Qb0ZBUjJxR3VnME9IVEtMU3ciLCJpYXQiOjE3OTIzNjAxNzMsImV4cCI6MTc5MjM2MDIzM30.2V166GRnNbjesa4w1l274imy-Og1nYdF15_Z7PGuHg4
+#EXTINF:-1, RETRO FM 93.9 (Ciudad del Carmen) - 93.9 FM - XHPMEN-FM - Grupo Audiorama Comunicaciones - Ciudad del Carmen, Campeche
+https://ss1.audiorama.com.mx:6572/
+#EXTINF:-1,Roca Fm Clasicos Mexico
+https://xxdelgado.radioca.st/
+#EXTINF:-1,Stereo Cien - 100.1 FM - XHMM-FM - NRM Comunicaciones - Ciudad de M�xico
+https://29321.live.streamtheworld.com/XHMMFMAAC.aac
+#EXTINF:-1,STEREOREY 100.9 (Aguascalientes) - 100.9 FM - XHCAA-FM - Radio Universal - AGuascalientes, Aguascalientes
+https://26313.live.streamtheworld.com/XHCAAAAC.aac
+#EXTINF:-1,  STEREOREY: La M�xima Dimensi�n del Radio
+https://26433.live.streamtheworld.com/STEREOREYAAC.aac
+#EXTINF:-1, UNIVERSAL 88.1 (CDMX) - 88.1 FM - XHRED-FM - Grupo Radio Centro - Ciudad de M�xico
+https://29306.live.streamtheworld.com/XHFO_FMAAC.aac
+#EXTINF:-1,UNIVERSAL Ciudad de M�xico - 88.1 FM - XHRED-FM - Grupo Radio Centro - Ciudad de M�xico
+https://26283.live.streamtheworld.com/XERED_AMAAC.aac
+#EXTINF:-1,VIVE FM 106.3 (Tehuac�n) - 106.3 FM - XHETE-FM - Cinco Radio - Tehuac�n, Puebla
+https://sg.centrocibernetico.com/vive106.3
+#EXTINF:-1,Wonder 80's Flashback
+https://stream-290.surfernetwork.com/97gyvgz7kyvtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5N2d5dmd6N2t5dnR2IiwiaG9zdCI6InN0cmVhbS0yOTAuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InFBM193OFRlU3NXM3pDV1AteDhydFEiLCJpYXQiOjE3OTIzNjAxNzksImV4cCI6MTc5MjM2MDIzOX0.a7CSFlqBs87OxFEjgNj1yJCckMUCY_chPSl7xb1Mu5Y
+#EXTINF:-1,Xadun 107.5
+https://stream-176.surfernetwork.com/z3sbdspshrhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6M3NiZHNwc2hyaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlNVZTNzQ1RrUUNpcFBaQm1Oa3pjalEiLCJpYXQiOjE3OTIzNjAxNzQsImV4cCI6MTc5MjM2MDIzNH0.QeCG4XayP4feK33D5pHS1jsdiOTh6vdJ6lddWaZ4ZNA
+#EXTINF:-1,MBC Taal FM
+https://radio.mbconline.xyz/hls/tallfm.m3u8
+#EXTINF:-1,Music Vault FM
+https://stream-177.surfernetwork.com/zqxbxkviipcvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6cXhieGt2aWlwY3Z2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjVjanFYUkxVUnJLTmlROWRzSW5hUVEiLCJpYXQiOjE3OTIzNjAxNzQsImV4cCI6MTc5MjM2MDIzNH0.wrm82xQU1h2rihSbfpHQ9eH9edaOjvmPfhiP65NmSGU
+#EXTINF:-1,P8 Pop (MP3 128k)
+https://p8.p4groupaudio.com/P08_MM
+#EXTINF:-1,Radio Te Aroha 88FM
+https://c2.radioboss.fm:18440/stream
+#EXTINF:-1,Fm Hits 80s
+https://cast.fmhits80s.net.pe/listen/fm_hits_80s/stream128
+#EXTINF:-1,Happy Station
+https://s3.slotex.pl:7496/stream/1/
+#EXTINF:-1,Kiss FM Poland
+https://streaming.g-news.pl:8090/kissfm
+#EXTINF:-1,RADIO 100
+https://s3.slotex.pl:7278/stream/
+#EXTINF:-1,Radio DHT (kanał główny)
+https://radiodht.com/stream_main/
+#EXTINF:-1,Radio Nestolatki
+https://s1.slotex.pl:7306/stream/1/
+#EXTINF:-1,OldiVille
+https://radio.wowzahosting.com/listen/my_oldies_station_today/radio.mp3
+#EXTINF:-1,Geice FM
+https://ec2.yesstreaming.net:3275/stream
+#EXTINF:-1,M 80 R�dio
+https://stream-icy.bauermedia.pt/m80.mp3
+#EXTINF:-1,Educaci�n FM 99.7
+https://proxy01.servidorenlinea.net/cdehosting/8050/;
+#EXTINF:-1,Clasic Radio_60 -București
+https://live.radioclasic.com/listen/radio_clasic_60/live.mp3
+#EXTINF:-1,Clasic Radio_80 -București
+https://live.radioclasic.com/listen/radio_clasic_80/live.mp3
+#EXTINF:-1,Clasic Radio_90 -București
+https://live.radioclasic.com/listen/radio_clasic_90/live.mp3
+#EXTINF:-1,Dux Radio
+https://radio.duxradio.ro:8002/stream
+#EXTINF:-1,Magic Fm
+https://live.magicfm.ro/magicfm.aacp
+#EXTINF:-1,Magic Gold Hits
+https://live.magicfm.ro/magic.gold.hits
+#EXTINF:-1,Magic Party Mix
+https://live.magicfm.ro/magic.party.mix
+#EXTINF:-1,Magic Șlagăre
+https://dc.digi.live.kissfm.ro/slagare
+#EXTINF:-1,Magic Sunset
+https://live.magicfm.ro/magic.lite
+#EXTINF:-1,Marlene Radio
+https://live.gofm.ro:2000/stream/MARLENERADIO/stream.mp3
+#EXTINF:-1,Radio Boom Gold
+https://stream.radioboom.ro/listen/boom_gold/radio.mp3
+#EXTINF:-1,Radio Coresi 80s -Brașov
+https://s5.radio.co/sfb029759c/listen
+#EXTINF:-1,Radio Coresi Oldies -Brașov
+https://stream.radio.co/s9e0f1e936/listen
+#EXTINF:-1,Radio Energy Cugir - 87,9 FM
+https://sonicssl.namehost.ro/8790/stream
+#EXTINF:-1,Radio Goldies
+https://s10.streamingcloud.online/stream/13664
+#EXTINF:-1,Radio Killer C�mpia Turzii
+https://s12.myradiostream.com:17492/listen.mp3?nocache=1792360313
+#EXTINF:-1,Radio Tequila Oldies
+https://stream-177.surfernetwork.com/5a1utt11fkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1YTF1dHQxMWZraHZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Incxb1BmUF9pUmV5MHJqbFVMMEwzbUEiLCJpYXQiOjE3OTIzNjAzMTMsImV4cCI6MTc5MjM2MDM3M30.ZZs8oO6nwGv2fYlSXxdjTZzoI6B_GCrZydgT7v-7w4c
+#EXTINF:-1,Romantic Radio
+https://azuraromantic.space/listen/radio_romantic/radio.mp3
+#EXTINF:-1,Sky FM - Radio Sky Constanța 101.1 FM
+https://live.radiosky.ro/radiosky.mp3
+#EXTINF:-1,Sound Four You -Craiova 128.0 DAB
+https://ssl.asculta.live/8222/stream
+#EXTINF:-1,SpaceFM Romania -SpaceFM Retro
+https://retro.spacefm.live/listen/spacefm_retro/retro128
+#EXTINF:-1,X Radio -Oradea
+https://stream-175.surfernetwork.com/rd0bc4zkbm0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyZDBiYzR6a2JtMHV2IiwiaG9zdCI6InN0cmVhbS0xNzUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlpPN012dDBjVEY2aFZOSTNuQ01lV1EiLCJpYXQiOjE3OTIzNjAzMTUsImV4cCI6MTc5MjM2MDM3NX0.T1mp71yfQMhN2qgJJT8zvR0bizW9ICGHXuomij5hlJY
+#EXTINF:-1,Radio S Gold
+https://stream.radios.rs:9020/stream
+#EXTINF:-1,Decades
+https://mml1.prostream.se/listen/decades/radio.mp3
+#EXTINF:-1,Radio 789
+https://mml1.prostream.se/listen/radio_789/radio.mp3
+#EXTINF:-1,Stars on 45
+https://mml2.prostream.se/listen/stars_on_45/radio.mp3
+#EXTINF:-1,24 de Agosto
+https://24deagosto-zikoxweb.radioca.st/stream
+#EXTINF:-1,Radio Fm 99.1
+https://rr5100.globalhost1.com/8454/stream
+#EXTINF:-1,99.8 Radio
+https://stream-175.surfernetwork.com/jxniabwipmhtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJqeG5pYWJ3aXBtaHR2IiwiaG9zdCI6InN0cmVhbS0xNzUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InBwQUdUUmhmVG9hckhzSUJxZGw3d1EiLCJpYXQiOjE3OTIzNjAzMTcsImV4cCI6MTc5MjM2MDM3N30.rb8zkudXb2mQopEk7YXJrJNrYf3lHe7lgTX7VP_eQ44

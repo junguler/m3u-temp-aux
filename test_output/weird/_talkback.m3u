@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,2GB 873 Sydney
+https://28093.live.streamtheworld.com/2GBAAC_O/HLS/playlist.m3u8
+#EXTINF:-1,ABC Radio Adelaide
+https://streaming.abc-cdn.net.au/audio/hls/localadelaide.m3u8
+#EXTINF:-1,Vision Christian Radio (MP3)
+https://streams2.vision.org.au/vision128.mp3

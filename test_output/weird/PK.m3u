@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,AK Radio Trarkhal
+https://whmsonic.radio.gov.pk:8076/relay
+#EXTINF:-1,All4Masti
+https://stream-281.surfernetwork.com/bahhkuge5zhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJiYWhoa3VnZTV6aHZ2IiwiaG9zdCI6InN0cmVhbS0yODEuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IndWSjJFVExPU3BlcUNqZnRnSnlPYWciLCJpYXQiOjE3OTIzNTcwODIsImV4cCI6MTc5MjM1NzE0Mn0.5eblvCBmZulxEQ0EkRJBNUtkxDSL-q7T3erCGdLJWxA
+#EXTINF:-1,FM 101 Peshawar
+https://whmsonic.radio.gov.pk:8070/relay
+#EXTINF:-1,NCAC Radio Pakistan
+https://whmsonic.radio.gov.pk:7004/stream
+#EXTINF:-1,Radio Pakistan Lahore
+https://whmsonic.radio.gov.pk:8026/relay
+#EXTINF:-1,Saut Ul Quran
+https://whmsonic.radio.gov.pk:7002/stream

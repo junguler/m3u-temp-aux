@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1,Kronehit TV
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1,北京BTV新闻伴音
+https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv9_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1,BTV科教伴音
+https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv3_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1,BTV生活伴音
+https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1,CCTV-12社会与法伴音
+https://piccpndali.v.myalicdn.com/audio/cctv12_2.m3u8
+#EXTINF:-1,CCTV-13新闻伴音
+https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8
+#EXTINF:-1,CCTV-2财经伴音
+https://piccpndali.v.myalicdn.com/audio/cctv2_2.m3u8
+#EXTINF:-1,CCTV-8电视剧伴音
+https://piccpndali.v.myalicdn.com/audio/cctv8_2.m3u8
+#EXTINF:-1,重庆卫视伴音
+https://piccpndali.v.myalicdn.com/audio/chongqing_2.m3u8
+#EXTINF:-1,福建东南卫视伴音
+https://piccpndali.v.myalicdn.com/audio/dongnan_2.m3u8
+#EXTINF:-1,甘肃卫视伴音
+https://piccpndali.v.myalicdn.com/audio/gansu_2.m3u8
+#EXTINF:-1,广东卫视伴音
+https://piccpndali.v.myalicdn.com/audio/guangdong_2.m3u8
+#EXTINF:-1,广西卫视伴音
+https://piccpndali.v.myalicdn.com/audio/guangxi_2.m3u8
+#EXTINF:-1,河北卫视伴音
+https://piccpndali.v.myalicdn.com/audio/hebei_2.m3u8
+#EXTINF:-1,河南卫视伴音
+https://piccpndali.v.myalicdn.com/audio/henan_2.m3u8
+#EXTINF:-1,黑龙江卫视伴音
+https://piccpndali.v.myalicdn.com/audio/heilongjiang_2.m3u8
+#EXTINF:-1,江西卫视伴音
+https://piccpndali.v.myalicdn.com/audio/jiangxi_2.m3u8
+#EXTINF:-1,内蒙古卫视伴音
+https://piccpndali.v.myalicdn.com/audio/neimenggu_2.m3u8
+#EXTINF:-1,宁夏卫视伴音
+https://piccpndali.v.myalicdn.com/audio/ningxia_2.m3u8
+#EXTINF:-1,山西卫视伴音
+https://piccpndali.v.myalicdn.com/audio/shan1xi_2.m3u8
+#EXTINF:-1,陕西卫视伴音
+https://piccpndali.v.myalicdn.com/audio/shan3xi_2.m3u8
+#EXTINF:-1,铁岭电视台新闻综合频道
+https://live-play-tlrb.newaircloud.com/tlrb/3dc36395-a7a3-4855-9bd6-8d223cf9ac30.m3u8
+#EXTINF:-1,西藏卫视伴音
+https://piccpndali.v.myalicdn.com/audio/xizang_2.m3u8
+#EXTINF:-1,新疆卫视伴音
+https://piccpndali.v.myalicdn.com/audio/xinjiang_2.m3u8
+#EXTINF:-1,云南卫视伴音
+https://piccpndali.v.myalicdn.com/audio/yunnan_2.m3u8
+#EXTINF:-1,Mňau TV
+https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
+#EXTINF:-1,a.tv Augsburg
+https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
+#EXTINF:-1,ARD Alpha HD
+https://mcdn.br.de/br/fs/ard_alpha/hls/int/master.m3u8
+#EXTINF:-1,HR HD
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/master.m3u8
+#EXTINF:-1,tagesschau24 HD
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1,SKAI TV
+https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
+#EXTINF:-1,4fun tv
+https://stream.4fun.tv:8888/sd/4fun.m3u8

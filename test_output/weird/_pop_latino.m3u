@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1,Radio Estrella 93.1 FM
+https://cesarradio.realserver.es/listen/lne_93.1/radio.mp3
+#EXTINF:-1,La Mega (Pereira) 105.2 FM
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/632ce0bf9234f869e9a522af
+#EXTINF:-1,Candela Radio 91.4 FM
+https://radio.streamenginelogin.com:8002/stream
+#EXTINF:-1,digital 94.9 FM
+https://prod-54-208-35-82.amperwave.net/rcomm-kqurfmaac-hlsc4.m3u8?source=v7player&user-id=ecee90d54151a
+#EXTINF:-1,Rumba 98.1 FM
+https://cast20.plugstreaming.com:2020/stream/r981/;
+#EXTINF:-1,Deejay Gasolina
+https://streamcdng15-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaygasolina/playlist.m3u8
+#EXTINF:-1,93.1 Love FM (Hermosillo) - 93.1 FM - XHEPB-FM - Grupo RADIO SA - Hermosillo, Sonora
+https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/66b0f440b47ad3416c6a654a/playlist.m3u8?aid=6673187c6f5d5e97c952d9c6&pid=uETSVjyyE3m30V8CkezaGA9ZSEDv9gAH&sid=1oEYMV70HDLWeQVhF7n9zMtorG57020D&uid=pn3zQJSSSQkiYR9RpyfaS8wO6S1qd9Tr&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1792441691253&ot=_oBGTsO9c7GmhgKby3yBEQ&proto=https&pz=us&cP=128000&awCollectionId=6673187c6f5d5e97c952d9c6&liveId=66b0f440b47ad3416c6a654a&listenerId=pn3zQJSSSQkiYR9RpyfaS8wO6S1qd9Tr
+#EXTINF:-1,EXA FM 99.3 (M�rida) - 99.3 FM - XHMRA-FM - MVS Radio - M�rida, Yucat�n
+https://26143.live.streamtheworld.com/XHMRAAAC.aac
+#EXTINF:-1,Flow: Reguet�n & Pop Latino
+https://19273.live.streamtheworld.com/ACIR26_S01AAC/HLS/playlist.m3u8
+#EXTINF:-1,La 103 Los Mochis 103.9 FM
+https://streaming.soyradioinc.com/la103/stream
+#EXTINF:-1,M�xima 97.7 FM Ciudad Obreg�n
+https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/66e9d6f5a8e915acd1a5090d/playlist.m3u8?aid=6673187c6f5d5e97c952d9c6&pid=wj0z7HQPBLpBvjITXa7a44jTYPtOM7Me&sid=Sre6JwtYu0iIeRArjOUrF9TV4yPm5oRG&uid=R2WyM4Ahc3KTMaDTdf4EEI3Zw0QNm6b5&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1792441691394&ot=QMOuj38r4M3cenDnmZmJ4A&proto=https&pz=us&cP=128000&awCollectionId=6673187c6f5d5e97c952d9c6&liveId=66e9d6f5a8e915acd1a5090d&listenerId=R2WyM4Ahc3KTMaDTdf4EEI3Zw0QNm6b5
+#EXTINF:-1, MEGA 96.3 (Los �ngeles) - 96.3 FM - KXOL-FM - Spanish Broadcasting System - Los �ngeles, California, EUA
+https://liveaudio.lamusica.com/LA_KXOL_icy
+#EXTINF:-1,Rclasicos 96.9 FM
+https://s5.mexside.net:8100/stream
+#EXTINF:-1,La Kalle 96.1
+https://lakalle.egostreaming.pe/radio/a7b9c3e4567f8d0123456789/

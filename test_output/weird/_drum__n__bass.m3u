@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1,Rekt Network
+https://stream.rekt.network/rekt.ogg
+#EXTINF:-1,__BASS__ by rautemusik (rm.fm)
+https://rautemusik.stream38.radiohost.de/rm-bass_mp3-192?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU0NzQ1JmQ9MjU3ZjA0MGNhZGU0YjhlNmVjY2Y
+#EXTINF:-1,Technolovers DRUM N BASS
+https://0nlineradio.stream42.radiohost.de/technolovers-drummnbass?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU0NzQ0JmQ9YTliNmU3MTY3YjM5YjkyNWY5MjU
+#EXTINF:-1,__TRAP__ by rautemusik (rm.fm)
+https://rautemusik.stream43.radiohost.de/trap?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU0NzQ1JmQ9NjZiMTA4M2FkOThmOTUzNDM4ZjE
+#EXTINF:-1,Sky Plus D'N'B
+https://edge01.cdn.bitflip.ee:8888/NRJdnb
+#EXTINF:-1,BBC RADIO 1XTRA: Amplifying black music & culture
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_1xtra.m3u8
+#EXTINF:-1,dealership radio
+https://radio-server.dship.biz/listen/dealership_radio/radio.mp3
+#EXTINF:-1,mosthighradio
+https://listen.mosthighradio.co.uk/listen/mosthighradiouk/hd.mp3
+#EXTINF:-1,Record Piratestation
+https://radiorecord.hostingradio.ru/ps96.aacp
+#EXTINF:-1,RES: Rewind
+https://cst.res.ad/rw320
+#EXTINF:-1,Sub FM
+https://fmsub.radioca.st/stream?type=http&nocache=140

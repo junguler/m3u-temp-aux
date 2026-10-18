@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,NDR Fernsehen Hamburg
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/master.m3u8
+#EXTINF:-1,NDR Fernsehen MV
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/master.m3u8
+#EXTINF:-1,NDR Fernsehen Niedersachsen
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/master.m3u8
+#EXTINF:-1,NDR Fernsehen SH
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/master.m3u8

@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:-1,Veracruz stereo
+https://radio.veracruzstereo.com:8000/live
+#EXTINF:-1,BBC RADIO 1XTRA: Amplifying black music & culture
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_1xtra.m3u8
+#EXTINF:-1,94.9 FM
+https://18073.live.streamtheworld.com/949FM_ADP/HLS/playlist.m3u8
+#EXTINF:-1,106.9 Classic (MTY) - 106.9 FM - XHPJ-FM - Multimedios Radio - Monterrey, Nuevo Le�n
+https://liveaudio.lamusica.com/MX_XHPJ_icy
+#EXTINF:-1,90s Dance by Mix (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de M�xico
+https://19273.live.streamtheworld.com/ACIR11_S01AAC.aac
+#EXTINF:-1,92.3 Blu FM (Le�n) - 92.3 FM - XHOI-FM - Promomedios - Le�n, Guanajuato
+https://stream-283.surfernetwork.com/0w7y1mu0ra0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwdzd5MW11MHJhMHV2IiwiaG9zdCI6InN0cmVhbS0yODMuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ii1XRVJ3S3gwUzV5bXZiVHFDZlMtdkEiLCJpYXQiOjE3OTIzNTQ5MzksImV4cCI6MTc5MjM1NDk5OX0._d-Rs54pNlSy_Zib3W8JHPe34nMJYYTVhiQN8hGLKzs
+#EXTINF:-1, CAPITAL ANTHEMS UK: The Songs Capital Made Famous - Londres, Inglaterra
+https://media-ssl.musicradio.com/CapitalAnthemsMP3
+#EXTINF:-1, CAPITAL DANCE: The UK's Official Dance Station - Londres, Inglaterra
+https://media-ssl.musicradio.com/CapitalDance
+#EXTINF:-1,  CHILANGO RADIO: La Radio Que Viene, Viene
+https://stream.radio.co/s938b68214/listen
+#EXTINF:-1, CLASSIC 106.9 (MTY) - 106.9 FM - XHPJ-FM - Multimedios Radio - Monterrey, Nuevo Le�n
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/673788019b826f0dc1842750?aid=579bd29dc99290cf08362c3b&pid=eJBMuGMItI6TLHZIgsOWtrYG4zOxG9ki&sid=o7blhidEnSOwpnPryn32ft3EaP58sbxi&uid=6wsX5tU0XdnsTvJe4rqT34yb10Q26e72&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1792441339613&ot=1NXmtkXNn5RNTDhoJzIFfA&proto=https&pz=us&cP=128000&awCollectionId=579bd29dc99290cf08362c3b&aw_0_1st.playerId=multimedios-radio-app-web&liveId=673788019b826f0dc1842750&propertyName=multimedios-radio-app-web&listenerId=6wsX5tU0XdnsTvJe4rqT34yb10Q26e72
+#EXTINF:-1,CLASSIC 93.9 (Torre�n) - 93.9 FM - XHWN-FM - Multimedios Radio - Torre�n, Coahuila
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/67378091f22f160aaf4c34b1?aid=579bd29dc99290cf08362c3b&pid=x4Gk38ChwZC7IDcx8rJ3Xrb1JkLma4bD&sid=ENPSJhBg2Jb0YuscfYO8beuUhvyK11Og&uid=BvTJ8ogXtUlpyx9VeTmBpuZ9RC2xVw8X&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1792441339644&ot=i7kmLgQ1vATa8NooexN3Yg&proto=https&pz=us&cP=128000&awCollectionId=579bd29dc99290cf08362c3b&aw_0_1st.playerId=multimedios-radio-app-web&liveId=67378091f22f160aaf4c34b1&propertyName=multimedios-radio-app-web&listenerId=BvTJ8ogXtUlpyx9VeTmBpuZ9RC2xVw8X
+#EXTINF:-1,CLASSIC 96.1 (Tampico) - 96.1 FM - XHON-FM - Multimedios Radio - Tampico, Tamaulipas
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/673784f2f22f160aaf4c8e8c?aid=579bd29dc99290cf08362c3b&pid=qSalWyLIoyxXNTP95RdcidtBsfu4COf1&sid=2JFh3IOvoGJNY9NvA6VK6YmMggOpJzke&uid=3BzE24hhpFub4PLXYsfRqrQBPuLzun0d&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1792441339670&ot=512Q1R8_8EuafYzwqktxIg&proto=https&pz=us&cP=128000&awCollectionId=579bd29dc99290cf08362c3b&aw_0_1st.playerId=multimedios-radio-app-web&liveId=673784f2f22f160aaf4c8e8c&propertyName=multimedios-radio-app-web&listenerId=3BzE24hhpFub4PLXYsfRqrQBPuLzun0d
+#EXTINF:-1,+Exclusively Bruno Mars
+https://nl4.mystreaming.net/er-app/brunomars/icecast.audio
+#EXTINF:-1,+Exclusively Charlie Puth
+https://nl4.mystreaming.net/er-app/charlieputh/playlist.m3u8
+#EXTINF:-1,+Exclusively Dua Lipa
+https://streaming.exclusive.radio/er-app/dualipa/icecast.audio
+#EXTINF:-1,+Exclusively One Direction
+https://streaming.exclusive.radio/er-app/onedirection/icecast.audio
+#EXTINF:-1,+Exclusively One Direction HITS
+https://streaming.exclusive.radio/er-app/onedirectionhits/icecast.audio
+#EXTINF:-1, �XTASIS DIGITAL 580 (Chihuahua) - 580 AM - XEFI-AM - Radiorama Chihuahua - Chihuahua, Chihuahua
+https://stream-284.surfernetwork.com/n5bw2cz5dkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuNWJ3MmN6NWRraHZ2IiwiaG9zdCI6InN0cmVhbS0yODQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkcwNG0tczljUkQyTG5veXIzRi1UOWciLCJpYXQiOjE3OTIzNTQ5NDAsImV4cCI6MTc5MjM1NTAwMH0.oV75K22PeFaRosdbA5craG0Hg74Y4ibq3ByQQTcyJqU
+#EXTINF:-1,Hits 96.5 FM Canc�n
+https://stream-286.surfernetwork.com/qpzbhhq1nywuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxcHpiaGhxMW55d3V2IiwiaG9zdCI6InN0cmVhbS0yODYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkJzMFNGMzdqU3NhbDhORUVFNkRlRXciLCJpYXQiOjE3OTIzNTQ5NDEsImV4cCI6MTc5MjM1NTAwMX0.jMzAc9dSkM17Q3m4ZmPKYgk5ozLRK_9499aRJlY7jBk
+#EXTINF:-1,MATCH 99.3 (CDMX) - 99.3 FM - XHPOP-FM - Grupo ACIR - Ciudad de M�xico
+https://16603.live.streamtheworld.com:443/XHPOPFMAAC.aac
+#EXTINF:-1, MIX 101.7 (Morelia) - 101.7 FM - XHEMM-FM - Grupo ACIR - Morelia, Michoac�n
+https://18233.live.streamtheworld.com/XHEMMAAC.aac
+#EXTINF:-1,  MIX: 80's, 90's y M�s
+https://18443.live.streamtheworld.com:443/XHDFMFMAAC.aac
+#EXTINF:-1,MIX (Puebla) - 91.7 FM - XHRC-FM - Grupo ACIR - Puebla, Puebla
+https://16603.live.streamtheworld.com/XHRCFMAAC.aac
+#EXTINF:-1,Oldies Internet Radio - Online - www.oldiesinternetradio.com - Grupo Digital Retroland - Monterrey, Nuevo Le�n
+https://panel.retrolandigital.com/listen/oldies_internet_radio/listen
+#EXTINF:-1, Radio F�rmula 103.3 (CDMX) - 103.3 FM - XERFR-FM - Grupo F�rmula - Ciudad de M�xico
+https://us-b4-p-e-jn18-audio.cdn.mdstrm.com/live-audio-aw/6102ce7ef33d0b0830ec3adc/playlist.m3u8?aid=602140ecd1277a077ef81b34&pid=Pxdw73Tui48ZrzQAxDsfhKzAY5ia9Q0Q&sid=2m9kX3h0ytlyrISCNf6InwQM6VLwhY8H&uid=cHGolCIWyIoUCtXbrFGAJwzuhrImVziW&es=us-b4-p-e-jn18-audio.cdn.mdstrm.com&ote=1792441340230&ot=6VSZAlmWdAzbbELciLxzjA&proto=https&pz=us&cP=128000&awCollectionId=602140ecd1277a077ef81b34&aw_0_1st.playerId=website&liveId=6102ce7ef33d0b0830ec3adc&propertyName=website&listenerId=cHGolCIWyIoUCtXbrFGAJwzuhrImVziW
+#EXTINF:-1,Radiorama 1340 Frecuencia Deportiva (Guadalajara) - 1340 AM - XEDKT-AM - Radiorama de Occidente - Guadalajara, Jalisco
+https://stream-287.surfernetwork.com/r1540b8e408uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyMTU0MGI4ZTQwOHV2IiwiaG9zdCI6InN0cmVhbS0yODcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ijg4RWI5NWhOU3N5U2RLUExlT21Ua1EiLCJpYXQiOjE3OTIzNTQ5NDAsImV4cCI6MTc5MjM1NTAwMH0.KczYtRXnRsbU5yt_IQQzcKggwgFIa6ykJj0yvBTeZ74
+#EXTINF:-1,+Retro 90.5 HD (Xico) - Online - www.axmultimedios.com - Grupo AX Multimedios - Xico, Veracruz
+https://streaming01.radiosenlinea.com.ar/9440/stream
+#EXTINF:-1,RETRO 98.5 (San Luis Potos�) - 98.5 FM - XHQK-FM - Cadena RASA - San Luis Potos�, San Luis Potos�
+https://stream-291.surfernetwork.com/yms1lgfubmotv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5bXMxbGdmdWJtb3R2IiwiaG9zdCI6InN0cmVhbS0yOTEuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InF6TlYyeUZ6UUlxWmhjMGZLaWVvWFEiLCJpYXQiOjE3OTIzNTQ5NDAsImV4cCI6MTc5MjM1NTAwMH0.khSJqSPklQr2m5pEBzoieTDD3bHbUEvpSs25ABtPH0A
+#EXTINF:-1,STEREOREY 100.9 (Aguascalientes) - 100.9 FM - XHCAA-FM - Radio Universal - AGuascalientes, Aguascalientes
+https://14223.live.streamtheworld.com/XHCAAAAC.aac
+#EXTINF:-1,  STEREOREY: La M�xima Dimensi�n del Radio
+https://17573.live.streamtheworld.com/STEREOREYAAC.aac
+#EXTINF:-1, UNIVERSAL 88.1 (CDMX) - 88.1 FM - XHRED-FM - Grupo Radio Centro - Ciudad de M�xico
+https://27063.live.streamtheworld.com/XHFO_FMAAC.aac
+#EXTINF:-1, UNIVERSAL STEREO ONLINE (CDMX) - Online - www.universalstereoonline.com - Grupo Radio Centro - Ciudad de M�xico
+https://26283.live.streamtheworld.com/XERC_FMAAC.aac
+#EXTINF:-1,WRadio Fresnillo 94.3 FM
+https://streaming.servicioswebmx.com/8234/stream
+#EXTINF:-1,Radio Fm 99.1
+https://rr5100.globalhost1.com/8454/stream

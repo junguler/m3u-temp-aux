@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1,Blu FM 94.9
+https://sonic.nnw.cl:7009/;
+#EXTINF:-1,WRadio Colombia
+https://27403.live.streamtheworld.com/WRADIOAAC.aac?csegid=2000&dist=wradio_co-web-playperm-live_str_play&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&gdpr=0&burst-time=15&sbmid=a073ee70-7fed-4b4c-80d2-7a4d57fe52f6
+#EXTINF:-1,Radio Centro y El Fonografo 690 XEJP
+https://26273.live.streamtheworld.com/XEJP_AMAAC.aac
+#EXTINF:-1,Universal y La Octava 88.1 XHRED
+https://26283.live.streamtheworld.com/XERED_AM.mp3
+#EXTINF:-1,ABC Noticias (Monterrey) - 570 AM - XEBJB-AM - Grupo Radio Alegr�a - Monterrey, NL
+https://18863.live.streamtheworld.com/REGIONAL_MEXICANA_570AM.mp3
+#EXTINF:-1,Azul 89 (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de M�xico
+https://18243.live.streamtheworld.com/ACIR24_S01AAC.aac
+#EXTINF:-1,LA OCTAVA (Ciudad de M�xico) - 88.1 FM - XHRED-FM - Grupo Radio Centro - Ciudad de M�xico
+https://26283.live.streamtheworld.com/XERED_AM_SC
+#EXTINF:-1,LA OCTAVA (Guadalajara) - 700 AM - XEDKR-AM - Grupo Radio Centro - Guadalajara, JC
+https://29306.live.streamtheworld.com/XEDKR_AM_SC
+#EXTINF:-1,Radio Sinaloa 94.5, 93.9 y 92.5
+https://stream20.usastreams.com/8156/stream
+#EXTINF:-1,Rclasicos 96.9 FM
+https://s5.mexside.net:8100/stream
+#EXTINF:-1,Roca Fm Clasicos Mexico
+https://xxdelgado.radioca.st/
+#EXTINF:-1,Sounds of Yesterday (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de M�xico
+https://16643.live.streamtheworld.com/ACIR30_S01AAC.aac
+#EXTINF:-1,Stereo 100.3 (Hermosillo) - 100.3 FM - XHSD-FM - Hermosillo, SO
+https://streamingcwsradio30.com:7026/
+#EXTINF:-1,UNIVERSAL Ciudad de M�xico - 88.1 FM - XHRED-FM - Grupo Radio Centro - Ciudad de M�xico
+https://26283.live.streamtheworld.com/XERED_AMAAC.aac
+#EXTINF:-1,UNIVERSAL Guadalajara - 700 AM - XEDKR-AM - Grupo Radio Centro - Guadalajara, JC
+https://26283.live.streamtheworld.com/XEDKR_AMAAC.aac
+#EXTINF:-1,Radio Amor 95.9FM
+https://sesion.desdeparaguay.net/hls/playlist.m3u8
+#EXTINF:-1,107.7 Fuego FM
+https://mgvfuego-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8

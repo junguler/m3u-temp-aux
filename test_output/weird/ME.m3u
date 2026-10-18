@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,Radio Antena M
+https://radioservis.me:8010/antenamlive
+#EXTINF:-1,Radio Fatih
+https://radioservis.me/radio/8070/radiofatih
+#EXTINF:-1,Radio Skadar
+https://radioservis.me:8050/radioskadar

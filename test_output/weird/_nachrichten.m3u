@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1,Antenne Idar-Oberstein
+https://radiogroup.stream09.radiohost.de/antenne-idaroberstein_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzkyMzU1NDExJmQ9YjU0MjA2OGVjZDI5N2NmMGRmNTg
+#EXTINF:-1,Antenne Koblenz
+https://radiogroup.stream09.radiohost.de/antenne-koblenz_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzkyMzU1NDExJmQ9NWRiYzE5ZjUyMmQzNTQ3ZTg4NmM
+#EXTINF:-1,Antenne Landau
+https://radiogroup.stream09.radiohost.de/antenne-landau_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzkyMzU1NDExJmQ9ZWM1YzkyOTQ0YTk2NjQxMWMwZTQ
+#EXTINF:-1,Antenne Pfalz
+https://radiogroup.stream09.radiohost.de/antenne-pfalz_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzkyMzU1NDExJmQ9OWFmMDA5MWYxOTM4YTk2MTRkN2Q
+#EXTINF:-1,Antenne Trier
+https://radiogroup.stream09.radiohost.de/antenne-trier_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzkyMzU1NDExJmQ9ZDU5NWJlZDI5NDdkNjJkOTU0YTU
+#EXTINF:-1,Bayern1 Mainfranken
+https://streams.br.de/bayern1main_2.m3u
+#EXTINF:-1,bigFM Baden-W�rttemberg
+https://audiotainment-sw.streamabc.net/atsw-bigfmbawue-mp3-128-3029224?sABC=6nq52o27%230%2314902s8338511o2s154s4734r3rrs129%23enqvb-oebjfre&aw_0_1st.playerid=radio-browser&amsparams=playerid:radio-browser;skey:1792355111
+#EXTINF:-1,bigFM Berlin
+https://audiotainment-sw.streamabc.net/atsw-bigfmberlin-mp3-128-6209157?sABC=6nq52o27%230%2314902s8338511o2s154s4734r3rrs129%23enqvb-oebjfre&aw_0_1st.playerid=radio-browser&amsparams=playerid:radio-browser;skey:1792355111
+#EXTINF:-1,bigFM Deutschland
+https://audiotainment-sw.streamabc.net/atsw-bigfm-mp3-128-9761644?sABC=6nq52o27%230%2314902s8338511o2s154s4734r3rrs129%23enqvb-oebjfre&aw_0_1st.playerid=radio-browser&amsparams=playerid:radio-browser;skey:1792355111
+#EXTINF:-1,bigFM Hamburg
+https://audiotainment-sw.streamabc.net/atsw-bigfmhamburg-mp3-128-8274890?sABC=6nq52o27%230%2314902s8338511o2s154s4734r3rrs129%23enqvb-oebjfre&aw_0_1st.playerid=radio-browser&amsparams=playerid:radio-browser;skey:1792355111
+#EXTINF:-1,bigFM Rheinland-Pfalz
+https://audiotainment-sw.streamabc.net/atsw-bigfmrlp-mp3-128-5163613?sABC=6nq52o27%230%2314902s8338511o2s154s4734r3rrs129%23enqvb-oebjfre&aw_0_1st.playerid=radio-browser&amsparams=playerid:radio-browser;skey:1792355111
+#EXTINF:-1,DW English HD
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1,MDR AKTUELL
+https://radio-hls.mdr.de/hls/live/2112901/mdr-284340-0-hls/index.m3u8
+#EXTINF:-1,ntv Live Audio
+https://rtlberlin.streamabc.net/rtlb-ntvradio-mp3-192-7596895?sABC=6nq52o27%230%2314902s8338511o2s154s4734r3rrs129%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1792355111
+#EXTINF:-1,Radio Potsdam
+https://radiogroup.stream09.radiohost.de/radio-potsdam_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzkyMzU1NDExJmQ9MzJiNjA4ZGYyMTMyMTNhYmNiYTA
+#EXTINF:-1,Radio Regenbogen Baden & die Pfalz
+https://audiotainment-sw.streamabc.net/atsw-regenbogen1028-mp3-128-6256120?sABC=6nq52o27%230%2314902s8338511o2s154s4734r3rrs129%23enqvboebjfre&aw_0_1st.playerid=radiobrowser&amsparams=playerid:radiobrowser;skey:1792355111
+#EXTINF:-1,Radio Regenbogen Baden-W�rttemberg
+https://audiotainment-sw.streamabc.net/atsw-regenbogen1004-mp3-128-4401635?sABC=6nq52o27%230%2314902s8338511o2s154s4734r3rrs129%23enqvboebjfre&aw_0_1st.playerid=radiobrowser&amsparams=playerid:radiobrowser;skey:1792355111
+#EXTINF:-1,Radio Regenbogen S�dbaden
+https://audiotainment-sw.streamabc.net/atsw-regenbogen1011-mp3-128-3022733?sABC=6nq52o27%230%2314902s8338511o2s154s4734r3rrs129%23enqvboebjfre&aw_0_1st.playerid=radiobrowser&amsparams=playerid:radiobrowser;skey:1792355111
+#EXTINF:-1,SWR 4 Heilbronn
+https://d121.rndfnk.com/ard/swr/swr4/hn/mp3/128/stream.mp3?aggregator=web&cid=01FC1X9J4S1523ZJNX04FGGDSB&sid=3KsnP5GshhgJrFcUyitHlkFMeP7&token=6TH5QmqcS8Mzx9SwALY9wWC4B4hzqCrNaZp1C6P6qTY&tvf=WvuSOyDN3xhkMTIxLnJuZGZuay5jb20
+#EXTINF:-1,tagesschau24
+https://d131.rndfnk.com/ard/ndr/tagesschau24/live/mp3/128/stream.mp3?cid=01GE4H1H4TD1010BHZJ954SYJ9&sid=3KsnOhcyexBOJeECxuyuMgMNvgL&token=Kt-t2q-IdUPuiqElyjuZSKoD3GIT97ua4LBDHKRb5Ec&tvf=uO2_iR_N3xhkMTMxLnJuZGZuay5jb20
+#EXTINF:-1,WDR 5 Nachrichten
+https://www.wdr.de/realaudio/radio/nachrichten/nachrichten_wdr5.mp3
+#EXTINF:-1,DLF aktuelle Presseschau
+https://ondemand-mp3.dradio.de/file/dradio/presseschau/presseschau.mp3

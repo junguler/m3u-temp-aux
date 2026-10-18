@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,Steady State Radio
+https://radio.steadystateradio.com/listen/steady_state/radio.mp3
+#EXTINF:-1,Music Radio Classical
+https://radio.musicradio.ai/listen/music_radio_classical/radio.mp3
+#EXTINF:-1,Music Radio Lo-Fi
+https://radio.musicradio.ai/listen/music_radio_lo-fi/radio.mp3
+#EXTINF:-1,FluxFM Chillout Radio | 320k AAC
+https://fluxfm.streamabc.net/flx-chillout-aacplus-64-5024703?sABC=6nq52q2s%230%2314902s8338511o2s154s4734r3rrs129%23fgernzf.syhksz.qr&aw_0_1st.playerid=streams.fluxfm.de&amsparams=playerid:streams.fluxfm.de;skey:1792355631
+#EXTINF:-1,FluxFM Chillout Radio | 64k MP3
+https://fluxfm.streamabc.net/flx-chillout-mp3-320-6160841?sABC=6nq52q2s%230%2314902s8338511o2s154s4734r3rrs129%23fgernzf.syhksz.qr&aw_0_1st.playerid=streams.fluxfm.de&amsparams=playerid:streams.fluxfm.de;skey:1792355631
+#EXTINF:-1,Hotmix Focus
+https://streaming.hotmixradio.com/hotmix-focus-en-mp3?provider=radiobrowser
+#EXTINF:-1,b3cks-radio
+https://radio.b3ck.com/listen/b3cks-radio/radio.mp3
+#EXTINF:-1,MUGEN Radio
+https://mugenradio.com/hls/live.m3u8
+#EXTINF:-1,FMV FIT Radio Focus
+https://radio.webicdp.com/listen/fmvfitradiofocus/radio.mp3

@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1,FluxFM 2000er | 320k AAC
+https://51-210-189-143-c12fb8.sfn.edge-ovh-gra5.streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/fc56c149-6140-4e7f-9aa8-fe8febd10bab/stream.aac?source=fluxmusic.api.radiosphere.io&quality=10
+#EXTINF:-1,FluxFM 2000er | 320k MP3
+https://51-75-13-109-fd35d7.sfn.edge-ovh-gra5.streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/fc56c149-6140-4e7f-9aa8-fe8febd10bab/stream.mp3?source=fluxmusic.api.radiosphere.io&quality=10
+#EXTINF:-1,FluxFM 60s | 64k AAC
+https://fluxfm.streamabc.net/flx-60er-aacplus-64-6473468?sABC=6nq52o06%230%2314902s8338511o2s154s4734r3rrs129%23fgernzf.syhksz.qr&aw_0_1st.playerid=streams.fluxfm.de&amsparams=playerid:streams.fluxfm.de;skey:1792355078
+#EXTINF:-1,FluxFM 60s | 64k MP3
+https://fluxfm.streamabc.net/flx-60er-mp3-320-7404266?sABC=6nq52o06%230%2314902s8338511o2s154s4734r3rrs129%23fgernzf.syhksz.qr&aw_0_1st.playerid=streams.fluxfm.de&amsparams=playerid:streams.fluxfm.de;skey:1792355078
+#EXTINF:-1,FluxFM Anima Radio | 64k AAC
+https://51-75-13-109-fd35d7.sfn.edge-ovh-gra5.streams.radiosphere.io/80d18cd0-3f21-4fcf-99c0-bfc0a9a75e1d/channels/95484471-8386-4858-8e2f-0ad0eb4c8f36/stream.aac?source=fluxmusic.api.radiosphere.io&quality=1
+#EXTINF:-1,FluxFM Anima Radio | 64k MP3
+https://51-75-13-109-fd35d7.sfn.edge-ovh-gra5.streams.radiosphere.io/80d18cd0-3f21-4fcf-99c0-bfc0a9a75e1d/channels/95484471-8386-4858-8e2f-0ad0eb4c8f36/stream.mp3?source=fluxmusic.api.radiosphere.io&quality=1
+#EXTINF:-1,FluxFM B-Funk | 64k MP3
+https://51-75-13-109-fd35d7.sfn.edge-ovh-gra5.streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/85f323a6-e066-49ab-9a3d-fb74030adfae/stream.mp3?source=fluxmusic.api.radiosphere.io&quality=1
+#EXTINF:-1,FluxFM Chillout Radio | 320k AAC
+https://fluxfm.streamabc.net/flx-chillout-aacplus-64-5024703?sABC=6nq52o06%230%2314902s8338511o2s154s4734r3rrs129%23fgernzf.syhksz.qr&aw_0_1st.playerid=streams.fluxfm.de&amsparams=playerid:streams.fluxfm.de;skey:1792355078
+#EXTINF:-1,FluxFM Chillout Radio | 64k MP3
+https://fluxfm.streamabc.net/flx-chillout-mp3-320-6160841?sABC=6nq52o06%230%2314902s8338511o2s154s4734r3rrs129%23fgernzf.syhksz.qr&aw_0_1st.playerid=streams.fluxfm.de&amsparams=playerid:streams.fluxfm.de;skey:1792355078
+#EXTINF:-1,FluxFM Electronic Chillout | 320k MP3
+https://51-210-189-143-c12fb8.sfn.edge-ovh-gra5.streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/aa1a53ce-7743-444d-a0b9-115ba01c7321/stream.mp3?source=fluxmusic.api.radiosphere.io&quality=10
+#EXTINF:-1,FluxFM Electronic Chillout | 64k AAC
+https://51-210-189-143-c12fb8.sfn.edge-ovh-gra5.streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/aa1a53ce-7743-444d-a0b9-115ba01c7321/stream.aac?source=fluxmusic.api.radiosphere.io&quality=1
+#EXTINF:-1,FluxFM FluxFM Finest | 64k AAC
+https://51-75-13-109-fd35d7.sfn.edge-ovh-gra5.streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/a777b93d-e60c-47f9-be28-1233e6c9802d/stream.aac?source=fluxmusic.api.radiosphere.io&quality=1
+#EXTINF:-1,FluxFM FluxFM Finest | 64k MP3
+https://51-75-13-109-fd35d7.sfn.edge-ovh-gra5.streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/a777b93d-e60c-47f9-be28-1233e6c9802d/stream.mp3?source=fluxmusic.api.radiosphere.io&quality=1
+#EXTINF:-1,FluxFM Indie Disco | 320k AAC
+https://51-75-13-109-fd35d7.sfn.edge-ovh-gra5.streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/cbc089f5-b834-40ca-9438-0b2f4bfb915f/stream.aac?source=fluxmusic.api.radiosphere.io&quality=10
+#EXTINF:-1,FluxFM Indie Disco | 64k MP3
+https://51-210-189-143-c12fb8.sfn.edge-ovh-gra5.streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/cbc089f5-b834-40ca-9438-0b2f4bfb915f/stream.mp3?source=fluxmusic.api.radiosphere.io&quality=1
+#EXTINF:-1,FluxFM Radio Alternative | 64k MP3
+https://fluxfm.streamabc.net/flx-alternative-mp3-320-8827705?sABC=6nq52o06%230%2314902s8338511o2s154s4734r3rrs129%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1792355078
+#EXTINF:-1,FluxFM Techno Underground | 64k MP3
+https://51-210-189-143-c12fb8.sfn.edge-ovh-gra5.streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/39773beb-7f28-4c18-9b8b-2bad32190ce9/stream.mp3?source=fluxmusic.api.radiosphere.io&quality=1
+#EXTINF:-1,FluxFM traumerei | 320k MP3
+https://51-75-13-109-fd35d7.sfn.edge-ovh-gra5.streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/145ed775-a18c-4c0c-8153-39f71690f457/stream.mp3?source=fluxmusic.api.radiosphere.io&quality=10
+#EXTINF:-1,FluxFM traumerei | 64k AAC
+https://51-210-189-143-c12fb8.sfn.edge-ovh-gra5.streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/145ed775-a18c-4c0c-8153-39f71690f457/stream.aac?source=fluxmusic.api.radiosphere.io&quality=1
+#EXTINF:-1,FluxFM Yoga Sounds | 64k AAC
+https://fluxfm.streamabc.net/flx-yogasounds-aacplus-64-6792162?sABC=6nq52o06%230%2314902s8338511o2s154s4734r3rrs129%23fgernzf.syhksz.qr&aw_0_1st.playerid=streams.fluxfm.de&amsparams=playerid:streams.fluxfm.de;skey:1792355078
+#EXTINF:-1,FluxFM Yoga Sounds | 64k MP3
+https://fluxfm.streamabc.net/flx-yogasounds-mp3-320-4387219?sABC=6nq52o06%230%2314902s8338511o2s154s4734r3rrs129%23fgernzf.syhksz.qr&aw_0_1st.playerid=streams.fluxfm.de&amsparams=playerid:streams.fluxfm.de;skey:1792355078
+#EXTINF:-1,Historia y Corridos de LA COMADRE (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de M�xico
+https://18543.live.streamtheworld.com/ACIR06_S01AAC.aac
+#EXTINF:-1,La Comadre Pa Bailar (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de M�xico
+https://18543.live.streamtheworld.com/ACIR08_S01AAC.aac
+#EXTINF:-1,La Comadre Pa Que Duela (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de M�xico
+https://23263.live.streamtheworld.com/ACIR05_S01AAC.aac
+#EXTINF:-1,SIEMPRE GRUPEROS de LA COMADRE (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de M�xico
+https://18543.live.streamtheworld.com/ACIR07_S01AAC.aac

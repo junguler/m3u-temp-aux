@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1, # RdMix DJSET 70s 80s 90s
+https://cast1.torontocast.com:4560/stream
+#EXTINF:-1,Galattica FM
+https://galatticafm.stream.laut.fm/galatticafm?t302=2026-10-18_22-16-33&uuid=567c03de-70d2-ff72-10a6-9c94e780c6cd
+#EXTINF:-1,JOY - Funky Sounds 4 Central Europe
+https://joy.stream.laut.fm/joy?pl=m3u&t302=2026-01-15_02-26-08&uuid=f580dbd4-9802-4176-97ff-eb049173bf1c
+#EXTINF:-1,RADIO PSR Partymix
+https://regiocast.streamabc.net/regc-psrpartymix1801718-mp3-192-6173501?sABC=69689opp%230%23q280o0r09ns9qpq3889p9qqn13p5753s%23fgernzf.enqvbcfe.qr&aw_0_1st.playerid=streams.radiopsr.de&amsparams=playerid:streams.radiopsr.de;skey:1768463308
+#EXTINF:-1,Radio PSR Partymix | AAC 64 kbps
+https://regiocast.streamabc.net/regc-psrpartymix1801718-aacplus-64-2308935?sABC=6nq52921%230%2314902s8338511o2s154s4734r3rrs129%23fgernzf.enqvbcfe.qr&aw_0_1st.playerid=streams.radiopsr.de&amsparams=playerid:streams.radiopsr.de;skey:1792354593
+#EXTINF:-1,Technolovers - FUNKY HOUSE
+https://0nlineradio.stream13.radiohost.de/technolovers-funky-house?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU0ODkzJmQ9NWQxYmIyNjU2ZDVjN2RjNDBkOGQ
+#EXTINF:-1,_Funky Corner Radio (Spain)
+https://ais-sa2.cdnstream1.com/2447_96.aac
+#EXTINF:-1,Ondamar80
+https://radiostreamingserver.com/listen/ondamar80/live
+#EXTINF:-1,Hotmix Funk
+https://streaming.hotmixradio.com/hotmix-funk-en-mp3?provider=radiobrowser
+#EXTINF:-1,Music Radio
+https://radio.musicradio.ai/listen/musicradio.ai/radio.mp3
+#EXTINF:-1,_Funky Corner Radio (USA)
+https://ais-sa2.cdnstream1.com/2447_192.mp3
+#EXTINF:-1,FUNKY RADIO - Only Funk Music (60's & 70's)
+https://funkyradio.streamingmedia.it/audio.aac
+#EXTINF:-1,FUNKY RADIO - Only Funk Music (60's 70's)
+https://funkyradio.streamingmedia.it/play.mp3
+#EXTINF:-1,Just Music Radio
+https://radiostream.neotel.mk/justmusicradio
+#EXTINF:-1,Funky Radio - Classic Funk Only
+https://my.streamingmedia.it/listen/discofunk/play
+#EXTINF:-1,Radio Capital Funky Town
+https://streamcdng20-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapitalfunkytown/radiocapitalfunkytown/master_ma.m3u8
+#EXTINF:-1,897
+https://c34.radioboss.fm:8106/stream

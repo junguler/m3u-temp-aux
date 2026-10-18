@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1,Radio del Mar 98.7
+https://cdn.instream.audio/:9051/stream
+#EXTINF:-1,ATB Radio
+https://streamingenbolivia.com/8006/stream
+#EXTINF:-1,Super Radiopatos FM
+https://10.stmip.net:8794/
+#EXTINF:-1,Alternativa FM
+https://radio.tvstream.cl/8056/stream
+#EXTINF:-1,Costa Radio Barranquilla En Vivo
+https://stream-177.surfernetwork.com/hcdc0qxgafmuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJoY2RjMHF4Z2FmbXV2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Il9hOW5qVXplUVNpdHJwUEZfTFdlcUEiLCJpYXQiOjE3OTIzNTcwNTEsImV4cCI6MTc5MjM1NzExMX0.fasZRVjwaa8Nk--HUC78oFH5D0sQPr4nli7aRO14uYc
+#EXTINF:-1,La FM
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio/6271a4d5d206c3172f3c9a9c/632c9b23d1dcd7027f32f7fe/chunks.m3u8
+#EXTINF:-1,La FM Noticias Medell�n
+https://co-e1-p-e-aa1-audio.cdn.mdstrm.com/live-audio-aw/632c9d81bc02c60329991f25
+#EXTINF:-1,La Voz de Bogot�
+https://tupanel.info:2000/stream/lavozdebogota/stream/1/
+#EXTINF:-1,Madrigal Stereo (Barranquilla)
+https://streaming.radiosenlinea.com.ar/8096/stream/1/
+#EXTINF:-1,Melod�a Stereo
+https://r90.letio.com/io/?gs=7000&type=master.m3u8
+#EXTINF:-1,W Radio FM (Bogot�)
+https://24273.live.streamtheworld.com/WRADIO_SC
+#EXTINF:-1,Onda Cero C�diz
+https://25483.live.streamtheworld.com/OC_CADIZAAC/HLS/playlist.m3u8?dist=Otros-Agregadores&ttag=program%3Aradioestadio
+#EXTINF:-1,Onda Cero Sevilla
+https://23603.live.streamtheworld.com/OC_SEVILLAAAC/HLS/playlist.m3u8?dist=Otros-Agregadores&ttag=program%3Aradioestadio
+#EXTINF:-1,Onda Cero Valladolid
+https://21223.live.streamtheworld.com/OC_VALLADOLIDAAC/HLS/playlist.m3u8?dist=Otros-Agregadores&ttag=program%3Aradioestadio
+#EXTINF:-1,RN1 - Valencia
+https://rnelivestream.rtve.es/rne1/val/128/seglist.m3u8
+#EXTINF:-1,SER - Henares 20241023
+https://22543.live.streamtheworld.com/SER_HENARES.mp3
+#EXTINF:-1,MVS Noticias 102.5 XHMVS
+https://18323.live.streamtheworld.com/XHMVSFMAAC_SC
+#EXTINF:-1,Radio UJAT 107.3 XHUJAT
+https://streamingcwsradio30.com/8212/listen.pls
+#EXTINF:-1,SER Alcal�
+https://22543.live.streamtheworld.com/SER_HENARES.mp3?csegid=10000&gdpr=1&gdpr_consent=CPQcg5LPQcg5LAHABBENB3CsAP_AAAAAAAAAIZNf_X__b3_j-_59__t0eY1f9_7_v-0zjhfdt-8N2f_X_L8X_2M7vF36pq4KuR4Eu3LBIQdlHOHcTUmw6okVrzPsbk2cr7NKJ7PEmnMbe2dYGH9_n93T-ZKY7______7__-_______f__-_____5_X-_-_f_V_997Lv9_____9_P___9v__9_wAAAEkoAMAAQQyDQAYAAghkKgAwABBDIpABgACCGQ6ADAAEEMiEAGAAIIZBIAMAAQQyEQAYAAghkMgAwABBDIAA.f_gAAAAAAAAA&dist=cadenaser-web-tod-permanente&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=e984d96b-36f6-418a-a416-75bab9daa8e1
+#EXTINF:-1,SER Segovia
+https://21223.live.streamtheworld.com/SER_ASO_SEGOVIAAAC.aac?csegid=10000&gdpr=1&gdpr_consent=CPQcg5LPQcg5LAHABBENB3CsAP_AAAAAAAAAIZNf_X__b3_j-_59__t0eY1f9_7_v-0zjhfdt-8N2f_X_L8X_2M7vF36pq4KuR4Eu3LBIQdlHOHcTUmw6okVrzPsbk2cr7NKJ7PEmnMbe2dYGH9_n93T-ZKY7______7__-_______f__-_____5_X-_-_f_V_997Lv9_____9_P___9v__9_wAAAEkoAMAAQQyDQAYAAghkKgAwABBDIpABgACCGQ6ADAAEEMiEAGAAIIZBIAMAAQQyEQAYAAghkMgAwABBDIAA.f_gAAAAAAAAA&dist=cadenaser-web-tod-permanente&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=300x250&sbmid=4617d7f4-5a28-40ef-cb45-f21a65c75198
+#EXTINF:-1,Radio metropolitana Arequipa
+https://maximacenterdata.com/8120/stream

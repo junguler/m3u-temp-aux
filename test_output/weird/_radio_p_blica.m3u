@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1,RNE Radio Nacional
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r1_main.m3u8
+#EXTINF:-1,BBC RADIO 1XTRA: Amplifying black music & culture
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_1xtra.m3u8
+#EXTINF:-1,105.3 Radio Universidad (Chihuahua) - 105.3 FM - XHRU-FM - Universidad Aut�noma de Chihuahua - Chihuahua, Chihuahua
+https://stream-288.surfernetwork.com/e2px6k3kwzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlMnB4Nmsza3d6enV2IiwiaG9zdCI6InN0cmVhbS0yODguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImtkeW5TZ1NCU1FlbGdpLVpUa1lWTHciLCJpYXQiOjE3OTIzNTUzODQsImV4cCI6MTc5MjM1NTQ0NH0.E3necsuU7q-ejZUHb1uVBgf5MxXka-yG5PF9sd2BPtA
+#EXTINF:-1, ALTERNATIVA 98 98.1 (Aguascalientes) - 98.1 FM - XHNM-FM - Radio y Televisi�n de Aguascalientes - Aguascalientes, Aguascalientes
+https://streamingcwsradio30.com/8016/stream/1/;
+#EXTINF:-1,Conexi�n 92.7 (Aguascalientes) - 92.7 FM - XHCPDI-FM - Radio y Televisi�n de Aguascalientes - Aguascalientes, Aguascalientes
+https://streamingcwsradio30.com:7008/;
+#EXTINF:-1,Radio UAS 96.1 Culiac��n
+https://stream9.mexiserver.com/8410/stream
+#EXTINF:-1,RADIO UNIVERSIDAD 88.1 (Chihuahua) - 88.1 FM - XHCPDB-FM - Universidad Aut�noma de Chihuahua - Chihuahua, Chihuahua
+https://stream-283.surfernetwork.com/b55avvu0x1zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJiNTVhdnZ1MHgxenV2IiwiaG9zdCI6InN0cmVhbS0yODMuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImZjN2cta1NSUXEyckhCcmgxeEgwbUEiLCJpYXQiOjE3OTIzNTUzODQsImV4cCI6MTc5MjM1NTQ0NH0.xY774qR0NiY8JmK3NVLvQJ1wYgHxNwqpAL-m3OBJwqA
+#EXTINF:-1,Radio Una
+https://stream-178.surfernetwork.com/v36ympen8x8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2MzZ5bXBlbjh4OHV2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkFqSnNwbjVHUU4yTkNQMXNxR2t5LWciLCJpYXQiOjE3OTIzNTUzODQsImV4cCI6MTc5MjM1NTQ0NH0.iRcdC5rlwT2MkrQHvKXRjTF0DcGHaRSyZ4JfMtNscn0
+#EXTINF:-1,Babel
+https://radios.iwstreaming.uy/8030/stream
+#EXTINF:-1,Cl�sica 650 AM
+https://radios.iwstreaming.uy/8032/stream
+#EXTINF:-1,Emisora del Sur
+https://radios.iwstreaming.uy/8034/stream
+#EXTINF:-1,Radio Uruguay 1050
+https://radios.iwstreaming.uy/8036/stream

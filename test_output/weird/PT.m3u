@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1,91FM R�dio
+https://sp0.redeaudio.com/9878/stream
+#EXTINF:-1,Jovembsk
+https://stream-285.surfernetwork.com/ppgb4k7vhqztv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwcGdiNGs3dmhxenR2IiwiaG9zdCI6InN0cmVhbS0yODUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InBiZmtRRnhRVFEtRldPT01nSm5wUHciLCJpYXQiOjE3OTIzNTcxMjMsImV4cCI6MTc5MjM1NzE4M30.7-5HArhgOtoEF3ysfbUBnQe6QM2Joru1Ww491IjIuuI
+#EXTINF:-1,Jovembsk Mix
+https://stream-290.surfernetwork.com/4nc1mzdp81xuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0bmMxbXpkcDgxeHV2IiwiaG9zdCI6InN0cmVhbS0yOTAuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImFhQTZTcGhLUllPeXJTaEJqS2lRUnciLCJpYXQiOjE3OTIzNTcxMjMsImV4cCI6MTc5MjM1NzE4M30.TqQLPA-C4b23-AkKpBQDqepf8pjAE1YPkh5qsCIJGNw
+#EXTINF:-1,M80
+https://stream-hls.bauermedia.pt/m80.aac/playlist.m3u8
+#EXTINF:-1,R�dio Campo Maior
+https://radios2.justweb.pt:8064/stream
+#EXTINF:-1,Radio CapSao
+https://str0.creacast.com/capsao_a
+#EXTINF:-1,R�dio Linear
+https://nl.digitalrm.pt:8184/stream
+#EXTINF:-1,R�dio Natal Caria
+https://stream-177.surfernetwork.com/zb5w8yybqxhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6YjV3OHl5YnF4aHZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImFMbFU3X3NpU2ZhVFdVdWxHSkFPSEEiLCJpYXQiOjE3OTIzNTcxMjQsImV4cCI6MTc5MjM1NzE4NH0.DcW2g7VzzhdLUjd9aNwz9Dg4FUgweO4GBuwzBZX_ZBY
+#EXTINF:-1,R�dio Nova Antena
+https://radios2.justweb.pt:8068/stream
+#EXTINF:-1,R�dio Popular de Soure
+https://nl.digitalrm.pt:8072/stream
+#EXTINF:-1,RTP Antena 2 Opera
+https://streaming-live.rtp.pt/liveradio/antena2opera80a/chunklist_DVR.m3u8
+#EXTINF:-1,Smooth FM
+https://stream-hls.bauermedia.pt/smooth.aac/playlist.m3u8

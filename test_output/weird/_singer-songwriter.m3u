@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1,De Geluidsfabriek
+https://s5.radio.co/s4674a3b1c/listen
+#EXTINF:-1,DREAMPOP-RADIO (https)
+https://dreampopradio.stream.laut.fm/dreampopradio
+#EXTINF:-1,egoFM Riff [LQ]
+https://cast.egofm.de/egoriff.aac?ar-distributor=ffa0&aw_0_req.gdpr=true
+#EXTINF:-1,egoFM Snow [LQ]
+https://cast.egofm.de/egosnow.aac?ar-distributor=ffa0&aw_0_req.gdpr=true
+#EXTINF:-1,MDR Kultur 192 AAC
+https://mdr-radio-hls.akamaized.net/hls/live/2112903/mdr-284310-0-hls/192/seglist.m3u8
+#EXTINF:-1,RADIO BOB - Blues [mp3 | 192 kbps]
+https://regiocast.streamabc.net/regc-radiobobblues6003375-mp3-192-4052902?sABC=6nq52pr3%230%2314902s8338511o2s154s4734r3rrs129%23fgernzf.enqvbobo.qr&aw_0_1st.playerid=streams.radiobob.de&amsparams=playerid:streams.radiobob.de;skey:1792355555
+#EXTINF:-1,RADIO BOB - Chillout Unplugged Songs [aac | 64 kbps]
+https://regiocast.streamabc.net/regc-radiobobchillout8068831-aacplus-64-6000024?sABC=6nq52pr4%230%2314902s8338511o2s154s4734r3rrs129%23fgernzf.enqvbobo.qr&aw_0_1st.playerid=streams.radiobob.de&amsparams=playerid:streams.radiobob.de;skey:1792355556
+#EXTINF:-1,RADIO BOB - Chillout Unplugged Songs [mp3 | 192 kbps]
+https://regiocast.streamabc.net/regc-radiobobchillout8068831-mp3-192-5567718?sABC=6nq52pr4%230%2314902s8338511o2s154s4734r3rrs129%23fgernzf.enqvbobo.qr&aw_0_1st.playerid=streams.radiobob.de&amsparams=playerid:streams.radiobob.de;skey:1792355556
+#EXTINF:-1,RADIO BOB - Southern Rock [aac | 64 kbps]
+https://regiocast.streamabc.net/regc-radiobobsouthernrock8560476-aacplus-64-1833930?sABC=6nq52pr4%230%2314902s8338511o2s154s4734r3rrs129%23fgernzf.enqvbobo.qr&aw_0_1st.playerid=streams.radiobob.de&amsparams=playerid:streams.radiobob.de;skey:1792355556
+#EXTINF:-1,RADIO BOB - Southern Rock [mp3 | 192 kbps]
+https://regiocast.streamabc.net/regc-radiobobsouthernrock8560476-mp3-192-3976810?sABC=6nq52pr4%230%2314902s8338511o2s154s4734r3rrs129%23fgernzf.enqvbobo.qr&aw_0_1st.playerid=streams.radiobob.de&amsparams=playerid:streams.radiobob.de;skey:1792355556
+#EXTINF:-1,Exclusively Bob Dylan
+https://streaming.exclusive.radio/er/bobdylan/icecast.audio
+#EXTINF:-1,Exclusively John Lennon
+https://streaming.exclusive.radio/er/lennon/icecast.audio
+#EXTINF:-1,Exclusively Paul McCartney
+https://streaming.exclusive.radio/er/paulmccartney/icecast.audio
+#EXTINF:-1,Exclusively Peter Gabriel
+https://nl4.mystreaming.net/er/petergabriel/icecast.audio
+#EXTINF:-1,Exclusively Simon And Garfunkel
+https://streaming.exclusive.radio/er/simongarfunkle/icecast.audio
+#EXTINF:-1,Exclusively Sting
+https://streaming.exclusive.radio/er/sting/icecast.audio
+#EXTINF:-1,Exclusively Taylor Swift
+https://streaming.exclusive.radio/er/taylorswift/icecast.audio
+#EXTINF:-1,Javier & Amis – Radio
+https://a1.my-control-panel.com/listen/javier__amis_radio/radio.mp3
+#EXTINF:-1,Stumble In The Dark Radio
+https://a2.asurahosting.com:6920/radio.mp3
+#EXTINF:-1,SuperTrova
+https://radio.supertrova.com/listen/supertrova/radio.mp3
+#EXTINF:-1,ORBITA24
+https://radio.orbita24.it/listen/orbita24/radio.mp3

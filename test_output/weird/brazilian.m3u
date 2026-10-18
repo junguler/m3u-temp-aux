@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,Massa FM Maring�
+https://stm01.virtualcast.com.br:8116/massamaringa
+#EXTINF:-1,R�dio Nacional Alto Solim�es
+https://radionacionalaltosolimoes-stream.ebc.com.br/ebc/radionacionalaltosolimoes/playlist.m3u8
+#EXTINF:-1,R�dio Nacional Amaz�nia
+https://radionacionalamazonia-stream.ebc.com.br/ebc/radionacionalamazonia/playlist.m3u8
+#EXTINF:-1,R�dio Nacional Bras�lia AM
+https://radionacionalbrasilia-stream.ebc.com.br/index.m3u8
+#EXTINF:-1,R�dio Nacional Bras�lia FM
+https://radionacionalfm-stream.ebc.com.br/ebc/radionacionalfm/playlist.m3u8
+#EXTINF:-1,R�dio Nacional Rio de Janeiro
+https://radionacionalrio-stream.ebc.com.br/ebc/radionacionalriodejaneiro/playlist.m3u8
+#EXTINF:-1,R�dio Nacional S�o Lu�s
+https://radionacionalfmsl-stream.ebc.com.br/index.m3u8
+#EXTINF:-1,R�dio Nacional S�o Paulo
+https://radionacionalfmsp-stream.ebc.com.br/ebc/radionacionalfmsp/playlist.m3u8
+#EXTINF:-1,R�dio Nove
+https://servidor22.brlogic.com:7050/live

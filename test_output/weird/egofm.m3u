@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1,egoFM H&K [HQ]
+https://cast.egofm.de/egofmhk.mp3?ar-distributor=ffa0&aw_0_req.gdpr=true
+#EXTINF:-1,egoFM H&K [LQ]
+https://cast.egofm.de/egofmhk.aac?ar-distributor=ffa0&aw_0_req.gdpr=true
+#EXTINF:-1,egoFM Kavka [HQ]
+https://cast.egofm.de/egofmkavka.mp3?ar-distributor=ffa0&aw_0_req.gdpr=true
+#EXTINF:-1,egoFM Kavka [LQ]
+https://cast.egofm.de/egofmkavka.aac?ar-distributor=ffa0&aw_0_req.gdpr=true
+#EXTINF:-1,egoFM Rap [LQ]
+https://cast.egofm.de/egorap.aac?ar-distributor=ffa0&aw_0_req.gdpr=true
+#EXTINF:-1,egoFM Sachsen [LQ]
+https://cast.egofm.de/egofm.aac?ar-distributor=ffa0&aw_0_req.gdpr=true
+#EXTINF:-1,egoFM Snow [LQ]
+https://cast.egofm.de/egosnow.aac?ar-distributor=ffa0&aw_0_req.gdpr=true
+#EXTINF:-1,egoFM Sun [LQ]
+https://cast.egofm.de/egosun.aac?ar-distributor=ffa0&aw_0_req.gdpr=true
+#EXTINF:-1,egoRNB [HQ]
+https://cast.egofm.de/egofmrnb.mp3?ar-distributor=ffa0&aw_0_req.gdpr=true
+#EXTINF:-1,egoRNB [LQ]
+https://cast.egofm.de/egofmrnb.aac?ar-distributor=ffa0&aw_0_req.gdpr=true

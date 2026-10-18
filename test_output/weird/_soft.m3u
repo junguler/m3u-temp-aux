@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1,SMOOTH JAZZ DELUXE
+https://cast1.torontocast.com:4490/;?type=http&nocache=1745925758
+#EXTINF:-1,Soft Radio
+https://stream10.xdevel.com/audio14s976748-2279/stream/icecast.audio
+#EXTINF:-1,Best of Rock.FM Soft Rock
+https://radio21.streamabc.net/radio21-softrock-mp3-256-8445450?sABC=61p208r1%230%232qqpnss01895rqr0s8oq129o03s183o0%23orfgbsebpx.sz&amsparams=playerid:bestofrock.fm;skey:1640106209
+#EXTINF:-1,Fun Radio For Kids - Bedtime Stories
+https://nl4.mystreaming.net/uber/forkidzbedtimestories/icecast.audio
+#EXTINF:-1,art FM
+https://cast.artfmradio.com/radio/8000/radio.mp3?1579455658
+#EXTINF:-1,NATURE RADIO SLEEP
+https://az1.mediacp.eu/listen/natureradiosleep/radio.mp3
+#EXTINF:-1,Radio Capital Soft
+https://streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/capitalsoft/playlist.m3u8
+#EXTINF:-1,羊飼いラジオ Hitsujikai Radio
+https://streaming.radio.co/se4a8e6a93/listen
+#EXTINF:-1,Radio Canal 100.1 FM
+https://sesion.desdeparaguay.net/hls/playlist.m3u8
+#EXTINF:-1,Radio Mix 90.1 FM
+https://rds3.desdeparaguay.net/movmix/movmix.stream/playlist.m3u8
+#EXTINF:-1,Magic Fm
+https://live.magicfm.ro/magicfm.aacp

@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,Lapfox Radio (FLAC)
+https://radio.lapfoxradio.com/radio/8000/stream-flac.flac
+#EXTINF:-1,Lapfox Radio (MP3 320k)
+https://radio.lapfoxradio.com/radio/8000/stream-mp3-320.mp3
+#EXTINF:-1,Furry Broadcasting Network
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/551f7d446def4d069e2bb054160fd46c/index.m3u8

@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,CBC Music Mountain (Calgary, CBR-FM, 102.1 FM, formerly CBC Radio 2)
+https://cbcradiolive.akamaized.net/hls/live/2041058/ES_R2MED/master.m3u8
+#EXTINF:-1,CBC Radio 1 Calgary (CBR - 1010 AM, 99.1 FM)
+https://cbcradiolive.akamaized.net/hls/live/2041039/ES_R1MCG/master.m3u8
+#EXTINF:-1,CKUA Radio Network
+https://ais-sa1.streamon.fm/7000_48k.aac
+#EXTINF:-1,ICI Musique Calgary - 89.7 FM, Edmonton - 101.1 FM (CBCX-FM)
+https://rcavliveaudio.akamaized.net/hls/live/2006999/M-7AEDM0_EDM/master.m3u8
+#EXTINF:-1,radiorara
+https://sonicpanel.chileservidores.cl/8004/stream
+#EXTINF:-1,Crystal 107.4 FM
+https://crystalfm-radiohosting2.radioca.st/stream
+#EXTINF:-1,KALW
+https://kalw-live.streamguys1.com/kalw
+#EXTINF:-1,KDST
+https://s4.radio.co/s2c33c7adb/listen

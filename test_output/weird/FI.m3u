@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,Yle Radio Suomi Oulu
+https://icecast.live.yle.fi/radio/YleOulu/icecast.audio
+#EXTINF:-1,Yle Radio Suomi Turku
+https://icecast.live.yle.fi/radio/YleTurku/icecast.audio
+#EXTINF:-1,Yle Radio Vega �boland
+https://icecast.live.yle.fi/radio/YleVegaAboland/icecast.audio

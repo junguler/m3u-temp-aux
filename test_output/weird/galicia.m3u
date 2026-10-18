@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,Radio Galega
+https://crtvg-radiogalega-hls.flumotion.cloud/playlist.m3u8
+#EXTINF:-1,Radio Galega M�sica
+https://crtvg-radiogalega-musica-hls.flumotion.cloud/playlist.m3u8
+#EXTINF:-1,Radio L�der Santiago
+https://server8.emitironline.com:18520/stream
+#EXTINF:-1,RNE Radio 1 Galicia
+https://f131.rndfnk.com/star/crtve/rne1/gal/mp3/128/stream.mp3?cid=01GENXH57B1Y4FWE4CVHB8M246&sid=3KsqXEwZ6ZUZ8S9OHbHPlq5lTx4&token=cmyNks6eTJxJjNmp1uEKqOJXZrDGwItbxZYgdXRcfvo&tvf=cDKbKIjO3xhmMTMxLnJuZGZuay5jb20
+#EXTINF:-1,RNE Radio 5 Galicia
+https://f131.rndfnk.com/star/crtve/rne5/lcg/mp3/128/stream.mp3?cid=01GEP53FAF08XXF9WHNDFYA8SJ&sid=38HJAGZ6rSProR2woSIoBS6RxTu&token=Dx6kVclbEBfoUL0cUfo3BrWpDi2Icy5uBPjIQtnr3RY&tvf=06fLNe7fihhmMTMxLnJuZGZuay5jb20
+#EXTINF:-1,Son Galicia Radio
+https://crtvg-songalicia-hls.flumotion.cloud/chunklist_b300000.m3u8

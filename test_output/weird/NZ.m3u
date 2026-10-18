@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1,Base FM 107.3
+https://stream.basefm.co.nz:8000/BaseHi
+#EXTINF:-1,Classic 1027
+https://edge.iono.fm/xice/49_high.aac
+#EXTINF:-1,New Zealand Chinese Radio FM 90.6
+https://s26.myradiostream.com/:20274/listen.mp3
+#EXTINF:-1,Positively Morrinsville 87.7 FM
+https://c16.radioboss.fm:8262/stream
+#EXTINF:-1,Radio 531 pi
+https://14923.live.streamtheworld.com/531PI_SC
+#EXTINF:-1,Rova Chill Hop
+https://18533.live.streamtheworld.com/ROVA_CHILLHOP_S01AAC.aac
+#EXTINF:-1,The Rhythm 89.0 FM
+https://stream-176.surfernetwork.com/7v9aaqeqhs8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3djlhYXFlcWhzOHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlZRekZRNTJFUmN5OEJVTXpHLTRoQ1EiLCJpYXQiOjE3OTIzNTcwNTUsImV4cCI6MTc5MjM1NzExNX0.mfk4UCoEyERuFcAsiXWZxbdnDVuxnT8AnjH17GZFZp4
+#EXTINF:-1,Wandering Sheep Radio Christian Smooth Jazz
+https://radio.wanderingsheep.tv:8021/christianjazz
+#EXTINF:-1,Wandering Sheep Radio Hope Alive
+https://radio.wanderingsheep.tv:8012/hopealive
+#EXTINF:-1,Wandering Sheep Radio Jazz Cafe
+https://radio.wanderingsheep.tv:8000/jazzcafe
+#EXTINF:-1,World FM 88.2
+https://www.worldfm.co.nz:8882/worldfm.aac

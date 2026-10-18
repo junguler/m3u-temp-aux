@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,FluxFM Indie Disco | 320k AAC
+https://51-210-189-143-c12fb8.sfn.edge-ovh-gra5.streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/cbc089f5-b834-40ca-9438-0b2f4bfb915f/stream.aac?source=fluxmusic.api.radiosphere.io&quality=10
+#EXTINF:-1,FluxFM Indie Disco | 64k MP3
+https://51-210-189-143-c12fb8.sfn.edge-ovh-gra5.streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/cbc089f5-b834-40ca-9438-0b2f4bfb915f/stream.mp3?source=fluxmusic.api.radiosphere.io&quality=1
+#EXTINF:-1,Exclusively Kylie Minogue
+https://streaming.exclusive.radio/er-app/kylie/icecast.audio

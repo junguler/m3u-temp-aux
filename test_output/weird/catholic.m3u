@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,R�dio Agnus Dei FM
+https://hts03.brascast.com:9144/live
+#EXTINF:-1,EWTN Canada
+https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
+#EXTINF:-1,EWTN Europe
+https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
+#EXTINF:-1,1410 AM Archangel Radio
+https://ice41.securenetsystems.net/WNGL
+#EXTINF:-1,Catholic Faith Network
+https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
+#EXTINF:-1,Catholic TV
+https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8
+#EXTINF:-1,EWTN Catholic Radio
+https://ewtn-ice.streamguys1.com/english-aac
+#EXTINF:-1,EWTN - Radio Cat�lica Mundial
+https://ewtn-ice.streamguys1.com/spanish-aac
+#EXTINF:-1,KHOY 88.1
+https://www.streamcontrol.net:8444/s/14060

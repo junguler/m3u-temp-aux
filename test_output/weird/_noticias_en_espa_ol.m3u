@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1,Blu Radio Cali 91.5 FM
+https://26483.live.streamtheworld.com/BLU_CALI_ADP_SC
+#EXTINF:-1,NEGOCIOS.COM
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+#EXTINF:-1,Acci�n 97.9 (La Primera En Noticias)
+https://stream.revma.ihrhls.com/zc7959/hls.m3u8
+#EXTINF:-1, NOTICIAS Y DEPORTES 1330 (Los �ngeles) - 1330 AM - KWKW - Lotus Communications - Los �ngeles, California, EUA
+https://14623.live.streamtheworld.com/KWKWAMAAC.aac
+#EXTINF:-1,La Red 106.1 Guatemala
+https://18313.live.streamtheworld.com/LA_REDAAC.aac
+#EXTINF:-1,106.9 Radio F�rmula (Aguascalientes) - 106.9 FM - XHAC-FM - Radio Universal - Aguascalientes, Aguascalientes
+https://radioweb.stream/ags.ags/xhac.aac/icecast.audio
+#EXTINF:-1,88.9 Noticias - 88.9 FM - XHM-FM - Grupo ACIR - Ciudad de M�xico
+https://29308.live.streamtheworld.com/XHMFMAAC_SC
+#EXTINF:-1,LA JL 99.3 (Guam�chil) - 99.3 FM - XHJL-FM - Grupo Ch�vez Radio - Guamuchil, Sinaloa
+https://noticieroaltavoz.com:8443/listen/la_jl_(99.3)/radio.mp3
+#EXTINF:-1,La Primera (Saltillo) - 88.9 FM - XHAJ-FM - Grupo Multimedia El Diario de Coahuila - Saltillo, Coahuila
+https://26293.live.streamtheworld.com/XHAJFMAAC.aac
+#EXTINF:-1,MVS Noticias - 102.5 FM - XHMVS-FM - MVS Radio - Ciudad de M�xico
+https://26363.live.streamtheworld.com/XHMVSFM_SC
+#EXTINF:-1, RADIO METR�POLI 1150 (GDL) - 1150 AM - XEAD-AM - Grupo Unidifusi�n - Guadalajara, Jalisco
+https://s2.yesstreaming.net:9088/stream
+#EXTINF:-1, RADIO MEXICANA Nuestras Noticias 1300 (Ciudad Ju�rez) - 1300 AM - XEP-AM - Radiorama - Ciudad Ju�rez, Chihuahua
+https://stream-284.surfernetwork.com/9b3xff05dkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5YjN4ZmYwNWRraHZ2IiwiaG9zdCI6InN0cmVhbS0yODQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImFNdHJGX3hFVExlUEpEaTlOc0hPSlEiLCJpYXQiOjE3OTIzNTUxNjgsImV4cCI6MTc5MjM1NTIyOH0.pXL2YKujhLNMLRq8FQYZgGLEoNpajXWPuy84mgAHJ4k
+#EXTINF:-1,Sonido Estrella (Zacatecas) - 89.9 FM - XHEPC-FM - Zacatecas, ZA
+https://radioforte.com/8010/sonidoestrella
+#EXTINF:-1, UNIVERSAL 88.1 (CDMX) - 88.1 FM - XHRED-FM - Grupo Radio Centro - Ciudad de M�xico
+https://26283.live.streamtheworld.com/XHFO_FMAAC.aac
+#EXTINF:-1,UNIVERSAL Ciudad de M�xico - 88.1 FM - XHRED-FM - Grupo Radio Centro - Ciudad de M�xico
+https://27063.live.streamtheworld.com/XERED_AMAAC.aac

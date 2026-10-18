@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1, CONEXI�N 98.1 (Colima) - 98.1 FM - XHIRC-FM - Instituto Colimense de Radio y Televisi�n - Colima, Colima
+https://streamingcwsradio30.com/8270/stream
+#EXTINF:-1, EXA FM 99.7 (Colima) - 99.7 FM - XHCOC-FM - JA Radio - Colima, Colima
+https://17553.live.streamtheworld.com/XHCOCFMAAC.aac
+#EXTINF:-1,La Bestia Grupera (Tecom�n) - 90.5 FM - XHECO-FM - Radiorama / Grupo Audiorama Comunicaciones - Tecom�n, Colima
+https://ss1.audiorama.com.mx:6578/stream
+#EXTINF:-1, LA KEBUENA 95.5 (Colima) - 95.5 FM - XHCMM-FM - 95.5 FM - Luna Medios - Coalcom�n, Michoac�n
+https://radios.lunamedios.mx:8308/;
+#EXTINF:-1,La Mejor Manzanillo - 96.3 FM - XHECS-FM - Manzanillo, CL
+https://26313.live.streamtheworld.com/XHVGFM_SC
+#EXTINF:-1,Lokura FM Grupera Colima 104.5 FM
+https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/6939d9771e27fe9d27f16c59/playlist.m3u8?aid=692edd869a67b2f5fb063c6d&pid=44elnjKyAwZNE9pvjx0ikNuCvEbTlhFD&sid=MO5SjMzVmJDizZeiCt69KJDdNjRKaZck&uid=8eIPZSrLvWRQAARIvq1Xr9NGKvYMXYZ9&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1792440737336&ot=ZDQYgbPZgly1C4WKv7HLuQ&proto=https&pz=us&cP=128000&awCollectionId=692edd869a67b2f5fb063c6d&liveId=6939d9771e27fe9d27f16c59&listenerId=8eIPZSrLvWRQAARIvq1Xr9NGKvYMXYZ9
+#EXTINF:-1, LUPE 560 (Manzanillo) - 560 AM - XEMZA-AM - Grupo Radiof�nico ZER - Manzanillo, Colima
+https://live.zuperdns.net/1895/stream/
+#EXTINF:-1,Sol FM (Manzanillo) - 89.7 FM / 560 AM - XHMZA-FM / XEMZA-AM - Grupo Radiof�nico ZER - Cihuatl�n, JC / Manzanillo, CL
+https://live.zuperdns.net/1895/stream/;stream.mp3
+#EXTINF:-1,SUPER (Colima) - 98.9 FM - XHERL-FM - Radiorama - Colima, Colima
+https://ss1.audiorama.com.mx:6644/stream

@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1,Aplus.FM Rock
+https://shoutcast.aplus.fm/aplus_rock_256
+#EXTINF:-1,Чайная роза радио
+https://s05.volnorez.com/live-app/788219
+#EXTINF:-1,Мелодии Века 96.2fm
+https://radiorecord.hostingradio.ru/sd9096.aacp
+#EXTINF:-1,Народное радио Минск 87.9 FM
+https://live.novoeradio.by:444/live/narodnoeradio_aac128/icecast.audio
+#EXTINF:-1,Новое радио
+https://live.novoeradio.by:444/live/novoeradio_aac128/icecast.audio
+#EXTINF:-1,Новое радио - Fresh
+https://live.novoeradio.by:444/live/novoeradio_fresh_aac128/icecast.audio
+#EXTINF:-1,Новое радио - MegaMix
+https://live.novoeradio.by:444/live/novoeradio_megamix_aac128/icecast.audio
+#EXTINF:-1,Открытое Слово
+https://rt.radioslovo.net:4395/radio
+#EXTINF:-1,Открытое Слово Авто Радио
+https://rt.radioslovo.net:4145/stream
+#EXTINF:-1,Открытое Слово Братские встречи
+https://rt.radioslovo.net:4135/stream
+#EXTINF:-1,Pilot FM
+https://edge2.usp.unistar.by/hls/unistar_pilotfm/96k.m3u8?session_id=60c1fba2-77d4-4180-ab07-4f162b47f3fc

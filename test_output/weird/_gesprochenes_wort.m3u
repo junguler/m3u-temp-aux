@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,WDR3
+https://wdr-radio.ard-mcdn.de/wdr/radio/wdr3/hls/master.m3u8
+#EXTINF:-1,WDR3 HD
+https://wdr-radio.ard-mcdn.de/wdr/radio/wdr3hd/hls/master.m3u8

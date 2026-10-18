@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,Radio Poland
+https://stream85.polskieradio.pl/pr5/pr5.sdp/playlist.m3u8
+#EXTINF:-1,Radio SAR - Studencka Agencja Radiowa
+https://stream.radiosar.pl/hdmain.mp3

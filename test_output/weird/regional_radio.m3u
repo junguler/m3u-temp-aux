@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1,DR P4 Bornholm (AAC)
+https://drliveradio1.akamaized.net/hls/live/2097651/p4bornholm/masterab.m3u8
+#EXTINF:-1,DR P4 Esbjerg (AAC)
+https://drliveradio1.akamaized.net/hls/live/2097651/p4esbjerg/masterab.m3u8
+#EXTINF:-1,DR P4 Fyn (AAC)
+https://drliveradio1.akamaized.net/hls/live/2097651/p4fyn/masterab.m3u8
+#EXTINF:-1,DR P4 K�benhavn (AAC)
+https://drliveradio1.akamaized.net/hls/live/2097651/p4kobenhavn/masterab.m3u8
+#EXTINF:-1,DR P4 Midt-Vest (AAC)
+https://drliveradio1.akamaized.net/hls/live/2097651/p4midtvest/masterab.m3u8
+#EXTINF:-1,DR P4 Nordjylland (AAC)
+https://drliveradio1.akamaized.net/hls/live/2097651/p4nordjylland/masterab.m3u8
+#EXTINF:-1,DR P4 �stjylland (AAC)
+https://drliveradio1.akamaized.net/hls/live/2097651/p4ostjylland/masterab.m3u8
+#EXTINF:-1,DR P4 Sj�lland (AAC)
+https://drliveradio1.akamaized.net/hls/live/2097651/p4sjaelland/masterab.m3u8
+#EXTINF:-1,DR P4 Syd (AAC)
+https://drliveradio1.akamaized.net/hls/live/2097651/p4syd/masterab.m3u8
+#EXTINF:-1,DR P4 Trekanten (AAC)
+https://drliveradio1.akamaized.net/hls/live/2097651/p4trekanten/masterab.m3u8
+#EXTINF:-1,DR P5 Bornholm (AAC)
+https://drliveradio1.akamaized.net/hls/live/2097651/p5bornholm/masterab.m3u8
+#EXTINF:-1,DR P5 Esbjerg (AAC)
+https://drliveradio1.akamaized.net/hls/live/2097651/p5esbjerg/masterab.m3u8
+#EXTINF:-1,DR P5 Fyn (AAC)
+https://drliveradio1.akamaized.net/hls/live/2097651/p5fyn/masterab.m3u8
+#EXTINF:-1,DR P5 K�benhavn (AAC)
+https://drliveradio1.akamaized.net/hls/live/2097651/p5kobenhavn/masterab.m3u8
+#EXTINF:-1,DR P5 Midt-Vest (AAC)
+https://drliveradio1.akamaized.net/hls/live/2097651/p5midtvest/masterab.m3u8
+#EXTINF:-1,DR P5 Nordjylland (AAC)
+https://drliveradio1.akamaized.net/hls/live/2097651/p5nordjylland/masterab.m3u8
+#EXTINF:-1,DR P5 �stjylland (AAC)
+https://drliveradio1.akamaized.net/hls/live/2097651/p5ostjylland/masterab.m3u8
+#EXTINF:-1,DR P5 Sj�lland (AAC)
+https://drliveradio1.akamaized.net/hls/live/2097651/p5sjaelland/masterab.m3u8
+#EXTINF:-1,DR P5 Syd (AAC)
+https://drliveradio1.akamaized.net/hls/live/2097651/p5syd/masterab.m3u8
+#EXTINF:-1,DR P5 Trekanten (AAC)
+https://drliveradio1.akamaized.net/hls/live/2097651/p5trekanten/masterab.m3u8
+#EXTINF:-1,Omroep Lekstroom
+https://mpc2.mediacp.eu:8268/omroephouten
+#EXTINF:-1,Teren.fm
+https://online.teren.fm/teren_320
+#EXTINF:-1,Jozi FM
+https://edge.iono.fm/xice/51_medium.aac

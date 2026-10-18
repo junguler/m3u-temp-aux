@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:-1,CFBK 105.5 "Moose FM" Huntsville,  ON
+https://vistaradio.streamb.live/SB00116
+#EXTINF:-1,CFLT "Jack 92.9" Dartmouth, NS
+https://rogers-hls.leanstream.co/rogers/hal929.stream/playlist.m3u8
+#EXTINF:-1,CHST-FM "Jack 102.3" London, ON
+https://rogers-hls.leanstream.co/rogers/lon1023.stream/playlist.m3u8
+#EXTINF:-1,CHWY-FM 106.7 "Big 106" Weyburn, SK
+https://hel-ais-relay1.leanstream.co/goldenwest/CHWYFM.stream/playlist.m3u8
+#EXTINF:-1,CJSU-FM 89.7 "Sun FM" Duncan, BC
+https://vistaradio.streamb.live/SB00080
+#EXTINF:-1,CKLP 103.3 "Moose FM" Parry Sound, ON
+https://vistaradio.streamb.live/SB00114
+#EXTINF:-1,CKVV 97.5 "Juice FM" Kemptville, ON
+https://vistaradio.streamb.live/SB00108
+#EXTINF:-1,__SEX__ by rautemusik (rm.fm)
+https://rautemusik.stream48.radiohost.de/sex?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU2MzAyJmQ9ODM5ZGZhYTY4YTA4ZjBkOGRlM2Q
+#EXTINF:-1,100.3 The Bus
+https://stream.revma.ihrhls.com/zc2744
+#EXTINF:-1,102.7 Jack-FM
+https://stream.revma.ihrhls.com/zc4330
+#EXTINF:-1,102.9 The Lake
+https://stream.revma.ihrhls.com/zc1609
+#EXTINF:-1,103.1 Jack FM
+https://ice24.securenetsystems.net/KDAA
+#EXTINF:-1,103.3 eD-FM
+https://13743.live.streamtheworld.com/KDRFFMAAC.aac
+#EXTINF:-1,104.1 The Spot
+https://stream.revma.ihrhls.com/zc1041
+#EXTINF:-1,88.5 Chuck FM
+https://ice23.securenetsystems.net/CHUCKFM
+#EXTINF:-1,93.1 The Mountain
+https://stream.revma.ihrhls.com/zc1337
+#EXTINF:-1,93.3 The Bus
+https://stream.revma.ihrhls.com/zc1761
+#EXTINF:-1,96.5 JACK-FM
+https://stream.revma.ihrhls.com/zc7788
+#EXTINF:-1,Beach 105.5
+https://26423.live.streamtheworld.com/WBHUFMAAC.aac
+#EXTINF:-1,Electric 102.7
+https://prod-100-26-100-53.amperwave.net/bristolbroad-wvsrfmaac-ibc2?session-id=e7d054cb8324087f54ecc066a6c62fff
+#EXTINF:-1,SomaFM Xmas in Frisko
+https://ice6.somafm.com/xmasinfrisko-128-aac
+#EXTINF:-1,WOXL Mix 96.5
+https://prod-54-227-167-196.amperwave.net/saga-woxlfmaac-hlsc2.m3u8?
+#EXTINF:-1,WQSL - The River 92.3 & 101.1 FM
+https://dbc.streamguys1.com/wqsl-fm.aac
+#EXTINF:-1,WWMP MP103
+https://nebcoradio.com:8443/WWMP
+#EXTINF:-1,Radio 5 GR
+https://streamer.out.gr/8006/stream
+#EXTINF:-1,Rokkea
+https://hotsoft.net.gr:9103/stream?1723237899345
+#EXTINF:-1,SKGLOBE.NET | POWERSHOTS!
+https://audio-edge-5bkfj.fra.h.radiomast.io/8deb2a7e-148f-400b-b5e3-b8c3f9431915
+#EXTINF:-1,ARB FM JAKARTA
+https://void.idserverhost.com/8018/stream
+#EXTINF:-1,La Lupe 105.3 FM Monterrey
+https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/6737993c9422ca09f9b9ea70?aid=579bd29dc99290cf08362c3b&pid=zrWTqPV8icJc8Xddhi6DiVfqBlihybJs&sid=AoFQlzmLvHFDVbnfvoVKY1WLTo96cPn6&uid=JyEvZio8apQI6TUnS1bLqUvRlUgV4f7f&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1792442403046&ot=AMaZtfsDd4KSYwfuafvDAg&proto=https&pz=us&cP=128000&awCollectionId=579bd29dc99290cf08362c3b&aw_0_1st.playerId=multimedios-radio-app-web&liveId=6737993c9422ca09f9b9ea70&propertyName=multimedios-radio-app-web&listenerId=JyEvZio8apQI6TUnS1bLqUvRlUgV4f7f
+#EXTINF:-1,La Lupe 90.7 FM Culiac�n
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/6737870cf12274fb020c287a?aid=579bd29dc99290cf08362c3b&property=mmradio&pid=7me4abfYVe5JNdvfExnQ1Z7CEeNsfdJb&sid=BecUjPnvoyEAymTNRaRephElBWZ1XAjv&uid=k5UMc7ovKhYUNexqWa3NqDMyurXeNLF7&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1792442403107&ot=bn8WHHWyh9KiYi97DgkBOA&proto=https&pz=us&cP=128000&awCollectionId=579bd29dc99290cf08362c3b&aw_0_1st.playerId=mmradio&liveId=6737870cf12274fb020c287a&propertyName=mmradio&propertyType=rss-app&listenerId=k5UMc7ovKhYUNexqWa3NqDMyurXeNLF7
+#EXTINF:-1,La Lupe Ciudad Victoria 95.3 FM
+https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/67379e3e9cbec50af5c979ac?aid=579bd29dc99290cf08362c3b&pid=Uu1UgIPnwE35vhKSx99PsAFAWDvmXBN6&sid=1PwHsFicR6G1JwuS1lXdeyma3aCLK1sR&uid=u4a9EToOVZBMh6XjP7dCJf3VrP4ewoWq&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1792442403118&ot=t3hZ51JYf7Rn2eblba8gVw&proto=https&pz=us&cP=128000&awCollectionId=579bd29dc99290cf08362c3b&aw_0_1st.playerId=multimedios-radio-app-web&liveId=67379e3e9cbec50af5c979ac&propertyName=multimedios-radio-app-web&listenerId=u4a9EToOVZBMh6XjP7dCJf3VrP4ewoWq
+#EXTINF:-1,Radio Variedades 103.5 FM Los Mochis
+https://radios.blumhost.es/8126/;
+#EXTINF:-1,Rom�ntica Ciudad Victoria 96.1 FM
+https://stream-284.surfernetwork.com/g1uslmxk9j4vv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnMXVzbG14azlqNHZ2IiwiaG9zdCI6InN0cmVhbS0yODQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InFreDREYVdsUlk2WXRpQWFqOW1mc3ciLCJpYXQiOjE3OTIzNTYwMDMsImV4cCI6MTc5MjM1NjA2M30.aGW6EYUC4NJeO38dN_FEqDVfn7JOlszU3lhxpgWrGdY

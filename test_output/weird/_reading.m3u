@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,Vision Australia Radio
+https://14533.live.streamtheworld.com/3RPHAAC.aac
+#EXTINF:-1,FluxFM traumerei | 320k MP3
+https://51-83-105-37-28ffe3.sfn.edge-ovh-gra5.streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/145ed775-a18c-4c0c-8153-39f71690f457/stream.mp3?source=fluxmusic.api.radiosphere.io&quality=10
+#EXTINF:-1,FluxFM traumerei | 64k AAC
+https://51-83-105-37-28ffe3.sfn.edge-ovh-gra5.streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/145ed775-a18c-4c0c-8153-39f71690f457/stream.aac?source=fluxmusic.api.radiosphere.io&quality=1
+#EXTINF:-1,Hotmix Focus
+https://streaming.hotmixradio.com/hotmix-focus-en-mp3?provider=radiobrowser
+#EXTINF:-1,Fun Radio For Kids - Bedtime Stories
+https://nl4.mystreaming.net/uber/forkidzbedtimestories/icecast.audio
+#EXTINF:-1,KPBS Radio Reading Service
+https://kpbs-rrs.streamguys1.com/kpbs-rrs
+#EXTINF:-1,WRBH 88.3 FM Reading Radio
+https://phoebe.streamerr.co:3200/

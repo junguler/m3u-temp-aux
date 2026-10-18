@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1,1LIVE
+https://d131.rndfnk.com/ard/wdr/1live/live/mp3/128/stream.mp3?cid=01FBRZTS1K1TCD4KA2YZ1ND8X3&sid=3KspMSlrRS31bNP2C2pGue7nHUL&token=yZ00Nz8rSxAhcNSxFas_XYao0LQ_94qb_iqLTnaN2Wg&tvf=pBY2VwHO3xhkMTMxLnJuZGZuay5jb20
+#EXTINF:-1, Bremen Zwei NEU
+https://f111.rndfnk.com/ard/rb/bremenzwei/live/mp3/128/stream.mp3?cid=01FC1W5VF6FKTYZ6QVPEDGQZYJ&sid=3KspMMmEF9PcT8ueWNFBjND2KGU&token=2McT530oHNKtnumt3MiZdZY4Py8ZDmimOvdtQaDU3uo&tvf=PPZOIAHO3xhmMTExLnJuZGZuay5jb20
+#EXTINF:-1,hr-fernsehen HD
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+#EXTINF:-1,MDR AKTUELL
+https://radio-hls.mdr.de/hls/live/2112901/mdr-284340-0-hls/index.m3u8
+#EXTINF:-1,MDR KLASSIK
+https://radio-hls.mdr.de/hls/live/2112906/mdr-284350-0-hls/index.m3u8
+#EXTINF:-1,MDR KULTUR
+https://radio-hls.mdr.de/hls/live/2112903/mdr-284310-0-hls/index.m3u8
+#EXTINF:-1,MDR SCHLAGERWELT
+https://mdr-radio-hls.akamaized.net/hls/live/2112911/mdr-990701-0-hls/index.m3u8
+#EXTINF:-1,MDR SPUTNIK - Einfach die beste Musik - Deine Lieblingsmusik
+https://mdr-radio-hls.akamaized.net/hls/live/2112905/mdr-284330-0-hls/index.m3u8
+#EXTINF:-1,NDR Fernsehen Hamburg
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/master.m3u8
+#EXTINF:-1,NDR Fernsehen MV
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/master.m3u8
+#EXTINF:-1,NDR Fernsehen Niedersachsen
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/master.m3u8
+#EXTINF:-1,NDR Fernsehen SH
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/master.m3u8
+#EXTINF:-1,Russia Today Germany
+https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
+#EXTINF:-1,SWR dasding
+https://f131.rndfnk.com/ard/swr/dasding/live/mp3/128/stream.mp3?aggregator=web&cid=01FBVQWZT2B1KGPFJ7TDHQ1Y2B&sid=3KspMlR8VBEd7JxK7kLTRzzMiGX&token=4_tRYYRNX5_uWclA9ebdWrWF4K5kR8vg8InT_0CfKvg&tvf=HuCmzAHO3xhmMTMxLnJuZGZuay5jb20
+#EXTINF:-1,tagesschau24
+https://f111.rndfnk.com/ard/ndr/tagesschau24/live/mp3/128/stream.mp3?cid=01GE4H1H4TD1010BHZJ954SYJ9&sid=3KspMecmoSbLPkhJWBpHx9yZsPX&token=hd0azvDai1sm59U49bspiIWxlJafUlmwCt0ka9NU-SE&tvf=YtZYagHO3xhmMTExLnJuZGZuay5jb20

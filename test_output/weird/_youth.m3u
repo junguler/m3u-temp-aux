@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1,ABC Triple J Queensland 20220701
+https://streaming.abc-cdn.net.au/audio/hls/triplejqld.m3u8
+#EXTINF:-1,SYN FM
+https://23163.live.streamtheworld.com/3SYNAAC_SC
+#EXTINF:-1,R�dio Mix 106.3 FM
+https://27363.live.streamtheworld.com/MIXFM_SAOPAULOAAC.aac
+#EXTINF:-1,1LIVE DIGGI
+https://wdr-radio.ard-mcdn.de/wdr/radio/1livediggi/hls/master.m3u8
+#EXTINF:-1,N-JOY HQ
+https://ndr-radio.ard-mcdn.de/ndr/radio/njoy/hls/192/seglist.m3u8
+#EXTINF:-1,Radio Fritz
+https://f121.rndfnk.com/ard/rbb/fritz/live/mp3/128/stream.mp3?cid=01FC1WK1H1KDC5EBKW5Z191BW4&sid=3KsorgJ9ruEDwWCQSwcJQbYuT1Y&token=wvoL5unfSrJAmNHvOeUc5gMrGWFu51OSkl-RZyYLuuc&tvf=DDZMTcjN3xhmMTIxLnJuZGZuay5jb20
+#EXTINF:-1,SWR dasding
+https://d131.rndfnk.com/ard/swr/dasding/live/mp3/128/stream.mp3?aggregator=web&cid=01FBVQWZT2B1KGPFJ7TDHQ1Y2B&sid=3KsorqLuhGMDr3wFI1ij2km5JQR&token=6ZRMQO5-h5gUHBh-7QAKMZBdfnn4pyCYu_Sah5yzcSU&tvf=ZU7cfcjN3xhkMTMxLnJuZGZuay5jb20
+#EXTINF:-1,BBC RADIO 1 ANTHEMS: All-day anthems from the 00s to now
+https://as-hls-ww.live.cf.md.bbci.co.uk/pool_11351741/live/ww/bbc_radio_one_anthems/bbc_radio_one_anthems.isml/bbc_radio_one_anthems-audio%3d96000.norewind.m3u8
+#EXTINF:-1,Radio Disney Asia FM 100.7
+https://listen.radioking.com/radio/453221/stream/508076
+#EXTINF:-1,SWR Dasding
+https://f121.rndfnk.com/ard/swr/dasding/live/mp3/128/stream.mp3?aggregator=web&sid=22b3kE9APbOl9ZaR7PbEc0GHbJq&token=pHvJU7ggB2O_QWj3eNhuLqlpvQmJRbBPIi2h6OM0PEI&tvf=s4t__yzbwhZmMTIxLnJuZGZuay5jb20
+#EXTINF:-1,101.1 Exa FM (Monclova) - 101.1 FM - XHWGR-FM - NRT M�xico - Monclova, Coahuila
+https://radio.nrt-environment.com/hls/exa101/exa.m3u8
+#EXTINF:-1,102.1 Exa FM (San Luis Potos�) - 102.1 FM - XHESL-FM - MG Radio - San Luis Potos�, San Luis Potos�
+https://20603.live.streamtheworld.com/XHESLAAC.aac
+#EXTINF:-1,91.7 Exa FM (Tijuana) - 91.7 FM - XHGLX-FM - MVS Radio - Tijuana, Baja California
+https://27063.live.streamtheworld.com/XHGLXAAC.aac
+#EXTINF:-1,EXA FM 91.5 (Mexicali) - 91.5 FM - XHJC-FM - MVS Radio - Mexicali, Baja California
+https://26433.live.streamtheworld.com/XHJCFMAAC.aac
+#EXTINF:-1,EXA FM 95.5 (Quer�taro) - 95.5 FM - XHOE-FM - Multimundo Radio - Quer�taro, Quer�taro
+https://20603.live.streamtheworld.com/XHOEAAC.aac
+#EXTINF:-1,Sveriges Radio P3
+https://edge1.sr.se/p3-aac-320
+#EXTINF:-1,Sveriges Radio - P3
+https://edge1.sr.se/p3-aac-320
+#EXTINF:-1,Sveriges radio P3 (mp3)
+https://edge2.sr.se/p3-mp3-96

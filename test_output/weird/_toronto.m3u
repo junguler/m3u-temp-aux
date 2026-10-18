@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,100% ACID JAZZ
+https://mpc1.mediacp.eu:8356/stream
+#EXTINF:-1,100 % COVERS LOUNGE
+https://az1.mediacp.eu/listen/100coverslounge/radio.mp3
+#EXTINF:-1, # 70s 80s 90s RdMix Network
+https://cast1.torontocast.com:1830/stream
+#EXTINF:-1,CJCL Sportsnet 590 The Fan
+https://rogers-hls.leanstream.co/rogers/tor590.stream/playlist.m3u8
+#EXTINF:-1,CJCL Sportsnet 590 The Fan (Alt Stream)
+https://rogers-hls.leanstream.co/rogers/tor590_alt.stream/48k/playlist.m3u8
+#EXTINF:-1,DAREU RAdio
+https://s5.radio.co/s9dd8d7dce/listen
+#EXTINF:-1,Radio Regent.com Toronto, ON
+https://streamer.radio.co/se3e1e3815/low
+#EXTINF:-1,SENSUAL LOUNGE RADIO
+https://kathy.torontocast.com:3590/;?type=http&nocache=1739707069

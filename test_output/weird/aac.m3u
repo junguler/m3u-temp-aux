@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,Коледно радио
+https://play.global.audio/radio1-koledahi.aac
+#EXTINF:-1,Radio PSR Dresden | AAC 64 kbps
+https://regiocast.streamabc.net/regc-psrlivesnddn-aacplus-64-1037036?sABC=6nq52r95%230%2314902s8338511o2s154s4734r3rrs129%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1792355989
+#EXTINF:-1,Europe 1
+https://europe1.lmn.fm/europe1.aac
+#EXTINF:-1,FIP Pop
+https://icecast.radiofrance.fr/fippop-hifi.aac
+#EXTINF:-1,France Inter
+https://icecast.radiofrance.fr/franceinter-hifi.aac
+#EXTINF:-1,Sud Radio
+https://ice.creacast.com/sudradio_aac
+#EXTINF:-1,NPO Klassiek
+https://icecast.omroep.nl/radio4-bb-aac
+#EXTINF:-1,1st Greek Hits FLAC Non-Stop Radio
+https://stream.newageradio.gr/listen/flac_gr/radio.aac
+#EXTINF:-1,Радіо Аверс
+https://radio.avers.pp.ua/hls_radio/efir.m3u8

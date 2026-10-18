@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,Pure Radio
+https://kathy.torontocast.com:4825/stream
+#EXTINF:-1,WQKL Kool 103.3 Punxsutawney
+https://ice64.securenetsystems.net/WKQL
+#EXTINF:-1,StarStream Radio - Alternative Rock 2010 to Now
+https://das-edge93-live365-dal05.cdnstream.com/a72059
+#EXTINF:-1,StarStream Radio - Rock 90's and 00's
+https://das-edge93-live365-dal05.cdnstream.com/a65639
+#EXTINF:-1,StarStream Radio - The Vinyl Vibe
+https://das-edge93-live365-dal05.cdnstream.com/a29175
+#EXTINF:-1,Lokura FM Rock Ciudad De M�xico 830 AM
+https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/69373baa6d5fd824ec8440c5/playlist.m3u8?aid=692edd869a67b2f5fb063c6d&pid=3MERx2lRB2ORq5DcKTbI48HdRSPkEvsF&sid=C3Bz9tiKqMbuvL5oPq1IgdIYn0t9sf39&uid=8BifotcCvIaggp1aFrZiB7dXfx8redki&es=us-b4-p-e-qg12-audio.cdn.mdstrm.com&ote=1792442401044&ot=0-X6wR3RoywGzUYjK5Jcbg&proto=https&pz=us&cP=128000&awCollectionId=692edd869a67b2f5fb063c6d&aw_0_1st.playerId=lokura-fm-app-web&liveId=69373baa6d5fd824ec8440c5&propertyName=lokura-fm-app-web&listenerId=8BifotcCvIaggp1aFrZiB7dXfx8redki
+#EXTINF:-1,Lokura FM Rock Puerto Vallarta 105.9 FM
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/6939c6af9de3b0bee0aedc71/playlist.m3u8?aid=692edd869a67b2f5fb063c6d&pid=4vcwrpLymamiktzE8uG1gcwHhZWwBESi&sid=8N4j5FUci4Yv1Dg18bXEfiXYEAkBAuXJ&uid=UIdg66mv6nerQShVCKzRxZw7cetwJ5U1&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1792442401047&ot=0Fw7xkBOGqr2kHr231oV7w&proto=https&pz=us&cP=128000&awCollectionId=692edd869a67b2f5fb063c6d&liveId=6939c6af9de3b0bee0aedc71&listenerId=UIdg66mv6nerQShVCKzRxZw7cetwJ5U1
+#EXTINF:-1,Lokura FM Rock Quer�taro 104.9 FM
+https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/69399586d3f19db9bddb587e/playlist.m3u8?aid=692edd869a67b2f5fb063c6d&pid=kWVd0wpMmmwgDVKo85MY9cIVmohmow4n&sid=xIxfvK8ezsqTaDdfxzEaizZpUwwXLDVC&uid=4AbCiAbYoQWzrciMtltxWn9FUdgN4zb8&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1792442401101&ot=gqHSITZ3EfV7-Tiz3dGfhw&proto=https&pz=us&cP=128000&awCollectionId=692edd869a67b2f5fb063c6d&aw_0_1st.playerId=lokura-fm-app-web&liveId=69399586d3f19db9bddb587e&propertyName=lokura-fm-app-web&listenerId=4AbCiAbYoQWzrciMtltxWn9FUdgN4zb8
+#EXTINF:-1,Radio Dzwiek
+https://streamhls.radiodzwiek.slask.pl/dzwiek-mp3

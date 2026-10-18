@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF:-1,Radio FM Centro 91.7
+https://s02.azuracast.cl/radio/8210/fmcentro
+#EXTINF:-1,Azul 99.9 FM
+https://23263.live.streamtheworld.com/CRC_999AAC.aac
+#EXTINF:-1,Planeta 105.3 Caracas FM
+https://cast10.plugstreaming.com:2020/stream/planetafm/;
+#EXTINF:-1,Rumba 100.1 Barquisimeto FM
+https://cast10.plugstreaming.com:2020/stream/r1001/;
+#EXTINF:-1,Rumba 104.9 Anzoategui FM
+https://cast10.plugstreaming.com:2020/stream/r1049/;
+#EXTINF:-1,Rumba 98.1 FM
+https://cast20.plugstreaming.com:2020/stream/r981/;
+#EXTINF:-1,Din�mica 89.9 FM
+https://cloudstream2032.conectarhosting.com/8312/stream
+#EXTINF:-1,Free FM Bombay
+https://rocafmadrid.radioca.st/
+#EXTINF:-1,100.1 Hits (Huajuapan) - 100.1 FM - XHPHUA-FM - Enza Telecom - Huajuapan de Le�n, Oaxaca
+https://stream-290.surfernetwork.com/1ozriqxnwr0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIxb3pyaXF4bndyMHV2IiwiaG9zdCI6InN0cmVhbS0yOTAuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjRFdnVjb0xzUUZHZ3R6ZzY3VEhjRkEiLCJpYXQiOjE3OTIzNTUyODEsImV4cCI6MTc5MjM1NTM0MX0.zqrd56tXozr6eDFi6TnyjnD0ZNPYYQ9vq1n96tgunnw
+#EXTINF:-1,104.9 La Lupe (San Luis Potos�) - 104.9 FM - XHCZ-FM - Multimedios Radio - San Luis Potos�, San Luis Potos�
+https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/6737a424ecba1df74a06e49e?aid=579bd29dc99290cf08362c3b&pid=0tINBLbBtCCqpLK6NTBXQS6ANF6RYsqU&sid=vcsveOSgnrsbs2O77MaxyGIN1uTHSemk&uid=o76UoKPpB9OtDxwiRGlzu6IcP7toFCmf&es=us-b4-p-e-zs14-audio.cdn.mdstrm.com&ote=1792441681416&ot=28U4BLNRr8TmYbsJZ66_BQ&proto=https&pz=us&cP=128000&awCollectionId=579bd29dc99290cf08362c3b&aw_0_1st.playerId=multimedios-radio-app-web&liveId=6737a424ecba1df74a06e49e&propertyName=multimedios-radio-app-web&listenerId=o76UoKPpB9OtDxwiRGlzu6IcP7toFCmf
+#EXTINF:-1,89.5 La Lupe (Fort�n) - 89.5 FM - XHFTI-FM - Multimedios Radio - Fort�n de las Flores, Veracruz
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/672cec266ac145ede1027a7b?aid=579bd29dc99290cf08362c3b&pid=gHgmYjEhLHyBCLL60KXPSZolCZCav21d&sid=WIM79o4G8lpUphuWvUezJLduyaPMI2Xk&uid=nv1RpIJqelQ0Bfgr8IXbQAU1O5izHXql&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1792441681706&ot=CtduhGWCDUMmaNPRNlyLgg&proto=https&pz=us&cP=128000&awCollectionId=579bd29dc99290cf08362c3b&aw_0_1st.playerId=multimedios-radio-app-web&liveId=672cec266ac145ede1027a7b&propertyName=multimedios-radio-app-web&listenerId=nv1RpIJqelQ0Bfgr8IXbQAU1O5izHXql
+#EXTINF:-1,93.1 Love FM (Hermosillo) - 93.1 FM - XHEPB-FM - Grupo RADIO SA - Hermosillo, Sonora
+https://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/66b0f440b47ad3416c6a654a/playlist.m3u8?aid=6673187c6f5d5e97c952d9c6&pid=Hpb18ZdQ3uwojasECZkfVBL9t7vxFLRG&sid=aBYYXH8fUOYshnIsRSs3chHCIlKCSHpl&uid=z2qd6qKpXJXVgdLcjQPftPhAOfNJrYwE&es=us-b4-p-e-ml19-audio.cdn.mdstrm.com&ote=1792441681740&ot=3mJxb5x1jwqfKuz8oX9hbw&proto=https&pz=us&cP=128000&awCollectionId=6673187c6f5d5e97c952d9c6&liveId=66b0f440b47ad3416c6a654a&listenerId=z2qd6qKpXJXVgdLcjQPftPhAOfNJrYwE
+#EXTINF:-1,96.3 Cabo Mil Radio (Los Cabos) - 96.3 FM - XHSJS-FM - San Jos� del Cabo, Baja California
+https://s2.radio.co/s77395f3d5/listen
+#EXTINF:-1,AMOR 100.1 (M�rida) - 100.1 FM - XHYU-FM - Grupo SIPSE Radio - M�rida, Yucat�n
+https://webprod.sipse.com.mx:8080/amor
+#EXTINF:-1,Conexi�n 92.7 (Aguascalientes) - 92.7 FM - XHCPDI-FM - Radio y Televisi�n de Aguascalientes - Aguascalientes, Aguascalientes
+https://streamingcwsradio30.com:7008/;
+#EXTINF:-1, EL FON�GRAFO - 690 AM - XEN-AM - Grupo Radio Centro - Ciudad de M�xico
+https://26423.live.streamtheworld.com:443/XEN_AMAAC.aac
+#EXTINF:-1,  EL FON�GRAFO: M�sica Ligada a tu Recuerdo
+https://19263.live.streamtheworld.com:443/XEN_AMAAC.aac
+#EXTINF:-1,El y Ella 103.7 FM
+https://radios.radiohd.com.mx/8272/;
+#EXTINF:-1,est�reo vida 95.3 Tepic
+https://stream-284.surfernetwork.com/xx20nxypu98uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4eDIwbnh5cHU5OHV2IiwiaG9zdCI6InN0cmVhbS0yODQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlRqcnk0bXBvU0tLcnJ0Q1Y0US1FS2ciLCJpYXQiOjE3OTIzNTUyODIsImV4cCI6MTc5MjM1NTM0Mn0.ZvjpB_88J3JHD0Ujii4dVBjN6JjdECZAGIiOrCe-Zgg
+#EXTINF:-1, JOYA 93.7 (CDMX) - 93.7 FM - XEJP-FM - Grupo Radio Centro - Ciudad de M�xico
+https://26223.live.streamtheworld.com/XEJP_FMAAC.aac
+#EXTINF:-1,La 103 Los Mochis 103.9 FM
+https://streaming.soyradioinc.com/la103/stream
+#EXTINF:-1,LA LUPE 100.9 (Xalapa) - 100.9 FM - XHALAPA-FM - Multimedios Radio - Xalapa, Veracruz
+https://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/672cf91376b5a6eeae594b58?aid=579bd29dc99290cf08362c3b&pid=oiEVoXXt4VMqJ4yQ9qEAXJnJ6YULqUyY&sid=U5APST1juNv5eKwdWIzmrFVPfoFDjgUO&uid=FDS2Tc4GWPmI8ngTUb1QuxOe8woisy1u&es=us-b4-p-e-ml19-audio.cdn.mdstrm.com&ote=1792441682044&ot=BoOdApjJdsdMe-R7Jcdbaw&proto=https&pz=us&cP=128000&awCollectionId=579bd29dc99290cf08362c3b&aw_0_1st.playerId=multimedios-radio-app-web&liveId=672cf91376b5a6eeae594b58&propertyName=multimedios-radio-app-web&listenerId=FDS2Tc4GWPmI8ngTUb1QuxOe8woisy1u
+#EXTINF:-1,LA LUPE 105.3 (MTY) - 105.3 FM - XHLUPE-FM - Multimedios Radio - Monterrey, Nuevo Le�n
+https://liveaudio.lamusica.com/MX_XHLUPE_icy
+#EXTINF:-1,LA LUPE 88.3 (Tepic) - 88.3 FM - XHPCTN-FM - Multimedios Radio - Tepic, Nayarit
+https://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/672cfce4fdabb2c0423a9937?aid=579bd29dc99290cf08362c3b&pid=nH6oopQEcxFHnC8rgkaiVjSMdzotsuIW&sid=vpjHQEpIC6GrEWI38aGFHMTOEVyGl037&uid=vZpLsCoQzZca4vWWfg05VaccqSlIL1Mf&es=us-b4-p-e-ml19-audio.cdn.mdstrm.com&ote=1792441682047&ot=rIIgMH3t1hT6xgyxe_qWgA&proto=https&pz=us&cP=128000&awCollectionId=579bd29dc99290cf08362c3b&aw_0_1st.playerId=multimedios-radio-app-web&liveId=672cfce4fdabb2c0423a9937&propertyName=multimedios-radio-app-web&listenerId=vZpLsCoQzZca4vWWfg05VaccqSlIL1Mf
+#EXTINF:-1,LA LUPE 94.7 (Ensenada) - 94.7 FM - XHPENS-FM - Multimedios Radio - Ensenada, Baja California
+https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/672ce72c8997d8ee6a17c240?aid=579bd29dc99290cf08362c3b&pid=EryCd21C7j9h9McjDICLOalkQ4xaqXS6&sid=c7B5Zx5NLqUBZHN8lVJChS97cD0c0Mpg&uid=VzvvFNHKGmsuH1iItIMQ6vpo4R7Db8QS&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1792441682047&ot=v0ocZFuXiqkec_1iJOF8ow&proto=https&pz=us&cP=128000&awCollectionId=579bd29dc99290cf08362c3b&aw_0_1st.playerId=multimedios-radio-app-web&liveId=672ce72c8997d8ee6a17c240&propertyName=multimedios-radio-app-web&listenerId=VzvvFNHKGmsuH1iItIMQ6vpo4R7Db8QS
+#EXTINF:-1,LA LUPE 99.9 (Torre�n) - 99.9 FM - XHETOR-FM - Multimedios Radio - Torre�n, Coahuila
+https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/672cf292e81d90ed336e1e86?aid=579bd29dc99290cf08362c3b&pid=TY1iLjf6Q2MsKAdiPiWTHzcZSkKLOrni&sid=XZi7HveRofjwO7V8BbfCVzlRa1Jr923f&uid=o0mT1LqSWyfhFLxW5UNQhrhbhhx5wGYO&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1792441682055&ot=x4HJki-i27NW2H3kB3Ftug&proto=https&pz=us&cP=128000&awCollectionId=579bd29dc99290cf08362c3b&aw_0_1st.playerId=multimedios-radio-app-web&liveId=672cf292e81d90ed336e1e86&propertyName=multimedios-radio-app-web&listenerId=o0mT1LqSWyfhFLxW5UNQhrhbhhx5wGYO
+#EXTINF:-1,M�xima 97.7 FM Ciudad Obreg�n
+https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/66e9d6f5a8e915acd1a5090d/playlist.m3u8?aid=6673187c6f5d5e97c952d9c6&pid=VI77nlKWYlwhv6qX6oHay8qT6vzITA3w&sid=sdnBU1nWxICBHTRKsMtHFVmbOR7UDZQ8&uid=hN2c8FZAZFumXw9O48eUFje0N13SH4i3&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1792441682098&ot=-gXrJmn_hfhAe5pSaeC8fQ&proto=https&pz=us&cP=128000&awCollectionId=6673187c6f5d5e97c952d9c6&liveId=66e9d6f5a8e915acd1a5090d&listenerId=hN2c8FZAZFumXw9O48eUFje0N13SH4i3
+#EXTINF:-1, MEGA 96.3 (Los �ngeles) - 96.3 FM - KXOL-FM - Spanish Broadcasting System - Los �ngeles, California, EUA
+https://liveaudio.lamusica.com/LA_KXOL_icy
+#EXTINF:-1, RETRO FM 93.9 (Ciudad del Carmen) - 93.9 FM - XHPMEN-FM - Grupo Audiorama Comunicaciones - Ciudad del Carmen, Campeche
+https://ss1.audiorama.com.mx:6572/
+#EXTINF:-1,ROM�NTICA 93.1 (San Luis Potos�) - 93.1 FM - XHEI-FM - Grupo AS Comunicaci�n / Radiorama - San Luis Potos�, San Luis Potos�
+https://stream-280.surfernetwork.com/uzejcai7evcvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1emVqY2FpN2V2Y3Z2IiwiaG9zdCI6InN0cmVhbS0yODAuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InI0Sk93M3MzUW5XLTNFME9PSHJZX2ciLCJpYXQiOjE3OTIzNTUyODIsImV4cCI6MTc5MjM1NTM0Mn0.-EXoF8Fm3XMpW09L1xH_U-gTnvDRpanRpgai-wVXHmk
+#EXTINF:-1,Siempre 100.3 HD4 Mazatl�n
+https://audiostreaming.luz.network/stream/16/;
+#EXTINF:-1,VIDA 1370 (Mexicali) - 1370 AM - XEHG-AM - Grupo Audiorama Comunicaciones - Mexicali, Baja California
+https://sg.centrocibernetico.com/audiorama-xehg
+#EXTINF:-1,VIDA 89.7 (Acapulco) - 89.7 FM - XHKJ-FM - Grupo Audiorama Comunicaciones - Acapulco, Guerrero
+https://sg.centrocibernetico.com/audiorama-xhkj
+#EXTINF:-1,VIDA ROM�NTICA 99.3 (Tampico) - 99.3 FM - XHETU-FM - Radio Resultados - Tampico, Tamaulipas
+https://stream-285.surfernetwork.com/621e7h6zfkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2MjFlN2g2emZraHZ2IiwiaG9zdCI6InN0cmVhbS0yODUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InQzV2pwWGZtUmI2MUxISUhGdEhQenciLCJpYXQiOjE3OTIzNTUyODQsImV4cCI6MTc5MjM1NTM0NH0.vmQBUqmwvbQPHQ0VtvU9vyQe6LJ1hzJMX7WdPfcR5pU
+#EXTINF:-1,WA�H 95.3 (San Luis Potos�) - 95.3 FM - XHNB-FM - Cadena RASA - San Luis Potos�, San Luis Potos�
+https://stream-290.surfernetwork.com/be10ijonibvuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJiZTEwaWpvbmlidnV2IiwiaG9zdCI6InN0cmVhbS0yOTAuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InQyak8tQW1NU0RDVTIzYm1QanJCdGciLCJpYXQiOjE3OTIzNTUyODIsImV4cCI6MTc5MjM1NTM0Mn0.bP9bL_ZW0CaAoEwRY-TcmsdpW-NJdAdTOm6-Qmz5LXk
+#EXTINF:-1,Zona 5 93.3
+https://panel.innovatestream.pe:10975/stream
+#EXTINF:-1,Radio IN
+https://cast5.servcast.net/proxy/inter/stream
+#EXTINF:-1,Causes FM 89.1
+https://streaming.radiosenlinea.com.ar/8870/stream

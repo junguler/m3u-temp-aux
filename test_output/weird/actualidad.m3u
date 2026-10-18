@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,El Destape Radio
+https://ipanel.instream.audio/8004/stream
+#EXTINF:-1,ON Radio
+https://streaming.radiosenlinea.com.ar/9020/stream
+#EXTINF:-1,Radio NOW 97.9
+https://ipanel.instream.audio:7002/stream?_=18fea7232d5
+#EXTINF:-1,Melod�a
+https://stream.consultoradas.com/8244/stream
+#EXTINF:-1,Blu Radio Barranquilla / Caribe
+https://26643.live.streamtheworld.com/BLU_BARRANQUILLA_ADP.aac?dist=%2520blu_web
+#EXTINF:-1,La FM- Barranquilla
+https://cl-a3-p-e-av11-audio.cdn.mdstrm.com/live-audio-aw/632cbdb5202d6801a31785b0
+#EXTINF:-1,MIX 103.9 FM Barranquilla
+https://29309.live.streamtheworld.com/MIX_BARRANQUILLAAAC.aac?dist=oro_web
+#EXTINF:-1,RNE Radio Nacional
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r1_main.m3u8

@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1,CBC Music - CBH-FM - CBN-FM - Atlantic - Halifax - NS - St. John's - NL - 102.7FM - 106.9 FM
+https://cbcradiolive.akamaized.net/hls/live/2041055/ES_R2AHF/master.m3u8
+#EXTINF:-1,Deutschlandfunk | DLF | AAC 192k
+https://d121.rndfnk.com/ard/dlf/01/aac/192/stream.aac?aggregator=web&cid=01FBPWZ12X2XN8SDSMBZ7X0ZTT&sid=3KsnrHMLdgwamWGSC03tdSSlAQb&token=VvaYnbHx63sssqoeU-5ZuIAMA5r8o7VKp5gBmJs19Cg&tvf=UOmzkFTN3xhkMTIxLnJuZGZuay5jb20
+#EXTINF:-1,Deutschlandfunk | DLF | AAC 48k
+https://f131.rndfnk.com/ard/dlf/01/aac/48/stream.aac?aggregator=web&cid=01FBPWZ12X2XN8SDSMBZ7X0ZTT&sid=3KsnrDM6BgUKijSx9EbCiM9xk73&token=2ShaEc3b6RYrdHwNaidMoowTxvwxBnIW-nPp22kneKg&tvf=aC3gkFTN3xhmMTMxLnJuZGZuay5jb20
+#EXTINF:-1,Deutschlandfunk | DLF | AAC 96k
+https://d131.rndfnk.com/ard/dlf/01/aac/96/stream.aac?aggregator=web&cid=01FBPWZ12X2XN8SDSMBZ7X0ZTT&sid=3KsnrEupBmGiSf0efWABwTLou3C&token=4YfKq-q1lD0f7KFGKK9fYqAE1wEZn2x_I5LfFK2nzL8&tvf=rh_UkFTN3xhkMTMxLnJuZGZuay5jb20
+#EXTINF:-1,Deutschlandfunk | DLF | MP3 128k
+https://d141.rndfnk.com/ard/dlf/01/mp3/128/stream.mp3?aggregator=web&cid=01FBPWZ12X2XN8SDSMBZ7X0ZTT&sid=3KsnrC3AdKlfGEmS0RwcpMQ9MIb&token=LhWeIq521hCgq04l7NSqAeYW9mzByEkrdeboalDMPoU&tvf=y-DEkFTN3xhkMTQxLnJuZGZuay5jb20
+#EXTINF:-1,Deutschlandfunk | DLF | OPUS 24k
+https://f111.rndfnk.com/ard/dlf/01/opus/24/stream.opus?aggregator=web&cid=01FBPWZ12X2XN8SDSMBZ7X0ZTT&sid=3KsnrA38kNIyg8Un5iRUS4GqzGI&token=FwmoFSwYWoULJ2GMDRb_R_F1kWjEBUlYKhFCn_vGTNA&tvf=ULG5kFTN3xhmMTExLnJuZGZuay5jb20
+#EXTINF:-1,Deutschlandfunk | DLF | OPUS 64k
+https://f121.rndfnk.com/ard/dlf/01/opus/64/stream.opus?aggregator=web&cid=01FBPWZ12X2XN8SDSMBZ7X0ZTT&sid=3KsnrGz99VLpSeb2HmrzZbysPk5&token=hJzWstRQb6aHzZmtJFwOLyelzBU3z5qRKCpaLND6Lxc&tvf=p0jfkFTN3xhmMTIxLnJuZGZuay5jb20
+#EXTINF:-1,Deutschlandfunk Kultur | DLF | AAC 192k
+https://f111.rndfnk.com/ard/dlf/02/aac/192/stream.aac?aggregator=web&cid=01FBPXKD7AYM1NKT2H60NVGHEQ&sid=3KsnrKSBsCF1xeeekMed41uUhrp&token=Cn9qFKosE7U2w3i1YVI6qq31iD5mO2Pft46HsOLhAVQ&tvf=DFtBoVTN3xhmMTExLnJuZGZuay5jb20
+#EXTINF:-1,Deutschlandfunk Kultur | DLF | AAC 96k
+https://f141.rndfnk.com/ard/dlf/02/aac/96/stream.aac?aggregator=web&cid=01FBPXKD7AYM1NKT2H60NVGHEQ&sid=3KsnrLujKWSXUkSbITx51tLDuIf&token=LHLOSzYCCZP8F6mDED9quNN64a0IJ-pCITH7gYGTBh8&tvf=qTSDoVTN3xhmMTQxLnJuZGZuay5jb20
+#EXTINF:-1,Deutschlandfunk Kultur | DLF | MP3 128k
+https://f121.rndfnk.com/ard/dlf/02/mp3/128/stream.mp3?aggregator=web&cid=01FBPXKD7AYM1NKT2H60NVGHEQ&sid=3KsnrNU80PhrtaUuAIJ3CJu9aAZ&token=sIAYo_BdSUK2YWZDDYoV9HXSQfWmmAcWVfm73ppezxA&tvf=TzhPoVTN3xhmMTIxLnJuZGZuay5jb20
+#EXTINF:-1,Deutschlandfunk Kultur | DLF | OPUS 24k
+https://d141.rndfnk.com/ard/dlf/02/opus/24/stream.opus?aggregator=web&cid=01FBPXKD7AYM1NKT2H60NVGHEQ&sid=3KsnrMF5RfBaVL0uqQrd08D8z3x&token=F7mfV4Q0VFX_7ykQ1tXNlDkbsMzmlp9eJW9oxaHNx0w&tvf=xUN6oVTN3xhkMTQxLnJuZGZuay5jb20
+#EXTINF:-1,Deutschlandfunk Kultur | DLF | OPUS 64k
+https://d141.rndfnk.com/ard/dlf/02/opus/64/stream.opus?aggregator=web&cid=01FBPXKD7AYM1NKT2H60NVGHEQ&sid=3KsnrLyRo87jW7FQWvFu3xOr5Pa&token=kzNKqF7hYef_oU0tgS-Xi8zC7IzQJEs-zKMjDj-bnKc&tvf=_jpZoVTN3xhkMTQxLnJuZGZuay5jb20
+#EXTINF:-1,Deutschlandfunk Nova | DLF | AAC 192k
+https://d121.rndfnk.com/ard/dlf/03/aac/192/stream.aac?aggregator=web&cid=01FBPXNCN1ZWEVWJYXG6ZP2TVH&sid=3KsnrWu88ZxUcqs41mq7pqeM1xg&token=ONSoHTTotKXSMwGXCdcUvxqNlSn5NKP9AppOFAcCJmw&tvf=1XTy81TN3xhkMTIxLnJuZGZuay5jb20
+#EXTINF:-1,Deutschlandfunk Nova | DLF | AAC 48k
+https://f131.rndfnk.com/ard/dlf/03/aac/48/stream.aac?aggregator=web&cid=01FBPXNCN1ZWEVWJYXG6ZP2TVH&sid=3KsnrUNhVn4KCMSBwrqcBnaNRda&token=u6NBU5wSR6CNL2th1PmvhIPueXPQlEYRI7CWj56KFwk&tvf=iIMC9FTN3xhmMTMxLnJuZGZuay5jb20
+#EXTINF:-1,Deutschlandfunk Nova | DLF | AAC 96k
+https://f141.rndfnk.com/ard/dlf/03/aac/96/stream.aac?aggregator=web&cid=01FBPXNCN1ZWEVWJYXG6ZP2TVH&sid=3KsnrWsgACOVxMXKESfDAluWgGR&token=lo4mqjZL7x28BzPRxUEcn0AsQbaGpz3nzUINgwdYxQU&tvf=STzg9VTN3xhmMTQxLnJuZGZuay5jb20
+#EXTINF:-1,Deutschlandfunk Nova | DLF | MP3 128k
+https://d121.rndfnk.com/ard/dlf/03/mp3/128/stream.mp3?aggregator=web&cid=01FBPXNCN1ZWEVWJYXG6ZP2TVH&sid=3KsnrSB7sayxH19yRawAXQhqgJ0&token=RFZcQARes6cgx-HIFT1oRGToU7nWy6rQ_x8sRsyHYGU&tvf=rpV09VTN3xhkMTIxLnJuZGZuay5jb20
+#EXTINF:-1,Deutschlandfunk Nova | DLF | OPUS 24k
+https://f131.rndfnk.com/ard/dlf/03/opus/24/stream.opus?aggregator=web&cid=01FBPXNCN1ZWEVWJYXG6ZP2TVH&sid=3KsnrUEVnGam3J5NbjQtsfuoVtH&token=_SSkwz5gJ7bviilrZBeXN0EKtiKouZ6TmqpQHLlpnjM&tvf=njmN9VTN3xhmMTMxLnJuZGZuay5jb20
+#EXTINF:-1,Deutschlandfunk Nova | DLF | OPUS 64k
+https://d111.rndfnk.com/ard/dlf/03/opus/64/stream.opus?aggregator=web&cid=01FBPXNCN1ZWEVWJYXG6ZP2TVH&sid=3KsnrR7Y7aDZNXCdI99NQvwOWIZ&token=bhj4t4IJ0A7019cwEZiPQwVsMTk-mPSzZwGtPhL7xvE&tvf=g8SS9VTN3xhkMTExLnJuZGZuay5jb20
+#EXTINF:-1,BBC RADIO 1 ANTHEMS: All-day anthems from the 00s to now
+https://as-hls-ww.live.cf.md.bbci.co.uk/pool_11351741/live/ww/bbc_radio_one_anthems/bbc_radio_one_anthems.isml/bbc_radio_one_anthems-audio%3d96000.norewind.m3u8
+#EXTINF:-1,BBC RADIO 1XTRA: Amplifying black music & culture
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_1xtra.m3u8
+#EXTINF:-1,105.3 Radio Universidad (Chihuahua) - 105.3 FM - XHRU-FM - Universidad Aut�noma de Chihuahua - Chihuahua, Chihuahua
+https://stream-288.surfernetwork.com/e2px6k3kwzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlMnB4Nmsza3d6enV2IiwiaG9zdCI6InN0cmVhbS0yODguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlpBX01KaDdEUm5DVzI4bFlTV0VISnciLCJpYXQiOjE3OTIzNTUzNDEsImV4cCI6MTc5MjM1NTQwMX0.DkmSpvLOvDIJgQUNgP67nuhUKVgpHHcUYdXXB78_kX0
+#EXTINF:-1, ALTERNATIVA 98 98.1 (Aguascalientes) - 98.1 FM - XHNM-FM - Radio y Televisi�n de Aguascalientes - Aguascalientes, Aguascalientes
+https://streamingcwsradio30.com/8016/stream/1/;
+#EXTINF:-1,Conexi�n 92.7 (Aguascalientes) - 92.7 FM - XHCPDI-FM - Radio y Televisi�n de Aguascalientes - Aguascalientes, Aguascalientes
+https://streamingcwsradio30.com:7008/;
+#EXTINF:-1,RADIO UNIVERSIDAD 88.1 (Chihuahua) - 88.1 FM - XHCPDB-FM - Universidad Aut�noma de Chihuahua - Chihuahua, Chihuahua
+https://stream-283.surfernetwork.com/b55avvu0x1zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJiNTVhdnZ1MHgxenV2IiwiaG9zdCI6InN0cmVhbS0yODMuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IllJMmJnZEpkUlN5SERtSm1KSFpWc1EiLCJpYXQiOjE3OTIzNTUzNDEsImV4cCI6MTc5MjM1NTQwMX0.0TwUMHDCfgdRyJd3PatVM_blQT_8q-d9Pch4te59cY8
+#EXTINF:-1,Radio Una
+https://stream-178.surfernetwork.com/v36ympen8x8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2MzZ5bXBlbjh4OHV2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Im5DQnBNcmlKUTZlc1FpOHdWeVlUVUEiLCJpYXQiOjE3OTIzNTUzNDEsImV4cCI6MTc5MjM1NTQwMX0.N2seySf4eNYwYlVeshgrl6KmtJgdTbEK28zT8hmdKjQ

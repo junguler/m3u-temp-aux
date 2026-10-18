@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,CCTV-11戏曲伴音
+https://piccpndali.v.myalicdn.com/audio/cctv11_2.m3u8
+#EXTINF:-1,France Musique Opera
+https://icecast.radiofrance.fr/francemusiqueopera-hifi.aac
+#EXTINF:-1,101.ru op�ra
+https://srv01.gpmradio.ru/stream/pro/aac/64/96
+#EXTINF:-1,Classical Radio - Verdi
+https://drive.uber.radio/uber/crverdi/icecast.audio

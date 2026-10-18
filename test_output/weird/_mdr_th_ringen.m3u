@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,MDR TH�RINGEN Mittel- und Westth�ringen
+https://radio-hls.mdr.de/hls/live/2112898/mdr-284300-0-hls/index.m3u8
+#EXTINF:-1,MDR TH�RINGEN Nordth�ringen
+https://radio-hls.mdr.de/hls/live/2112900/mdr-284300-2-hls/index.m3u8
+#EXTINF:-1,MDR TH�RINGEN Ostth�ringen
+https://radio-hls.mdr.de/hls/live/2112899/mdr-284300-1-hls/index.m3u8
+#EXTINF:-1,MDR TH�RINGEN S�dth�ringen
+https://radio-hls.mdr.de/hls/live/2112902/mdr-284300-3-hls/index.m3u8

@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,1170 SEN Sydney
+https://d1na8ty7nt684b.cloudfront.net/playlist.m3u8
+#EXTINF:-1,SENQ
+https://d1na8ty7nt684b.cloudfront.net/playlist.m3u8
+#EXTINF:-1,CCTV-5+体育赛事伴音
+https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8
+#EXTINF:-1,Hotmix Sport Workout
+https://streaming.hotmixradio.com/hotmix-sport-plus-en-mp3?provider=radiobrowser
+#EXTINF:-1,Fox Sports 940 (WINZ-AM)
+https://stream.revma.ihrhls.com/zc565
+#EXTINF:-1,Halesowen Town
+https://s3.radio.co/s75a8968ca/listen
+#EXTINF:-1,Radyospor
+https://wowza1.radyotvonline.com/saran/radyospor.stream/playlist.m3u8
+#EXTINF:-1,Radio Bianconera
+https://stream.tmwradio.com/bianconera.aac
+#EXTINF:-1,Radio Sportiva
+https://sportiva.inmystream.it/stream/sportiva

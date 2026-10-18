@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1, BUENISIIMA 103.9 (Acapulco) - 103.9 FM - XHPO-FM - Grupo Audiorama Comunicaciones - Acapulco, Guerrero
+https://ss1.audiorama.com.mx:6606/stream
+#EXTINF:-1, BUENISIIMA 1530 y 1590 (CDMX) - 1590 AM - XEVOZ-AM - Grupo Audiorama Comunicaciones - Ciudad de M�xicO
+https://sg.centrocibernetico.com/audiorama-xevoz
+#EXTINF:-1, BUENISIIMA 850 (Mexicali) - 850 AM - XEZF-AM - Grupo Audiorama Comunicaciones - Mexicali, Baja California
+https://ss1.audiorama.com.mx:6594/stream
+#EXTINF:-1,Buenisiima (Acapulco) - 103.9 FM - XHPO-FM - Grupo Audiorama Comunicaciones - Acapulco, GR
+https://ss1.audiorama.com.mx:6606/
+#EXTINF:-1,BUENISIIMA (CDMX) - 1530 AM - XEUR-AM - Grupo Audiorama Comunicaciones - Ciudad de M�xico
+https://ss1.audiorama.com.mx:6678/stream
+#EXTINF:-1,BUENISIIMA (Mexicali) - 850 AM - XEZF-AM - Grupo Audiorama Comunicaciones - Mexicali, Baja California
+https://ss1.audiorama.com.mx:6594/
+#EXTINF:-1,Buenisiima (Mexicali) - 850 AM - XEZF-AM - Grupo Audiorama Comunicaciones - Mexicali, BC
+https://ss1.audiorama.com.mx:6594/;

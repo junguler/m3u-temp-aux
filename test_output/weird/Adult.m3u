@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1,2HTB Hot Tomato 102.9
+https://23203.live.streamtheworld.com/GOL_HOTTOMATO_SC
+#EXTINF:-1,CHCD 98.9
+https://mybroadcasting.streamb.live/SB00325/playlist.m3u8
+#EXTINF:-1,CHMY 96.1
+https://mybroadcasting.streamb.live/SB00303/playlist.m3u8
+#EXTINF:-1,CHSN 102.3
+https://buf-live1-ais-relay1.leanstream.co/goldenwest/CHSNFM.stream/playlist.m3u8
+#EXTINF:-1,CJAW 103.9
+https://lax-live2-ais-relay1.leanstream.co/goldenwest/CJAWFM.stream/playlist.m3u8
+#EXTINF:-1,CJEL 93.5
+https://goldenwest.leanstream.co/goldenwest/CJELFM.stream/playlist.m3u8
+#EXTINF:-1,CJGB 99.3
+https://hil-streamb1-ais-relay1.streamb.live/SB00234/playlist.m3u8
+#EXTINF:-1,CKFT 107.9
+https://kenner-media.streamb.live/SB00255
+#EXTINF:-1,CKXO 93.5
+https://18093.live.streamtheworld.com/CKXOFMAAC.aac
+#EXTINF:-1,Flow 89.3 FM
+https://uksoutha.streaming.broadcast.radio/flow-fm?1747741494576=
+#EXTINF:-1,Nova 100.3
+https://28803.live.streamtheworld.com/NOVA_100_AAC48.aac?src=redirect
+#EXTINF:-1,Sensation Radio 107.5
+https://fps2.listen2myradio.com:2199/listen.php?ip=109.169.23.17&port=8203&type=ice&mount=stream
+#EXTINF:-1,Sommerhits [Geo-Blocked]
+https://chmedia.streamabc.net/79-sommerhits-mp3-192-1247554
+#EXTINF:-1,Station X 1692
+https://us01.xrn.com.au/listen/stx/StxSd?refresh=1747652349681

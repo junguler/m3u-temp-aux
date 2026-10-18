@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF:-1,2MBS Fine Music Sydney AAC 256
+https://radio12.shoutcast.net.au:2020/stream/2MBS-ICE
+#EXTINF:-1,ABC 540kHz AM Longreach QLD Western Queensland Local Radio 20220701
+https://streaming.abc-cdn.net.au/audio/hls/localwestqld.m3u8
+#EXTINF:-1,ABC 801kHz AM Cairns QLD Far North Queensland Local Radio 20220701
+https://streaming.abc-cdn.net.au/audio/hls/localfarnorth.m3u8
+#EXTINF:-1,Star 106.3MHz FM Townsville QLD Todays Best Music 20220701
+https://17853.live.streamtheworld.com/TOW_STAR1063AAC/HLS/playlist.m3u8
+#EXTINF:-1,CBC Music Mountain (Calgary, CBR-FM, 102.1 FM, formerly CBC Radio 2)
+https://cbcradiolive.akamaized.net/hls/live/2041058/ES_R2MED/master.m3u8
+#EXTINF:-1,CBC Radio 1 Calgary (CBR - 1010 AM, 99.1 FM)
+https://cbcradiolive.akamaized.net/hls/live/2041039/ES_R1MCG/master.m3u8
+#EXTINF:-1,CHVN-FM
+https://goldenwest.leanstream.co/goldenwest/CHVNFM.stream/playlist.m3u8
+#EXTINF:-1,ICI Musique Calgary - 89.7 FM, Edmonton - 101.1 FM (CBCX-FM)
+https://rcavliveaudio.akamaized.net/hls/live/2006999/M-7AEDM0_EDM/master.m3u8
+#EXTINF:-1,Radio SRF 1 Bern Freiburg Wallis | 96k AAC+
+http://livestreaming-node-1.srg-ssr.ch/srgssr/regi_be_fr_vs/aac/96
+#EXTINF:-1,Radio SRF 1 Graub�nden | 96k AAC+
+http://livestreaming-node-2.srg-ssr.ch/srgssr/regi_gr/aac/96
+#EXTINF:-1,Radio SRF 1 Ostschweiz | 32k AAC+
+http://livestreaming-node-1.srg-ssr.ch/srgssr/regi_ost/aac/96
+#EXTINF:-1,Radio SRF 1 Zentralschweiz | 32k AAC+
+http://livestreaming-node-2.srg-ssr.ch/srgssr/regi_zentr/aac/96
+#EXTINF:-1,Rete Tre | 32k AAC+
+http://livestreaming-node-2.srg-ssr.ch/srgssr/retetre/aac/96
+#EXTINF:-1,FluxFM Chillout Radio | 320k AAC
+https://fluxfm.streamabc.net/flx-chillout-aacplus-64-5024703?sABC=6nq52836%230%2314902s8338511o2s154s4734r3rrs129%23fgernzf.syhksz.qr&aw_0_1st.playerid=streams.fluxfm.de&amsparams=playerid:streams.fluxfm.de;skey:1792354358
+#EXTINF:-1,FluxFM Chillout Radio | 64k MP3
+https://fluxfm.streamabc.net/flx-chillout-mp3-320-6160841?sABC=6nq52836%230%2314902s8338511o2s154s4734r3rrs129%23fgernzf.syhksz.qr&aw_0_1st.playerid=streams.fluxfm.de&amsparams=playerid:streams.fluxfm.de;skey:1792354358
+#EXTINF:-1,FluxFM Radio Alternative | 64k MP3
+https://fluxfm.streamabc.net/flx-alternative-mp3-320-8827705?sABC=6nq52836%230%2314902s8338511o2s154s4734r3rrs129%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1792354358
+#EXTINF:-1,FluxFM Techno Underground | 64k MP3
+https://51-210-189-143-c12fb8.sfn.edge-ovh-gra5.streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/39773beb-7f28-4c18-9b8b-2bad32190ce9/stream.mp3?source=fluxmusic.api.radiosphere.io&quality=1
+#EXTINF:-1,FluxFM traumerei | 320k MP3
+https://51-75-13-109-fd35d7.sfn.edge-ovh-gra5.streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/145ed775-a18c-4c0c-8153-39f71690f457/stream.mp3?source=fluxmusic.api.radiosphere.io&quality=10
+#EXTINF:-1,FluxFM traumerei | 64k AAC
+https://51-210-189-143-c12fb8.sfn.edge-ovh-gra5.streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/145ed775-a18c-4c0c-8153-39f71690f457/stream.aac?source=fluxmusic.api.radiosphere.io&quality=1
+#EXTINF:-1,FluxFM Yoga Sounds | 64k AAC
+https://fluxfm.streamabc.net/flx-yogasounds-aacplus-64-6792162?sABC=6nq52836%230%2314902s8338511o2s154s4734r3rrs129%23fgernzf.syhksz.qr&aw_0_1st.playerid=streams.fluxfm.de&amsparams=playerid:streams.fluxfm.de;skey:1792354358
+#EXTINF:-1,FluxFM Yoga Sounds | 64k MP3
+https://fluxfm.streamabc.net/flx-yogasounds-mp3-320-4387219?sABC=6nq52836%230%2314902s8338511o2s154s4734r3rrs129%23fgernzf.syhksz.qr&aw_0_1st.playerid=streams.fluxfm.de&amsparams=playerid:streams.fluxfm.de;skey:1792354358
+#EXTINF:-1,BFBS Falklands
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs6.aac
+#EXTINF:-1,ECR 94.0
+https://live.ecr.co.za/ecrlow.aac
+#EXTINF:-1,His Radio
+https://rtn.cdnstream1.com/2566_96.aac
+#EXTINF:-1,Houston Public Media Mixtape
+https://stream.houstonpublicmedia.org/mixtape-aac
+#EXTINF:-1,Kiss FM 97.7 XHGL
+https://webprod.sipse.com.mx:8080/kissfm/
+#EXTINF:-1,KSGN 89.7
+https://audio-edge-ey5nr.ams.s.radiomast.io/2a57149b-f939-4d87-aa67-daedff3e1728
+#EXTINF:-1,KWQW 98.3 The Vibe
+https://17633.live.streamtheworld.com/KWQWFMAAC_SC
+#EXTINF:-1,Magic 93.7
+https://stream.revma.ihrhls.com/zc1229/hls.m3u8
+#EXTINF:-1,Mix 91.7 XHRC
+https://14133.live.streamtheworld.com/XHRCFMAAC_SC
+#EXTINF:-1,Radio Felicidad 1180 XEFR
+https://18063.live.streamtheworld.com/XEFRAMAAC_SC
+#EXTINF:-1,Радио Орфей - Современная хоровая 256kbps
+https://channels.fonotron.ru:8000/Chan_61_256.mp3
+#EXTINF:-1,Universal y La Octava 88.1 XHRED
+https://26283.live.streamtheworld.com/XERED_AM.mp3
+#EXTINF:-1,WFMX 107.9 The Mix
+https://stream.radio.co/s5c993fa61/listen
+#EXTINF:-1,WordFM
+https://ice23.securenetsystems.net/WORDFM
+#EXTINF:-1,Hot FM Malaysia
+https://stream.rcs.revma.com/drakdf8mtd3vv/hls.m3u8
+#EXTINF:-1,CFM Coromandel
+https://stream.cfm.co.nz/low
+#EXTINF:-1,Ballito 88 FM - Radio Life & Style
+https://edge.iono.fm/xhls/165_high.m3u8

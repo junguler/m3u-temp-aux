@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,FM 97.UNE - Provincia de Buenos Aires
+https://streaming.provinciaradio.com.ar:3352/fm
+#EXTINF:-1,103.1 FM SuperTalk MS Gulf Coast
+https://prod-54-158-170-239.amperwave.net/telesouth-wosmfmmp3-imc1?session-id=3f80d51667b8eb9638f1cbf483bddaa5&source=v6player
+#EXTINF:-1,1070 AM Wilkins Radio
+https://ice10.securenetsystems.net/WNVY
+#EXTINF:-1,1270 AM Talk
+https://ice10.securenetsystems.net/WIJD
+#EXTINF:-1,1310 AM Rock
+https://ice5.securenetsystems.net/WHEP
+#EXTINF:-1,181.FM Smooth AC (US)
+https://listen.181fm.com/181-smoothac_128k.mp3?noPreRoll=true
+#EXTINF:-1,SOUTUL QURAN PBC FM 93.4 ISLAMABAD
+https://whmsonic.radio.gov.pk:7002/stream?type=http&nocache=12

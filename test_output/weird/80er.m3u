@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1,Arabella 80 r
+https://edge64.streams.arabella.at/arabella-80er?aggregator=arabella-playlistfile
+#EXTINF:-1,Super80s
+https://secureonair.krone.at/super80s.aac?aggregator=konsole-hp&1755065290412
+#EXTINF:-1,0-100 80er/90er - laut.fm
+https://0-100-80er-90er.stream.laut.fm/0-100-80er-90er
+#EXTINF:-1,1000 80er - laut.fm
+https://100080er.stream.laut.fm/100080er
+#EXTINF:-1,8080s Wave
+https://regiocast.streamabc.net/regc-80s80swave1065742-mp3-192-3582815?sABC=6nq52r62%230%2314902s8338511o2s154s4734r3rrs129%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1792355938
+#EXTINF:-1,80s80 Summerhits
+https://regiocast.streamabc.net/regc-80s80ssummerhits6639316-mp3-192-4184283?sABC=6nq52r62%230%2314902s8338511o2s154s4734r3rrs129%23fgernzf.80f80f.qr&aw_0_1st.playerid=streams.80s80s.de&amsparams=playerid:streams.80s80s.de;skey:1792355938
+#EXTINF:-1,Hamburg Zwei
+https://rhh.streamabc.net/rhh-hh2live-aacplus-64-3592440?aggregator=linkhamburgzweide&listenerid=7cbce005546e79f64f53e527706063fb
+#EXTINF:-1,Lueneburger Radio,AutoDJ
+https://luneburgerradio.spcast.eu/stream.mp3?time=1792355938
+#EXTINF:-1,Oldie Antenne - 80er Hits
+https://s7-webradio.oldie-antenne.de/oldie-antenne-80er-hits/stream/mp3?aw_0_1st.playerid=OldieAntenneWebPlayer&aw_0_1st.skey=1706378427399&aw_0_req.userConsentV2=CP5CssAP5CssAAFADBDEAlEgAAAAAAAAAAYgAAAAAAEhIAMAAQL2DQAYAAgXsIgAwABAvYVABgACBewyADAAEC9h0AGAAIF7EIAMAAQL2JQAYAAgXsUgAwABAvYA.YAAAAAAAAAAA&companionAds=false&companion_zone_alias=41%2C42%2C40%2C731%2C752%2C756%2C768
+#EXTINF:-1,Radio Leipzig - 80 er Kulthits
+https://edge59.radio.radioleipzig.de/radioleipzig-80er?aggregator=redirect
+#EXTINF:-1,RADIO PSR Partymix
+https://regiocast.streamabc.net/regc-psrpartymix1801718-mp3-192-6173501?sABC=69689opp%230%23q280o0r09ns9qpq3889p9qqn13p5753s%23fgernzf.enqvbcfe.qr&aw_0_1st.playerid=streams.radiopsr.de&amsparams=playerid:streams.radiopsr.de;skey:1768463308
+#EXTINF:-1,Radio Regenbogen Baden & die Pfalz
+https://audiotainment-sw.streamabc.net/atsw-regenbogen1028-mp3-128-6256120?sABC=6nq52r63%230%2314902s8338511o2s154s4734r3rrs129%23enqvboebjfre&aw_0_1st.playerid=radiobrowser&amsparams=playerid:radiobrowser;skey:1792355939
+#EXTINF:-1,Radio Regenbogen Baden-W�rttemberg
+https://audiotainment-sw.streamabc.net/atsw-regenbogen1004-mp3-128-4401635?sABC=6nq52r63%230%2314902s8338511o2s154s4734r3rrs129%23enqvboebjfre&aw_0_1st.playerid=radiobrowser&amsparams=playerid:radiobrowser;skey:1792355939
+#EXTINF:-1,Radio Regenbogen Nur die Musik
+https://audiotainment-sw.streamabc.net/atsw-musik-mp3-128-5798029?sABC=6nq52r63%230%2314902s8338511o2s154s4734r3rrs129%23enqvboebjfre&aw_0_1st.playerid=radiobrowser&amsparams=playerid:radiobrowser;skey:1792355939
+#EXTINF:-1,Radio Regenbogen S�dbaden
+https://audiotainment-sw.streamabc.net/atsw-regenbogen1011-mp3-128-3022733?sABC=6nq52r63%230%2314902s8338511o2s154s4734r3rrs129%23enqvboebjfre&aw_0_1st.playerid=radiobrowser&amsparams=playerid:radiobrowser;skey:1792355939
+#EXTINF:-1,Radio Sauerland
+https://edge65.streamonkey.net/wf-radiosauerland/stream/mp3
+#EXTINF:-1,RPR1. 80er
+https://audiotainment-sw.streamabc.net/atsw-80er-mp3-128-4439150?sABC=6nq52r63%230%2314902s8338511o2s154s4734r3rrs129%23enqvboebjfre&aw_0_1st.playerid=radiobrowser&amsparams=playerid:radiobrowser;skey:1792355939
+#EXTINF:-1,RPR1. 80er Rock
+https://audiotainment-sw.streamabc.net/atsw-80errock-mp3-128-2314304?sABC=6nq52r63%230%2314902s8338511o2s154s4734r3rrs129%23enqvboebjfre&aw_0_1st.playerid=radiobrowser&amsparams=playerid:radiobrowser;skey:1792355939
+#EXTINF:-1,RPR1 Best 80s
+https://audiotainment-sw.streamabc.net/atsw-80er-mp3-128-4439150?sABC=6nq52r67%230%2314902s8338511o2s154s4734r3rrs129%23gjy0&aw_0_1st.playerid=twl0&amsparams=playerid:twl0;skey:1792355943
+#EXTINF:-1,RPR1. Kaiserslautern
+https://audiotainment-sw.streamabc.net/atsw-kaiserslautern-mp3-128-8971837?sABC=6nq52r63%230%2314902s8338511o2s154s4734r3rrs129%23enqvboebjfre&aw_0_1st.playerid=radiobrowser&amsparams=playerid:radiobrowser;skey:1792355939
+#EXTINF:-1,RPR1. Koblenz
+https://audiotainment-sw.streamabc.net/atsw-koblenz-mp3-128-8901879?sABC=6nq52r63%230%2314902s8338511o2s154s4734r3rrs129%23enqvboebjfre&aw_0_1st.playerid=radiobrowser&amsparams=playerid:radiobrowser;skey:1792355939
+#EXTINF:-1,RPR1. K�ln
+https://audiotainment-sw.streamabc.net/atsw-koeln-mp3-128-4026666?sABC=6nq52r63%230%2314902s8338511o2s154s4734r3rrs129%23enqvboebjfre&aw_0_1st.playerid=radiobrowser&amsparams=playerid:radiobrowser;skey:1792355939
+#EXTINF:-1,RPR1. Ludwigshafen
+https://audiotainment-sw.streamabc.net/atsw-ludwigshafen-mp3-128-9115004?sABC=6nq52r63%230%2314902s8338511o2s154s4734r3rrs129%23enqvboebjfre&aw_0_1st.playerid=radiobrowser&amsparams=playerid:radiobrowser;skey:1792355939
+#EXTINF:-1,RPR1. Mainz
+https://audiotainment-sw.streamabc.net/atsw-mainz-mp3-128-7336593?sABC=6nq52r63%230%2314902s8338511o2s154s4734r3rrs129%23enqvboebjfre&aw_0_1st.playerid=radiobrowser&amsparams=playerid:radiobrowser;skey:1792355939
+#EXTINF:-1,RPR1. NDW
+https://audiotainment-sw.streamabc.net/atsw-ndw-mp3-128-6267576?sABC=6nq52r63%230%2314902s8338511o2s154s4734r3rrs129%23enqvboebjfre&aw_0_1st.playerid=radiobrowser&amsparams=playerid:radiobrowser;skey:1792355939
+#EXTINF:-1,RPR1. Webradio
+https://audiotainment-sw.streamabc.net/atsw-rpr1webradio-mp3-128-6412257?sABC=6nq52r63%230%2314902s8338511o2s154s4734r3rrs129%23enqvboebjfre&aw_0_1st.playerid=radiobrowser&amsparams=playerid:radiobrowser;skey:1792355939
+#EXTINF:-1,SWR1 Die 80er
+https://d121.rndfnk.com/ard/swr/swr/raka16/aac/96/stream.aac?aggregator=web&cid=01FCZAZ2K8SF1QJ7BNCNNGRXJJ&sid=2JDHAZvGoxO64wmxiXn4rAmZmqH&token=g5ndVaCdxQRbT8tS0Xb2n2rXMu3QrDWyRkyg-2rFK58&tvf=Voz6vhLQMhdkMTIxLnJuZGZuay5jb20
+#EXTINF:-1,BDJ Radio 80s & 90s Sound of Your Life
+https://bdjradio-80sand90ssoundofyourlife.stream.laut.fm/bdj_radio_-_80s_and_90s_sound_of_your_life?t302=2021-12-21_20-07-01&uuid=6b077dca-8893-4691-a89a-bfe956324196
+#EXTINF:-1,Laut.FM 80er Pop
+https://80er.stream.laut.fm/80er?t302=2021-12-21_15-16-16&uuid=53047b8a-bba0-495e-b7a0-83e214c9388a
+#EXTINF:-1,Laut.FM Best of 80's
+https://bestof80s.stream.laut.fm/best_of_80s?t302=2021-12-21_10-18-03&uuid=2d6802d9-619b-4f0a-9f49-20f2c0fb79d4
+#EXTINF:-1,Radio Leipzig 80er
+https://edge01.radio.radioleipzig.de/radioleipzig-80er?aggregator=redirect

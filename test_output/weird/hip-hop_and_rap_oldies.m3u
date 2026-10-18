@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,Id�FM
+https://ido.omedia.cat/listen/idofm/idofm.mp3
+#EXTINF:-1,Hotmix Classic Rap
+https://streaming.hotmixradio.com/hotmix-classic-rap-en-mp3?provider=radiobrowser
+#EXTINF:-1,Nova HipHop
+https://nova-odn.ice.infomaniak.ch/nova-odn-256.aac
+#EXTINF:-1,Skyrock Klassics
+https://icecast.skyrock.net/s/klassiks_aac_64k?tvr_name=radiofr&tvr_section1=64aac

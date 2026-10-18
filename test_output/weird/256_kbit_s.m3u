@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1,Радіо Київстар Chill & Lounge
+https://radio.kyivstar.ua/stream/chill/master.m3u8
+#EXTINF:-1,Радіо Київстар Electro
+https://radio.kyivstar.ua/stream/elektro/master.m3u8
+#EXTINF:-1,Радіо Київстар Golden Hits
+https://radio.kyivstar.ua/stream/gold/master.m3u8
+#EXTINF:-1,Радіо Київстар Happy Hits
+https://radio.kyivstar.ua/stream/sport/master.m3u8
+#EXTINF:-1,Радіо Київстар Made in Ukraine
+https://radio.kyivstar.ua/stream/ukraine/master.m3u8
+#EXTINF:-1,Радіо Київстар Retro
+https://radio.kyivstar.ua/stream/retromusic/master.m3u8
+#EXTINF:-1,Радіо Київстар Rock
+https://radio.kyivstar.ua/stream/rock/master.m3u8
+#EXTINF:-1,Радіо Київстар Top Hits
+https://radio.kyivstar.ua/stream/tophits/master.m3u8
+#EXTINF:-1,Радіо Київстар Urban
+https://radio.kyivstar.ua/stream/rap/master.m3u8
+#EXTINF:-1,Радіо Київстар World Charts
+https://radio.kyivstar.ua/stream/worldchart/master.m3u8
+#EXTINF:-1,Радіо Нове Життя
+https://online.novezhitya.net:8000/nlradio_ua-hi.aac

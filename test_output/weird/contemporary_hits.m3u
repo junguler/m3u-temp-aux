@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1,Power FM Bega Bay
+https://19273.live.streamtheworld.com/BEG_POWER_FMAAC.aac
+#EXTINF:-1,CHBN-FM  "KISS 91.7" Edmonton, AB
+https://rogers-hls.leanstream.co/rogers/edm917.stream/playlist.m3u8
+#EXTINF:-1,CHJM "Mix 99.7" Saint-Georges, QC
+https://stream.statsradio.com:8054/stream
+#EXTINF:-1,CHTT "KISS 103.1" Victoria, BC
+https://rogers-hls.leanstream.co/rogers/vic1031.stream/playlist.m3u8
+#EXTINF:-1,CKIS "KISS 92.5" Toronto, ON
+https://rogers-hls.leanstream.co/rogers/tor925.stream/playlist.m3u8
+#EXTINF:-1,Hits 1
+https://radio12.pro-fhi.net/live/Hits%201%20radio
+#EXTINF:-1,Hot Hits UK.com
+https://443-1.autopo.st/54/stream.mp3
+#EXTINF:-1,KC101 - Connecticut's #1 Hit Music Station
+https://stream.revma.ihrhls.com/zc457
+#EXTINF:-1,KLSM K-Hits 1045
+https://ice42.securenetsystems.net/KLSM
+#EXTINF:-1,KTBT 92.1 The Beat
+https://stream.revma.ihrhls.com/zc1937/hls.m3u8
+#EXTINF:-1,Win Radio Davao
+https://stream-285.surfernetwork.com/1noxhem5qpkuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIxbm94aGVtNXFwa3V2IiwiaG9zdCI6InN0cmVhbS0yODUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlZrdDEwNWJqU0RPdmh5UHo5Tndka1EiLCJpYXQiOjE3OTIzNTYzOTMsImV4cCI6MTc5MjM1NjQ1M30.FCXy7Py64IpBvxm0lDB4gP9A9UvzRXLSvAU25qGoXSo
+#EXTINF:-1,XL93 - The Forks Hit Music Station
+https://stream.revma.ihrhls.com/zc1677
+#EXTINF:-1,Pejuang Kopi
+https://stream-179.surfernetwork.com/sthgzynfcd0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzdGhnenluZmNkMHV2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InRHeER2M0VjU2llVTcxbTU5bHAyWlEiLCJpYXQiOjE3OTIzNTYzOTMsImV4cCI6MTc5MjM1NjQ1M30.gUvClY0Z-oh25vi2lHPjTXw12i6YiyrZQ2doxTzWFFg
+#EXTINF:-1,Dublin's 98FM
+https://edgex.audioxi.com/98
+#EXTINF:-1,Ski FM
+https://s2.radio.co/s6436891bc/listen
+#EXTINF:-1,The Hits
+https://23203.live.streamtheworld.com/NZME_71AAC/HLS/playlist.m3u8?aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=9774168307&clientType=web&companionAds=false&deviceName=web-desktop&dist=iheart&host=webapp.NZ&listenerId=&playedFrom=157&pname=live_profile&profileId=9774168307&stationid=6204&terminalId=162&territory=NZ

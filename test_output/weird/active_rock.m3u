@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1,CFCP 98.9 "Jet FM" Courtenay, BC
+https://vistaradio.streamb.live/SB00079
+#EXTINF:-1,CFFM "The Goat" 97.5 Williams Lake, 99.7 100 Mile House, 94.9 Quesnel, BC
+https://vistaradio.streamb.live/SB00074
+#EXTINF:-1,CFGP "97.7 Rock" Grande Prairie, AB
+https://rogers-hls.leanstream.co/rogers/gra977.stream/playlist.m3u8
+#EXTINF:-1,CIKR "K-Rock 105.7" Kingston, ON
+https://rogers-hls.leanstream.co/rogers/kin1057.stream/playlist.m3u8
+#EXTINF:-1,CIRX-FM 94.3 "The Goat" Prince George, BC
+https://vistaradio.streamb.live/SB00066
+#EXTINF:-1,CIVH "95.9 FM The Goat" Vanderhoof, BC
+https://vistaradio.streamb.live/SB00076
+#EXTINF:-1,CKHY-FM 105.1  "Surge 105" Dartmouth, NS
+https://ais-sa1.streamon.fm/7737_128k.aac/playlist.m3u8
+#EXTINF:-1,CKLM "106.1 FM The Goat" Lloydminster, AB
+https://vistaradio.streamb.live/SB00090
+#EXTINF:-1,CKMH "105.3 Rock" Medicine Hat, AB
+https://rogers-hls.leanstream.co/rogers/med1053.stream/playlist.m3u8
+#EXTINF:-1,0nlineradio CLASSIC ROCK
+https://0nlineradio.stream42.radiohost.de/0r-classic-rock?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU2Mjk3JmQ9ZDM4ZmFhNGYyODBlNDgwNDc3MmQ
+#EXTINF:-1,0nlineradio ROCK
+https://0nlineradio.stream39.radiohost.de/0r-rock?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU2Mjk3JmQ9NDVjMmMyMDk0N2JhZDM4YTgxNmU
+#EXTINF:-1,94.3 KILO
+https://18193.live.streamtheworld.com/KILOFMAAC.aac?dist=
+#EXTINF:-1,Banana 101.5
+https://prod-52-55-242-202.amperwave.net/townsquare-wwbnfmaac-hlsc3.m3u8?
+#EXTINF:-1,FM 105.9 Qwikrock (WQWK)
+https://ice25.securenetsystems.net/WQWK
+#EXTINF:-1,WBSX 97.9 X
+https://14543.live.streamtheworld.com/WBSXFMAAC_SC
+#EXTINF:-1,WFTK Cincinnati 96.5 Rock
+https://26193.live.streamtheworld.com/WFTKFM_SC

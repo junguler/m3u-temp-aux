@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1,Radio Laurier
+https://radiolaurier.out.airtime.pro/radiolaurier_a
+#EXTINF:-1,Radio 80000
+https://radio80k.out.airtime.pro:8000/radio80k_a
+#EXTINF:-1,8 Ball Radio
+https://eightball.out.airtime.pro/eightball_a
+#EXTINF:-1,FunHouse Radio
+https://das-edge14-live365-dal02.cdnstream.com/a02627?filetype=.mp3&_=1
+#EXTINF:-1,Gutsy Radio
+https://broadcast.gutsyradio.org/hls/gutsy_radio/live.m3u8
+#EXTINF:-1,GZS 197.7 OMVFM
+https://gzs.nicheof.one/listen/gzs_radio/radio.mp3
+#EXTINF:-1,KPISS.FM
+https://das-edge14-live365-dal02.cdnstream.com/a18444
+#EXTINF:-1,Mad Wasp Radio
+https://streaming.radio.co/s8a8d7b49a/listen
+#EXTINF:-1,Takoma Radio WOWD-LP 94.3 FM
+https://wowd.broadcasttool.stream/stream
+#EXTINF:-1,Uncertain FM
+http://das-edge93-live365-dal05.cdnstream.com/a23389
+#EXTINF:-1,WCWM
+https://wcwm.broadcasttool.stream/wcwm-onair
+#EXTINF:-1,WMHB 89.7 FM
+https://das-edge62-live365-dal03.cdnstream.com/a46702
+#EXTINF:-1,WYXR
+https://crosstown.streamguys1.com:80/live

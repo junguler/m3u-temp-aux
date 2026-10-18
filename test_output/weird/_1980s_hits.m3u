@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1, # RdMix Italo Disco 80s
+https://cast1.torontocast.com:2130/stream
+#EXTINF:-1,Kultradio24
+https://kultradio24.stream.laut.fm/kultradio24?t302=2026-03-25_12-02-42&uuid=88db04a1-a0db-4133-9d2a-e75c6b6ec306
+#EXTINF:-1,Radio Mixtape - 80er
+https://rnrw.stream43.radiohost.de/rnrw-radiomixtape-80er_mp3-192?addradio&sid=fff&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU0MzcxJmQ9MWZkZTExMjUyYTFhNWU1NDFkMmU
+#EXTINF:-1,94.7 WLS
+https://26193.live.streamtheworld.com/WLSFM.mp3
+#EXTINF:-1,95.9 WOXI-LP Oxford, Alabama
+https://ice42.securenetsystems.net:80/CC911FM
+#EXTINF:-1,WPLX-LP 93.3 The River
+https://ice42.securenetsystems.net:80/WPLXLP
+#EXTINF:-1,PlanetRadioie
+https://media.planetradio.ie/radio/8000/OnAir
+#EXTINF:-1,Radio Gaga Channel
+https://stream.rcs.revma.com/r84kr6dyt2uvv.xspf

@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,FluxFM 60s | 64k AAC
+https://fluxfm.streamabc.net/flx-60er-aacplus-64-6473468?sABC=6nq5290r%230%2314902s8338511o2s154s4734r3rrs129%23fgernzf.syhksz.qr&aw_0_1st.playerid=streams.fluxfm.de&amsparams=playerid:streams.fluxfm.de;skey:1792354574
+#EXTINF:-1,FluxFM 60s | 64k MP3
+https://fluxfm.streamabc.net/flx-60er-mp3-320-7404266?sABC=6nq5290r%230%2314902s8338511o2s154s4734r3rrs129%23fgernzf.syhksz.qr&aw_0_1st.playerid=streams.fluxfm.de&amsparams=playerid:streams.fluxfm.de;skey:1792354574
+#EXTINF:-1,RADIO BOB - Southern Rock [aac | 64 kbps]
+https://regiocast.streamabc.net/regc-radiobobsouthernrock8560476-aacplus-64-1833930?sABC=6nq5290o%230%2314902s8338511o2s154s4734r3rrs129%23fgernzf.enqvbobo.qr&aw_0_1st.playerid=streams.radiobob.de&amsparams=playerid:streams.radiobob.de;skey:1792354571
+#EXTINF:-1,RADIO BOB - Southern Rock [mp3 | 192 kbps]
+https://regiocast.streamabc.net/regc-radiobobsouthernrock8560476-mp3-192-3976810?sABC=6nq5290o%230%2314902s8338511o2s154s4734r3rrs129%23fgernzf.enqvbobo.qr&aw_0_1st.playerid=streams.radiobob.de&amsparams=playerid:streams.radiobob.de;skey:1792354571
+#EXTINF:-1,Exclusively Bob Dylan
+https://streaming.exclusive.radio/er/bobdylan/icecast.audio
+#EXTINF:-1,Exclusively Cher
+https://streaming.exclusive.radio/er/cher/icecast.audio
+#EXTINF:-1,Exclusively The Band
+https://2.mystreaming.net/er/theband/icecast.audio
+#EXTINF:-1,Nature Mountain Radio (Live365)
+https://das-edge93-live365-dal05.cdnstream.com/a51903

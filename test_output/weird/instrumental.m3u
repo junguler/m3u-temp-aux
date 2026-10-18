@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1,instrumentales
+https://protvradiostream.com:8350/live
+#EXTINF:-1,R�dio M�quina Instrumental
+https://servidor29-2.brlogic.com:8578/live
+#EXTINF:-1,R�dio MEC AM
+https://radiomec-stream.ebc.com.br/ebc/radiomec/playlist.m3u8
+#EXTINF:-1,Web R�dio NelSons
+https://stm4.srvstm.com:9716/stream
+#EXTINF:-1,Zeno
+https://stream-204.surfernetwork.com/0anygxe1b1duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwYW55Z3hlMWIxZHV2IiwiaG9zdCI6InN0cmVhbS0yMDQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjVjLXNnRE8xU3pTYVhCU2lVaDVmZ0EiLCJpYXQiOjE3OTIzNTY3OTMsImV4cCI6MTc5MjM1Njg1M30.o83mu0tGqr5IrmsW1rdAlcYlGWTy2jiD8pc1BpPrPK4
+#EXTINF:-1,95.5 Jazz
+https://streaming.radio.co/s36bd2a451/listen
+#EXTINF:-1,Piano Dreams
+https://piano-dreams.stream.laut.fm/piano-dreams?t302=2026-10-18_22-53-14&uuid=369ced82-45ab-458e-d900-907960def190
+#EXTINF:-1,Exclusively Booker T & The MG's
+https://2.mystreaming.net/er/bookert/icecast.audio
+#EXTINF:-1,Instrumental Jazz
+https://jfm1.hostingradio.ru:14536/ijstream.mp3
+#EXTINF:-1,Relax FM Instrumental
+https://pub0201.101.ru/stream/pro/aac/64/28?
+#EXTINF:-1,Aripi Spre Cer Instrumental
+https://instrumental.aac.aripisprecer.ro/radio.mp3;
+#EXTINF:-1,Babel
+https://radios.iwstreaming.uy/8030/stream

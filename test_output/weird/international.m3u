@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:-1,Radio Activa
+https://stream9.mexiserver.com:7014/
+#EXTINF:-1,La Radio De Los Lentos
+https://01.solumedia.com.ar:7828/stream
+#EXTINF:-1,LOVE RADIO
+https://loveradio.streamingmedia.it/play
+#EXTINF:-1,CGTN Radio Fran�ais
+https://sk.cri.cn/frenchafrica.m3u8
+#EXTINF:-1,KBS韩国国际广播电台
+https://worldnaod-relay.gscdn.kbs.co.kr/cocotv/CH00002/ts:playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly93b3JsZG5hb2QtcmVsYXkuZ3NjZG4ua2JzLmNvLmtyL2NvY290di9DSDAwMDAyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTI1Mjk1NzB9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=RlU6Yh9lZ3p0Cpc4~reMnSBP9wLI4gdOzvazLm7PFUX6AmxLTtSaoAWN0Wv0u4TCms-XZd7u785xDjegbHt8XWrCroThVEM3KUQQ2ZCfeasesA9SvHX5p~eGFsj~rL8f9hr-syntGC83JQk4BMhHYekjGQs-1hImjPg5pdupRSisAuiZou4I9XYd3fZ3nbGTq87WpsBLwzQCSi-3g3tG6KBi~xhtJgbiUFrWB-elpLHoncAigFXsBq23iWcDDp9ZzmI4pxeHoFkwiMG22PI2G6o3oA5~682lVfLcAg1pMP~1Gt~IIevJwx4BJCPxvUlD0AOQ5UZl6UZfKkhnTMOv5g__
+#EXTINF:-1,云南国际广播 Yunnan International Radio
+https://gbw.ynradio.cn/radio/gjgb.stream/playlist.m3u8
+#EXTINF:-1,Nueve Cuatro Siete - 94.7 FM
+https://23263.live.streamtheworld.com/CRC_947AAC.aac?_=819140
+#EXTINF:-1,Cosmo Afro Beats
+https://d141.rndfnk.com/ard/wdr/cosmo/afrobeat/mp3/128/stream.mp3?cid=01FC1V5VCFKEYJPBGTCGMZKXWZ&sid=3KsqoKxk7ZdgXd9HwiHl37MUURe&token=jZWAnXMoWNZh1foKhkd7DRXIAkJpEdgMfoDiF2ciHAY&tvf=muSjs6fO3xhkMTQxLnJuZGZuay5jb20
+#EXTINF:-1,Dancefox Radio
+https://s35.derstream.net/dancefox-radio.mp3
+#EXTINF:-1,Discosound-Radio
+https://discosound-radio.stream.laut.fm/discosound-radio?t302=2026-10-18_22-53-16&uuid=98cc9803-cf40-1e72-3718-6ea883942f02
+#EXTINF:-1,France Maghreb 2
+https://francemaghreb2.ice.infomaniak.ch/francemaghreb2-high.mp3
+#EXTINF:-1,IBI RADIO by Xopo
+https://streaming.enacast.com/radioibiSD.mp3
+#EXTINF:-1,MEGA STAR FM
+https://megastar-cope.flumotion.com/playlist.m3u8
+#EXTINF:-1,[REE]   Radio Exterior de Espa�a
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_re_main_720.m3u8
+#EXTINF:-1,RIBA-ROJA RADIO by Xopo
+https://streaming.enacast.com/radioribarroja128.mp3
+#EXTINF:-1,VEU D'ONDARA RADIO by Xopo
+https://relay.stream.enacast-cloud.com:40235/laveudondaraSD.mp3
+#EXTINF:-1,Alternative Radio HD
+https://listen.radioking.com/radio/182263/stream/224215
+#EXTINF:-1,Radio de No�l
+https://stream1.jupinfo.fr:8443/radiodenoel
+#EXTINF:-1,Dark Asylum
+https://darkclubradio.stream.laut.fm/darkclubradio?t302=2017-10-06_10-10-19&uuid=04ef8081-69df-483f-b486-2b7cfc49a09d
+#EXTINF:-1,Eric Clapton
+https://streaming.exclusive.radio/er/ericclapton/icecast.audio
+#EXTINF:-1,Estereo Bendicion 104.9 Fm
+https://server.radiogs.net/8386/stream
+#EXTINF:-1,Europa plus НН
+https://ep128.hostingradio.ru:8030/ep128
+#EXTINF:-1,RadioSimorgh
+https://stream-289.surfernetwork.com/jl8n7thgcdftv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJqbDhuN3RoZ2NkZnR2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InNfOTBNcmItUjR5LXdOc2xGTG51dXciLCJpYXQiOjE3OTIzNTY3OTgsImV4cCI6MTc5MjM1Njg1OH0.O2F8WvXFbHjiGbcck5qhBTCuxR70d9zLOkR-VwisiQk
+#EXTINF:-1,WJFD 97.3 FM
+https://26733.live.streamtheworld.com/WJFDFMAAC.aac
+#EXTINF:-1,Q102
+https://assets.wireless.radio/audio/georestriction-barkers/onic.mp3
+#EXTINF:-1,wise radio
+https://ice.creacast.com/wise-radio
+#EXTINF:-1,NHK WORLD RADIO 11
+https://master.nhkworld.jp/nhkworld-radio/playlist/gs2/live.m3u8
+#EXTINF:-1,NHK WORLD RADIO 12
+https://master.nhkworld.jp/nhkworld-radio/playlist/kai/live.m3u8
+#EXTINF:-1,NHK WORLD RADIO 13
+https://master.nhkworld.jp/nhkworld-radio/playlist/sin/live.m3u8
+#EXTINF:-1,NHK WORLD RADIO-2
+https://nhkworld-radio.nhkworld.jp/hls/live/nhkworld-radio-media11/index.m3u8
+#EXTINF:-1,NHK WORLD RADIO 7
+https://master.nhkworld.jp/nhkworld-radio/playlist/rs2/live.m3u8
+#EXTINF:-1,NHK WORLD RADIO 8
+https://master.nhkworld.jp/nhkworld-radio/playlist/rs5/live.m3u8
+#EXTINF:-1,NHK WORLD RADIO 9
+https://master.nhkworld.jp/nhkworld-radio/playlist/rs4/live.m3u8
+#EXTINF:-1,NHKワールド・ラジオ日本
+https://masterpl.hls.nhkworld.jp/hls/r1/live/master.m3u8
+#EXTINF:-1,S�per Tokio Radio
+https://streamer.radio.co/s83eb8ff39/listen
+#EXTINF:-1,CRI Kiswahili
+https://sk.cri.cn/kenya.m3u8
+#EXTINF:-1,literal
+https://29103.live.streamtheworld.com/LITERAL128AAC.aac
+#EXTINF:-1,JOY GOSPEL RADIO
+https://servidor17.brlogic.com:7012/live
+#EXTINF:-1,Pep Feel good fm
+https://edge.iono.fm/xice/feelgood_live_high.aac

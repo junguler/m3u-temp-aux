@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,SYN FM
+https://23163.live.streamtheworld.com/3SYNAAC_SC
+#EXTINF:-1,BBC RADIO 1 ANTHEMS: All-day anthems from the 00s to now
+https://as-hls-ww.live.cf.md.bbci.co.uk/pool_11351741/live/ww/bbc_radio_one_anthems/bbc_radio_one_anthems.isml/bbc_radio_one_anthems-audio%3d96000.norewind.m3u8
+#EXTINF:-1,Radio Platfform
+https://streaming.broadcastradio.com/wmcorg
+#EXTINF:-1,91.7 Exa FM (Tijuana) - 91.7 FM - XHGLX-FM - MVS Radio - Tijuana, Baja California
+https://27063.live.streamtheworld.com/XHGLXAAC.aac
+#EXTINF:-1,EXA FM 91.5 (Mexicali) - 91.5 FM - XHJC-FM - MVS Radio - Mexicali, Baja California
+https://26433.live.streamtheworld.com/XHJCFMAAC.aac
+#EXTINF:-1,EXA FM 95.5 (Quer�taro) - 95.5 FM - XHOE-FM - Multimundo Radio - Quer�taro, Quer�taro
+https://26413.live.streamtheworld.com/XHOEAAC.aac

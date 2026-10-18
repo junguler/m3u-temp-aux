@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1,ABC Classic 2 HLS
+https://streaming.abc-cdn.net.au/audio/hls/classic2.m3u8
+#EXTINF:-1,ABC Classic HLS
+https://streaming.abc-cdn.net.au/audio/hls/classicnsw.m3u8
+#EXTINF:-1,ABC Classic NT HLS
+https://streaming.abc-cdn.net.au/audio/hls/classicnt.m3u8
+#EXTINF:-1,ABC Classic QLD HLS
+https://streaming.abc-cdn.net.au/audio/hls/classicqld.m3u8
+#EXTINF:-1,ABC Classic SA HLS
+https://streaming.abc-cdn.net.au/audio/hls/classicsa.m3u8
+#EXTINF:-1,ABC Classic WA HLS
+https://streaming.abc-cdn.net.au/audio/hls/classicwa.m3u8
+#EXTINF:-1,ABC Country HLS
+https://streaming.abc-cdn.net.au/audio/hls/abccountry.m3u8
+#EXTINF:-1,ABC Jazz HLS
+https://streaming.abc-cdn.net.au/audio/hls/abcjazz.m3u8
+#EXTINF:-1,ABC Radio National HLS
+https://streaming.abc-cdn.net.au/audio/hls/rnnsw.m3u8
+#EXTINF:-1,ABC Radio National QLD HLS
+https://streaming.abc-cdn.net.au/audio/hls/rnqld.m3u8
+#EXTINF:-1,ABC Radio National SA HLS
+https://streaming.abc-cdn.net.au/audio/hls/rnsa.m3u8
+#EXTINF:-1,ABC Radio National WA HLS
+https://streaming.abc-cdn.net.au/audio/hls/rnwa.m3u8
+#EXTINF:-1,ABC Radio National NT HLS
+https://streaming.abc-cdn.net.au/audio/hls/rnnt.m3u8

@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,NDR Info (Hamburg) ( MP3 HTTPS-deeplink)
+https://f141.rndfnk.com/ard/ndr/ndrinfo/live/mp3/128/stream.mp3?cid=01K365QMHFK0ZSMC0KAMAPG5FC&sid=3Ksq4dMuKrUsa5l4ui0Sd5OcE8Z&token=YFM8Np0HZAnwNRLAJv2EET7EVd_aPt5jBAsbTIsr4dg&tvf=mL-G5VLO3xhmMTQxLnJuZGZuay5jb20
+#EXTINF:-1,KQED 128 AAC
+https://hls.kqed.org/hls/kqed_app/playlist.m3u8

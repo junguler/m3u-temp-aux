@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,Antena 1 A�ores (Portugal)
+https://streaming-live.rtp.pt/liveradio/antena1acores80a/playlist.m3u8
+#EXTINF:-1,Antena 1 Madeira (Portugal)
+https://streaming-live.rtp.pt/liveradio/antena1madeira80a/playlist.m3u8
+#EXTINF:-1,Antena 2 �pera
+https://streaming-live.rtp.pt/liveradio/antena2opera80a/playlist.m3u8
+#EXTINF:-1,Antena 3 Madeira (Portugal)
+https://streaming-live.rtp.pt/liveradio/antena3madeira80a/playlist.m3u8
+#EXTINF:-1,R�dio Lusit�nia
+https://streaming-live.rtp.pt/liveradio/lusitania80a/playlist.m3u8
+#EXTINF:-1,R�dio Zig Zag
+https://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8
+#EXTINF:-1,RDP Africa (Portugal)
+https://streaming-live.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8

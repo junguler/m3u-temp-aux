@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1, # RdMix DJSET 70s 80s 90s
+https://cast1.torontocast.com:4560/stream
+#EXTINF:-1,__GOLDIES__ by rautemusik (rm.fm)
+https://rautemusik.stream43.radiohost.de/goldies?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU1NTA0JmQ9OGU0YWFhNDNmOGI3YTJkMTE0N2Q
+#EXTINF:-1,RPR1. Hip-Hop
+https://audiotainment-sw.streamabc.net/atsw-hiphop-mp3-128-8743299?sABC=6nq52o84%230%2314902s8338511o2s154s4734r3rrs129%23enqvboebjfre&aw_0_1st.playerid=radiobrowser&amsparams=playerid:radiobrowser;skey:1792355204
+#EXTINF:-1,ГУСЬ.Олдскул
+https://stream1.radiogoose.ru/listen/oldschool/play
+#EXTINF:-1,Retro Plum Radio
+https://s85.radiolize.com/radio/8090/radio.mp3
+#EXTINF:-1,REYFM - #oldschool
+https://reyfm.stream37.radiohost.de/reyfm-hits2k_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzkyMzU1NTA0JmQ9N2M5NDFmYmIyOTIwM2RiZDFiNjE
+#EXTINF:-1,REYFM - #oldschool
+https://reyfm.stream37.radiohost.de/reyfm-hits2k_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzkyMzU1NTA0JmQ9N2M5NDFmYmIyOTIwM2RiZDFiNjE
+#EXTINF:-1,senshiphop
+https://sensihiphop.radioca.st/stream

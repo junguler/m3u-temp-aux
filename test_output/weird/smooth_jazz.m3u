@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1,CIWV-FM "Wave 98.3" Vancouver, BC
+https://stream2.statsradio.com:8152/stream
+#EXTINF:-1,Stingray Smoot Jazz
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1,Easylounge
+https://livestream.stream.laut.fm/livestream?t302=2026-10-18_23-00-43&uuid=9b6662d2-ae8e-10ee-6acd-5cfe45b47370
+#EXTINF:-1,Laut.fm - Easylounge
+https://easylounge.stream.laut.fm/easylounge?t302=2026-10-18_23-00-43&uuid=2cbd3234-b26f-e393-a3d1-16fc7b48b02c
+#EXTINF:-1,NUCROOZE
+https://stream.nucrooze.com/listen/nucrooze/radio.mp3
+#EXTINF:-1,Radio Deluxe Easy
+https://regiocast.streamabc.net/regc-deluxeeasy7122651-mp3-128-6100697?sABC=6nq5337p%230%2314902s8338511o2s154s4734r3rrs129%23nhqvbfgernzf.qryhkrzhfvp.gi&aw_0_1st.playerid=audiostreams.deluxemusic.tv&amsparams=playerid:audiostreams.deluxemusic.tv;skey:1792357244
+#EXTINF:-1,JFK Radio Ibiza
+https://stream-01.aiir.com/7dsjltmny8cvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3ZHNqbHRtbnk4Y3Z2IiwiaG9zdCI6InN0cmVhbS0wMS5haWlyLmNvbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidUduQ3dSUS1RZVdTQXk1YUtJX2NYQSIsImlhdCI6MTc5MjM1NzI0NCwiZXhwIjoxNzkyMzU3MzA0fQ.hXXouW2eJ30UMN35tpjm-78--L7z6IbzPv8bcceucNE
+#EXTINF:-1,Smooth Jazz Classics by Cloud Jazz
+https://stream-177.surfernetwork.com/w3phtkukfg8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3M3BodGt1a2ZnOHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkJ4TWZDbG4tVFIyVy1kWEpVdld1WlEiLCJpYXQiOjE3OTIzNTcyNDQsImV4cCI6MTc5MjM1NzMwNH0.WOqWDYbUvWRj25ubbPdVOuRHLU2felsMMkHn4TKbjzc
+#EXTINF:-1,Exclusively Radio - Charlie Parker
+https://nl4.mystreaming.net/er/charlieparker/icecast.audio
+#EXTINF:-1,Smooth Jazz 101.1
+https://stream-04.surfernetwork.com/tw0tqqghgm4uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0dzB0cXFnaGdtNHV2IiwiaG9zdCI6InN0cmVhbS0wNC5zdXJmZXJuZXR3b3JrLmNvbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibW90RnVRTlNSMkdkNG11NW0xRWF1QSIsImlhdCI6MTc5MjM1NzI0NywiZXhwIjoxNzkyMzU3MzA3fQ.PJ2Y-E7xKtV-IGt3-ILvKyFIuKEzABBCwclW89DONDY
+#EXTINF:-1,Smooth Jazz Florida
+https://das-edge12-live365-dal02.cdnstream.com/a57422
+#EXTINF:-1,Smooth Jazz JJZ
+https://stream.revma.ihrhls.com/zc7390
+#EXTINF:-1,SmoothJazz.com (32k MP3)
+https://smoothjazz.cdnstream1.com/2585_32.mp3
+#EXTINF:-1,The Oasis 103.7 FM New Mexico
+https://ice42.securenetsystems.net/KOAZAM
+#EXTINF:-1,WNOZ 95.3
+https://ice3.securenetsystems.net/WNOZ
+#EXTINF:-1,Jagakarsa smooth jazz
+https://stream-285.surfernetwork.com/u8fk7pgds8quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1OGZrN3BnZHM4cXV2IiwiaG9zdCI6InN0cmVhbS0yODUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlR1cW0ycVRjUkR5NWRUVWlKcmluaFEiLCJpYXQiOjE3OTIzNTcyNDUsImV4cCI6MTc5MjM1NzMwNX0.OGamw6OCqQ2CTSOnsa5T1tt-tRIahw6NyX-I56tyOdY
+#EXTINF:-1,SmoothJazz.com.pl 192k aac+
+https://bcast.vigormultimedia.com:48888/sjcompl192aac
+#EXTINF:-1,SmoothJazz.com.pl 64k aac+
+https://bcast.vigormultimedia.com:48888/sjcompl64aac
+#EXTINF:-1,Smooth Jazz Portugal
+https://stream-hls.bauermedia.pt/smojazz.aac/playlist.m3u8

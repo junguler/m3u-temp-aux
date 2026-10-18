@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,Erkam Radyo
+https://api-tv5.yayin.com.tr:8002/mp3
+#EXTINF:-1,Konya İsra FM
+https://yayin2.canliyayin.org:8210/;stream
+#EXTINF:-1,Radyo Nida
+https://anadolu.liderhost.com.tr/8106/stream

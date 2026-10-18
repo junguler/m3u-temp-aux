@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,Flux Electronic Chillout
+https://51-75-13-109-fd35d7.sfn.edge-ovh-gra5.streams.radiosphere.io/557b7263-9216-46b5-a813-a156ffbc9acb/channels/aa1a53ce-7743-444d-a0b9-115ba01c7321/stream.aac?quality=4&quality=4&source=fluxmusic.api.radiosphere.io&companionAds=true&aw_0_req.userConsentV2=CQLQfCgQLQfCgAfLoBDEBYFsAP_AAEPAAAigF7QFQACAAVAAuAB4AEEAJwAoABkADQAI4AXwAwgBuAGrAO4A7wB-gF1AOAAfsBFQC3gF7AH7AJAAqABcADwAIAAZAA0ACPAO4A7wB-gAAA
+#EXTINF:-1,DR P6 BEAT (AAC)
+https://drliveradio1.akamaized.net/hls/live/2097651/p6beat/masterab.m3u8
+#EXTINF:-1,Doble Nueve - Classic
+https://conectperu.com:7003/stream?icy=http

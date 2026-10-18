@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1,FIP
+https://stream.radiofrance.fr/fip/fip.m3u8
+#EXTINF:-1,FIP (no pub)
+https://stream.radiofrance.fr/fip/fip_hifi.m3u8
+#EXTINF:-1,FIP Pop
+https://icecast.radiofrance.fr/fippop-hifi.aac
+#EXTINF:-1,FIP Sacr� Fran�ais !
+https://stream.radiofrance.fr/fipsacrefrancais/fipsacrefrancais.m3u8?id=radiofrance
+#EXTINF:-1,France Culture
+https://stream.radiofrance.fr/franceculture/franceculture.m3u8?id=radiofrance
+#EXTINF:-1,France Culture
+https://stream.radiofrance.fr/franceculture/franceculture_hifi.m3u8
+#EXTINF:-1,France Info
+https://stream.radiofrance.fr/franceinfo/franceinfo_hifi.m3u8
+#EXTINF:-1,France Inter
+https://icecast.radiofrance.fr/franceinter-hifi.aac
+#EXTINF:-1,France Musique
+https://stream.radiofrance.fr/francemusique/francemusique.m3u8
+#EXTINF:-1,France Musique (no pub)
+https://stream.radiofrance.fr/francemusique/francemusique.m3u8?id=radiofrance
+#EXTINF:-1,Vertige Radio Gold
+https://stream.vestaradio.com/VertigeRadioGold

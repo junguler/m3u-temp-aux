@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1,Radio Universidad de Chile
+https://sonic-us.arkeo.cl/8186/stream
+#EXTINF:-1,Caracol Radio (Bogot�) - 100.9 FM / 810 AM - HJGL / HJCY - PRISA Radio - Bogot�, Colombia
+https://27363.live.streamtheworld.com/CARACOL_RADIOAAC.aac
+#EXTINF:-1,WDR 5 [aac]
+https://wdrhf.akamaized.net/hls/live/2027996-b/wdr5/192/seglist.m3u8
+#EXTINF:-1,Radio IIII
+https://22653.live.streamtheworld.com/RADIO4_ABR.mp3
+#EXTINF:-1,GPB
+https://gpb.streamguys1.com/im/gpb-atlanta-aac-website?listenerid=a9950016fb7242a718c44f930c917795&awparams=playerid%3ASGplayer%3BcompanionAds%3Atrue&amsparams=playerid%3ASGplayer%3Bskey%3A1646483232842%3B
+#EXTINF:-1,NetTalk America
+https://stream-286.surfernetwork.com/st9bhqvgvceuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzdDliaHF2Z3ZjZXV2IiwiaG9zdCI6InN0cmVhbS0yODYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImhKbl9ISkNzUXNPN3JZX3dza3djVnciLCJpYXQiOjE3OTIzNTUyNjUsImV4cCI6MTc5MjM1NTMyNX0.mJN0qDQXX6oXaWenLrtJK8C_8VU21VQkU6Ih0FDRi8s
+#EXTINF:-1,Radio America 1
+https://s6.yesstreaming.net:18003/ra1
+#EXTINF:-1,Rense Radio .asx
+https://cdn.voscast.com/resources/?key=ac09707276d304c1d6d71994d1823ba6&c=wmp
+#EXTINF:-1,Rense Radio .pls
+https://cdn.voscast.com/resources/?key=ac09707276d304c1d6d71994d1823ba6&c=winamp
+#EXTINF:-1,Rense Radio .ram
+https://cdn.voscast.com/resources/?key=ac09707276d304c1d6d71994d1823ba6&c=realplayer
+#EXTINF:-1,Salem News Channel Audio Stream
+https://tc1.bahamatel.net:7928/;?type=http&nocache=6029555
+#EXTINF:-1,Ujima Radio
+https://radio.canstream.co.uk:8037/live.mp3
+#EXTINF:-1,WMBD 1470 AM 100.3 FM Peoria News and Talk
+https://15313.live.streamtheworld.com/WMBDAMAAC.aac

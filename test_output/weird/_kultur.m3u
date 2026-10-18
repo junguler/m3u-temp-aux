@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,kultur MD TV
+https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:kulturmd_high/playlist.m3u8
+#EXTINF:-1,Kulturalkanal-Laut.fm
+https://kulturkanal.stream.laut.fm/kulturkanal?t302=2026-01-15_05-22-09&uuid=89312619-bb03-4568-b161-630a21ee3098
+#EXTINF:-1,MDR KLASSIK
+https://radio-hls.mdr.de/hls/live/2112906/mdr-284350-0-hls/index.m3u8
+#EXTINF:-1,MDR KULTUR
+https://radio-hls.mdr.de/hls/live/2112903/mdr-284310-0-hls/index.m3u8
+#EXTINF:-1,MDR Kultur 192 AAC
+https://mdr-radio-hls.akamaized.net/hls/live/2112903/mdr-284310-0-hls/192/seglist.m3u8
+#EXTINF:-1,__SALSA__ by rautemusik (rm.fm)
+https://rautemusik.stream43.radiohost.de/salsa?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzkyMzU1MTMxJmQ9M2YyODkzMzY3YjQxZjVmNzI2ZmU
+#EXTINF:-1,WDR3
+https://wdr-radio.ard-mcdn.de/wdr/radio/wdr3/hls/master.m3u8
+#EXTINF:-1,WDR3 HD
+https://wdr-radio.ard-mcdn.de/wdr/radio/wdr3hd/hls/master.m3u8
+#EXTINF:-1,Deutschlandfunk
+https://d141.rndfnk.com/ard/dlf/01/opus/24/stream.opus?sid=22ZmScLTNSyKXQJXwe55PyPnP7v&token=rm4OpSHnXBBTBo261sIYaiaXOU5aebsFVt67LjGZ7Dg&tvf=lXZZZZm3whZkMTQxLnJuZGZuay5jb20

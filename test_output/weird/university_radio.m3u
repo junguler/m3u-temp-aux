@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,radio universidad de rosario
+https://cdn.instream.audio/:9202/stream
+#EXTINF:-1,Cassette Disco
+https://casseta-disco.ru:6275/stream
+#EXTINF:-1,UN Radio Bogot�
+https://radio.unal.edu.co/streaming/bogota/
+#EXTINF:-1,Century Radio NI mom
+https://s2.radio.co/s87ffbc098/listen
+#EXTINF:-1,KCSU
+https://listen.kcsufm.com/stream?nocache=1770828530774
+#EXTINF:-1,WCWP 88.1 - Long Island University Brookville, NY
+https://wcwp.liu.edu/hls-live/livepkgr/_wcwpfmhls_/wcwpfmhls/livestream.m3u8
+#EXTINF:-1,WECS 90.1 FM - Windham, Connecticut Eastern Connecticut State University
+https://s3.radio.co/s8d7d6d8d5/listen
+#EXTINF:-1,Wicb Ithaca
+https://icecast.do.zufall.co/wicb_aac_high

@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1,MDR AKTUELL
+https://radio-hls.mdr.de/hls/live/2112901/mdr-284340-0-hls/index.m3u8
+#EXTINF:-1,MDR KLASSIK
+https://radio-hls.mdr.de/hls/live/2112906/mdr-284350-0-hls/index.m3u8
+#EXTINF:-1,MDR KULTUR
+https://radio-hls.mdr.de/hls/live/2112903/mdr-284310-0-hls/index.m3u8
+#EXTINF:-1,MDR SACHSEN – Das Sachsenradio
+https://mdr-radio-hls.akamaized.net/hls/live/2112890/mdr-284280-3-hls/index.m3u8
+#EXTINF:-1,MDR SPUTNIK - Einfach die beste Musik - Deine Lieblingsmusik
+https://mdr-radio-hls.akamaized.net/hls/live/2112905/mdr-284330-0-hls/index.m3u8

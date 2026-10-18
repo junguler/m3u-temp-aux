@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,Classic | Radio Swiss
+http://livestreaming-node-1.srg-ssr.ch/srgssr/rsc_de/mp3/128
+#EXTINF:-1,Pop | Radio Swiss
+http://livestreaming-node-2.srg-ssr.ch/srgssr/rsp/mp3/128
