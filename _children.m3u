@@ -9,3 +9,7 @@ https://nl4.mystreaming.net/uber/forkidzbedtimestories/icecast.audio
 https://stream.zeno.fm/fwcpjdir9o1uv
 #EXTINF:-1,Radio Cron
 https://cron.stream.laut.fm/cron
+#EXTINF:-1,DIR- Dečiji Internet Radio
+https://stream.iradio.pro/proxy/radiodir?mp=/stream
+#EXTINF:-1,BANANRADION
+https://lyssna.bananradion.se/listen/bananradion/128aac

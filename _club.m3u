@@ -55,3 +55,9 @@ https://nl4.mystreaming.net/er/moby/icecast.audio
 https://media-ssl.musicradio.com/HeartDance
 #EXTINF:-1,Radio Relativa
 https://streamer.radio.co/sd6131729c/listen
+#EXTINF:-1,Radio Energy Cugir
+https://sonicssl.namehost.ro/8790/stream/;
+#EXTINF:-1,Osmeh Vojvodine
+https://as1.radioserveri.com:8130/radio.mp3
+#EXTINF:-1,TDI Radio
+https://streaming.tdiradio.com/tdiradio.mp3

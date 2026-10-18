@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1, DIGITAL 101.5 (Reynosa) - 101.5 FM - XHAVO-FM - Radio United - Reynosa, Tamaulipas
+https://live.amperwave.net/manifest/rcomm-xhavofmaac-hlsc4.m3u8?source=v7player
+#EXTINF:-1, DIGITAL 102.9 (MTY) - 102.9 FM - XHMG-FM - Grupo Radio Alegría - Monterrey, Nuevo León
+https://playerservices.streamtheworld.com/api/livestream-redirect/DIGITAL_1029FMAAC.aac
+#EXTINF:-1, DIGITAL 103.1 (Ciudad Acuña) - 103.1 FM - XHKD-FM - RCG Media - Ciudad Acuña, Coahuila
+https://radio.rcg.com.mx:7005/stream
+#EXTINF:-1, DIGITAL 106.5 (Saltillo) - 106.5 FM - XHZCN-FM - RCG Media - Saltillo, Coahuila
+https://radio.rcg.com.mx:7000/
+#EXTINF:-1, DIGITAL 106.5 (Zacatecas) - 106.5 FM - XHLK-FM - Grupo Radiofónico ZER - Zacatecas, Zacatecas
+https://cast.zuperdns.net/8020/stream/
+#EXTINF:-1, DIGITAL 98.5 (Xalapa) - 98.5 FM - XHWA-FM - AvanRadio - Xalapa, Veracruz
+https://cast3.my-control-panel.com/proxy/xhtz?mp=/stream
+#EXTINF:-1, DIGITAL 99.5 (Guaymas) - 99.5 FM - XHDR-FM - Grupo Radio Guaymas - Guaymas, Sonora
+https://sp5.servidorrprivado.com/8066/stream

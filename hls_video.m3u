@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,Top News
+https://live.topnews.co.th/hls/topnews.m3u8
+#EXTINF:-1,Top News (Live1 - Low 240p)
+https://live.topnews.co.th/hls/topnews_a_240.m3u8

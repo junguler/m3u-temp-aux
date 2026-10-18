@@ -7,3 +7,5 @@ https://stream.bbrtv.com:10443/hls/sIoyCf1Gg/sIoyCf1Gg_live.m3u8
 https://server-67.stream-server.nl:8768/stream
 #EXTINF:-1,Kids Radio
 https://n03.rcs.revma.com/n7d6z9ez1duvv
+#EXTINF:-1,NHK WORLD RADIO
+https://b-nhkworld-radio.nhkworld.jp/hls/live/nhkworld-radio-rs1/index_rs1.m3u8

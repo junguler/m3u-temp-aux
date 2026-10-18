@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,91.7 Exa FM (Tijuana) - 91.7 FM - XHGLX-FM - MVS Radio - Tijuana, Baja California
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHGLXAAC.aac
+#EXTINF:-1, EXA FM 101.3 (Durango) - 101.3 FM - XHCAV-FM - Armas Radio - Durango, Durango
+https://stream9.mexiserver.com:8114/;
+#EXTINF:-1, EXA FM 101.9 (Poza Rica) - 101.9 FM - XHRIC-FM - MVS Poza Rica (Estudio 101.9) - Poza Rica, Veracruz
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHRICAAC.aac
+#EXTINF:-1,EXA FM 91.5 (Mexicali) - 91.5 FM - XHJC-FM - MVS Radio - Mexicali, Baja California
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHJCFMAAC.aac
+#EXTINF:-1,EXA FM 95.5 (Querétaro) - 95.5 FM - XHOE-FM - Multimundo Radio - Querétaro, Querétaro
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHOEAAC.aac
+#EXTINF:-1,EXA FM 95.7 (Cuernavaca) - 95.7 FM - XHCT-FM - MVS Radio - Cuernavaca, Morelos
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHCTAAC.aac
+#EXTINF:-1, EXA FM 97.3 (MTY) - 97.3 FM - XHSR-FM - MVS Radio - Monterrey, Nuevo León
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHRSMTYFMAAC.aac
+#EXTINF:-1, EXA FM 98.1 (Zamora) - 98.1 FM - XHPZAM-FM - Grupo Rey - Zamora, Michoacán
+https://streaming.sistemasmvsradio.com/proxy/afixhgse/stream
+#EXTINF:-1,Exa FM Chihuahua - 100.9 FM - XHLO-FM - Sistema Radio Lobo - Chihuahua, Chihuahua
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHLO_SC

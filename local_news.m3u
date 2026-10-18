@@ -215,3 +215,71 @@ https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/chunklist_w1626804143.m3u8
 https://streaming1.radiodatanet.it:8050/stream
 #EXTINF:-1,Radio CRC
 https://stream9.xdevel.com/audio2s975936-745/stream/icecast.audio
+#EXTINF:-1,RSC Radio Senise
+https://stream.studiocentrale.it/radio/8020/radio.mp3?_=1
+#EXTINF:-1,Shakthi Fm
+https://mbc.thestreamtech.com:8086/stream
+#EXTINF:-1,Siragugal Fm Tamil Srilanka
+https://sonic-ca.instainternet.com/siragugalfm/stream
+#EXTINF:-1,NRK P1 Nordland
+https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk4
+#EXTINF:-1,Onda Popular
+https://dattavolt.com/8278/stream?1634322652441
+#EXTINF:-1,Radio San Martín
+https://conectperu.com:7020/stream?icy=http
+#EXTINF:-1,Leliwa
+https://streaming.g-news.pl/radio/8050/leliwa
+#EXTINF:-1,Radio RSC
+https://stream.rcs.revma.com/94fud6a6z72vv
+#EXTINF:-1,Rádio Popular de Source
+https://nl.digitalrm.pt:8072/stream?1671016403075=
+#EXTINF:-1,Rádio Regional do Centro
+https://nl.digitalrm.pt:8030/stream?1671017145140=
+#EXTINF:-1,Delta Ocna MureÈ™ - 97,4 FM
+https://deltafm.ro/mp3/Stan-Adrian-Ocna-Mures-Music4Night.mp3
+#EXTINF:-1,Plusz FM - Margitta
+https://stream2.radiotransilvania.ro/Margitta
+#EXTINF:-1,Plusz FM - Nagyvarad
+https://stream2.radiotransilvania.ro/Nagyvarad
+#EXTINF:-1,Rádió GaGa Csíkszék
+https://a3.my-control-panel.com:6700/radio.mp3
+#EXTINF:-1,Rádió GaGa Gyergyószék
+https://a3.my-control-panel.com:6690/radio.mp3
+#EXTINF:-1,Rádió GaGa Háromszék
+https://a3.my-control-panel.com:6670/radio.mp3
+#EXTINF:-1,Rádió GaGa Marosszék
+https://a3.my-control-panel.com:6660/radio.mp3?1709995925
+#EXTINF:-1,Rádió GaGa Udvarhelyszék
+https://a3.my-control-panel.com:6680/radio.mp3?1709996423
+#EXTINF:-1,Radio Orion FM -Câmpulung Muscel 96,6 FM
+https://cast.orionfm.ro/listen/orion/public.mp3
+#EXTINF:-1,Sibiu  Radio -Sibiu 91.1 FM
+https://asculta.radiosibiu.ro:8443/RS
+#EXTINF:-1,Sighet FM -Sighetu MarmaÈ›iei 89.3 FM
+https://radio.zifer.ro/SighetFM
+#EXTINF:-1,Star rádió
+https://online.webcastradio.ro/star
+#EXTINF:-1,Stil FM Radio - OlteniÈ›a 88.2 FM
+https://sonic1-rbx.cloud-center.ro:7020/live
+#EXTINF:-1,Szépvíz FM
+https://szepvizfm.ro:8000/stream
+#EXTINF:-1,Titu Radio
+https://asculta.radiohitfm.net/8340/stream
+#EXTINF:-1,Transilvania -statia AleÈ™d 95.8 FM
+https://stream2.radiotransilvania.ro/Oradea
+#EXTINF:-1,Transilvania -statia Baia Mare 106.1 FM
+https://stream2.radiotransilvania.ro/BaiaMare
+#EXTINF:-1,Transilvania -statia Carei 95.2 FM
+https://stream2.radiotransilvania.ro/SatuMare
+#EXTINF:-1,Transilvania -statia LuduÈ™ 100.4 FM
+https://stream2.radiotransilvania.ro/Ludus
+#EXTINF:-1,Transilvania -statia MediaÈ™ 97.2 FM
+https://stream2.radiotransilvania.ro/Medias
+#EXTINF:-1,Transilvania -statia ZalÄƒu 94.6 FM
+https://stream2.radiotransilvania.ro/Zalau
+#EXTINF:-1,Radio Å tajerski val
+https://stream.stajerskival.si:8443/live
+#EXTINF:-1,SR P4 Jönköping
+https://live1.sr.se/p4jkpg-aac-320
+#EXTINF:-1,Sveriges Radion P4 Östergötland
+https://live1.sr.se/p4ostg-mp3-96

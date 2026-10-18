@@ -981,3 +981,143 @@ https://gr.fluidstream.eu/gr2.mp3
 https://ssl1.mediastreaming.it:9068/
 #EXTINF:-1,Radio Roma mobilit�
 https://nr9.newradio.it:19021/stream?ext=.mp3
+#EXTINF:-1,Radio Sintony
+https://stream5.xdevel.com/audio0s976204-1069/stream/icecast.audio
+#EXTINF:-1,Rai News 24
+https://streamcdnb3-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
+#EXTINF:-1,REPLAY NEWS - Italiano
+https://replaynewsit.ice.infomaniak.ch/replaynewsit-128.mp3
+#EXTINF:-1,RTL 102.5 news
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/aJMOUBAFc2Bc/playlist_audio.m3u8
+#EXTINF:-1,Studio 90 Italia
+https://ns3156088.ip-51-89-96.eu:8246/
+#EXTINF:-1,TOradio
+https://nr5.newradio.it/proxy/fsrls?mp=/stream
+#EXTINF:-1,Radio Jamaica 94FM
+https://stream.zeno.fm/cub84trbgy5tv
+#EXTINF:-1,REPLAY NEWS - Kiswahili
+https://replaynewssw.ice.infomaniak.ch/replaynewssw-128.mp3
+#EXTINF:-1,Радио Лента stream 2
+https://streaming.broadcastrd.com/audio/radio-lenta.mp3
+#EXTINF:-1,Xadun 107.5
+https://stream.zeno.fm/z3sbdspshrhvv
+#EXTINF:-1,R�dio Mo�ambique Antena Nacional
+https://node.stream-africa.com:8443/AntenaNacional
+#EXTINF:-1,Radio Plus Mauritius
+https://stream.radioplus.mu:8000/radio.mp3
+#EXTINF:-1,BFM 89.9
+https://stream.rcs.revma.com/s91qy9p0zs3vv
+#EXTINF:-1,La Voz del Norte
+https://stream.zeno.fm/cbd1wweamzzuv
+#EXTINF:-1,Hamar Radioen
+https://lyd.radioene.no/hamar.mp3
+#EXTINF:-1,NRK Nyheter
+https://cdn0-47115-liveicecast0.dna.contentdelivery.net/nyheter_aac_h
+#EXTINF:-1,BBC Nepali
+https://stream.live.vc.bbcmedia.co.uk/bbc_nepali_radio
+#EXTINF:-1,Radio Nepal
+https://stream1.radionepal.gov.np/live/
+#EXTINF:-1,Samaa FM 107.4
+https://samaakhi107-itelservices.radioca.st/stream
+#EXTINF:-1,Radio Exitosa
+https://neptuno-2-audio.mediaserver.digital/79525baf-b0f5-4013-a8bd-3c5c293c6561
+#EXTINF:-1,Radio Poland
+https://stream85.polskieradio.pl/pr5/pr5.sdp/playlist.m3u8
+#EXTINF:-1,Radio Republika
+https://ssl-1.radiotvrepublika.pl:12698/stream
+#EXTINF:-1,UJOT FM
+https://stream.ujot.fm/
+#EXTINF:-1,WKAQ 580
+https://televicentro.streamguys1.com/wkaqam-icy?key=a548fad34362b181adc2d8c3cc86b7cf1d424ef2d81c4050b3e6e1ba21f8de3d&source=tunein&source=TuneIn&us_privacy=1YNY&bundle=tunein.com&lat=18.4038&long=-66.1493&aw_0_1st.playerid=RadioTime&aw_0_1st.skey=1772682016&aw_0_1st.bundleId=tunein.com&lon=-66.1493&listenerid=555c2c74177be24010a700c94e4e5933&aw_0_1st.abtest=&partnerId=RadioTime&aw_0_1st.stationId=s30075&aw_0_1st.premium=false&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g255&aw_0_1st.class=talk&aw_0_1st.ads_partner_alias=dsk.Web&aw_0_azn.planguage=[iv,%20es]&aw_0_1st.is_ondemand=false&aw_0_1st.topicId=na&aw_0_1st.affiliateIds=a116918,a40075,a39100&aw_0_1st.bandId=1&delivery=1&aw_0_1st.lotamesegments=;;
+#EXTINF:-1,CMR - Correio da Manh� R�dio
+https://emdireto.cmradio.pt/audio2/output-stream_1.m3u8
+#EXTINF:-1,REPLAY NEWS - Portugu�s
+https://replaynewspt.ice.infomaniak.ch/replaynewspt-128.mp3
+#EXTINF:-1,Al araby
+https://l3.itworkscdn.net/alarabyradiolive/alarabyradio_audio/icecast.audio
+#EXTINF:-1,الجزيرة صوت
+https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/01.m3u8
+#EXTINF:-1,Realitatea FM
+https://shout.realitatea.net:8001/rfmweb
+#EXTINF:-1,R�gi� R�di�
+https://stream.regioradio.info:8000/radio.mp3
+#EXTINF:-1,REPLAY NEWS - Română
+https://replaynewsro.ice.infomaniak.ch/replaynewsro-128.mp3
+#EXTINF:-1,إذاعة الأخبار كل 5 دقائق   REPLAY NEWS - العربية
+https://replaynewsar.ice.infomaniak.ch/replaynewsar-128.mp3
+#EXTINF:-1,Al Arabiya FM
+https://fm.alarabiya.net/fm/myStream/playlist.m3u8
+#EXTINF:-1,CNA 938
+https://22893.live.streamtheworld.com/938NOW_SC
+#EXTINF:-1,Idaacadda Subaxnimo VOA
+https://av.voanews.com/clips/VSO/2021/04/29/20210429-033000-VSO065-program_48k.mp3
+#EXTINF:-1,Blok Radio
+https://stream.blokradio.com/hls/blok_radio/live.m3u8
+#EXTINF:-1,Bravo Radio
+https://bravo-bobanex.radioca.st/stream/;
+#EXTINF:-1,Hero Radio (Serbia)
+https://a2.asurahosting.com:6790/serbia.mp3
+#EXTINF:-1,Radio Beograd 1
+https://rtsradio-live.morescreens.com/RTS_2_001/playlist.m3u8
+#EXTINF:-1,Radio Caribrod
+https://as1.radioserveri.com:8220/radio.mp3?
+#EXTINF:-1,Radio DIR
+https://stream.iradio.pro/proxy/dirradio?mp=/stream
+#EXTINF:-1,Radio Kikinda
+https://vojvodjanski.com/radiokikinda
+#EXTINF:-1,Radio Pancevo
+https://s29.myradiostream.com/16654/listen.mp3;
+#EXTINF:-1,Radio Patrola 021
+https://srv.mediastriming.com/8444/stream
+#EXTINF:-1,Radio Sombor
+https://radio.dukahosting.com/8344/stream
+#EXTINF:-1,San Radio
+https://s1.skeletor.rs/san
+#EXTINF:-1,Dobr� R�dio
+https://stream.dobreradio.sk/dobreradio.mp3
+#EXTINF:-1,REPLAY NEWS - Svenska
+https://replaynewsse.ice.infomaniak.ch/replaynewsse-128.mp3
+#EXTINF:-1,Sveriges Radio - Ekot s�nder direkt
+https://live1.sr.se/ekotdirekt-aac-320
+#EXTINF:-1,97qfm
+https://cdn-th2.livestreaming.in.th/shoutcast/8610
+#EXTINF:-1,FM 100.5 MHz MCOT news network
+https://play-fm1005.mcot.net/fm1005/fm1005.m3u8
+#EXTINF:-1,BloombergHTradyo 
+https://ciner-live.ercdn.net/bloombergradyo/bloombergradyo_1.m3u8
+#EXTINF:-1,Radyo Sputnik
+https://icecast-rian.cdnvideo.ru/voicestm
+#EXTINF:-1,REPLAY NEWS - T�rk�e    Her 5 dakikada haber radyosu
+https://replaynewstr.ice.infomaniak.ch/replaynewstr-128.mp3
+#EXTINF:-1,TRT Radyo Haber
+https://radio-trtradyohaber.live.trt.com.tr/master.m3u8
+#EXTINF:-1,SKY NEWS
+https://video.news.sky.com/snr/news/snrnews.mp3
+#EXTINF:-1,TALKRADIO
+https://radio.talkradio.co.uk/stream
+#EXTINF:-1,REPLAY NEWS - Українська       Новинне радіо кожні 5 хвилин
+https://replaynewsuk.ice.infomaniak.ch/replaynewsuk-128.mp3
+#EXTINF:-1,El Espectador 810
+https://espectador-1.nty.uy/
+#EXTINF:-1,M24 � La radio que nos mueve (97.9  / 102.5 )
+https://streaming1.hostingmontevideo.com/8034/stream
+#EXTINF:-1,Sarandi 690
+https://radiolatina.live:10977/sarandi
+#EXTINF:-1,99.8 Radio
+https://stream.zeno.fm/jxniabwipmhtv
+#EXTINF:-1,CRI Tiếng Việt
+https://ice5.securenetsystems.net:80/KALI
+#EXTINF:-1,Little Saigon Radio
+https://stream-148.zeno.fm/kxynzu2qe7duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJreHluenUycWU3ZHV2IiwiaG9zdCI6InN0cmVhbS0xNDguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IklCSlYyMXNuVC02QUFEWTVhQTUxWmciLCJpYXQiOjE3Mjk4MzExMTcsImV4cCI6MTcyOTgzMTE3N30.MnLyarUeN7gD-e-g1fZiD0UQWGzpIaPx7o3vYOhQCfk
+#EXTINF:-1,REPLAY NEWS - Tiếng Việt   Radio tin tức mỗi 5 phút
+https://replaynewsvi.ice.infomaniak.ch/replaynewsve-128.mp3
+#EXTINF:-1,RFI Tiếng Việt
+https://rfienvietnamien64k.ice.infomaniak.ch/rfienvietnamien-64.mp3
+#EXTINF:-1,TNT Atlanta Radio
+https://cast4.servcast.net/proxy/longpham2/stream
+#EXTINF:-1,VOV GT HCM
+https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8
+#EXTINF:-1,ECR - East Coast Radio -KwaZulu Natal
+https://edge.iono.fm/xice/ecr_live_medium.aac
+#EXTINF:-1,Power 98.7
+https://edge.iono.fm/xice/65_medium.aac

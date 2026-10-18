@@ -19,3 +19,9 @@ https://icecast.retrostrange.com:8443/retrostrange-radio1-mp3
 https://streaming05.liveboxstream.uk/proxy/jondre01/stream
 #EXTINF:-1,Suspense Radio USA
 https://ais-sa3.cdnstream1.com/2608_128.mp3
+#EXTINF:-1,Mushroom Escape
+https://cast3.my-control-panel.com/proxy/jonatha1/escape?1664781783632
+#EXTINF:-1,Rádio Tágide
+https://rs2.ptservidor.com/proxy/carlos31?mp=/stream?type=.mp3
+#EXTINF:-1,Radio Today
+https://rt1485.out.airtime.pro/rt1485_b

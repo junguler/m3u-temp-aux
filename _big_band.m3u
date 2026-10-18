@@ -13,3 +13,5 @@ https://icecast.walmradio.com:8443/classic_opus
 https://nl4.mystreaming.net/er/ellafitzgerald/icecast.audio
 #EXTINF:-1,RetroStrange Radio2
 https://icecast.retrostrange.com:8443/retrostrange-radio2-mp3
+#EXTINF:-1,J-Club Club Bandstand
+https://cast1.torontocast.com:2060/;.mp3

@@ -29,3 +29,7 @@ https://server.radioimeldafm.co.id/radio/8010/swarasemarang
 https://stream-node2.rri.co.id/streaming/21/9221/rritjpinangpro4.mp3
 #EXTINF:-1,גלצ
 https://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz
+#EXTINF:-1,Kelantan FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/KELANTAN_FMAAC.aac
+#EXTINF:-1,Radio Karicia
+https://shoutcast.tmcreativos.com/proxy/radiokar?mp=/stream

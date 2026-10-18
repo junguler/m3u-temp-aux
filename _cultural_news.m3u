@@ -9,3 +9,19 @@ https://rozhlas.stream/wave_mp3_256.mp3
 https://24x7.red:42045/informa
 #EXTINF:-1,ÐšÑƒÐ»ÑŒÑ‚ÑƒÑ€Ð° (AAC+)
 https://icecast-vgtrk.cdnvideo.ru/kulturafm_aac_64kbps
+#EXTINF:-1,Imagen (San Luis Potosí) - 103.1 FM - XHEPO-FM - GlobalMedia - San Luis Potosí, SL
+https://imagen.b-cdn.net/stream
+#EXTINF:-1,Jalisco Radio (FM) (Ciudad Guzmán) - 107.1 FM - XHCGJ-FM - Gobierno del Estado de Jalisco - Ciudad Guzmán, JC
+https://sp2.servidorrprivado.com/8136/ciudadguzman
+#EXTINF:-1,Jalisco Radio (FM) (Guadalajara) - 96.3 FM - XEJB-FM - Gobierno del Estado de Jalisco - Guadalajara, JC
+https://sp2.servidorrprivado.com/8136/guadalajarafm
+#EXTINF:-1, RADIO UNAM 860 (CDMX) - 860 AM - XEUN-AM - UNAM (Universidad Autónoma de México) - Ciudad de México
+https://tv.radiohosting.online:9486/stream
+#EXTINF:-1, RADIO UNAM 96.1 (CDMX) - 96.1 FM - XEUN-FM - UNAM (Universidad Autónoma de México) - Ciudad de México
+https://tv.radiohosting.online:9484/stream
+#EXTINF:-1,Radio Freee 89.9
+https://streaming.radio.lublin.pl:8843/radiofreeeacp
+#EXTINF:-1,Al Jazeera - English
+https://live-hls-audio-web-aje.getaj.net/VOICE-AJE/01.m3u8
+#EXTINF:-1,Radio Una
+https://stream.zeno.fm/v36ympen8x8uv

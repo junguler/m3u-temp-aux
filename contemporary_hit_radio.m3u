@@ -5,3 +5,7 @@ https://stream.jpbgdigital.com/CFMM.m3u8
 https://stream.statsradio.com:8050/stream
 #EXTINF:-1,MegastarFM (stereo_aac)
 https://megastar-cope.flumotion.com/chunks.m3u8
+#EXTINF:-1,Eight无限 FM
+https://stream.rcs.revma.com/qp0xrd9mtd3vv
+#EXTINF:-1,Meloradio Kielce
+https://ml03.cdn.eurozet.pl/mel-klc.mp3

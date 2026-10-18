@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1,LatinX 94.3 FM
 https://usa17.fastcast4u.com/proxy/fiestafm?mp=/1
+#EXTINF:-1,La KeBuena 88.9 Guasave
+https://hls.gvstream.live/gpm/kbuena889-audio.stream/chunklist_w1977675799.m3u8
+#EXTINF:-1,La KeBuena Mexicali 101.3
+https://streaming.servicioswebmx.com/8286/stream

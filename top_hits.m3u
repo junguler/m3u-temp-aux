@@ -13,3 +13,11 @@ https://nl4.mystreaming.net/pr/posigold/icecast.audio
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR15.mp3
 #EXTINF:-1,OZONE FM
 https://oxygenmusic.hu:8000/ozonefm_128
+#EXTINF:-1,Radio ZET 128
+https://n-11-21.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx?audio=5
+#EXTINF:-1,RMF FM 48 Kbps
+https://rs102-krk-cyfronet.rmfstream.pl/RMFFM48
+#EXTINF:-1,goFM
+https://live.gofm.ro:2000/stream/goFMro
+#EXTINF:-1,Naxi Millennium Radio
+https://naxidigital-millennium128ssl.streaming.rs:8342/;stream.nsv

@@ -81,3 +81,25 @@ https://nr9.newradio.it/proxy/content?mp=/stream
 https://stream.rcs.revma.com/nt1qhvnp81uvv
 #EXTINF:-1,Radio Arya
 https://radioarya.it/listen/radio_arya/radio.mp3
+#EXTINF:-1,RDS Relax
+https://stream.rds.radio/audio/rdsrelax.stream_aac/playlist.m3u8
+#EXTINF:-1,Play Radio MNE Soft
+https://stream.playradio.me:8443/soft.mp3
+#EXTINF:-1,LM Radio
+https://ukwesta.streaming.broadcast.radio/lmradio
+#EXTINF:-1,Stay.FM
+https://stayfm.com:8443/archive
+#EXTINF:-1,JAZZ CAFE
+https://radio.wanderingsheep.net:8000/jazzcafe
+#EXTINF:-1,Radiowave NZ
+https://stream.radiowavenz.com/stream
+#EXTINF:-1,Smooth 105.6FM
+https://servidor26.brlogic.com:7110/live
+#EXTINF:-1,Radio Diamante
+https://stream.zeno.fm/8s6b3v091k8uv
+#EXTINF:-1,Catolica Radio
+https://live.turadio.stream:7017/catolicaradiopr
+#EXTINF:-1,Magic De Pahar
+https://dc.digi.live.kissfm.ro/magicdepahar
+#EXTINF:-1,Radyo Odtu Easy
+https://stream3.radyoodtu.com.tr:8000/easy

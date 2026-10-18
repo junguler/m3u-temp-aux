@@ -33,3 +33,35 @@ https://stream.revma.ihrhls.com/zc7959/hls.m3u8
 https://playerservices.streamtheworld.com/api/livestream-redirect/KWKWAMAAC.aac
 #EXTINF:-1,La Red 106.1 Guatemala
 https://playerservices.streamtheworld.com/api/livestream-redirect/LA_REDAAC.aac
+#EXTINF:-1,106.9 Radio Fórmula (Aguascalientes) - 106.9 FM - XHAC-FM - Radio Universal - Aguascalientes, Aguascalientes
+https://radioweb.stream/ags.ags/xhac.aac/icecast.audio
+#EXTINF:-1,88.9 Noticias - 88.9 FM - XHM-FM - Grupo ACIR - Ciudad de México
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMFMAAC_SC.aac
+#EXTINF:-1,95.7 W Radio (Oaxaca) - 95.7 FM - XHCE-FM - Grupo Encuentro - Oaxaca, Oaxaca
+https://www.encuentroradiotv.com:8443/oaxaca957.mp3
+#EXTINF:-1,Bonita FM 95.1
+https://stream.zeno.fm/05g7pygka3quv
+#EXTINF:-1,EL HERALDO RADIO 100.3 (GDL) - 100.3 FM - XHAV-FM - Heraldo Media Group - Guadalajara, JAlisco
+https://stream.radiojar.com/21h1m4cch8nwv
+#EXTINF:-1,EL HERALDO RADIO 99.7 (MTY) - 99.7 FM - XHSP-FM - Heraldo Media Group - Monterrey, Nuevo León
+https://stream.radiojar.com/951bffq8h8nwv
+#EXTINF:-1,EL HERALDO RADIO: La "H" Que SÃ­ Suena ðŸ†•
+https://stream.radiojar.com/ce31v3yah8nwv
+#EXTINF:-1,ESTÉREO BAJA 1190 (Mexicali) - 1190 AM - XEMBC-AM - Esquina 32 Radio - Mexicali, Baja California
+https://stream.radiojar.com/6a8qnq5n9zcwv
+#EXTINF:-1,La GS 104.7 FM Guasave
+https://noticieroaltavoz.com:8443/listen/la_gs_super_estacion_(104.7_fm)/radio.mp3
+#EXTINF:-1,La Primera (Saltillo) - 88.9 FM - XHAJ-FM - Grupo Multimedia El Diario de Coahuila - Saltillo, Coahuila
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHAJFMAAC.aac
+#EXTINF:-1,MVS Noticias - 102.5 FM - XHMVS-FM - MVS Radio - Ciudad de México
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMVSFM_SC
+#EXTINF:-1, RADIO METRÓPOLI 1150 (GDL) - 1150 AM - XEAD-AM - Grupo Unidifusión - Guadalajara, Jalisco
+https://s2.yesstreaming.net:9088/stream
+#EXTINF:-1, UNIVERSAL 88.1 (CDMX) - 88.1 FM - XHRED-FM - Grupo Radio Centro - Ciudad de México
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHFO_FMAAC.aac
+#EXTINF:-1,UNIVERSAL Ciudad de México - 88.1 FM - XHRED-FM - Grupo Radio Centro - Ciudad de México
+https://playerservices.streamtheworld.com/api/livestream-redirect/XERED_AMAAC.aac
+#EXTINF:-1,W RADIO 90.1 (San José Iturbide) - 90.1 FM - XHPSJI-FM - GlobalMedia - San José Iturbide, Guanajuato
+https://playradio.mx/proxy/los40jose?mp=/stream
+#EXTINF:-1,Radio 1000 AM
+https://1000noticias.live:8000/radio.mp3

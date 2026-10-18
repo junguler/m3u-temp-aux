@@ -23,3 +23,21 @@ https://listen.radioking.com/radio/453221/stream/508076
 https://f121.rndfnk.com/ard/swr/dasding/live/mp3/128/stream.mp3?aggregator=web&sid=22b3kE9APbOl9ZaR7PbEc0GHbJq&token=pHvJU7ggB2O_QWj3eNhuLqlpvQmJRbBPIi2h6OM0PEI&tvf=s4t__yzbwhZmMTIxLnJuZGZuay5jb20
 #EXTINF:-1,RRI Pro 2 Bandung
 https://stream-node0.rri.co.id/streaming/15/9015/rribandungpro2.mp3
+#EXTINF:-1,101.1 Exa FM (Monclova) - 101.1 FM - XHWGR-FM - NRT México - Monclova, Coahuila
+https://radio.nrt-environment.com/hls/exa101/exa.m3u8
+#EXTINF:-1,102.1 Exa FM (San Luis Potosí) - 102.1 FM - XHESL-FM - MG Radio - San Luis Potosí, San Luis Potosí
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHESLAAC.aac
+#EXTINF:-1,91.7 Exa FM (Tijuana) - 91.7 FM - XHGLX-FM - MVS Radio - Tijuana, Baja California
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHGLXAAC.aac
+#EXTINF:-1,EXA FM 91.5 (Mexicali) - 91.5 FM - XHJC-FM - MVS Radio - Mexicali, Baja California
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHJCFMAAC.aac
+#EXTINF:-1,EXA FM 95.5 (Querétaro) - 95.5 FM - XHOE-FM - Multimundo Radio - Querétaro, Querétaro
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHOEAAC.aac
+#EXTINF:-1,Sveriges Radio P3
+https://edge1.sr.se/p3-aac-320
+#EXTINF:-1,Sveriges Radio - P3
+https://live1.sr.se/p3-aac-320
+#EXTINF:-1,Sveriges radio P3 (mp3)
+https://live1.sr.se/p3-mp3-96
+#EXTINF:-1,NRG Uganda 106.5
+https://dc4.serverse.com/proxy/nrgugstream/stream

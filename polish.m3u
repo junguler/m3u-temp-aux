@@ -1,3 +1,13 @@
 #EXTM3U
 #EXTINF:-1,Radio Polska NL
 https://stream.radiopolskanl.nl/listen/radiopolskanl/radio.mp3
+#EXTINF:-1,Polskie Radio Czwórka
+https://stream14.polskieradio.pl/pr4/pr4.sdp/playlist.m3u8
+#EXTINF:-1,Radio Eska Dla Dzieci 
+https://radio.stream.smcdn.pl/timeradio-p/6220-1.aac/playlist.m3u8
+#EXTINF:-1,Radio Mbox - Polska Muzyka
+https://s3.slotex.pl:7072/stream
+#EXTINF:-1,Rock Radio
+https://radiostream.pl/tuba8-1.mp3?cache=1650763965
+#EXTINF:-1,Xvibe
+https://xvibe.pl/stream.php

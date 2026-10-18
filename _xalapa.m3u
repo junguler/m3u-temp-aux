@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1,LA LUPE 100.9 (Xalapa) - 100.9 FM - XHALAPA-FM - Multimedios Radio - Xalapa, Veracruz
+https://mdstrm.com/audio/672cf91376b5a6eeae594b58/icecast.audio
+#EXTINF:-1,LA MÁQUINA 97.7 (Xalapa) - 97.7 FM - XHOT-FM - AvanRadio - Xalapa, Veracruz
+https://cast3.my-control-panel.com/proxy/xhot
+#EXTINF:-1,LA NETA 102.5 (Xalapa) - 102.5 FM - XHJA-FM - AvanRadio - Xalapa, Veracruz
+https://cast3.my-control-panel.com/proxy/xeja?mp=/stream
+#EXTINF:-1,MAGIA 93.7 (Xalapa) - 93.7 FM - XHKL-FM - AvanRadio - Xalapa, Veracruz
+https://cast3.my-control-panel.com/proxy/xekl?mp=/stream
+#EXTINF:-1,RADIO UV 90.5 (Xalapa) - 90.5 FM - XHRUV-FM - UV (Universidad Veracruzana) - Xalapa, Veracruz
+https://58fe359775f31.streamlock.net/radioice/radioice.stream/playlist.m3u8

@@ -1,3 +1,13 @@
 #EXTM3U
 #EXTINF:-1,Buenisiima 88.5 XHCM
 https://ss1.audiorama.com.mx:6628/
+#EXTINF:-1, ARROBA FM 93.3 (Cuernavaca) - 93.3 FM - XHTB-FM - Radiorama Morelos - Cuernavaca, Morelos
+https://stream.zeno.fm/yt2efgg9d78uv
+#EXTINF:-1,La Más Picuda (Cuernavaca)  - 94.9 FM - XHSW-FM - Radiorama - Cuernavaca, MO
+https://server2.sit-mexico.com:2199/proxy/xhsw
+#EXTINF:-1,La Mejor Cuernavaca - 97.3 FM - XHVZ-FM - MVS Radio - Cuernavaca, MO
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHVZ_SC
+#EXTINF:-1,Stereo Vida (Cuernavaca) - 90.3 FM - XHJPA-FM - Radiorama Morelos - Cuernavaca, Morelos
+https://stream-153.zeno.fm/476gbad3ekhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0NzZnYmFkM2VraHZ2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiV1JlTlk3VzhUT21acGdPdWg3SXcxQSIsImlhdCI6MTc2ODQ0NDgzNywiZXhwIjoxNzY4NDQ0ODk3fQ.psGGEa-faFBCWa0Fyi-Ot7TE_mZjHi6jC9N7o8csM4w
+#EXTINF:-1, VOX FM Radio Hits 100.1 (Cuernavaca) - 100.1 FM - XHTIX-FM - Cuernavaca, Morelos
+https://stream9.mexiserver.com:8342/steam

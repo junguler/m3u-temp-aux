@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1,VIP Radio GR
 https://stream3.proradio.gr/listen/vipradio/vipHQ?refresh=1729198569592
+#EXTINF:-1,Radio GMusic Soft
+https://s9.webradio-hosting.com/proxy/rgmsoft/stream

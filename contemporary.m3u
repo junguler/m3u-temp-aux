@@ -49,3 +49,11 @@ https://audiostreamen.nl/friesland
 https://audiostreamen.nl/overijssel
 #EXTINF:-1,Radio Art - Contemporary Vocal
 https://live.radioart.com/fContemporary_vocal.mp3
+#EXTINF:-1,RadioReload.it
+https://stream3.xdevel.com/audio0s975522-197/stream/icecast.audio
+#EXTINF:-1,Rádio Comercial
+https://stream-hls.bauermedia.pt/comercial.aac/playlist.m3u8
+#EXTINF:-1,Sonic România
+https://ssl.omegahost.ro:10958/;
+#EXTINF:-1,SBC Paradise FM - Seychelles Best Mix
+https://streaming.fabrik.fm/paradise-fm/echocast/audio/index.m3u8

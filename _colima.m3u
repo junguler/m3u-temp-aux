@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1, CONEXIÓN 98.1 (Colima) - 98.1 FM - XHIRC-FM - Instituto Colimense de Radio y Televisión - Colima, Colima
+https://streamingcwsradio30.com/8270/stream
+#EXTINF:-1, EXA FM 99.7 (Colima) - 99.7 FM - XHCOC-FM - JA Radio - Colima, Colima
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHCOCFMAAC.aac
+#EXTINF:-1,La Bestia Grupera (Tecomán) - 90.5 FM - XHECO-FM - Radiorama / Grupo Audiorama Comunicaciones - Tecomán, Colima
+https://ss1.audiorama.com.mx:6578/stream
+#EXTINF:-1, LA KEBUENA 95.5 (Colima) - 95.5 FM - XHCMM-FM - 95.5 FM - Luna Medios - Coalcomán, Michoacán
+https://radios.lunamedios.mx:8308/;
+#EXTINF:-1,La Mejor Colima - 92.5 FM - XHUU-FM - Radio Colima - Colima, CL
+https://hls.gvstream.live/lamejor/colima925.stream/playlist.m3u8
+#EXTINF:-1,La Mejor Manzanillo - 96.3 FM - XHECS-FM - Manzanillo, CL
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHVGFM_SC
+#EXTINF:-1,Lokura FM Grupera Colima 104.5 FM
+https://mdstrm.com/audio/6939d9771e27fe9d27f16c59/live.m3u8
+#EXTINF:-1, LUPE 560 (Manzanillo) - 560 AM - XEMZA-AM - Grupo Radiofónico ZER - Manzanillo, Colima
+https://live.zuperdns.net/1895/stream/
+#EXTINF:-1,Sol FM (Manzanillo) - 89.7 FM / 560 AM - XHMZA-FM / XEMZA-AM - Grupo Radiofónico ZER - Cihuatlán, JC / Manzanillo, CL
+https://live.zuperdns.net/1895/stream/;stream.mp3
+#EXTINF:-1,SUPER (Colima) - 98.9 FM - XHERL-FM - Radiorama - Colima, Colima
+https://ss1.audiorama.com.mx:6644/stream

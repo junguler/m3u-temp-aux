@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1,radio ipuc
 https://virtualtronics.net/proxy/ipuc?mp=/stream/1/
+#EXTINF:-1,Radio Stereo Mundo 91.9 FM
+https://ssl.hostingtico.com:8138/smundo2014

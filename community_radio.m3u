@@ -241,3 +241,29 @@ https://uksoutha.streaming.broadcast.radio:28140/lifefm
 https://de2.streamingpulse.com/ssl/THRCL
 #EXTINF:-1,Radio Banda Larga
 https://rblmedia.out.airtime.pro/rblmedia_a
+#EXTINF:-1,Esan binoculars 
+https://fm.imediaport.com/ebradio
+#EXTINF:-1,AWA FM
+https://wowza.iwi.radio/icecast-to-hls/ngrp:AwaFM.stream/playlist.m3u8
+#EXTINF:-1,CFM Coromandel
+https://stream.cfm.co.nz/low
+#EXTINF:-1,Coast Access Radio
+https://live.accessmedia.nz/Coast.stream_aac/playlist.m3u8
+#EXTINF:-1,Coast Access Radio MP3
+https://live.accessmedia.nz/Coast.stream/playlist.m3u8
+#EXTINF:-1,Planet FM 104.6 - AAC
+https://live.accessmedia.nz/PlanetFM.stream_aac/playlist.m3u8
+#EXTINF:-1,Radio Hawkes Bay
+https://live.accessmedia.nz/Kidnappers.stream/playlist.m3u8
+#EXTINF:-1,Radio Yaraví
+https://tupanel.info/stream/radioyaravi/stream
+#EXTINF:-1,Bamtaare FM 103.4 Dodel
+https://stream.zeno.fm/n1mugn1am1duv
+#EXTINF:-1,Diassing FM 93.9 Marsassoum
+https://stream.zeno.fm/veaguaqvvk8uv
+#EXTINF:-1,Or FM 89.6 Orkadiéré
+https://stream.zeno.fm/gy7fpc2am1duv
+#EXTINF:-1,Timtimol FM 91.9 Ourossogui
+https://stream.zeno.fm/4yx608hnu1duv
+#EXTINF:-1,Helderberg FM
+https://helderberg.highquality.radiostream.co.za/

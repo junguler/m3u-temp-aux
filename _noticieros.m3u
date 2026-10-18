@@ -3,3 +3,19 @@
 https://24x7.red:42045/informa
 #EXTINF:-1, NOTICIAS Y DEPORTES 1330 (Los Ángeles) - 1330 AM - KWKW - Lotus Communications - Los Ángeles, California, EUA
 https://playerservices.streamtheworld.com/api/livestream-redirect/KWKWAMAAC.aac
+#EXTINF:-1,103.9 La Zamorana (Zamora) - 103.9 FM - XHEZM-FM - Cadena RASA - Zamora, Michoacán
+https://stream.zeno.fm/pscbnbk7sk8uv
+#EXTINF:-1,106.9 Radio Fórmula (Aguascalientes) - 106.9 FM - XHAC-FM - Radio Universal - Aguascalientes, Aguascalientes
+https://radioweb.stream/ags.ags/xhac.aac/icecast.audio
+#EXTINF:-1,COAHUILA HOY RADIO 102.5 (Saltillo) - 102.5 FM - XHSHT-FM - Grupo M Radio - Saltillo, Coahuila
+https://cast1.asurahosting.com/proxy/coahuilasaltillo/stream
+#EXTINF:-1,COAHUILA HOY RADIO 106.3 (Piedras Negras) - 106.3 FM - XHPSP-FM - Grupo M Radio - Piedras Negras, Coahuila
+https://cast1.asurahosting.com/proxy/coahuilapiedras/stream
+#EXTINF:-1,EL HERALDO RADIO 99.7 (MTY) - 99.7 FM - XHSP-FM - Heraldo Media Group - Monterrey, Nuevo León
+https://stream.radiojar.com/951bffq8h8nwv
+#EXTINF:-1,EL HERALDO RADIO: La "H" Que SÃ­ Suena ðŸ†•
+https://stream.radiojar.com/ce31v3yah8nwv
+#EXTINF:-1,LA JL 99.3 (Guamúchil) - 99.3 FM - XHJL-FM - Grupo Chávez Radio - Guamuchil, Sinaloa
+https://noticieroaltavoz.com:8443/listen/la_jl_(99.3)/radio.mp3
+#EXTINF:-1,MVS Noticias - 102.5 FM - XHMVS-FM - MVS Radio - Ciudad de México
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMVSFM_SC

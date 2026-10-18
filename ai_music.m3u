@@ -3,3 +3,5 @@
 https://stream.onlyai.fm/api/radio/stream?format=live
 #EXTINF:-1,Radio Olematu
 https://radio.olematu.ee/listen/radio_olematu/radio.mp3
+#EXTINF:-1,Radio Mango AI
+https://stream.radiomango.ai/listen/radio_mango_ai/radio.mp3

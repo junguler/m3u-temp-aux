@@ -11,3 +11,5 @@ https://dunkelhost.com:7800/stream
 https://svartkrog.stream.laut.fm/svartkrog
 #EXTINF:-1,rock.irk.ru :: main-mix
 https://live.rock.irk.ru/hls/main-mix/live.m3u8
+#EXTINF:-1,Almost Hell Radio
+https://almosthellradio.duckdns.org/listen/almost_hell_radio/radio.mp3

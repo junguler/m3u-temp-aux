@@ -15,3 +15,7 @@ https://nl4.mystreaming.net/er/moodyblues/icecast.audio
 https://c22.radioboss.fm:18364/stream
 #EXTINF:-1,Munck Music Radio
 https://streamer.radio.co/s4b5c8e335/listen
+#EXTINF:-1,Braintrip Radio
+https://stream.laut.fm/braintrip-radio
+#EXTINF:-1,Doble Nueve - Classic
+https://conectperu.com:7003/stream?icy=http

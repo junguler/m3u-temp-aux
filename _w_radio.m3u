@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,95.7 W Radio (Oaxaca) - 95.7 FM - XHCE-FM - Grupo Encuentro - Oaxaca, Oaxaca
+https://www.encuentroradiotv.com:8443/oaxaca957.mp3
+#EXTINF:-1,W RADIO 90.1 (San José Iturbide) - 90.1 FM - XHPSJI-FM - GlobalMedia - San José Iturbide, Guanajuato
+https://playradio.mx/proxy/los40jose?mp=/stream
+#EXTINF:-1,W Radio Ciudad de México - 96.9 FM / 900 AM - XEW-FM / XEW-AM - Radiópolis - Ciudad de México
+https://playerservices.streamtheworld.com/api/livestream-redirect/W_RADIOAAC.aac

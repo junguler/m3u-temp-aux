@@ -17,3 +17,11 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CARACOL_RADIOA
 https://ocb01.akacast.akamaistream.net/7/365/437903/v1/ibb.akacast.akamaistream.net/ocb01
 #EXTINF:-1,Radio Remix
 https://streams.loudspeaker.org/listen/remix/talk
+#EXTINF:-1,106.9 Radio Fórmula (Aguascalientes) - 106.9 FM - XHAC-FM - Radio Universal - Aguascalientes, Aguascalientes
+https://radioweb.stream/ags.ags/xhac.aac/icecast.audio
+#EXTINF:-1,LA HR 1090 (Puebla) - 1090 AM - XEHR-AM - Cinco Radio - Puebla, Puebla
+https://sg.centrocibernetico.com/lahr1090am
+#EXTINF:-1, Radio Fórmula 103.3 (CDMX) - 103.3 FM - XERFR-FM - Grupo Fórmula - Ciudad de México
+https://mdstrm.com/audio/6102ce7ef33d0b0830ec3adc/live.m3u8
+#EXTINF:-1,Radio Fórmula - 104.1 FM - XERFR-FM - Grupo Fórmula - Ciudad de México
+https://mdstrm.com/audio/61e1dfd2658baf082814e25d/live.m3u8

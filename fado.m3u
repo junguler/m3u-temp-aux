@@ -3,3 +3,7 @@
 https://ssl.ndvendas.eu:9538/stream.mp3/;
 #EXTINF:-1,Radio Art - Fado
 https://live.radioart.com/fFado.mp3
+#EXTINF:-1,Rádio Antena 1
+https://streaming-live.rtp.pt/liveradio/antena180a/chunklist.m3u8
+#EXTINF:-1,Radio Fado de Coimbra
+https://nl.digitalrm.pt:8048/stream

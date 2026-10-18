@@ -19,3 +19,7 @@ https://stream.revma.ihrhls.com/zc613/hls.m3u8
 https://stream.revma.ihrhls.com/zc613
 #EXTINF:-1,Z103 - Idaho's #1 Hit Music Channel (KFTZ)
 https://ice41.securenetsystems.net/KFTZ?playSessionID=CB8EA7EB-B9D3-DD0A-113945E93FD5A2A4
+#EXTINF:-1,Wave Radio 
+https://s2.ssl-stream.com/listen/wave_radio/radio.mp3
+#EXTINF:-1,VIBE Radio
+https://streamer.radio.co/s0c62f7351/listen

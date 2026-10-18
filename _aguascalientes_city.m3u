@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1,106.9 Radio Fórmula (Aguascalientes) - 106.9 FM - XHAC-FM - Radio Universal - Aguascalientes, Aguascalientes
+https://radioweb.stream/ags.ags/xhac.aac/icecast.audio
+#EXTINF:-1, ALTERNATIVA 98 98.1 (Aguascalientes) - 98.1 FM - XHNM-FM - Radio y Televisión de Aguascalientes - Aguascalientes, Aguascalientes
+https://streamingcwsradio30.com/8016/stream/1/;
+#EXTINF:-1, CONEXIÓN 92.7 (Aguascalientes) - 92.7 FM - XHCPDI-FM - Radio y Televisión de Aguascalientes - Aguascalientes, Aguascalientes
+https://streamingcwsradio30.com:7008/stream
+#EXTINF:-1,Conexión 92.7 (Aguascalientes) - 92.7 FM - XHCPDI-FM - Radio y Televisión de Aguascalientes - Aguascalientes, Aguascalientes
+https://streamingcwsradio30.com:7008/;
+#EXTINF:-1, ESTÉREO MENDEL 103.7 (Aguascalientes) - 103.7 FM - XHMR-FM - Instituto Mendel - Aguascalientes, Aguascalientes
+https://radioweb.stream/ags.ags/xhmr.aac/icecast.audio
+#EXTINF:-1, EXA FM 97.3 (Aguascalientes) - 97.3 FM - XHAGC-FM - Radio Universal - Aguascalientes, Aguascalientes
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHAGCAAC.aac
+#EXTINF:-1, LA MEJOR FM 93.7 (Aguascalientes) - 93.7 FM - XHAGT-FM - Radio Universal - Aguascalienteas, Aguascalientes
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHAGTAAC.aac
+#EXTINF:-1, LA PODEROSA 107.7 (Aguascalientes) - 107.7 FM - XHYZ-FM - Radiogrupo - Aguascalientes, Aguascalientes
+https://secure.radiorama.mx:2001/
+#EXTINF:-1, LA RANCHERA 106.1 (Aguascalientes) - 106.1 FM - XHLTZ-FM - Grupo Radiofónico ZER - Aguascalientes, Aguascalientes
+https://cast.zuperdns.net/8022/stream/
+#EXTINF:-1, LA SANMARQUEÑA 100.1 (Aguascalientes) - 100.1 FM - XHARZ-FM - Grupo Radiofónico ZER - Aguascalientes, Aguascalientes
+https://cast.zuperdns.net/8028/stream/
+#EXTINF:-1, LOS40 95.7 (Aguascalientes) - 95.7 FM - XHAGA-FM - Grupo Radiofónico ZER - Aguascalientes, Aguascalientes
+https://cast.zuperdns.net/8030/stream/
+#EXTINF:-1, RADIO FÓRMULA 106.9 (Aguascalientes) - 106.9 FM - XHAC-FM - Radio Universal - Aguascalientes, Aguascalientes
+https://hls.gvstream.live/radiouniversal/kebuena1400.stream/playlist.m3u8
+#EXTINF:-1, RADIO UAA 94.5 (Aguascalientes) - 94.5 FM - XHUAA-FM - UAA (Universidad Autónoma de Aguascalientes) - Aguascalientes, Aguascalientes
+https://streamingcwsradio30.com/8148/stream
+#EXTINF:-1,STEREOREY 100.9 (Aguascalientes) - 100.9 FM - XHCAA-FM - Radio Universal - AGuascalientes, Aguascalientes
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHCAAAAC.aac

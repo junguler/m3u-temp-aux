@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,104.1 LOS40 (Xalapa) - 104.1 FM - XHGR-FM - Cuatro Media Telecomunicaciones - Xalapa, Veracruz
+https://streaming.servicioswebmx.com/8138/stream
+#EXTINF:-1, DIGITAL 98.5 (Xalapa) - 98.5 FM - XHWA-FM - AvanRadio - Xalapa, Veracruz
+https://cast3.my-control-panel.com/proxy/xhtz?mp=/stream
+#EXTINF:-1,FIESTA 94 9 (Veracruz) - 94.9 FM - XHFM-FM - Grupo AvanRadio Radiorama - Veracruz, Veracruz
+https://secure.radiorama.mx:2184/
+#EXTINF:-1,La Inolvidable (Perote) - 101.1 FM - XHPER-FM - RRADIOTL, A.C. - Perote, VE
+https://streaming.servicioswebmx.com/8078/stream
+#EXTINF:-1,LA MÁQUINA 97.7 (Xalapa) - 97.7 FM - XHOT-FM - AvanRadio - Xalapa, Veracruz
+https://cast3.my-control-panel.com/proxy/xhot
+#EXTINF:-1,LA NETA 102.5 (Xalapa) - 102.5 FM - XHJA-FM - AvanRadio - Xalapa, Veracruz
+https://cast3.my-control-panel.com/proxy/xeja?mp=/stream
+#EXTINF:-1,MAGIA 93.7 (Xalapa) - 93.7 FM - XHKL-FM - AvanRadio - Xalapa, Veracruz
+https://cast3.my-control-panel.com/proxy/xekl?mp=/stream

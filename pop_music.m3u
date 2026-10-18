@@ -127,3 +127,43 @@ https://radio.esercito.difesa.it:8000/stream
 https://radiofresh.radioca.st/stream
 #EXTINF:-1,Radio International
 https://ice08.fluidstream.net/fluid813.mp3
+#EXTINF:-1,Radio Skyline
+https://rblive.it:8010/radio.mp3
+#EXTINF:-1,Radio Venere
+https://stream10.xdevel.com/audio0s977432-1994/stream/icecast.audio
+#EXTINF:-1,Rai Isoradio
+https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S3822289/9T4F68Q3TT4m/icecast
+#EXTINF:-1,Rai RadioDue
+https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S35942484/yp5F67151K92/icecast
+#EXTINF:-1,Rete Radio 
+https://reteradioazzurra.radioca.st/stream
+#EXTINF:-1,Radio R
+https://stream1.relaxfm.lt/rrb128.mp3
+#EXTINF:-1,ZIP FM
+https://stream1.zipfm.lt/zipfm128.mp3
+#EXTINF:-1,TOP radio
+https://topradio.live.advailo.com/topradio/mp3/icecast.audio
+#EXTINF:-1,Stereo Saltillo 93.5 FM
+https://mdstrm.com/audio/6737a5d1405919f792cf355e/icecast.audio?property=mmradio
+#EXTINF:-1,P24-7 Kos
+https://live-bauerno.sharp-stream.com/p247kos_no_hq?direct=true
+#EXTINF:-1,Radio Prestige 
+https://s3.slotex.pl/shoutcast/7076/stream?sid=1
+#EXTINF:-1,RMF MAXX Podlasie
+https://rs101-krk.rmfstream.pl/rmf_maxxx_lom
+#EXTINF:-1,Hiti FM
+https://n01.radiojar.com/u0yz7p0mb.mp3
+#EXTINF:-1,Radio Underland
+https://radio.underland.team/radio/8000/radio.mp3
+#EXTINF:-1,Kiss92
+https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92_SC
+#EXTINF:-1,RIX FM Fresh
+https://wr04-ice.stream.khz.se/wr04_mp3
+#EXTINF:-1,Genç FM
+https://yayin1.canlitv.fun/radyo/gencfm/chunklist_w1257533803.m3u8
+#EXTINF:-1,Radyo Venüs
+https://stream2.rtvtakip.com:7005/;stream.mp3
+#EXTINF:-1,Teos FM
+https://dinle2.teosfm.com:8358/0
+#EXTINF:-1,Galychyna
+https://stream320.galychyna.fm/WebSite

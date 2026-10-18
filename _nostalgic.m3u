@@ -9,3 +9,9 @@ https://fluxmusic.api.radiosphere.io/channels/2000er/stream.mp3?quality=10
 https://fluxmusic.api.radiosphere.io/channels/60s/stream.aac?quality=1
 #EXTINF:-1,FluxFM 60s | 64k MP3
 https://fluxmusic.api.radiosphere.io/channels/60s/stream.mp3?quality=1
+#EXTINF:-1,Medina FM Tarab (128 kbps)
+https://medinatarab.ice.infomaniak.ch/medinatarab-128.mp3
+#EXTINF:-1,Radio S Pop Ballads
+https://stream.radios.rs:9056/stream
+#EXTINF:-1,Radyo 45lik yeni
+https://stream.radyo45lik.com:4545/

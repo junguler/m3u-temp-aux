@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1,Pa ti Pati cumbia
 https://stream.zeno.fm/7cm28ptuhxhvv
+#EXTINF:-1,Radio Cumbia Mix
+https://mdstrm.com/audio/6598b6ab95a235085823b24f/icecast.audio
+#EXTINF:-1,Radio Moyobamba
+https://radioconector.com:7005/stream

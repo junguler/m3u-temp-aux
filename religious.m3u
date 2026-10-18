@@ -83,3 +83,29 @@ https://radiocast.cloud/listen/relays_villaimmacolata/radio.mp3
 https://www.radioinblu.it/live-stream/inblu2000-playlist.m3u8
 #EXTINF:-1,Radio Mater
 https://s2.shoutitaly.com/listen/radiomater/radio.mp3
+#EXTINF:-1,TBC Radio 88.5 FM
+https://stream.zeno.fm/004dvn2qqy5tv
+#EXTINF:-1,Latvijas Kristīgais Radio
+https://radio.lkr.lv/;?type=http&nocache=40
+#EXTINF:-1,https://live.reintregirea.ro
+https://live.reintregirea.ro/
+#EXTINF:-1,Radio Trinitas 88.5
+https://live.radiotrinitas.ro:8003/;stream.nsv
+#EXTINF:-1,Radio Vocea Speranței RVS
+https://live.rvs.ro/play
+#EXTINF:-1,107.9 Pearl Fm
+https://dc4.serverse.com/proxy/pearlfm/stream/1/
+#EXTINF:-1,Heart Xmas 
+https://media-ssl.musicradio.com/HeartXmas
+#EXTINF:-1,SBN 
+https://live.radio.sonlife.olympusatmedia.com/index.m3u8
+#EXTINF:-1,Sonlife Radio 
+https://storage.sardius.media/archives/Ea867F3e1F56B06/events/site_5F46D0A41C/playlist-eng.m3u8
+#EXTINF:-1,Trace Gospel
+https://c25.radioboss.fm:8130/4rm8tzo7qirtv
+#EXTINF:-1,CX 46 Radio America 
+https://america-2.nty.uy/stream
+#EXTINF:-1,Kairos FM Uruguay
+https://panel.streamenviron.com:8264/radiokairos
+#EXTINF:-1,Radio Nuevo Tiempo Uruguay
+https://streamradio.novotempo.com/CDN-RADIO-ES/smil:rntMontevideoUY.smil/playlist.m3u8

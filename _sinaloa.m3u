@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1,102.5 La Maxi (Los Mochis) - 102.5 FM - XHMAX-FM - Grupo Chávez Radio - Los Mochis, Sinaloa
+https://noticieroaltavoz.com:8443/listen/la_maxi_(102.5)/radio.mp3
+#EXTINF:-1,Exa FM Culiacán 101.7 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHESAAAC.AAC
+#EXTINF:-1,La 103 Los Mochis 103.9 FM
+https://streaming.soyradioinc.com/la103/stream
+#EXTINF:-1,La GS 104.7 FM Guasave
+https://noticieroaltavoz.com:8443/listen/la_gs_super_estacion_(104.7_fm)/radio.mp3
+#EXTINF:-1,La interesante 88.5 FM Los Mochis
+https://streaming.soyradioinc.com/lainteresante/stream
+#EXTINF:-1,La Interesante94.5 FM Guasave
+https://streaming.soyradioinc.com/guasave2/stream
+#EXTINF:-1,LA JL 99.3 (Guamúchil) - 99.3 FM - XHJL-FM - Grupo Chávez Radio - Guamuchil, Sinaloa
+https://noticieroaltavoz.com:8443/listen/la_jl_(99.3)/radio.mp3
+#EXTINF:-1,La Ke Buena el fuerte 98.5 FM
+https://streaming.soyradioinc.com/guasave/stream
+#EXTINF:-1,LA MAXI 92.1 (Guamúchil) - 92.1 FM - XHGML-FM - Grupo Chávez Radio - Guamuchil, Sinaloa
+https://noticieroaltavoz.com:8443/listen/la_maxi_gml_(92.1)/radio.mp3
+#EXTINF:-1,La Morrita 96.1 Los Mochis
+https://audiostreaming.luz.network/stream/19/;
+#EXTINF:-1,La Morrita 97.1 Mazatlán
+https://audiostreaming.luz.network/stream/11/;
+#EXTINF:-1,La RJ 105.1 Mazatlán
+https://hls.gvstream.live/gpm/rj.stream/playlist.m3u8
+#EXTINF:-1,Match Culiacán - 100.1 FM - XHCNA-FM - Grupo ACIR - Culiacán, SI
+https://14133.live.streamtheworld.com:443/XHCNAFM_SC
+#EXTINF:-1,Neo 94.1 HD3 Culiacán
+https://audiostreaming.luz.network/stream/9/;
+#EXTINF:-1,Radio 65 100.5 FM Los Mochis
+https://noticieroaltavoz.com:8443/listen/radio_65_(100.5_fm)/radio.mp3
+#EXTINF:-1,Radio UAS 96.1 Culiacï¿½ï¿½n
+https://stream9.mexiserver.com/8410/stream
+#EXTINF:-1,Siempre 100.3 HD4 Mazatlán
+https://audiostreaming.luz.network/stream/16/;
+#EXTINF:-1,Siempre 101.3 FM Los Mochis
+https://audiostreaming.luz.network/stream/4/;?type=http&nocache=936439

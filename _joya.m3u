@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1, JOYA 101.7 (Tuxtla) - 101.7 FM - XHVV-FM - Valanci Media Group - Tuxtla Gutiérrez, Chiapas
+https://stream.zeno.fm/extbc8p9na0uv
+#EXTINF:-1, JOYA 93.7 (CDMX) - 93.7 FM - XEJP-FM - Grupo Radio Centro - Ciudad de México
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEJP_FMAAC.aac
+#EXTINF:-1,JOYA 96.9 (Xalapa) - 96.9 FM - XHTZ-FM - Valanci Media Group - Xalapa, Veracruz
+https://playradio.mx/proxy/joya?mp=/stream
+#EXTINF:-1,Radio IN
+https://cast5.servcast.net/proxy/inter/stream

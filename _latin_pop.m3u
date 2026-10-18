@@ -47,3 +47,123 @@ https://cast10.plugstreaming.com:2020/stream/r1049/;
 https://stream.revma.ihrhls.com/zc4451/hls.m3u8
 #EXTINF:-1,Deejay Gasolina
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaygasolina/playlist.m3u8
+#EXTINF:-1,90.5 Estéreo Vida (Zihuatanejo) - 90.5 FM - XHZIH-FM - Radiorama - Zihuatanejo, Guerrero
+https://secure.radiorama.mx:2073/
+#EXTINF:-1,91.7 Exa FM (Tijuana) - 91.7 FM - XHGLX-FM - MVS Radio - Tijuana, Baja California
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHGLXAAC.aac
+#EXTINF:-1,+Acceso Total (Mexicali) - Online - www.eltoquefm.com - El Toque FM - Mexicali, Baja California
+https://us10a.serverse.com/proxy/acce8712?mp=/;
+#EXTINF:-1, ARROBA FM 101.7 (Piedras Negras) - 101.7 FM - XHCPN-FM - Radiorama Piedras Negras - Piedras Negras, Coahuila
+https://stream.zeno.fm/p7xefup9d78uv
+#EXTINF:-1, ARROBA FM 88.7 (GDL) - 88.7 FM - XHGDL-FM - Radiorama de Occidente - Guadalajara, Jalisco
+https://stream.zeno.fm/es06s1g9d78uv
+#EXTINF:-1,  ARROBA FM: Te Conecta
+https://stream.zeno.fm/6vtcayf9d78uv
+#EXTINF:-1, DIGITAL 101.5 (Reynosa) - 101.5 FM - XHAVO-FM - Radio United - Reynosa, Tamaulipas
+https://live.amperwave.net/manifest/rcomm-xhavofmaac-hlsc4.m3u8?source=v7player
+#EXTINF:-1,El Fonógrafo - 690 AM - XEN-AM - Grupo Radio Centro - Ciudad de México
+https://18853.live.streamtheworld.com:443/XEN_AM_SC
+#EXTINF:-1,EL FONÓGRAFO, Música las 24 horas (CDMX) - Online - Grupo Radio Centro - Ciudad de México
+https://26233.live.streamtheworld.com:443/XEJP_AMAAC.aac
+#EXTINF:-1,El Fonógrafo, Música las 24 horas (elfonografo.mx) - Online - Grupo Radio Centro - Ciudad de México
+https://14553.live.streamtheworld.com:443/XEJP_AM_SC
+#EXTINF:-1,Exa Ciudad Victoria 94.5 FM
+https://cast1.my-control-panel.com/proxy/exavictoria/stream
+#EXTINF:-1,Exa FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHEXA_SC
+#EXTINF:-1,EXA FM 99.3 (Mérida) - 99.3 FM - XHMRA-FM - MVS Radio - Mérida, Yucatán
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMRAAAC.aac
+#EXTINF:-1,Exa FM Ciudad del Carmen - 99.7 FM / 1070 AM - XHIT-FM / XEIT-AM - Radiorama - Ciudad del Carmen, Campeche
+https://ss1.audiorama.com.mx:6674/stream
+#EXTINF:-1,+Exclusively Bad Bunny
+https://streaming.exclusive.radio/er-app/badbunny/icecast.audio
+#EXTINF:-1,+Exclusively Shakira
+https://streaming.exclusive.radio/er-app/shakira/icecast.audio
+#EXTINF:-1,Flow: Reguetón & Pop Latino
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR26_S01AAC.m3u8
+#EXTINF:-1,FM Globo Monterrey - 88.1 FM - XHJM-FM - MVS Radio - Monterrey, NL
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHJMFM_SC
+#EXTINF:-1,Hits 106.1 FM Monterrey
+https://mdstrm.com/audio/67378c85b95cc90e1003e224/icecast.audio
+#EXTINF:-1, K 102.7 (Tequisquiapan) - 102.7 FM - XHPQUI-FM - Tequisquiapan, Querétaro
+https://stream3.mexiserver.com:10167/stream
+#EXTINF:-1,K Digital - 102.7 FM - XHPQUI-FM - Tequisquiapan, Querétaro
+https://stream3.mexiserver.com:10167/stream?type=http&nocache=842;
+#EXTINF:-1,La 103 Los Mochis 103.9 FM
+https://streaming.soyradioinc.com/la103/stream
+#EXTINF:-1,La Grande de Tabasco - 89.7 FM - XHVX-FM - Grupo VX - Comalcalco / Villahermosa, TB
+https://stream9.mexiserver.com:7024/
+#EXTINF:-1,La Nuestra (Navojoa) - 1270 AM - XEGL-AM - 642 Media - Navojoa, SO
+https://s5.mexside.net:8018/stream
+#EXTINF:-1,La Ola (Tuxpan) - 91.5 FM - XHTL-FM - Tuxpan, VE
+https://sp3.servidorrprivado.com:10972/
+#EXTINF:-1,LA V DE VICTORIA 104.1 (Ciudad Victoria) - 104.1 FM - XHRPV-FM - ORT Radio - Ciudad Victoria, Tamaulipas
+https://cast1.my-control-panel.com/proxy/lav/stream
+#EXTINF:-1, LOS40 100.5 (Delicias) - 100.5 FM - XHBZ-FM - Sigma Radio - Delicias, Chihuahua
+https://ssl.sigmaradio.stream:9004/stream
+#EXTINF:-1,Los40 Acapulco 102.3 FM
+https://streaming.servicioswebmx.com/8258/stream
+#EXTINF:-1,LOS40 Agua Prieta - 99.9 FM - XHNNO-FM - Grupo Radiofónico ZER - Agua Prieta, SO
+https://live.zuperdns.net/9990/stream/;stream.mp3
+#EXTINF:-1,Los40 Ciudad de México 101.7 FM (Stream alternativo)
+https://streaming.servicioswebmx.com/8220/stream
+#EXTINF:-1,LOS40 León - 93.1 FM - XHERZ-FM - Grupo Audiorama Comunicaciones  - León, GT
+https://ss1.audiorama.com.mx:6634/stream
+#EXTINF:-1,LOS40 León - 93.1 FM - XHERZ-FM - Grupo Audiorama Comunicaciones - León, GT
+https://ss1.audiorama.com.mx:6634/
+#EXTINF:-1,LOS40 Puebla - 98.7 FM - XHPBA-FM - Tribuna Comunicación - Puebla, Puebla
+https://stream.zeno.fm/g1hl4jzallnvv
+#EXTINF:-1,LOS40 Puerto Vallarta - 91.1 FM - XHPTOJ-FM - Radiópolis - Puerto Vallarta, JC
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_VALLARTA.mp3
+#EXTINF:-1,Máxima 100.9 FM Morelia
+https://mdstrm.com/audio/66a12d64d964f0fc279848a4/live.m3u8
+#EXTINF:-1, MAXIMA 88.5 (Veracruz) - 88.5 FM - XHIL-FM - Grupo RADIOSA - Veracruz, Veracruz
+https://mdstrm.com/audio/66a0112844d3c94ecf11dd96/live.m3u8
+#EXTINF:-1, MÁXIMA 88.5 (Veracruz) - 88.5 FM - XHIL-FM - Grupo RADIOSA - Veracruz, Veracruz
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/66a0112844d3c94ecf11dd96/playlist.m3u8
+#EXTINF:-1,Máxima 93.1 FM Coatzacoalcos
+https://mdstrm.com/audio/66a01c0328071626dc3e6971/live.m3u8
+#EXTINF:-1,Máxima 96.3 FM Hermosillo
+https://mdstrm.com/audio/66ad356de8f3b93d2da94362/live.m3u8
+#EXTINF:-1,Máxima 97.5 FM Cancún
+https://mdstrm.com/audio/66e9d6ccaefe12962688efb9/live.m3u8
+#EXTINF:-1,Máxima 97.7 FM Ciudad Obregón
+https://mdstrm.com/audio/66e9d6f5a8e915acd1a5090d/live.m3u8
+#EXTINF:-1,Máxima 98.9 FM Ciudad del Carmen
+https://mdstrm.com/audio/66a3e88f19acc1b9d1487ec0/live.m3u8
+#EXTINF:-1,Máxima FM 96.9 FM Tuxtla Gutiérrez
+https://mdstrm.com/audio/66be641cd9a22180390f882c/live.m3u8
+#EXTINF:-1, MEGA 96.3 (Los Ángeles) - 96.3 FM - KXOL-FM - Spanish Broadcasting System - Los Ángeles, California, EUA
+https://liveaudio.lamusica.com/LA_KXOL_icy
+#EXTINF:-1,Planeta 99.7 FM Los Mochis
+https://radios.blumhost.es/8128/;
+#EXTINF:-1,PREMIER 91.7 (Monterrey) - 91.7 FM - XHXL-FM - Grupo Radio Alegría - Monterrey, NL
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_917AAC.aac
+#EXTINF:-1,Radiante 98.3 FM Puerto Vallarta
+https://streamingcwsradio30.com:7034/;
+#EXTINF:-1, RADIO CAÑÓN 96.5 (Villahermosa) - 96.5 FM - XHOP-FM - Grupo Radio Cañón - Villahermosa, Tabasco
+https://streaming.servicioswebmx.com/8298/stream
+#EXTINF:-1,Radio Onda Latina
+https://eu8.fastcast4u.com/proxy/ondalatina?mp=/1
+#EXTINF:-1,Radio Sinaloa 94.5, 93.9 y 92.5
+https://stream20.usastreams.com/8156/stream
+#EXTINF:-1,SUPER (Mexicali) - 89.9 FM - XHSOL-FM - Grupo Audiorama Comunicaciones - Mexicali, BC
+https://ss1.audiorama.com.mx:6590/
+#EXTINF:-1,SUPER (Mexicali) - 89.9 FM - XHSOL-FM - Grupo Audiorama Comunicaciones  - Mexicali, BC
+https://ss1.audiorama.com.mx:6590/super
+#EXTINF:-1,Super Puerto Peñasco 93.5 FM
+https://cdn1.onstream.audio/proxy/xhita/stream
+#EXTINF:-1,Switch 105.9 Ciudad Juárez
+https://stream.zeno.fm/xgb5q6s71rhvv
+#EXTINF:-1,Vida (Acapulco) - 89.7 FM - XHKJ-FM - Grupo Audiorama Comunicaciones - Acapulco, GR
+https://ss1.audiorama.com.mx:6610/
+#EXTINF:-1,Radio Latin-Amerika
+https://stream.radiolatinamerika.no/latam_hq
+#EXTINF:-1,Frecuencia 100 101.9
+https://sp.oyotunstream.com/7066/;
+#EXTINF:-1,Panamericana Latino Refrescante
+https://mdstrm.com/audio/6598b76c6c07d80644b7321f/icecast.audio
+#EXTINF:-1,Radio 1550, La Radio Joven. Huancayo. 88.9 FM.
+https://streaming.virtugo.digital:8002/stream
+#EXTINF:-1,RFM LATINAS
+https://25693.live.streamtheworld.com/RFM_LATINASAAC.aac

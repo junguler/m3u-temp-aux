@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1,La Ke Buena 95.9 FM Puerto Vallarta
+https://playradio.mx/proxy/kebuenav?mp=/stream
+#EXTINF:-1,La Ke Buena Puerto Vallarta - 95.9 FM - XHCJU-FM - GlobalMedia - Puerto Vallarta, JC
+https://kebuenavalla.b-cdn.net/stream
+#EXTINF:-1,La Ke Buena San Luis Potosí - 105.7 FM - XHBM-FM - GlobalMedia - San Luis Potosí, SL
+https://kebuenaslp.b-cdn.net/stream
+#EXTINF:-1,La Q cadereita 93.5 FM
+https://playradio.mx/proxy/qcaderyta?mp=/stream
+#EXTINF:-1,La Q San Luis Potosí 95.7 FM
+https://la-q.b-cdn.net/stream
+#EXTINF:-1,LOS40 Puerto Vallarta - 91.1 FM - XHPTOJ-FM - Radiópolis - Puerto Vallarta, Jalisco
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_VALLARTAAAC.aac
+#EXTINF:-1,LOS40 San Luis Potosí - 103.9 FM - XHEWA-FM - GlobalMedia - San Luis Potosí, SL
+https://los40.b-cdn.net/stream
+#EXTINF:-1,LOS40 San Luis Potosí - 540 AM - XEWA-AM - GlobalMedia - San Luis Potosí, SL
+https://playradio.mx/proxy/los40?mp=/stream
+#EXTINF:-1, VOX FM Radio Hits 96.9 (San Luis Potosí) - 96.9 FM - XHOD-FM - Global Media - San Luis Potosí, San Luis Potosí
+https://voxfm.b-cdn.net/stream
+#EXTINF:-1, W RADIO 100.1 (San Luis Potosí) - 100.1 FM - XHPM-FM - GlobalMedia - San Luis Potosí, San Luis Potosí
+https://wradio.b-cdn.net/stream
+#EXTINF:-1, W RADIO 107.9 (Querétaro) - 107.9 FM - XHQG-FM - Global Media - Querétaro, Querétaro
+https://playradio.mx/proxy/xhqg?mp=/stream
+#EXTINF:-1, W RADIO 90.3 (Puerto Vallarta) - 90.3 FM - XHPVA-FM - GlobalMedia - Puerto Vallarta, Jalisco
+https://playradio.mx/proxy/wvallarta?mp=/stream

@@ -67,3 +67,19 @@ https://radio.dominiserver.com/proxy/topurbano?mp=/stream
 https://tiktokhits.funstream.net/listen/tiktokhits/radio.aac
 #EXTINF:-1,Radio Elleuno
 https://stream.radioelleuno.it/radio/8030/web.mp3
+#EXTINF:-1,United Hip Hop
+https://icy.unitedradio.it/um049.mp3
+#EXTINF:-1,Flava
+https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_08AAC.aac
+#EXTINF:-1,Tahu FM
+https://icast1.streamcom.net/TahuFM
+#EXTINF:-1,cidade hiphop
+https://stream-hls.bauermedia.pt/cidhiphop.aac/playlist.m3u8
+#EXTINF:-1,Radio Greu De Difuzat
+https://greudedifuzat.ro/stream/
+#EXTINF:-1,Urban FM
+https://urbanfm.ro:8777/live
+#EXTINF:-1,Virgin Radio Romania
+https://astreaming.edi.ro:8443/VirginRadio_aac
+#EXTINF:-1,PowerTürk Rap
+https://live.powerapp.com.tr/powerturkrap/abr/playlist.m3u8

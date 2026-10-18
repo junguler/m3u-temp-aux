@@ -1,3 +1,13 @@
 #EXTM3U
 #EXTINF:-1,FM FAMA 97.7
 https://s9.myradiostream.com/:46498/stream
+#EXTINF:-1, KISS FM 97.7 (Mérida) - 97.7 FM - XHGL-FM - Grupo SIPSE Radio - Mérida, Yucatán
+https://cast4.my-control-panel.com/proxy/televis4/kiss977
+#EXTINF:-1,LA MÁQUINA 97.7 (Xalapa) - 97.7 FM - XHOT-FM - AvanRadio - Xalapa, Veracruz
+https://cast3.my-control-panel.com/proxy/xhot
+#EXTINF:-1,  LA MEJOR: ¡Aquí Nomás!
+https://playerservices.streamtheworld.com/api/livestream-redirect/XERCFMAAC.aac
+#EXTINF:-1,LOS40 Tampico - 97.7 FM - XHRW-FM - Grupo AS Comunicación - Tampico, Tamaulipas
+https://stream.zeno.fm/10qjwgihzqavv
+#EXTINF:-1, SOL STEREO 97.7 (Chetumal) - 97.7 FM - XHWO-FM - Grupo Sol Comunicaciones - Chetumal, Quintana Roo
+https://securestream.mxradio.xyz/chetumal/

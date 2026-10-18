@@ -1,3 +1,19 @@
 #EXTM3U
 #EXTINF:-1, La Top 102.9 FM - San Pedro Sula, Honduras
 https://us9.maindigitalstream.com/ssl/latop102
+#EXTINF:-1,102.9 Buenavista Radio (Ciudad Valles) - 102.9 FM - XHCSBY-FM - Medios Digitales Culturales de la Huasteca, A.C. - Ciudad Valles, San Luis Potosí
+https://cast1.asurahosting.com/proxy/bnavista/stream
+#EXTINF:-1, BUENAVISTA RADIO 102.9 (Ciudad Valles) - 102.9 FM - XHCSBY-FM - Medios Digitales Culturales de la Huasteca, A.C. - Ciudad Valles, San Luis Potosí
+https://cast1.asurahosting.com/proxy/bnavista/;
+#EXTINF:-1, DIGITAL 102.9 (MTY) - 102.9 FM - XHMG-FM - Grupo Radio Alegría - Monterrey, Nuevo León
+https://playerservices.streamtheworld.com/api/livestream-redirect/DIGITAL_1029FMAAC.aac
+#EXTINF:-1,EXA FM 102.9 (Tehuacán) - 102.9 FM - XHWJ-FM - Radio TH Comunicación - Tehuacán, Puebla
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHWJ_EXAAAC.aac
+#EXTINF:-1, LA KALIENTE 102.9 (Aguascalientes) - 102.9 FM - XHEY-FM - Grupo Radiofónico ZER - Aguascalientes, Aguascalientes
+https://cast.zuperdns.net/8024/stream/
+#EXTINF:-1,Ultra (Tulancingo) - 102.9 FM - XHTNO-FM - Grupo ULTRA - Tulancingo, Hidalgo
+https://icecastultra.duckdns.org/livetul
+#EXTINF:-1, W RADIO 102.9 (Toluca) - 102.9 FM - XHTOL-FM - Grupo Radio Cañón - Toluca, Estado de México
+https://streaming.servicioswebmx.com/8268/stream
+#EXTINF:-1, YA! FM 102.9 (Veracruz) - 102.9 FM - XHTS-FM - Grupo Pazos - Veracruz, Veracruz
+https://sgaudio.centrocibernetico.com/yafmveracruz

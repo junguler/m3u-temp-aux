@@ -1,3 +1,17 @@
 #EXTM3U
 #EXTINF:-1,RADIO GLOBO 88.5 MHZ
 https://api.condoristream.com/stream/radioglobo
+#EXTINF:-1,104.5 Vida Romántica (Durango) - 104.5 FM - XHDRD-FM - Radiorama Durango - Durango, Durango
+https://stream-159.zeno.fm/g1c3rka6dkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnMWMzcmthNmRraHZ2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiOVpYS1h4cjFTUDJSX0toTVFfd1ZYQSIsImlhdCI6MTc3MzAxMDY1NywiZXhwIjoxNzczMDEwNzE3fQ.lCqGETaxJIL72T3Vp4ydZTfw8drN9YlsXNASsmNlZXc
+#EXTINF:-1, AMOR ES 104.5 (Aguascalientes) - 104.5 FM - XHDC-FM - Grupo Radiofónico ZER - Aguascalientes, Aguascalientes
+https://cast.zuperdns.net/8026/stream/
+#EXTINF:-1, KY 104.5 (MTY) - 104.5 FM - XHMF-FM - Grupo Audiorama Comunicaciones - Monterrey, Nuevo León
+https://cdn1.onstream.audio/proxy/xhmf/stream
+#EXTINF:-1, LA COMADRE 104.5 (Pachuca) - 104.5 FM - XHRD-FM - Grupo ACIR - Pachuca, Hidalgo
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHRDAAC.aac
+#EXTINF:-1, RADIO LATINA 104.5 (Tijuana) - 104.5 FM - XHLTN-FM - Grupo Imagen - Tijuana, Baja California
+https://mdstrm.com/audio/698f8c71e9899b0d0ceab9c0/live.m3u8
+#EXTINF:-1, VIDA ROMÁNTICA 104.5 (Durango) - 104.5 FM - XHDRD-FM - Radiorama Durango - Durango, Durango
+https://stream-159.zeno.fm/g1c3rka6dkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnMWMzcmthNmRraHZ2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiX3FxUjFzeHFTMFN3VmNSN2ZYenIyUSIsImlhdCI6MTc2ODQ0NjI4NiwiZXhwIjoxNzY4NDQ2MzQ2fQ.skZKk-1fmvCvkTqgcdwkkhFhkmbcS2KpmCck3PeppWk
+#EXTINF:-1, W RADIO 104.5 (Córdoba) - 104.5 FM - XHEVC-FM - Grupo Radio Cañón - Córdoba, Veracruz
+https://streaming.servicioswebmx.com/8262/stream

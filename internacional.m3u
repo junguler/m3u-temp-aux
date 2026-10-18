@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1,Alvorada FM 94,9 Mhz ZYC708 (Belo Horizonte - MG)
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALVORADAAAC.aac
+#EXTINF:-1,tilderadio
+https://tilderadio.org/listen

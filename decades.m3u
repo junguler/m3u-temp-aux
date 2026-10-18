@@ -31,3 +31,11 @@ https://totaal-streaming.de:8030/radio2
 https://hls-01-radiorecord.hostingradio.ru/record-1980/playlist.m3u8
 #EXTINF:-1,Kiss 98
 https://s6.onweb.gr:7029/stream.mp3
+#EXTINF:-1,Levelhits
+https://radio.pjcks.com/7234/stream
+#EXTINF:-1,Radio TOP80
+https://top80.pl:8000/listen.mp3
+#EXTINF:-1,Radio ZET - 2000
+https://zt04.cdn.eurozet.pl/ZET200.mp3
+#EXTINF:-1,East Coast Gold
+https://live.ecr.co.za/ecrgoldhigh.mp3

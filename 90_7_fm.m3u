@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,KY (Magdalena de Kino) - 90.7 FM - XHLDC-FM - Grupo Audiorama Comunicaciones - Magdalena de Kino, Sonora
+https://ss1.audiorama.com.mx:6620/stream
+#EXTINF:-1, LA MEJOR FM 90.7 (Tijuana) - 90.7 FM - XHTIM-FM - MVS Radio - Tijuana, Baja California
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHTIMAAC.aac
+#EXTINF:-1,Señal 90 - 90.7 FM - XHOY-FM - Grupo Unidifusión - Guadalajara, Jalisco
+https://s2.yesstreaming.net:17042/stream

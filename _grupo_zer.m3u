@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1,Amor es 95.1 FM Ciudad Guzmán
+https://cast.zuperdns.net/9510/stream/;stream.mp3?nochache=0.3735909454220301
+#EXTINF:-1, ARANDAS FM 107.3 (Arandas) - 107.3 FM - XHARDJ-FM - Grupo Radiofónico ZER - Arandas, Jalisco
+https://live.zuperdns.net/1073/stream
+#EXTINF:-1, CAXCÁN FM 95.1 (Jalpa) - 95.1 FM - XHJRS-FM - Grupo Radiofónico ZER - Jalpa, Zacatecas
+https://cast.zuperdns.net/8008/stream/;stream.mp3?nochache=0.3141970676706438
+#EXTINF:-1, DIGITAL 106.5 (Zacatecas) - 106.5 FM - XHLK-FM - Grupo Radiofónico ZER - Zacatecas, Zacatecas
+https://cast.zuperdns.net/8020/stream/
+#EXTINF:-1, EL KUINO 96.1 (La Piedad) - 96.1 FM - XHPLPM-FM - Grupo Radiofónico ZER - La Piedad, Michoacán
+https://live.zuperdns.net/1961/stream
+#EXTINF:-1, LA RANCHERA 106.1 (Aguascalientes) - 106.1 FM - XHLTZ-FM - Grupo Radiofónico ZER - Aguascalientes, Aguascalientes
+https://cast.zuperdns.net/8022/stream/
+#EXTINF:-1,La Rancherita 106.3 FM Ciudad Guzmán
+https://live.zuperdns.net/2063/stream/;stream.mp3
+#EXTINF:-1,La Tremenda 103.9 FM Zacoalco
+https://live.zuperdns.net/4006/stream/;stream.mp3
+#EXTINF:-1,La Tremenda (Fresnillo) - 98.5 FM - XHYQ-FM - Grupo Radiofónico ZER - Fresnillo, ZA
+https://cast.zuperdns.net/8004/stream/
+#EXTINF:-1,Radio Jerez (Jerez) - 89.1 FM - XHXM-FM - Grupo Radiofónico ZER - Jerez, ZA
+https://cast.zuperdns.net/8016/stream/
+#EXTINF:-1,San Juan FM 96.1 San Juan de los lagos
+https://live.zuperdns.net/6961/stream/;stream.mp3
+#EXTINF:-1, ZER RADIO 1320 (CDMX) - 1320 AM - XEARZ-AM - Grupo Radiofónico ZER - Ciudad de México
+https://cast.zuperdns.net/8032/stream

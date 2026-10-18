@@ -17,3 +17,19 @@ https://radio.dominiserver.com/proxy/miss104fm?mp=/stream
 https://cast20.plugstreaming.com:2020/stream/r981/;
 #EXTINF:-1,Deejay Gasolina
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaygasolina/playlist.m3u8
+#EXTINF:-1,93.1 Love FM (Hermosillo) - 93.1 FM - XHEPB-FM - Grupo RADIO SA - Hermosillo, Sonora
+https://mdstrm.com/audio/66b0f440b47ad3416c6a654a/live.m3u8
+#EXTINF:-1,EXA FM 99.3 (Mérida) - 99.3 FM - XHMRA-FM - MVS Radio - Mérida, Yucatán
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMRAAAC.aac
+#EXTINF:-1,Flow: Reguetón & Pop Latino
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR26_S01AAC.m3u8
+#EXTINF:-1,La 103 Los Mochis 103.9 FM
+https://streaming.soyradioinc.com/la103/stream
+#EXTINF:-1,Máxima 97.7 FM Ciudad Obregón
+https://mdstrm.com/audio/66e9d6f5a8e915acd1a5090d/live.m3u8
+#EXTINF:-1, MEGA 96.3 (Los Ángeles) - 96.3 FM - KXOL-FM - Spanish Broadcasting System - Los Ángeles, California, EUA
+https://liveaudio.lamusica.com/LA_KXOL_icy
+#EXTINF:-1,Rclasicos 96.9 FM
+https://s5.mexside.net:8100/stream
+#EXTINF:-1,La Kalle 96.1
+https://lakalle.egostreaming.pe/radio/a7b9c3e4567f8d0123456789/

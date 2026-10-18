@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1,无锡新闻综合广播FM93.7
 https://lhttp.qtfm.cn/live/2777/64k.mp3
+#EXTINF:-1,La Mejor Aguascalientes - 93.7 FM - XHAGT-FM - Radio Universal - Aguascalienteas, AG
+https://hls.gvstream.live/radiouniversal/lamejor937.stream/playlist.m3u8

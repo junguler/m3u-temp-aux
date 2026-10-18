@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,Globo 98.7 (Guadalajara) - 98.7 FM - XHLC-FM - MVS Radio - Guadalajara, Jalisco
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHLCFMAAC.aac
+#EXTINF:-1,La Zeta (Hermosillo) - 93.9 FM - XHMV-FM - Uniradio - Hermosillo, Sonora
+https://streamingcwsradio30.com:7027/stream?type=http&nocache=1
+#EXTINF:-1,Radio 65 100.5 FM Los Mochis
+https://noticieroaltavoz.com:8443/listen/radio_65_(100.5_fm)/radio.mp3

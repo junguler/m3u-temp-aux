@@ -17,3 +17,7 @@ https://signalcity.tv/mythic.mp3
 https://icecast.walmradio.com:8443/otr
 #EXTINF:-1,WALM - Old Time Radio Opus
 https://icecast.walmradio.com:8443/otr_opus
+#EXTINF:-1,Rádio Litera
+https://icecast.stv.livebox.sk/litera_128.mp3
+#EXTINF:-1,Rádio Pyramída
+https://icecast.stv.livebox.sk/klasika_128.mp3

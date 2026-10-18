@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,CLASSIC 93.9 (Torreón) - 93.9 FM - XHWN-FM - Multimedios Radio - Torreón, Coahuila
+https://mdstrm.com/audio/67378091f22f160aaf4c34b1/icecast.audio
+#EXTINF:-1, KISS FM 89.1 (Torreón) - 89.1 FM - XHETB-FM - Grupo Horizonte Lagunero / Multimundo Radio - Torreón, Coahuila
+https://cento02.mipanelradio.com/proxy/adomin02?mp=/stream
+#EXTINF:-1,LA LUPE 99.9 (Torreón) - 99.9 FM - XHETOR-FM - Multimedios Radio - Torreón, Coahuila
+https://mdstrm.com/audio/672cf292e81d90ed336e1e86/icecast.audio
+#EXTINF:-1,LA PERLA 99.1 (Torreón) - 99.1 FM - XHCCAW-FM - Grupo Horizonte Lagunero - Torreón, Coahuila
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHCCASAAC.aac

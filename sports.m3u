@@ -173,3 +173,15 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KCSFAMAAC.aac
 https://sportfm.live24.gr/sportfm7712
 #EXTINF:-1,Nemzeti Sportrádió
 https://icast.connectmedia.hu/4657/mr11.mp3
+#EXTINF:-1,Sport Nation - AAC
+https://sen.streamguys1.com/SENZ-AAC/playlist.m3u8
+#EXTINF:-1,RPP Mundial
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5faee885eb830d06cf22ed4a/playlist.m3u8?listeningSessionID=636caa560fe65225_1005617_y9ORJb3Z__0000001ATBc&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=R0YDAgaCoCna5VhlmeSkEilXCeaz9BmW&sid=1OoLSrd1pEQN1qdcGRZwIs6kaDEDCse4&pid=LbnY5aQEpPclOhLeiCC5KkywxPJ6fKyG&ref=audioplayer.pe&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1669157542833&ot=WNEzttzLwoMwo5R84PAaRA&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&aw_0_1st.playerId=audioplayer_web&liveId=5faee885eb830d06cf22ed4a&referer=https%3A%2F%2Faudioplayer.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=v0.0.199
+#EXTINF:-1,Radio Stara Carsija
+https://radio.dukahosting.com/8026/;
+#EXTINF:-1,Free Sports Radio 
+https://stream.zeno.fm/31nnibfpnxktv
+#EXTINF:-1,Talksport 
+https://radio.talksport.com/stream?aw_0_1st.platform=website&aw_0_1st.playerid=wireless-website&aw_0_req.gdpr=true&aw_0_awz.listenerid=#ADVERTISINGID&_=383957
+#EXTINF:-1,Carve Deportiva
+https://streamingcasazorrilla.innovanexo.com:8000/carvedeportiva.mp3

@@ -17,3 +17,71 @@ https://cast20.plugstreaming.com:2020/stream/r981/;
 https://cloudstream2032.conectarhosting.com/8312/stream
 #EXTINF:-1,Free FM Bombay
 https://rocafmadrid.radioca.st/
+#EXTINF:-1,100.1 Hits (Huajuapan) - 100.1 FM - XHPHUA-FM - Enza Telecom - Huajuapan de León, Oaxaca
+https://stream.zeno.fm/1ozriqxnwr0uv
+#EXTINF:-1,104.9 La Lupe (San Luis Potosí) - 104.9 FM - XHCZ-FM - Multimedios Radio - San Luis Potosí, San Luis Potosí
+https://mdstrm.com/audio/6737a424ecba1df74a06e49e/icecast.audio
+#EXTINF:-1,89.5 La Lupe (Fortín) - 89.5 FM - XHFTI-FM - Multimedios Radio - Fortín de las Flores, Veracruz
+https://mdstrm.com/audio/672cec266ac145ede1027a7b/icecast.audio
+#EXTINF:-1,90.5 Estéreo Vida (Zihuatanejo) - 90.5 FM - XHZIH-FM - Radiorama - Zihuatanejo, Guerrero
+https://secure.radiorama.mx:2073/
+#EXTINF:-1,93.1 Love FM (Hermosillo) - 93.1 FM - XHEPB-FM - Grupo RADIO SA - Hermosillo, Sonora
+https://mdstrm.com/audio/66b0f440b47ad3416c6a654a/live.m3u8
+#EXTINF:-1,96.3 Cabo Mil Radio (Los Cabos) - 96.3 FM - XHSJS-FM - San José del Cabo, Baja California
+https://s2.radio.co/s77395f3d5/listen
+#EXTINF:-1,AMOR 100.1 (Mérida) - 100.1 FM - XHYU-FM - Grupo SIPSE Radio - Mérida, Yucatán
+https://webprod.sipse.com.mx:8080/amor
+#EXTINF:-1,COAHUILA HOY RADIO 106.3 (Piedras Negras) - 106.3 FM - XHPSP-FM - Grupo M Radio - Piedras Negras, Coahuila
+https://cast1.asurahosting.com/proxy/coahuilapiedras/stream
+#EXTINF:-1,Conexión 92.7 (Aguascalientes) - 92.7 FM - XHCPDI-FM - Radio y Televisión de Aguascalientes - Aguascalientes, Aguascalientes
+https://streamingcwsradio30.com:7008/;
+#EXTINF:-1, EL FONÓGRAFO - 690 AM - XEN-AM - Grupo Radio Centro - Ciudad de México
+https://26423.live.streamtheworld.com:443/XEN_AMAAC.aac
+#EXTINF:-1,  EL FONÓGRAFO: Música Ligada a tu Recuerdo
+https://19263.live.streamtheworld.com:443/XEN_AMAAC.aac
+#EXTINF:-1,El y Ella 103.7 FM
+https://radios.radiohd.com.mx/8272/;
+#EXTINF:-1,estéreo vida 95.3 Tepic
+https://stream.zeno.fm/xx20nxypu98uv
+#EXTINF:-1, JOYA 93.7 (CDMX) - 93.7 FM - XEJP-FM - Grupo Radio Centro - Ciudad de México
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEJP_FMAAC.aac
+#EXTINF:-1,JOYA 96.9 (Xalapa) - 96.9 FM - XHTZ-FM - Valanci Media Group - Xalapa, Veracruz
+https://playradio.mx/proxy/joya?mp=/stream
+#EXTINF:-1,La 103 Los Mochis 103.9 FM
+https://streaming.soyradioinc.com/la103/stream
+#EXTINF:-1,LA LUPE 100.9 (Xalapa) - 100.9 FM - XHALAPA-FM - Multimedios Radio - Xalapa, Veracruz
+https://mdstrm.com/audio/672cf91376b5a6eeae594b58/icecast.audio
+#EXTINF:-1,LA LUPE 105.3 (MTY) - 105.3 FM - XHLUPE-FM - Multimedios Radio - Monterrey, Nuevo León
+https://mmradio-lb.mmlabs.mx/xhlupefm
+#EXTINF:-1,LA LUPE 88.3 (Tepic) - 88.3 FM - XHPCTN-FM - Multimedios Radio - Tepic, Nayarit
+https://mdstrm.com/audio/672cfce4fdabb2c0423a9937/icecast.audio
+#EXTINF:-1,LA LUPE 94.7 (Ensenada) - 94.7 FM - XHPENS-FM - Multimedios Radio - Ensenada, Baja California
+https://mdstrm.com/audio/672ce72c8997d8ee6a17c240/icecast.audio
+#EXTINF:-1,LA LUPE 99.9 (Torreón) - 99.9 FM - XHETOR-FM - Multimedios Radio - Torreón, Coahuila
+https://mdstrm.com/audio/672cf292e81d90ed336e1e86/icecast.audio
+#EXTINF:-1,LA V DE VICTORIA 104.1 (Ciudad Victoria) - 104.1 FM - XHRPV-FM - ORT Radio - Ciudad Victoria, Tamaulipas
+https://cast1.my-control-panel.com/proxy/lav/stream
+#EXTINF:-1,Máxima 97.7 FM Ciudad Obregón
+https://mdstrm.com/audio/66e9d6f5a8e915acd1a5090d/live.m3u8
+#EXTINF:-1, MEGA 96.3 (Los Ángeles) - 96.3 FM - KXOL-FM - Spanish Broadcasting System - Los Ángeles, California, EUA
+https://liveaudio.lamusica.com/LA_KXOL_icy
+#EXTINF:-1, RETRO FM 93.9 (Ciudad del Carmen) - 93.9 FM - XHPMEN-FM - Grupo Audiorama Comunicaciones - Ciudad del Carmen, Campeche
+https://ss1.audiorama.com.mx:6572/
+#EXTINF:-1,ROMÁNTICA 93.1 (San Luis Potosí) - 93.1 FM - XHEI-FM - Grupo AS Comunicación / Radiorama - San Luis Potosí, San Luis Potosí
+https://stream.zeno.fm/uzejcai7evcvv
+#EXTINF:-1,Siempre 100.3 HD4 Mazatlán
+https://audiostreaming.luz.network/stream/16/;
+#EXTINF:-1,VIDA 1370 (Mexicali) - 1370 AM - XEHG-AM - Grupo Audiorama Comunicaciones - Mexicali, Baja California
+https://sg.centrocibernetico.com/audiorama-xehg
+#EXTINF:-1,VIDA 89.7 (Acapulco) - 89.7 FM - XHKJ-FM - Grupo Audiorama Comunicaciones - Acapulco, Guerrero
+https://sg.centrocibernetico.com/audiorama-xhkj
+#EXTINF:-1,VIDA ROMÁNTICA 99.3 (Tampico) - 99.3 FM - XHETU-FM - Radio Resultados - Tampico, Tamaulipas
+https://stream-285.surfernetwork.com/621e7h6zfkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2MjFlN2g2emZraHZ2IiwiaG9zdCI6InN0cmVhbS0yODUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlloSTNubjdlUngtTk9qclF6RDZ6VFEiLCJpYXQiOjE3OTA2NzIwODksImV4cCI6MTc5MDY3MjE0OX0.Q7cDkwzF-BXJmUsBb0VN9yiK6Wf7PiyKa7n0u_CES1s
+#EXTINF:-1,WAÖH 95.3 (San Luis Potosí) - 95.3 FM - XHNB-FM - Cadena RASA - San Luis Potosí, San Luis Potosí
+https://stream.zenolive.com/be10ijonibvuv
+#EXTINF:-1,Zona 5 93.3
+https://panel.innovatestream.pe:10975/stream
+#EXTINF:-1,Radio IN
+https://cast5.servcast.net/proxy/inter/stream
+#EXTINF:-1,Causes FM 89.1
+https://streaming.radiosenlinea.com.ar/8870/stream

@@ -13,3 +13,9 @@ https://fluxmusic.api.radiosphere.io/channels/indiedisco/stream.mp3?quality=1
 https://playerservices.streamtheworld.com/api/livestream-redirect/GIRLPOWER.mp3
 #EXTINF:-1,HappyHardcore.com
 https://www.happyhardcore.com/livestreams/p/u9/
+#EXTINF:-1,Radio Sunbeat
+https://stream.rcs.revma.com/5tbxc6f39yuvv
+#EXTINF:-1,Radio S Gym
+https://stream.radios.rs:9068/stream
+#EXTINF:-1,Radio S Sport
+https://stream.radios.rs:9078/stream

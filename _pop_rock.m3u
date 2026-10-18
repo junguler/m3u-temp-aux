@@ -305,3 +305,161 @@ https://s9.webradio-hosting.com/proxy/radiolat/stream
 https://lucrethia.mynet.it:8040/stream
 #EXTINF:-1,Radio Quadrifoglio
 https://audio.nemostream.tv/proxy/quadrifoglio/stream
+#EXTINF:-1,RTR 99 Canale Pooh
+https://rtr99.fluidstream.eu/rtr99_pooh.mp3
+#EXTINF:-1,RTR 99 Radio Pop e Rock
+https://rtr99.fluidstream.eu/rtr99_poprock.mp3
+#EXTINF:-1,Virgin Radio Italy
+https://icy.unitedradio.it/Virgin.mp3
+#EXTINF:-1,Virgin Radio Rock Hits
+https://icy.unitedradio.it/VirginRockHits.mp3
+#EXTINF:-1,Virgin Radio Rockstar: Queen
+https://icy.unitedradio.it/Virgin_05.mp3
+#EXTINF:-1,Ð–Ð°Ò£Ð° Rock
+https://live.zhanafm.kz:8443/zhanarock
+#EXTINF:-1,100.1 Hits (Huajuapan) - 100.1 FM - XHPHUA-FM - Enza Telecom - Huajuapan de León, Oaxaca
+https://stream.zeno.fm/1ozriqxnwr0uv
+#EXTINF:-1,101.1 Exa FM (Monclova) - 101.1 FM - XHWGR-FM - NRT México - Monclova, Coahuila
+https://radio.nrt-environment.com/hls/exa101/exa.m3u8
+#EXTINF:-1,101.7 Soy FM (Coatzacoalcos) - 101.7 FM - XHTD-FM - Valanci Media Group - Coatzacoalcos, Veracruz
+https://stream-158.zeno.fm/6f2bace3gd0uv
+#EXTINF:-1,102.1 Exa FM (San Luis Potosí) - 102.1 FM - XHESL-FM - MG Radio - San Luis Potosí, San Luis Potosí
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHESLAAC.aac
+#EXTINF:-1,104.9 Studio (Ciudad Obregón) - 104.9 FM - XHESO-FM - Radiorama Sonora - Ciudad Obregón, Sonora
+https://stream.freepi.io/8406/live
+#EXTINF:-1,88.9 Radar (León) - 88.9 FM - XHXV-FM - Grupo Radar - León, Guanajuato
+https://radios.radiohd.com.mx/8382/leon
+#EXTINF:-1,89.3 VOX FM Radio Hits (Tampico) - 89.3 FM - XHTOT-FM - Grupo Radio Cañón - Tampico, Tamaulipas
+https://streaming.servicioswebmx.com/8280/stream
+#EXTINF:-1,90.5 Estéreo Vida (Zihuatanejo) - 90.5 FM - XHZIH-FM - Radiorama - Zihuatanejo, Guerrero
+https://secure.radiorama.mx:2073/
+#EXTINF:-1,91.7 Exa FM (Tijuana) - 91.7 FM - XHGLX-FM - MVS Radio - Tijuana, Baja California
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHGLXAAC.aac
+#EXTINF:-1,93.1 Love FM (Hermosillo) - 93.1 FM - XHEPB-FM - Grupo RADIO SA - Hermosillo, Sonora
+https://mdstrm.com/audio/66b0f440b47ad3416c6a654a/live.m3u8
+#EXTINF:-1,Almost Hell Radio
+https://almosthellradio.duckdns.org/listen/almost_hell_radio/radio.mp3
+#EXTINF:-1,AMOR 100.1 (Mérida) - 100.1 FM - XHYU-FM - Grupo SIPSE Radio - Mérida, Yucatán
+https://webprod.sipse.com.mx:8080/amor
+#EXTINF:-1,  AMOR SOLO POP: Pop y baladas en español
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR03_s01AAC.aac
+#EXTINF:-1, ARROBA FM 101.7 (Piedras Negras) - 101.7 FM - XHCPN-FM - Radiorama Piedras Negras - Piedras Negras, Coahuila
+https://stream.zeno.fm/p7xefup9d78uv
+#EXTINF:-1, ARROBA FM 88.7 (GDL) - 88.7 FM - XHGDL-FM - Radiorama de Occidente - Guadalajara, Jalisco
+https://stream.zeno.fm/es06s1g9d78uv
+#EXTINF:-1,  ARROBA FM: Te Conecta
+https://stream.zeno.fm/6vtcayf9d78uv
+#EXTINF:-1, CAPITAL ANTHEMS UK: The Songs Capital Made Famous - Londres, Inglaterra
+https://media-ssl.musicradio.com/CapitalAnthemsMP3
+#EXTINF:-1,EL HERALDO RADIO HD2: MÃºsica Continua ðŸ†•
+https://stream.radiojar.com/rsa7zx3bh8nwv
+#EXTINF:-1,Exa FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHEXA_SC
+#EXTINF:-1,EXA FM 102.9 (Tehuacán) - 102.9 FM - XHWJ-FM - Radio TH Comunicación - Tehuacán, Puebla
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHWJ_EXAAAC.aac
+#EXTINF:-1,EXA FM 91.3 (Córdoba) - 91.3 FM - XHPT-FM - Radio Comunicaciones de las Altas Montañas - Córdoba, Veracruz
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHPTAAC.aac
+#EXTINF:-1,EXA FM 91.5 (Mexicali) - 91.5 FM - XHJC-FM - MVS Radio - Mexicali, Baja California
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHJCFMAAC.aac
+#EXTINF:-1,EXA FM 95.5 (Querétaro) - 95.5 FM - XHOE-FM - Multimundo Radio - Querétaro, Querétaro
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHOEAAC.aac
+#EXTINF:-1,EXA FM 99.3 (Mérida) - 99.3 FM - XHMRA-FM - MVS Radio - Mérida, Yucatán
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMRAAAC.aac
+#EXTINF:-1,Exa FM Ciudad del Carmen - 99.7 FM / 1070 AM - XHIT-FM / XEIT-AM - Radiorama - Ciudad del Carmen, Campeche
+https://ss1.audiorama.com.mx:6674/stream
+#EXTINF:-1,+Exclusively Imagine Dragons
+https://nl4.mystreaming.net/er-app/imaginedragons/icecast.audio
+#EXTINF:-1, ÉXTASIS DIGITAL 580 (Chihuahua) - 580 AM - XEFI-AM - Radiorama Chihuahua - Chihuahua, Chihuahua
+https://stream-156.zeno.fm/n5bw2cz5dkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuNWJ3MmN6NWRraHZ2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZGhuWDlFRGZRenFhMmp1UlBUX0pJdyIsImlhdCI6MTc2ODQ0NzgwMiwiZXhwIjoxNzY4NDQ3ODYyfQ.CAhti_rBk-4oejyXAxU8VLndVLDpxRc4ZT1qW-gCbGE
+#EXTINF:-1,FIESTA 94 9 (Veracruz) - 94.9 FM - XHFM-FM - Grupo AvanRadio Radiorama - Veracruz, Veracruz
+https://secure.radiorama.mx:2184/
+#EXTINF:-1, Globo 101.3 (Ciudad del Carmen) - 101.3 FM - XHMAB-FM - Organización Radio Carmen - Ciudad del Carmen, Campeche
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMABAAC.aac
+#EXTINF:-1,Globo 98.7 (Guadalajara) - 98.7 FM - XHLC-FM - MVS Radio - Guadalajara, Jalisco
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHLCFMAAC.aac
+#EXTINF:-1,JOYA 96.9 (Xalapa) - 96.9 FM - XHTZ-FM - Valanci Media Group - Xalapa, Veracruz
+https://playradio.mx/proxy/joya?mp=/stream
+#EXTINF:-1, MAS FM 99.3 (San Luis Potosí) - 99.3 FM - XHTL-FM - MG Radio - San Luis Potosí, San Luis Potosí
+https://masfm.b-cdn.net/stream
+#EXTINF:-1,MATCH 99.3 (CDMX) - 99.3 FM - XHPOP-FM - Grupo ACIR - Ciudad de México
+https://16603.live.streamtheworld.com:443/XHPOPFMAAC.aac
+#EXTINF:-1,MIX (Puebla) - 91.7 FM - XHRC-FM - Grupo ACIR - Puebla, Puebla
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHRCFMAAC.aac
+#EXTINF:-1,Nexohits Radio
+https://a5.asurahosting.com/listen/nexohits_radio/live
+#EXTINF:-1, RETRO 103.1 (Mérida) - 103.1 FM - XHPYM-FM - Cadena RASA - Mérida, Yucatán
+https://stream.zeno.fm/yxnr8zs7v68uv
+#EXTINF:-1,  ROCK EN ESPAÑOL: Rock de México, España y Argentina
+https://29309.live.streamtheworld.com:443/ACIR20_S01AAC.aac
+#EXTINF:-1,WAÖH 95.3 (San Luis Potosí) - 95.3 FM - XHNB-FM - Cadena RASA - San Luis Potosí, San Luis Potosí
+https://stream.zenolive.com/be10ijonibvuv
+#EXTINF:-1,DJ DUGEM 
+https://stream.zeno.fm/ooaqxeogpfdvv
+#EXTINF:-1,MyFriends Station
+https://cast3.asurahosting.com/proxy/myfriend/stream
+#EXTINF:-1,Radio Rock (NO)
+https://live-bauerno.sharp-stream.com/radiorock_no_mp3
+#EXTINF:-1,The Rock - NZ's #1 rock radio station
+https://digitalstreams.mediaworks.nz/rock_net_icy
+#EXTINF:-1,FRECUENCIA 1330 AM  (parque azangaro miraflores) LUIS ANGEL ANCON PATIÑO
+https://maximacenterdata.com/8124/stream
+#EXTINF:-1,Radio La Vaca
+https://radio.streamingnacional.online/8168/stream
+#EXTINF:-1,RadioMix AQP (Dj Ethamx)
+https://stream-174.zeno.fm/qa5aurigvoivv
+#EXTINF:-1,Eska - BiaÅ‚ystok
+https://waw.ic.smcdn.pl/2020-1.mp3
+#EXTINF:-1,ESKA - Impreska
+https://waw.ic.smcdn.pl/6030-1.mp3
+#EXTINF:-1,Radio Dzwiek
+https://streamhls.radiodzwiek.slask.pl/dzwiek-mp3
+#EXTINF:-1,Radio RMF24.pl
+https://rs202-krk-cyfronet.rmfstream.pl/RMF24?aw_0_req.gdpr=false&aw_0_req.userConsentV2=&aw_0_1st.playerid=RMF_Player_JS_P&aw_0_1st.rmf_disable_preroll=true
+#EXTINF:-1,Xvibe
+https://xvibe.pl/stream.php
+#EXTINF:-1,M80 RÃ¡dio â€“ Rock
+https://stream-icy.bauermedia.pt/m80rock.aac
+#EXTINF:-1,Rádio Regional do Centro
+https://nl.digitalrm.pt:8030/stream?1671017145140=
+#EXTINF:-1,RFM Oceano Pacifico
+https://23543.live.streamtheworld.com/OCEANPACIFICAAC.aac
+#EXTINF:-1,BOOM TV
+https://live.radioboom.ro/live-tv/live.m3u8
+#EXTINF:-1,Erdélyi Magyar Rádió
+https://adas.erdelyimagyarradio.eu:8443/emr
+#EXTINF:-1,Rádió GaGa 100% Magyar
+https://a2.asurahosting.com:6880/radio.mp3?1741346830
+#EXTINF:-1,Rádió GaGa Marosszék
+https://a3.my-control-panel.com:6660/radio.mp3?1709995925
+#EXTINF:-1,Rádió GaGa Rock
+https://a2.asurahosting.com:6700/radio.mp3?1741347169
+#EXTINF:-1,Rádió GaGa Udvarhelyszék
+https://a3.my-control-panel.com:6680/radio.mp3?1709996423
+#EXTINF:-1,Rádió KoKo
+https://az10.yesstreaming.net:8210/radiokoko.mp3
+#EXTINF:-1,Radio Transilvania - Cluj
+https://stream2.radiotransilvania.ro/Cluj
+#EXTINF:-1,Radio Trib
+https://streams.radio.co/s78f983952/listen
+#EXTINF:-1,Romantic Radio
+https://radio-romantic.ro/stream
+#EXTINF:-1,Squad Radio
+https://a7.asurahosting.com:8190/radio.mp3
+#EXTINF:-1,Squad Radio Cluj-Napoca
+https://a7.asurahosting.com/listen/squad_radio_floresti_/radio.mp3
+#EXTINF:-1,KISS FM EX YU
+https://stream.zeno.fm/abn3hm6w768uv
+#EXTINF:-1,Radio S Pop & Rock
+https://stream.radios.rs:9028/stream
+#EXTINF:-1,TDI BEZ REKLAMA
+https://streaming.tdiradio.com/tdiradiobezreklama.mp3
+#EXTINF:-1,Rádio Rebeca
+https://mpc2.mediacp.eu:8200/rebecaweb
+#EXTINF:-1,Surf Radio
+https://stream.surf.radio/surf1025
+#EXTINF:-1,KTU
+https://sslyayin.netyayin.net/radyoktu/stream/;type=mp3
+#EXTINF:-1,Radio Line 
+https://online.radioline.fm:8443/stream
+#EXTINF:-1,Radio Prado Sur
+https://usa2.fastcast4u.com/proxy/wqzjjais?mp=/;

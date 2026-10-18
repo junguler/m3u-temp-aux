@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1, BUENISIIMA 103.9 (Acapulco) - 103.9 FM - XHPO-FM - Grupo Audiorama Comunicaciones - Acapulco, Guerrero
+https://ss1.audiorama.com.mx:6606/stream
+#EXTINF:-1,Buenisiima (Acapulco) - 103.9 FM - XHPO-FM - Grupo Audiorama Comunicaciones - Acapulco, GR
+https://ss1.audiorama.com.mx:6606/
+#EXTINF:-1, EXA FM 99.3 (Acapulco) - 99.3 FM - XHNQ-FM - MVS Radio - Acapulco, Guerrero
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHNQAAC.aac
+#EXTINF:-1,Exa FM Acapulco - 99.3 FM - XHNQ-FM - MVS Radio - Acapulco, Guerrero
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHNQ_SC
+#EXTINF:-1, LA BESTIA GRUPERA 95.3 (Acapulco) - 95.3 FM - XHEVP-FM - Grupo Audiorama Comunicaciones - Acapulco, Guerrero
+https://sg.centrocibernetico.com/audiorama-xhevp
+#EXTINF:-1, LA KEBUENA 98.5 (Acapulco) - 98.5 FM - XHMAR-FM - Grupo Radio Cañón - Acapulco, Guerrero
+https://streaming.servicioswebmx.com/8252/stream
+#EXTINF:-1,La Mejor Acapulco - 100.1 FM - XHSE-FM - MVS Radio - Acapulco, GR
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHSE_SC.aac
+#EXTINF:-1, LA MEJOR FM 100.1 (Acapulco) - 100.1 FM - XHSE-FM - MVS Radio - Acapulco, Guerrero
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHSEAAC.aac
+#EXTINF:-1,SUPER (Acapulco) - 94.5 FM - XHNU-FM - Grupo Audiorama Comunicaciones - Acapulco, GR
+https://ss1.audiorama.com.mx:6608/
+#EXTINF:-1,SUPER (Acapulco) - 94.5 FM - XHNU-FM - Grupo Audiorama Comunicaciones  - Acapulco, GR
+https://ss1.audiorama.com.mx:6608/super
+#EXTINF:-1,VIDA 89.7 (Acapulco) - 89.7 FM - XHKJ-FM - Grupo Audiorama Comunicaciones - Acapulco, Guerrero
+https://sg.centrocibernetico.com/audiorama-xhkj
+#EXTINF:-1,Vida (Acapulco) - 89.7 FM - XHKJ-FM - Grupo Audiorama Comunicaciones  - Acapulco, GR
+https://ss1.audiorama.com.mx:6610/vida
+#EXTINF:-1,Vida (Acapulco) - 89.7 FM - XHKJ-FM - Grupo Audiorama Comunicaciones - Acapulco, GR
+https://ss1.audiorama.com.mx:6610/
+#EXTINF:-1,Voces (Acapulco) - 92.1 FM - XHACD-FM - Grupo Audiorama Comunicaciones - Acapulco, GR
+https://ss1.audiorama.com.mx:6612/
+#EXTINF:-1, W RADIO 101.5 (Acapulco) - 101.5 FM - XHBB-FM - Grupo Radio Cañón - Acapulco, Guerrero
+https://streaming.servicioswebmx.com/8302/stream

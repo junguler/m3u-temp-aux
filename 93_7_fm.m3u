@@ -1,3 +1,15 @@
 #EXTM3U
 #EXTINF:-1,Mía 93.7 Guatemala
 https://playerservices.streamtheworld.com/api/livestream-redirect/MIAAAC.aac
+#EXTINF:-1, JOYA 93.7 (CDMX) - 93.7 FM - XEJP-FM - Grupo Radio Centro - Ciudad de México
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEJP_FMAAC.aac
+#EXTINF:-1, LA MEJOR FM 93.7 (Aguascalientes) - 93.7 FM - XHAGT-FM - Radio Universal - Aguascalienteas, Aguascalientes
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHAGTAAC.aac
+#EXTINF:-1, LA PODEROSA 93.7 (Acapulco) - 93.7 FM - XHPA-FM - Grupo Radio Comunicación - Acapulco, Guerrero
+https://stream.freepi.io:8108/live
+#EXTINF:-1,LOS40 Uruapan - 93.7 FM - XHENI-FM - Grupo AS Comunicación - Uruapan, Michoacán
+https://stream-153.zeno.fm/he3k1e4ar8cuv
+#EXTINF:-1,MAGIA 93.7 (Xalapa) - 93.7 FM - XHKL-FM - AvanRadio - Xalapa, Veracruz
+https://cast3.my-control-panel.com/proxy/xekl?mp=/stream
+#EXTINF:-1,Radio Futurama (Villahermosa) - 93.7 FM - XHZQ-FM - Villahermosa, Tabasco
+https://stream-141.zeno.fm/avwcs52dbchvv

@@ -387,3 +387,103 @@ https://stream.radiosmundiales.com:8016/GLOBO885
 https://api.condoristream.com/stream/radioglobo
 #EXTINF:-1,Radio Progreso HN
 https://streamingcwsradio30.com:7045/stream
+#EXTINF:-1,106.9 Radio Fórmula (Aguascalientes) - 106.9 FM - XHAC-FM - Radio Universal - Aguascalientes, Aguascalientes
+https://radioweb.stream/ags.ags/xhac.aac/icecast.audio
+#EXTINF:-1,88.9 Noticias - 88.9 FM - XHM-FM - Grupo ACIR - Ciudad de México
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMFMAAC_SC.aac
+#EXTINF:-1,90.5 Estéreo Vida (Zihuatanejo) - 90.5 FM - XHZIH-FM - Radiorama - Zihuatanejo, Guerrero
+https://secure.radiorama.mx:2073/
+#EXTINF:-1,95.7 W Radio (Oaxaca) - 95.7 FM - XHCE-FM - Grupo Encuentro - Oaxaca, Oaxaca
+https://www.encuentroradiotv.com:8443/oaxaca957.mp3
+#EXTINF:-1,Ciudadana 660 AM "Te acompaña" (XEDTL) IMER
+https://s2.mexside.net/8026/stream
+#EXTINF:-1,Coahuila Hoy 93.1 FM - XHCSBA - Monclova, Coahuila
+https://cast1.my-control-panel.com/proxy/coahuilahoy2/stream
+#EXTINF:-1,EL HERALDO RADIO 100.3 (GDL) - 100.3 FM - XHAV-FM - Heraldo Media Group - Guadalajara, JAlisco
+https://stream.radiojar.com/21h1m4cch8nwv
+#EXTINF:-1,EL HERALDO RADIO 99.7 (MTY) - 99.7 FM - XHSP-FM - Heraldo Media Group - Monterrey, Nuevo León
+https://stream.radiojar.com/951bffq8h8nwv
+#EXTINF:-1,EL HERALDO RADIO: La "H" Que SÃ­ Suena ðŸ†•
+https://stream.radiojar.com/ce31v3yah8nwv
+#EXTINF:-1,Horizonte 107.9 FM "Claridad informativa y todo el jazz" (XHIMR) IMER
+https://s2.mexside.net/8014/stream
+#EXTINF:-1,La GS 104.7 FM Guasave
+https://noticieroaltavoz.com:8443/listen/la_gs_super_estacion_(104.7_fm)/radio.mp3
+#EXTINF:-1,LA JL 99.3 (Guamúchil) - 99.3 FM - XHJL-FM - Grupo Chávez Radio - Guamuchil, Sinaloa
+https://noticieroaltavoz.com:8443/listen/la_jl_(99.3)/radio.mp3
+#EXTINF:-1,La Primera (Saltillo) - 88.9 FM - XHAJ-FM - Grupo Multimedia El Diario de Coahuila - Saltillo, Coahuila
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHAJFMAAC.aac
+#EXTINF:-1,Media News 92.7 FM
+https://streamingcwsradio30.com:7061/;
+#EXTINF:-1,MVS Noticias - 102.5 FM - XHMVS-FM - MVS Radio - Ciudad de México
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMVSFM_SC
+#EXTINF:-1,Radio 65 100.5 FM Los Mochis
+https://noticieroaltavoz.com:8443/listen/radio_65_(100.5_fm)/radio.mp3
+#EXTINF:-1,RADIO CONGRESO: Medio de comunicación del Poder Legislativo de México
+https://ccstreaming.packet.mx/LiveApp/streams/Radio_kd5oiNTTWO0gEOFc23dr762145.m3u8
+#EXTINF:-1,Radio fórmula Guerrero 105.5 FM Acapulco
+https://stream.radiojar.com/13ptp3cn3p8uv
+#EXTINF:-1,Radio Metrópoli 1150 AM Guadalajara
+https://s2.yesstreaming.net:9088/stream?1730862902633
+#EXTINF:-1, RADIO METRÓPOLI 1150 (GDL) - 1150 AM - XEAD-AM - Grupo Unidifusión - Guadalajara, Jalisco
+https://s2.yesstreaming.net:9088/stream
+#EXTINF:-1, RADIO MEXICANA Nuestras Noticias 1300 (Ciudad Juárez) - 1300 AM - XEP-AM - Radiorama - Ciudad Juárez, Chihuahua
+https://stream.zeno.fm/9b3xff05dkhvv
+#EXTINF:-1,RCA 105.9 Radio Cultural Ayuntamiento
+https://usa3.lhdserver.es:8307/stream
+#EXTINF:-1,Sonido Estrella (Zacatecas) - 89.9 FM - XHEPC-FM - Zacatecas, ZA
+https://radioforte.com/8010/sonidoestrella
+#EXTINF:-1,Super Stereo Miled 1510 AM Guadalajara
+https://miledgdl-cybertec.radioca.st/;
+#EXTINF:-1,Super Stereo Miled 95.1 La Paz
+https://miledlapaz-cybertec.radioca.st/;
+#EXTINF:-1,Super Stereo Miled 98.9 FM Toluca
+https://stereotoluca-cybertec.radioca.st/stream
+#EXTINF:-1, UNIVERSAL 88.1 (CDMX) - 88.1 FM - XHRED-FM - Grupo Radio Centro - Ciudad de México
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHFO_FMAAC.aac
+#EXTINF:-1,UNIVERSAL Ciudad de México - 88.1 FM - XHRED-FM - Grupo Radio Centro - Ciudad de México
+https://playerservices.streamtheworld.com/api/livestream-redirect/XERED_AMAAC.aac
+#EXTINF:-1,W RADIO 90.1 (San José Iturbide) - 90.1 FM - XHPSJI-FM - GlobalMedia - San José Iturbide, Guanajuato
+https://playradio.mx/proxy/los40jose?mp=/stream
+#EXTINF:-1,W Radio Ciudad de México - 96.9 FM / 900 AM - XEW-FM / XEW-AM - Radiópolis - Ciudad de México
+https://playerservices.streamtheworld.com/api/livestream-redirect/W_RADIOAAC.aac
+#EXTINF:-1,WRadio Fresnillo 94.3 FM
+https://streaming.servicioswebmx.com/8234/stream
+#EXTINF:-1,XEB La B grande de Mexico 1220 AM / 94.5 HD2 "Con la Música de México" IMER
+https://s2.mexside.net/8024/stream
+#EXTINF:-1,La Voz del Norte
+https://stream.zeno.fm/cbd1wweamzzuv
+#EXTINF:-1,Radio Enmanuel Huaycán
+https://conectperu.com/8220/stream
+#EXTINF:-1,Radio Exitosa
+https://neptuno-2-audio.mediaserver.digital/79525baf-b0f5-4013-a8bd-3c5c293c6561
+#EXTINF:-1,Radio Nacional del Perú
+https://cdnhd.iblups.com/hls/0773874174fd4eba8bb9eff741d190dc.m3u8
+#EXTINF:-1,Radio Respuesta
+https://streamlive2.hearthis.at:8000/9417449.ogg
+#EXTINF:-1,RPP+
+https://pe-p4-p-e-cx1-audio.cdn.mdstrm.com/live-audio-aw/5faee448445c6107b3fee13f/playlist.m3u8?listeningSessionID=69f0808001cf2895_4181173_LOxDBfCQ_cGUtcDQtcC1lLWN4MS1hdWRpby5jZG4ubWRzdHJtLmNvbTo4MDAw_0000000I6al&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=XtRmM7BAs3XcxcxoMvzm2bLuF0AhZqOf&sid=oeKDIAFTGUom6Rdb4fYtg9WBGDutEkfM&pid=iSK9RYEIXoIzoAUGPwc7poSXB1mnd4OY&ref=rpp.pe&ext_pb=0&CMCD=cid%3D%225faee448445c6107b3fee13f%22%2Cmtp%3D13000%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22iSK9RYEIXoIzoAUGPwc7poSXB1mnd4OY%22&es=pe-p4-p-e-cx1-audio.cdn.mdstrm.com&ote=1781636788860&ot=KEgeLIFdM8e3HRdIBT_Rrw&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&aw_0_1st.playerId=audioplayer_web&liveId=5faee448445c6107b3fee13f&referer=https%3A%2F%2Frpp.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=v1.0.79&listenerId=XtRmM7BAs3XcxcxoMvzm2bLuF0AhZqOf
+#EXTINF:-1,Antena 1 Açores (Portugal)
+https://streaming-live.rtp.pt/liveradio/antena1acores80a/playlist.m3u8
+#EXTINF:-1,Rádio Antena 1
+https://streaming-live.rtp.pt/liveradio/antena180a/chunklist.m3u8
+#EXTINF:-1,RDP Internacional (Portugal)
+https://streaming-live.rtp.pt/liveradio/rdpint80a/playlist.m3u8
+#EXTINF:-1,Exclusiva FM 103.7 FM
+https://rds3.desdeparaguay.net/movexclusiva/movexclusiva.stream/playlist.m3u8
+#EXTINF:-1,Radio 1000 AM
+https://1000noticias.live:8000/radio.mp3
+#EXTINF:-1,970 Universal
+https://970universal-3.nty.uy/
+#EXTINF:-1,Diamante FM 98.7
+https://radiolatina.live/8058/stream
+#EXTINF:-1,El Libertador 1210 AM
+https://streamingraddios.online/proxy/llamadad?mp=/stream
+#EXTINF:-1,ESPACIO SPORT 91.5 FM
+https://medios.ciudaddigital.com.uy:18098/EspacioFM
+#EXTINF:-1,FM cordialidad 94.9
+https://cordialidad-zikoxweb2.radioca.st/stream
+#EXTINF:-1,Radio Fm 99.1
+https://rr5100.globalhost1.com/8454/stream
+#EXTINF:-1,Sport 890
+https://alba-uy-sport890-sport890.stream.mediatiquestream.com/index.m3u8

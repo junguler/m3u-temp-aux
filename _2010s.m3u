@@ -67,3 +67,47 @@ https://ice24.securenetsystems.net/WOKW
 https://mediagw.e-tiger.net/stream/zc02
 #EXTINF:-1,Kis FM 95.1
 https://ic.mari.co.id:8443/kisfm
+#EXTINF:-1,Energy 88.1 Culiacán
+https://radioweb.stream/sinaloa.culiacan/xhcpfw.aac/icecast.audio
+#EXTINF:-1,+Exclusively Adele
+https://nl4.mystreaming.net/er-app/adele/icecast.audio
+#EXTINF:-1,+Exclusively Avicii
+https://nl4.mystreaming.net/er-app/avicii/icecast.audio
+#EXTINF:-1,+Exclusively Calvin Harris
+https://streaming.exclusive.radio/er-app/calvinharris/icecast.audio
+#EXTINF:-1,+Exclusively Green Day
+https://nl4.mystreaming.net/er-app/greenday/icecast.audio
+#EXTINF:-1,+Exclusively Imagine Dragons
+https://nl4.mystreaming.net/er-app/imaginedragons/icecast.audio
+#EXTINF:-1,+Exclusively Shakira
+https://streaming.exclusive.radio/er-app/shakira/icecast.audio
+#EXTINF:-1, MIX 101.7 (Morelia) - 101.7 FM - XHEMM-FM - Grupo ACIR - Morelia, Michoacán
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHEMMAAC.aac
+#EXTINF:-1, MIX 580 (Cancún) - 580 AM - XEYI-AM - Grupo ACIR - Cancún, Quintana Roo
+https://14923.live.streamtheworld.com:443/XHYIFMAAC.aac
+#EXTINF:-1,  MIX: 80's, 90's y Más
+https://18443.live.streamtheworld.com:443/XHDFMFMAAC.aac
+#EXTINF:-1, MIX 92.5 (Pachuca) - 92.5 FM - XHPK-FM - Grupo ACIR - Pachuca, Hidalgo
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHPKFMAAC.aac
+#EXTINF:-1, MIX 92.7 (Puerto Vallarta) - 92.7 FM - XHVAY-FM - Grupo ACIR - Puerto Vallarta, Jalisco
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHVAYFMAAC.aac
+#EXTINF:-1,MIX Cancún - 93.1 FM - XHYI-FM - Grupo ACIR - Cancún, QR
+https://18243.live.streamtheworld.com:443/XHYIFMAAC.aac
+#EXTINF:-1,MIX (Puebla) - 91.7 FM - XHRC-FM - Grupo ACIR - Puebla, Puebla
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHRCFMAAC.aac
+#EXTINF:-1,MIX Querétaro - 106.5 FM - XHGV-FM - Grupo ACIR - Querétaro, QT
+https://14093.live.streamtheworld.com:443/XHGVAAC.aac
+#EXTINF:-1,MIX San Luis Potosí - 98.5 FM - XHQK-FM - Grupo ACIR - San Luis Potosí, SL
+https://14943.live.streamtheworld.com:443/XHQKFMAAC.aac
+#EXTINF:-1,MIX Toluca - 90.1 FM - XHENO-FM Grupo ACIR - Toluca, EM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHENOFMAAC.aac
+#EXTINF:-1,Stereo uno 94.1 Culiacán
+https://audiostreaming.luz.network/stream/7/;
+#EXTINF:-1,Ultra 90.1 FM reynosa/RGV
+https://live.amperwave.net/manifest/rcomm-xhrysfmaac-hlsc4.m3u8?source=v7player
+#EXTINF:-1,VIVE FM 106.3 (Tehuacán) - 106.3 FM - XHETE-FM - Cinco Radio - Tehuacán, Puebla
+https://sg.centrocibernetico.com/vive106.3
+#EXTINF:-1,Antena 8 100.1 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/ANT8AAC.aac
+#EXTINF:-1,HITCITY
+https://stream.hitcity.se/live.mp3

@@ -45,3 +45,7 @@ https://listen.radioking.com/radio/212434/stream/255523
 https://cbfc.streamguys1.com/cbdaily.mp3
 #EXTINF:-1,NUFC Talk Radio
 https://s4.radio.co/s35505f6df/listen
+#EXTINF:-1,Benfica FM
+https://default.benficaplay.cdn.videokit.cloud/out/v1/benficaplay-default/benficaplay_benficaplay-radio_08de155dbd06_audio/benficaplay_benficaplay-radio_08de155dbd06_hls/benficaplay-radio-hls.m3u8
+#EXTINF:-1,Toti Radio
+https://live.radio.si/Toti

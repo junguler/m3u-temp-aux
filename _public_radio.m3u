@@ -517,3 +517,41 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_KOL_HAMUSI
 https://stream.zeno.fm/jqhhzffjynbuv
 #EXTINF:-1, 50s 60s RETRO HITS
 https://stream.zeno.fm/pxzwykxbluitv
+#EXTINF:-1,Latvijas Radio 1
+https://muste.latvijasradio.lv/shoutcast/mp4:lr1a.stream/playlist.m3u8
+#EXTINF:-1,Latvijas Radio 2
+https://muste.latvijasradio.lv/shoutcast/mp4:lr2a.stream/playlist.m3u8
+#EXTINF:-1,105.3 Radio Universidad (Chihuahua) - 105.3 FM - XHRU-FM - Universidad Autónoma de Chihuahua - Chihuahua, Chihuahua
+https://stream.zeno.fm/e2px6k3kwzzuv
+#EXTINF:-1, ALTERNATIVA 98 98.1 (Aguascalientes) - 98.1 FM - XHNM-FM - Radio y Televisión de Aguascalientes - Aguascalientes, Aguascalientes
+https://streamingcwsradio30.com/8016/stream/1/;
+#EXTINF:-1,Conexión 92.7 (Aguascalientes) - 92.7 FM - XHCPDI-FM - Radio y Televisión de Aguascalientes - Aguascalientes, Aguascalientes
+https://streamingcwsradio30.com:7008/;
+#EXTINF:-1,RADIO CONGRESO: Medio de comunicación del Poder Legislativo de México
+https://ccstreaming.packet.mx/LiveApp/streams/Radio_kd5oiNTTWO0gEOFc23dr762145.m3u8
+#EXTINF:-1,RADIO UNIVERSIDAD 88.1 (Chihuahua) - 88.1 FM - XHCPDB-FM - Universidad Autónoma de Chihuahua - Chihuahua, Chihuahua
+https://stream.zeno.fm/b55avvu0x1zuv
+#EXTINF:-1,Mayotte La 1ère
+https://mayotte.ice.infomaniak.ch/mayotte-128.mp3
+#EXTINF:-1,Polskie Radio 24 (NEW STREAM)
+https://stream15.polskieradio.pl/pr24/pr24.sdp/playlist.m3u8
+#EXTINF:-1,Polskie Radio Czwórka
+https://stream14.polskieradio.pl/pr4/pr4.sdp/playlist.m3u8
+#EXTINF:-1,Radio Freee 89.9
+https://streaming.radio.lublin.pl:8843/radiofreeeacp
+#EXTINF:-1,Radio Una
+https://stream.zeno.fm/v36ympen8x8uv
+#EXTINF:-1,Pátria Rádió
+https://icecast.stv.livebox.sk/patria_128.mp3
+#EXTINF:-1,Sveriges Radio - Ekot sänder direkt
+https://live1.sr.se/ekotdirekt-aac-320
+#EXTINF:-1,Sveriges Radio - P2 Språk och musik
+https://live1.sr.se/p2sm-aac-320
+#EXTINF:-1,Sveriges Radio - P3 Din gata
+https://live1.sr.se/dingata-aac-320
+#EXTINF:-1,Sveriges Radio - P4 Plus
+https://live1.sr.se/p4plus-aac-320
+#EXTINF:-1,Radio Antalya
+https://my.radiolize.com/radio/8000/radio.mp3
+#EXTINF:-1,RADYO 42 FM MEDYA KONYA PR MUSIC TURKIYE
+https://a8.asurahosting.com/hls/radyo_42_fm_medya_konya_pr_music/live.m3u8

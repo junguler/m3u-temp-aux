@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,LOS40 Ensenada - 96.9 FM - XHPSEN-FM - Radiópolis - Ensenada, BC
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ENSENADAAAC.aac
+#EXTINF:-1,Vibra FM (Culiacán) - 96.9 FM - XHVQ-FM - Grupo Vibra - Culiacán, Sinaloa
+https://sp2.servidorrprivado.com:10859/stream
+#EXTINF:-1,W Radio Ciudad de México - 96.9 FM / 900 AM - XEW-FM / XEW-AM - Radiópolis - Ciudad de México
+https://playerservices.streamtheworld.com/api/livestream-redirect/W_RADIOAAC.aac

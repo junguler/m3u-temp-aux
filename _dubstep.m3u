@@ -43,3 +43,7 @@ https://radio.xenfm.com/listen/xenfm/radio.mp3
 https://s3.radio.co/s113a5dc46/listen
 #EXTINF:-1,Nt00 Radio
 https://nt00.xyz/listen/escape_the_algorithm/radio.mp3
+#EXTINF:-1,Sub FM
+https://fmsub.radioca.st/stream?type=http&nocache=140
+#EXTINF:-1,24Dubstep.pl || DropZone Radio
+https://stream.24dubstep.pl/radio/8000/mp3_normal

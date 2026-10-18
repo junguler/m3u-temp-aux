@@ -3,3 +3,25 @@
 https://radio.soft-dg.com/clasica_fm/index.m3u8
 #EXTINF:-1,Kiss FM 97.7 XHGL
 https://webprod.sipse.com.mx:8080/kissfm/
+#EXTINF:-1,ABC Noticias (Monterrey) - 570 AM - XEBJB-AM - Grupo Radio Alegría - Monterrey, NL
+https://playerservices.streamtheworld.com/api/livestream-redirect/REGIONAL_MEXICANA_570AM.mp3
+#EXTINF:-1,Azul 89 (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de México
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR24_s01AAC.aac
+#EXTINF:-1,LA OCTAVA (Ciudad de México) - 88.1 FM - XHRED-FM - Grupo Radio Centro - Ciudad de México
+https://playerservices.streamtheworld.com/api/livestream-redirect/XERED_AM_SC
+#EXTINF:-1,LA OCTAVA (Guadalajara) - 700 AM - XEDKR-AM - Grupo Radio Centro - Guadalajara, JC
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEDKR_AM_SC
+#EXTINF:-1,MVS Noticias - 102.5 FM - XHMVS-FM - MVS Radio - Ciudad de México
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMVSFM_SC
+#EXTINF:-1,Rclasicos 96.9 FM
+https://s5.mexside.net:8100/stream
+#EXTINF:-1,Sounds of Yesterday (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de México
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR30_s01AAC.aac
+#EXTINF:-1,Stereo 100.3 (Hermosillo) - 100.3 FM - XHSD-FM - Hermosillo, SO
+https://streamingcwsradio30.com:7026/
+#EXTINF:-1,Stereo Cien - 100.1 FM - XHMM-FM - NRM Comunicaciones - Ciudad de México
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMMFMAAC.aac
+#EXTINF:-1,UNIVERSAL Ciudad de México - 88.1 FM - XHRED-FM - Grupo Radio Centro - Ciudad de México
+https://playerservices.streamtheworld.com/api/livestream-redirect/XERED_AMAAC.aac
+#EXTINF:-1,UNIVERSAL Guadalajara - 700 AM - XEDKR-AM - Grupo Radio Centro - Guadalajara, JC
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEDKR_AMAAC.aac

@@ -1,3 +1,13 @@
 #EXTM3U
 #EXTINF:-1,Европа Плюс Симферополь 89.7 FM
 https://radio.promedia.ru/europa-simf
+#EXTINF:-1,La Grande de Tabasco - 89.7 FM - XHVX-FM - Grupo VX - Comalcalco / Villahermosa, TB
+https://stream9.mexiserver.com:7024/
+#EXTINF:-1,OYE 89.7 - 89.7 FM - XEOYE-FM - NRM Comunicaciones - Ciudad de M�xico
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEOYEFMAAC.aac
+#EXTINF:-1,OYE (Ciudad de M�xico) - 89.7 FM - XEOYE-FM - NRM Comunicaciones - Ciudad de M�xico
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEOYEFM_SC
+#EXTINF:-1,Vida (Acapulco) - 89.7 FM - XHKJ-FM - Grupo Audiorama Comunicaciones  - Acapulco, GR
+https://ss1.audiorama.com.mx:6610/vida
+#EXTINF:-1,Vida (Acapulco) - 89.7 FM - XHKJ-FM - Grupo Audiorama Comunicaciones - Acapulco, GR
+https://ss1.audiorama.com.mx:6610/

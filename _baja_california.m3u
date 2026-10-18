@@ -1,3 +1,73 @@
 #EXTM3U
 #EXTINF:-1,Mas Flo - 107.7 FM - XHRST-FM - MLC Media - San Diego, California
 https://vsstreaming.com/8026/stream
+#EXTINF:-1,107.9 Grupo Radioasta (Ensenada) - 107.9 FM - XHSCBH-FM - Grupo Radioasta, A.C. - Ensenada, Baja California
+https://radios.yanapak.org/gruporadioasta
+#EXTINF:-1,91.7 Exa FM (Tijuana) - 91.7 FM - XHGLX-FM - MVS Radio - Tijuana, Baja California
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHGLXAAC.aac
+#EXTINF:-1,+Acceso Total (Mexicali) - Online - www.eltoquefm.com - El Toque FM - Mexicali, Baja California
+https://us10a.serverse.com/proxy/acce8712?mp=/;
+#EXTINF:-1,Adictiva Radio (Tijuana) - 98.9 FM - XHMORE-FM - Esquina 32 - Tijuana, Baja California
+https://cast6.asurahosting.com/proxy/luisf/adictivafmtijuana
+#EXTINF:-1,Buenisiima (Mexicali) - 850 AM - XEZF-AM - Grupo Audiorama Comunicaciones - Mexicali, BC
+https://ss1.audiorama.com.mx:6594/;
+#EXTINF:-1,ESTÉREO BAJA 1190 (Mexicali) - 1190 AM - XEMBC-AM - Esquina 32 Radio - Mexicali, Baja California
+https://stream.radiojar.com/6a8qnq5n9zcwv
+#EXTINF:-1,ESTÉREO SOL 101.1 (Ensenada) - 101.1 FM - XHAT-FM - Radio Cadena Enciso (RCE) - Ensenada, Baja California
+https://edge.mixlr.com/channel/gdjut
+#EXTINF:-1,EXA FM 104.1 (Ensenada) - 104.1 FM - XHADA-FM - MVS Radio - Ensenada, Baja California
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHADAAAC.aac
+#EXTINF:-1,EXA FM 91.5 (Mexicali) - 91.5 FM - XHJC-FM - MVS Radio - Mexicali, Baja California
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHJCFMAAC.aac
+#EXTINF:-1,Exa FM Ensenada - 104.1 FM - XHADA-FM - MVS Radio - Ensenada, BC
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHADA_SC
+#EXTINF:-1,Exa FM Mexicali - 91.5 FM - XHJC-FM - MVS Radio - Mexicali, BC
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHJCFM_SC
+#EXTINF:-1, Globo 101.9 (Mexicali) - 101.9 FM - XHPF-FM - MVS Radio - Mexicali, Baja California
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHPFFMAAC.aac
+#EXTINF:-1,La Bestia Grupera (Mexicali) - 92.3 FM - XHMMF-FM - Grupo Audiorama Comunicaciones - Mexicali, Baja California
+https://ss1.audiorama.com.mx:6592/stream
+#EXTINF:-1,La Bestia Grupera (Mexicali) - 92.3 FM - XHMMF-FM - Grupo Audiorama Comunicaciones - Mexicali, BC
+https://ss1.audiorama.com.mx:6592/
+#EXTINF:-1,LA CALIENTE 92.1 (Ensenada) - 92.1 FM - XHHC-FM - Multimedios Radio - Ensenada, Baja California
+https://mdstrm.com/audio/672cf749673e8a2bb4c6d5d2/icecast.audio
+#EXTINF:-1, LA CALUROSA 100.3 (Ensenada) - 100.3 FM - XHDX-FM - Esquina 32 - Ensenada, Baja California
+https://cast2.my-control-panel.com/proxy/smashco1/stream
+#EXTINF:-1, LA GRAN D 1050 (Mexicali) - 1050 AM - XED-AM - Radio Cadena Enciso - Mexicali, Baja California
+https://edge.mixlr.com/channel/lcezl
+#EXTINF:-1,La Invasora (San Diego) - XHTY-FM - 99.7 FM - Uniradio - Tijuana, Baja California
+https://streamingcwsradio30.com:7022/stream
+#EXTINF:-1,La Invasora (Tijuana) - XHA-FM - 94.5 FM - Uniradio - Tijuana, Baja California
+https://streamingcwsradio30.com:7023/stream
+#EXTINF:-1,LA LUPE 94.7 (Ensenada) - 94.7 FM - XHPENS-FM - Multimedios Radio - Ensenada, Baja California
+https://mdstrm.com/audio/672ce72c8997d8ee6a17c240/icecast.audio
+#EXTINF:-1,La Mejor Ensenada - 103.3 FM - XHENA-FM - MVS Radio - Ensenada, Baja California
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHENAAAC.aac
+#EXTINF:-1, LA MEJOR FM 90.7 (Tijuana) - 90.7 FM - XHTIM-FM - MVS Radio - Tijuana, Baja California
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHTIMAAC.aac
+#EXTINF:-1, LA PODEROSA 860 (Tijuana) - 860 AM - XEMO-AM - Uniradio - Tijuana, Baja California
+https://streamingcwsradio30.com:7024/stream
+#EXTINF:-1, LA PODEROSA 96.9 (Mexicali) - 96.9 FM - XHMUG-FM - Radiorama Mexicali - Mexicali, Baja California
+https://sg.centrocibernetico.com/poderosa969
+#EXTINF:-1, LA RANCHERITA 89.1 (Ensenada) - 89.1 FM - XHEPF-FM - Radio Cadena Enciso (RCE) - Ensenada, Baja California
+https://edge.mixlr.com/channel/caifk
+#EXTINF:-1,LOS40 Ensenada - 96.9 FM - XHPSEN-FM - Radiópolis - Ensenada, BC
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ENSENADAAAC.aac
+#EXTINF:-1,LOS40 Mexicali - 90.7 FM - XHMOE-FM - Radiópolis - Mexicali, BC
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICO2AAC.aac
+#EXTINF:-1,Noticias MVS (Mexicali) - 1120 AM - XEMX-AM - MVS Radio - Mexicali, Baja California
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEMXAAC.aac
+#EXTINF:-1,PULSAR (Tijuana) - 107.3 FM - XHFG-FM - Uniradio - Tijuana, Baja California
+https://streamingcwsradio30.com:7021/stream
+#EXTINF:-1, RADIO FÓRMULA 950 (Tijuana) - 950 AM - XEKAM-AM - Grupo Fórmula - Tijuana, Baja California
+https://stream.radiojar.com/nce1peen3p8uv
+#EXTINF:-1, RADIO LATINA 104.5 (Tijuana) - 104.5 FM - XHLTN-FM - Grupo Imagen - Tijuana, Baja California
+https://mdstrm.com/audio/698f8c71e9899b0d0ceab9c0/live.m3u8
+#EXTINF:-1,RADIO MEXICANA 910 (Mexicali) - 910 AM - XEAO-AM - Grupo Audiorama Comunicaciones - Mexicali, Baja California
+https://cdn1.onstream.audio/proxy/xeao/stream
+#EXTINF:-1,SUPER (Mexicali) - 89.9 FM - XHSOL-FM - Grupo Audiorama Comunicaciones - Mexicali, BC
+https://ss1.audiorama.com.mx:6590/
+#EXTINF:-1,SUPER (Mexicali) - 89.9 FM - XHSOL-FM - Grupo Audiorama Comunicaciones  - Mexicali, BC
+https://ss1.audiorama.com.mx:6590/super
+#EXTINF:-1, W RADIO 940 (Mexicali) - 940 AM - XEMMM-AM - Grupo Radio Cañón - Mexicali, Baja California
+https://streaming.servicioswebmx.com/8284/stream

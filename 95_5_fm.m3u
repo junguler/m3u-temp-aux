@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,EXA FM 95.5 (Querétaro) - 95.5 FM - XHOE-FM - Multimundo Radio - Querétaro, Querétaro
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHOEAAC.aac
+#EXTINF:-1,EXA FM 95.5 (Torreón) - 95.5 FM - XHMP-FM - Grupo Radio Estéreo Mayran - Torreón, Coahuila
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMPAAC.aac
+#EXTINF:-1,KY (Navojoa) - 95.5 FM - XHNAS-FM - Grupo Audiorama Comunicaciones - Navojoa, Sonora
+https://ss1.audiorama.com.mx:6680/stream
+#EXTINF:-1,KY (Nogales) - 90.3 FM - XHXW-FM - Grupo Audiorama Comunicaciones - Nogales, Sonora
+https://ss1.audiorama.com.mx:6586/stream
+#EXTINF:-1, LA COMADRE 95.5 (Ciudad del Carmen) - 95.5 FM - XHPCAR-FM - Grupo SIPSE Radio - Ciudad del Carmen, Campeche
+https://cast4.my-control-panel.com/proxy/televis1/comadrecarmen
+#EXTINF:-1, LA KEBUENA 95.5 (Colima) - 95.5 FM - XHCMM-FM - 95.5 FM - Luna Medios - Coalcomán, Michoacán
+https://radios.lunamedios.mx:8308/;
+#EXTINF:-1, LA MAGNÍFICA 95.5 (Puebla) - 95.5 FM - XHZT-FM - Tribuna Comunicación - Puebla, Puebla
+https://stream.zeno.fm/zskjbd7n200tv
+#EXTINF:-1, LG LA GRANDE 95.5 (León) - 95.5 FM - XHELG-FM - Promomedios - León, Guanajuato
+https://stream.zeno.fm/9ty3tty0ra0uv

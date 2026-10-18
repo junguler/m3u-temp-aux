@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1,Highland Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/HIGHLAND_RADIO.mp3
+#EXTINF:-1,Rádio NoAr
+https://radios.justweb.pt/8034/stream

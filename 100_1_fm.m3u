@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1,100.1 Hits (Huajuapan) - 100.1 FM - XHPHUA-FM - Enza Telecom - Huajuapan de León, Oaxaca
+https://stream.zeno.fm/1ozriqxnwr0uv
+#EXTINF:-1,AMOR 100.1 (Mérida) - 100.1 FM - XHYU-FM - Grupo SIPSE Radio - Mérida, Yucatán
+https://webprod.sipse.com.mx:8080/amor
+#EXTINF:-1, LA KEBUENA 100.1 (Tuxtla) - 100.1 FM - XHUD-FM - Radio Núcleo - Tuxtla Gutiérrez, Chiapas
+https://stream.freepi.io/8306/live
+#EXTINF:-1, LA MEJOR FM 100.1 (Acapulco) - 100.1 FM - XHSE-FM - MVS Radio - Acapulco, Guerrero
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHSEAAC.aac
+#EXTINF:-1, LA MEJOR FM 100.1 (Tampico) - 100.1 FM - XHJT-FM - MVS Radio - Tampico, Tamaulipas
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHJTAAC.aac
+#EXTINF:-1, LA PODEROSA 100.1 (Oaxaca) - 100.1 FM - XHOQ-FM - Grupo AS Comunicación - Oaxaca, Oaxaca
+https://stream.zeno.fm/yg63h9ekvjhvv
+#EXTINF:-1, LA SANMARQUEÑA 100.1 (Aguascalientes) - 100.1 FM - XHARZ-FM - Grupo Radiofónico ZER - Aguascalientes, Aguascalientes
+https://cast.zuperdns.net/8028/stream/
+#EXTINF:-1, LOS40 100.1 (Coatzacoalcos) - 100.1 FM - XHNE-FM - Liberal del Sur - Coatzacoalcos, Veracruz
+https://streaming.servicioswebmx.com/8104/stream
+#EXTINF:-1, LUPE 560 (Manzanillo) - 560 AM - XEMZA-AM - Grupo Radiofónico ZER - Manzanillo, Colima
+https://live.zuperdns.net/1895/stream/
+#EXTINF:-1, MAGICA 100.1 (Parral) - 100.1 FM - XHHPC-FM - Hidalgo del Parral, Chihuahua
+https://secure.radiorama.mx:2042/
+#EXTINF:-1, MATCH 100.1 (Culiacán) - 100.1 FM - XHCNA-FM - Grupo ACIR - Culiacán, Sinaloa
+https://14993.live.streamtheworld.com:443/XHCNAFMAAC.aac
+#EXTINF:-1, RADIO FÓRMULA 100.1 (Poza Rica) - 100.1 FM - XHXK-FM - Grupo Fórmula - Poza Rica, Veracruz
+https://stream.radiojar.com/yqkm4a9n3p8uv
+#EXTINF:-1, VOX FM Radio Hits 100.1 (Cuernavaca) - 100.1 FM - XHTIX-FM - Cuernavaca, Morelos
+https://stream9.mexiserver.com:8342/steam
+#EXTINF:-1, W RADIO 100.1 (San Luis Potosí) - 100.1 FM - XHPM-FM - GlobalMedia - San Luis Potosí, San Luis Potosí
+https://wradio.b-cdn.net/stream

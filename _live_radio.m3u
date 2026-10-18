@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1,Gutsy Radio
 https://broadcast.gutsyradio.org/hls/gutsy_radio/live.m3u8
+#EXTINF:-1,NTR - Network Radio
+https://is.ntradio.pt/ntr

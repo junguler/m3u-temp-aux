@@ -41,3 +41,5 @@ https://sevfm.ru:9006/stream
 https://icecast-zvezda.mediacdn.ru/radio/zvezda/zvezda_128
 #EXTINF:-1,כאן רקע Kan Reka
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_reka/live.livx/playlist.m3u8?renditions
+#EXTINF:-1,Радио Лента stream 2
+https://streaming.broadcastrd.com/audio/radio-lenta.mp3

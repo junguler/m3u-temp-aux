@@ -13,3 +13,7 @@ https://streams.rsh.de/deutsch/mp3-192/streams.rsh.de/
 https://stream.regenbogen.de/80erpoprock/mp3-128/radiobrowser
 #EXTINF:-1,Radio Regenbogen - Flashback
 https://stream.regenbogen.de/flashback/aac-128/radiobrowser
+#EXTINF:-1,Justplay
+https://justplay.stream.laut.fm/justplay
+#EXTINF:-1,Radio S Xtra
+https://stream.radios.rs:9026/stream

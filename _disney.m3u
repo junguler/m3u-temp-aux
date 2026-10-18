@@ -7,3 +7,13 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BAA
 https://stream.epic-classical.com/classical-fairy-tales
 #EXTINF:-1,Dpark - Channel 2 (Background Area)
 https://str3.openstream.co/578?aw_0_1st.collectionid%3D3127%26stationId%3D3127%26publisherId%3D602%26k%3D1773588733
+#EXTINF:-1, RADIO DISNEY 102.1 (Toluca) - 102.1 FM - XHTOM-FM - Grupo Siete - Toluca, Estado de México
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHTOMFMAAC.aac
+#EXTINF:-1, RADIO DISNEY 92.9 (Puebla) - 92.9 FM - XHECD-FM - Grupo Oro Comunicaciones - Puebla, Puebla
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHECDFMAAC.aac
+#EXTINF:-1, RADIO DISNEY 93.1 (Mazatlán) - 93.1 FM -XHMZT-FM - Grupo Siete - Mazatlán, Sinaloa
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMZTFMAAC.aac
+#EXTINF:-1, RADIO DISNEY 95.7 (Pachuca) - 95.7 FM - XHMY-FM - Grupo Siete - Pachuca, Hidalgo
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHPCAFMAAC.aac
+#EXTINF:-1,  RADIO DISNEY: Te Llega
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHFOFMAAC.aac

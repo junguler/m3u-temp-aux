@@ -201,3 +201,31 @@ https://icast.connectmedia.hu/4656/mr11.aac
 https://router.xdevel.com/video5s975363-2398/stream/playlist.m3u8
 #EXTINF:-1,Radio Marsala Centrale RMC
 https://stream3.xdevel.com/audio1s975454-173/stream/icecast.audio
+#EXTINF:-1,Studio 90 Italia
+https://ns3156088.ip-51-89-96.eu:8246/
+#EXTINF:-1, Radio Fórmula 103.3 (CDMX) - 103.3 FM - XERFR-FM - Grupo Fórmula - Ciudad de México
+https://mdstrm.com/audio/6102ce7ef33d0b0830ec3adc/live.m3u8
+#EXTINF:-1,Radiorama 1340 Frecuencia Deportiva (Guadalajara) - 1340 AM - XEDKT-AM - Radiorama de Occidente - Guadalajara, Jalisco
+https://stream.zeno.fm/r1540b8e408uv
+#EXTINF:-1,W RADIO 90.1 (San José Iturbide) - 90.1 FM - XHPSJI-FM - GlobalMedia - San José Iturbide, Guanajuato
+https://playradio.mx/proxy/los40jose?mp=/stream
+#EXTINF:-1,EAGLE 7 SPORTS RADIO 103.7 FM
+https://eagle7fm-atunwadigital.streamguys1.com/eagle7fm
+#EXTINF:-1,RPP+
+https://pe-p4-p-e-cx1-audio.cdn.mdstrm.com/live-audio-aw/5faee448445c6107b3fee13f/playlist.m3u8?listeningSessionID=69f0808001cf2895_4181173_LOxDBfCQ_cGUtcDQtcC1lLWN4MS1hdWRpby5jZG4ubWRzdHJtLmNvbTo4MDAw_0000000I6al&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=XtRmM7BAs3XcxcxoMvzm2bLuF0AhZqOf&sid=oeKDIAFTGUom6Rdb4fYtg9WBGDutEkfM&pid=iSK9RYEIXoIzoAUGPwc7poSXB1mnd4OY&ref=rpp.pe&ext_pb=0&CMCD=cid%3D%225faee448445c6107b3fee13f%22%2Cmtp%3D13000%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22iSK9RYEIXoIzoAUGPwc7poSXB1mnd4OY%22&es=pe-p4-p-e-cx1-audio.cdn.mdstrm.com&ote=1781636788860&ot=KEgeLIFdM8e3HRdIBT_Rrw&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&aw_0_1st.playerId=audioplayer_web&liveId=5faee448445c6107b3fee13f&referer=https%3A%2F%2Frpp.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=v1.0.79&listenerId=XtRmM7BAs3XcxcxoMvzm2bLuF0AhZqOf
+#EXTINF:-1,RPP Mundial (Perú)
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5faee885eb830d06cf22ed4a/playlist.m3u8?listeningSessionID=636caa560fe65225_1006885_YNhDxhXb__0000001B3Ny&downloadSessionID=0&aid=5faaeb72f92d7b07dfe10181&dnt=true&uid=4KOWgzZ9nfekeotUYauzmeKrOQfRCQma&sid=LhXvvJVKZUrLvqSvYiI4DFZ2YiVMf0Uw&pid=GhVrREycHyvqzg9XezY4IhgwwgiPzsgQ&ref=audioplayer.pe&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1669158810445&ot=-57RkzEDB4oSQczBsPKIMw&proto=https&pz=us&cP=128000&awCollectionId=5faaeb72f92d7b07dfe10181&aw_0_1st.playerId=audioplayer_web&liveId=5faee885eb830d06cf22ed4a&referer=https%3A%2F%2Faudioplayer.pe%2F&propertyName=audioplayer_web&propertyType=web-app&propertyVersion=v0.0.199
+#EXTINF:-1,Benfica FM
+https://default.benficaplay.cdn.videokit.cloud/out/v1/benficaplay-default/benficaplay_benficaplay-radio_08de155dbd06_audio/benficaplay_benficaplay-radio_08de155dbd06_hls/benficaplay-radio-hls.m3u8
+#EXTINF:-1,Radio ABC Cardinal 730 AM (Asunción)
+https://media.streambrothers.com:8342/stream
+#EXTINF:-1,Sport Total FM (SPT FM) -BucureÈ™ti 105.8 FM
+https://livesptfm.com/SPTFM/Live/chunklist.m3u8
+#EXTINF:-1,Radio Caribrod
+https://as1.radioserveri.com:8220/radio.mp3?
+#EXTINF:-1,Radio JugoviÄ‡
+https://radio.dukahosting.com:7042/;
+#EXTINF:-1,VOV GTHN (HD + for copyrighted contents)
+https://tfx70gr4nhct1gwzdrcttfa5urmmbqi1g153ppt3zgmusp75nh7uq.100ycdn.com/audio-lss.vov.vn/live/giao_thong_ha_noi.m3u8
+#EXTINF:-1,VOV2 (HD + for copyrighted contents)
+https://audio-lss.vov.vn/live/vov2.m3u8

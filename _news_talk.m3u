@@ -221,3 +221,33 @@ https://eu4.fastcast4u.com/proxy/cowlradio?mp=/1
 https://eu8.fastcast4u.com/proxy/ccr?mp=/1
 #EXTINF:-1,Radio Sahar
 https://live.ecast.co.il/stream/sahar/stream
+#EXTINF:-1,106.9 Radio Fórmula (Aguascalientes) - 106.9 FM - XHAC-FM - Radio Universal - Aguascalientes, Aguascalientes
+https://radioweb.stream/ags.ags/xhac.aac/icecast.audio
+#EXTINF:-1,EL HERALDO RADIO 100.3 (GDL) - 100.3 FM - XHAV-FM - Heraldo Media Group - Guadalajara, JAlisco
+https://stream.radiojar.com/21h1m4cch8nwv
+#EXTINF:-1,EL HERALDO RADIO 99.7 (MTY) - 99.7 FM - XHSP-FM - Heraldo Media Group - Monterrey, Nuevo León
+https://stream.radiojar.com/951bffq8h8nwv
+#EXTINF:-1,EL HERALDO RADIO: La "H" Que SÃ­ Suena ðŸ†•
+https://stream.radiojar.com/ce31v3yah8nwv
+#EXTINF:-1, Radio Fórmula 103.3 (CDMX) - 103.3 FM - XERFR-FM - Grupo Fórmula - Ciudad de México
+https://mdstrm.com/audio/6102ce7ef33d0b0830ec3adc/live.m3u8
+#EXTINF:-1,Radio Fórmula - 104.1 FM - XERFR-FM - Grupo Fórmula - Ciudad de México
+https://mdstrm.com/audio/61e1dfd2658baf082814e25d/live.m3u8
+#EXTINF:-1, RADIO METRÓPOLI 1150 (GDL) - 1150 AM - XEAD-AM - Grupo Unidifusión - Guadalajara, Jalisco
+https://s2.yesstreaming.net:9088/stream
+#EXTINF:-1, RADIO MEXICANA Nuestras Noticias 1300 (Ciudad Juárez) - 1300 AM - XEP-AM - Radiorama - Ciudad Juárez, Chihuahua
+https://stream.zeno.fm/9b3xff05dkhvv
+#EXTINF:-1,W RADIO 90.1 (San José Iturbide) - 90.1 FM - XHPSJI-FM - GlobalMedia - San José Iturbide, Guanajuato
+https://playradio.mx/proxy/los40jose?mp=/stream
+#EXTINF:-1,W Radio Ciudad de Mexico 96.9 FM (Stream alternativo)
+https://streaming.servicioswebmx.com/8226/stream
+#EXTINF:-1,RADIO PANJABI
+https://s20.reliastream.com/stream/8134
+#EXTINF:-1,Radio Republika
+https://ssl-1.radiotvrepublika.pl:12698/stream
+#EXTINF:-1,Antena 1 Madeira (Portugal)
+https://streaming-live.rtp.pt/liveradio/antena1madeira80a/playlist.m3u8
+#EXTINF:-1,Al araby
+https://l3.itworkscdn.net/alarabyradiolive/alarabyradio_audio/icecast.audio
+#EXTINF:-1,Power 98.7
+https://edge.iono.fm/xice/65_medium.aac

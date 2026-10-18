@@ -31,3 +31,9 @@ https://icecast.walmradio.com:8443/walm2_opus
 https://classicalkids.stream.publicradio.org/classicalkids.aac
 #EXTINF:-1,YourClassical Women's History
 https://womenshistory.stream.publicradio.org/womenshistory.aac
+#EXTINF:-1,Acustic Radio
+https://stream.zeno.fm/xmgnc6mcwnhvv
+#EXTINF:-1,Radio S Classic
+https://stream.radios.rs:9074/stream
+#EXTINF:-1,Epic Soundtracks Only
+https://mml2.prostream.se/listen/epic_soundtracks_only/radio.mp3

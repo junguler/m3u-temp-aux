@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,102.1 Exa FM (San Luis Potosí) - 102.1 FM - XHESL-FM - MG Radio - San Luis Potosí, San Luis Potosí
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHESLAAC.aac
+#EXTINF:-1, FACTOR 96.1 (San Luis Potosí) - 96.1 FM - XHOB-FM - MG Comunicación - San Luis Potosí, San Luis Potosí
+https://factor.b-cdn.net/stream
+#EXTINF:-1, MAS FM 99.3 (San Luis Potosí) - 99.3 FM - XHTL-FM - MG Radio - San Luis Potosí, San Luis Potosí
+https://masfm.b-cdn.net/stream

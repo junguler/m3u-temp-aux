@@ -21,3 +21,11 @@ https://admin.stream.rinse.fm/proxy/swu/stream
 https://xn--tmz.xn--6frz82g/streams
 #EXTINF:-1,RTÉ Raidió na Gaeltachta
 https://liveaudio.rte.ie/hls-radio/rnag/chunklist.m3u8
+#EXTINF:-1,Underland Radio
+https://radio.underland.team:8000/radio.mp3
+#EXTINF:-1,Mad Mix Beats
+https://mml1.prostream.se/listen/mad_mix_beats/radio.mp3
+#EXTINF:-1,Mad Mix Curated
+https://mml2.prostream.se/listen/mad_mix_curated/radio.mp3
+#EXTINF:-1,Mad Mix Main
+https://mml1.prostream.se/listen/mad_mix_main/radio.mp3

@@ -21,3 +21,7 @@ https://live.triphop.radio/
 https://stream.rcs.revma.com/fxp289cp81uvv.xspf
 #EXTINF:-1,NEU RADIO
 https://nr9.newradio.it/proxy/ebaruffa?mp=/stream
+#EXTINF:-1,SubFM
+https://stream.subfm.sk/subfm
+#EXTINF:-1,UbuntuFM
+https://streaming.coollective.nl:8443/UbuntuFM

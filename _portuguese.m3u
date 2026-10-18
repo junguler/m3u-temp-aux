@@ -1,3 +1,13 @@
 #EXTM3U
 #EXTINF:-1,Radio Positiva
 https://nl.digitalrm.pt:8106/stream
+#EXTINF:-1,Radio OnBouge
+https://onbouge.eu/flux/onbouge.mp3
+#EXTINF:-1,Rádio OnBouge Português
+https://onbouge.eu/flux/onbouge-pt.mp3
+#EXTINF:-1,Rádio Zig Zag
+https://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8
+#EXTINF:-1,RDP Africa (Portugal)
+https://streaming-live.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8
+#EXTINF:-1,SuperFM
+https://play.radioregional.pt:8210/stream/2/;/stream.mp3

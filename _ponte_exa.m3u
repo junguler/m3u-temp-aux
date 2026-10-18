@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1,101.1 Exa FM (Monclova) - 101.1 FM - XHWGR-FM - NRT México - Monclova, Coahuila
+https://radio.nrt-environment.com/hls/exa101/exa.m3u8
+#EXTINF:-1,102.1 Exa FM (San Luis Potosí) - 102.1 FM - XHESL-FM - MG Radio - San Luis Potosí, San Luis Potosí
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHESLAAC.aac
+#EXTINF:-1,91.7 Exa FM (Tijuana) - 91.7 FM - XHGLX-FM - MVS Radio - Tijuana, Baja California
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHGLXAAC.aac
+#EXTINF:-1,Exa FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHEXA_SC
+#EXTINF:-1,EXA FM 102.9 (Tehuacán) - 102.9 FM - XHWJ-FM - Radio TH Comunicación - Tehuacán, Puebla
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHWJ_EXAAAC.aac
+#EXTINF:-1,EXA FM 91.3 (Córdoba) - 91.3 FM - XHPT-FM - Radio Comunicaciones de las Altas Montañas - Córdoba, Veracruz
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHPTAAC.aac
+#EXTINF:-1,EXA FM 91.5 (Mexicali) - 91.5 FM - XHJC-FM - MVS Radio - Mexicali, Baja California
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHJCFMAAC.aac
+#EXTINF:-1,EXA FM 93.5 (Irapuato) - 93.5 FM - XHNY-FM - Irapuato, Guanajuato
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHNYAAC.aac
+#EXTINF:-1,EXA FM 95.5 (Querétaro) - 95.5 FM - XHOE-FM - Multimundo Radio - Querétaro, Querétaro
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHOEAAC.aac
+#EXTINF:-1,EXA FM 99.3 (Mérida) - 99.3 FM - XHMRA-FM - MVS Radio - Mérida, Yucatán
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMRAAAC.aac
+#EXTINF:-1,Exa FM Ciudad del Carmen - 99.7 FM / 1070 AM - XHIT-FM / XEIT-AM - Radiorama - Ciudad del Carmen, Campeche
+https://ss1.audiorama.com.mx:6674/stream

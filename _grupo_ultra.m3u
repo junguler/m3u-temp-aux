@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1, RADIO RANCHITO 99.7 (Calvillo) - 99.7 FM - XHPLVI-FM - Grupo ULTRA México - Calvillo, Aguascalientes
+https://streamingcwsradio30.com:7006/stream.mp3
+#EXTINF:-1,Radio Ranchito (Morelia) - 102.5 FM - XHRPA-FM - Grupo ULTRA - Morelia, MI
+https://ranchito.b-cdn.net/stream
+#EXTINF:-1, ULTRA 101.3 (Toluca) - 101.3 FM - XHZA-FM - Grupo ULTRA - Toluca, Estado de México
+https://icecastultra.duckdns.org/livetol
+#EXTINF:-1,Ultra (Huauchinango) - 91.7 FM - XHPHBP-FM - Grupo ULTRA - Huauchinango, Puebla
+https://icecastultra.duckdns.org/livehua
+#EXTINF:-1,Ultra (Puebla) - 92.5 FM - XHZM-FM - Grupo ULTRA - Puebla, Puebla
+https://icecastultra.duckdns.org/livepue
+#EXTINF:-1,Ultra (Tulancingo) - 102.9 FM - XHTNO-FM - Grupo ULTRA - Tulancingo, Hidalgo
+https://icecastultra.duckdns.org/livetul

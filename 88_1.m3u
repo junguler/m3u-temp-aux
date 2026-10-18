@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1,FM Globo Monterrey - 88.1 FM - XHJM-FM - MVS Radio - Monterrey, NL
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHJMFM_SC
+#EXTINF:-1,LA OCTAVA (Ciudad de México) - 88.1 FM - XHRED-FM - Grupo Radio Centro - Ciudad de México
+https://playerservices.streamtheworld.com/api/livestream-redirect/XERED_AM_SC
+#EXTINF:-1,La Voz del Pitic - 88.1 FM - XHRMO-FM - Democracia y Deliberación Desértica, A.C. - Hermosillo, SO
+https://s5.mexside.net:8080/stream
+#EXTINF:-1,LOS40 Zamora - 88.1 FM - XHZN-FM - Grupo Radio Zamora - Zamora, MI
+https://stream.zeno.fm/071em957am8uv
+#EXTINF:-1,UNIVERSAL Ciudad de México - 88.1 FM - XHRED-FM - Grupo Radio Centro - Ciudad de México
+https://playerservices.streamtheworld.com/api/livestream-redirect/XERED_AMAAC.aac

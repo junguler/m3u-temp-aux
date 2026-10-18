@@ -31,3 +31,5 @@ https://streaming.ticktock.radio/tt/1958/icecast.audio
 https://streaming.ticktock.radio/tt/1959/icecast.audio
 #EXTINF:-1,Time Machine Radio
 https://stationwfos.whro.org/128.mp3
+#EXTINF:-1,Höganäs Närradio
+https://deb.patrikmalmgrenrask.se:10443/

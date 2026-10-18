@@ -21,3 +21,9 @@ https://ssl.audio1.meway.tv/proxy/radiolegends?mp=/stream
 https://streaming.radiomargherita.com/stream/radiomargherita
 #EXTINF:-1,Radio Metropolis
 https://sr14.inmystream.it/stream/citypress
+#EXTINF:-1,Radio Soffio
+https://sr2.inmystream.it/proxy/radiosoffio/stream
+#EXTINF:-1,TeleRadio1 
+https://stream.laut.fm/teleradio1
+#EXTINF:-1,United Music Italia 2000
+https://icy.unitedradio.it/um013.mp3

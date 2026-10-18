@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1,Arroba FM (Culiacán) - 95.3 FM - XHIN-FM - Radiorama - Culiacán, Sinaloa
+https://stream.zeno.fm/202c8kg9d78uv
+#EXTINF:-1,Exa FM Culiacán 101.7 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHESAAAC.AAC
+#EXTINF:-1,La Bestia Grupera Culiacán 102.5 FM
+https://a6.asurahosting.com:7710/radio.mp3
+#EXTINF:-1, LA COMADRE 98.5 (Culiacán) - 98.5 FM - XHCLI-FM - Grupo ACIR - Culiacán, Sinaloa
+https://14623.live.streamtheworld.com:443/XHCLIFMAAC.aac
+#EXTINF:-1,La Comadre Culiacán - 98.5 FM - XHCLI-FM - Grupo ACIR - Culiacán, SI
+https://14993.live.streamtheworld.com:443/XHCLIFMAAC.aac
+#EXTINF:-1,La Lupe 90.7 FM Culiacán
+https://mdstrm.com/audio/6737870cf12274fb020c287a/icecast.audio?property=mmradio
+#EXTINF:-1,La Mejor 104.1 Culiacán
+https://hls.gvstream.live/gpm/cq-audio.stream/playlist.m3u8
+#EXTINF:-1,La Mexicana 92.3 FM Culiacán 
+https://a6.asurahosting.com:7900/radio.mp3
+#EXTINF:-1, MATCH 100.1 (Culiacán) - 100.1 FM - XHCNA-FM - Grupo ACIR - Culiacán, Sinaloa
+https://14993.live.streamtheworld.com:443/XHCNAFMAAC.aac
+#EXTINF:-1,Match Culiacán - 100.1 FM - XHCNA-FM - Grupo ACIR - Culiacán, SI
+https://14133.live.streamtheworld.com:443/XHCNAFM_SC
+#EXTINF:-1,Neo 94.1 HD3 Culiacán
+https://audiostreaming.luz.network/stream/9/;
+#EXTINF:-1, OSCAR 90.1 (La Cruz de Elota) - 90.1 FM - XHLCE-FM - La Cruz de Elota/Culiacán, Sinaloa
+https://radioweb.stream/sinaloa.culiacan/xhlce.aac/icecast.audio
+#EXTINF:-1,Radio Sinaloa 94.5, 93.9 y 92.5
+https://stream20.usastreams.com/8156/stream
+#EXTINF:-1,Romántica (Culiacán) - 89.5 FM / 750 AM - XHCSI-FM / XECSI-AM - Radiorama Sinaloa - Culiacán, Sinaloa
+https://stream-155.zeno.fm/3195h8s3ekhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzMTk1aDhzM2VraHZ2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiX0F4c2d6YUlRQWVuMXdtNXRNcTh3ZyIsImlhdCI6MTc2ODQ0NTA3MSwiZXhwIjoxNzY4NDQ1MTMxfQ.SavdBrmYgjKq8M7ydBj_elU8jtJmc3h49nw50T5BPqw
+#EXTINF:-1,Stereo uno 94.1 Culiacán
+https://audiostreaming.luz.network/stream/7/;
+#EXTINF:-1,Vibra FM (Culiacán) - 96.9 FM - XHVQ-FM - Grupo Vibra - Culiacán, Sinaloa
+https://sp2.servidorrprivado.com:10859/stream
+#EXTINF:-1,Vintage 94.1 HD2 Culiacán
+https://audiostreaming.luz.network/stream/8/;

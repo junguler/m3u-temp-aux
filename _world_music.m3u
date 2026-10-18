@@ -175,3 +175,25 @@ https://ec2s.crolive.com.hr/tranzistor
 https://ns3156088.ip-51-89-96.eu:2000/stream/GlobusRadioStation/stream
 #EXTINF:-1,Radio Omega Sound
 https://nr9.newradio.it/proxy/radioome?mp=/stream
+#EXTINF:-1,VisiOnAir
+https://live.s1.radiovisionair.net:8443/?ver=710800
+#EXTINF:-1,RADIO TECNOLÓGICO DE CELAYA 89.9 (Celaya) - 89.9 FM - XHITC-FM - Instituto Tecnológico de Celaya - Celaya, Guanajuato
+https://radios.radiohd.com.mx/8282/;
+#EXTINF:-1,Gaia FM (New Zealand)
+https://s2.stationplaylist.com:9000/gaiafm.aac
+#EXTINF:-1,Folk Radio 
+https://streaming.g-news.pl:8030/fr1
+#EXTINF:-1,Radio IN Beograd
+https://radio3-64ssl.streaming.rs:9212/;*.mp3
+#EXTINF:-1,Radio FM
+https://icecast.stv.livebox.sk/fm_128.mp3
+#EXTINF:-1,Radio Suita
+https://radioserver.online/proxy/radiosuita/radiosuita.mp3
+#EXTINF:-1,Aftab
+https://mml1.prostream.se/listen/aftab/radio.mp3
+#EXTINF:-1,Hello Africa
+https://mml1.prostream.se/listen/hello_africa/radio.mp3
+#EXTINF:-1,Polushon
+https://whsh4u-clients.com:18323/proxy/ndhfnbqx?mp=/stream
+#EXTINF:-1,MFM STATION
+https://radio.mfm.ua/online128

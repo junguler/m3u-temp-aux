@@ -23,3 +23,9 @@ https://wfdd.streamguys1.com/wfdd1
 https://icecast.do.zufall.co/wicb_aac_high
 #EXTINF:-1,WRSU
 https://wrsu-libstrm.radioca.st/stream
+#EXTINF:-1,95bFM - 256Kbps MP3
+https://streams.95bfm.com/stream95
+#EXTINF:-1,95bFM - 64kbps AAC+
+https://streams.95bfm.com/stream128
+#EXTINF:-1,95bFM - FLAC
+https://streams.95bfm.com/stream112

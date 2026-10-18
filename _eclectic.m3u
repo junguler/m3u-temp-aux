@@ -145,3 +145,13 @@ https://eu1.fastcast4u.com/proxy/radiomartino?mp=/1
 https://smartstream.link/senses
 #EXTINF:-1,Radio Banda Larga
 https://rblmedia.out.airtime.pro/rblmedia_a
+#EXTINF:-1,MAD FM Auckland 106.7
+https://madfm-gecko.radioca.st/stream
+#EXTINF:-1,Paekakariki 88.2FM
+https://icecast.groundtruth.co.nz/paekakfm.aac
+#EXTINF:-1,Radio DHT (kanał główny)
+https://radiodht.com/stream_main/
+#EXTINF:-1,Radio Mango AI
+https://stream.radiomango.ai/listen/radio_mango_ai/radio.mp3
+#EXTINF:-1,Radio SKC
+https://skc.fm/listen/skc_radio/skc_hiq.mp3

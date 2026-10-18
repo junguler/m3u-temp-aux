@@ -3,3 +3,19 @@
 https://sonic-us.arkeo.cl/8562/stream.mp3?ts=1769817329142
 #EXTINF:-1,WLTJ-92.9 HD2 Radio Las Palmas
 https://ssl.voxservidor.com:7168/;
+#EXTINF:-1,101.1 Exa FM (Monclova) - 101.1 FM - XHWGR-FM - NRT México - Monclova, Coahuila
+https://radio.nrt-environment.com/hls/exa101/exa.m3u8
+#EXTINF:-1,102.1 Exa FM (San Luis Potosí) - 102.1 FM - XHESL-FM - MG Radio - San Luis Potosí, San Luis Potosí
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHESLAAC.aac
+#EXTINF:-1,91.7 Exa FM (Tijuana) - 91.7 FM - XHGLX-FM - MVS Radio - Tijuana, Baja California
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHGLXAAC.aac
+#EXTINF:-1,  ARROBA FM: Te Conecta
+https://stream.zeno.fm/6vtcayf9d78uv
+#EXTINF:-1,ESTÉREO SOL 101.1 (Ensenada) - 101.1 FM - XHAT-FM - Radio Cadena Enciso (RCE) - Ensenada, Baja California
+https://edge.mixlr.com/channel/gdjut
+#EXTINF:-1,EXA FM 91.5 (Mexicali) - 91.5 FM - XHJC-FM - MVS Radio - Mexicali, Baja California
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHJCFMAAC.aac
+#EXTINF:-1,EXA FM 95.5 (Querétaro) - 95.5 FM - XHOE-FM - Multimundo Radio - Querétaro, Querétaro
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHOEAAC.aac
+#EXTINF:-1,La 103 Los Mochis 103.9 FM
+https://streaming.soyradioinc.com/la103/stream

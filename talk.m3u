@@ -65,3 +65,23 @@ https://ice7.securenetsystems.net/WSPC
 https://stream.compsolutions1.net/proxy/wvbgam/stream
 #EXTINF:-1,Radio Sei (Italia)
 https://icecast.ithost.it/radiosei.ogg
+#EXTINF:-1,Retesport (Italia)
+https://icecast.ithost.it/retesport.ogg
+#EXTINF:-1,Family Radio FM
+https://c2.radioboss.fm/stream/394
+#EXTINF:-1,MBC Radio Mauritius
+https://radio.mbconline.xyz/hls/radiomauritus.m3u8
+#EXTINF:-1,Mazurske Radijo
+https://stream-172.zeno.fm/h6af85mhunhvv
+#EXTINF:-1,Radio Transforma
+https://cast1.redeaudio.com/proxy/radiotransforma/stream
+#EXTINF:-1,Ok Radio
+https://stream1.okradio.net/
+#EXTINF:-1,Radio IN
+https://cast5.servcast.net/proxy/inter/stream
+#EXTINF:-1,Radio Koliba
+https://a9.asurahosting.com:7380/radio.mp3
+#EXTINF:-1,Radio Maestro
+https://radio-maestro.com:8443/stream.mp3
+#EXTINF:-1,РАДІО КИЇВ – 98 FM
+https://cdn.vsnw.net:8943/kyiv_fm_128k

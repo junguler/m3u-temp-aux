@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1, BUENISIIMA 850 (Mexicali) - 850 AM - XEZF-AM - Grupo Audiorama Comunicaciones - Mexicali, Baja California
+https://ss1.audiorama.com.mx:6594/stream
+#EXTINF:-1,ESTÉREO BAJA 1190 (Mexicali) - 1190 AM - XEMBC-AM - Esquina 32 Radio - Mexicali, Baja California
+https://stream.radiojar.com/6a8qnq5n9zcwv
+#EXTINF:-1,EXA FM 91.5 (Mexicali) - 91.5 FM - XHJC-FM - MVS Radio - Mexicali, Baja California
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHJCFMAAC.aac
+#EXTINF:-1, Globo 101.9 (Mexicali) - 101.9 FM - XHPF-FM - MVS Radio - Mexicali, Baja California
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHPFFMAAC.aac
+#EXTINF:-1, LA PODEROSA 96.9 (Mexicali) - 96.9 FM - XHMUG-FM - Radiorama Mexicali - Mexicali, Baja California
+https://sg.centrocibernetico.com/poderosa969

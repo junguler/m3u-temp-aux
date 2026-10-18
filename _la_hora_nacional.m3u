@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1,91.7 Exa FM (Tijuana) - 91.7 FM - XHGLX-FM - MVS Radio - Tijuana, Baja California
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHGLXAAC.aac
+#EXTINF:-1,ESTÉREO BAJA 1190 (Mexicali) - 1190 AM - XEMBC-AM - Esquina 32 Radio - Mexicali, Baja California
+https://stream.radiojar.com/6a8qnq5n9zcwv
+#EXTINF:-1,ESTÉREO SOL 101.1 (Ensenada) - 101.1 FM - XHAT-FM - Radio Cadena Enciso (RCE) - Ensenada, Baja California
+https://edge.mixlr.com/channel/gdjut
+#EXTINF:-1,EXA FM 91.5 (Mexicali) - 91.5 FM - XHJC-FM - MVS Radio - Mexicali, Baja California
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHJCFMAAC.aac
+#EXTINF:-1,EXA FM 95.5 (Querétaro) - 95.5 FM - XHOE-FM - Multimundo Radio - Querétaro, Querétaro
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHOEAAC.aac
+#EXTINF:-1,JOYA 96.9 (Xalapa) - 96.9 FM - XHTZ-FM - Valanci Media Group - Xalapa, Veracruz
+https://playradio.mx/proxy/joya?mp=/stream
+#EXTINF:-1,LA VOZ DEL ANGEL 99.9 (Puerto Ángel) - 99.9 FM - XHEPX-FM - Grupo Radio Solución - Puerto Ángel, Oaxaca
+https://stream.zeno.fm/9liwkbahprctv
+#EXTINF:-1,NV RADIO 94.1 (Pabellón de Arteaga) - 94.1 FM - XHSCGX-FM - Medios Digitales Sociales y Culturales de Aguascalientes, A.C. - Pabellón de Arteaga, Aguascalientes
+https://radio.cimaspeed.com/8184/;
+#EXTINF:-1,RADIO MEXICANA 910 (Mexicali) - 910 AM - XEAO-AM - Grupo Audiorama Comunicaciones - Mexicali, Baja California
+https://cdn1.onstream.audio/proxy/xeao/stream
+#EXTINF:-1,VIDA 89.7 (Acapulco) - 89.7 FM - XHKJ-FM - Grupo Audiorama Comunicaciones - Acapulco, Guerrero
+https://sg.centrocibernetico.com/audiorama-xhkj
+#EXTINF:-1,VIVE FM 106.3 (Tehuacán) - 106.3 FM - XHETE-FM - Cinco Radio - Tehuacán, Puebla
+https://sg.centrocibernetico.com/vive106.3

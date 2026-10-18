@@ -9,3 +9,5 @@ https://admin.stream.rinse.fm/proxy/rinse_uk/stream
 https://mystation.micast.media/radio/8020/radio.mp3
 #EXTINF:-1,XL:UK Radio
 https://s3.radio.co/s113a5dc46/listen
+#EXTINF:-1,Sub FM
+https://fmsub.radioca.st/stream?type=http&nocache=140

@@ -17,3 +17,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KMEZFMAAC_SC
 https://hu-stream03.klubradio.hu:8443/bpstream
 #EXTINF:-1,Radio M2O
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/master_ma.m3u8
+#EXTINF:-1,Radio 1
+https://live.radio.si/Radio1
+#EXTINF:-1,Radio 1 Koroska
+https://live.radio1.si/Radio1KOR

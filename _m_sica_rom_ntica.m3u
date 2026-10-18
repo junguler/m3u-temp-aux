@@ -1,3 +1,39 @@
 #EXTM3U
 #EXTINF:-1,Suave 107.3 FM
 https://stream.zeno.fm/cta80ru8na0uv
+#EXTINF:-1,93.1 Bella Música (Tuxtla) - 93.1 FM - XHREZ-FM - Valanci Media Group - Tuxtla Gutiérrez, Chiapas
+https://stream.zeno.fm/ayrbxv13gd0uv
+#EXTINF:-1,93.1 Love FM (Hermosillo) - 93.1 FM - XHEPB-FM - Grupo RADIO SA - Hermosillo, Sonora
+https://mdstrm.com/audio/66b0f440b47ad3416c6a654a/live.m3u8
+#EXTINF:-1,AMOR 100.1 (Mérida) - 100.1 FM - XHYU-FM - Grupo SIPSE Radio - Mérida, Yucatán
+https://webprod.sipse.com.mx:8080/amor
+#EXTINF:-1,  AMOR SOLO POP: Pop y baladas en español
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR03_s01AAC.aac
+#EXTINF:-1, EL FONÓGRAFO - 690 AM - XEN-AM - Grupo Radio Centro - Ciudad de México
+https://26423.live.streamtheworld.com:443/XEN_AMAAC.aac
+#EXTINF:-1,EL FONÓGRAFO, Música las 24 horas (CDMX) - Online - Grupo Radio Centro - Ciudad de México
+https://26233.live.streamtheworld.com:443/XEJP_AMAAC.aac
+#EXTINF:-1,  EL FONÓGRAFO: Música Ligada a tu Recuerdo
+https://19263.live.streamtheworld.com:443/XEN_AMAAC.aac
+#EXTINF:-1, ESTÉREO ROMANCE 100.7 (La Paz) - 100.7 FM - XHZPL-FM - Promomedios California - La Paz, Baja California
+https://stream.zeno.fm/rkh7xul6uf8vv
+#EXTINF:-1, JOYA 93.7 (CDMX) - 93.7 FM - XEJP-FM - Grupo Radio Centro - Ciudad de México
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEJP_FMAAC.aac
+#EXTINF:-1,La romántica Puebla 92.9 FM HD2
+https://stream.zeno.fm/q5f7ne3sb18uv
+#EXTINF:-1,Radio Centro San Luis 93.9 FM
+https://radios.blumhost.es/8132/;
+#EXTINF:-1,RADIO TECNOLÓGICO DE CELAYA 89.9 (Celaya) - 89.9 FM - XHITC-FM - Instituto Tecnológico de Celaya - Celaya, Guanajuato
+https://radios.radiohd.com.mx/8282/;
+#EXTINF:-1,Romántica 101.9 Tepic
+https://stream.zeno.fm/wfz2auypu98uv
+#EXTINF:-1,ROMÁNTICA 93.1 (San Luis Potosí) - 93.1 FM - XHEI-FM - Grupo AS Comunicación / Radiorama - San Luis Potosí, San Luis Potosí
+https://stream.zeno.fm/uzejcai7evcvv
+#EXTINF:-1,VIDA ROMÁNTICA 99.3 (Tampico) - 99.3 FM - XHETU-FM - Radio Resultados - Tampico, Tamaulipas
+https://stream-285.surfernetwork.com/621e7h6zfkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2MjFlN2g2emZraHZ2IiwiaG9zdCI6InN0cmVhbS0yODUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlloSTNubjdlUngtTk9qclF6RDZ6VFEiLCJpYXQiOjE3OTA2NzIwODksImV4cCI6MTc5MDY3MjE0OX0.Q7cDkwzF-BXJmUsBb0VN9yiK6Wf7PiyKa7n0u_CES1s
+#EXTINF:-1,WAÖH 95.3 (San Luis Potosí) - 95.3 FM - XHNB-FM - Cadena RASA - San Luis Potosí, San Luis Potosí
+https://stream.zenolive.com/be10ijonibvuv
+#EXTINF:-1,Radio Amor 95.9FM
+https://copaco.desdeparaguay.net/movamor/movamor.stream/playlist.m3u8
+#EXTINF:-1,Radio IN
+https://cast5.servcast.net/proxy/inter/stream

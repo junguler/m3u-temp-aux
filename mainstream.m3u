@@ -47,3 +47,7 @@ https://radio.1055rock.gr:32667/live
 https://ams-pioneer02.dedicateware.com:1060/;?type=http&nocache=10656
 #EXTINF:-1,Zoo 90.8
 https://netradio.live24.gr/zoo908thess
+#EXTINF:-1,Hot 102
+https://server7.servistreaming.com/proxy/hot?mp=%2Fstream%3Ftype%3D.mp3&_=1
+#EXTINF:-1,Radio S Pop & Rock
+https://stream.radios.rs:9028/stream

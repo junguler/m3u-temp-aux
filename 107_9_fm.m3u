@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1,107.9 Grupo Radioasta (Ensenada) - 107.9 FM - XHSCBH-FM - Grupo Radioasta, A.C. - Ensenada, Baja California
+https://radios.yanapak.org/gruporadioasta
+#EXTINF:-1, DSS RADIO 107.9 (Chilpancingo) - 107.9 FM - XHSCAS-FM - Digital con Sentido Social 106.3, A.C. - Chilpancingo, Guerrero
+https://cast3.my-control-panel.com/proxy/dssradio?mp=/;
+#EXTINF:-1,Mas Radio - 107.9 FM - KCKO-FM - Mas Medios Nogales - Nogales, Sonora
+https://s5.mexside.net:8000/stream
+#EXTINF:-1, W RADIO 107.9 (Irapuato) - 107.9 FM - XHWE-FM - Radio Grupo Antonio Contreras - Irapuato, Guanajuato
+https://stream9.mexiserver.com:8418/stream/
+#EXTINF:-1, W RADIO 107.9 (Querétaro) - 107.9 FM - XHQG-FM - Global Media - Querétaro, Querétaro
+https://playradio.mx/proxy/xhqg?mp=/stream

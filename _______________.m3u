@@ -23,3 +23,7 @@ https://spravedlivo.hostingradio.ru:8022/spravedlivo128.mp3
 https://icecast-zvezda.mediacdn.ru/radio/zvezda/zvezda_128
 #EXTINF:-1,Звезда
 https://icecast-zvezda.mediacdn.ru/radio/zvezda/zvezda_128
+#EXTINF:-1,Aljazeera Arabic
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1,Radio Lola
+https://streaming.tdiradio.com/radiolola.mp3

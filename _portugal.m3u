@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,Antena 1 Açores (Portugal)
+https://streaming-live.rtp.pt/liveradio/antena1acores80a/playlist.m3u8
+#EXTINF:-1,M80 Rádio (AAC)
+https://stream-icy.bauermedia.pt/m80.aac
+#EXTINF:-1,NTR - Network Radio
+https://is.ntradio.pt/ntr
+#EXTINF:-1,Rádio Lusitânia
+https://streaming-live.rtp.pt/liveradio/lusitania80a/playlist.m3u8
+#EXTINF:-1,Rádio Zig Zag
+https://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8
+#EXTINF:-1,RDP Africa (Portugal)
+https://streaming-live.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8
+#EXTINF:-1,RDP Internacional (Portugal)
+https://streaming-live.rtp.pt/liveradio/rdpint80a/playlist.m3u8
+#EXTINF:-1,SuperFM
+https://play.radioregional.pt:8210/stream/2/;/stream.mp3
+#EXTINF:-1,TSF Rádio Notícias
+https://directo.tsf.pt/tsfdirecto.mp3

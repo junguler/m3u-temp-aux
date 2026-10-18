@@ -3,3 +3,13 @@
 https://playerservices.streamtheworld.com/api/livestream-redirect/GLOBO_989AAC.aac
 #EXTINF:-1,Radio Globo 88.5 HN
 https://stream.radiosmundiales.com:8016/GLOBO885
+#EXTINF:-1, Globo 101.3 (Ciudad del Carmen) - 101.3 FM - XHMAB-FM - Organización Radio Carmen - Ciudad del Carmen, Campeche
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMABAAC.aac
+#EXTINF:-1, GLOBO 102.1 (Córdoba) - 102.1 FM - XHAG-FM - Radio Comunicaciones de las Altas Montañas - Córdoba, Veracruz
+https://streaming.sistemasmvsradio.com/proxy/afixhag/stream
+#EXTINF:-1, GLOBO 97.9 (Mazatlán) - 97.9 FM - XHMMS-FM - Grupo RSN - Mazatlán, Sinaloa
+https://a6.asurahosting.com:8130/radio.mp3
+#EXTINF:-1,Globo 98.7 (Guadalajara) - 98.7 FM - XHLC-FM - MVS Radio - Guadalajara, Jalisco
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHLCFMAAC.aac
+#EXTINF:-1, Globo 99.3 (Tijuana) - 99.3 FM - XHOCL-FM - MVS Radio - Tijuana, Baja California
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHOCLAAC.aac

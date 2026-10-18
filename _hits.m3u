@@ -891,3 +891,263 @@ https://nr11.newradio.it/proxy/sbfsuper?mp=/stream
 https://stream3.xdevel.com/audio0s975604-233/stream/icecast.audio
 #EXTINF:-1,Radio Sicilia
 https://sr14.inmystream.it/stream/radiosicilia
+#EXTINF:-1,Radio Station One
+https://sr10.inmystream.it/proxy/bwrso?mp=/stream
+#EXTINF:-1,Radio Tirol
+https://stream.radiotirol.it/live/aac-64/app/
+#EXTINF:-1,Rigiriamo Web Radio
+https://onair7.xdevel.com/proxy/xautocloud_zswr_1060?mp=/;stream/;
+#EXTINF:-1,Sound Italia
+https://stream10.xdevel.com/audio3s975559-2094/stream/icecast.audio
+#EXTINF:-1,Flamingo Radio
+https://stream.zeno.fm/215bpympks8uv
+#EXTINF:-1,Radio Safari Kenya
+https://stream.zeno.fm/t65cszbgunhvv
+#EXTINF:-1,Ð ÐµÑ‚Ñ€Ð¾ FM Ð Ð¸Ð³Ð° (Retro FM)
+https://live.retrofm.lv/retrofmlatvia
+#EXTINF:-1,Aswat FM
+https://broadcast.ice.infomaniak.ch/aswat-high.mp3
+#EXTINF:-1,Skyrock Casablanca
+https://icecast.skyrock.net/s/casa_aac_64k
+#EXTINF:-1,U RADIO
+https://uradio-aac.ice.infomaniak.ch/uradio.aac
+#EXTINF:-1,ESDES Radio
+https://esdesradio.netpro.tv/listen/esdes_radio/radio.mp3
+#EXTINF:-1,NetPro.TV Radio
+https://radio.netpro.tv/listen/netpro_radio/radio.mp3
+#EXTINF:-1, ARROBA FM 101.7 (Piedras Negras) - 101.7 FM - XHCPN-FM - Radiorama Piedras Negras - Piedras Negras, Coahuila
+https://stream.zeno.fm/p7xefup9d78uv
+#EXTINF:-1, ARROBA FM 95.3 (Reynosa) - 95.3 FM - XHRT-FM - Radiorama Tamaulipas - Reynosa, Tamaulipas
+https://stream.zeno.fm/b04err5zfkhvv
+#EXTINF:-1,Crystal 104.9 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMLOFMAAC.aac
+#EXTINF:-1, ESTÉREO TIEMPO 100.3 (Monclova) - 100.3 FM - XHTF-FM - Monclova, Coahuila
+https://stream9.mexiserver.com/8246/stream
+#EXTINF:-1,Exa Ciudad Victoria 94.5 FM
+https://cast1.my-control-panel.com/proxy/exavictoria/stream
+#EXTINF:-1,EXA FM 93.5 (Irapuato) - 93.5 FM - XHNY-FM - Irapuato, Guanajuato
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHNYAAC.aac
+#EXTINF:-1,EXA FM 99.3 (Mérida) - 99.3 FM - XHMRA-FM - MVS Radio - Mérida, Yucatán
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMRAAAC.aac
+#EXTINF:-1,Exa FM Culiacán 101.7 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHESAAAC.AAC
+#EXTINF:-1,+Exclusively One Direction HITS
+https://streaming.exclusive.radio/er-app/onedirectionhits/icecast.audio
+#EXTINF:-1,FM Globo Monterrey - 88.1 FM - XHJM-FM - MVS Radio - Monterrey, NL
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHJMFM_SC
+#EXTINF:-1, Globo 101.3 (Ciudad del Carmen) - 101.3 FM - XHMAB-FM - Organización Radio Carmen - Ciudad del Carmen, Campeche
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMABAAC.aac
+#EXTINF:-1,Globo 98.7 (Guadalajara) - 98.7 FM - XHLC-FM - MVS Radio - Guadalajara, Jalisco
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHLCFMAAC.aac
+#EXTINF:-1, Globo 99.3 (Tijuana) - 99.3 FM - XHOCL-FM - MVS Radio - Tijuana, Baja California
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHOCLAAC.aac
+#EXTINF:-1,Hit FM 104.3 Ciudad Juárez
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHTO_FM.mp3
+#EXTINF:-1,Hits 106.1 FM Monterrey
+https://mdstrm.com/audio/67378c85b95cc90e1003e224/icecast.audio
+#EXTINF:-1,Hits 96.5 FM Cancún
+https://stream-286.surfernetwork.com/qpzbhhq1nywuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxcHpiaGhxMW55d3V2IiwiaG9zdCI6InN0cmVhbS0yODYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImZveURJWjNMVGFHUGY3TUdaVEZWanciLCJpYXQiOjE3OTA4NTUwMzYsImV4cCI6MTc5MDg1NTA5Nn0.6twjNcgywjzalvDcH-xSvktYwvZM5g751SLCIVpnwe4&ver=863509
+#EXTINF:-1, HITS FM (Chihuahua) - Online - www.mmradio.com - Multimedios Radio - Chihuahua, Chihuahua
+https://mdstrm.com/audio/672cf08df19248c08339a8f4/icecast.audio
+#EXTINF:-1,Lokura FM Pop Tepic 92.1 FM
+https://mdstrm.com/audio/69399a21aefb340e3c47ecea/live.m3u8
+#EXTINF:-1,Los40 Acapulco 102.3 FM
+https://streaming.servicioswebmx.com/8258/stream
+#EXTINF:-1,Los40 Ciudad de México 101.7 FM (Stream alternativo)
+https://streaming.servicioswebmx.com/8220/stream
+#EXTINF:-1, MATCH 100.1 (Culiacán) - 100.1 FM - XHCNA-FM - Grupo ACIR - Culiacán, Sinaloa
+https://14993.live.streamtheworld.com:443/XHCNAFMAAC.aac
+#EXTINF:-1,Match 89.5 FM Puerto Vallarta
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMEFMAAC.aac
+#EXTINF:-1, MATCH 90.1 (Puebla) - 90.1 FM - XHRS-FM - Grupo ACIR - Puebla, Puebla
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHRSFMAAC.aac
+#EXTINF:-1, MATCH 90.3 (GDL) - 90.3 FM - XHEMIA-FM - Grupo ACIR - Guadalajara, Jalisco
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEMIAAAC.aac
+#EXTINF:-1,MATCH 99.3 (CDMX) - 99.3 FM - XHPOP-FM - Grupo ACIR - Ciudad de México
+https://16603.live.streamtheworld.com:443/XHPOPFMAAC.aac
+#EXTINF:-1,Máxima 93.1 FM Coatzacoalcos
+https://mdstrm.com/audio/66a01c0328071626dc3e6971/live.m3u8
+#EXTINF:-1,Maxima 96.3 FM Hermosillo
+https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/66ad356de8f3b93d2da94362/playlist.m3u8
+#EXTINF:-1,Máxima 96.3 FM Hermosillo
+https://mdstrm.com/audio/66ad356de8f3b93d2da94362/live.m3u8
+#EXTINF:-1,Máxima 97.5 FM Cancún
+https://mdstrm.com/audio/66e9d6ccaefe12962688efb9/live.m3u8
+#EXTINF:-1,Máxima 97.7 FM Ciudad Obregón
+https://mdstrm.com/audio/66e9d6f5a8e915acd1a5090d/live.m3u8
+#EXTINF:-1,Máxima 98.9 FM Ciudad del Carmen
+https://mdstrm.com/audio/66a3e88f19acc1b9d1487ec0/live.m3u8
+#EXTINF:-1,Media News 92.7 FM
+https://streamingcwsradio30.com:7061/;
+#EXTINF:-1,Neo 100.3 FM HD3 Mazatlán
+https://audiostreaming.luz.network/stream/15/;
+#EXTINF:-1,neo 101.3 HD3 Los Mochis
+https://audiostreaming.luz.network/stream/3/;
+#EXTINF:-1,Neo 94.1 HD3 Culiacán
+https://audiostreaming.luz.network/stream/9/;
+#EXTINF:-1,New Century (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de México
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR04_s01AAC.aac
+#EXTINF:-1,Nexohits Radio
+https://a5.asurahosting.com/listen/nexohits_radio/live
+#EXTINF:-1,Planeta 99.7 FM Los Mochis
+https://radios.blumhost.es/8128/;
+#EXTINF:-1,Play FM 97.9
+https://edge.mixlr.com/channel/evyhv
+#EXTINF:-1,PULSAR (Tijuana) - 107.3 FM - XHFG-FM - Uniradio - Tijuana, Baja California
+https://streamingcwsradio30.com:7021/stream
+#EXTINF:-1, RADIO MUNDO 89.3 (Mérida) - 89.3 FM - XHMIA-FM - Mérida, Yucatán
+https://cento02.mipanelradio.com/proxy/radiomu5?mp=/stream
+#EXTINF:-1, STEREO SALTILLO 93.5 (Saltillo) - 93.5 FM - XHQC-FM - Multimedios Radio - Saltillo, Coahuila
+https://mdstrm.com/audio/6737a5d1405919f792cf355e/icecast.audio
+#EXTINF:-1,Stereo uno 94.1 Culiacán
+https://audiostreaming.luz.network/stream/7/;
+#EXTINF:-1,Super Stereo (Mérida) - 105.9 FM - XHFCY-FM - Grupo Radio Digital - Mérida, YU
+https://stream.zeno.fm/130pyk2xr98uv
+#EXTINF:-1,Ultra 90.1 FM reynosa/RGV
+https://live.amperwave.net/manifest/rcomm-xhrysfmaac-hlsc4.m3u8?source=v7player
+#EXTINF:-1,UP! 92.5.2 (Puebla) - 92.5 HD2 - XHZM-FM - Grupo ULTRA - Puebla, Puebla
+https://icecastultra.duckdns.org/ultraup
+#EXTINF:-1,MAXXI Martinique
+https://maxxi.studio/listen/maxximq/radio.mp3
+#EXTINF:-1,Hot FM Malaysia
+https://stream.rcs.revma.com/drakdf8mtd3vv/hls.m3u8
+#EXTINF:-1,Stay.FM
+https://stayfm.com:8443/archive
+#EXTINF:-1,Konga103.7FM
+https://lunar.citrus3.com:8124/stream
+#EXTINF:-1,NRJ Norge
+https://live-bauerno.sharp-stream.com/kiss_no_mp3
+#EXTINF:-1,P12 Hitmix (AAC HQ)
+https://nrj.p4groupaudio.com/NRJ_AH
+#EXTINF:-1,P12 Hitmix (MP3 128k)
+https://nrj.p4groupaudio.com/NRJ_MM
+#EXTINF:-1,P4 Norge (AAC HQ)
+https://p4.p4groupaudio.com/P04_AH
+#EXTINF:-1,P4 Norge (MP3 128k)
+https://p4.p4groupaudio.com/P04_MM
+#EXTINF:-1,P5 Hits (MP3 128k)
+https://p5.p4groupaudio.com/P05_MM
+#EXTINF:-1,P5 Nonstop Hits (AAC HQ)
+https://p5n.p4groupaudio.com/P05AAH
+#EXTINF:-1,Tahu FM
+https://icast1.streamcom.net/TahuFM
+#EXTINF:-1,The Cheese FLAC
+https://station.thecheese.co.nz/listen/the_cheese/flac
+#EXTINF:-1,Vinyl Radio NZ
+https://s40.myradiostream.com:17794/listen.aac?
+#EXTINF:-1,Antena 8 100.1 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/ANT8AAC.aac
+#EXTINF:-1,Chillizet Ladies -om
+https://ch01.cdn.eurozet.pl/CHILAD.mp3?t=1709721264195?redirected=01
+#EXTINF:-1,Kiss FM Poland
+https://streaming.g-news.pl:8090/kissfm
+#EXTINF:-1,RADIO 100
+https://s3.slotex.pl:7278/stream/
+#EXTINF:-1,Radio Lublin
+https://streaming.radio.lublin.pl:8843/128k
+#EXTINF:-1,Radio ZET 128 Kbps
+https://zt02.cdn.eurozet.pl/zet-old.mp3
+#EXTINF:-1,Radio Zet na Rower -om
+https://zt06.cdn.eurozet.pl/ZETNAR.mp3?t=1709720397160?redirected=06
+#EXTINF:-1,Geice FM
+https://ec2.yesstreaming.net:3275/stream
+#EXTINF:-1,M 80 Rádio
+https://stream-icy.bauermedia.pt/m80.mp3
+#EXTINF:-1,Rádio Baía
+https://streamingv2.shoutcast.com/observador_64.aac
+#EXTINF:-1,Educación FM 99.7
+https://proxy01.servidorenlinea.net/cdehosting/8050/;
+#EXTINF:-1,BOOM TV
+https://live.radioboom.ro/live-tv/live.m3u8
+#EXTINF:-1,Capital FM - Dance
+https://ssl.omegahost.ro:8020/stream
+#EXTINF:-1,EnJOY Radio
+https://live.enjoyradio.ro/radio/8000/enjoylive.mp3
+#EXTINF:-1,Kiss Hits From The 10s
+https://live.kissfm.ro/kiss.hits.from.the.10s
+#EXTINF:-1,Radio Boom Gold
+https://stream.radioboom.ro/listen/boom_gold/radio.mp3
+#EXTINF:-1,Radio Dacia Relax -Cluj Napoca
+https://radiodacia03.live.nt.ro/
+#EXTINF:-1,Radio Disco Mix
+https://play.discomix.ro/8002/stream
+#EXTINF:-1,Radio Killer Câmpia Turzii
+https://s12.myradiostream.com/17492/listen.mp3
+#EXTINF:-1,Radio Liberty MuzicÄƒ RomÃ¢neascÄƒ -BucureÈ™ti
+https://sonicssl.namehost.ro/7060/stream
+#EXTINF:-1,Radio Noise Gold
+https://radio.sonicpanel.ro:9170/
+#EXTINF:-1,Radio Noise Hits
+https://radio.sonicpanel.ro:9140/
+#EXTINF:-1,Radio VacanÈ›a - Fresh
+https://stream4.srr.ro:8443/fresh_rv
+#EXTINF:-1,SpaceFM Romania -SpaceFM Dance
+https://spacefm.live/listen/spacefm_romania/spacefm192
+#EXTINF:-1,SpaceFM Romania -SpaceFM Retro
+https://retro.spacefm.live/listen/spacefm_retro/retro128
+#EXTINF:-1,Transylvania -Hits
+https://asculta.ascultatare.ro/8036/stream
+#EXTINF:-1,City Radio Novi Sad
+https://cityonair-masterasfm.radioca.st/stream
+#EXTINF:-1,Hero Radio (Serbia)
+https://a2.asurahosting.com:6790/serbia.mp3
+#EXTINF:-1,Kiss Fm RS
+https://stream.zeno.fm/04szc04dztzuv
+#EXTINF:-1,Kolubara 96.9
+https://kolubara.name.ba:8000/;
+#EXTINF:-1,Magnum Radio
+https://magnum.web-srbija.net/
+#EXTINF:-1,Panda Radio
+https://stream.pandaradio.rs/pandaradio.ogg
+#EXTINF:-1,Prvi Radio Subotica
+https://prvionairsubotica-masterasfm.radioca.st/stream
+#EXTINF:-1,Radio Koliba
+https://a9.asurahosting.com:7380/radio.mp3
+#EXTINF:-1,Radio KruÅ¡evac
+https://krusevac.ipradio.rs:9014/;stream.mp3%22
+#EXTINF:-1,Radio Maestro
+https://radio-maestro.com:8443/stream.mp3
+#EXTINF:-1,Radio Opsesija
+https://stm3.srvif.com:7910/;
+#EXTINF:-1,Radio Puls Grocka
+https://stream.iradio.pro/proxy/radiopuls?mp=/stream/;*.mp3
+#EXTINF:-1,Radio Stari grad - RSG
+https://stream.rsg.rs/live/
+#EXTINF:-1,TDI Radio
+https://streaming.tdiradio.com/tdiradio.mp3
+#EXTINF:-1,Tjub Radio
+https://cast6.my-control-panel.com/proxy/radio_tjub/stream
+#EXTINF:-1,bAm BaM RADIO - All shades of house
+https://stream.laidbackvib.es:8888/320
+#EXTINF:-1,Radio 1
+https://live.radio.si/Radio1
+#EXTINF:-1,Radio 1 Koroska
+https://live.radio1.si/Radio1KOR
+#EXTINF:-1,90s Rewind
+https://mml1.prostream.se/listen/90s_rewind/radio.mp3
+#EXTINF:-1,Back to the 80s
+https://mml1.prostream.se/listen/back_to_the_80s/radio.mp3
+#EXTINF:-1,Mad Mix Beats
+https://mml1.prostream.se/listen/mad_mix_beats/radio.mp3
+#EXTINF:-1,Mad Mix Curated
+https://mml2.prostream.se/listen/mad_mix_curated/radio.mp3
+#EXTINF:-1,Radio 789
+https://mml1.prostream.se/listen/radio_789/radio.mp3
+#EXTINF:-1,VIBE Radio
+https://streamer.radio.co/s0c62f7351/listen
+#EXTINF:-1,Heart FM 103.4
+https://live.heartfm.com.tr/listen/heart_fm/128.aac
+#EXTINF:-1,Radyo Ender
+https://embed.tawk.to/_s/v4/assets/audio/chat_sound.mp3
+#EXTINF:-1,Bantu Radio
+https://stream-176.surfernetwork.com/7u8xbck3v7zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3dTh4YmNrM3Y3enV2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJVa2syYm9STFRjbUlYQWR6MXh3NWR3IiwiaWF0IjoxNzg5MjI4NTI4LCJleHAiOjE3ODkyMjg1ODh9.R3IJRMouYPA3v8QgxdGVW3xG312xLrXnEfYwhtl6em0
+#EXTINF:-1,Ax Radio!
+https://m.axradio.net/stream.mp3
+#EXTINF:-1,Meder FM
+https://myradio24.org/7934
+#EXTINF:-1,Exito FM 99.7
+https://salida.stream.com.uy:8506/stream
+#EXTINF:-1,FM Digital 100.1
+https://sh1.radioonlinehd.com:8001/stream
+#EXTINF:-1,GaySA Radio
+https://zas1.ndx.co.za:8018/stream

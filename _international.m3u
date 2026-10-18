@@ -21,3 +21,7 @@ https://streaming.live365.com/a37517
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_reka/live.livx/playlist.m3u8?renditions
 #EXTINF:-1,yStream
 https://ystream.live/ystream-mp3
+#EXTINF:-1,LBI Radio
+https://live.lbiradio.com/listen/station_1/1
+#EXTINF:-1,Rádio RSI
+https://icecast.stv.livebox.sk/rsi_128.mp3

@@ -1,3 +1,17 @@
 #EXTM3U
 #EXTINF:-1,La Red 106.1 Guatemala
 https://playerservices.streamtheworld.com/api/livestream-redirect/LA_REDAAC.aac
+#EXTINF:-1, CRYSTAL 106.1 (Pachuca) - 106.1 FM - XHPCA-FM - Grupo Siete - Pachuca, Hidalgo
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMYFMAAC.aac
+#EXTINF:-1, EL LOBO 106.1 (Chihuahua) - 106.1 FM - XHSU-FM - Sistema Radio Lobo - Chihuahua, Chihuahua
+https://streamingcwsradio30.com/8172/stream
+#EXTINF:-1, LA MEGA 106.1 (Agua Dulce) - 106.1 FM - XHSCID-FM - Comunicación Hidromila - Agua Dulce, Veracruz
+https://stream.zeno.fm/mxi4pryyw4pvv
+#EXTINF:-1, LA RANCHERA 106.1 (Aguascalientes) - 106.1 FM - XHLTZ-FM - Grupo Radiofónico ZER - Aguascalientes, Aguascalientes
+https://cast.zuperdns.net/8022/stream/
+#EXTINF:-1, ORBITA DIGITAL 106.1 (Juchitán) - 106.1 FM - XHGCY-FM - Guna Caa Yuni Xhiña, A.C. - Juchitán, Oaxaca
+https://sp3.servidorrprivado.com:10854/stream/1/
+#EXTINF:-1, VIOLETA RADIO 106.1 (CDMX) - 106.1 FM - XHCDMX-FM - Alianza por el Derecho Humano de las Mujeres a Comunicar, A.C. - Ciudad de México
+https://flujos.mazorca.org/violetaradio.mp3
+#EXTINF:-1, VIVE 106.1 (Morelia) - 106.1 FM - XHSCCN-FM - RM Morelia - Morelia, Michoacán
+https://s2.mexside.net/8080/vive

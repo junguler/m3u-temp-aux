@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1, BANDOLERA 92.3 (Ciudad del Carmen) - 92.3 FM - XHPCDC-FM - Grupo Audiorama Comunicaciones / NRM Comunicaciones - Ciudad del Carmen, Campeche
+https://cdn1.onstream.audio/proxy/xhpcdc/stream
+#EXTINF:-1,Bandolera (Ciudad del Carmen) - 92.3 FM - XHPCDC-FM - NRM Comunicaciones - Ciudad del Carmen, Campeche
+https://ss1.audiorama.com.mx:6570/stream
+#EXTINF:-1, ESTÉREO VIDA 93.1 (Ciudad del Carmen) - 93.1 FM - XHPEBS-FM - Ciudad del Carmen, Campeche
+https://stream.zeno.fm/5y45gqtbcchvv
+#EXTINF:-1, EXA FM 100.3 (Campeche) - 100.3 FM - XHMI-FM - NCS (Núcleo Comunicación del Sureste) - Campeche, Campeche
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMIAAC.aac
+#EXTINF:-1,Exa FM Campeche - 100.3 FM - XHMI-FM - NCS (Núcleo Comunicación del Sureste) - Campeche, CM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMI_SC
+#EXTINF:-1,Exa FM Ciudad del Carmen - 99.7 FM / 1070 AM - XHIT-FM / XEIT-AM - Radiorama - Ciudad del Carmen, Campeche
+https://ss1.audiorama.com.mx:6674/stream
+#EXTINF:-1, Globo 101.3 (Ciudad del Carmen) - 101.3 FM - XHMAB-FM - Organización Radio Carmen - Ciudad del Carmen, Campeche
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMABAAC.aac
+#EXTINF:-1,Kiss FM (Campeche) - 101.9 FM - XHCAM-FM - Grupo SIPSE Radio - Campeche, Campeche
+https://cast4.my-control-panel.com/proxy/televis2/kisscampeche
+#EXTINF:-1, LA COMADRE 95.5 (Ciudad del Carmen) - 95.5 FM - XHPCAR-FM - Grupo SIPSE Radio - Ciudad del Carmen, Campeche
+https://cast4.my-control-panel.com/proxy/televis1/comadrecarmen
+#EXTINF:-1,La Ke Buena Campeche - 102.7 FM - XHAC-FM - NCS (Núcleo Comunicación del Sureste) - Campeche, CM
+https://sp2.servidorrprivado.com:10887/
+#EXTINF:-1,Radio Fórmula (Campeche) - 97.3 FM - XHRAC-FM - NCS (Núcleo Comunicación del Sureste) - Campeche, Campeche
+https://sp2.servidorrprivado.com:10886/;
+#EXTINF:-1, RETRO FM 93.9 (Ciudad del Carmen) - 93.9 FM - XHPMEN-FM - Grupo Audiorama Comunicaciones - Ciudad del Carmen, Campeche
+https://ss1.audiorama.com.mx:6572/

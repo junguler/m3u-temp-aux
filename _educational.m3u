@@ -47,3 +47,5 @@ https://radio.forensedigital.gt:8010/stream
 https://radio.forensedigital.gt:8000/stream
 #EXTINF:-1,RRI Pro 1 - Kupang
 https://stream-node2.rri.co.id/streaming/13/9213/rrikupangpro1.mp3
+#EXTINF:-1,Radio Palotti FM
+https://s1.slotex.pl:7074/stream

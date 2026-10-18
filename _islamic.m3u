@@ -27,3 +27,19 @@ https://radio.xecod.com/station/alminshawi
 https://eu4.fastcast4u.com/proxy/aabdul00?mp=/1
 #EXTINF:-1,Darusalam Radio
 https://streams.radio.co/s0975ec186/listen
+#EXTINF:-1,Quran Radio راديو القرآن - Kuwait الكويت
+https://radio.mp3islam.com/listen/quran_radio/radio.mp3
+#EXTINF:-1,Quran Radio راديو القرآن - Muhammad Al-Minshawi محمد صديق المنشاوي
+https://radio.mp3islam.com/listen/minshawi/radio.mp3
+#EXTINF:-1,Diyarbakır Çağrı FM
+https://live.cagrifm.com.tr/cagrifm
+#EXTINF:-1,Erkam Radyo
+https://api-tv5.yayin.com.tr:8002/mp3
+#EXTINF:-1,Konya İsra FM
+https://yayin2.canliyayin.org:8210/;stream
+#EXTINF:-1,Radyo EN
+https://yayin2.canliyayin.org:7222/;
+#EXTINF:-1,Al-Ansaar Radio
+https://al-ansaar.simplestreaming.co.za/listen/al-ansaar_radio/radio.mp3
+#EXTINF:-1,salaammedia
+https://iceant.antfarm.co.za/Salaam

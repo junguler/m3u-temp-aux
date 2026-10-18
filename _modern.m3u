@@ -19,3 +19,5 @@ https://walmradio.com:8443/jazz
 https://icecast.walmradio.com:8443/jazz_opus
 #EXTINF:-1,WRPI Troy, 91.5 FM
 https://stream.wrpi.org/mp3-320.mp3
+#EXTINF:-1,((beu))
+https://stream.beufm.kz/beufm

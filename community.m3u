@@ -91,3 +91,43 @@ https://live.wrir.org/
 https://playerservices.streamtheworld.com/api/livestream-redirect/WRLTFM_SC
 #EXTINF:-1,XK 107.9 FM
 https://23543.live.streamtheworld.com/XKFMAAC_SC
+#EXTINF:-1,Kosmos 94.1
+https://edge.iono.fm/xice/88_high.mp3
+#EXTINF:-1,Access Radio Taranaki 104.4FM
+https://live.accessmedia.nz/Taranaki.stream_aac/playlist.m3u8
+#EXTINF:-1,Arrow FM 92.7
+https://live.accessmedia.nz/ArrowFM.stream_aac/playlist.m3u8
+#EXTINF:-1,Free FM 89 Hamilton
+https://live.accessmedia.nz/FreeFM.stream_aac/chunklist_w1448621681.m3u8
+#EXTINF:-1,Heads FM Mangawhai 106.4
+https://headsfm.radioca.st/stream
+#EXTINF:-1,MPR Manawatu People's Radio
+https://live.accessmedia.nz/MPR.stream/playlist.m3u8
+#EXTINF:-1,OAR 105.4FM Dunedin
+https://live.accessmedia.nz/Otago.stream/playlist.m3u8
+#EXTINF:-1,Paekakariki 88.2FM
+https://icecast.groundtruth.co.nz/paekakfm.aac
+#EXTINF:-1,Planet FM 104.6 - MP3
+https://live.accessmedia.nz/PlanetFM.stream/playlist.m3u8
+#EXTINF:-1,Positively Morrinsville 87.7FM
+https://c16.radioboss.fm:8262/stream?1652324863134
+#EXTINF:-1,Radio NgƒÅti Porou
+https://wowza.iwi.radio/icecast-to-hls/ngrp:NgatiPorou.stream/playlist.m3u8
+#EXTINF:-1,Radio Te Aroha 88FM
+https://c2.radioboss.fm:18440/stream
+#EXTINF:-1,Te Reo Irirangi O NgƒÅti Kahungunu
+https://wowza.iwi.radio/icecast-to-hls/ngrp:Kahungunu.stream/playlist.m3u8
+#EXTINF:-1,Wellington Access Radio
+https://live.accessmedia.nz/Wellington.stream/playlist.m3u8
+#EXTINF:-1,Radio OnBouge
+https://onbouge.eu/flux/onbouge.mp3
+#EXTINF:-1,R·dio OnBouge PortuguÍs
+https://onbouge.eu/flux/onbouge-pt.mp3
+#EXTINF:-1,Aspen FM 102.7 Paraguay
+https://copaco.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8
+#EXTINF:-1,Radio Greenstone
+https://stream.clever-host.ro/8018/stream
+#EXTINF:-1,Al-Ansaar Radio
+https://al-ansaar.simplestreaming.co.za/listen/al-ansaar_radio/radio.mp3
+#EXTINF:-1,uMgungundlovu FM 107.6
+https://streaming.fabrik.fm/umgungundlovufm/echocast/audio/low/index.m3u8

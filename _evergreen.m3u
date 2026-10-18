@@ -1,3 +1,9 @@
 #EXTM3U
 #EXTINF:-1,RADIO PRECISA I più trasmessi dal 1975 ad oggi
 https://rprecisa.radioca.st/radioprecisa
+#EXTINF:-1,Radio S Classic
+https://stream.radios.rs:9074/stream
+#EXTINF:-1,Radio S EX YU
+https://stream.radios.rs:9042/stream
+#EXTINF:-1,Radio S Gold
+https://stream.radios.rs:9020/stream

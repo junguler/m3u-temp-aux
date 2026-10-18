@@ -31,3 +31,7 @@ https://stream.rtlradio.de/rtl-de-national/mp3-128/surfmusikDE/
 https://liveradio.sr.de/sr/sr1/mp3/128/stream.mp3?aggregator=surfmusik-de
 #EXTINF:-1,WDR 2 Muensterland
 https://wdr-wdr2-muensterland.icecast.wdr.de/wdr/wdr2/muensterland/mp3/128/stream.mp3?aggregator=surfmusik-de
+#EXTINF:-1,Radio Antena (105.2MHz)
+https://live.radio.si/Antena
+#EXTINF:-1,RadiVo
+https://radivo.thx8te.kh.ua/listen/radivo/radio.mp3

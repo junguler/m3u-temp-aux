@@ -1,3 +1,13 @@
 #EXTM3U
 #EXTINF:-1,SUNSHINE LIVE - Simulcast
 https://stream.sunshine-live.de/live/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,102.1 Exa FM (San Luis Potosí) - 102.1 FM - XHESL-FM - MG Radio - San Luis Potosí, San Luis Potosí
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHESLAAC.aac
+#EXTINF:-1,EXA FM 102.1 (San Luis Potosí) - 102.1 FM - XHESL-FM - MG Radio - San Luis Potosí, San Luis Potosí
+https://playradio.mx/proxy/exafm?mp=/stream
+#EXTINF:-1, GLOBO 102.1 (Córdoba) - 102.1 FM - XHAG-FM - Radio Comunicaciones de las Altas Montañas - Córdoba, Veracruz
+https://streaming.sistemasmvsradio.com/proxy/afixhag/stream
+#EXTINF:-1, LA SUPER GRUPERA 102.1 (Guaymas) - 102.1 FM - XHEPS-FM - 	Grupo Radio Guaymas - Guaymas, Sonora
+https://sp5.servidorrprivado.com/8062/stream
+#EXTINF:-1, RADIO DISNEY 102.1 (Toluca) - 102.1 FM - XHTOM-FM - Grupo Siete - Toluca, Estado de México
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHTOMFMAAC.aac

@@ -21,3 +21,7 @@ https://icecast.omroep.nl/radio4-bb-aac
 https://channels.fonotron.ru:8000/Chan_63_128.aac
 #EXTINF:-1,1st Greek Hits FLAC Non-Stop Radio
 https://stream.newageradio.gr/listen/flac_gr/radio.aac
+#EXTINF:-1,Радіо Аверс
+https://radio.avers.pp.ua/hls_radio/efir.m3u8
+#EXTINF:-1,Радіо РАІ
+https://radio.rai.ua:9000/rai

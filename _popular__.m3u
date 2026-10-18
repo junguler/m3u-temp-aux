@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1,Te Ador Radio
+https://sonicpanel.namehost.ro:1260/stream
+#EXTINF:-1,Ani»ôoara Radio
+https://live.radioanisoara.ro:8080/stream
+#EXTINF:-1,Clasic Radio_Popular -Bucure»ôti
+https://live.radioclasic.com/listen/radio_clasic_popular/live.mp3
+#EXTINF:-1,EBS Radio C‚ntece de petrecere -Cluj Napoca
+https://azura.ebsmedia.ro/listen/petrecere/petrecere128.mp3?refresh=1779029453833
+#EXTINF:-1,GFM ROMANIA -BacƒÉu 90,1 FM
+https://stream.zeno.fm/hlxwppx3fj4vv
+#EXTINF:-1,Leordeni Fm -Leordeni Arges 106,8 FM
+https://ssl.radios.show/8002/;
+#EXTINF:-1,Love Marilena Gala»õi
+https://radio.sonicpanel.ro/8068/stream
+#EXTINF:-1,Radio AS fm petrecere -BuzƒÉu
+https://stream.zeno.fm/ze76t581tm0uv
+#EXTINF:-1,Radio Dacia Traditional -Cluj Napoca
+https://radiodacia06.live.nt.ro/
+#EXTINF:-1,Radio Etno Mania
+https://radio.sonicpanel.ro:9300/
+#EXTINF:-1,Radio Folclor
+https://ssl.omegahost.ro/8092/stream
+#EXTINF:-1,RADIO FOLCLOR AUTENTIC ROM¬NIA
+https://stream-178.surfernetwork.com/9gmprxrd6nhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5Z21wcnhyZDZuaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IldPNUVka3ZDVFFDMXZGQmNyektjMkEiLCJpYXQiOjE3OTA4NjEwODMsImV4cCI6MTc5MDg2MTE0M30.uLlR7CffnaWP8Wh8jtYnulGUwynyAEPy-smT3lFqPyg
+#EXTINF:-1,Radio Folclor Buzau
+https://live.radiofolclorbuzaufm.ro:8910/stream
+#EXTINF:-1,Radio Folclor Muntenia
+https://live.radiofolclormuntenia.ro:8008/stream
+#EXTINF:-1,Radio Liberty Popular -Bucure»ôti
+https://sonicssl.namehost.ro/7780/stream
+#EXTINF:-1,Radio Pite»ôti Rociu
+https://stream.zeno.fm/7zb4u1eewf9uv
+#EXTINF:-1,RadioTrandafirulRo»ôul
+https://stream.zeno.fm/46mdd8ebdchvv
+#EXTINF:-1,Stabil Pite»ôti
+https://live.radiostabilpitesti.eu/9986/stream
+#EXTINF:-1,STAR FM Rom‚nia
+https://asculta.muzicaok.de:8060/stream
+#EXTINF:-1,Stil Rom‚nia -Radio Stil Popular
+https://popular.radiostill.ro/8176/stream
+#EXTINF:-1,Super Popular
+https://stream.zeno.fm/8epw07pzm7zuv
+#EXTINF:-1,Tequila Rom‚nia -Radio Petrecere
+https://petrecere.radiotequila.ro/7000/stream
+#EXTINF:-1,Vivi FM
+https://free.rcast.net/200690

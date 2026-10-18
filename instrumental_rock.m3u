@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1,Laut.fm Post-Rock
 https://post-rock.stream.laut.fm/post-rock?pl=m3u&t302=2026-01-14_23-35-11&uuid=93c98b91-e6ff-4ab5-9657-597cdbf44605
+#EXTINF:-1,Reverb Riff Radio
+https://azuracast.reverbriff.com/listen/reverb_riff_radio/radio.mp3

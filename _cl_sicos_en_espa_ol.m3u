@@ -11,3 +11,93 @@ https://azura1.bitstreaming.net/listen/radio_ritmo/radio.aac
 https://server1.intermediacolombia.com:8010/stream
 #EXTINF:-1,Veracruz stereo
 https://radio.veracruzstereo.com:8000/live
+#EXTINF:-1,104.9 La Lupe (San Luis Potosí) - 104.9 FM - XHCZ-FM - Multimedios Radio - San Luis Potosí, San Luis Potosí
+https://mdstrm.com/audio/6737a424ecba1df74a06e49e/icecast.audio
+#EXTINF:-1,106.9 Radio Fórmula (Aguascalientes) - 106.9 FM - XHAC-FM - Radio Universal - Aguascalientes, Aguascalientes
+https://radioweb.stream/ags.ags/xhac.aac/icecast.audio
+#EXTINF:-1,89.5 La Lupe (Fortín) - 89.5 FM - XHFTI-FM - Multimedios Radio - Fortín de las Flores, Veracruz
+https://mdstrm.com/audio/672cec266ac145ede1027a7b/icecast.audio
+#EXTINF:-1,93.1 Love FM (Hermosillo) - 93.1 FM - XHEPB-FM - Grupo RADIO SA - Hermosillo, Sonora
+https://mdstrm.com/audio/66b0f440b47ad3416c6a654a/live.m3u8
+#EXTINF:-1, BONITA 91.1 (Ciudad Mante) - 91.1 FM - XHECM-FM - ORT Radio - Ciudad Mante, Tamaulipas
+https://cast1.my-control-panel.com/proxy/bonita/stream/
+#EXTINF:-1,BUENISIIMA (Mexicali) - 850 AM - XEZF-AM - Grupo Audiorama Comunicaciones - Mexicali, Baja California
+https://ss1.audiorama.com.mx:6594/
+#EXTINF:-1,Cumbias Inmortales Radio (Monterrey) - Online - www.cumbiasinmortales.com - Grupo Digital Retroland - Monterrey, Nuevo León
+https://panel.retrolandigital.com/listen/cumbias_inmortales_radio/listen
+#EXTINF:-1, EL FONÓGRAFO - 690 AM - XEN-AM - Grupo Radio Centro - Ciudad de México
+https://26423.live.streamtheworld.com:443/XEN_AMAAC.aac
+#EXTINF:-1, EL FONÓGRAFO 690 (CDMX) - 690 AM - XEN-AM - Grupo Radio Centro - Ciudad de México
+https://19473.live.streamtheworld.com:443/XEN_AMAAC.aac
+#EXTINF:-1,EL FONÓGRAFO, Música las 24 horas (CDMX) - Online - Grupo Radio Centro - Ciudad de México
+https://26233.live.streamtheworld.com:443/XEJP_AMAAC.aac
+#EXTINF:-1,  EL FONÓGRAFO: Música Ligada a tu Recuerdo
+https://19263.live.streamtheworld.com:443/XEN_AMAAC.aac
+#EXTINF:-1, HITS FM (Chihuahua) - Online - www.mmradio.com - Multimedios Radio - Chihuahua, Chihuahua
+https://mdstrm.com/audio/672cf08df19248c08339a8f4/icecast.audio
+#EXTINF:-1,JOYA 96.9 (Xalapa) - 96.9 FM - XHTZ-FM - Valanci Media Group - Xalapa, Veracruz
+https://playradio.mx/proxy/joya?mp=/stream
+#EXTINF:-1, LA GRAN AW 101.3 (MTY) - 101.3 FM - XHAW-FM - Multimedios Radio - Monterrey, Nuevo León
+https://mdstrm.com/audio/67378ab60639b6fb47c91763/icecast.audio
+#EXTINF:-1, LA GRAN AW 1280 (MTY) - 1280 AM - XEAW-AM - Multimedios Radio - Monterrey, Nuevo León
+https://mdstrm.com/audio/672a54e1064f16625e497b86/icecast.audio
+#EXTINF:-1,LA LUPE 100.9 (Xalapa) - 100.9 FM - XHALAPA-FM - Multimedios Radio - Xalapa, Veracruz
+https://mdstrm.com/audio/672cf91376b5a6eeae594b58/icecast.audio
+#EXTINF:-1,LA LUPE 105.3 (MTY) - 105.3 FM - XHLUPE-FM - Multimedios Radio - Monterrey, Nuevo León
+https://mmradio-lb.mmlabs.mx/xhlupefm
+#EXTINF:-1, LA LUPE 105.7 (Veracruz) - 105.7 FM - XHPUGC-FM - Multimedios Radio - Veracruz, Veracruz
+https://mdstrm.com/audio/67378a1158fddafa2d92caf9/live.m3u8
+#EXTINF:-1,LA LUPE 88.3 (Tepic) - 88.3 FM - XHPCTN-FM - Multimedios Radio - Tepic, Nayarit
+https://mdstrm.com/audio/672cfce4fdabb2c0423a9937/icecast.audio
+#EXTINF:-1,LA LUPE 94.7 (Ensenada) - 94.7 FM - XHPENS-FM - Multimedios Radio - Ensenada, Baja California
+https://mdstrm.com/audio/672ce72c8997d8ee6a17c240/icecast.audio
+#EXTINF:-1,LA LUPE 99.9 (Torreón) - 99.9 FM - XHETOR-FM - Multimedios Radio - Torreón, Coahuila
+https://mdstrm.com/audio/672cf292e81d90ed336e1e86/icecast.audio
+#EXTINF:-1, LA PODEROSA 860 (Tijuana) - 860 AM - XEMO-AM - Uniradio - Tijuana, Baja California
+https://streamingcwsradio30.com:7024/stream
+#EXTINF:-1,LA V DE VICTORIA 104.1 (Ciudad Victoria) - 104.1 FM - XHRPV-FM - ORT Radio - Ciudad Victoria, Tamaulipas
+https://cast1.my-control-panel.com/proxy/lav/stream
+#EXTINF:-1,La Zeta (Hermosillo) - 102.7 FM - XHDM-FM - Uniradio - Hermosillo, Sonora
+https://streamingcwsradio30.com:7027/stream
+#EXTINF:-1,La Zeta (Hermosillo) - 93.9 FM - XHMV-FM - Uniradio - Hermosillo, Sonora
+https://streamingcwsradio30.com:7027/stream?type=http&nocache=1
+#EXTINF:-1,  LAS IMPRESCINDIBLES de Radio Felicidad: Baladas clásicas de los 70s y 80s
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR18_s01AAC.aac
+#EXTINF:-1,  LAS LLEGADORAS de Radio Felicidad: Baladas románticas de los 60s y 70s
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR19_s01AAC.aac
+#EXTINF:-1, LG LA GRANDE 95.5 (León) - 95.5 FM - XHELG-FM - Promomedios - León, Guanajuato
+https://stream.zeno.fm/9ty3tty0ra0uv
+#EXTINF:-1, LOVE FM 103.7 (Veracruz) - 103.7 FM - XHCS-FM - Grupo RADIO SA - Veracruz, Veracruz
+https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
+#EXTINF:-1,MAGIA 93.7 (Xalapa) - 93.7 FM - XHKL-FM - AvanRadio - Xalapa, Veracruz
+https://cast3.my-control-panel.com/proxy/xekl?mp=/stream
+#EXTINF:-1, RADIO CENTRO 1030 (CDMX) - 1030 AM - XEQR-AM - Grupo Radio Centro - Ciudad de México
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEQR_AMAAC.aac
+#EXTINF:-1,Radio Felicidad - 1180 AM - XEFR-AM - Grupo ACIR - Ciudad de México
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEFRAMAAC.aac
+#EXTINF:-1, RADIO LATINA 104.5 (Tijuana) - 104.5 FM - XHLTN-FM - Grupo Imagen - Tijuana, Baja California
+https://mdstrm.com/audio/698f8c71e9899b0d0ceab9c0/live.m3u8
+#EXTINF:-1, RADIO MUJER 92.7 (GDL) - 92.7 FM - XHEAAA-FM - Grupo Promomedios Radio - Guadalajara, Jalisco
+https://strcdn.klm99.com/8118/stream/1/
+#EXTINF:-1, RADIO RECUERDO 860 (MTY) - 860 AM - XENL-AM - Multimedios Radio - Monterrey, Nuevo León
+https://mdstrm.com/audio/672a5df773078862801f389f/icecast.audio
+#EXTINF:-1,Radio Variedades 103.5 FM Los Mochis
+https://radios.blumhost.es/8126/;
+#EXTINF:-1, RETRO FM 93.9 (Ciudad del Carmen) - 93.9 FM - XHPMEN-FM - Grupo Audiorama Comunicaciones - Ciudad del Carmen, Campeche
+https://ss1.audiorama.com.mx:6572/
+#EXTINF:-1,  ROCK EN ESPAÑOL: Rock de México, España y Argentina
+https://29309.live.streamtheworld.com:443/ACIR20_S01AAC.aac
+#EXTINF:-1, STEREO CRISTAL 101.1 (Querétaro) - 101.1 FM - XHJHS-FM - Grupo Radar - Querétaro, Querétaro
+https://radios.radiohd.com.mx:8274/stream
+#EXTINF:-1, STEREO FRESNILLO 91.1 (Fresnillo) - 91.1 FM - XHRRA-FM - Grupo Radiofónico ZER - Fresnillo, Zacatecas
+https://cast.zuperdns.net/8018/stream/
+#EXTINF:-1, STEREO SALTILLO 93.5 (Saltillo) - 93.5 FM - XHQC-FM - Multimedios Radio - Saltillo, Coahuila
+https://mdstrm.com/audio/6737a5d1405919f792cf355e/icecast.audio
+#EXTINF:-1,VIDA 1370 (Mexicali) - 1370 AM - XEHG-AM - Grupo Audiorama Comunicaciones - Mexicali, Baja California
+https://sg.centrocibernetico.com/audiorama-xehg
+#EXTINF:-1,VIDA 89.7 (Acapulco) - 89.7 FM - XHKJ-FM - Grupo Audiorama Comunicaciones - Acapulco, Guerrero
+https://sg.centrocibernetico.com/audiorama-xhkj
+#EXTINF:-1, VIVE 106.1 (Morelia) - 106.1 FM - XHSCCN-FM - RM Morelia - Morelia, Michoacán
+https://s2.mexside.net/8080/vive
+#EXTINF:-1,WAÖH 95.3 (San Luis Potosí) - 95.3 FM - XHNB-FM - Cadena RASA - San Luis Potosí, San Luis Potosí
+https://stream.zenolive.com/be10ijonibvuv

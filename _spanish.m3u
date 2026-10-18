@@ -35,3 +35,9 @@ https://crtvg-radiogalega-hls.flumotion.cloud/playlist_dvr.m3u8
 https://radio.supertrova.com/listen/supertrova/radio.mp3
 #EXTINF:-1,כאן רקע Kan Reka
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_reka/live.livx/playlist.m3u8?renditions
+#EXTINF:-1,Real Radio Sri Lanka 97.1
+https://srv02.onlineradio.voaplus.com/realfm
+#EXTINF:-1,Universal Health Radio (Espa�ol)
+https://radio.universalhealthradio.org/uhr-es.mp3
+#EXTINF:-1,Amor 90.9
+https://stream.eleden.com:8360/amor909.aac

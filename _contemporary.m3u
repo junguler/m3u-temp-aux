@@ -91,3 +91,15 @@ https://stream.radio.co/s5c993fa61/listen
 https://ice23.securenetsystems.net/WORDFM
 #EXTINF:-1,Βeton7Art
 https://uk1.streamingpulse.com/ssl/b7artradio
+#EXTINF:-1,Ultra (Huauchinango) - 91.7 FM - XHPHBP-FM - Grupo ULTRA - Huauchinango, Puebla
+https://icecastultra.duckdns.org/livehua
+#EXTINF:-1,Ultra (Puebla) - 92.5 FM - XHZM-FM - Grupo ULTRA - Puebla, Puebla
+https://icecastultra.duckdns.org/livepue
+#EXTINF:-1,Ultra (Tulancingo) - 102.9 FM - XHTNO-FM - Grupo ULTRA - Tulancingo, Hidalgo
+https://icecastultra.duckdns.org/livetul
+#EXTINF:-1,Hot FM Malaysia
+https://stream.rcs.revma.com/drakdf8mtd3vv/hls.m3u8
+#EXTINF:-1,CFM Coromandel
+https://stream.cfm.co.nz/low
+#EXTINF:-1,Ballito 88 FM - Radio Life & Style
+https://edge.iono.fm/xhls/165_high.m3u8

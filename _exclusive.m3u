@@ -41,3 +41,23 @@ https://streaming.exclusive.radio/er/eminem/icecast.audio
 https://listen.reyfm.de/exclusive_192kbps.mp3
 #EXTINF:-1,REYFM - #exclusive
 https://listen.reyfm.de/exclusive_192kbps.mp3
+#EXTINF:-1,+Exclusively Adele
+https://nl4.mystreaming.net/er-app/adele/icecast.audio
+#EXTINF:-1,+Exclusively Ariana Grande
+https://streaming.exclusive.radio/er-app/arianagrande/icecast.audio
+#EXTINF:-1,+Exclusively Bad Bunny
+https://streaming.exclusive.radio/er-app/badbunny/icecast.audio
+#EXTINF:-1,+Exclusively Bruno Mars
+https://nl4.mystreaming.net/er-app/brunomars/icecast.audio
+#EXTINF:-1,+Exclusively Charlie Puth
+https://nl4.mystreaming.net/er-app/charlieputh/playlist.m3u8
+#EXTINF:-1,+Exclusively Green Day
+https://nl4.mystreaming.net/er-app/greenday/icecast.audio
+#EXTINF:-1,+Exclusively Imagine Dragons
+https://nl4.mystreaming.net/er-app/imaginedragons/icecast.audio
+#EXTINF:-1,+Exclusively One Direction
+https://streaming.exclusive.radio/er-app/onedirection/icecast.audio
+#EXTINF:-1,+Exclusively One Direction HITS
+https://streaming.exclusive.radio/er-app/onedirectionhits/icecast.audio
+#EXTINF:-1,+Exclusively Shakira
+https://streaming.exclusive.radio/er-app/shakira/icecast.audio

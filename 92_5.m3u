@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,La Mejor Colima - 92.5 FM - XHUU-FM - Radio Colima - Colima, CL
+https://hls.gvstream.live/lamejor/colima925.stream/playlist.m3u8
+#EXTINF:-1,La Mejor Monterrey - 92.5 FM - XHSRO-FM - MVS Radio - Monterrey, NL
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHSROFM_SC

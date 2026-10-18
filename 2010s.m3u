@@ -33,3 +33,27 @@ https://streaming.ticktock.radio/tt/2017/icecast.audio
 https://nl4.mystreaming.net/tt/2018/icecast.audio
 #EXTINF:-1,Tick Tock Radio - 2019
 https://nl4.mystreaming.net/tt/2019/icecast.audio
+#EXTINF:-1,+Exclusively Ariana Grande
+https://streaming.exclusive.radio/er-app/arianagrande/icecast.audio
+#EXTINF:-1,+Exclusively Bad Bunny
+https://streaming.exclusive.radio/er-app/badbunny/icecast.audio
+#EXTINF:-1,+Exclusively Bruno Mars
+https://nl4.mystreaming.net/er-app/brunomars/icecast.audio
+#EXTINF:-1,+Exclusively Charlie Puth
+https://nl4.mystreaming.net/er-app/charlieputh/playlist.m3u8
+#EXTINF:-1,+Exclusively Dua Lipa
+https://streaming.exclusive.radio/er-app/dualipa/icecast.audio
+#EXTINF:-1,+Exclusively One Direction
+https://streaming.exclusive.radio/er-app/onedirection/icecast.audio
+#EXTINF:-1,+Exclusively One Direction HITS
+https://streaming.exclusive.radio/er-app/onedirectionhits/icecast.audio
+#EXTINF:-1,Hit FM 104.3 Ciudad Juárez
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHTO_FM.mp3
+#EXTINF:-1,Match 89.5 FM Puerto Vallarta
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMEFMAAC.aac
+#EXTINF:-1,neo 101.3 HD3 Los Mochis
+https://audiostreaming.luz.network/stream/3/;
+#EXTINF:-1,Neo 94.1 HD3 Culiacán
+https://audiostreaming.luz.network/stream/9/;
+#EXTINF:-1,Kiss Hits From The 10s
+https://live.kissfm.ro/kiss.hits.from.the.10s

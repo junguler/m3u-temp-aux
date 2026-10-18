@@ -67,3 +67,5 @@ https://ice.streams.ovh:1195/stream
 https://ams1.reliastream.com/proxy/john12/stream
 #EXTINF:-1,GEDI - Radio Capital Funky Town
 https://streamcdnr11-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapitalfunkytown/radiocapitalfunkytown/play1.m3u8
+#EXTINF:-1,RMF Funk
+https://rs101-krk-cyfronet.rmfstream.pl/rmf_funk
