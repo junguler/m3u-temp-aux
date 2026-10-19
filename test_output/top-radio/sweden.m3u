@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1,Pop & Rock – Umeå – Västerbotten – SE
+http://62.101.46.15:8000/poporock
+#EXTINF:-1,Radio Söderhamn – Söderhamn – Gävleborg – SE
+http://80.245.225.101:8000/stream.mp3
+#EXTINF:-1,Radio Haninge Direkt – Handen – Stockholm – SE
+http://213.115.49.175:1157/
+#EXTINF:-1,24/7ContinuousMusic – SE
+http://194.195.124.142:8020/radio.mp3
+#EXTINF:-1,Radio Gbg 94.9 FM – Gothenburg – Västra Götaland County – SE
+http://62.210.188.38:8050/relay

@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,Radio Fontana – Gjakovë – Gjakova – Kosovo
+http://46.4.104.253:8010/stream.mp3
+#EXTINF:-1,RTK1 – Radio Kosova – Pristina – Kosovo
+http://82.114.72.2:8088/stream.mp3
+#EXTINF:-1,RTK2 – Radio Kosova – Pristina – Kosovo
+http://82.114.72.2:8098/stream.mp3
+#EXTINF:-1,Antena 1 Radio
+http://87.117.201.166:8000/

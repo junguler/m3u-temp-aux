@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,KQBM 90.7 FM
+http://46.105.126.68:6332/listen.mp3
+#EXTINF:-1,WRHC Cadena Azul
+http://96.31.83.94:8136/stream
+#EXTINF:-1,El Gouna Radio
+http://82.201.132.237:8000/listen.pls
+#EXTINF:-1,RDI – Radio Dangdut Indonesia 97.1
+http://202.147.199.99:8000/listen.pls
+#EXTINF:-1,Holland FM
+http://85.214.93.93:8500/live
+#EXTINF:-1,Radio Santa Perpetua 107.0
+http://80.38.68.14:8000/
+#EXTINF:-1,Globo 93.3
+http://158.69.219.162:8026/start

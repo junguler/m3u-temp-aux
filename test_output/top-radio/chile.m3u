@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1,Radio Gala FM – Valparaíso – CL
+http://173.208.177.90:19044/
+#EXTINF:-1,Radio Nuevo Mundo – Ovalle – Coquimbo Region – CL
+http://190.82.105.90:8012/
+#EXTINF:-1,Radio Actual – Tocopilla – CL-AN
+http://192.198.83.230:8776/
+#EXTINF:-1,Meridional Radio – Punta Arenas – Region of Magallanes – CL
+http://49.12.9.173:8028/stream
+#EXTINF:-1,Beat FM – Quillota – 90.5 FM – Quillota – Valparaíso – CL
+http://200.24.229.253:8275/
+#EXTINF:-1,Radio Corporación Pichilemu – Rancagua – O’Higgins Region – CL
+http://198.7.59.28:2199/stream.php?port=8039
+#EXTINF:-1,Radio 88.7 FM – 88.7 FM – Quillota – Valparaíso – CL
+http://200.24.229.253:8225/
+#EXTINF:-1,MIRADIO Clasicos – Tocopilla – CL-AN
+http://149.56.241.149:8078/
+#EXTINF:-1,VIÑA FM – 107.7 FM – Viña del Mar – Valparaíso – CL
+http://200.24.229.253:8090/
+#EXTINF:-1,Radio Mixes – San Javier – Maule Region – CL
+http://49.12.9.173:8034
+#EXTINF:-1,ExtraNoticias Radio – CL-CO
+http://192.99.41.102:5852/
+#EXTINF:-1,Radio Alive Online – Parral – Maule Region – CL
+http://209.126.119.28:8081/
+#EXTINF:-1,Omega Radio Antofagasta – CL-AN
+http://149.56.241.149:8196/
+#EXTINF:-1,Dulce FM – La Ligua – Valparaíso – CL
+http://200.24.229.253:8240/listen.pls
+#EXTINF:-1,Radio Islámica Español – CL
+http://104.7.66.64:8093/?icy=http
+#EXTINF:-1,FM Joven 91.5 – 91.5 FM – Valparaíso – CL
+http://200.24.229.253:8040/stream/1/

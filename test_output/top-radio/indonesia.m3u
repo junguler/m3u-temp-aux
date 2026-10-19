@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1,Radio Fress FM – Sumedang Utara – ID
+http://162.244.80.106:11185/stream
+#EXTINF:-1,Global FM Jakarta – Jakarta – Jakarta Special Capital Region – ID
+http://202.147.199.98/stream.mp3
+#EXTINF:-1,Radio Islam Melayu – ID
+http://104.7.66.64:8008/?icy=http
+#EXTINF:-1,Radio Unisia – ID-YO
+http://202.162.36.222:8000/
+#EXTINF:-1,Kotaperak Jogja – Jojogan – East Java – ID
+http://203.30.236.2:8000/kotaperak
+#EXTINF:-1,V-Radio Jakarta 106.6 FM – 106.6 FM – Jakarta – Jakarta Special Capital Region – ID
+http://202.147.199.100:8000/stream.mp3
+#EXTINF:-1,Suara Pasuruan – 107.0 FM – Pasuruan – East Java – ID
+http://103.120.218.22:8088/
+#EXTINF:-1,Sky Radio Indonesia – ID
+http://45.64.97.82:8273/
+#EXTINF:-1,El John FM Palembang – 95.9 FM – Palembang – South Sumatra – ID
+http://103.28.149.117:8032/stream
+#EXTINF:-1,Dakta Radio 107.0 FM – 107.0 FM – Bekasi – West Java – ID
+http://175.103.48.4:9302/
+#EXTINF:-1,RDI – Radio Dangdut Indonesia 97.1 FM – 97.1 FM – Jakarta – Jakarta Special Capital Region – ID
+http://202.147.199.99:8000/listen.pls
+#EXTINF:-1,MNC Trijaya 104.6 FM – 104.6 FM – Jakarta – Jakarta Special Capital Region – ID
+http://202.147.199.101:8000/

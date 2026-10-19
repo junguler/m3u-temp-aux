@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1,Toque Brasil Web – BR-SP
+http://192.163.193.115:9990/
+#EXTINF:-1,Radio Calabar FM – 87.9 FM – Porto Calvo – BR-AL
+http://104.247.221.130:8108/stream
+#EXTINF:-1,Radio Liberal FM – 94.1 FM – Castanhal – BR-PA
+http://177.105.192.70:9750/liberalfm.mp3
+#EXTINF:-1,Rádio Nova Shekinah FM – BR-RJ
+http://179.127.28.236:10540/live
+#EXTINF:-1,Rádio 80 FM – BR-SP
+http://104.247.221.130:9020/stream1
+#EXTINF:-1,Clube FM – Jacobina – Estado de Bahia – BR
+http://192.99.14.210:8465/
+#EXTINF:-1,Difusora 24h – Manaus – BR-AM
+http://69.16.236.247:9300/
+#EXTINF:-1,Soft Radio Web – Brasília – Federal District – BR
+http://162.220.58.242:8088/
+#EXTINF:-1,Radio Xavantes FM – Jaciara – BR-MT
+http://179.127.4.122:8341/
+#EXTINF:-1,Rádio Canoa FM – 96.9 FM – Capão da Canoa – BR-RS
+http://143.208.11.104:8394/
+#EXTINF:-1,Rádio Jovem Rio FM – 106.3 FM – Rio Pomba – BR-MG
+http://143.208.11.104:8094/
+#EXTINF:-1,Rádio Cerro Azul – Cerro Largo – BR-RS
+http://143.208.11.104:8220/
+#EXTINF:-1,Rádio Islâmica Português – BR
+http://104.7.66.64:8086/?icy=http
+#EXTINF:-1,Plus Radio Fortaleza – Fortaleza – BR-CE
+http://179.127.4.122:8619/
+#EXTINF:-1,Irecê Líder FM – Irecê – Estado de Bahia – BR
+http://192.99.14.210:8223/
+#EXTINF:-1,Rádio Guarany FM – BR-SP
+http://143.208.11.104:8224/
+#EXTINF:-1,Força Livre Radio Rock – 90.9 FM – Bento Gonçalves – BR-RS
+http://200.229.168.15:8000/radio.mp3
+#EXTINF:-1,Rádio Uma Mensagem de Vida – BR-SP
+http://104.247.221.130:8216/stream
+#EXTINF:-1,Tobias Barreto FM 87.9 – 87.9 FM – Tobias Barreto – BR-SE
+http://209.222.97.199:8244/stream
+#EXTINF:-1,Radio Rural AM – Caicó – BR-RN
+http://143.208.11.104:8606/
+#EXTINF:-1,Radio Atalaia 87.9 FM – 87.9 FM – Atalaia – BR-AL
+http://158.69.7.169:8034/
+#EXTINF:-1,Radio Gem’s FM – 103.5 FM – Fortaleza – BR-CE
+http://143.208.11.100:7090/
+#EXTINF:-1,Rádio 105 FM – 105 FM – Jundiaí – BR-SP
+http://148.72.158.239:8010/live
+#EXTINF:-1,Rádio Sorriso WEB – Fortaleza – BR-CE
+http://50.7.66.66:13517/stream
+#EXTINF:-1,Serrana Líder FM – 93.5 FM – Jacobina – Estado de Bahia – BR
+http://192.99.14.210:8517/
+#EXTINF:-1,RB Líder FM 103.7 – 103.7 FM – Ruy Barbosa – Estado de Bahia – BR
+http://192.99.14.210:8424/
+#EXTINF:-1,Radio Tamaran FM 91.3 – 91.3 FM – Montenegro – BR-RS
+http://179.127.4.122:8575/stream
+#EXTINF:-1,Rádio Atlanta – Cuiabá – BR-MT
+http://143.208.11.104:8064/stream

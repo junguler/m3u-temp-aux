@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1,Radio fresh80s – DE-HH
+http://213.239.219.50/live.mp3
+#EXTINF:-1,1A 2000er – Magdeburg – Saxony-Anhalt – DE
+http://88.99.46.90:80/saw-2000er_48
+#EXTINF:-1,Radio SAW – Neuheiten – Magdeburg – Saxony-Anhalt – DE
+http://88.99.46.92:80/saw-neuheiten_48
+#EXTINF:-1,1A 70er hits – Magdeburg – Saxony-Anhalt – DE
+http://88.99.46.90:80/saw-70er_48
+#EXTINF:-1,Radio Hellbach – Biendorf – DE-MV
+http://5.9.16.111:8560/
+#EXTINF:-1,Radio BHeins – Potsdam – DE-BB
+http://46.163.75.84:8000/
+#EXTINF:-1,1A 90er – Magdeburg – Saxony-Anhalt – DE
+http://88.99.18.22:80/saw-90er_48
+#EXTINF:-1,radio SAW – Magdeburg – Saxony-Anhalt – DE
+http://88.99.46.92:80/saw_48
+#EXTINF:-1,Junger Kulturkanal – Karlsruhe – DE-BW
+http://193.197.85.26:8000/
+#EXTINF:-1,Radio Superoldie Musik – Dusseldorf – North Rhine-Westphalia – DE
+http://87.118.87.46:8888/
+#EXTINF:-1,RADIO DJSLINE – Dusseldorf – North Rhine-Westphalia – DE
+http://87.98.221.148:2570
+#EXTINF:-1,Radio SAW – Deutsch – Magdeburg – Saxony-Anhalt – DE
+http://88.99.46.92:80/saw-deutsch_48
+#EXTINF:-1,Power Radio 91.8 – 91.8 FM – DE-BE
+http://85.25.217.22:8020/stream

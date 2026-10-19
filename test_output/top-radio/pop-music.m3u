@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1,Magic 96.5 FM
+http://158.69.114.190:8072/
+#EXTINF:-1,Radio Antenna Campania
+http://167.86.86.4:8520/stream
+#EXTINF:-1,Radio Italia Uno
+http://79.8.227.117:8000/1
+#EXTINF:-1,Radio Pianeta
+http://5.196.74.6:8000
+#EXTINF:-1,Chanquete FM Guadalhorce
+http://185.23.192.118:8080/chanqueteguadalhorce/listen.pls
+#EXTINF:-1,Radio Dora
+http://195.201.29.94:9000
+#EXTINF:-1,Chanquete FM Málaga
+http://185.23.192.118:8080/chanquetemalaga/listen.pls
+#EXTINF:-1,Power Radio 91.8
+http://85.25.217.22:8020/stream
+#EXTINF:-1,Scan 96.1
+http://158.69.200.1:8022/stream
+#EXTINF:-1,RMF Gold
+http://217.74.72.11:8000/rmf_gold
+#EXTINF:-1,Show Radyo
+http://46.20.3.228/listen.pls
+#EXTINF:-1,RMF Sloneczne Przeboje
+http://217.74.72.11:8000/rmf_sloneczne_przeboje
+#EXTINF:-1,Pròxima FM
+http://91.187.93.115:8000/
+#EXTINF:-1,FM Joven 91.5
+http://200.24.229.253:8040/stream/1/
+#EXTINF:-1,RMF FM
+http://31.192.216.8:8000/rmf_fm
+#EXTINF:-1,Hitradio Namibia
+http://85.25.217.22:8000
+#EXTINF:-1,RMF 5
+http://217.74.72.11/RMF5
+#EXTINF:-1,Ezy Radio Inter
+http://112.121.150.133:9004/
