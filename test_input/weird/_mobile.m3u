@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1,SerrebiRadio Low
-https://radio.serrebiradio.com/listen/serrebiradio/low
-#EXTINF:-1,95 KSJ (97.5 FM)
-https://cloud.revma.ihrhls.com/zc1321?rj-org=n37b-e2&rj-ttl=5&rj-tok=AAABoFlh4JAAignQ7i6zBciXVw
-#EXTINF:-1,WHIL 91.3 - Alabama Public Radio
-https://playerservices.streamtheworld.com/api/livestream-redirect/WUAL_HD1.mp3
-#EXTINF:-1,WHIL HD2 - APR Classical
-https://playerservices.streamtheworld.com/api/livestream-redirect/WUAL_HD2.mp3

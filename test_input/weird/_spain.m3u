@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1,0nlineradio LATIN
-https://stream.0nlineradio.com/latin?ref=radiobrowser
-#EXTINF:-1,Radio Voz (A Coruña)
-https://live.radiovoz.es/mp3/stream_coruna.mp3
-#EXTINF:-1,Spectrum FM Costa Almeria
-https://eu8.fastcast4u.com/proxy/almeria2?mp=/1
-#EXTINF:-1,Hotmix Spain
-https://streaming.hotmixradio.com/hotmix-spain-en-mp3?provider=radiobrowser

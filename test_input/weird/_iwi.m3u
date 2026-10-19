@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1,AWA FM
-https://wowza.iwi.radio/icecast-to-hls/ngrp:AwaFM.stream/playlist.m3u8
-#EXTINF:-1,Radio Ngāti Porou
-https://wowza.iwi.radio/icecast-to-hls/ngrp:NgatiPorou.stream/playlist.m3u8
-#EXTINF:-1,Te Reo Irirangi O Ngāti Kahungunu
-https://wowza.iwi.radio/icecast-to-hls/ngrp:Kahungunu.stream/playlist.m3u8

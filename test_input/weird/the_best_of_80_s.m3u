@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1,FM KLIMAX
-https://streamall.alsolnet.com/fmklimax
-#EXTINF:-1,Kool 108
-https://stream.revma.ihrhls.com/zc1217/hls.m3u8?streamid=1217&zip=&aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=9393373802&clientType=web&companionAds=false&deviceName=web-mobile&dist=iheart&host=webapp.US&listenerId=a8e941c281de9ef4f1d4b557dcd9e13f&playedFrom=157&pname=live_profile&profileId=9393373802&stationid=1217&terminalId=159&territory=US
-#EXTINF:-1,Capital Radio 604
-https://streaming.galaxywebsolutions.com/proxy/capitalradio604?mp=/stream

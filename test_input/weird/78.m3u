@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1,Radio Grammo - Das Schellack-Radio
-https://icecast.multhielemedia.de/radio/8060/grammo
-#EXTINF:-1,Радио Эрмитаж Санкт-Петербург 90.1 FM
-https://hermitage.hostingradio.ru/hermitage128.mp3
-#EXTINF:-1,WALM - Old Time Radio
-https://icecast.walmradio.com:8443/otr
-#EXTINF:-1,WALM - Old Time Radio Opus
-https://icecast.walmradio.com:8443/otr_opus

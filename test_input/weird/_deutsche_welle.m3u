@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1,Deutsche Welle TV
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-#EXTINF:-1,DW English HD
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1,Russia Today Germany
-https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8

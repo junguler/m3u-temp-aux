@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1,24/7 SciFi Radio
-https://ec6.yesstreaming.net:1465/stream
-#EXTINF:-1,Strange Radio - Pumpkin FM
-https://cast2.asurahosting.com/proxy/strangeradio/stream
-#EXTINF:-1,WALM - Old Time Radio
-https://icecast.walmradio.com:8443/otr
-#EXTINF:-1,WALM - Old Time Radio Opus
-https://icecast.walmradio.com:8443/otr_opus

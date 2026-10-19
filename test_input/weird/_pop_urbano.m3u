@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1,Top Urbano
-https://radio.dominiserver.com/proxy/topurbano?mp=/stream
-#EXTINF:-1,102.9 Buenavista Radio (Ciudad Valles) - 102.9 FM - XHCSBY-FM - Medios Digitales Culturales de la Huasteca, A.C. - Ciudad Valles, San Luis Potosí
-https://cast1.asurahosting.com/proxy/bnavista/stream
-#EXTINF:-1,Viva FM
-https://tupanel.info:8780/stream
-#EXTINF:-1,Tropicalia 93.9FM
-https://rds3.desdeparaguay.net/movtropicalia/movtropicalia.stream/playlist.m3u8

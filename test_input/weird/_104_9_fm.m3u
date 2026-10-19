@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1,LA NACION 104.9 Más Música
-https://api-distribucion-ln.lnapps.com.ar/audiofm1049
-#EXTINF:-1,104.9 Studio (Ciudad Obregón) - 104.9 FM - XHESO-FM - Radiorama Sonora - Ciudad Obregón, Sonora
-https://stream.freepi.io/8406/live
-#EXTINF:-1,Exa FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/XHEXA_SC

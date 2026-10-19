@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1,NDR Fernsehen Hamburg
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
-#EXTINF:-1,NDR Fernsehen MV
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
-#EXTINF:-1,NDR Fernsehen Niedersachsen
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
-#EXTINF:-1,NDR Fernsehen SH
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
