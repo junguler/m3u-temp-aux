@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1,Duna World Rdi
+https://mr-stream.connectmedia.hu/4761/dwr.mp3
+#EXTINF:-1,FM90 Campus
+https://stream.fm90.hu:8000/?_=0.6592478044456687
+#EXTINF:-1,Folkrdi
+https://stream.folkradio.hu/folkradio.mp3
+#EXTINF:-1,Info Radio 958
+https://stream.infostart.hu/lejatszo/index.html
+#EXTINF:-1,InfoRdi
+https://stream.infostart.hu/lejatszo/index.html?sid=1
+#EXTINF:-1,Kossuth Rdi
+https://icast.connectmedia.hu/4726/mr1ex.mp3
+#EXTINF:-1,Lakihegy Radio
+http://stream.composeit.hu:8300/
+#EXTINF:-1,Magyar Evangeliumi
+https://stream.radio.co/s3fd8d173f/listen
+#EXTINF:-1,Manna FM
+https://icast.connectmedia.hu/4780/live.mp3
+#EXTINF:-1,Mustar FM
+http://193.138.125.14:8500/
+#EXTINF:-1,Papageno Radio
+http://onair7.xdevel.com:7102/1/
+#EXTINF:-1,Parlamenti Rdi
+https://mr-stream.connectmedia.hu/4746/mr5.mp3
+#EXTINF:-1,Periszkop Radio
+http://sztrim.periszkopradio.hu:8088/
+#EXTINF:-1,Petfi Rdi
+https://mr-stream.connectmedia.hu/4738/mr2.mp3
+#EXTINF:-1,POWER DANCE FM
+http://stream1.nexusradio.fm:80/nexusdance.mp3
+#EXTINF:-1,Radio 88
+http://stream.radio88.hu:8000/
+#EXTINF:-1,Sunshine Radio 994
+http://195.56.193.129:8100/
+#EXTINF:-1,Szent Istvan Radio
+http://online.szentistvanradio.hu:8000/
+#EXTINF:-1,Sztrda Rdi
+http://stream.diazol.hu:35080/live.mp3
+#EXTINF:-1,Tilos Radio
+http://stream.tilos.hu:80/tilos_128.mp3
+#EXTINF:-1,Tilos Rdi
+http://stream.tilos.hu:8000/tilos
+#EXTINF:-1,Tordas Rdi
+http://stream.tilos.hu/tordas_radio_online
+#EXTINF:-1,Webradio Balaton
+https://balaton.stream.laut.fm/balaton?t302=2026-10-19_20-13-57&uuid=4688b0a3-06e6-36a5-f9f5-0a0dd3a7f5c1
