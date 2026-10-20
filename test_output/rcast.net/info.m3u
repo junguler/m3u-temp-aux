@@ -1,0 +1,89 @@
+#EXTM3U
+#EXTINF:-1,Airtime!
+https://infonor.out.airtime.pro/infonor_a
+#EXTINF:-1,KWGS HD1 Stream NPR
+https://utulsa.streamguys1.com/KWGSHD1-AAC
+#EXTINF:-1,KWTU HD1 Stream Classical
+https://utulsa.streamguys1.com/KWTUHD1-AAC
+#EXTINF:-1,Canela Macas
+https://canelaradio.makrodigital.com/stream/canelaradiomacas
+#EXTINF:-1,CIDADE 87,9 FM
+https://stm01.virtualcast.com.br:8276/cidadecamposgerais
+#EXTINF:-1,ALT 92.1
+https://ice24.securenetsystems.net/ALT921
+#EXTINF:-1,europe1 national
+https://wr.lmn.fm/e1-wr5.aac
+#EXTINF:-1,APARTADO ESTEREO
+https://radiohd.streaminghd.co:7226/live
+#EXTINF:-1,KWGS HD1 Stream NPR
+https://utulsa.streamguys1.com/KWGSHD1-MP3
+#EXTINF:-1,RMF MAXXX
+https://rs103-krk-cyfronet.rmfstream.pl/MAXXXPOZ
+#EXTINF:-1,RADIO ENA 87.6
+https://tls-chrome.live24.gr/313
+#EXTINF:-1,Jazz Latin by Jazz Radio {Powered by Infomaniak.Net}
+https://jazz-wr09.ice.infomaniak.ch/jazz-wr09-128.mp3
+#EXTINF:-1,Jazzy French by Jazz Radio {Powered by Infomaniak.Net}
+https://jazz-wr18.ice.infomaniak.ch/jazz-wr18-128.mp3
+#EXTINF:-1,JazzRadio Only Women {powered by Infomaniak.net}
+https://jazz-wr16.ice.infomaniak.ch/jazz-wr16-128.mp3
+#EXTINF:-1,StreamInfo
+https://stream1.christmasfm.hu/live.mp3
+#EXTINF:-1,Bigfoot Country Elmira
+https://ice23.securenetsystems.net/WPGI
+#EXTINF:-1,Radio Dlya Dvoih
+https://icecast-radiofortwo.cdnvideo.ru/radiofortwo
+#EXTINF:-1,MFM en Concert avec MFM Radio {Powered by Infomaniak.Net}
+https://mfmwr-008.ice.infomaniak.ch/mfmwr-008.mp3
+#EXTINF:-1,Jazz Groove by Jazz Radio {Powered by Infomaniak.Net}
+https://jazz-wr08.ice.infomaniak.ch/jazz-wr08-128.mp3
+#EXTINF:-1,La Veu d' Ondara - 107.4 FM
+https://relay.stream.enacast-cloud.com:40235/laveudondaraSD.mp3
+#EXTINF:-1,RMF MAXXX
+https://rs202-krk-cyfronet.rmfstream.pl/MAXXXSLK
+#EXTINF:-1,Jazz Gospel by Jazz Radio {Powered by Infomaniak.Net}
+https://jazz-wr07.ice.infomaniak.ch/jazz-wr07-64.aac
+#EXTINF:-1,HITRADIO RTL - XMAS
+https://edge18.radio.hitradio-rtl.de/hrrtl-xmas?aggregator=redirect
+#EXTINF:-1,RMF Maxxx Podlasie
+https://rs101-krk.rmfstream.pl/rmf_maxxx_lom
+#EXTINF:-1,RADIO RVA, La radio d'Auvergne
+https://rva.ice.infomaniak.ch/rva-high.mp3
+#EXTINF:-1,Breakaway One
+https://audio-edge-ey5nr.ams.s.radiomast.io/5008371a-b8fd-4745-a5a3-e17837dad90c
+#EXTINF:-1,KWGS HD3 Stream BBC
+https://utulsa.streamguys1.com/KWGSHD3-AAC
+#EXTINF:-1,Nashe Radio Ekb
+https://nasheekt.hostingradio.ru:80/nasheekt128.mp3
+#EXTINF:-1,Jazz & Classique by Jazz Radio {Powered by Infomaniak.Net}
+https://jazz-wr17.ice.infomaniak.ch/jazz-wr17-128.mp3
+#EXTINF:-1,SWR Aktuell MP3 128
+https://d141.rndfnk.com/ard/swr/swraktuell/live/mp3/128/stream.mp3?aggregator=web&cid=01FC1X68PSW211RY56CDZQEEEN&sid=3KwfMB08JSNmnhevsJPMlYinTcU&token=J2DLHKrL96fkuWdPg97jyu5A8ALJX1ThoYPJ0OrNjM0&tvf=R_3M4ss44BhkMTQxLnJuZGZuay5jb20
+#EXTINF:-1,Jazz Radio Manouche {Powered by Infomaniak.Net}
+https://jazz-wr02.ice.infomaniak.ch/jazz-wr02-128.mp3
+#EXTINF:-1,RMF Maxx Krakow
+https://rs102-krk.rmfstream.pl/MAXXXKRA
+#EXTINF:-1,Electro Swing by Jazz Radio {Powered by Infomaniak.Net}
+https://jazz-wr04.ice.infomaniak.ch/jazz-wr04-64.aac
+#EXTINF:-1,ndr_ndrinfo_hh_mp3
+https://d111.rndfnk.com/ard/ndr/ndrinfo/live/mp3/128/stream.mp3?cid=01K365QMHFK0ZSMC0KAMAPG5FC&sid=3KwfM8RU4o04GZhFjZgf23nDE7F&token=EEidBs_C2Mgpx6HDH-CDaH19dfna6RIJ5XQk_heDxlw&tvf=X8_a5Ms44BhkMTExLnJuZGZuay5jb20
+#EXTINF:-1,KINB MAIN STREAM
+https://stream-01.surfernetwork.com/y1wacmco9kutv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5MXdhY21jbzlrdXR2IiwiaG9zdCI6InN0cmVhbS0wMS5zdXJmZXJuZXR3b3JrLmNvbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiR1ZBdnJzVG9UR2lFRFBwSXp2VmkxUSIsImlhdCI6MTc5MjQ3MzQ5OSwiZXhwIjoxNzkyNDczNTU5fQ.WsERQIKMdPO0dnLVtNih1g15yOUbFf8uxLr9u4a-yok
+#EXTINF:-1,1Livediggi, Westdeutscher Rundfunk Koeln
+https://d111.rndfnk.com/ard/wdr/1live/diggi/mp3/128/stream.mp3?cid=01FBS02KK2TSYGZSY19X8ZJ3RK&sid=3KwfMA60HeQbvXcUtk8rzdTwVp0&token=PZBxJaBwXRB99-dW95AH_-iUlcaU09UYgjYoIeweKIs&tvf=ZdUC48s44BhkMTExLnJuZGZuay5jb20
+#EXTINF:-1,HR Maroc MP3
+https://hitradio-maroc.ice.infomaniak.ch:80/hitradio-maroc-128.mp3
+#EXTINF:-1,SWR Aktuell AAC 48
+https://d141.rndfnk.com/ard/swr/swraktuell/live/aac/96/stream.aac?aggregator=web&cid=01FC1X68PSW211RY56CDZQEEEN&sid=3KwfMS0TAhteViR4YThevDlgQWY&token=mZSgBvqhwTYNgGt9JxjDff_Mw42UO4BL3c-ag3e9X5w&tvf=TW2CZ8w44BhkMTQxLnJuZGZuay5jb20
+#EXTINF:-1,WDR 5, Westdeutscher Rundfunk Koeln
+https://d131.rndfnk.com/ard/wdr/wdr5/live/mp3/128/stream.mp3?cid=01FBS0E239W9R7GR1S5Q7RTQRC&sid=3KwfMckUMG8MML0nM0Wm4bSyjxR&token=8_RzTg6bvRnMK6SsnNPL2ChxPEQns4ItLcutz_FEB3E&tvf=Wq-VlMw44BhkMTMxLnJuZGZuay5jb20
+#EXTINF:-1,catalunyainformacioHD
+https://shoutcast.ccma.cat/ccma/catalunyainformacioHD.mp3
+#EXTINF:-1,SWR Aktuell MP3 128
+https://d141.rndfnk.com/ard/swr/swraktuell/live/mp3/128/stream.mp3?aggregator=web&cid=01FC1X68PSW211RY56CDZQEEEN&sid=3KwfNCUivve504NXgwea607AGYC&token=PXrL7p1-QY6LOwKO6xB1I9gyMWt0c8DW0sVt97D3h-s&tvf=51WK8c044BhkMTQxLnJuZGZuay5jb20
+#EXTINF:-1,Radio Studio Uno
+https://rsu.radioca.st/
+#EXTINF:-1,Info Romania
+https://radio.sonicpanel.ro/8010/stream
+#EXTINF:-1,INFORME 3
+https://player.xcast.com.br/proxy/10962

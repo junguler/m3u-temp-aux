@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,Dubstep24h
+https://stream.24dubstep.pl/listen/dubstep24h/live
+#EXTINF:-1,24Dubstep.pl || Chillstep Channel
+https://stream.24dubstep.pl/listen/chillstep/mp3_normal
+#EXTINF:-1,24Dubstep.pl || Main Channel
+https://stream.24dubstep.pl/listen/dubstep/mp3_best
+#EXTINF:-1,24Dubstep.pl || Chillstep Channel
+https://stream.24dubstep.pl/listen/chillstep/mp3_best
+#EXTINF:-1,24Dubstep.pl || Chillstep Channel
+https://stream.24dubstep.pl/listen/chillstep/mp3_low
+#EXTINF:-1,24Dubstep.pl || Main Channel
+https://stream.24dubstep.pl/listen/dubstep/mp3_low
+#EXTINF:-1,24Dubstep.pl || Main Channel
+https://stream.24dubstep.pl/listen/dubstep/mp3_normal
