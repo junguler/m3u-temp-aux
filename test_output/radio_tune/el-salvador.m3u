@@ -1,0 +1,36 @@
+#EXTM3U
+#EXTINF:-1,Radio YSKL
+http://media.dominiocreativo.com:8000/radioyskl
+#EXTINF:-1,Radio Cool FM
+http://media.dominiocreativo.com:8006/coolfm
+#EXTINF:-1,Restauracion FM
+http://cdn-radio.elim.org.sv:8007/mp3_128
+#EXTINF:-1,El Libertador
+http://s4.viastreaming.net:7200/stream.mp3
+#EXTINF:-1,La Mejor FM 98.9
+http://158.69.219.162:8024/start
+#EXTINF:-1,Radio Fiesta 104.9
+https://sp4.colombiatelecom.com.co/8026/stream
+#EXTINF:-1,FM Globo
+http://158.69.219.162:8026/stream
+#EXTINF:-1,La Campirana Fm
+https://radios.radiohd.com.mx:7132/
+#EXTINF:-1,YXY Radio
+http://158.69.200.1:8020/start
+#EXTINF:-1,Scan FM
+http://158.69.200.1:8022/stream
+#EXTINF:-1,92.5 Club Fm
+http://158.69.200.1:8030/stream
+#EXTINF:-1,EURO 80s Radio
+https://stream-177.surfernetwork.com/fmrzu273ud0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJmbXJ6dTI3M3VkMHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlFXYjZneVZyVFRhWF9GSXZ6Wk9TNHciLCJpYXQiOjE3OTI0NDMyNzUsImV4cCI6MTc5MjQ0MzMzNX0.OR46CCGZ_X8lbD9VtxFT4wLlsr-hSlKd51AdcftonJg
+#EXTINF:-1,Radio Mix El Salvador
+https://stream-285.surfernetwork.com/u8qtfg200qruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1OHF0ZmcyMDBxcnV2IiwiaG9zdCI6InN0cmVhbS0yODUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjkzeXMyZGN1UTlXaFlnM1dINlc2TmciLCJpYXQiOjE3OTI0NDMyNzUsImV4cCI6MTc5MjQ0MzMzNX0.W8GrTHZI6jq4FhD_gSsTqh-Z9GH4C0Y3DUAkGiChBFc
+#EXTINF:-1,Radio Nacional de El Salvador
+https://streamingcwsradio30.com/8156/stream
+false&amplocale=en_US&ampreferrer=http%3A%2F%2Fwww.radiopopularsanmiguel.com%2F&ampautoResize=false&ampenablejsapi=true&ampvolume=1&ampts=1488604632100&ampcid=352246&quot
+#EXTINF:-1,Radio Emperador SalsaMerengueCumbia
+http://198.7.62.157:2199/listen.php?port=8030&amptype=s1
+#EXTINF:-1,Radio Vivencias Musicales
+http://65.60.45.74:5340/
+#EXTINF:-1,Exa FM El Salvador
+http://158.69.219.162:8028/start

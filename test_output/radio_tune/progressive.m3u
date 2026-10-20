@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1,After Hours FM
+https://nl.ah.fm/live
+#EXTINF:-1,Exclusively Moody Blues – HITS
+https://streaming.exclusive.radio/er/moodyblueshits/icecast.audio
+#EXTINF:-1,Fresh Radio USA
+https://s2.radio.co/see52d8809/listen
+#EXTINF:-1,Frisky Radio San Francisco
+http://stream2.friskyradio.com/frisky_mp3_hi?type=.mp3
+#EXTINF:-1,Goa Base Radio
+http://goa-base.stream.laut.fm/goa-base
+#EXTINF:-1,Hangar 506
+https://stream-286.surfernetwork.com/mersa2qh31zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJtZXJzYTJxaDMxenV2IiwiaG9zdCI6InN0cmVhbS0yODYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InktWVZrRXhYUlhXcGJnTTZ6bTFIaHciLCJpYXQiOjE3OTI0NDM4OTEsImV4cCI6MTc5MjQ0Mzk1MX0.kYigaa41XextfkR0YFax61BPCZhmOe39Fetu4mOBORw
+#EXTINF:-1,Jenny FM
+http://stream2.jenny.fm:9000/
+#EXTINF:-1,KSLC FM
+https://allclassical-ice.streamguys.com/ac96kmp3
+#EXTINF:-1,Luga Radio
+http://91.200.41.23:8000/
+#EXTINF:-1,Miami Global Radio
+https://live.miamiglobalradio.com/radio/8000/radio.mp3
+#EXTINF:-1,Progspectaculum
+https://progspectaculum.stream.laut.fm/progspectaculum?t302=2026-10-19_23-04-52&uuid=985c22cf-2681-de8e-2e97-46524d6473d4
+#EXTINF:-1,PsyRadio Chillout
+http://streamer.psyradio.org:8020/
+#EXTINF:-1,PsyRadio Progressive
+http://streamer.psyradio.org:8010/
+#EXTINF:-1,Radio Mega Dance
+http://live3.livemus.com.br:7002/
+#EXTINF:-1,Star FM 104.0 FM
+https://23153.live.streamtheworld.com/STARFM_AAC48.aac
+#EXTINF:-1,Trance Is Star Radio
+https://listen7.myradio24.com/tisradio
+#EXTINF:-1,TrancePulse FM
+https://stream.trance.ie:8443/stream

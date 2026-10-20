@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,İctimai Radio
+https://stream.itv.az/rtmp:/radio/playlist.m3u8
+#EXTINF:-1,Radio TMB 100.5
+http://s39.myradiostream.com:5458/listen.mp3?nocache=1792439610
+#EXTINF:-1,Naxçıvan Radiosu
+http://s33.myradiostream.com:12782/stream.nsv
+#EXTINF:-1,AutoLife Azerbaijan
+https://radio.autoliferadio.com:8005/radio
+#EXTINF:-1,Balkan Rainbow
+https://s0.radioheart.ru:8000/RH20730
+#EXTINF:-1,Rakevet
+https://s0.radioheart.ru:8000/RH20728
+#EXTINF:-1,Araz 103.3 FM
+http://s14.myradiostream.com:30454/listen.mp3
