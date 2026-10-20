@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1,環球廣播電台 107.1 FM
+http://60.248.53.115:8081/
+#EXTINF:-1,歡喜之聲 105.5 FM
+http://59.125.41.65:8081/
+#EXTINF:-1,凱旋廣播電台 97.9 FM
+http://61.220.209.152:8081/
+#EXTINF:-1,噶瑪蘭廣播電台 97.9 FM
+http://61.220.209.152:8081/
+#EXTINF:-1,佳音聖樂網CCM FM90.9
+https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/modern/playlist.m3u8
+#EXTINF:-1,PBS - Llan Sub-Station
+http://stream.pbs.gov.tw:1935/live/ELS/playlist.m3u8
+#EXTINF:-1,PBS - Tainan Sub-Station
+http://stream.pbs.gov.tw:1935/live/TNS/playlist.m3u8
+#EXTINF:-1,快樂聯播網 澎湖 FM91.3
+http://59.120.255.171:8081/
+#EXTINF:-1,PBS - Hsinchu Sub-Station
+http://stream.pbs.gov.tw:1935/live/SCS/playlist.m3u8
+#EXTINF:-1,PBS - Iraitung Sub-Station
+http://stream.pbs.gov.tw:1935/live/TTS/playlist.m3u8
+#EXTINF:-1,PBS - Hualien Sub-Station
+http://stream.pbs.gov.tw:1935/live/HLS/playlist.m3u8
+#EXTINF:-1,竹塹廣播電台FM90.3
+http://211.72.230.118:8081/
+#EXTINF:-1,世新廣播電台SHRS 729 AM
+https://stream.ginnet.cloud/live0115lo-89xv/_definst_/am729/playlist.m3u8
+#EXTINF:-1,屏東之聲廣播電台 92.5
+http://59.120.255.169:8081/
+#EXTINF:-1,世新廣播電台 SHRS 88.1 FM
+https://stream.ginnet.cloud/live0115lo-89xv/_definst_/fm881/playlist.m3u8
+#EXTINF:-1,真心之音廣播電台
+https://mytuner-radio.com/radio/country/taiwan-stations
+#EXTINF:-1,花蓮希望之聲 90.5 FM
+https://mytuner-radio.com/radio/country/taiwan-stations
+#EXTINF:-1,中華一台 AM1350
+https://mytuner-radio.com/radio/country/taiwan-stations
+#EXTINF:-1,Voice of Chaozhou 90.9 FM
+http://59.120.255.170:8081/

@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1,УР1 UR-1
+http://91.218.213.49:8000/ur1-mp3
+#EXTINF:-1,Закарпаття фм (Transcarpathia FM)
+http://195.234.148.51:8000/stream.mp3
+#EXTINF:-1,Радіо Промінь УР2 UR-2
+http://91.218.213.49:8000/ur2-mp3
+#EXTINF:-1,УР3 UR-3 Radio Kultura 72.8
+http://91.218.213.49:8000/ur3-mp3
+#EXTINF:-1,Радіо Україна - Всесвітня служба (RUI - Radio Ukraine International)
+http://91.218.213.49:8000/ur4-mp3
+#EXTINF:-1,Radio Nezalezhnist 106.7 | Радіо Незалежність 106.7 fm
+http://rad.radio-n.com:8000/
+#EXTINF:-1,Liberland FM
+http://s02.radio-tochka.com:4410/stream
+#EXTINF:-1,Radio Wesole Slonzoki
+http://s1.radiohost.pl:8126/
+#EXTINF:-1,Zakar Pattya
+http://195.234.148.51:8000/stream.mp3
+#EXTINF:-1,Радио Пюре (pure)
+https://air.puree.io/puree

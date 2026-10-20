@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,Link FM
+http://116.202.241.212:8080/stream
+#EXTINF:-1,Wild Coast 98.6 FM
+http://116.202.241.212:8090/
+#EXTINF:-1,Gold FM
+http://88.198.119.244:8000/stream.mp3
+#EXTINF:-1,Izwelenala FM
+http://edge.iono.fm/xice/izwelenala_live_medium.aac
+#EXTINF:-1,Kovsie FM
+https://edge.iono.fm/xice/87_medium.aac?p=embed
+#EXTINF:-1,SKM Radio Network
+https://s3.radio.co/sd93c3e159/listen
+#EXTINF:-1,KWEMALAFM
+http://www.streamcontrol.net:10010/
+#EXTINF:-1,RMR - Rhodes Music Radio
+https://edge.iono.fm/xice/70_medium.aac
+#EXTINF:-1,Fashion District Radio
+http://sv2.famcast.co.za:8007/stream

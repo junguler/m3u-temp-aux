@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1,FM 100 - Islamabad
+http://162.244.80.118:4900/stream.mp3
+#EXTINF:-1,Suno 1024 FM
+http://51.255.235.165:5476/stream.mp3
+#EXTINF:-1,FM 100 - Karachi
+http://162.244.80.118:3024/stream.mp3
+#EXTINF:-1,Radio Sur Adeje
+http://streaming.enacast.com:8000/radiosuradeje56.mp3
+#EXTINF:-1,106.1 HUM FM Radio
+https://ice10.securenetsystems.net/HUMFM
+#EXTINF:-1,thethursdaynightshow
+https://direct.sharp-stream.com/live
+#EXTINF:-1,Brumside Radio
+http://carol.epichosts.co.uk:8440/live.mp3
+#EXTINF:-1,Tjks Radio Miami
+http://thassos.cdnstream.com:5485/
+#EXTINF:-1,TTNS
+https://direct.sharp-stream.com/live
+#EXTINF:-1,DeSi-RaDiO
+https://desi-radio.com/
