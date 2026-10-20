@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1,HITRADIO RTL Top40
-https://edge17.radio.hitradio-rtl.de/hrrtl-top40/stream/aacp
-#EXTINF:-1,WKSC-FM ZC Backup
-https://stream.revma.ihrhls.com/zc849
-#EXTINF:-1,radio TOP 40 Livestream
-https://edge22.streamonkey.net/antthue-radiotop40?aggregator=rewrite/
-#EXTINF:-1,radio TOP 40 Livestream
-https://edge22.streamonkey.net/antthue-radiotop40/stream/mp3?aggregator=rewrite/
