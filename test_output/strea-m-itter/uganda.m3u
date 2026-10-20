@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/VKKIJ4.png",90FM Radio One
+http://162.244.80.52:8740/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/DQQ4Z6.png",Akaboozi FM 87.9
+http://162.244.80.52:8732/stream.mp3

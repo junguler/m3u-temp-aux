@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/YMDE7.png",1000 Schlager
+https://1000schlager.stream.laut.fm/1000schlager
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/8KZE29.png",Dein Radio Berlin
+https://dein-radio-berlin.stream.laut.fm/dein-radio-berlin
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/HEUJUO.png",Radio Altstadtwelle
+https://icecast.multhielemedia.de/radio/8040/rheinradio.mp3?1607975081
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/UUTWMZ.png",radio B2 Brandneu
+http://b2.stream43.radiohost.de/b2-schlagerradio-top40_mp3-192?ar-distributor=f0a1&upd-meta&upd-scheme=http&ref=f0a1&amsparams=f0a1&_art=dD0xNzkyNDgxNzU1JmQ9OTFmYTA0NTBlY2M2YzJmZTFlMzM
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/K6M8QS.png",radio B2 Deutschlands Schlager-Radio
+http://b2.stream43.radiohost.de/b2-schlagerradio-national_mp3-192?ar-distributor=f0a1&upd-meta&upd-scheme=http&ref=f0a1&amsparams=f0a1&_art=dD0xNzkyNDgxNzU1JmQ9MTgxZGY3MDkxMmVhMGIwMmZjNDc
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/DRB64R.png",radio B2 Mecklenburg-Vorpommern 106.5 FM
+http://b2.stream43.radiohost.de/b2-schlagerradio-mv_mp3-192?ar-distributor=f0a1&upd-meta&upd-scheme=http&ref=f0a1&amsparams=f0a1&_art=dD0xNzkyNDgxNzU1JmQ9YTc0ZTgxYTBhOTE1NGViNzMzZTk
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/AHGSBG.png",radio B2 Roland Kaiser
+http://b2.stream43.radiohost.de/b2-schlagerradio-rolandkaiser_mp3-192?ar-distributor=f0a1&upd-meta&upd-scheme=http&ref=f0a1&amsparams=f0a1&_art=dD0xNzkyNDgxNzU1JmQ9NmQ2ZDVjNTRkYTBjMmY0Yzc3OWM
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/0R1M8.png",radio B2 Volksmusik
+http://b2.stream43.radiohost.de/b2-schlagerradio-volksmusik_mp3-192?ar-distributor=f0a1&upd-meta&upd-scheme=http&ref=f0a1&amsparams=f0a1&_art=dD0xNzkyNDgxNzU1JmQ9NDIzMmRiNTg2NDIyZTA5OTc1Njc
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/RZ17OG.png",Radio Donauhits
+https://donauhits.stream.laut.fm/donauhits?uuid=3dd28bf9-81e5-bbd6-1119-58d4b7c02220&t302=2026-10-20_09-30-49
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/YBBGA.png",Radio Harmonie
+http://stream.radioharmonie.at:9630/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/C8KG81.png",Radio Hellbach
+https://server3.streamserver-unlimited.de:8569/stream1
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/79QIPM.png",Radio PCM 99% Total Schlager
+https://totalschlager.stream.laut.fm/totalschlager
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/BSSRN.png",Radio Regenbogen Schlager
+https://audiotainment-sw.streamabc.net/atsw-schlager-mp3-128-2007373?sABC=6nq718nn%230%23spns80311498n49p8r76n280nqr8nq18%23fgernzvggre&aw_0_1st.playerid=streamitter&amsparams=playerid:streamitter;skey:1792481450
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/SBM179.png",Radio Schlagergarage
+https://schlagergarage.stream.laut.fm/schlagergarage
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/XYJW15.png",RauteMusik.FM Schlager
+http://rautemusik.stream38.radiohost.de/schlager?upd-meta&upd-scheme=http&_art=dD0xNzkyNDgxNzUxJmQ9YjZlNWMwMTY1YmNmMGIzODk2NTU
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/VLCN7K.png",Roland Kaiser von Schlagerplanet Radio
+https://regiocast.streamabc.net/regc-schlagerplanetkaiser8827870-mp3-192-6353982?sABC=6nq718no%230%23spns80311498n49p8r76n280nqr8nq18%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1792481451
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/station-logo-no.png",RPR1. Aprés Ski & Ballermann
+https://audiotainment-sw.streamabc.net/atsw-apresski-mp3-128-5132475?sABC=6nq718o1%230%23spns80311498n49p8r76n280nqr8nq18%23gjy02&aw_0_1st.playerid=twl02&amsparams=playerid:twl02;skey:1792481457
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/HNO2P.png",Radio Schinkenstrasse
+https://audiotainment-sw.streamabc.net/atsw-apresski-mp3-128-5132475?sABC=6nq718no%230%23spns80311498n49p8r76n280nqr8nq18%23fgernzvggre&aw_0_1st.playerid=streamitter&amsparams=playerid:streamitter;skey:1792481451
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/FSPW22.png",RPR1.Kölner Karneval
+https://audiotainment-sw.streamabc.net/atsw-karneval-mp3-128-3839250?sABC=6nq718no%230%23spns80311498n49p8r76n280nqr8nq18%23fgernzvggre&aw_0_1st.playerid=streamitter&amsparams=playerid:streamitter;skey:1792481451
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/NQ6YNL.png",RPR1. Pappnasen
+https://audiotainment-sw.streamabc.net/atsw-pappnasen-mp3-128-2964053?sABC=6nq718no%230%23spns80311498n49p8r76n280nqr8nq18%23fgernzvggre&aw_0_1st.playerid=streamitter&amsparams=playerid:streamitter;skey:1792481451
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/QPPRC.png",RPR1. Schlager
+https://audiotainment-sw.streamabc.net/atsw-schlagerhits-mp3-128-1642042?sABC=6nq718no%230%23spns80311498n49p8r76n280nqr8nq18%23fgernzvggre&aw_0_1st.playerid=streamitter&amsparams=playerid:streamitter;skey:1792481451
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/HTHBEG.png",Saxnwelle
+https://saxnwelle.stream.laut.fm/saxnwelle?uuid=54a61083-9bad-33e0-2b10-d9605a1c0912&t302=2026-10-20_09-30-52
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/71NEBX.png",Schlager24 Radio
+http://schlager24.stream.laut.fm/schlager24?uuid=d62b1da6-cd61-7636-2b3f-cce3c8f24ea9&t302=2026-10-20_09-30-52
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/S3766V.png",Schlageradio
+http://schlageradio.stream.laut.fm/schlageradio?uuid=65e6dcc8-699c-9e1d-7c11-195a6a2b064e&t302=2026-10-20_09-30-52
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/D2PMZP.png",Schlagerfee Radio
+http://sfr-stream.de:8000/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/7NZ9SG.png",Schlager Radio
+https://schlagerradio.stream.laut.fm/schlagerradio?uuid=e4d1faed-c9e3-d040-17f0-331c7e8a77e9&t302=2026-10-20_09-30-53
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/5UGNHV.png",Schlagerradiobs
+http://schlagerradiobs.stream.laut.fm/schlagerradiobs?uuid=210eb809-e77c-b241-d8d6-1e56f93d01b6&t302=2026-10-20_09-30-54
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/09WPU0.png",Schlager Radio de Fleech
+http://schlager-radio-de-fleech.stream.laut.fm/schlager-radio-de-fleech?uuid=a9d836ff-a139-c5a5-f5eb-6614fcd9ca3a&t302=2026-10-20_09-30-54
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/EW0FUB.png",Schlager Rallye FM
+http://schlagerrallyefm.stream.laut.fm/schlagerrallyefm?uuid=ed47ce22-8018-2a75-e821-d07c338b0f4d&t302=2026-10-20_09-30-54
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/3ED8WY.png",Schlager - von SchlagerPlanet
+http://regiocast.streamabc.net/regc-schlagerplanetschlager7639754-mp3-192-1955544?sABC=6nq718nr%230%238580045r21p13s86p4rq1489oq10ss54%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1792481454
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/KMCJOO.png",SR 3-SchlagerWelt
+https://d111.rndfnk.com/ard/sr/sr3c1/mp3/128/ct/stream.mp3?aggregator=audiostreamio&cid=01FH5AVZZZMFRBBJA43ZG9VQHC&sid=3KwvUU6Wwu1SvdzzRsYK4bCViLL&token=HjZN8uXcpHn534L2xoluzDnQRu067Q0TwHA2LFAoOR0&tvf=bsRsQQlA4BhkMTExLnJuZGZuay5jb20
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/6BO0ZO.png",Sunshine Radio Krems
+http://85.195.72.226:10396/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/XCV685.png",Treffpunkt-Evergreen
+http://treffpunkt-evergreen.stream.laut.fm/treffpunkt-evergreen?uuid=66f6492e-f6d6-6126-ddd6-edb1e0d219ca&t302=2026-10-20_09-30-55
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/SL73PQ.png",Volksmusik - von SchlagerPlanet
+http://regiocast.streamabc.net/regc-schlagerplanetvolksmusik4131232-mp3-192-3940827?sABC=6nq718ns%230%238580045r21p13s86p4rq1489oq10ss54%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1792481455
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/2W6VM4.png",Volldampfradio
+http://stream.vdr-server.de:8020/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/JXD3W.png",wunschradio.fm Schlager
+http://webstream.radiostreamserver.de/wunschradio-schlager.mp3

@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/5SJSQC.png",Alfa FM
+http://radioonline.netgate.com.uy:8000/alfafm
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/XU95CM.png",ANTILLES MEDIA KOMPA
+https://antillesmedia.pro-fhi.net/antillesmediakompa
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/0J1LU.png",ANTILLES MEDIA ZOUK
+https://antillesmedia.pro-fhi.net/antillesmediazouk
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/EV2Q6.png",BLS  GUYANE
+https://servidor15.brlogic.com:7292/live
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/1KWXG.png",El Libertador AM
+http://s4.viastreaming.net:7200/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/YO1LR8.png",Estrella Estéreo 104.3
+http://68.233.236.92:8006/stream
