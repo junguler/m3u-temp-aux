@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,Radio Helsinki 98.5
+https://stream.radiohelsinki.fi/
+#EXTINF:-1,YLE Klassinen
+http://yle.fi/radio/yleklassinen/suora
+#EXTINF:-1,WildCat Metal
+https://streaming.brol.tech/rtfmlounge
+#EXTINF:-1,WildCat Dance
+https://streaming.brol.tech/rtfmlounge
+#EXTINF:-1,Kaupunki Radio
+https://kaupunkikanava.fi/kaupunkiradio-2/
+#EXTINF:-1,MOI Web Radio
+https://everestcast.streams.ovh/MOIWebRadio
