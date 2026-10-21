@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1,KXSF
+http://stream.kxsf.fm:8000/kxsf
+#EXTINF:-1,laut.fm Kakerlakenradio
+http://kakerlakenradio.stream.laut.fm/kakerlakenradio?t302=2026-10-20_23-36-40&uuid=47c45c18-076c-3b59-b3e3-d24182cdf441
+#EXTINF:-1,Laut.FM Raus
+http://raus.stream.laut.fm/raus?t302=2026-10-20_23-36-40&uuid=e63a7b56-2223-5df1-b42b-53e46b48399b
+#EXTINF:-1,Laut.FM Skafari
+http://skafari.stream.laut.fm/skafari?t302=2026-10-20_23-36-40&uuid=9a9fc436-ef97-d815-e0f0-7187801398eb
+#EXTINF:-1,OÜI FM Alternatif
+http://alternatif.stream.ouifm.fr/ouifm2.mp3
+#EXTINF:-1,Path through the Forest
+http://paththroughtheforest.stream.laut.fm/path_through_the_forest?t302=2026-10-20_23-36-40&uuid=f2be1646-c336-d246-bc47-db4e29baf242
+#EXTINF:-1,Punk4all
+http://stream.laut.fm/punk4all.m3u
+#EXTINF:-1,Punkowe Radio Underground
+http://s1.slotex.pl:7604/
+#EXTINF:-1,PUNKRATZ
+http://stream.laut.fm/punkratz.m3u
+#EXTINF:-1,punkrockers-radio
+https://www.punkrockers-radio.de/playlists/punkrockers.pls
+#EXTINF:-1,PunkRockRadio.ca
+https://stream.radio.co/s904013bb1/listen
+#EXTINF:-1,RADIO BOB! BOBs Punk
+http://regiocast.streamabc.net/regc-radiobobpunk9297074-mp3-192-5301995?sABC=6nq7r727%230%23n0q8nq163s738s015oq4p40oosp101p6%23fgernzf.enqvbobo.qr&aw_0_1st.playerid=streams.radiobob.de&amsparams=playerid:streams.radiobob.de;skey:1792534311
+#EXTINF:-1,Radio Endstation
+https://funkturm.radio-endstation.de/public/radio-endstation/playlist.pls
+#EXTINF:-1,Radio Gugelhopf
+http://uk3.internet-radio.com:8113/stream
+#EXTINF:-1,Radio todamax
+http://todamax.stream.laut.fm/todamax?t302=2026-10-21_00-11-52&uuid=e9de0d0f-a634-b0ea-3174-aadc9edba479
+#EXTINF:-1,Radio Zodiac Ireland
+http://listen.radioking.com/radio/124966/stream/164656
+#EXTINF:-1,RauteMusik Rock
+http://rautemusik.stream43.radiohost.de/rock?upd-meta&upd-scheme=http&_art=dD0xNzkyNTM0NjE0JmQ9NzkwNWExNmY0ZTllMjE0NTkwNjc
+#EXTINF:-1,REAL PUNK RADIO
+https://s2.nexuscast.com/tunein/realpunkradio.pls
+#EXTINF:-1,Rock && Folk (rock n folk)
+https://rockfolk.ice.infomaniak.ch/rockfolk.mp3
+#EXTINF:-1,ROCK by rautemusik (rm.fm)
+https://rautemusik.stream43.radiohost.de/rock?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzkyNTM0NjE1JmQ9OGYwMmM1NWE2NWI1MzUyYjIxODU
+#EXTINF:-1,Rock Radio Online Mexico
+http://playerservices.streamtheworld.com/pls/SAM07AAC286.pls
+#EXTINF:-1,SomaFM Metal Detector (128k AAC)
+https://somafm.com/metal130.pls
+#EXTINF:-1,Subculture 69 Radio (new)
+http://144.76.32.5:8000/sbc69r
+#EXTINF:-1,Teenage Kicks Radio
+https://evcast.mediacp.eu:1165/stream
+#EXTINF:-1,The Artist
+http://stream.laut.fm/theartist.m3u
+#EXTINF:-1,UnderGRAND Radio
+http://stream-286.surfernetwork.com/rp1swb5pgzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJycDFzd2I1cGd6enV2IiwiaG9zdCI6InN0cmVhbS0yODYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IldtenppLXM3U3J5YTlQc2ZKRExXR0EiLCJpYXQiOjE3OTI1MzQzMTQsImV4cCI6MTc5MjUzNDM3NH0.b1iu0o8lKumS6VjDPAwRUM5wg69nlx5z5dgF6mwBYXY
+#EXTINF:-1,WACKENRADIO by rautemusik (rm.fm)
+https://rautemusik.stream43.radiohost.de/metal_mp3-192?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzkyNTM0NjE2JmQ9MzZhOTExMDVlMDlhNDQ5MjJjZjA
+#EXTINF:-1,WAVE RADIO 89.8 Hossegor
+https://s34.myradiostream.com/:12340/listen.mp3?nocache=1792534315
+#EXTINF:-1,WRPS 88.3 FM
+http://www.ophanim.net:9690/stream/1/
+#EXTINF:-1,WSOU 89.5FM Pirate Radio
+https://stream-01.surfernetwork.com/knsckcnpe25tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrbnNja2NucGUyNXR2IiwiaG9zdCI6InN0cmVhbS0wMS5zdXJmZXJuZXR3b3JrLmNvbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiRHpMdkVVaE5TaW1xZjVSaHp3UUVjZyIsImlhdCI6MTc5MjUzNDMyMiwiZXhwIjoxNzkyNTM0MzgyfQ.o-hNTBBLC_X-ga1P_HxpinZwAb2KRVIiLuCg7jAryBg

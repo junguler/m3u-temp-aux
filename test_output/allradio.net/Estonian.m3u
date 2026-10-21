@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,Finest Fm
+http://212.47.220.188:8000/listen.mp3
+#EXTINF:-1,Sky Plus
+https://edge04.cdn.bitflip.ee:8888/SKYPLUS?_i=30c86257
+#EXTINF:-1,Sooviraadio
+http://media.uunox.net:8888/listen.pls

@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1,Oldies Internet Radio
+http://162.244.81.98:8140/listen
+#EXTINF:-1,Panda Pop Radio - Online - El Panda Zambrano - Ciudad de México
+http://65.21.202.84:8182/
+#EXTINF:-1,Panda Show Radio - Online - El Panda Zambrano - Ciudad de México
+http://65.21.202.84:8062/
+#EXTINF:-1,UNIVERSAL Ciudad de México - 1110 AM - XERED-AM - Grupo Radio Centro - Ciudad de México
+https://27063.live.streamtheworld.com/XERED_AMAAC.aac
+#EXTINF:-1,UNIVERSAL Ciudad de México - 88.1 FM - XHRED-FM - Grupo Radio Centro - Ciudad de México
+https://26283.live.streamtheworld.com/XERED_AMAAC.aac
+#EXTINF:-1,UNIVERSAL y LA OCTAVA (Ciudad de México) - 88.1 FM - XHRED-FM - Grupo Radio Centro - Ciudad de México
+http://29306.live.streamtheworld.com/XERED_AM.mp3
+#EXTINF:-1,W Deportes (Ciudad de México) - 730 AM - XEX-AM - Radiópolis - Ciudad de México
+https://15693.live.streamtheworld.com/TDW730AMAAC.aac
+#EXTINF:-1,W Radio Ciudad de México (XEW-AM 900 kHz, XEW-FM 96.9 MHz) Televisa Radio
+https://provisioning.streamtheworld.com/pls/W_RADIOAAC.pls
+#EXTINF:-1,XEB La B grande de Mexico 1220 AM / 94.5 HD2 "Con la Música de México" IMER
+https://s2.mexside.net/8024/stream
+#EXTINF:-1,XEJP-FM "Joya 93.7" Mexico City, DF
+https://provisioning.streamtheworld.com/pls/XEJP_FMAAC.pls
+#EXTINF:-1,XEL-AM 1260 "La Comadre" Mexico City, DF
+https://provisioning.streamtheworld.com/pls/XELAMAAC.pls
+#EXTINF:-1,XEQR "Radio Centro" 1030 AM Mexico City, DF
+http://playerservices.streamtheworld.com/pls/XEQR_AMAAC.pls
+#EXTINF:-1,XERC-FM 97.7 "Radio Centro" Mexico City, DF
+https://provisioning.streamtheworld.com/pls/XERC_FMAAC.pls
+#EXTINF:-1,XEX 730 "W Deportes" Mexico City, DF
+https://provisioning.streamtheworld.com/pls/TDW730AMAAC.pls
+#EXTINF:-1,XHEXA "Exa FM" 104.9 FM Mexico City, DF
+http://playerservices.streamtheworld.com/pls/XHEXA.pls
+#EXTINF:-1,XHPOP-FM 99.3 "Radio Disney" Mexico City, DF
+https://provisioning.streamtheworld.com/pls/XHPOPFMAAC.pls
+#EXTINF:-1,XHSH-FM "Amor 95.3" Mexico City, DF
+https://provisioning.streamtheworld.com/pls/XHSHFMAAC.pls
+#EXTINF:-1,XHUIA-FM-HD2 Ibero 90.9.2, Universidad Iberoamericana, Ciudad de México
+http://shaincast.caster.fm:20866/listen.mp3
+#EXTINF:-1,ZER Radio (Ciudad de México) - 1320 AM - XEARZ-AM - Grupo Radiofónico ZER - Ciudad de México
+https://cast.zuperdns.net/8032/stream
+#EXTINF:-1,Zer Radio (Ciudad de México) - 1320 AM - XEARZ-AM - Grupo Radiofónico ZER - Ciudad de México
+https://cast.zuperdns.net/8032/stream
+#EXTINF:-1,ZER Radio (Ciudad de México) - 1650 AM - XEARZ-AM - Grupo Radiofónico ZER - Ciudad de México
+https://live.zuperdns.net/1650/stream/

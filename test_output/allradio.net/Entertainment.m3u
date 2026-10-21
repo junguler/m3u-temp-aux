@@ -1,0 +1,145 @@
+#EXTM3U
+#EXTINF:-1,BeachFM 106.3
+http://s8.myradiostream.com:58408/
+#EXTINF:-1,Cadena Heat
+https://liveradio.mediainbox.net/cadena3/fmcordoba.mp3?sid=b32ae331-bdc0-4695-b461-296e5e551073
+#EXTINF:-1,Cadena SER - Ràdio Barcelona
+https://29345.live.streamtheworld.com/SER_BARCELONA.mp3
+#EXTINF:-1,Cadena SER - Radio Zamora
+https://25483.live.streamtheworld.com/SER_ASO_ZAMORA.mp3
+#EXTINF:-1,CNR-3 音乐之声（2）
+http://satellitepull.cnr.cn/live/wxyyzs/playlist.m3u8
+#EXTINF:-1,CNR-9 文艺之声（2）
+http://satellitepull.cnr.cn/live/wxwyzs/playlist.m3u8
+#EXTINF:-1,COPE Santander
+http://santander.copesedes.stream.flumotion.com/copesedes/santander.mp3.m3u
+#EXTINF:-1,Couleur3
+http://livestreaming-node-3.srg-ssr.ch/srgssr/couleur3/aac/96
+#EXTINF:-1,Drosselgassenfrequenz
+http://stream.laut.fm/drosselgassenfrequenz.m3u
+#EXTINF:-1,Free FM 89 Hamilton
+https://live.accessmedia.nz/FreeFM.stream_aac/chunklist_w1448621681.m3u8
+#EXTINF:-1,GarganoFM
+https://stream1.xdevel.com/audio0s975759-322/stream/icecast.audio
+#EXTINF:-1,Gässjer FM
+https://smalltownradio.de:8000/gaessjerfm.mp3
+#EXTINF:-1,Hot FM 105
+http://172.93.237.106:8000/listen.mp3
+#EXTINF:-1,Kalai Fm-TAMIL
+https://stream-282.surfernetwork.com/2vghnwshsqzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIydmdobndzaHNxenV2IiwiaG9zdCI6InN0cmVhbS0yODIuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Imp4bFdZeFUwVDlhUU5nTmw5SkwyWFEiLCJpYXQiOjE3OTI1MzEyNTUsImV4cCI6MTc5MjUzMTMxNX0.4Sb6whPYFZTfgU_9atu3nbvp9d4qnVdYAC2AFpqnQSE
+#EXTINF:-1,Kosmos 94.1
+https://edge.iono.fm/xice/88_high.mp3
+#EXTINF:-1,Metro 95.1
+https://26643.live.streamtheworld.com/METRO.mp3
+#EXTINF:-1,Musik-Kurier
+http://musik-kurier.stream.laut.fm/musik-kurier?t302=2026-10-20_23-20-55&uuid=8c66e4d6-c279-1b0b-4e61-5377fcdc9264
+#EXTINF:-1,Radio 6.75
+http://nr5.newradio.it:8819/stream
+#EXTINF:-1,Radio America 1
+https://s6.yesstreaming.net:18003/ra1
+#EXTINF:-1,Radio America 2
+https://s6.yesstreaming.net:18003/ra2
+#EXTINF:-1,Radio Expres
+http://stream2.radioekspres.si:8016/stream?type=http&nocache=138
+#EXTINF:-1,Radio Gran Paradiso
+http://radiogranparadiso2.ice.infomaniak.ch/radiogranparadiso-64.aac
+#EXTINF:-1,Radio Swiss Jazz
+http://livestreaming-node-2.srg-ssr.ch/srgssr/rsj/aac/96
+#EXTINF:-1,Radio Swiss Pop
+http://livestreaming-node-4.srg-ssr.ch/srgssr/rsp/mp3/128
+#EXTINF:-1,RSI Rete Due
+http://livestreaming-node-3.srg-ssr.ch/srgssr/retedue/mp3/128
+#EXTINF:-1,RSI Rete Tre
+http://livestreaming-node-2.srg-ssr.ch/srgssr/retetre/mp3/128
+#EXTINF:-1,RSI Rete Uno
+http://livestreaming-node-1.srg-ssr.ch/srgssr/reteuno/mp3/128
+#EXTINF:-1,RTHK radio 2
+https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/master.m3u8
+#EXTINF:-1,RTS Couleur 3
+http://livestreaming-node-4.srg-ssr.ch/srgssr/couleur3/mp3/128
+#EXTINF:-1,RTS Espace 2
+http://livestreaming-node-3.srg-ssr.ch/srgssr/espace-2/aac/96
+#EXTINF:-1,RTS La Première
+http://livestreaming-node-2.srg-ssr.ch/srgssr/la-1ere/mp3/128
+#EXTINF:-1,RX Radio
+https://c14.radioboss.fm:18223/stream?1615807421100=
+#EXTINF:-1,Sirasa FM
+http://live.trusl.com:1170/
+#EXTINF:-1,Sitha FM
+http://shaincast.caster.fm:48148/listen.mp3
+#EXTINF:-1,SRF 1
+http://livestreaming-node-2.srg-ssr.ch/srgssr/srf1/mp3/128
+#EXTINF:-1,SRF 3
+http://livestreaming-node-2.srg-ssr.ch/srgssr/srf3/mp3/128
+#EXTINF:-1,SRF 4 News
+http://livestreaming-node-1.srg-ssr.ch/srgssr/srf4news/mp3/128
+#EXTINF:-1,Synergy FM 91.6
+https://live.itech.host:3880/stream
+#EXTINF:-1,Ujyaalo 90 Network
+http://stream-286.surfernetwork.com/wtuvp08xq1duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3dHV2cDA4eHExZHV2IiwiaG9zdCI6InN0cmVhbS0yODYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkhkaElUcU9jVHVpMGt3ZXdwbU5HU3ciLCJpYXQiOjE3OTI1MzUxNDYsImV4cCI6MTc5MjUzNTIwNn0.Hq4E9slyIe2IYf5AGEl4aEpaRFb7wEI1VtDotblpM3A
+#EXTINF:-1,WSFM 101.7 Sydney
+https://27263.live.streamtheworld.com/ARN_WSFMAAC/HLS/playlist.m3u8
+#EXTINF:-1,Y FM
+http://live.trusl.com:1180/
+#EXTINF:-1,Young Radio
+http://178.32.138.88:8050/stream.mp3
+#EXTINF:-1,ZBS Zodiak FM
+https://ice31.securenetsystems.net/0079
+#EXTINF:-1,中廣鄉親網
+http://stream.rcs.revma.com/k6q5h6yy2tzuv
+#EXTINF:-1,临汾音乐广播
+http://live.xmcdn.com/live/2516/64.m3u8
+#EXTINF:-1,南宁交通音乐广播
+http://live.xmcdn.com/live/306/64.m3u8?aac
+#EXTINF:-1,南宁汽车故事广播
+http://live.xmcdn.com/live/1321/64.m3u8?aac
+#EXTINF:-1,哈尔滨文艺广播
+https://stream.hrbtv.net/wypl/playlist.m3u8
+#EXTINF:-1,德州文艺广播
+http://live.xmcdn.com/live/2555/64.m3u8
+#EXTINF:-1,新疆故事广播
+https://live.xmcdn.com/live/992/64.m3u8
+#EXTINF:-1,新疆维语文艺广播
+http://satellitepull.cnr.cn/live/wxxjwyjtwygb/playlist.m3u8
+#EXTINF:-1,杭州西湖之声
+http://live.xmcdn.com/live/635/64.m3u8
+#EXTINF:-1,江苏文艺广播
+http://satellitepull.cnr.cn/live/wx32jswygb/playlist.m3u8
+#EXTINF:-1,江苏金陵之声
+http://lzlive.vojs.cn/Hd2hIgM/92/live.m3u8?
+#EXTINF:-1,河南戏曲广播
+https://stream.hndt.com/live/yule/playlist.m3u8
+#EXTINF:-1,浙江民生资讯广播
+http://ali-m-l.cztv.com/channels/lantian/fm996/128k.m3u8
+#EXTINF:-1,海城交通娱乐广播
+https://live.xmcdn.com/live/357/64.m3u8
+#EXTINF:-1,湖南卫视伴音
+http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+#EXTINF:-1,滨州交通音乐广播
+https://live.xmcdn.com/live/840/64.m3u8
+#EXTINF:-1,牡丹江交通广播
+http://live.xmcdn.com/live/1559/64.m3u8
+#EXTINF:-1,福建都市生活广播
+http://satellitepull.cnr.cn/live/wx32fjdndsgb/playlist.m3u8
+#EXTINF:-1,秦皇岛旅游经济广播
+https://live.xmcdn.com/live/1122/64.m3u8
+#EXTINF:-1,绵阳交通音乐广播
+https://live.xmcdn.com/live/766/64.m3u8
+#EXTINF:-1,羊城交通广播·广东交通之声
+http://satellitepull.cnr.cn/live/wxgdycjtt/playlist.m3u8
+#EXTINF:-1,舟山经济广播
+https://live.xmcdn.com/live/684/64.m3u8
+#EXTINF:-1,贵州都市广播
+http://satellitepull.cnr.cn/live/wx32gzqcgb/playlist.m3u8
+#EXTINF:-1,通化交通文艺广播
+http://stream4.jlntv.cn/aac_thsh/playlist.m3u8
+#EXTINF:-1,重庆文艺广播
+http://satellitepull.cnr.cn/live/wxcqwygb/playlist.m3u8
+#EXTINF:-1,银川交通音乐广播
+https://live.xmcdn.com/live/1072/64.m3u8
+#EXTINF:-1,镇江经济广播
+https://live.xmcdn.com/live/593/64.m3u8
+#EXTINF:-1,陕西秦腔广播
+https://live.xmcdn.com/live/871/64.m3u8
+#EXTINF:-1,驻马店交通广播
+http://live.xmcdn.com/live/2757/64.m3u8

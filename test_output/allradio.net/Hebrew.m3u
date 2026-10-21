@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1,BRN Radio - Hebrew Channel
+http://192.241.185.108:8050/stream
+#EXTINF:-1,ECO99FM
+http://eco01.livecdn.biz/ecolive/99fm_aac/icecast.audio
+#EXTINF:-1,Galei Zahal
+http://glzwizzlv.bynetcdn.com/glz_mp3
+#EXTINF:-1,Galgalatz 91.8 FM
+https://glzicylv01.bynetcdn.com/glglz_mp3
+#EXTINF:-1,Hafla Ahusarmuta
+http://gb25.streamgates.net/radios-audio/91fm_digital_Hafla/icecast.audio
+#EXTINF:-1,Jewish Music Stream
+https://stream.jewishmusicstream.com:8000/
+#EXTINF:-1,Radio Agape Israel
+https://s3.radio.co/s43b65d791/listen
+#EXTINF:-1,אקו eco 99fm
+https://eco01.livecdn.biz/ecolive/99fm_aac/icecast.audio?hash=1559501510715.m4a
+#EXTINF:-1,גלגלצ - Glglz
+http://glzwizzlv.bynetcdn.com/glglz_mp3
+#EXTINF:-1,הקצה - Hakatze
+http://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio
+#EXTINF:-1,נושמים מזרחית - Noshmim Mizrahit
+https://rs.mizrahit.fm/
+#EXTINF:-1,קבלה לעם עברית - Kabbalah heb
+https://icecast.kab.tv/live1-heb-574bcfd5.mp3
+#EXTINF:-1,קול חי - Kol Chai
+https://live.kcm.fm/live-new
+#EXTINF:-1,קול חי מיוזיק - Kol Chai Music
+https://live.kcm.fm/livemusic
+#EXTINF:-1,תל אביב Tel Aviv 102FM
+https://cdn88.mediacast.co.il/102-tlv-live/102fm_aac/icecast.audio

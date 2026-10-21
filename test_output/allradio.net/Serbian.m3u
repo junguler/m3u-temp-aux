@@ -1,0 +1,95 @@
+#EXTM3U
+#EXTINF:-1,Ami Naxi Radio Kikinda
+http://185.119.88.88:8005/
+#EXTINF:-1,Antena Krusevac
+http://antenaradio.org:4560/stream.nsv
+#EXTINF:-1,Batiskaf Radio
+https://srv.mediastriming.com/8008/stream
+#EXTINF:-1,Bravo FM
+http://streaming.orion.rs:8030/
+#EXTINF:-1,Deluxe Radio
+http://cmr-hosting.com:8408/*.mp3
+#EXTINF:-1,Egata Radio
+http://stream-179.surfernetwork.com/kcn3b5gfuhruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrY24zYjVnZnVocnV2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImtZcS1LcVZOVC1PYldkUTFFZ2hNVFEiLCJpYXQiOjE3OTI1MzI0MzksImV4cCI6MTc5MjUzMjQ5OX0.JQsaQrzAfiAt4Xf1dUNcoDIYHypxU5P37l-fBAqMjgg
+#EXTINF:-1,Fan Radio Bajina Basta
+http://stream.fanradio.info:9000/stream.nsv
+#EXTINF:-1,Focus Radio
+https://streamer.radio.co/s34d2c17d8/listen
+#EXTINF:-1,iFM Narodni Radio
+http://91.228.254.72:7000/stream.nsv
+#EXTINF:-1,iFM Radio
+http://91.228.254.72:8000/stream.nsv
+#EXTINF:-1,Moj Radio
+https://www.mojradio.net/
+#EXTINF:-1,Muzički Radio Fan
+http://stream.fanradio.info:9000/listen.pls
+#EXTINF:-1,Radio Blue Sky
+http://82.114.72.2:8098/stream.nsv
+#EXTINF:-1,Radio Delta
+https://centova.dukahosting.com:2199/tunein/delta.pls
+#EXTINF:-1,radio gaga
+http://stream1.srvnetplus.com:8074/stream
+#EXTINF:-1,Radio K4
+http://fm.radiokfor.com:8090/stream.nsv
+#EXTINF:-1,Radio Kanal 6
+https://stream-284.surfernetwork.com/qqx4q8pdfwzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxcXg0cThwZGZ3enV2IiwiaG9zdCI6InN0cmVhbS0yODQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkxBQjYwbWtyUXJxUkw4U3N6MmV5ZGciLCJpYXQiOjE3OTI1MzU2ODIsImV4cCI6MTc5MjUzNTc0Mn0.uoyXuU6M3Kogi9S0ytNatfQHJsyrG4LqLm7we48ckBE
+#EXTINF:-1,Radio Kanal 6 - Chill Out
+http://stream-284.surfernetwork.com/qqx4q8pdfwzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxcXg0cThwZGZ3enV2IiwiaG9zdCI6InN0cmVhbS0yODQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkotWnVfamxEUVh5SUlBZkg0NWl3T3ciLCJpYXQiOjE3OTI1MzU2ODIsImV4cCI6MTc5MjUzNTc0Mn0.3IWuCPOHVBIpbIAHTwW_k-Y1UfV7ftXSfh0t3JHxqkk&rj-ttl=5&rj-tok=AAABcjX9oLIANNDdFLkpsKmn4g
+#EXTINF:-1,Radio Kanal 6 - Rock and Roll
+http://stream-287.surfernetwork.com/gku3bymq6tzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJna3UzYnltcTZ0enV2IiwiaG9zdCI6InN0cmVhbS0yODcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ik8zU2NxUmFSUUFTRDB0RHV1TjgtNlEiLCJpYXQiOjE3OTI1MzU2ODIsImV4cCI6MTc5MjUzNTc0Mn0.yv7JlGqVOQLz6c68FSWnEfQNtIwCsSav4tLRo1LhJsw&rj-ttl=5&rj-tok=AAABcjYA_bMAgAziQNglcHCmFg
+#EXTINF:-1,Radio Kosova 2
+http://82.114.72.2:8098/
+#EXTINF:-1,Radio Levač
+http://213.239.205.210:8046/
+#EXTINF:-1,Radio Šajkaška
+http://91.228.254.72:8000/listen.pls
+#EXTINF:-1,Radio Sljivovica
+http://stream.iradio.pro:8114/stream.nsv
+#EXTINF:-1,Radio Slovo Ljubve
+http://160.153.245.85:8000/stream/1/*.mp3
+#EXTINF:-1,Radio Stari Grad
+http://stream.rsg.rs:8043/stream.nsv
+#EXTINF:-1,Radio Studio B
+http://radio.studiob.rs:8004/
+#EXTINF:-1,Radio Sunset
+http://cmr-hosting.com:8425/stream
+#EXTINF:-1,Radio Svetigora
+http://svetigoralive.com:8879/
+#EXTINF:-1,Radio Tehnomanija
+http://188.40.95.74:8058/stream?nocache=1590044356
+#EXTINF:-1,Radio Zelengrad - Milwaukee - USA
+http://usa5.fastcast4u.com:16276/stream.nsv
+#EXTINF:-1,Red radio Beograd
+https://stream.redradio.rs/sid=1
+#EXTINF:-1,RSG Party time
+https://stream.rsg.rs/partytime/
+#EXTINF:-1,RSG Radio Stari Grad
+https://stream.rsg.rs/live/
+#EXTINF:-1,RSG Relax
+https://stream.rsg.rs/relax/
+#EXTINF:-1,Srce Krajine
+https://srv.mediastriming.com/8330/stream
+#EXTINF:-1,UnderGRAND Radio
+http://stream-286.surfernetwork.com/rp1swb5pgzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJycDFzd2I1cGd6enV2IiwiaG9zdCI6InN0cmVhbS0yODYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Il92OXBBc2VsU0U2aG4xOTUyYlVEd2ciLCJpYXQiOjE3OTI1Mzc0MzYsImV4cCI6MTc5MjUzNzQ5Nn0.LrO0wE_-RhH_ILrfleE8lgVLC0sQpZLOBSZyyj31UXA
+#EXTINF:-1,Vladix 2 Rock
+http://vladix.dukahosting.com:8022/stream.nsv
+#EXTINF:-1,Vladix 4 Rok
+http://vladix.dukahosting.com:8010/stream.nsv
+#EXTINF:-1,Vladix Radio
+http://vladix.dukahosting.com:8000/stream.nsv
+#EXTINF:-1,Радио Републике Српске
+https://parh.rtrs.tv/radio/live/chunklist_.m3u8
+#EXTINF:-1,РТС - Радио Београд - 2
+https://rtsradio-live.morescreens.com/RTS_2_002/audio/chunklist.m3u8
+#EXTINF:-1,РТС - Радио Београд - 202
+https://rtsradio-live.morescreens.com/RTS_2_004/audio/chunklist.m3u8
+#EXTINF:-1,РТС - Радио Београд - 3
+https://rtsradio-live.morescreens.com/RTS_2_003/audio/chunklist.m3u8
+#EXTINF:-1,РТС - Радио Београд - Вртешка
+https://rtsradio-live.morescreens.com/RTS_2_008/audio/chunklist.m3u8
+#EXTINF:-1,РТС - Радио Београд - Плетеница
+https://rtsradio-live.morescreens.com/RTS_2_005/audio/chunklist.m3u8
+#EXTINF:-1,РТС - Радио Београд - Рокенролер
+https://rtsradio-live.morescreens.com/RTS_2_006/audio/chunklist.m3u8
+#EXTINF:-1,РТС - Радио Београд - Џубокс
+https://rtsradio-live.morescreens.com/RTS_2_007/audio/chunklist.m3u8

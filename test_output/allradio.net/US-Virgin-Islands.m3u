@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,BRN Radio - Arabic Channel
+http://192.241.185.108:8094/stream
+#EXTINF:-1,BRN Radio - Hebrew Channel
+http://192.241.185.108:8050/stream
