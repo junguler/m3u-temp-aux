@@ -1,18 +1,15 @@
 name: test
 on:
-  # push
-  workflow_dispatch:
+  workflow_dispatch: # push:
 jobs:
   automated-scrape:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04 #ubuntu-latest
     steps:
       - name: checkout repository
         uses: actions/checkout@main
-
       - name: run commands
         run: |
           node ./m3u-checker.js test_input/ test_output/ --quiet
-
       - name: git stuff
         run: |
           git config --local user.email "action[bot]@github.com"
