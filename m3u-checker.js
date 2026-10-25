@@ -18,10 +18,11 @@
 //
 // Optional environment variables:
 //
-//   CONCURRENCY=100
+//   CONCURRENCY=100          (max simultaneous HTTP link checks)
+//   FILE_CONCURRENCY=5       (max playlists processed at the same time)
 //   LINK_TIMEOUT=8000
 //   MAX_REDIRECTS=3
-//   PROGRESS_INTERVAL=30000   (milliseconds between progress reports)
+//   PROGRESS_INTERVAL=30000  (milliseconds between progress reports)
 //
 // Runtime limit (hard-coded for GitHub Actions 6h job limit):
 //
@@ -30,14 +31,23 @@
 //   Fully-checked playlists are removed from the input folder so a
 //   subsequent run can resume with only the remaining files.
 //
+// Processing order:
+//
+//   Playlists are sorted by number of stream links (smallest first).
+//   Up to FILE_CONCURRENCY playlists run concurrently. When one finishes,
+//   the next-smallest unstarted playlist starts immediately. This keeps
+//   link-level concurrency saturated while still finishing small
+//   playlists first so they can be removed before the time limit.
+//
 // Example:
 //
-//   CONCURRENCY=150 LINK_TIMEOUT=8000 node m3u-checker.js
+//   CONCURRENCY=150 FILE_CONCURRENCY=5 LINK_TIMEOUT=8000 node m3u-checker.js
 
 const fs = require('fs/promises');
 const path = require('path');
 
 const concurrencyLimit = Number(process.env.CONCURRENCY || 50);
+const fileConcurrency = Number(process.env.FILE_CONCURRENCY || 5);
 const linkTimeout = Number(process.env.LINK_TIMEOUT || 8000);
 const maxRedirects = Number(process.env.MAX_REDIRECTS || 3);
 const progressInterval = Number(process.env.PROGRESS_INTERVAL || 60000);
@@ -105,10 +115,10 @@ function printProgress(final = false) {
       : '0.0';
   const rate = elapsedSeconds > 0 ? stats.checked / elapsedSeconds : 0;
 
-  // The ETA is only meaningful once every file has been parsed,
-  // because only then is the total link count final.
+  // Total link count is known up-front (pre-counted while sorting),
+  // so ETA is available as soon as we have a non-zero rate.
   let eta = 'estimating...';
-  if (stats.filesParsed >= stats.totalFiles && rate > 0) {
+  if (stats.totalLinks > 0 && rate > 0) {
     const remaining = stats.totalLinks - stats.checked;
     eta = remaining > 0 ? formatDuration((remaining / rate) * 1000) : '0s';
   }
@@ -600,7 +610,7 @@ async function processFile(
 
   // Register this file with the progress reporter.
   stats.filesParsed++;
-  stats.totalLinks += linksToProcess.length;
+  // Note: totalLinks is already set from the pre-count; we do not add again.
   stats.activeFiles.set(fileName, {
     total: linksToProcess.length,
     checked: 0,
@@ -798,14 +808,49 @@ async function main(inputDir, outputDir, quiet = false) {
     return;
   }
 
+  // Sort playlists by number of stream links (smallest first) and
+  // pre-compute the global totalLinks so ETA works immediately.
+  if (!quiet) {
+    console.log(
+      `Counting stream links in ${m3uFiles.length} files to prioritise smaller playlists...`,
+    );
+  }
+  const filesWithCounts = await Promise.all(
+    m3uFiles.map(async (fileName) => {
+      const fullPath = path.join(inputDir, fileName);
+      const content = await fs.readFile(fullPath, 'utf8');
+      const linkCount = parseM3UContent(content).length;
+      return { fileName, linkCount };
+    }),
+  );
+  filesWithCounts.sort(
+    (a, b) => a.linkCount - b.linkCount || a.fileName.localeCompare(b.fileName),
+  );
+  const sortedM3uFiles = filesWithCounts.map((f) => f.fileName);
+
+  // Set totalLinks once from the pre-count so progress/ETA is accurate
+  // from the very first report (no more "estimating...").
+  stats.totalLinks = filesWithCounts.reduce((sum, f) => sum + f.linkCount, 0);
+
+  if (!quiet) {
+    const smallest = filesWithCounts[0];
+    const largest = filesWithCounts[filesWithCounts.length - 1];
+    console.log(
+      `Sorted by size: smallest has ${smallest.linkCount} links (${smallest.fileName}), ` +
+        `largest has ${largest.linkCount} links (${largest.fileName}).`,
+    );
+  }
+
   console.log(
-    `Found ${m3uFiles.length} M3U files (recursive). ` +
-    `Global concurrency: ${concurrencyLimit}. ` +
-    `Timeout: ${linkTimeout}ms. ` +
-    `Max runtime: ${formatDuration(MAX_RUNTIME_MS)}.`,
+    `Found ${sortedM3uFiles.length} M3U files (recursive). ` +
+      `Link concurrency: ${concurrencyLimit}. ` +
+      `File concurrency: ${fileConcurrency}. ` +
+      `Timeout: ${linkTimeout}ms. ` +
+      `Max runtime: ${formatDuration(MAX_RUNTIME_MS)}. ` +
+      `Order: smallest → largest.`,
   );
 
-  stats.totalFiles = m3uFiles.length;
+  stats.totalFiles = sortedM3uFiles.length;
   stats.startTime = Date.now();
 
   // Periodic progress report (printed even in --quiet mode).
@@ -819,30 +864,50 @@ async function main(inputDir, outputDir, quiet = false) {
     timeUp = true;
     console.log(
       `\n[TIME LIMIT] Maximum runtime of ${formatDuration(MAX_RUNTIME_MS)} reached. ` +
-      `Stopping new link checks. Fully checked playlists have been removed from input.`,
+        `Stopping new link checks. Fully checked playlists have been removed from input.`,
     );
     printProgress(false);
   }, MAX_RUNTIME_MS);
 
-  // One global limiter is shared by every file.
+  // One global link-level limiter is shared by every file.
   const limiter = createLimiter(concurrencyLimit);
 
   try {
-    // Process files concurrently while keeping total HTTP concurrency capped.
-    await Promise.all(
-      m3uFiles.map((fileName) =>
-        processFile(
-          inputDir,
-          outputDir,
-          fileName,
-          quiet,
-          limiter,
-        ).finally(() => {
+    // Hybrid: keep up to `fileConcurrency` playlists in flight at once.
+    // Files are taken from the sorted list (smallest first). When one
+    // finishes, the next-smallest unstarted file is started immediately.
+    // This keeps the link-level concurrency saturated while still
+    // finishing small playlists preferentially.
+    let nextIndex = 0;
+    const workers = [];
+
+    async function fileWorker() {
+      while (true) {
+        if (timeUp) return;
+        const index = nextIndex++;
+        if (index >= sortedM3uFiles.length) return;
+
+        const fileName = sortedM3uFiles[index];
+        try {
+          await processFile(
+            inputDir,
+            outputDir,
+            fileName,
+            quiet,
+            limiter,
+          );
+        } finally {
           stats.filesDone++;
           stats.activeFiles.delete(fileName);
-        }),
-      ),
-    );
+        }
+      }
+    }
+
+    const workerCount = Math.min(fileConcurrency, sortedM3uFiles.length);
+    for (let i = 0; i < workerCount; i++) {
+      workers.push(fileWorker());
+    }
+    await Promise.all(workers);
   } finally {
     clearInterval(progressTimer);
     clearTimeout(timeUpTimer);
@@ -877,7 +942,8 @@ if (!quiet) {
   console.log('Starting M3U Link Checker...');
   console.log(`Input Directory: ${inputDirectory}`);
   console.log(`Output Directory: ${outputDirectory}`);
-  console.log(`Concurrency: ${concurrencyLimit}`);
+  console.log(`Link concurrency: ${concurrencyLimit}`);
+  console.log(`File concurrency: ${fileConcurrency}`);
   console.log(`Timeout: ${linkTimeout}ms`);
   console.log(`Progress interval: ${progressInterval}ms`);
   console.log(`Max runtime: ${formatDuration(MAX_RUNTIME_MS)}`);
