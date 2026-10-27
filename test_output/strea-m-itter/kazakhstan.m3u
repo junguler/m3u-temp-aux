@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/FN2UZS.png",Best FM - 100.5 FM
+http://nashe1.hostingradio.ru/best-128.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/CZMPC.png",Europa Plus Light
+https://emg02.hostingradio.ru/ep-light128.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/MQ69FI.png",Europa Plus New
+https://emg02.hostingradio.ru/ep-new128.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/7U6BCS.png",Europa Plus Top 40
+http://eptop128server.streamr.ru:8033/eptop128
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/67M2YZ.png",Kazakh radio
+https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/66UW4.png",Radio Bulbul
+https://radiobulbul.stream.laut.fm/radiobulbul?t302=2026-10-27_06-25-22&uuid=e896a1a3-0dea-a4b2-6b7b-5efe22992532
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/X5GJ9E.png",Radio Bulbul
+http://radiobulbul.stream.laut.fm/radiobulbul?t302=2026-10-27_06-25-22&uuid=d3621da5-8316-538d-5f3d-0a131ea25e39
